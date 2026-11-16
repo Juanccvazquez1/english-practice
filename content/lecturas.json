@@ -1,0 +1,4122 @@
+{
+ "source_note": "Public domain texts from Project Gutenberg and original texts written for this app.",
+ "collections": [
+  {
+   "id": "orig-a1",
+   "title": "The New Neighbor",
+   "author": "Original story",
+   "level": "A1",
+   "parts": [
+    {
+     "id": "orig-a1-1",
+     "title": "Part 1: A new neighbor",
+     "intro": "Mia sees a new person on her street.",
+     "paragraphs": [
+      "Mia is a young woman. She lives in a small flat on Green Street. The street is quiet and there is a big tree in front of her window. She works in a bookshop, and she likes her job.",
+      "Today is Saturday. Mia is at home. She hears a loud noise outside. A big truck is in front of the house next door.",
+      "A man gets out of the truck. He is tall and he has short black hair. A small brown dog is with him. The dog has a red ball in its mouth.",
+      "\"Hello!\" says Mia. \"Are you my new neighbor?\"",
+      "\"Yes, I am,\" says the man. \"My name is Leo. This is my dog, Max.\"",
+      "\"Nice to meet you, Leo,\" says Mia. \"Can I help you?\"",
+      "\"Yes, please! I have many boxes,\" says Leo. He smiles."
+     ],
+     "glossary": [
+      {
+       "en": "flat",
+       "def": "a home in a big building"
+      },
+      {
+       "en": "quiet",
+       "def": "with no loud noise"
+      },
+      {
+       "en": "bookshop",
+       "def": "a shop that sells books"
+      },
+      {
+       "en": "noise",
+       "def": "a sound, often a loud one"
+      },
+      {
+       "en": "truck",
+       "def": "a big car that carries things"
+      },
+      {
+       "en": "neighbor",
+       "def": "a person who lives near you"
+      },
+      {
+       "en": "box",
+       "def": "a square thing you put things in"
+      },
+      {
+       "en": "smile",
+       "def": "to show you are happy with your mouth"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-a1-1-q1",
+       "type": "choice",
+       "prompt": "Where does Mia live?",
+       "options": [
+        "In a small flat",
+        "In a big house",
+        "In a bookshop"
+       ],
+       "answer": 0,
+       "explain": "The text says: 'She lives in a small flat on Green Street.'"
+      },
+      {
+       "id": "orig-a1-1-q2",
+       "type": "choice",
+       "prompt": "What does Mia do?",
+       "options": [
+        "She is a teacher",
+        "She works in a bookshop",
+        "She drives a truck"
+       ],
+       "answer": 1,
+       "explain": "Mia works in a bookshop."
+      },
+      {
+       "id": "orig-a1-1-q3",
+       "type": "choice",
+       "prompt": "True or False: Max is a big white dog.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "Max is a small brown dog."
+      },
+      {
+       "id": "orig-a1-1-q4",
+       "type": "gap",
+       "prompt": "Leo has short black ___.",
+       "answers": [
+        "hair"
+       ],
+       "explain": "Leo is tall and he has short black hair."
+      },
+      {
+       "id": "orig-a1-1-q5",
+       "type": "translate",
+       "prompt": "Mi nuevo vecino se llama Leo.",
+       "answers": [
+        "My new neighbor is called Leo.",
+        "My new neighbor's name is Leo.",
+        "My new neighbour is called Leo.",
+        "My new neighbour's name is Leo.",
+        "My new neighbor is named Leo.",
+        "My new neighbour is named Leo."
+       ],
+       "explain": "'Name is' or 'is called' both say the name."
+      }
+     ]
+    },
+    {
+     "id": "orig-a1-2",
+     "title": "Part 2: Where is Max?",
+     "intro": "Leo has a problem on Sunday morning.",
+     "paragraphs": [
+      "It is Sunday morning. Mia is in her kitchen. She has a cup of tea and a piece of bread. Suddenly, someone knocks on the door.",
+      "It is Leo. He looks very sad and tired.",
+      "\"Mia, please help me!\" he says. \"Max is not at home. I can't find him!\"",
+      "\"Oh no!\" says Mia. \"Is the back door open?\"",
+      "\"Yes, it is,\" says Leo. \"I think Max is outside. He has no collar, and he doesn't know this street.\"",
+      "Mia puts her cup on the table. \"Don't worry,\" she says. \"There is a park near here. Dogs like parks. Let's look there.\"",
+      "Mia takes her coat and her phone. Leo takes Max's red ball. \"Max loves this ball,\" he says. \"Maybe he can smell it.\"",
+      "They walk down Green Street together."
+     ],
+     "glossary": [
+      {
+       "en": "knock",
+       "def": "to hit a door with your hand"
+      },
+      {
+       "en": "sad",
+       "def": "not happy"
+      },
+      {
+       "en": "tired",
+       "def": "you want to sleep"
+      },
+      {
+       "en": "outside",
+       "def": "not in a house or building"
+      },
+      {
+       "en": "collar",
+       "def": "a band that a dog wears on its neck"
+      },
+      {
+       "en": "worry",
+       "def": "to think about a problem and feel afraid"
+      },
+      {
+       "en": "park",
+       "def": "a green place in a town with trees"
+      },
+      {
+       "en": "smell",
+       "def": "to know something with your nose"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-a1-2-q1",
+       "type": "choice",
+       "prompt": "What does Mia have in her kitchen?",
+       "options": [
+        "Tea and bread",
+        "Coffee and a cake",
+        "Milk and an egg"
+       ],
+       "answer": 0,
+       "explain": "Mia has a cup of tea and a piece of bread."
+      },
+      {
+       "id": "orig-a1-2-q2",
+       "type": "choice",
+       "prompt": "True or False: Leo is happy when he comes to Mia's door.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "Leo looks very sad and tired."
+      },
+      {
+       "id": "orig-a1-2-q3",
+       "type": "choice",
+       "prompt": "Where do they go to look for Max?",
+       "options": [
+        "To the bookshop",
+        "To the park",
+        "To the truck"
+       ],
+       "answer": 1,
+       "explain": "Mia says there is a park near here. Dogs like parks."
+      },
+      {
+       "id": "orig-a1-2-q4",
+       "type": "gap",
+       "prompt": "Leo takes Max's red ___.",
+       "answers": [
+        "ball"
+       ],
+       "explain": "Leo takes the red ball because Max loves it."
+      },
+      {
+       "id": "orig-a1-2-q5",
+       "type": "translate",
+       "prompt": "No puedo encontrar a mi perro.",
+       "answers": [
+        "I can't find my dog.",
+        "I cannot find my dog.",
+        "I can not find my dog."
+       ],
+       "explain": "'Can't' is the short form of 'cannot'."
+      }
+     ]
+    },
+    {
+     "id": "orig-a1-3",
+     "title": "Part 3: Looking in the park",
+     "intro": "Mia and Leo look for Max in different places.",
+     "paragraphs": [
+      "The park is big and green. There are many trees, a small lake and a playground. Some children play on the swings. An old man sits on a bench and reads a newspaper.",
+      "\"Excuse me,\" says Leo. \"Do you see a small brown dog?\"",
+      "The old man shakes his head. \"No, I don't,\" he says. \"But I see a dog near the lake. It is white.\"",
+      "\"That is not Max,\" says Leo sadly.",
+      "Mia and Leo walk around the lake. They look under the trees. They look behind the bench. They call, \"Max! Max!\" but there is no dog.",
+      "Then Mia sees a woman with a small bag. She is outside the bakery next to the park.",
+      "\"Hello,\" says Mia. \"Is there a little brown dog here?\"",
+      "The woman smiles. \"Yes! A dog is behind the bakery. He is eating a piece of bread.\"",
+      "Leo runs to the bakery."
+     ],
+     "glossary": [
+      {
+       "en": "lake",
+       "def": "a big area of water with land around it"
+      },
+      {
+       "en": "playground",
+       "def": "a place where children play"
+      },
+      {
+       "en": "swing",
+       "def": "a seat that moves forward and back on ropes"
+      },
+      {
+       "en": "bench",
+       "def": "a long seat in a park"
+      },
+      {
+       "en": "newspaper",
+       "def": "big sheets of paper with the news"
+      },
+      {
+       "en": "shake",
+       "def": "to move quickly up and down or left and right"
+      },
+      {
+       "en": "bakery",
+       "def": "a shop that makes and sells bread"
+      },
+      {
+       "en": "behind",
+       "def": "at the back of something"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-a1-3-q1",
+       "type": "choice",
+       "prompt": "What is in the park?",
+       "options": [
+        "A lake and a playground",
+        "A bookshop and a bakery",
+        "A river and a school"
+       ],
+       "answer": 0,
+       "explain": "The park has many trees, a small lake and a playground."
+      },
+      {
+       "id": "orig-a1-3-q2",
+       "type": "choice",
+       "prompt": "True or False: The dog near the lake is Max.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "The old man says the dog near the lake is white. Max is brown."
+      },
+      {
+       "id": "orig-a1-3-q3",
+       "type": "choice",
+       "prompt": "Who tells Mia about the dog?",
+       "options": [
+        "The old man",
+        "A child",
+        "A woman outside the bakery"
+       ],
+       "answer": 2,
+       "explain": "A woman near the bakery says a dog is behind it."
+      },
+      {
+       "id": "orig-a1-3-q4",
+       "type": "gap",
+       "prompt": "The old man is reading a ___.",
+       "answers": [
+        "newspaper"
+       ],
+       "explain": "He sits on a bench and reads a newspaper."
+      },
+      {
+       "id": "orig-a1-3-q5",
+       "type": "translate",
+       "prompt": "Hay un perro detrás de la panadería.",
+       "answers": [
+        "There is a dog behind the bakery.",
+        "There's a dog behind the bakery.",
+        "A dog is behind the bakery."
+       ],
+       "explain": "Use 'There is' to say something exists in a place."
+      }
+     ]
+    },
+    {
+     "id": "orig-a1-4",
+     "title": "Part 4: A happy ending",
+     "intro": "Leo and Mia finish their morning together.",
+     "paragraphs": [
+      "Leo ran behind the bakery. Max was there! He was happy and he had a piece of bread in his mouth. His tail moved fast.",
+      "\"Max!\" said Leo. He sat on the ground and Max jumped into his arms. Leo laughed and his eyes were wet.",
+      "\"Thank you, Mia,\" he said. \"You are a very good neighbor.\"",
+      "\"You are welcome,\" said Mia. \"I was happy to help.\"",
+      "The baker came out of the shop. She gave Max some water. Then she gave Mia and Leo two warm rolls.",
+      "They sat on the bench in the park and ate. Max played with his red ball. The sun was warm.",
+      "\"Come to my flat for dinner tonight,\" said Leo. \"I can make pasta.\"",
+      "\"Yes, I would love that,\" said Mia. She smiled. It was a good start to a new friendship."
+     ],
+     "glossary": [
+      {
+       "en": "tail",
+       "def": "the long part at the back of a dog"
+      },
+      {
+       "en": "ground",
+       "def": "the floor outside, under your feet"
+      },
+      {
+       "en": "jump",
+       "def": "to push your body up into the air"
+      },
+      {
+       "en": "laugh",
+       "def": "to make a happy sound when something is funny"
+      },
+      {
+       "en": "wet",
+       "def": "with water on it"
+      },
+      {
+       "en": "roll",
+       "def": "a small round piece of bread"
+      },
+      {
+       "en": "dinner",
+       "def": "the big meal in the evening"
+      },
+      {
+       "en": "friendship",
+       "def": "the time when two people are friends"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-a1-4-q1",
+       "type": "choice",
+       "prompt": "Where was Max?",
+       "options": [
+        "In the park",
+        "Behind the bakery",
+        "In Leo's flat"
+       ],
+       "answer": 1,
+       "explain": "Leo ran behind the bakery and Max was there."
+      },
+      {
+       "id": "orig-a1-4-q2",
+       "type": "choice",
+       "prompt": "True or False: Max had a piece of bread in his mouth.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 0,
+       "explain": "Max was happy and had a piece of bread in his mouth."
+      },
+      {
+       "id": "orig-a1-4-q3",
+       "type": "choice",
+       "prompt": "What did the baker give Mia and Leo?",
+       "options": [
+        "Two warm rolls",
+        "Some water",
+        "A red ball"
+       ],
+       "answer": 0,
+       "explain": "The baker gave Max water, and gave Mia and Leo two warm rolls."
+      },
+      {
+       "id": "orig-a1-4-q4",
+       "type": "gap",
+       "prompt": "Leo said, \"Come to my flat for ___ tonight.\"",
+       "answers": [
+        "dinner"
+       ],
+       "explain": "Leo asks Mia to come for dinner."
+      },
+      {
+       "id": "orig-a1-4-q5",
+       "type": "translate",
+       "prompt": "Max estaba feliz.",
+       "answers": [
+        "Max was happy.",
+        "Max was glad."
+       ],
+       "explain": "'Was' is the past of 'is'."
+      }
+     ]
+    }
+   ],
+   "note": "Original text written for this app."
+  },
+  {
+   "id": "peter",
+   "title": "The Tale of Peter Rabbit",
+   "author": "Beatrix Potter",
+   "level": "A2",
+   "parts": [
+    {
+     "id": "peter-1",
+     "title": "Part 1: Mother Rabbit's warning",
+     "intro": "Mother Rabbit warns her four children not to go into Mr. McGregor's garden, but one of them does not obey.",
+     "paragraphs": [
+      "Once upon a time there were four little Rabbits, and their names were—",
+      "Flopsy, Mopsy, Cotton-tail, and Peter.",
+      "They lived with their Mother in a sand-bank, underneath the root of a very big fir-tree.",
+      "'Now my dears,' said old Mrs. Rabbit one morning, 'you may go into the fields or down the lane, but don't go into Mr. McGregor's garden: your Father had an accident there; he was put in a pie by Mrs. McGregor.'",
+      "'Now run along, and don't get into mischief. I am going out.'",
+      "Then old Mrs. Rabbit took a basket and her umbrella, and went through the wood to the baker's. She bought a loaf of brown bread and five currant buns.",
+      "Flopsy, Mopsy, and Cotton-tail, who were good little bunnies, went down the lane to gather blackberries:",
+      "But Peter, who was very naughty, ran straight away to Mr. McGregor's garden, and squeezed under the gate!",
+      "First he ate some lettuces and some French beans; and then he ate some radishes;",
+      "And then, feeling rather sick, he went to look for some parsley."
+     ],
+     "glossary": [
+      {
+       "en": "sand-bank",
+       "def": "a raised bank of sand, often at the edge of water"
+      },
+      {
+       "en": "fir-tree",
+       "def": "a tall evergreen tree with needle-like leaves"
+      },
+      {
+       "en": "mischief",
+       "def": "playful bad behaviour that causes small problems"
+      },
+      {
+       "en": "baker's",
+       "def": "a shop where bread and cakes are made and sold"
+      },
+      {
+       "en": "loaf",
+       "def": "a shaped piece of bread baked as one large piece"
+      },
+      {
+       "en": "currant buns",
+       "def": "small sweet bread rolls with dried currants inside"
+      },
+      {
+       "en": "gather",
+       "def": "to collect things from one place"
+      },
+      {
+       "en": "naughty",
+       "def": "behaving badly, often in a playful way (said about children)"
+      },
+      {
+       "en": "squeeze",
+       "def": "to push your way into a small, tight space"
+      },
+      {
+       "en": "lettuce",
+       "def": "a green leafy vegetable often eaten in salads"
+      }
+     ],
+     "items": [
+      {
+       "id": "peter-1-q1",
+       "type": "choice",
+       "prompt": "True or False: Mr. McGregor's garden was a safe place for the rabbits.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "Mother Rabbit says that Father Rabbit had an accident there: he ended up in a pie."
+      },
+      {
+       "id": "peter-1-q2",
+       "type": "choice",
+       "prompt": "Where did Flopsy, Mopsy and Cotton-tail go?",
+       "options": [
+        "To the baker's",
+        "To Mr. McGregor's garden",
+        "Down the lane to gather blackberries"
+       ],
+       "answer": 2,
+       "explain": "The three good little rabbits went along the path to pick blackberries."
+      },
+      {
+       "id": "peter-1-q3",
+       "type": "choice",
+       "prompt": "What did old Mrs. Rabbit buy at the baker's?",
+       "options": [
+        "A loaf of brown bread and five currant buns",
+        "Lettuces and French beans",
+        "Blackberries and milk"
+       ],
+       "answer": 0,
+       "explain": "She bought a brown loaf of bread and five currant buns."
+      },
+      {
+       "id": "peter-1-q4",
+       "type": "gap",
+       "prompt": "Flopsy, Mopsy and Cotton-tail were good little bunnies, but Peter was very ___.",
+       "answers": [
+        "naughty"
+       ],
+       "explain": "Peter was 'very naughty' (very mischievous)."
+      },
+      {
+       "id": "peter-1-q5",
+       "type": "translate",
+       "prompt": "Voy a salir.",
+       "answers": [
+        "I am going out.",
+        "I'm going out."
+       ],
+       "explain": "Mother Rabbit's words: 'I am going out.'"
+      }
+     ]
+    },
+    {
+     "id": "peter-2",
+     "title": "Part 2: Peter in the garden",
+     "intro": "Peter eats the vegetables in the garden, but Mr. McGregor finds him and starts a chase.",
+     "paragraphs": [
+      "But round the end of a cucumber frame, whom should he meet but Mr. McGregor!",
+      "Mr. McGregor was on his hands and knees planting out young cabbages, but he jumped up and ran after Peter, waving a rake and calling out, 'Stop thief!'",
+      "Peter was most dreadfully frightened; he rushed all over the garden, for he had forgotten the way back to the gate.",
+      "He lost one of his shoes among the cabbages, and the other shoe amongst the potatoes.",
+      "After losing them, he ran on four legs and went faster, so that I think he might have got away altogether if he had not unfortunately run into a gooseberry net, and got caught by the large buttons on his jacket. It was a blue jacket with brass buttons, quite new.",
+      "Peter gave himself up for lost, and shed big tears; but his sobs were overheard by some friendly sparrows, who flew to him in great excitement, and implored him to exert himself.",
+      "Mr. McGregor came up with a sieve, which he intended to pop upon the top of Peter; but Peter wriggled out just in time, leaving his jacket behind him.",
+      "And rushed into the tool-shed, and jumped into a can. It would have been a beautiful thing to hide in, if it had not had so much water in it."
+     ],
+     "glossary": [
+      {
+       "en": "French beans",
+       "def": "long thin green beans that are eaten as a vegetable"
+      },
+      {
+       "en": "radishes",
+       "def": "small round red vegetables with a sharp taste, eaten raw"
+      },
+      {
+       "en": "cucumber frame",
+       "def": "a glass box on the ground used to grow cucumbers"
+      },
+      {
+       "en": "rake",
+       "def": "a garden tool with teeth used to gather leaves and soil"
+      },
+      {
+       "en": "frightened",
+       "def": "feeling afraid of something"
+      },
+      {
+       "en": "gooseberry net",
+       "def": "a net used to protect gooseberry bushes from birds"
+      },
+      {
+       "en": "brass buttons",
+       "def": "buttons made of brass, a yellow metal"
+      },
+      {
+       "en": "sparrows",
+       "def": "small brown birds that are very common in towns"
+      },
+      {
+       "en": "sieve",
+       "def": "a kitchen tool with a mesh that separates small things from large ones"
+      },
+      {
+       "en": "wriggle",
+       "def": "to move the body from side to side with small, quick movements"
+      }
+     ],
+     "items": [
+      {
+       "id": "peter-2-q1",
+       "type": "choice",
+       "prompt": "True or False: Peter lost his shoes among the cabbages and the potatoes.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 0,
+       "explain": "He lost one shoe among the cabbages and the other among the potatoes."
+      },
+      {
+       "id": "peter-2-q2",
+       "type": "choice",
+       "prompt": "What did Mr. McGregor shout when he ran after Peter?",
+       "options": [
+        "Stop thief!",
+        "Come home!",
+        "Dinner time!"
+       ],
+       "answer": 0,
+       "explain": "He shouted 'Stop thief!' (Stop the thief!)."
+      },
+      {
+       "id": "peter-2-q3",
+       "type": "choice",
+       "prompt": "What caught Peter in the gooseberry net?",
+       "options": [
+        "His large buttons",
+        "His shoes",
+        "His tail"
+       ],
+       "answer": 0,
+       "explain": "The big buttons on his jacket got caught in the net."
+      },
+      {
+       "id": "peter-2-q4",
+       "type": "gap",
+       "prompt": "Mr. McGregor came with a sieve, but Peter wriggled out just in time and left his ___ behind.",
+       "answers": [
+        "jacket"
+       ],
+       "explain": "Peter got free and left his jacket ('jacket')."
+      },
+      {
+       "id": "peter-2-q5",
+       "type": "translate",
+       "prompt": "Peter estaba muy asustado.",
+       "answers": [
+        "Peter was very frightened.",
+        "Peter was very scared.",
+        "Peter was most dreadfully frightened.",
+        "Peter was terribly frightened.",
+        "Peter was really scared.",
+        "Peter was terribly scared.",
+        "Peter was really frightened."
+       ],
+       "explain": "Frightened/scared = asustado."
+      }
+     ]
+    },
+    {
+     "id": "peter-3",
+     "title": "Part 3: Lost among the plants",
+     "intro": "Peter hides, sneezes and escapes through a window, but he still cannot find the way out.",
+     "paragraphs": [
+      "Mr. McGregor was quite sure that Peter was somewhere in the tool-shed, perhaps hidden underneath a flower-pot. He began to turn them over carefully, looking under each.",
+      "Presently Peter sneezed—'Kertyschoo!' Mr. McGregor was after him in no time.",
+      "And tried to put his foot upon Peter, who jumped out of a window, upsetting three plants. The window was too small for Mr. McGregor, and he was tired of running after Peter. He went back to his work.",
+      "Peter sat down to rest; he was out of breath and trembling with fright, and he had not the least idea which way to go. Also he was very damp with sitting in that can.",
+      "After a time he began to wander about, going lippity—lippity—not very fast, and looking all round.",
+      "He found a door in a wall; but it was locked, and there was no room for a fat little rabbit to squeeze underneath.",
+      "An old mouse was running in and out over the stone doorstep, carrying peas and beans to her family in the wood. Peter asked her the way to the gate, but she had such a large pea in her mouth that she could not answer. She only shook her head at him. Peter began to cry.",
+      "Then he tried to find his way straight across the garden, but he became more and more puzzled. Presently, he came to a pond where Mr. McGregor filled his water-cans. A white cat was staring at some gold-fish, she sat very, very still, but now and then the tip of her tail twitched as if it were alive. Peter thought it best to go away without speaking to her; he had heard about cats from his cousin, little Benjamin Bunny."
+     ],
+     "glossary": [
+      {
+       "en": "flower-pot",
+       "def": "a container used to grow plants in"
+      },
+      {
+       "en": "sneeze",
+       "def": "to let air out suddenly through the nose and mouth"
+      },
+      {
+       "en": "upset",
+       "def": "to knock something over so it falls or spills"
+      },
+      {
+       "en": "out of breath",
+       "def": "breathing very fast after running or working hard"
+      },
+      {
+       "en": "trembling",
+       "def": "shaking slightly because of fear or cold"
+      },
+      {
+       "en": "damp",
+       "def": "slightly wet"
+      },
+      {
+       "en": "wander",
+       "def": "to walk around without a clear goal or direction"
+      },
+      {
+       "en": "doorstep",
+       "def": "the step in front of a door"
+      },
+      {
+       "en": "puzzled",
+       "def": "confused and not understanding something"
+      },
+      {
+       "en": "pond",
+       "def": "a small area of still water, smaller than a lake"
+      }
+     ],
+     "items": [
+      {
+       "id": "peter-3-q1",
+       "type": "choice",
+       "prompt": "What did Peter do that made Mr. McGregor find him?",
+       "options": [
+        "He sneezed",
+        "He shouted",
+        "He dropped a flower-pot"
+       ],
+       "answer": 0,
+       "explain": "Peter sneezed: 'Kertyschoo!'"
+      },
+      {
+       "id": "peter-3-q2",
+       "type": "choice",
+       "prompt": "True or False: The old mouse told Peter the way to the gate.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "He had a pea in his mouth and could not answer; he only moved his head."
+      },
+      {
+       "id": "peter-3-q3",
+       "type": "choice",
+       "prompt": "Why did Peter go away from the white cat without speaking to her?",
+       "options": [
+        "He had heard about cats from his cousin Benjamin Bunny",
+        "The cat was asleep",
+        "The cat was eating"
+       ],
+       "answer": 0,
+       "explain": "His cousin Benjamin had told him about cats."
+      },
+      {
+       "id": "peter-3-q4",
+       "type": "gap",
+       "prompt": "The window was too ___ for Mr. McGregor.",
+       "answers": [
+        "small"
+       ],
+       "explain": "The window was too small ('small') for Mr. McGregor."
+      },
+      {
+       "id": "peter-3-q5",
+       "type": "translate",
+       "prompt": "No tenía idea de qué camino tomar.",
+       "answers": [
+        "He had no idea which way to go.",
+        "He did not have any idea which way to go.",
+        "He didn't have any idea which way to go.",
+        "He had not the least idea which way to go.",
+        "He had no idea where to go."
+       ],
+       "explain": "'No idea' = no idea; 'which way to go' = which path to take."
+      }
+     ]
+    },
+    {
+     "id": "peter-4",
+     "title": "Part 4: The way home",
+     "intro": "Peter finally sees the door, escapes from the garden and gets home very tired.",
+     "paragraphs": [
+      "He went back towards the tool-shed, but suddenly, quite close to him, he heard the noise of a hoe—scr-r-ritch, scratch, scratch, scritch. Peter scuttered underneath the bushes. But presently, as nothing happened, he came out, and climbed upon a wheelbarrow and peeped over. The first thing he saw was Mr. McGregor hoeing onions. His back was turned towards Peter, and beyond him was the gate!",
+      "Peter got down very quietly off the wheelbarrow; and started running as fast as he could go, along a straight walk behind some black-currant bushes.",
+      "Mr. McGregor caught sight of him at the corner, but Peter did not care. He slipped underneath the gate, and was safe at last in the wood outside the garden.",
+      "Mr. McGregor hung up the little jacket and the shoes for a scare-crow to frighten the blackbirds.",
+      "Peter never stopped running or looked behind him till he got home to the big fir-tree.",
+      "He was so tired that he flopped down upon the nice soft sand on the floor of the rabbit-hole and shut his eyes. His mother was busy cooking; she wondered what he had done with his clothes. It was the second little jacket and pair of shoes that Peter had lost in a fortnight!",
+      "I am sorry to say that Peter was not very well during the evening.",
+      "His mother put him to bed, and made some camomile tea; and she gave a dose of it to Peter!",
+      "'One table-spoonful to be taken at bed-time.'",
+      "But Flopsy, Mopsy, and Cotton-tail had bread and milk and blackberries for supper."
+     ],
+     "glossary": [
+      {
+       "en": "hoe",
+       "def": "a garden tool for digging (also: to use the hoe)"
+      },
+      {
+       "en": "wheelbarrow",
+       "def": "a small cart with one wheel and two handles, used to carry things"
+      },
+      {
+       "en": "scuttered",
+       "def": "an old word meaning ran away quickly with small steps"
+      },
+      {
+       "en": "hoeing",
+       "def": "digging the soil with a hoe"
+      },
+      {
+       "en": "black-currant bushes",
+       "def": "small bushes that produce dark purple berries"
+      },
+      {
+       "en": "scare-crow",
+       "def": "a figure set up in a field to frighten birds away"
+      },
+      {
+       "en": "blackbirds",
+       "def": "common dark birds with yellow beaks"
+      },
+      {
+       "en": "flopped down",
+       "def": "sat or lay down suddenly because he was tired"
+      },
+      {
+       "en": "fortnight",
+       "def": "a period of two weeks"
+      },
+      {
+       "en": "camomile tea",
+       "def": "a hot drink made from camomile flowers, often to help you relax"
+      }
+     ],
+     "items": [
+      {
+       "id": "peter-4-q1",
+       "type": "choice",
+       "prompt": "True or False: Peter went home with his jacket and his shoes.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "He had lost them in the garden; Mr. McGregor hung them up for the scarecrow."
+      },
+      {
+       "id": "peter-4-q2",
+       "type": "choice",
+       "prompt": "What did Peter see when he climbed on the wheelbarrow?",
+       "options": [
+        "Mr. McGregor hoeing onions, with the gate beyond him",
+        "The white cat",
+        "His mother"
+       ],
+       "answer": 0,
+       "explain": "He saw Mr. McGregor with his back turned, and beyond him the door."
+      },
+      {
+       "id": "peter-4-q3",
+       "type": "choice",
+       "prompt": "What did Mr. McGregor do with the little jacket and shoes?",
+       "options": [
+        "He hung them up for a scare-crow",
+        "He sold them",
+        "He gave them to Mrs. McGregor"
+       ],
+       "answer": 0,
+       "explain": "He hung them up like a scarecrow to frighten the blackbirds."
+      },
+      {
+       "id": "peter-4-q4",
+       "type": "gap",
+       "prompt": "His mother made some camomile ___ and gave a dose of it to Peter.",
+       "answers": [
+        "tea"
+       ],
+       "explain": "Camomile tea = herbal tea made from camomile flowers."
+      },
+      {
+       "id": "peter-4-q5",
+       "type": "translate",
+       "prompt": "Peter no se sentía muy bien esa noche.",
+       "answers": [
+        "Peter was not very well during the evening.",
+        "Peter wasn't very well during the evening.",
+        "Peter was not very well that evening.",
+        "Peter wasn't very well that evening.",
+        "Peter didn't feel very well that evening.",
+        "Peter did not feel very well that evening.",
+        "Peter was not very well in the evening.",
+        "Peter wasn't very well in the evening."
+       ],
+       "explain": "Being 'not very well' = sentirse mal."
+      }
+     ]
+    }
+   ],
+   "note": "Public domain text from Project Gutenberg (gutenberg.org)."
+  },
+  {
+   "id": "aesop",
+   "title": "Aesop's Fables",
+   "author": "Esopo (trad. V. S. Vernon Jones)",
+   "level": "A2",
+   "parts": [
+    {
+     "id": "aesop-fox-grapes",
+     "title": "The Fox and the Grapes",
+     "intro": "A hungry fox wants some grapes that he cannot reach.",
+     "paragraphs": [
+      "A hungry Fox saw some fine bunches of Grapes hanging from a vine that was trained along a high trellis, and did his best to reach them by jumping as high as he could into the air. But it was all in vain, for they were just out of reach: so he gave up trying, and walked away with an air of dignity and unconcern, remarking, \"I thought those Grapes were ripe, but I see now they are quite sour.\""
+     ],
+     "moral": "",
+     "glossary": [
+      {
+       "en": "bunch",
+       "def": "a bunch of grapes"
+      },
+      {
+       "en": "vine",
+       "def": "a climbing plant that grows grapes"
+      },
+      {
+       "en": "trellis",
+       "def": "a frame of crossed wood or metal that supports climbing plants"
+      },
+      {
+       "en": "out of reach",
+       "def": "too far away to be reached"
+      },
+      {
+       "en": "in vain",
+       "def": "without success; with no result"
+      },
+      {
+       "en": "ripe",
+       "def": "fully grown and ready to eat"
+      },
+      {
+       "en": "sour",
+       "def": "having a sharp, unpleasant taste"
+      },
+      {
+       "en": "unconcern",
+       "def": "lack of interest or concern about something"
+      }
+     ],
+     "items": [
+      {
+       "id": "aesop-fox-grapes-q1",
+       "type": "choice",
+       "prompt": "What did the Fox want to eat?",
+       "options": [
+        "Grapes",
+        "Corn",
+        "Apples"
+       ],
+       "answer": 0,
+       "explain": "He wanted the grapes ('Grapes') from the vine."
+      },
+      {
+       "id": "aesop-fox-grapes-q2",
+       "type": "choice",
+       "prompt": "True or False: The Fox reached the Grapes.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "They were 'just out of reach': he could not reach them."
+      },
+      {
+       "id": "aesop-fox-grapes-q3",
+       "type": "gap",
+       "prompt": "The Fox said, \"I see now they are quite ___.\"",
+       "answers": [
+        "sour"
+       ],
+       "explain": "He said the grapes were sour ('sour')."
+      },
+      {
+       "id": "aesop-fox-grapes-q4",
+       "type": "choice",
+       "prompt": "What did the Fox do when he could not reach the Grapes?",
+       "options": [
+        "He gave up and said they were sour",
+        "He asked another animal for help",
+        "He cut the vine"
+       ],
+       "answer": 0,
+       "explain": "He gave up, went away and said the grapes were sour."
+      }
+     ]
+    },
+    {
+     "id": "aesop-golden-eggs",
+     "title": "The Goose That Laid the Golden Eggs",
+     "intro": "A couple has a wonderful goose, but they want to get rich faster.",
+     "paragraphs": [
+      "A Man and his Wife had the good fortune to possess a Goose which laid a Golden Egg every day. Lucky though they were, they soon began to think they were not getting rich fast enough, and, imagining the bird must be made of gold inside, they decided to kill it in order to secure the whole store of precious metal at once. But when they cut it open they found it was just like any other goose. Thus, they neither got rich all at once, as they had hoped, nor enjoyed any longer the daily addition to their wealth."
+     ],
+     "moral": "Much wants more and loses all.",
+     "glossary": [
+      {
+       "en": "goose",
+       "def": "a large bird like a duck, with a long neck"
+      },
+      {
+       "en": "laid (lay)",
+       "def": "laid eggs (said about birds)"
+      },
+      {
+       "en": "possess",
+       "def": "to own something"
+      },
+      {
+       "en": "good fortune",
+       "def": "a lucky event or good luck"
+      },
+      {
+       "en": "wealth",
+       "def": "a large amount of money or valuable things"
+      },
+      {
+       "en": "precious metal",
+       "def": "a rare, valuable metal such as gold or silver"
+      },
+      {
+       "en": "cut open",
+       "def": "to cut something open"
+      },
+      {
+       "en": "all at once",
+       "def": "suddenly, or all at the same time"
+      }
+     ],
+     "items": [
+      {
+       "id": "aesop-golden-eggs-q1",
+       "type": "choice",
+       "prompt": "True or False: The Goose laid a Golden Egg every day.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 0,
+       "explain": "She laid a golden egg every day."
+      },
+      {
+       "id": "aesop-golden-eggs-q2",
+       "type": "choice",
+       "prompt": "Why did the Man and his Wife kill the Goose?",
+       "options": [
+        "They thought it was made of gold inside",
+        "They were hungry",
+        "The Goose was sick"
+       ],
+       "answer": 0,
+       "explain": "They imagined that the bird was made of gold inside."
+      },
+      {
+       "id": "aesop-golden-eggs-q3",
+       "type": "gap",
+       "prompt": "When they cut it open, they found it was just like any other ___.",
+       "answers": [
+        "goose"
+       ],
+       "explain": "Inside, it was a normal goose."
+      },
+      {
+       "id": "aesop-golden-eggs-q4",
+       "type": "choice",
+       "prompt": "Moral: \"Much wants more and loses all.\" What does it mean?",
+       "options": [
+        "If you are too greedy, you can lose everything",
+        "Geese are very valuable",
+        "You must work every day"
+       ],
+       "answer": 0,
+       "explain": "Whoever wants more and more out of greed can lose everything."
+      }
+     ]
+    },
+    {
+     "id": "aesop-crab-mother",
+     "title": "The Crab and His Mother",
+     "intro": "A mother crab criticises the way her son walks.",
+     "paragraphs": [
+      "An Old Crab said to her son, \"Why do you walk sideways like that, my son? You ought to walk straight.\" The Young Crab replied, \"Show me how, dear mother, and I'll follow your example.\" The Old Crab tried, but tried in vain, and then saw how foolish she had been to find fault with her child."
+     ],
+     "moral": "Example is better than precept.",
+     "glossary": [
+      {
+       "en": "crab",
+       "def": "a sea animal with a hard shell and claws"
+      },
+      {
+       "en": "sideways",
+       "def": "moving or facing to one side rather than forward"
+      },
+      {
+       "en": "ought to",
+       "def": "should; it is the right thing to do"
+      },
+      {
+       "en": "reply",
+       "def": "to answer someone"
+      },
+      {
+       "en": "example",
+       "def": "a thing that shows how something should be done"
+      },
+      {
+       "en": "in vain",
+       "def": "without success; with no result"
+      },
+      {
+       "en": "find fault with",
+       "def": "to criticise someone for small faults"
+      },
+      {
+       "en": "foolish",
+       "def": "not sensible; silly"
+      },
+      {
+       "en": "precept",
+       "def": "a rule or piece of advice about how to behave"
+      }
+     ],
+     "items": [
+      {
+       "id": "aesop-crab-mother-q1",
+       "type": "choice",
+       "prompt": "What did the Old Crab want her son to do?",
+       "options": [
+        "Walk straight",
+        "Walk faster",
+        "Stay at home"
+       ],
+       "answer": 0,
+       "explain": "Le dijo: 'You ought to walk straight.'"
+      },
+      {
+       "id": "aesop-crab-mother-q2",
+       "type": "choice",
+       "prompt": "True or False: The Old Crab could walk straight easily.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "She tried, but she 'tried in vain' (without success)."
+      },
+      {
+       "id": "aesop-crab-mother-q3",
+       "type": "gap",
+       "prompt": "\"Show me how, dear mother, and I'll ___ your example.\"",
+       "answers": [
+        "follow"
+       ],
+       "explain": "Follow an example = follow someone's example."
+      },
+      {
+       "id": "aesop-crab-mother-q4",
+       "type": "choice",
+       "prompt": "Moral: \"Example is better than precept.\" What does it mean?",
+       "options": [
+        "Showing how to do something teaches more than giving orders",
+        "Children never listen",
+        "Crabs cannot walk straight"
+       ],
+       "answer": 0,
+       "explain": "An example teaches more than instructions do."
+      }
+     ]
+    },
+    {
+     "id": "aesop-boy-bathing",
+     "title": "The Boy Bathing",
+     "intro": "A boy goes into a river and finds himself in danger.",
+     "paragraphs": [
+      "A Boy was bathing in a river and got out of his depth, and was in great danger of being drowned. A man who was passing along a road heard his cries for help, and went to the riverside and began to scold him for being so careless as to get into deep water, but made no attempt to help him. \"Oh, sir,\" cried the Boy, \"please help me first and scold me afterwards.\""
+     ],
+     "moral": "Give assistance, not advice, in a crisis.",
+     "glossary": [
+      {
+       "en": "bathe",
+       "def": "to swim or wash in water, usually for pleasure"
+      },
+      {
+       "en": "out of his depth",
+       "def": "in water too deep to stand in, or in a situation that is too difficult"
+      },
+      {
+       "en": "drowned",
+       "def": "died under water because they could not breathe"
+      },
+      {
+       "en": "cries for help",
+       "def": "loud calls asking for help"
+      },
+      {
+       "en": "riverside",
+       "def": "the land next to a river"
+      },
+      {
+       "en": "scold",
+       "def": "to tell someone off in an angry way for doing something wrong"
+      },
+      {
+       "en": "careless",
+       "def": "not paying enough attention to what you do"
+      },
+      {
+       "en": "attempt",
+       "def": "an effort to do something"
+      }
+     ],
+     "items": [
+      {
+       "id": "aesop-boy-bathing-q1",
+       "type": "choice",
+       "prompt": "What was the Boy doing?",
+       "options": [
+        "Bathing in a river",
+        "Fishing",
+        "Crossing a bridge"
+       ],
+       "answer": 0,
+       "explain": "He was bathing in a river."
+      },
+      {
+       "id": "aesop-boy-bathing-q2",
+       "type": "choice",
+       "prompt": "True or False: The man helped the Boy first.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "The man told him off and 'made no attempt to help him'."
+      },
+      {
+       "id": "aesop-boy-bathing-q3",
+       "type": "gap",
+       "prompt": "\"Please help me first and ___ me afterwards.\"",
+       "answers": [
+        "scold"
+       ],
+       "explain": "Scold = tell someone off."
+      },
+      {
+       "id": "aesop-boy-bathing-q4",
+       "type": "choice",
+       "prompt": "Moral: \"Give assistance, not advice, in a crisis.\" What does it mean?",
+       "options": [
+        "In an emergency, help first instead of giving advice",
+        "Never go into a river",
+        "Always scold careless people"
+       ],
+       "answer": 0,
+       "explain": "In an emergency you must help, not give lectures."
+      }
+     ]
+    },
+    {
+     "id": "aesop-hare-tortoise",
+     "title": "The Hare and the Tortoise",
+     "intro": "A proud hare and a slow tortoise have a race.",
+     "paragraphs": [
+      "A Hare was one day making fun of a Tortoise for being so slow upon his feet. \"Wait a bit,\" said the Tortoise; \"I'll run a race with you, and I'll wager that I win.\" \"Oh, well,\" replied the Hare, who was much amused at the idea, \"let's try and see\"; and it was soon agreed that the fox should set a course for them, and be the judge. When the time came both started off together, but the Hare was soon so far ahead that he thought he might as well have a rest: so down he lay and fell fast asleep. Meanwhile the Tortoise kept plodding on, and in time reached the goal. At last the Hare woke up with a start, and dashed on at his fastest, but only to find that the Tortoise had already won the race."
+     ],
+     "moral": "Slow and steady wins the race.",
+     "glossary": [
+      {
+       "en": "hare",
+       "def": "a fast animal like a large rabbit, with long ears and long legs"
+      },
+      {
+       "en": "tortoise",
+       "def": "a slow animal with a hard shell that lives on land"
+      },
+      {
+       "en": "make fun of",
+       "def": "to laugh at someone in an unkind way"
+      },
+      {
+       "en": "wager",
+       "def": "to bet money on the result of something"
+      },
+      {
+       "en": "judge",
+       "def": "a person who decides who wins a race or a court case"
+      },
+      {
+       "en": "goal",
+       "def": "the place or point you are trying to reach"
+      },
+      {
+       "en": "plod on",
+       "def": "to keep moving slowly but steadily"
+      },
+      {
+       "en": "fall fast asleep",
+       "def": "to fall asleep quickly and deeply"
+      }
+     ],
+     "items": [
+      {
+       "id": "aesop-hare-tortoise-q1",
+       "type": "choice",
+       "prompt": "Why did the Hare make fun of the Tortoise?",
+       "options": [
+        "He was so slow",
+        "He was very small",
+        "He was afraid"
+       ],
+       "answer": 0,
+       "explain": "He made fun of the tortoise because it was very slow."
+      },
+      {
+       "id": "aesop-hare-tortoise-q2",
+       "type": "choice",
+       "prompt": "True or False: The Hare won the race.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "The tortoise reached the finish line first."
+      },
+      {
+       "id": "aesop-hare-tortoise-q3",
+       "type": "gap",
+       "prompt": "The Hare lay down and fell fast ___.",
+       "answers": [
+        "asleep"
+       ],
+       "explain": "Fall asleep = quedarse dormido."
+      },
+      {
+       "id": "aesop-hare-tortoise-q4",
+       "type": "choice",
+       "prompt": "Moral: \"Slow and steady wins the race.\" What does it mean?",
+       "options": [
+        "Going slowly but without stopping can bring success",
+        "You must always run fast",
+        "Hares are bad runners"
+       ],
+       "answer": 0,
+       "explain": "Steady effort is worth more than speed with breaks."
+      }
+     ]
+    },
+    {
+     "id": "aesop-dog-shadow",
+     "title": "The Dog and the Shadow",
+     "intro": "A dog with a piece of meat crosses a bridge and sees something in the water.",
+     "paragraphs": [
+      "A Dog was crossing a plank bridge over a stream with a piece of meat in his mouth, when he happened to see his own reflection in the water. He thought it was another dog with a piece of meat twice as big; so he let go his own, and flew at the other dog to get the larger piece. But, of course, all that happened was that he got neither; for one was only a shadow, and the other was carried away by the current."
+     ],
+     "moral": "",
+     "glossary": [
+      {
+       "en": "plank",
+       "def": "a long, flat piece of wood"
+      },
+      {
+       "en": "stream",
+       "def": "a small, narrow river"
+      },
+      {
+       "en": "reflection",
+       "def": "the image of something seen in water or a mirror"
+      },
+      {
+       "en": "twice as big",
+       "def": "two times bigger than normal"
+      },
+      {
+       "en": "let go",
+       "def": "to stop holding something and release it"
+      },
+      {
+       "en": "shadow",
+       "def": "a dark shape made when something blocks the light"
+      },
+      {
+       "en": "current",
+       "def": "the movement of water in a river or the sea"
+      },
+      {
+       "en": "carried away",
+       "def": "moved along by a strong force, such as water"
+      }
+     ],
+     "items": [
+      {
+       "id": "aesop-dog-shadow-q1",
+       "type": "choice",
+       "prompt": "Where was the Dog?",
+       "options": [
+        "On a plank bridge over a stream",
+        "In a kitchen",
+        "In a field"
+       ],
+       "answer": 0,
+       "explain": "He was crossing a plank bridge over a stream."
+      },
+      {
+       "id": "aesop-dog-shadow-q2",
+       "type": "choice",
+       "prompt": "What did the Dog see in the water?",
+       "options": [
+        "His own reflection",
+        "A fish",
+        "A bigger bone"
+       ],
+       "answer": 0,
+       "explain": "He saw his own reflection, but he thought it was another dog."
+      },
+      {
+       "id": "aesop-dog-shadow-q3",
+       "type": "gap",
+       "prompt": "In the end, the Dog got ___ of the two pieces of meat.",
+       "answers": [
+        "neither"
+       ],
+       "explain": "'He got neither': he did not get either one."
+      },
+      {
+       "id": "aesop-dog-shadow-q4",
+       "type": "choice",
+       "prompt": "Why did the Dog lose his meat?",
+       "options": [
+        "He let it go to get a bigger piece that was only a reflection",
+        "Another dog took it",
+        "He dropped it on the bridge by accident"
+       ],
+       "answer": 0,
+       "explain": "He let go of his meat to chase a reflection; the current carried it away."
+      }
+     ]
+    }
+   ],
+   "note": "Public domain text from Project Gutenberg (gutenberg.org)."
+  },
+  {
+   "id": "orig-a2",
+   "title": "The Blue Suitcase",
+   "author": "Original story",
+   "level": "A2",
+   "parts": [
+    {
+     "id": "orig-a2-1",
+     "title": "Part 1: The wrong suitcase",
+     "intro": "Lena arrives in a small town by the sea for a short holiday.",
+     "paragraphs": [
+      "Lena got off the train in Marbella Bay at four o'clock. The town was small and quiet, and the sea was bluer than in her photos. She was very happy. She had a week of holiday, and she was going to swim, read and do nothing.",
+      "At the station, a lot of people were waiting for their bags. Lena saw her suitcase at once. It was blue, and it had a yellow ribbon on the handle. She took it and walked to the hotel.",
+      "The Hotel Mar was old but friendly. Mr. Costa, the owner, gave her the key to Room 12. \"Breakfast is at eight,\" he said. \"The room is on the second floor. You can take the stairs, because the lift is broken.\"",
+      "Lena carried the heavy suitcase up the stairs. It was heavier than usual, but she did not think about it. In her room, she put the suitcase on the bed and opened it.",
+      "She looked inside and stopped. There were no summer clothes. There was no hat and no book. There was an old brown coat, a small metal box, and a yellow notebook.",
+      "\"This is not my suitcase!\" she said. She looked at the ribbon again. It was the same colour, but it was a different ribbon. It was longer and dirtier than hers.",
+      "Lena sat down on the bed. \"What am I going to do now?\" she thought."
+     ],
+     "glossary": [
+      {
+       "en": "suitcase",
+       "def": "a large bag you use to carry clothes when you travel"
+      },
+      {
+       "en": "ribbon",
+       "def": "a long, thin piece of cloth used to decorate things"
+      },
+      {
+       "en": "handle",
+       "def": "the part of a bag that you hold in your hand"
+      },
+      {
+       "en": "owner",
+       "def": "the person who has a business or a place"
+      },
+      {
+       "en": "lift",
+       "def": "a machine that takes you up and down in a building"
+      },
+      {
+       "en": "stairs",
+       "def": "steps that go from one floor of a building to another"
+      },
+      {
+       "en": "heavy",
+       "def": "weighing a lot; not easy to carry"
+      },
+      {
+       "en": "notebook",
+       "def": "a small book with empty pages for writing"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-a2-1-q1",
+       "type": "choice",
+       "prompt": "What was special about Lena's suitcase?",
+       "options": [
+        "It was red with a hat on it",
+        "It was blue with a yellow ribbon",
+        "It was brown with a metal box"
+       ],
+       "answer": 1,
+       "explain": "The text says her suitcase was blue and had a yellow ribbon on the handle."
+      },
+      {
+       "id": "orig-a2-1-q2",
+       "type": "choice",
+       "prompt": "Why did Lena carry her suitcase up the stairs?",
+       "options": [
+        "Because the lift was broken",
+        "Because she liked exercise",
+        "Because the room was on the first floor"
+       ],
+       "answer": 0,
+       "explain": "Mr. Costa said she could take the stairs because the lift was broken."
+      },
+      {
+       "id": "orig-a2-1-q3",
+       "type": "choice",
+       "prompt": "What was inside the suitcase?",
+       "options": [
+        "Summer clothes and a book",
+        "A hat and a camera",
+        "An old coat, a metal box and a notebook"
+       ],
+       "answer": 2,
+       "explain": "Lena found an old brown coat, a small metal box and a yellow notebook."
+      },
+      {
+       "id": "orig-a2-1-q4",
+       "type": "choice",
+       "prompt": "True or False: The ribbon on the suitcase was shorter than Lena's ribbon.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "The ribbon was longer and dirtier than hers, not shorter."
+      },
+      {
+       "id": "orig-a2-1-q5",
+       "type": "gap",
+       "prompt": "The suitcase was ___ than usual, but Lena did not think about it.",
+       "answers": [
+        "heavier"
+       ],
+       "explain": "We use 'heavier' to compare: heavy becomes heavier."
+      },
+      {
+       "id": "orig-a2-1-q6",
+       "type": "translate",
+       "prompt": "Ella iba a nadar y a leer durante la semana.",
+       "answers": [
+        "She was going to swim and read during the week.",
+        "She was going to swim and read for the week.",
+        "She was going to swim and read all week.",
+        "She was going to swim and to read during the week."
+       ],
+       "explain": "We use 'was going to' for plans in the past."
+      }
+     ]
+    },
+    {
+     "id": "orig-a2-2",
+     "title": "Part 2: The yellow notebook",
+     "intro": "Lena looks for clues about the person who owns the other suitcase.",
+     "paragraphs": [
+      "Lena opened the yellow notebook. The first page said, \"Rosa Almeida, 14 Harbour Road.\" Lena smiled. \"Good,\" she said. \"I can take the suitcase to her tomorrow.\"",
+      "But when she turned the page, she found a small map. It showed the town, the beach and a tall building by the sea. There was a red cross on the building. Under the map, someone wrote: \"Come at sunset. Bring the key.\"",
+      "\"What key?\" Lena asked. She opened the metal box. Inside there was a small silver key and an old photo of a young man in front of a lighthouse.",
+      "Lena went downstairs to speak to Mr. Costa. \"Excuse me,\" she said. \"Do you know a woman called Rosa Almeida?\"",
+      "Mr. Costa looked surprised. \"Rosa? Of course. She is a very old friend. But she doesn't live on Harbour Road now. She moved to a house near the hill last year.\"",
+      "\"I have her suitcase by mistake,\" Lena said. \"And I think she has mine.\"",
+      "\"That is strange,\" said Mr. Costa. \"Rosa left town this morning. She went to see her daughter.\" He looked at the photo. \"Oh! That is the old lighthouse. Nobody goes there now. You have to climb a hundred steps, and the door is always closed.\"",
+      "Lena looked at the key in her hand. \"Maybe it isn't always closed,\" she said."
+     ],
+     "glossary": [
+      {
+       "en": "clue",
+       "def": "a piece of information that helps you solve a mystery"
+      },
+      {
+       "en": "map",
+       "def": "a drawing that shows where places are"
+      },
+      {
+       "en": "sunset",
+       "def": "the time in the evening when the sun goes down"
+      },
+      {
+       "en": "lighthouse",
+       "def": "a tall building by the sea with a bright light to guide ships"
+      },
+      {
+       "en": "by mistake",
+       "def": "when you do something wrong without wanting to"
+      },
+      {
+       "en": "strange",
+       "def": "unusual and a little difficult to understand"
+      },
+      {
+       "en": "climb",
+       "def": "to go up something using your hands and feet"
+      },
+      {
+       "en": "harbour",
+       "def": "a place where boats stay near the land"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-a2-2-q1",
+       "type": "choice",
+       "prompt": "What did Lena find on the map?",
+       "options": [
+        "A red cross on a tall building by the sea",
+        "A picture of Mr. Costa",
+        "The name of her hotel"
+       ],
+       "answer": 0,
+       "explain": "The map showed a tall building by the sea with a red cross on it."
+      },
+      {
+       "id": "orig-a2-2-q2",
+       "type": "choice",
+       "prompt": "What was inside the metal box?",
+       "options": [
+        "A letter and a ring",
+        "A silver key and an old photo",
+        "Money and a ticket"
+       ],
+       "answer": 1,
+       "explain": "Lena found a small silver key and an old photo of a young man."
+      },
+      {
+       "id": "orig-a2-2-q3",
+       "type": "choice",
+       "prompt": "Where is Rosa today?",
+       "options": [
+        "At the lighthouse",
+        "At 14 Harbour Road",
+        "With her daughter"
+       ],
+       "answer": 2,
+       "explain": "Mr. Costa said Rosa went to see her daughter this morning."
+      },
+      {
+       "id": "orig-a2-2-q4",
+       "type": "choice",
+       "prompt": "True or False: Rosa still lives on Harbour Road.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "Mr. Costa said she moved to a house near the hill last year."
+      },
+      {
+       "id": "orig-a2-2-q5",
+       "type": "gap",
+       "prompt": "Nobody goes to the lighthouse now. You ___ climb a hundred steps to reach it.",
+       "answers": [
+        "have to",
+        "must"
+       ],
+       "explain": "'Have to' shows something is necessary: you have to climb a hundred steps."
+      },
+      {
+       "id": "orig-a2-2-q6",
+       "type": "translate",
+       "prompt": "Tengo la maleta de Rosa por error.",
+       "answers": [
+        "I have Rosa's suitcase by mistake.",
+        "I've got Rosa's suitcase by mistake.",
+        "I have got Rosa's suitcase by mistake.",
+        "I have Rosa's bag by mistake."
+       ],
+       "explain": "'By mistake' means you did something without wanting to."
+      }
+     ]
+    },
+    {
+     "id": "orig-a2-3",
+     "title": "Part 3: The lighthouse at sunset",
+     "intro": "Lena goes to the old lighthouse with the silver key.",
+     "paragraphs": [
+      "The next day, Lena had breakfast at eight. Then she walked along the beach to the lighthouse. It was taller than she thought, and it looked very old. The paint was white and grey, and the wind was cold.",
+      "At six o'clock the sun began to go down. Lena stood in front of a small green door. She took the silver key out of her pocket. Her hand was shaking a little.",
+      "\"I can do this,\" she said. She put the key in the lock and turned it. Click! The door opened slowly.",
+      "Inside, the lighthouse was dark and smelled of old stone. Lena used the light on her phone and began to climb. One, two, three... After fifty steps she was tired, and after eighty she wanted to stop. But she did not stop.",
+      "At the top there was a round room with big windows. The sea looked orange and gold in the evening light. In the middle of the room there was a small table, and on the table there was a wooden box.",
+      "Lena was going to open the box when she heard a noise behind her. Somebody was coming up the stairs!",
+      "She turned around quickly. A tall man was standing in the door. He was wearing a brown coat, but it was newer than the coat in the suitcase.",
+      "\"Please don't be afraid,\" he said. \"My name is Daniel. I think you have my grandmother's suitcase.\""
+     ],
+     "glossary": [
+      {
+       "en": "paint",
+       "def": "a coloured liquid you put on walls or buildings"
+      },
+      {
+       "en": "pocket",
+       "def": "a small bag sewn into clothes where you keep small things"
+      },
+      {
+       "en": "lock",
+       "def": "a thing that you open with a key"
+      },
+      {
+       "en": "slowly",
+       "def": "not fast"
+      },
+      {
+       "en": "stone",
+       "def": "a hard material from the ground, used to build old houses"
+      },
+      {
+       "en": "round",
+       "def": "shaped like a circle"
+      },
+      {
+       "en": "wooden",
+       "def": "made of wood"
+      },
+      {
+       "en": "afraid",
+       "def": "feeling fear"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-a2-3-q1",
+       "type": "choice",
+       "prompt": "What colour was the door of the lighthouse?",
+       "options": [
+        "White",
+        "Grey",
+        "Green"
+       ],
+       "answer": 2,
+       "explain": "Lena stood in front of a small green door."
+      },
+      {
+       "id": "orig-a2-3-q2",
+       "type": "choice",
+       "prompt": "How did Lena see in the dark lighthouse?",
+       "options": [
+        "She used a torch from the hotel",
+        "She used the light on her phone",
+        "She used a candle"
+       ],
+       "answer": 1,
+       "explain": "She used the light on her phone to climb the stairs."
+      },
+      {
+       "id": "orig-a2-3-q3",
+       "type": "choice",
+       "prompt": "What was on the table in the round room?",
+       "options": [
+        "A wooden box",
+        "A silver key",
+        "A yellow notebook"
+       ],
+       "answer": 0,
+       "explain": "In the middle of the room there was a small table with a wooden box."
+      },
+      {
+       "id": "orig-a2-3-q4",
+       "type": "choice",
+       "prompt": "True or False: Daniel's coat was older than the coat in the suitcase.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "His coat was newer than the coat in the suitcase."
+      },
+      {
+       "id": "orig-a2-3-q5",
+       "type": "gap",
+       "prompt": "Lena was ___ to open the box when she heard a noise.",
+       "answers": [
+        "going"
+       ],
+       "explain": "'Was going to' + verb means she was about to do something."
+      },
+      {
+       "id": "orig-a2-3-q6",
+       "type": "translate",
+       "prompt": "El faro era más alto de lo que ella pensaba.",
+       "answers": [
+        "The lighthouse was taller than she thought.",
+        "The lighthouse was taller than she thought it was.",
+        "The lighthouse was taller than she expected."
+       ],
+       "explain": "Use 'taller than' to compare two things."
+      }
+     ]
+    },
+    {
+     "id": "orig-a2-4",
+     "title": "Part 4: The last surprise",
+     "intro": "Lena and Daniel open the wooden box together.",
+     "paragraphs": [
+      "Daniel smiled and sat down on the floor. \"My grandmother Rosa is not at home,\" he said. \"She called me this morning. She said, 'I took the wrong suitcase at the station. Please find the girl with the blue suitcase.' So I went to the hotel, and Mr. Costa told me you came here.\"",
+      "\"Your grandmother wrote a note in the notebook,\" Lena said. \"It said, 'Come at sunset. Bring the key.'\"",
+      "\"Yes, that note is for me,\" said Daniel. \"I can't open the box without the key. I looked for it for two years.\"",
+      "Lena gave him the silver key. Daniel put it in the lock of the wooden box and turned it. Inside the box there was a pile of old letters and a ring.",
+      "\"These letters are from my grandfather,\" Daniel said quietly. \"He was the man in the photo. He worked in this lighthouse sixty years ago. He wrote a letter to my grandmother every day.\"",
+      "\"My grandmother lost this box a long time ago. Now she can read his letters again.\"",
+      "That evening, Daniel gave Lena her blue suitcase with the yellow ribbon, and Lena gave him the other one. \"Thank you,\" he said. \"You were brave.\"",
+      "The next morning, Lena sat on the beach with her book and her hat. Rosa sent her a postcard from her daughter's house. It said, \"Dear Lena, come for tea next week. I am going to tell you the whole story.\" Lena laughed."
+     ],
+     "glossary": [
+      {
+       "en": "note",
+       "def": "a short piece of writing"
+      },
+      {
+       "en": "pile",
+       "def": "a number of things put one on top of another"
+      },
+      {
+       "en": "ring",
+       "def": "a small circle of metal that you wear on your finger"
+      },
+      {
+       "en": "quietly",
+       "def": "without making much noise"
+      },
+      {
+       "en": "brave",
+       "def": "not afraid of danger"
+      },
+      {
+       "en": "postcard",
+       "def": "a card with a picture that you send from a holiday place"
+      },
+      {
+       "en": "whole",
+       "def": "complete; all of something"
+      },
+      {
+       "en": "lost",
+       "def": "did not know where something was"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-a2-4-q1",
+       "type": "choice",
+       "prompt": "Why did Daniel need the silver key?",
+       "options": [
+        "To open the hotel door",
+        "To open the wooden box",
+        "To start his car"
+       ],
+       "answer": 1,
+       "explain": "Daniel could not open the wooden box without the key."
+      },
+      {
+       "id": "orig-a2-4-q2",
+       "type": "choice",
+       "prompt": "What was inside the wooden box?",
+       "options": [
+        "Old letters and a ring",
+        "Photos of the sea",
+        "Money and a map"
+       ],
+       "answer": 0,
+       "explain": "Inside the box there was a pile of old letters and a ring."
+      },
+      {
+       "id": "orig-a2-4-q3",
+       "type": "choice",
+       "prompt": "Who was the man in the photo?",
+       "options": [
+        "Mr. Costa",
+        "Daniel",
+        "Rosa's husband"
+       ],
+       "answer": 2,
+       "explain": "Daniel said the man in the photo was his grandfather, Rosa's husband."
+      },
+      {
+       "id": "orig-a2-4-q4",
+       "type": "choice",
+       "prompt": "True or False: Daniel gave Lena her suitcase back.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 0,
+       "explain": "Daniel gave Lena her blue suitcase with the yellow ribbon."
+      },
+      {
+       "id": "orig-a2-4-q5",
+       "type": "gap",
+       "prompt": "Rosa wrote: \"I am going ___ tell you the whole story.\"",
+       "answers": [
+        "to"
+       ],
+       "explain": "We say 'going to' + verb for a plan: going to tell."
+      },
+      {
+       "id": "orig-a2-4-q6",
+       "type": "translate",
+       "prompt": "Ella puede leer sus cartas otra vez.",
+       "answers": [
+        "She can read his letters again.",
+        "She can read her letters again.",
+        "She can read the letters again.",
+        "She is able to read his letters again."
+       ],
+       "explain": "'Can' shows that something is possible now."
+      }
+     ]
+    }
+   ],
+   "note": "Original text written for this app."
+  },
+  {
+   "id": "orig-b1",
+   "title": "The Clock Repairer",
+   "author": "Original story",
+   "level": "B1",
+   "parts": [
+    {
+     "id": "orig-b1-1",
+     "title": "Part 1: A New Start",
+     "intro": "Elena leaves her old job and arrives in a small town to open a shop that is not quite empty.",
+     "paragraphs": [
+      "Elena Ruiz had worked in a bank in Mexico City for eleven years when she finally decided to change her life. She was tired of numbers, meetings and the long journey to the office every morning. \"If I stay here, I will never do anything different,\" she told her sister.",
+      "Three months later, she was standing in front of a small shop in a quiet town on the English coast. Her uncle Tomas, who had repaired clocks there for forty years, had moved to live with his daughter in Canada. Before he left, he had offered Elena the shop. \"It isn't much,\" he had said on the phone, \"but it's yours if you want it.\"",
+      "Elena had never repaired a clock in her life. However, she had always enjoyed fixing small things, and she had been learning from videos for weeks. If the shop failed, she thought, she could always go home. But she was determined to try.",
+      "Inside, the shop smelled of dust and oil. There were clocks everywhere: on the walls, on the shelves and even on the floor. While she was looking around, a man with a white apron knocked on the window. He was holding a paper bag.",
+      "\"You must be Tomas's niece,\" he said with a smile. \"I'm Mr Hale. I run the bakery next door. I've brought you some bread, because nobody should start a new job hungry.\"",
+      "Elena thanked him and asked how long he had known her uncle. \"Thirty years,\" he answered. \"He was a good neighbour. He told me you were coming, but he didn't say why he was in such a hurry to leave.\" He stopped for a moment. \"Be careful, my dear. Last week, a man was asking questions about this shop.\"",
+      "\"What kind of questions?\" Elena asked.",
+      "\"He wanted to know when you would arrive, and whether the shop was for sale,\" said Mr Hale. \"I told him I didn't know anything.\"",
+      "That night, Elena slept in the small room above the shop. At about midnight, she woke up because she heard a noise downstairs. She took a torch and went down slowly. Nobody was there, but the door of the old oak cabinet was open, and one clock lay on the floor."
+     ],
+     "glossary": [
+      {
+       "en": "niece",
+       "def": "the daughter of your brother or sister"
+      },
+      {
+       "en": "repair",
+       "def": "to fix something that is broken"
+      },
+      {
+       "en": "determined",
+       "def": "having made a firm decision to do something"
+      },
+      {
+       "en": "apron",
+       "def": "a piece of clothing you wear over your clothes to keep them clean"
+      },
+      {
+       "en": "run",
+       "def": "to manage a business"
+      },
+      {
+       "en": "hurry",
+       "def": "the need to do something very quickly"
+      },
+      {
+       "en": "torch",
+       "def": "a small electric light that you carry in your hand"
+      },
+      {
+       "en": "cabinet",
+       "def": "a piece of furniture with doors or drawers for storing things"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-b1-1-q1",
+       "type": "choice",
+       "prompt": "Why did Elena leave her job?",
+       "options": [
+        "She wanted to do something different.",
+        "The bank closed.",
+        "Her sister asked her to.",
+        "She wanted to learn English."
+       ],
+       "answer": 0,
+       "explain": "She was tired of numbers and meetings and said she would never do anything different if she stayed."
+      },
+      {
+       "id": "orig-b1-1-q2",
+       "type": "choice",
+       "prompt": "Who is Mr Hale?",
+       "options": [
+        "A clock repairer",
+        "The baker next door",
+        "Elena's uncle",
+        "A police officer"
+       ],
+       "answer": 1,
+       "explain": "He says, \"I run the bakery next door.\""
+      },
+      {
+       "id": "orig-b1-1-q3",
+       "type": "choice",
+       "prompt": "True or False: Elena had repaired clocks for many years before she came.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "The text says she had never repaired a clock in her life."
+      },
+      {
+       "id": "orig-b1-1-q4",
+       "type": "choice",
+       "prompt": "What can we infer from the open cabinet and the clock on the floor?",
+       "options": [
+        "Elena forgot to close it.",
+        "Somebody was looking for something in the shop.",
+        "The clock fell by itself.",
+        "Mr Hale came to visit."
+       ],
+       "answer": 1,
+       "explain": "Mr Hale warned her about a man asking questions, and nobody was downstairs, so someone probably searched the shop."
+      },
+      {
+       "id": "orig-b1-1-q5",
+       "type": "gap",
+       "prompt": "Elena's uncle ___ clocks in the shop for forty years before he moved to Canada.",
+       "answers": [
+        "repaired",
+        "had repaired",
+        "fixed",
+        "had fixed"
+       ],
+       "explain": "We use the past tense (or past perfect) because the work happened before the move."
+      },
+      {
+       "id": "orig-b1-1-q6",
+       "type": "translate",
+       "prompt": "Elena dijo que se quedaría en casa si el negocio fracasaba.",
+       "answers": [
+        "Elena said she would stay at home if the business failed.",
+        "Elena said that she would stay at home if the business failed.",
+        "Elena said she'd stay at home if the business failed.",
+        "Elena said she would stay home if the business failed.",
+        "Elena said she would stay at home if the shop failed."
+       ],
+       "explain": "Reported speech: \"will\" changes to \"would\" after \"said\"."
+      }
+     ]
+    },
+    {
+     "id": "orig-b1-2",
+     "title": "Part 2: The Town Clock",
+     "intro": "Elena meets the mayor and finds an unusual object in a clock.",
+     "paragraphs": [
+      "The next morning, Elena called the police, but the officer who came was not very interested. \"Nothing is missing, is it?\" he asked. \"Perhaps it was only the wind.\" Elena did not believe him, but she said nothing.",
+      "Later, she phoned her uncle. \"Did anyone want something from the shop?\" she asked. There was a long silence. Then Tomas said, \"If you ever find a small brass key, don't give it to anybody. I'll explain everything when I can.\" He hung up before she could ask any more questions.",
+      "At ten o'clock, a tall woman in a green coat walked in. She said she was Mrs Carter, the mayor. \"The clock on the town hall has been broken for years,\" she explained. \"Your uncle always said he would fix it, but he never did. If you repair it, the town will be very grateful.\"",
+      "Elena felt nervous, but she agreed. \"I'll go and have a look this afternoon,\" she said.",
+      "The tower was cold and dark. Elena climbed up the narrow stairs with her tools and found the old machine behind a wooden door. It was covered in dust. She cleaned it carefully, and after two hours she found something strange. Behind one of the big wheels there was a small metal box, tied to the frame with wire.",
+      "She opened it. Inside was a brass key with a number on it: 14. Her heart was beating fast. She remembered her uncle's words and put the key in her pocket.",
+      "When she went down, she saw a man in a long coat near the door. He was looking at her hands. \"Did you find anything up there?\" he asked in a friendly voice.",
+      "\"Only a lot of dust,\" said Elena. \"Who are you?\"",
+      "\"My name's Grant. I buy and sell old things. I'd like to make you an offer for the shop.\" He took out a card. \"Think about it. I'll come back tomorrow.\" Then he turned and walked away quickly.",
+      "Elena looked at the card. Under his name there was a telephone number, and she knew the voice: it was the same man who had been asking Mr Hale about the shop."
+     ],
+     "glossary": [
+      {
+       "en": "brass",
+       "def": "a yellow metal made from copper and zinc"
+      },
+      {
+       "en": "grateful",
+       "def": "feeling thankful because someone has done something for you"
+      },
+      {
+       "en": "mayor",
+       "def": "the person who is the leader of a town"
+      },
+      {
+       "en": "silence",
+       "def": "a time with no sound at all"
+      },
+      {
+       "en": "narrow",
+       "def": "small in width; not wide"
+      },
+      {
+       "en": "wire",
+       "def": "a thin piece of metal like a string"
+      },
+      {
+       "en": "offer",
+       "def": "an amount of money someone says they will pay"
+      },
+      {
+       "en": "hang up",
+       "def": "to end a phone call"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-b1-2-q1",
+       "type": "choice",
+       "prompt": "What did Elena's uncle tell her about the key?",
+       "options": [
+        "To throw it away",
+        "To give it to the mayor",
+        "To keep it and not give it to anyone",
+        "To sell it to Mr Grant"
+       ],
+       "answer": 2,
+       "explain": "He said, \"don't give it to anybody.\""
+      },
+      {
+       "id": "orig-b1-2-q2",
+       "type": "choice",
+       "prompt": "What did Mrs Carter want from Elena?",
+       "options": [
+        "To repair the town hall clock",
+        "To buy the shop",
+        "To leave the town",
+        "To clean the tower"
+       ],
+       "answer": 0,
+       "explain": "The mayor asked her to repair the clock on the town hall."
+      },
+      {
+       "id": "orig-b1-2-q3",
+       "type": "choice",
+       "prompt": "True or False: Elena told Mr Grant about the key.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "She said she only found a lot of dust."
+      },
+      {
+       "id": "orig-b1-2-q4",
+       "type": "choice",
+       "prompt": "Why was Elena sure that Mr Grant was the man from Mr Hale's story?",
+       "options": [
+        "She recognised his voice.",
+        "He wore the same coat.",
+        "Mr Hale told her his name.",
+        "He had the same card."
+       ],
+       "answer": 0,
+       "explain": "The text says she knew the voice; it was the same man who had asked questions."
+      },
+      {
+       "id": "orig-b1-2-q5",
+       "type": "gap",
+       "prompt": "If Elena ___ the clock, the town will be very grateful.",
+       "answers": [
+        "repairs",
+        "fixes"
+       ],
+       "explain": "This is a first conditional: if + present simple, will + verb."
+      },
+      {
+       "id": "orig-b1-2-q6",
+       "type": "translate",
+       "prompt": "Ella encontró una pequeña llave dentro de una caja metálica.",
+       "answers": [
+        "She found a small key inside a metal box.",
+        "She found a little key inside a metal box.",
+        "She found a small key in a metal box.",
+        "She found a little key in a metal box."
+       ],
+       "explain": "Use the past simple \"found\" for a finished action."
+      }
+     ]
+    },
+    {
+     "id": "orig-b1-3",
+     "title": "Part 3: Locker Fourteen",
+     "intro": "Elena follows the clue and learns a secret from the past.",
+     "paragraphs": [
+      "That evening, Elena sat in the shop and looked at the key. Where could number 14 be? She called Mr Hale and asked him if he had any idea.",
+      "\"A key with a number? Hmm,\" he said, scratching his head. \"The old railway station has a left-luggage room with lockers. It closed years ago, but nobody has ever taken the lockers away.\"",
+      "The next morning, she went to the station. The building was empty and the paint was coming off the walls. In the back room she found a row of old metal lockers. Number 14 was at the bottom. The key turned easily, and the door opened with a loud noise.",
+      "Inside there was a thick brown envelope. Elena sat on the floor and read the papers. There were old letters, bank records and a notebook written in her uncle's handwriting.",
+      "Slowly, she understood. Twenty years earlier, the town had collected money to build a new school. Mr Grant's father, who worked for the council, had said that the money was safe. But the records showed that he had taken most of it. Her uncle had found the proof by accident when he had been repairing the town clock. The council had hidden the papers inside it.",
+      "At the end of the notebook, Tomas had written: \"I was afraid to tell the truth, because Grant's family was powerful. I hope someone braver than me will do it one day.\"",
+      "Elena's hands were shaking. As a bank worker, she knew very well what the numbers meant. She took photographs of every page with her phone. Then she heard footsteps behind her.",
+      "\"I knew you would come here,\" said Mr Grant from the door. He was no longer smiling. \"Give me the envelope, and I'll pay you a lot of money.\"",
+      "\"I'm sorry, but I can't do that,\" Elena said calmly. \"If I gave it to you, I would feel terrible for the rest of my life.\"",
+      "Grant took a step towards her. Suddenly, a loud voice shouted from the corridor: \"Stay where you are!\" It was the police officer from the day before, and Mr Hale was standing next to him."
+     ],
+     "glossary": [
+      {
+       "en": "locker",
+       "def": "a small cupboard with a lock, used to keep things safe"
+      },
+      {
+       "en": "envelope",
+       "def": "a paper cover for a letter or documents"
+      },
+      {
+       "en": "council",
+       "def": "a group of people who manage a town"
+      },
+      {
+       "en": "proof",
+       "def": "facts that show that something is true"
+      },
+      {
+       "en": "handwriting",
+       "def": "the way a person writes with a pen"
+      },
+      {
+       "en": "powerful",
+       "def": "having a lot of influence or control"
+      },
+      {
+       "en": "footsteps",
+       "def": "the sound of someone walking"
+      },
+      {
+       "en": "calmly",
+       "def": "in a quiet way, without showing fear"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-b1-3-q1",
+       "type": "choice",
+       "prompt": "Who gave Elena the idea of the railway station?",
+       "options": [
+        "Mrs Carter",
+        "Mr Hale",
+        "Her uncle",
+        "The police officer"
+       ],
+       "answer": 1,
+       "explain": "Mr Hale told her about the lockers in the old station."
+      },
+      {
+       "id": "orig-b1-3-q2",
+       "type": "choice",
+       "prompt": "What did Elena find in the locker?",
+       "options": [
+        "Money",
+        "A new key",
+        "Papers that proved a crime",
+        "A clock"
+       ],
+       "answer": 2,
+       "explain": "The papers showed that Mr Grant's father had taken the school money."
+      },
+      {
+       "id": "orig-b1-3-q3",
+       "type": "choice",
+       "prompt": "True or False: Tomas was brave enough to tell everybody the truth.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "He wrote that he was afraid and hoped someone braver would do it."
+      },
+      {
+       "id": "orig-b1-3-q4",
+       "type": "choice",
+       "prompt": "What can we infer about the police officer at the end?",
+       "options": [
+        "He decided to help Elena.",
+        "He worked for Mr Grant.",
+        "He was lost.",
+        "He wanted to buy the shop."
+       ],
+       "answer": 0,
+       "explain": "He shouted at Grant to stop, so he was now on Elena's side."
+      },
+      {
+       "id": "orig-b1-3-q5",
+       "type": "gap",
+       "prompt": "Elena told Grant that she ___ feel terrible if she gave him the envelope.",
+       "answers": [
+        "would",
+        "'d"
+       ],
+       "explain": "Second conditional: if + past simple, would + verb. Reported speech also changes will to would."
+      },
+      {
+       "id": "orig-b1-3-q6",
+       "type": "translate",
+       "prompt": "Ella ha trabajado en un banco durante once años.",
+       "answers": [
+        "She has worked in a bank for eleven years.",
+        "She has worked at a bank for eleven years.",
+        "She's worked in a bank for eleven years.",
+        "She's worked at a bank for eleven years."
+       ],
+       "explain": "Present perfect with \"for\" shows a period of time up to now."
+      }
+     ]
+    },
+    {
+     "id": "orig-b1-4",
+     "title": "Part 4: Time to Change",
+     "intro": "The truth comes out, and Elena decides what to do with her new life.",
+     "paragraphs": [
+      "The police took Mr Grant away, and Elena gave the envelope and her photographs to the officer. That afternoon, she went to the town hall and told Mrs Carter everything. The mayor listened without saying a word. When Elena finished, she took off her glasses and sighed.",
+      "\"My grandfather lost his savings in that school project,\" she said quietly. \"For years, we thought it was just bad luck.\"",
+      "The news travelled fast. In a few days, everybody in town was talking about it. The council promised to check all the old records, and a judge said that the Grant family would have to give back the money. Mr Grant told the police that he had been looking for the papers for months. His father had always warned him that someone might find them.",
+      "Elena called her uncle in Canada and told him the story. He was silent for a long time. \"I should have been braver,\" he finally said. \"You did what I couldn't do. Thank you.\"",
+      "\"You gave me the chance,\" said Elena. \"Without the shop, I would still be sitting in that grey office.\"",
+      "A few weeks later, Elena finished the repair of the town hall clock. On a sunny Saturday, hundreds of people gathered in the square to hear it ring for the first time in years. Mrs Carter made a short speech, and then the big bell began to sound. Some people cried, and Mr Hale gave out free bread to everyone.",
+      "Back in the shop, Elena felt tired but happy. People kept coming in with broken watches and old family clocks, asking if she could help. She had already fixed seven that week. Her bank in Mexico had sent her an email offering her old job back with a higher salary. She read it twice and smiled.",
+      "\"No, thank you,\" she wrote. \"I've found something I like better.\"",
+      "She put a new sign in the window. It said, \"Ruiz & Son Clocks: Repairs While You Wait.\" Then she laughed, because she had no son, and decided to change it later. For now, she liked it exactly as it was, and the old clocks ticked around her like friendly voices."
+     ],
+     "glossary": [
+      {
+       "en": "sigh",
+       "def": "to breathe out slowly, often to show you are sad or tired"
+      },
+      {
+       "en": "savings",
+       "def": "money that you have kept and not spent"
+      },
+      {
+       "en": "judge",
+       "def": "a person who decides what happens in a court of law"
+      },
+      {
+       "en": "warn",
+       "def": "to tell someone about a possible danger"
+      },
+      {
+       "en": "chance",
+       "def": "an opportunity to do something"
+      },
+      {
+       "en": "gather",
+       "def": "to come together in one place"
+      },
+      {
+       "en": "speech",
+       "def": "a formal talk to a group of people"
+      },
+      {
+       "en": "salary",
+       "def": "the money you receive every month for your job"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-b1-4-q1",
+       "type": "choice",
+       "prompt": "Why was the mayor so affected by the news?",
+       "options": [
+        "Her family had lost money in the school project.",
+        "She wanted to be a judge.",
+        "She was Mr Grant's sister.",
+        "She wanted the shop."
+       ],
+       "answer": 0,
+       "explain": "Mrs Carter said her grandfather lost his savings."
+      },
+      {
+       "id": "orig-b1-4-q2",
+       "type": "choice",
+       "prompt": "What happened on Saturday in the square?",
+       "options": [
+        "The police arrested Elena.",
+        "People heard the town clock ring again.",
+        "Elena sold the shop.",
+        "Mr Hale closed his bakery."
+       ],
+       "answer": 1,
+       "explain": "People gathered to hear the big bell ring for the first time in years."
+      },
+      {
+       "id": "orig-b1-4-q3",
+       "type": "choice",
+       "prompt": "True or False: Elena accepted the offer from her old bank.",
+       "options": [
+        "True",
+        "False"
+       ],
+       "answer": 1,
+       "explain": "She answered \"No, thank you\" and said she had found something she liked better."
+      },
+      {
+       "id": "orig-b1-4-q4",
+       "type": "choice",
+       "prompt": "What can we infer about Elena at the end of the story?",
+       "options": [
+        "She regrets leaving Mexico.",
+        "She is happy with her new life.",
+        "She wants to move to Canada.",
+        "She is angry with her uncle."
+       ],
+       "answer": 1,
+       "explain": "She feels happy, refuses her old job, and enjoys her shop."
+      },
+      {
+       "id": "orig-b1-4-q5",
+       "type": "gap",
+       "prompt": "Without the shop, Elena ___ still be in her grey office.",
+       "answers": [
+        "would",
+        "'d"
+       ],
+       "explain": "Second conditional: without X, subject + would + verb."
+      },
+      {
+       "id": "orig-b1-4-q6",
+       "type": "translate",
+       "prompt": "Su tío dijo que debería haber sido más valiente.",
+       "answers": [
+        "Her uncle said he should have been braver.",
+        "Her uncle said that he should have been braver.",
+        "Her uncle said he should have been more brave.",
+        "Her uncle said that he should have been more brave."
+       ],
+       "explain": "\"Should have\" + past participle talks about a past action that did not happen."
+      }
+     ]
+    }
+   ],
+   "note": "Original text written for this app."
+  },
+  {
+   "id": "orig-b2",
+   "title": "The Silent Server",
+   "author": "Original story",
+   "level": "B2",
+   "parts": [
+    {
+     "id": "orig-b2-1",
+     "title": "Part 1: The Locked Room",
+     "intro": "A young engineer starts her first week at a small company that seems almost too successful.",
+     "paragraphs": [
+      "Nina Torres had been told that Veridan was the most exciting start-up in the city, and on her first morning she could see why. The office was bright and noisy, and every screen showed the same graph: a line climbing steadily upwards. Veridan sold software that predicted what customers would buy next, and its predictions were so accurate that larger companies were queuing up to sign contracts.",
+      "\"Don't be nervous,\" said Daniel Reyes, the senior engineer who had been assigned to show her around. He was tall, relaxed and always smiling. \"By Friday you'll feel as if you've worked here for years.\"",
+      "Nina wasn't so sure. She had left a secure job at a bank to join Veridan, and her parents had thought she was making a terrible mistake. If the company failed, she would have no safety net. Even so, she couldn't help feeling that something extraordinary was happening here.",
+      "The tour went smoothly until they reached the third floor. At the end of a quiet corridor stood a heavy grey door with a keypad. A low, steady hum was coming from behind it.",
+      "\"What's in there?\" Nina asked.",
+      "Daniel's smile didn't change, but he answered a little too quickly. \"Just the main servers. Only Elena has access. She's the founder, and she's very protective of the code. You know what founders are like.\"",
+      "\"Surely the servers would be in the basement,\" Nina said. \"Or in a data centre somewhere.\"",
+      "\"Most people would say so.\" He shrugged and moved on. \"Come on, I'll show you the kitchen. The coffee is the best thing about this place.\"",
+      "That afternoon, Nina met Elena Vargas herself. The founder was a small woman in her fifties with sharp eyes and a very quiet voice. She shook Nina's hand and held it for a moment longer than necessary.",
+      "\"I read your application three times,\" Elena said. \"You must be extremely careful with data. That's rare, and I need it.\"",
+      "\"I try to be,\" Nina replied. \"At my last job, one wrong number could cost a customer a lot of money.\"",
+      "\"Good. Because here, nothing is as simple as it looks.\" Elena looked at her for a long second. \"Whatever you do, never ask me about the third floor. Not yet.\"",
+      "Nina nodded, but the warning only made her curious. All week she found herself walking past the grey door. Each time, the hum seemed to be slightly louder, almost as if the machine behind it were alive and waiting.",
+      "On Thursday night she stayed late to finish a report. The office was empty except for the cleaners. When she walked to the lift, she noticed something odd: a thin line of light was shining under the grey door. Someone must have been inside, yet nobody had entered the corridor all evening."
+     ],
+     "glossary": [
+      {
+       "en": "start-up",
+       "def": "a new company, especially one that is still growing"
+      },
+      {
+       "en": "queue up",
+       "def": "to wait in a line, or to be very eager to get something"
+      },
+      {
+       "en": "assigned",
+       "def": "given a particular job or person to deal with"
+      },
+      {
+       "en": "safety net",
+       "def": "protection that helps you if something goes wrong"
+      },
+      {
+       "en": "keypad",
+       "def": "a small panel of buttons used to enter a code"
+      },
+      {
+       "en": "hum",
+       "def": "a low, continuous sound"
+      },
+      {
+       "en": "protective",
+       "def": "wanting to keep something safe from harm or from other people"
+      },
+      {
+       "en": "extraordinary",
+       "def": "very unusual or remarkable"
+      },
+      {
+       "en": "curious",
+       "def": "eager to find out about something"
+      },
+      {
+       "en": "lift",
+       "def": "a machine that carries people up and down in a building"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-b2-1-q1",
+       "type": "choice",
+       "prompt": "What is the main purpose of the first paragraph?",
+       "options": [
+        "To describe the company and make it seem impressive",
+        "To show that Nina dislikes her new job",
+        "To explain how the software was invented",
+        "To criticise large companies"
+       ],
+       "answer": 0,
+       "explain": "The paragraph describes a bright office, a rising graph and customers queuing up, so it presents Veridan as impressive."
+      },
+      {
+       "id": "orig-b2-1-q2",
+       "type": "choice",
+       "prompt": "Why does Nina feel nervous about her new job?",
+       "options": [
+        "She doesn't like Daniel",
+        "She left a safe job and would have no safety net if Veridan failed",
+        "She was late on her first day",
+        "She has never worked with servers"
+       ],
+       "answer": 1,
+       "explain": "She left a secure bank job, and her parents think it was a mistake."
+      },
+      {
+       "id": "orig-b2-1-q3",
+       "type": "choice",
+       "prompt": "What can we infer from Daniel's behaviour when Nina asks about the door?",
+       "options": [
+        "He doesn't know the answer",
+        "He is hiding something or feels uncomfortable",
+        "He is angry with Nina",
+        "He wants to take her inside"
+       ],
+       "answer": 1,
+       "explain": "He answers 'a little too quickly' and quickly changes the subject, which suggests he is uneasy."
+      },
+      {
+       "id": "orig-b2-1-q4",
+       "type": "choice",
+       "prompt": "In the sentence 'She's very protective of the code', what does 'protective' mean?",
+       "options": [
+        "Careful to keep it safe and private",
+        "Unhappy about it",
+        "Proud of its price",
+        "Unable to understand it"
+       ],
+       "answer": 0,
+       "explain": "A protective person wants to keep something safe; here, Elena wants to keep the code private."
+      },
+      {
+       "id": "orig-b2-1-q5",
+       "type": "gap",
+       "prompt": "Nina had left a bank to join Veridan, but if the company ___, she would have no safety net.",
+       "answers": [
+        "failed"
+       ],
+       "explain": "The text says 'If the company failed, she would have no safety net.' This is a second conditional."
+      },
+      {
+       "id": "orig-b2-1-q6",
+       "type": "translate",
+       "prompt": "Alguien debía de estar dentro, pero nadie había entrado al pasillo.",
+       "answers": [
+        "Someone must have been inside, but nobody had entered the corridor.",
+        "Someone must have been inside, but no one had entered the corridor.",
+        "Someone must have been in there, but nobody had entered the corridor.",
+        "Someone must have been in there, but no one had entered the corridor.",
+        "Someone must have been inside, but nobody had gone into the corridor."
+       ],
+       "explain": "'Must have been' expresses a strong deduction about the past; 'had entered' is the past perfect."
+      }
+     ]
+    },
+    {
+     "id": "orig-b2-2",
+     "title": "Part 2: The Midnight Login",
+     "intro": "Nina notices a strange record in the system and begins to doubt the people around her.",
+     "paragraphs": [
+      "On Monday morning, Nina could not stop thinking about the light under the door. She told herself that there was probably a simple explanation: the cleaners might have used a different entrance, or Elena might have arrived before sunrise. Nevertheless, a small voice in her head kept asking questions.",
+      "At ten o'clock she began a routine check of the company's access logs. It was a boring task, and she had expected nothing unusual. Then she saw it. At 3:12 a.m. on Saturday, someone had logged in with her username and copied an enormous file to an outside address.",
+      "Nina stared at the screen. She hadn't been near the building on Saturday. She had been at her cousin's wedding, dancing and eating cake until after midnight. The login couldn't have been hers.",
+      "Her hands began to shake. If she had reported the strange login immediately, the company might have stopped the copy in time, but she had only found it two days later. Now the file was gone, and her name was attached to the crime.",
+      "She considered going straight to Elena. Then she hesitated. Who could have known her password? She had only written it down once, on a note that she'd given to Daniel on her first day so that he could set up her laptop. He had promised to throw it away.",
+      "\"You look terrible,\" Daniel said at lunch, putting a tray down beside her. \"Did you sleep badly?\"",
+      "\"I'm fine,\" Nina lied. She didn't want to accuse anyone without proof. \"It's just a lot of new information.\"",
+      "\"You're doing great, you know.\" He lowered his voice. \"Between you and me, Elena has been very strange lately. She spends whole nights on that third floor. If I were you, I wouldn't trust her too much.\"",
+      "The comment surprised Nina. Only an hour earlier, Daniel had spoken about Elena with great respect. Either he had changed his opinion very suddenly, or he was trying to push her in a particular direction.",
+      "That evening she changed her password and added a second security step to her account. Then she did something far more risky. She copied the suspicious log entry onto a small memory stick and put it in her pocket.",
+      "By Wednesday, she had made up her mind. The only way to learn the truth was to see inside the locked room. She knew that the keypad accepted a code, and she had noticed that Elena always typed it with her left hand, very fast, on the left side of the pad. Nina could not read the numbers, but she could see which keys had become worn and shiny.",
+      "Only four keys showed any wear. The code was a combination of those four numbers, repeated or reordered. It would take time, but it was possible.",
+      "At nine that night, when the building was silent again, she walked quietly towards the grey door."
+     ],
+     "glossary": [
+      {
+       "en": "access log",
+       "def": "a record showing who used a computer system and when"
+      },
+      {
+       "en": "logged in",
+       "def": "entered a computer system using a username and password"
+      },
+      {
+       "en": "enormous",
+       "def": "extremely large"
+      },
+      {
+       "en": "hesitate",
+       "def": "to pause before doing something because you are not sure"
+      },
+      {
+       "en": "accuse",
+       "def": "to say that someone has done something wrong"
+      },
+      {
+       "en": "proof",
+       "def": "evidence that shows something is true"
+      },
+      {
+       "en": "suspicious",
+       "def": "making you feel that something is wrong or dishonest"
+      },
+      {
+       "en": "memory stick",
+       "def": "a small device used to store and carry computer files"
+      },
+      {
+       "en": "made up her mind",
+       "def": "decided something firmly"
+      },
+      {
+       "en": "worn",
+       "def": "damaged or thinner after being used for a long time"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-b2-2-q1",
+       "type": "choice",
+       "prompt": "What did Nina discover in the access log?",
+       "options": [
+        "A message from Elena",
+        "Her username had been used to copy a large file while she was away",
+        "The cleaners had entered the third floor",
+        "Daniel had deleted her laptop"
+       ],
+       "answer": 1,
+       "explain": "Someone logged in as Nina at 3:12 a.m. on Saturday and copied a huge file."
+      },
+      {
+       "id": "orig-b2-2-q2",
+       "type": "choice",
+       "prompt": "Why was Nina sure the login wasn't hers?",
+       "options": [
+        "She had forgotten her password",
+        "She was at a wedding that night",
+        "She was asleep at home",
+        "Her laptop was broken"
+       ],
+       "answer": 1,
+       "explain": "She says she was at her cousin's wedding until after midnight."
+      },
+      {
+       "id": "orig-b2-2-q3",
+       "type": "choice",
+       "prompt": "What does Daniel's comment about Elena suggest about him?",
+       "options": [
+        "He may be trying to turn Nina against Elena",
+        "He is a very honest person",
+        "He dislikes all his colleagues equally",
+        "He wants to leave the company"
+       ],
+       "answer": 0,
+       "explain": "He changed his opinion suddenly, so the text hints that he is steering Nina's suspicion."
+      },
+      {
+       "id": "orig-b2-2-q4",
+       "type": "choice",
+       "prompt": "What is the tone of the last part of the story?",
+       "options": [
+        "Humorous and relaxed",
+        "Tense and expectant",
+        "Sad and nostalgic",
+        "Formal and distant"
+       ],
+       "answer": 1,
+       "explain": "Short sentences, a silent building and a quiet walk towards the door create tension."
+      },
+      {
+       "id": "orig-b2-2-q5",
+       "type": "gap",
+       "prompt": "If she ___ the strange login immediately, the company might have stopped the copy in time.",
+       "answers": [
+        "had reported"
+       ],
+       "explain": "This is a third conditional: 'If + past perfect, might have + past participle.'"
+      },
+      {
+       "id": "orig-b2-2-q6",
+       "type": "translate",
+       "prompt": "Ella solo había anotado su contraseña una vez, y se la había dado a Daniel.",
+       "answers": [
+        "She had only written her password down once, and she had given it to Daniel.",
+        "She had only written down her password once, and she had given it to Daniel.",
+        "She had only written her password down once and had given it to Daniel.",
+        "She'd only written her password down once, and she'd given it to Daniel."
+       ],
+       "explain": "The past perfect ('had written', 'had given') shows actions that happened before the main point in the past."
+      }
+     ]
+    },
+    {
+     "id": "orig-b2-3",
+     "title": "Part 3: What the Servers Were Hiding",
+     "intro": "Nina finally enters the forbidden room and finds an answer that raises even bigger questions.",
+     "paragraphs": [
+      "It took Nina forty minutes to find the right code. When the lock finally clicked, she held her breath and pushed the heavy door open.",
+      "She had expected rows of machines and blinking lights. Instead, the room was small and surprisingly cold. A single computer glowed on a desk in the corner. The humming noise was coming from a large cooling unit fixed to the wall. Everything else was almost empty.",
+      "\"This can't be the main server,\" she whispered. \"It's far too small.\"",
+      "She sat down and woke the screen. The computer wasn't protected by a password, which struck her as bizarre in such a secretive company. A folder was open, and its name made her heart sink: Brightwell Archive.",
+      "Brightwell was a rival firm that had gone out of business two years earlier. Its customer data had never been made public, and everyone had assumed it had been destroyed. Yet here were thousands of records, with dates, names and purchase histories. The huge file that had been copied on Saturday was sitting in the folder as well.",
+      "Nina felt sick. So Veridan's famous accuracy was based on stolen information. No wonder the predictions had been so remarkable. The company must have used the Brightwell data to train its software from the very beginning.",
+      "\"I told you not to ask about this room.\"",
+      "Nina spun round. Elena Vargas was standing in the doorway, wearing a coat over her pyjamas, with a mug in her hand. She looked exhausted rather than angry.",
+      "\"It was you,\" Nina said, standing up. \"You stole their data. And you used my account to copy it so that I would take the blame.\"",
+      "\"That's what you think happened?\" Elena asked calmly.",
+      "\"What else could have happened? Nobody else has the key code.\"",
+      "\"A great deal could have happened.\" Elena closed the door behind her. \"If I had wanted to hide this, I would have changed the code months ago. Did you never wonder why I kept the same one for so long?\"",
+      "Nina hesitated. It was true that the worn keys had made the code easy to guess. Almost as if it had been left like that on purpose.",
+      "\"Sit down,\" Elena said. \"You have two choices. You can call the police now, and Veridan will be finished by tomorrow. Or you can listen to me for ten minutes. Then you can decide.\"",
+      "Nina looked at the screen, then at the tired woman in front of her. Her instincts told her to run. But her curiosity, as usual, was stronger.",
+      "\"Ten minutes,\" she said. \"Start talking.\""
+     ],
+     "glossary": [
+      {
+       "en": "blinking",
+       "def": "turning on and off quickly and repeatedly"
+      },
+      {
+       "en": "cooling unit",
+       "def": "a machine that keeps a room or equipment cold"
+      },
+      {
+       "en": "bizarre",
+       "def": "very strange or unexpected"
+      },
+      {
+       "en": "secretive",
+       "def": "tending to hide information from others"
+      },
+      {
+       "en": "rival",
+       "def": "a person or company that competes with another"
+      },
+      {
+       "en": "out of business",
+       "def": "no longer operating because the company has closed"
+      },
+      {
+       "en": "remarkable",
+       "def": "unusual and impressive"
+      },
+      {
+       "en": "take the blame",
+       "def": "to be accused of a mistake that you did not make"
+      },
+      {
+       "en": "exhausted",
+       "def": "extremely tired"
+      },
+      {
+       "en": "instinct",
+       "def": "a natural feeling that tells you what to do without thinking"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-b2-3-q1",
+       "type": "choice",
+       "prompt": "What did Nina expect to find in the room?",
+       "options": [
+        "A small cold office",
+        "Rows of machines and blinking lights",
+        "A group of employees",
+        "Her own laptop"
+       ],
+       "answer": 1,
+       "explain": "The text says she 'had expected rows of machines and blinking lights'."
+      },
+      {
+       "id": "orig-b2-3-q2",
+       "type": "choice",
+       "prompt": "What does Nina conclude about Veridan's accurate predictions?",
+       "options": [
+        "They come from a new kind of invention",
+        "They depend on data taken from another company",
+        "They are made by Elena personally",
+        "They are exaggerated by the media"
+       ],
+       "answer": 1,
+       "explain": "She finds a rival's archive and thinks Veridan trained its software on stolen information."
+      },
+      {
+       "id": "orig-b2-3-q3",
+       "type": "choice",
+       "prompt": "Why does Elena mention the key code?",
+       "options": [
+        "To suggest that the code was left easy to guess on purpose",
+        "To confess that she forgot to change it",
+        "To show that she trusts Nina completely",
+        "To prove she is the thief"
+       ],
+       "answer": 0,
+       "explain": "Elena implies that the code was left easy to guess on purpose, so the discovery may have been planned."
+      },
+      {
+       "id": "orig-b2-3-q4",
+       "type": "choice",
+       "prompt": "In the phrase 'made her heart sink', what does 'sink' suggest?",
+       "options": [
+        "She felt sudden disappointment and worry",
+        "She felt very hungry",
+        "She felt extremely proud",
+        "She felt completely calm"
+       ],
+       "answer": 0,
+       "explain": "'Heart sink' is an idiom meaning to feel suddenly sad or worried."
+      },
+      {
+       "id": "orig-b2-3-q5",
+       "type": "gap",
+       "prompt": "Brightwell was a rival firm that ___ out of business two years earlier.",
+       "answers": [
+        "had gone"
+       ],
+       "explain": "The past perfect 'had gone' shows that the closure happened before the moment Nina found the folder."
+      },
+      {
+       "id": "orig-b2-3-q6",
+       "type": "translate",
+       "prompt": "Si hubiera querido ocultar esto, habría cambiado el código hace meses.",
+       "answers": [
+        "If I had wanted to hide this, I would have changed the code months ago.",
+        "If I'd wanted to hide this, I'd have changed the code months ago.",
+        "If I had wanted to hide this, I would have changed the code months before.",
+        "If I'd wanted to hide this, I would have changed the code months ago.",
+        "If she had wanted to hide this, she would have changed the code months ago."
+       ],
+       "explain": "This is a third conditional: 'If + past perfect, would have + past participle.'"
+      }
+     ]
+    },
+    {
+     "id": "orig-b2-4",
+     "title": "Part 4: The Trap",
+     "intro": "Elena finally explains the truth, and Nina learns who she can really trust.",
+     "paragraphs": [
+      "Elena sat on the edge of the desk and rubbed her eyes. \"The data is real,\" she said. \"But I didn't steal it. Brightwell's owner sold me its archive legally, years ago, when the company closed. I should have told our clients, and I didn't. That was my mistake, and I will answer for it.\"",
+      "\"Then why is it hidden?\" Nina asked.",
+      "\"Because someone has been trying to blackmail me. Six months ago, a message arrived demanding money. If I hadn't paid, they said, they would tell everyone that I had used Brightwell's records. I paid once. Then I started to look for the person responsible.\"",
+      "Nina frowned. \"You think it's someone inside Veridan.\"",
+      "\"I know it is. Only a few people could have found this room. So I set a trap. I kept the same code, I left the computer unlocked, and I waited for someone to copy the file. I also made sure the thief would believe your account was the easiest to use.\"",
+      "\"You used me as bait?\" Nina said, furious.",
+      "\"I did. And I'm sorry. But I needed somebody new, somebody who hadn't been involved in anything yet.\" Elena took a small tablet from her pocket. \"The thief didn't know that this room records every visitor with a camera. Look.\"",
+      "On the screen, a grainy video showed a figure entering the room at 3:10 a.m. on Saturday. The man sat at the computer, copied the file and left. When he turned his face towards the camera, Nina's stomach turned over.",
+      "It was Daniel.",
+      "\"He told me not to trust you,\" Nina said slowly. \"He wanted me to believe you were the villain. He must have planned to leave my name on the logs and disappear.\"",
+      "\"He was selling the data to a competitor,\" Elena said. \"The blackmail was his idea too. He could easily have taken the money and left, but greed made him careless.\"",
+      "The next morning, the police were waiting in the lobby when Daniel arrived. He didn't even try to run. He simply looked at Nina and said, \"I'd never have used your password if I'd thought you were clever enough to catch me.\" Nina almost laughed. It was the nicest compliment he had ever given her, and also the last.",
+      "Veridan survived, although not without difficulty. Elena informed every client about the archive, paid a large fine and accepted strict new rules about her data. As for Nina, she was promoted within the year. Her parents finally stopped worrying, and she still has a habit that colleagues find strange: she never writes down a password, and she always notices which keys on a keypad are wearing out."
+     ],
+     "glossary": [
+      {
+       "en": "blackmail",
+       "def": "to force someone to pay or act by threatening to reveal a secret"
+      },
+      {
+       "en": "answer for",
+       "def": "to accept responsibility for something wrong"
+      },
+      {
+       "en": "trap",
+       "def": "a plan designed to catch someone by surprise"
+      },
+      {
+       "en": "bait",
+       "def": "something used to attract or tempt a person into a trap"
+      },
+      {
+       "en": "furious",
+       "def": "extremely angry"
+      },
+      {
+       "en": "grainy",
+       "def": "not clear because of a rough, low-quality picture"
+      },
+      {
+       "en": "stomach turned over",
+       "def": "to feel suddenly shocked or sick"
+      },
+      {
+       "en": "greed",
+       "def": "a strong wish to have more money or things than you need"
+      },
+      {
+       "en": "careless",
+       "def": "not paying enough attention to avoid mistakes"
+      },
+      {
+       "en": "fine",
+       "def": "money that must be paid as a punishment"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-b2-4-q1",
+       "type": "choice",
+       "prompt": "What is the twist in this part of the story?",
+       "options": [
+        "Elena is secretly a police officer",
+        "Daniel is the real thief and Elena's trap caught him",
+        "Nina is fired for opening the door",
+        "The data was destroyed in a fire"
+       ],
+       "answer": 1,
+       "explain": "The camera shows Daniel copying the file, and Elena had planned the trap."
+      },
+      {
+       "id": "orig-b2-4-q2",
+       "type": "choice",
+       "prompt": "Why did Elena use Nina's account as bait?",
+       "options": [
+        "Nina was a new employee with no past involvement",
+        "Nina had asked for it",
+        "Nina was a friend of Daniel",
+        "Nina wanted to be tested"
+       ],
+       "answer": 0,
+       "explain": "Elena needed 'somebody new, somebody who hadn't been involved in anything yet'."
+      },
+      {
+       "id": "orig-b2-4-q3",
+       "type": "choice",
+       "prompt": "What is the tone of the last paragraph?",
+       "options": [
+        "Gloomy and bitter",
+        "Light, with a hint of humour and satisfaction",
+        "Angry and critical",
+        "Cold and scientific"
+       ],
+       "answer": 1,
+       "explain": "The ending is reflective and gently humorous, with Nina's odd habit and a calm resolution."
+      },
+      {
+       "id": "orig-b2-4-q4",
+       "type": "choice",
+       "prompt": "What does Elena admit about her own behaviour?",
+       "options": [
+        "She did nothing wrong",
+        "She hid the archive from clients and takes responsibility for that mistake",
+        "She wanted to harm Nina",
+        "She was forced to close the company"
+       ],
+       "answer": 1,
+       "explain": "She admits that she should have told clients and says she will answer for it."
+      },
+      {
+       "id": "orig-b2-4-q5",
+       "type": "gap",
+       "prompt": "Daniel said, \"I'd never have used your password if I'd thought you ___ clever enough to catch me.\"",
+       "answers": [
+        "were",
+        "had been"
+       ],
+       "explain": "A mixed or third conditional: 'were' (state) or 'had been' (past) both fit."
+      },
+      {
+       "id": "orig-b2-4-q6",
+       "type": "translate",
+       "prompt": "Él podría haber tomado el dinero fácilmente, pero la codicia lo volvió descuidado.",
+       "answers": [
+        "He could easily have taken the money, but greed made him careless.",
+        "He could have taken the money easily, but greed made him careless.",
+        "He could have easily taken the money, but greed made him careless.",
+        "He could easily have taken the money, but greed had made him careless."
+       ],
+       "explain": "'Could have + past participle' talks about unrealised past possibilities; 'made him careless' is the result."
+      }
+     ]
+    }
+   ],
+   "note": "Original text written for this app."
+  },
+  {
+   "id": "orig-c1",
+   "title": "Ideas that shape us",
+   "author": "Original essays",
+   "level": "C1",
+   "parts": [
+    {
+     "id": "orig-c1-1",
+     "title": "Part 1: The comfort of putting things off",
+     "intro": "The article argues that procrastination is better understood as an emotional habit than as a failure of time management.",
+     "paragraphs": [
+      "Few habits are as widely condemned, and as widely practised, as procrastination. Almost everyone has, at some point, watched a deadline approach while choosing to alphabetise a bookshelf instead. The conventional explanation is that procrastinators are simply lazy or poorly organised. Yet a growing body of psychological research suggests that this diagnosis misses the point entirely: it is not time that we are failing to manage, but emotion.",
+      "The argument runs as follows. When a task evokes anxiety, boredom or self-doubt, avoiding it brings immediate relief. That relief acts as a reward, and rewards, as behaviourists have long observed, strengthen whatever behaviour precedes them. Seldom does the procrastinator consciously decide to sabotage the project; rather, the mind quietly trades long-term interests for short-term comfort. Only later, when the deadline looms, does the cost become painfully apparent.",
+      "Central to this account is the notion of present bias, the tendency to overvalue rewards that are close at hand and to discount those that lie in the future. A reward arriving in six months feels abstract, whereas the pleasure of checking one's phone is available right now. Not only does the future self seem remote, but some studies suggest we may think of that person almost as a stranger, someone else who will inherit the workload. It is hardly surprising, then, that we are so generous in handing unpleasant tasks over to them.",
+      "What makes procrastination so persistent is that it feeds on itself. Having delayed a task, people typically feel guilty, and guilt is itself an unpleasant emotion that invites further avoidance. Perfectionism complicates matters still further. Those who set unreasonably high standards may postpone beginning precisely because the work, once started, will inevitably fall short of the vision in their heads. Few forms of delay are more ironic than putting off a project because one cares about it too much.",
+      "If the problem is emotional, the solutions ought to be as well. Time-management techniques, such as colour-coded calendars and elaborate to-do lists, can help, but they address the symptom rather than the cause. More promising, according to many researchers, is self-compassion. In one frequently cited line of experiments, students who forgave themselves for putting off revision were less likely to delay the next time round than those who berated themselves. Although such findings should be interpreted with caution, they suggest that harshness is not the motivator we assume it to be.",
+      "Practical strategies follow naturally from this view. Breaking a daunting project into absurdly small steps lowers the emotional threshold for starting, and committing to just five minutes of work often proves enough to generate momentum. Likewise, making the future reward more vivid, or the temptation less accessible, tilts the balance back in favour of the long term. A person who leaves the phone in another room has not become more disciplined, merely more strategic.",
+      "None of this is to say that all delay is harmful. Some creative thinkers argue that a period of apparent idleness allows ideas to mature, and that rushing to act can be just as costly as avoiding action altogether. The distinction lies in intention: deliberate postponement, chosen with open eyes, is a strategy, whereas habitual avoidance, driven by discomfort, is a trap. Learning to tell the two apart may be the most useful skill of all.",
+      "Ultimately, it is worth asking not why we are so undisciplined, but what we are trying to escape. Once that question has been answered honestly, the bookshelf can remain unsorted a little longer."
+     ],
+     "glossary": [
+      {
+       "en": "alphabetise",
+       "def": "to arrange items in the order of the letters of the alphabet"
+      },
+      {
+       "en": "evoke",
+       "def": "to bring a feeling or memory into the mind"
+      },
+      {
+       "en": "sabotage",
+       "def": "to deliberately damage or spoil something"
+      },
+      {
+       "en": "loom",
+       "def": "to appear as a threatening, approaching presence"
+      },
+      {
+       "en": "discount",
+       "def": "to treat something as less important or valuable than it really is"
+      },
+      {
+       "en": "berate",
+       "def": "to criticise someone angrily"
+      },
+      {
+       "en": "daunting",
+       "def": "making you feel worried about whether you can succeed"
+      },
+      {
+       "en": "threshold",
+       "def": "the point at which something begins or changes"
+      },
+      {
+       "en": "momentum",
+       "def": "the force that keeps an activity moving once it has started"
+      },
+      {
+       "en": "tilt the balance",
+       "def": "to make one option more likely or stronger than another"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-c1-1-q1",
+       "type": "choice",
+       "prompt": "What is the main argument of the article?",
+       "options": [
+        "Procrastination is caused by poor calendars and badly designed to-do lists.",
+        "Procrastination is chiefly a problem of handling emotions rather than managing time.",
+        "Procrastination is harmless and should never be discouraged.",
+        "Procrastination affects only perfectionists who care too much."
+       ],
+       "answer": 1,
+       "explain": "The opening paragraph says the problem is 'not time that we are failing to manage, but emotion', and the rest of the article develops this idea."
+      },
+      {
+       "id": "orig-c1-1-q2",
+       "type": "choice",
+       "prompt": "What can be inferred from the paragraph about present bias?",
+       "options": [
+        "People always make accurate plans for the future.",
+        "People prefer to work with strangers rather than alone.",
+        "People tend to treat their future self as someone else who will deal with unpleasant work.",
+        "People feel that distant rewards are more attractive than immediate ones."
+       ],
+       "answer": 2,
+       "explain": "The writer says we 'think of that person almost as a stranger' and are 'generous in handing unpleasant tasks over to them'."
+      },
+      {
+       "id": "orig-c1-1-q3",
+       "type": "choice",
+       "prompt": "What is the writer's attitude towards the research on self-compassion?",
+       "options": [
+        "Cautiously optimistic",
+        "Openly dismissive",
+        "Completely certain",
+        "Largely indifferent"
+       ],
+       "answer": 0,
+       "explain": "Self-compassion is called 'more promising', but the findings 'should be interpreted with caution'."
+      },
+      {
+       "id": "orig-c1-1-q4",
+       "type": "choice",
+       "prompt": "In the second paragraph, 'looms' is closest in meaning to",
+       "options": [
+        "is cancelled suddenly",
+        "is gradually forgotten",
+        "becomes much easier",
+        "approaches in a threatening way"
+       ],
+       "answer": 3,
+       "explain": "A deadline that 'looms' is coming closer and feels threatening; this is when the cost becomes 'painfully apparent'."
+      },
+      {
+       "id": "orig-c1-1-q5",
+       "type": "gap",
+       "prompt": "Deliberate postponement is a strategy, whereas habitual avoidance driven by discomfort is a ___.",
+       "answers": [
+        "trap",
+        "a trap"
+       ],
+       "explain": "The final paragraphs contrast a deliberate strategy with habitual avoidance, which is 'a trap'."
+      },
+      {
+       "id": "orig-c1-1-q6",
+       "type": "translate",
+       "prompt": "Procrastinar no es pereza, sino una forma de evitar emociones desagradables.",
+       "answers": [
+        "Procrastination is not laziness, but a way of avoiding unpleasant emotions.",
+        "Procrastination is not laziness but a way of avoiding unpleasant emotions.",
+        "Procrastinating is not laziness, but a way of avoiding unpleasant emotions.",
+        "Procrastination isn't laziness, but a way of avoiding unpleasant emotions."
+       ],
+       "explain": "Use 'not X but Y' and a gerund after 'way of'."
+      }
+     ]
+    },
+    {
+     "id": "orig-c1-2",
+     "title": "Part 2: Why words slip away",
+     "intro": "The article explains why newly learned words are forgotten and how research suggests learners can make them last.",
+     "paragraphs": [
+      "Anyone who has crammed vocabulary the night before a test knows the peculiar sensation of mastery that evaporates within days. The words felt solid at midnight; by the weekend, they have dissolved. This frustrating experience is not a personal failing but a well-documented feature of human memory, and understanding it has profound implications for how languages are best learned.",
+      "Over a century ago, the German psychologist Hermann Ebbinghaus memorised lists of meaningless syllables and measured how quickly he forgot them. His findings, now known as the forgetting curve, showed that retention drops steeply soon after learning and then levels off. What matters is not merely that forgetting occurs, but that it follows a predictable pattern, one which can be worked with rather than against.",
+      "The most robust insight to emerge from subsequent research is the spacing effect. Reviewing material at gradually widening intervals produces far more durable memories than cramming the same amount of study into a single session. Each time we retrieve a half-forgotten word, the effort of doing so strengthens the memory trace. Paradoxically, it is the difficulty of recall, not its ease, that makes learning stick. Psychologists refer to this as a 'desirable difficulty'.",
+      "A related finding concerns testing. Rereading a text feels productive because the material seems familiar, yet familiarity is a poor guide to genuine knowledge. By contrast, closing the book and trying to recall what one has read, or to produce a sentence using a new word, exposes gaps and consolidates what is already known. Learners who test themselves regularly tend to outperform those who simply review, even though the latter often feel more confident.",
+      "Language learning adds further complications. A word is not an isolated fact but a node in a network of sounds, meanings, grammatical behaviours and associations. The richer the connections, the more routes there are back to the word when it is needed. This is why encountering vocabulary in varied contexts, rather than in tidy translated lists, appears to be so effective. Hearing 'tackle' in a sports commentary, a news story and a conversation about a difficult problem builds a flexible understanding that no single definition could provide.",
+      "Sleep, too, plays a part that is easily underestimated. Evidence from laboratory studies suggests that memories are reorganised during sleep, with newly acquired information being integrated into existing knowledge. A learner who studies in the evening and sleeps well may therefore retain more than one who stays up late revising. Admittedly, the precise mechanisms remain debated, and it would be unwise to claim that a good night's rest can substitute for practice.",
+      "Does this mean that technology can solve the problem? Flashcard applications that schedule reviews automatically have undoubtedly made spaced repetition accessible to millions. Nevertheless, a tool is only as useful as the habits surrounding it. Many learners accumulate thousands of cards yet never use the words in conversation, and a word that has never been spoken or written remains, in an important sense, borrowed rather than owned.",
+      "The lesson, then, is a modest one. Effective learning is rarely dramatic; it resembles gardening more than construction, rewarding steady attention over heroic effort. Forgetting is not the enemy of learning but a part of the process, a signal that a memory is ready to be strengthened. Those who accept this are likely to find that progress, though gradual, proves far more lasting than any last-minute sprint."
+     ],
+     "glossary": [
+      {
+       "en": "cram",
+       "def": "to study a large amount in a very short time"
+      },
+      {
+       "en": "retention",
+       "def": "the ability to keep information in the memory"
+      },
+      {
+       "en": "robust",
+       "def": "strong and reliable"
+      },
+      {
+       "en": "durable",
+       "def": "lasting for a long time"
+      },
+      {
+       "en": "consolidate",
+       "def": "to make something stronger or more secure"
+      },
+      {
+       "en": "node",
+       "def": "a point in a network where connections meet"
+      },
+      {
+       "en": "underestimate",
+       "def": "to think something is less important or powerful than it is"
+      },
+      {
+       "en": "integrate",
+       "def": "to combine one thing with another so that they work together"
+      },
+      {
+       "en": "accumulate",
+       "def": "to gradually collect a large number of things"
+      },
+      {
+       "en": "heroic",
+       "def": "showing great courage or effort"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-c1-2-q1",
+       "type": "choice",
+       "prompt": "Which statement best summarises the article?",
+       "options": [
+        "Forgetting can be avoided completely if learners study late at night.",
+        "Technology has made traditional study methods unnecessary.",
+        "Forgetting is predictable, so language learning works best when study is spaced, tested and varied.",
+        "Memorising word lists is the fastest route to lasting fluency."
+       ],
+       "answer": 2,
+       "explain": "The article presents forgetting as a pattern to work with, then recommends spacing, self-testing and varied contexts."
+      },
+      {
+       "id": "orig-c1-2-q2",
+       "type": "choice",
+       "prompt": "Why do learners who simply reread often feel more confident?",
+       "options": [
+        "They mistake a feeling of familiarity for real knowledge.",
+        "They have already memorised every word perfectly.",
+        "They sleep longer than learners who test themselves.",
+        "They use flashcard applications more often."
+       ],
+       "answer": 0,
+       "explain": "The writer says 'familiarity is a poor guide to genuine knowledge'."
+      },
+      {
+       "id": "orig-c1-2-q3",
+       "type": "choice",
+       "prompt": "What is the writer's view of flashcard applications?",
+       "options": [
+        "They are harmful and should be avoided.",
+        "They are the only method that works.",
+        "They are useful mainly for beginners.",
+        "They are valuable, but not enough without real use of the words."
+       ],
+       "answer": 3,
+       "explain": "The apps 'have undoubtedly made spaced repetition accessible', but 'a tool is only as useful as the habits surrounding it'."
+      },
+      {
+       "id": "orig-c1-2-q4",
+       "type": "choice",
+       "prompt": "In the third paragraph, 'desirable difficulty' refers to",
+       "options": [
+        "a test that is too hard to complete",
+        "the effort of recalling something, which makes memory stronger",
+        "the problem of forgetting old words",
+        "a method of avoiding mistakes while studying"
+       ],
+       "answer": 1,
+       "explain": "The sentence before it says that 'the difficulty of recall, not its ease' makes learning stick."
+      },
+      {
+       "id": "orig-c1-2-q5",
+       "type": "gap",
+       "prompt": "Reviewing material at gradually widening ___ produces more durable memories than cramming.",
+       "answers": [
+        "intervals",
+        "the intervals"
+       ],
+       "explain": "The spacing effect depends on reviewing 'at gradually widening intervals'."
+      },
+      {
+       "id": "orig-c1-2-q6",
+       "type": "translate",
+       "prompt": "Olvidar no es el enemigo del aprendizaje, sino parte del proceso.",
+       "answers": [
+        "Forgetting is not the enemy of learning, but part of the process.",
+        "Forgetting is not the enemy of learning but part of the process.",
+        "Forgetting isn't the enemy of learning, but part of the process.",
+        "Forgetting is not the enemy of learning, but a part of the process.",
+        "Forgetting is not learning's enemy, but part of the process."
+       ],
+       "explain": "The article's last paragraph says forgetting is 'not the enemy of learning but a part of the process'."
+      }
+     ]
+    },
+    {
+     "id": "orig-c1-3",
+     "title": "Part 3: Streets for people, not only for cars",
+     "intro": "The article looks at how cities came to be built around cars and at the debate over making them friendlier to pedestrians.",
+     "paragraphs": [
+      "Stand on almost any major street in the world and ask what it is for. In many cities, the honest answer would be: moving cars. Roads occupy a staggering share of urban land, parking lots swallow prime locations, and pedestrians are expected to wait patiently at crossings designed to keep traffic flowing. It was not always so. The dominance of the car in city planning is a relatively recent development, the product of choices made in the twentieth century rather than of any natural law.",
+      "Those choices were made with good intentions. Planners faced growing populations and the promise of personal mobility, and they responded by widening roads, building highways through established neighbourhoods and separating homes from workplaces and shops. Only decades later did the costs become evident. Traffic, far from disappearing, expanded to fill the space provided, a phenomenon often called induced demand. Build a wider road, and more people will drive, until congestion returns.",
+      "A different philosophy has gained ground in recent years. Rather than asking how to move vehicles more efficiently, its advocates ask how to make places that people want to spend time in. Central to this approach is the idea of the walkable neighbourhood, where daily needs such as groceries, schools and parks lie within a short stroll or cycle ride. Such an arrangement is sometimes described as the 'fifteen-minute city', although the term has proved surprisingly controversial.",
+      "The controversy deserves attention. Critics have suggested that the concept is a pretext for restricting freedom of movement. Proponents reply that nothing in it forbids driving; the aim is to make alternatives genuinely attractive, so that residents have a choice. It is worth noting that a good deal of the disagreement stems from differing assumptions about who bears the cost of change. Shopkeepers, for instance, frequently fear that removing parking will drive customers away.",
+      "Evidence on this point is mixed but intriguing. Several cities that have pedestrianised central streets report that local businesses did not suffer as predicted, partly because people on foot tend to visit more often, even if they spend less on each visit. Yet it would be naive to assume that results from one place can be transplanted to another. Climate, density, public transport and local culture all shape what works.",
+      "Beyond economics lie questions of health and community. Streets that feel safe invite children to play, older people to walk and neighbours to meet by chance. Researchers have long noted that such casual encounters, though seemingly trivial, help build the trust on which communities depend. Reducing noise and air pollution brings obvious benefits, too. Not every improvement requires grand investment: planting trees, widening pavements and slowing traffic can transform a street at relatively modest cost.",
+      "Fairness cannot be ignored either. Improvements to a neighbourhood often raise property prices, and residents who endured years of neglect may find themselves priced out just as conditions improve. Planners who wish to avoid this outcome must think about affordable housing alongside cycle lanes. Similarly, people with disabilities, or those who depend on cars because of where they must work, deserve solutions rather than slogans.",
+      "What emerges, then, is not a crusade against the car but a rebalancing. A city is ultimately a shared space, and the question of whom it is designed for is as much political as technical. Those who answer 'everyone' take on a more demanding task than those who simply optimise traffic, but the reward is a place worth living in."
+     ],
+     "glossary": [
+      {
+       "en": "induced demand",
+       "def": "extra demand that appears because supply has been increased"
+      },
+      {
+       "en": "congestion",
+       "def": "a situation in which there is too much traffic or crowding"
+      },
+      {
+       "en": "advocate",
+       "def": "a person who publicly supports a particular idea"
+      },
+      {
+       "en": "stroll",
+       "def": "a slow, relaxed walk"
+      },
+      {
+       "en": "pretext",
+       "def": "a false reason given to hide the real purpose of an action"
+      },
+      {
+       "en": "proponent",
+       "def": "a person who argues in favour of something"
+      },
+      {
+       "en": "pedestrianise",
+       "def": "to make an area open only to people on foot"
+      },
+      {
+       "en": "transplant",
+       "def": "to move something from one place to another"
+      },
+      {
+       "en": "priced out",
+       "def": "forced to leave because costs have become too high"
+      },
+      {
+       "en": "crusade",
+       "def": "a long, determined campaign against something"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-c1-3-q1",
+       "type": "choice",
+       "prompt": "What is the central message of the article?",
+       "options": [
+        "Cars should be banned from every city as soon as possible.",
+        "Cities should be rebalanced so that streets serve people, not only vehicles.",
+        "Traffic problems can be solved permanently by building wider roads.",
+        "Walkable neighbourhoods are certain to increase the profits of every shop."
+       ],
+       "answer": 1,
+       "explain": "The final paragraph calls for 'not a crusade against the car but a rebalancing'."
+      },
+      {
+       "id": "orig-c1-3-q2",
+       "type": "choice",
+       "prompt": "What can be inferred about shopkeepers who fear the removal of parking?",
+       "options": [
+        "They are opposed to all forms of change.",
+        "They know that pedestrians never spend money.",
+        "They assume that most of their customers arrive by car.",
+        "They have studied evidence from other cities."
+       ],
+       "answer": 2,
+       "explain": "They fear that removing parking 'will drive customers away', which suggests they believe customers depend on cars; the next paragraph shows the evidence is more mixed."
+      },
+      {
+       "id": "orig-c1-3-q3",
+       "type": "choice",
+       "prompt": "What is the writer's attitude towards the evidence about pedestrianised streets?",
+       "options": [
+        "Balanced and cautious",
+        "Fully convinced of its accuracy",
+        "Suspicious and critical",
+        "Uninterested and vague"
+       ],
+       "answer": 0,
+       "explain": "The evidence is 'mixed but intriguing', and it would be 'naive' to assume results transfer from place to place."
+      },
+      {
+       "id": "orig-c1-3-q4",
+       "type": "choice",
+       "prompt": "In the third paragraph, 'Such an arrangement' refers to",
+       "options": [
+        "a road system designed to keep traffic flowing",
+        "a plan to build highways through old districts",
+        "a rule that forbids residents from driving",
+        "a neighbourhood where daily needs are a short walk or ride away"
+       ],
+       "answer": 3,
+       "explain": "It refers back to the walkable neighbourhood 'where daily needs ... lie within a short stroll or cycle ride'."
+      },
+      {
+       "id": "orig-c1-3-q5",
+       "type": "gap",
+       "prompt": "Traffic often expands to fill the space provided, a phenomenon called induced ___.",
+       "answers": [
+        "demand"
+       ],
+       "explain": "The second paragraph names the phenomenon 'induced demand'."
+      },
+      {
+       "id": "orig-c1-3-q6",
+       "type": "translate",
+       "prompt": "Una ciudad es, en última instancia, un espacio compartido.",
+       "answers": [
+        "A city is ultimately a shared space.",
+        "A city is, ultimately, a shared space.",
+        "A city is, in the end, a shared space.",
+        "In the end, a city is a shared space.",
+        "Ultimately, a city is a shared space.",
+        "A city is, in the last analysis, a shared space."
+       ],
+       "explain": "The article's last paragraph begins: 'A city is ultimately a shared space'."
+      }
+     ]
+    },
+    {
+     "id": "orig-c1-4",
+     "title": "Part 4: Who owns a style?",
+     "intro": "The article weighs the legal, economic and philosophical arguments in the debate over AI-generated art.",
+     "paragraphs": [
+      "When an image generated by software won a prize at an art competition a few years ago, the reaction was swift and divided. Some saw a milestone; others saw a betrayal. Since then, the debate over AI-generated art has only grown more heated, drawing in lawyers, technologists, galleries and, above all, the artists whose work made the technology possible. What makes the discussion so difficult is that it involves not one question but several, each pulling in a different direction.",
+      "The first concerns how these systems are built. Image generators learn by analysing vast collections of existing pictures, many of which were gathered from the internet without the creators' knowledge. Defenders argue that this resembles how human artists learn: by studying the works of others and absorbing their techniques. Critics counter that the comparison is misleading. A student cannot reproduce thousands of styles in seconds, nor can a student's output be used to undercut the very people whose work was studied.",
+      "The legal position is unsettled. Courts in several countries are considering whether training on copyrighted material constitutes fair use or infringement, and it is far from clear how they will rule. Even if the practice is eventually deemed lawful, however, legality and legitimacy are not the same thing. Many people feel that something can be permitted by law and still be unfair, particularly when the benefits flow mainly to companies rather than to creators.",
+      "A second question is economic. Illustrators, concept artists and designers report that commissions have dried up as clients turn to cheaper automated alternatives. Enthusiasts reply that every new technology, from photography to digital editing, provoked similar alarm, and that creative professions adapted. The analogy is instructive but imperfect: photography did not depend on the unpaid labour of the painters it threatened. Whether the scale and speed of this change permit the same adaptation remains uncertain.",
+      "The third question, and perhaps the most philosophical, is whether the output counts as art at all. Some hold that art requires intention and lived experience, qualities a statistical model cannot possess. Others argue that meaning arises in the encounter between work and viewer, regardless of how the work was made. Neither position is easily dismissed. It may be more productive to recognise that people use the word 'art' to mean different things: craft, self-expression, commodity or conversation.",
+      "Practical proposals are beginning to emerge. Some advocate consent-based systems, in which artists can opt in or out of training datasets, perhaps with compensation. Others favour clear labelling, so that audiences know how an image was produced and can decide how to value it. Neither measure would settle the deeper disagreements, but both would at least replace secrecy with transparency, which is a precondition for any serious debate.",
+      "It is also worth remembering that many artists are experimenting with the tools rather than rejecting them. For these practitioners, the software is another instrument, capable of producing the banal or the striking depending on the judgement of the person using it. This suggests that the technology's significance may depend less on what it can do than on who is allowed to shape its use.",
+      "No tidy conclusion is available. What seems certain is that the decisions made now, about consent, credit and compensation, will determine whether these tools enrich creative culture or hollow it out. Those decisions should not be left to engineers alone."
+     ],
+     "glossary": [
+      {
+       "en": "infringement",
+       "def": "the act of breaking a law or a right, such as copyright"
+      },
+      {
+       "en": "undercut",
+       "def": "to damage someone's position, for example by offering a lower price"
+      },
+      {
+       "en": "dry up",
+       "def": "to gradually stop; to run out"
+      },
+      {
+       "en": "analogy",
+       "def": "a comparison that shows how two things are similar"
+      },
+      {
+       "en": "commodity",
+       "def": "a product that is bought and sold"
+      },
+      {
+       "en": "opt in",
+       "def": "to choose to take part in something"
+      },
+      {
+       "en": "transparency",
+       "def": "openness about how something is done"
+      },
+      {
+       "en": "precondition",
+       "def": "something that must happen before something else is possible"
+      },
+      {
+       "en": "banal",
+       "def": "so ordinary that it is boring"
+      },
+      {
+       "en": "hollow out",
+       "def": "to remove the real value or content of something"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-c1-4-q1",
+       "type": "choice",
+       "prompt": "Which statement best describes the article?",
+       "options": [
+        "It proves that AI-generated images are not real art.",
+        "It argues that artists should accept the new technology without question.",
+        "It shows that the debate involves several separate questions without easy answers.",
+        "It explains in detail how image generators are programmed."
+       ],
+       "answer": 2,
+       "explain": "The first paragraph says the discussion involves 'not one question but several', and the article never gives a tidy conclusion."
+      },
+      {
+       "id": "orig-c1-4-q2",
+       "type": "choice",
+       "prompt": "What does the writer imply by calling the photography analogy 'instructive but imperfect'?",
+       "options": [
+        "The comparison teaches something, but there is an important difference.",
+        "Photography was never a threat to painters.",
+        "Creative professions have never adapted to change.",
+        "The analogy is completely useless."
+       ],
+       "answer": 0,
+       "explain": "Photography 'did not depend on the unpaid labour of the painters it threatened', so the situations are not identical."
+      },
+      {
+       "id": "orig-c1-4-q3",
+       "type": "choice",
+       "prompt": "How would you describe the writer's stance?",
+       "options": [
+        "Strongly opposed to the technology",
+        "Enthusiastic about replacing human artists",
+        "Unwilling to discuss legal questions",
+        "Balanced, taking concerns on both sides seriously"
+       ],
+       "answer": 3,
+       "explain": "The writer presents defenders and critics fairly, and says 'neither position is easily dismissed'."
+      },
+      {
+       "id": "orig-c1-4-q4",
+       "type": "choice",
+       "prompt": "In the last paragraph, 'hollow it out' means",
+       "options": [
+        "make it more widely available",
+        "remove its real value and substance",
+        "change its name",
+        "protect it from damage"
+       ],
+       "answer": 1,
+       "explain": "The contrast is between tools that 'enrich' creative culture and tools that 'hollow it out', i.e. empty it of its substance."
+      },
+      {
+       "id": "orig-c1-4-q5",
+       "type": "gap",
+       "prompt": "Even if the practice is judged lawful, legality and ___ are not the same thing.",
+       "answers": [
+        "legitimacy"
+       ],
+       "explain": "The third paragraph distinguishes legality from 'legitimacy'."
+      },
+      {
+       "id": "orig-c1-4-q6",
+       "type": "translate",
+       "prompt": "Las decisiones que se tomen ahora determinarán el futuro de la cultura creativa.",
+       "answers": [
+        "The decisions made now will determine the future of creative culture.",
+        "The decisions that are made now will determine the future of creative culture.",
+        "The decisions taken now will determine the future of creative culture.",
+        "The decisions that are taken now will determine the future of creative culture.",
+        "Decisions made now will determine the future of creative culture."
+       ],
+       "explain": "The final paragraph says decisions made now 'will determine whether these tools enrich creative culture or hollow it out'."
+      }
+     ]
+    }
+   ],
+   "note": "Original text written for this app."
+  },
+  {
+   "id": "orig-c2",
+   "title": "The Salt Ledger",
+   "author": "Original story",
+   "level": "C2",
+   "parts": [
+    {
+     "id": "orig-c2-1",
+     "title": "Part 1: The Pane of Glass",
+     "intro": "A veteran translator receives a posthumous manuscript and boasts that she will remain invisible inside it.",
+     "paragraphs": [
+      "I have always held that a good translator is a pane of glass: clean, unremarked, and, if the work is done properly, forgotten the moment anyone looks through it. It is a creed I recommend to the young, partly because it is true and partly because it keeps them quiet.",
+      "The manuscript arrived on a Tuesday in November, in a box that had clearly been sealed by someone who distrusted tape. Inside lay four hundred and twelve typed pages, a note from the publisher in the clipped dialect of people who pay late, and nothing else. No photograph of the author, no biography, not even a pencilled apology for the state of the footnotes. The title page read The Salt Ledger, by one Anselm Voss, deceased, which I took to be a professional courtesy: the dead make the least troublesome clients.",
+      "I should say at the outset that I am not a woman given to fancy. My flat is on the fourth floor of a building whose lift has been out of order since the previous administration, and I climb the stairs each evening with the grim satisfaction of someone who has never once asked for help. My sister says this is a character flaw. I say it is a pension plan.",
+      "For the first sixty pages the book behaved itself. It concerned a harbour town, a family of ropemakers, and a quarrel over an inheritance, all rendered in the long, rolling sentences that Voss's language permits and mine merely tolerates. I worked from nine until one, then from three until seven, with the discipline of a monk who has been told the monastery is being sold. I ate standing up. I translated 'the sea declined to forgive them' three different ways before settling on the plainest, which is, I have found, usually the one that wounds.",
+      "It was on page sixty-one that the heroine, a woman named Ilka, sat down at her kitchen table and stirred three sugars into a cup of tea she did not intend to drink. 'It was a habit,' wrote Voss, 'that she had inherited from her mother along with the chipped blue cup, and she would have denied it under oath.'",
+      "I put down my pencil. This was not, I wish to be clear, the response of a woman given to fancy. It was the response of a woman who had, that very morning, stirred three sugars into a cup of tea she did not intend to drink, using a chipped blue cup that had belonged to her mother, and who would have denied it under oath.",
+      "Naturally, I laughed. Three sugars is hardly a fingerprint. Half the continent sweetens its grief. As for the cup, chipped blue crockery is the common currency of dead mothers; one could furnish a small museum with it. I made a fresh pot, drank it black and in protest, and returned to the page with the faintly theatrical briskness of someone resolved to notice nothing.",
+      "But a translator is, by trade, a person who notices everything and then says it in another language. That is the whole difficulty of the profession. By evening I had found Ilka's habit of counting the stairs aloud when she was frightened, which I do, and her distaste for the colour yellow, which I share, and a limp, the legacy of an old fall from a bicycle, that Voss placed in the left ankle, which is precisely where mine lives.",
+      "I closed the manuscript at seven exactly, as a matter of principle. Then I stood at the window for some time, watching the streetlamps come on in their orderly sequence, like an argument being made by someone who has already won it.",
+      "'Coincidence,' I said aloud to the empty room, and the room, being a good listener, did not contradict me."
+     ],
+     "glossary": [
+      {
+       "en": "pane",
+       "def": "a sheet of glass in a window"
+      },
+      {
+       "en": "creed",
+       "def": "a set of beliefs that guides how someone lives or works"
+      },
+      {
+       "en": "clipped",
+       "def": "short, abrupt and cold in manner of speaking"
+      },
+      {
+       "en": "deceased",
+       "def": "dead"
+      },
+      {
+       "en": "fancy",
+       "def": "the tendency to imagine things that are not real"
+      },
+      {
+       "en": "grim",
+       "def": "serious and unsmiling, without any pleasure"
+      },
+      {
+       "en": "assiduously",
+       "def": "with great care and steady effort"
+      },
+      {
+       "en": "crockery",
+       "def": "plates, cups and other dishes"
+      },
+      {
+       "en": "briskness",
+       "def": "a quick, energetic and efficient manner"
+      },
+      {
+       "en": "wound",
+       "def": "to hurt someone, especially emotionally"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-c2-1-q1",
+       "type": "choice",
+       "prompt": "What does the narrator mean when she says a good translator is 'a pane of glass'?",
+       "options": [
+        "A translator should be fragile and easily broken",
+        "A translator should be unnoticed, letting the original show through",
+        "A translator should reflect her own opinions in the text",
+        "A translator should keep readers at a distance"
+       ],
+       "answer": 1,
+       "explain": "Glass that is 'clean, unremarked' and forgotten when looked through is a metaphor for an invisible translator."
+      },
+      {
+       "id": "orig-c2-1-q2",
+       "type": "choice",
+       "prompt": "What is the tone of 'I say it is a pension plan'?",
+       "options": [
+        "Wry and self-justifying",
+        "Angry and defensive",
+        "Sincere and financial",
+        "Nostalgic and tender"
+       ],
+       "answer": 0,
+       "explain": "She jokes that her stubborn self-reliance is an investment: a dry, ironic defence of her 'character flaw'."
+      },
+      {
+       "id": "orig-c2-1-q3",
+       "type": "choice",
+       "prompt": "Why does the narrator insist twice that she is 'not a woman given to fancy'?",
+       "options": [
+        "She wants the reader to know she is a poor writer",
+        "She is already worried that her reaction may be exaggerated, and she protests too much",
+        "She has a medical condition",
+        "She dislikes the heroine"
+       ],
+       "answer": 1,
+       "explain": "The repeated denial, just before and after the strange coincidence, signals that she is trying to reassure herself."
+      },
+      {
+       "id": "orig-c2-1-q4",
+       "type": "choice",
+       "prompt": "The sentence 'the room, being a good listener, did not contradict me' suggests that she",
+       "options": [
+        "has been talking to a friend",
+        "finds the room beautiful",
+        "is alone and her explanation goes unchallenged",
+        "has heard a noise in the flat"
+       ],
+       "answer": 2,
+       "explain": "The personified room is silent, so nobody challenges her claim; the humour hides her unease."
+      },
+      {
+       "id": "orig-c2-1-q5",
+       "type": "gap",
+       "prompt": "I translated the line three different ways before settling on the plainest, which is usually the one that ___.",
+       "answers": [
+        "wounds"
+       ],
+       "explain": "The text says the plainest version 'is, I have found, usually the one that wounds'."
+      },
+      {
+       "id": "orig-c2-1-q6",
+       "type": "translate",
+       "prompt": "Una buena traductora debe ser como un cristal: nadie debería notarla.",
+       "answers": [
+        "A good translator should be like a pane of glass: nobody should notice her.",
+        "A good translator must be like a pane of glass: no one should notice her.",
+        "A good translator should be like glass: nobody should notice her.",
+        "A good translator ought to be like a pane of glass: no one should notice her."
+       ],
+       "explain": "'Pane of glass' = cristal de ventana; 'should' expresses the obligation."
+      }
+     ]
+    },
+    {
+     "id": "orig-c2-2",
+     "title": "Part 2: A Hardy Plant",
+     "intro": "The coincidences refuse to stay coincidences, and a phone call with her sister unsettles the narrator's memory.",
+     "paragraphs": [
+      "Coincidence, I discovered, is a hardy plant: it will grow in almost any soil, provided one waters it daily with denial. I watered mine assiduously for a week.",
+      "By the second week, however, the book had stopped pretending. In chapter nine, Ilka received a letter from a man she had once refused to marry, and she read it standing in the hallway with her coat still on, then filed it, unanswered, between the pages of a cookery book. I have such a letter. I have such a cookery book. I did not, I assured myself, need to check the shelf, and so I checked the shelf, and there it was, the spine cracked at exactly the chapter on preserves, the envelope still furred with a decade's dust.",
+      "I rang my sister that evening. Perpetua and I speak on Sundays by custom and on other days by catastrophe, and she answered on the second ring, which told me she had already assumed the latter.",
+      "'Nothing is wrong,' I said. 'I am merely conducting a small survey. Do you remember whether I ever told you about Tomas's letter?'",
+      "'Which Tomas?'",
+      "'Precisely.' I was pleased with this; it was the answer of a witness who has not been coached. 'And the cup. The blue one. Do you remember who had it last?'",
+      "'You did,' said Perpetua. 'You took it from the house the week we cleared it. You said it would be wasteful to throw away a perfectly good cup, and then you cried in the car for forty minutes.'",
+      "'I did nothing of the kind.'",
+      "'Helena, I was driving.'",
+      "I let that pass, as one lets pass a bus that is going in the wrong direction. It was, after all, my sister's version of events, and my sister has always had a weakness for the dramatic; as a child she insisted that the wardrobe contained a bishop. I thanked her, promised to call on Sunday, and hung up with the cool dignity of a woman who has not been contradicted by anyone of consequence.",
+      "Then I sat for a long while with the receiver in my lap, listening to the flat, patient hum of the dial tone as if it were a verdict.",
+      "The difficulty, you understand, was not that Voss knew things. A novelist is a kind of burglar; he enters the house of the human heart through the window and takes whatever he finds. The difficulty was that Voss knew them in my order. Ilka's secrets emerged in the same sequence in which I had arranged my own, the small shames first, set out like the good china, the large ones kept in the cellar for as long as the furniture would allow. No stranger shuffles another person's guilt so exactly. It was the work of someone who had sat in the next room for forty years with a glass pressed to the wall.",
+      "I made enquiries, naturally, with the thoroughness of a woman who prefers facts to feelings, mostly because facts do not ask how you are. The publisher's assistant, a pleasant young man who pronounced my name as though it were a diagnosis, told me that Anselm Voss had died in a hospice by the coast, that he had left no family, and that the manuscript had been found in a drawer 'with a note addressed to the translator.'",
+      "'Which translator?' I asked.",
+      "'Well,' he said, and I heard him turn a page, 'it says \"to whoever is sensible enough to be afraid of it\". We assumed that was a joke.'",
+      "'Naturally,' I said. 'A joke.'",
+      "I did not sleep that night, which I put down to the tea. I had, of course, resumed drinking it with sugar. There seemed little point in resisting any longer, and it is a curious comfort, when one is being written, to be at least a consistent character."
+     ],
+     "glossary": [
+      {
+       "en": "hardy",
+       "def": "strong and able to survive difficult conditions"
+      },
+      {
+       "en": "denial",
+       "def": "refusing to accept that something is true"
+      },
+      {
+       "en": "furred",
+       "def": "covered with a soft layer, such as dust"
+      },
+      {
+       "en": "preserves",
+       "def": "fruit cooked with sugar and stored in jars; jam"
+      },
+      {
+       "en": "coached",
+       "def": "trained or prepared in advance to say particular things"
+      },
+      {
+       "en": "verdict",
+       "def": "an official decision, especially about guilt"
+      },
+      {
+       "en": "burglar",
+       "def": "a person who breaks into a building to steal"
+      },
+      {
+       "en": "shames",
+       "def": "things that cause embarrassment or guilt"
+      },
+      {
+       "en": "enquiries",
+       "def": "questions asked in order to find information"
+      },
+      {
+       "en": "hospice",
+       "def": "a place that cares for people who are dying"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-c2-2-q1",
+       "type": "choice",
+       "prompt": "What does the metaphor of coincidence as 'a hardy plant' suggest?",
+       "options": [
+        "Coincidences are rare and beautiful",
+        "Coincidences survive easily if a person keeps feeding them with refusal to face facts",
+        "Coincidences need a lot of sunlight",
+        "Coincidences are dangerous to touch"
+       ],
+       "answer": 1,
+       "explain": "The plant grows 'provided one waters it daily with denial': the narrator keeps the explanation alive by not looking at the evidence."
+      },
+      {
+       "id": "orig-c2-2-q2",
+       "type": "choice",
+       "prompt": "Why is her pleased reaction to 'Which Tomas?' ironic?",
+       "options": [
+        "She wants to change the subject",
+        "She takes her sister's ignorance as proof that she kept the secret, yet the manuscript knows it anyway",
+        "It proves that her sister dislikes her",
+        "She has forgotten the man's name"
+       ],
+       "answer": 1,
+       "explain": "Perpetua knows nothing of Tomas, so the secret seems safe; the irony is that the manuscript has exposed it."
+      },
+      {
+       "id": "orig-c2-2-q3",
+       "type": "choice",
+       "prompt": "The sister's reply 'Helena, I was driving' mainly serves to",
+       "options": [
+        "change the subject to travel",
+        "undermine the narrator's account of her own memory",
+        "show that Perpetua is a careless driver",
+        "introduce a new character"
+       ],
+       "answer": 1,
+       "explain": "Perpetua was physically present and saw her cry, which makes the narrator's denial unreliable."
+      },
+      {
+       "id": "orig-c2-2-q4",
+       "type": "choice",
+       "prompt": "What does the comparison of a novelist to 'a kind of burglar' imply?",
+       "options": [
+        "Writers are generally dishonest people",
+        "Writers take private experience without permission",
+        "Writers should be punished",
+        "Writers prefer to work at night"
+       ],
+       "answer": 1,
+       "explain": "He 'enters the house of the human heart through the window and takes whatever he finds': an image of intrusion and theft."
+      },
+      {
+       "id": "orig-c2-2-q5",
+       "type": "gap",
+       "prompt": "She did not sleep that night, which she put ___ to the tea.",
+       "answers": [
+        "down"
+       ],
+       "explain": "'Put down to' means 'attribute to': she blames the tea, not her worry."
+      },
+      {
+       "id": "orig-c2-2-q6",
+       "type": "translate",
+       "prompt": "Es un consuelo curioso, cuando alguien te está escribiendo, ser al menos un personaje coherente.",
+       "answers": [
+        "It is a curious comfort, when one is being written, to be at least a consistent character.",
+        "It's a strange comfort, when someone is writing you, to be at least a consistent character.",
+        "It is a curious comfort, when someone is writing you, to be at least a consistent character.",
+        "It's a curious comfort to be at least a consistent character when someone is writing you."
+       ],
+       "explain": "'Consistent' is the natural word for coherente here; the passive 'being written' is the key structure."
+      }
+     ]
+    },
+    {
+     "id": "orig-c2-3",
+     "title": "Part 3: Eleven Visits",
+     "intro": "A chapter threatens to expose a fact the narrator has hidden for years, and she tests the limits of her professional rule.",
+     "paragraphs": [
+      "There is a rule in my profession, rarely spoken aloud because it flatters no one: the translator may smooth, may soften, may even, in extremity, omit; but she may not lie. I had lived by it for thirty years, and it had never once been tested, for the simple reason that nobody had ever written down anything I wished to keep hidden.",
+      "Chapter fourteen tested it in the first paragraph.",
+      "Ilka's mother, in the book, grew old in a house by the water and was moved, in the autumn of her eighty-first year, to a care home forty miles inland. Ilka signed the papers on a Thursday. She chose the home, Voss tells us, for its gravel drive, its fresh paint, and its distance, and she told everyone that the distance was a matter of the garden. She visited eleven times in two years. Voss does not comment on the number; he merely lists the dates, with the unblinking courtesy of a clerk reading out a will.",
+      "I know the number. I have never told it to anyone, not to Perpetua, not to the priest whom I stopped visiting, and not, for most of the last decade, to myself. It lives in the cellar with the good wine and the bad news.",
+      "I did what any person of principle would do: I made tea, and I made a plan. The plan was elegant, and it had the great advantage of being entirely professional. Voss's syntax at this point grows tangled; a certain looseness in the tenses leaves it unclear whether Ilka visited eleven times or merely intended to. A translator is permitted, indeed obliged, to resolve ambiguity, and I resolved it in the kindest direction. Ilka visited often. Ilka visited, in my English, so frequently that the nurses knew her by name.",
+      "I read the sentence back and found it excellent. It had a warmth I should have been proud of in any other circumstances. Then I read the original again, and the original, which was not warm in the least, looked back at me with an expression I can only describe as patience.",
+      "It is a remarkable thing to be corrected by a dead man. I had always imagined that the dead, if they spoke, would raise their voices. Voss did nothing of the kind. He had simply set down the truth in a clean, rather beautiful sentence, and left it lying on the page like a coin on a counter, certain that I would eventually pick it up.",
+      "I should record, in fairness to myself, that I resisted for three days. I took long walks. I cleaned the oven, a task I had not undertaken since the Berlin Wall came down. I wrote to the publisher proposing that the chapter be cut on grounds of pace, and received a reply so courteous that it could only have been written by someone who had not read it. On the fourth morning I climbed the four flights with a bag of shopping, felt the old ankle protest as it always does, and counted the steps aloud in the stairwell, quietly, as I have done since childhood, and understood that I had been counting them for the whole of this book.",
+      "That afternoon I translated the chapter as it stood. Eleven visits. Eleven, in plain English, with no adverbs to cushion the fall. My hands, I noticed, were perfectly steady, and that frightened me more than a tremor would have done, because a steady hand is only a sign that the heart has stopped arguing.",
+      "When I had finished, I did something I have not done since I was a girl. I went to the window, opened it, and said the number into the evening air, once, aloud, to see whether the street would object. The street did not. A man walked a dog. A bus sighed at the corner. The world, as ever, was too busy to forgive me, and for that small mercy I was almost grateful."
+     ],
+     "glossary": [
+      {
+       "en": "flatters",
+       "def": "praises someone, often insincerely"
+      },
+      {
+       "en": "in extremity",
+       "def": "in an extreme or desperate situation"
+      },
+      {
+       "en": "unblinking",
+       "def": "showing no emotion or hesitation"
+      },
+      {
+       "en": "syntax",
+       "def": "the way words are arranged to form sentences"
+      },
+      {
+       "en": "ambiguity",
+       "def": "the quality of having more than one possible meaning"
+      },
+      {
+       "en": "courteous",
+       "def": "polite and respectful"
+      },
+      {
+       "en": "stairwell",
+       "def": "the space in a building that contains the stairs"
+      },
+      {
+       "en": "tremor",
+       "def": "a slight shaking of the body"
+      },
+      {
+       "en": "cushion",
+       "def": "to make the effect of something less painful"
+      },
+      {
+       "en": "cellar",
+       "def": "an underground room used for storage"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-c2-3-q1",
+       "type": "choice",
+       "prompt": "What does the narrator mean by saying the number 'lives in the cellar with the good wine and the bad news'?",
+       "options": [
+        "She stores documents in her basement",
+        "She keeps the painful fact hidden and buried with other things she avoids",
+        "She is planning to sell her wine",
+        "She has forgotten the number"
+       ],
+       "answer": 1,
+       "explain": "The cellar is a metaphor for the part of memory where she hides things she would rather not face."
+      },
+      {
+       "id": "orig-c2-3-q2",
+       "type": "choice",
+       "prompt": "How does the narrator try to 'resolve' the ambiguity?",
+       "options": [
+        "She adds a note explaining the problem",
+        "She chooses the reading that makes Ilka look kinder, which bends the truth",
+        "She asks the publisher for advice",
+        "She translates it exactly as written"
+       ],
+       "answer": 1,
+       "explain": "She argues she is only resolving ambiguity, but she picks the version that flatters her: a lie disguised as a professional choice."
+      },
+      {
+       "id": "orig-c2-3-q3",
+       "type": "choice",
+       "prompt": "The line 'the original ... looked back at me with an expression I can only describe as patience' is an example of",
+       "options": [
+        "personification",
+        "hyperbole",
+        "a rhetorical question",
+        "onomatopoeia"
+       ],
+       "answer": 0,
+       "explain": "A text is given a face and a feeling, which is personification."
+      },
+      {
+       "id": "orig-c2-3-q4",
+       "type": "choice",
+       "prompt": "Why does she say a steady hand frightened her more than a tremor?",
+       "options": [
+        "She feared her health had worsened",
+        "It suggests she had stopped feeling guilt, a calm that seems worse than distress",
+        "She wanted to write faster",
+        "She had drunk too much tea"
+       ],
+       "answer": 1,
+       "explain": "The steady hand shows 'the heart has stopped arguing': she had given in without a fight, which is more disturbing than visible distress."
+      },
+      {
+       "id": "orig-c2-3-q5",
+       "type": "gap",
+       "prompt": "In her false version, Ilka visited so ___ that the nurses knew her by name.",
+       "answers": [
+        "frequently",
+        "often"
+       ],
+       "explain": "In her false translation Ilka 'visited often... so frequently that the nurses knew her by name'."
+      },
+      {
+       "id": "orig-c2-3-q6",
+       "type": "translate",
+       "prompt": "Es extraño que te corrija un hombre muerto.",
+       "answers": [
+        "It is a remarkable thing to be corrected by a dead man.",
+        "It is strange to be corrected by a dead man.",
+        "It's odd to be corrected by a dead man.",
+        "It's strange to be corrected by a dead man.",
+        "It is strange being corrected by a dead man."
+       ],
+       "explain": "'It is strange/odd to be corrected' uses the passive infinitive after an impersonal 'It is ...'."
+      }
+     ]
+    },
+    {
+     "id": "orig-c2-4",
+     "title": "Part 4: The Missing Verb",
+     "intro": "The final pages arrive, and the narrator must choose how a sentence, and perhaps a life, will end.",
+     "paragraphs": [
+      "The last chapter reached me on the twenty-third of December, which is to say that I reached it, having approached it for weeks in the manner of a swimmer testing cold water with one toe. It was only four pages long. Voss, who had never hurried anything, seemed to have lost patience with himself in the closing stretch, and the sentences came shorter, plainer, stripped of their ropes and rigging, like a ship that has decided to stop pretending it is going anywhere but home.",
+      "I have withheld one fact until now, and you will forgive me; a translator, like a good host, saves the cheese for the end. In the final chapter we learn that Ilka, the ropemaker's daughter, has spent her life translating other people's books. She sits at her kitchen table with a stranger's manuscript, a cup of sweet tea going cold at her elbow, and discovers that the pages describe her. She laughs. She tells herself it is coincidence. She is, Voss writes, 'a woman not given to fancy.'",
+      "I read that line eleven times, which seemed fitting.",
+      "There was a second discovery, smaller and in some ways worse. I had spent a month admiring Voss's typescript for its clean, old-fashioned look, and only now, in the clear light of a winter morning, did I notice that the lowercase e sinks slightly below the line, a defect that no one would choose and that I would know anywhere. I owned a typewriter with that flaw. I sold it in 1994 to a man who did not give his name and paid, I recall, in coins.",
+      "I do not draw conclusions from this. I am a translator, not a detective, and the profession teaches one to distrust anyone who is too sure of what a sentence means.",
+      "The book ends in mid-air. Ilka types the final full stop, rises from the table, takes her coat from its hook, and the last line of the manuscript reads, in the original, 'Then Ilka put on her coat and' and there it stops, without a verb, without a full stop, hanging over the white margin like a foot over a stair. Beneath it, in pencil, in a hand that trembles but is not unkind, are three words: 'Yours to finish.'",
+      "For a day I did nothing. I let the line sit in the flat like a guest who has not been asked to leave. I thought of the tea, and the cup, and the eleven dates, and the long gravel drive that I have, in the privacy of my own cellar, driven up in my head a great many times without ever once reaching the door. I considered the verbs available to me. A weaker woman would have chosen 'wept', a vainer one 'wrote', and a woman wishing to be admired by the critics would have chosen something with a great deal of weather in it.",
+      "On Christmas Eve, at about four in the afternoon, I typed one word, on a modern machine with a perfectly behaved e, and closed the file. I will not tell you which word it was. A translator, like a confessor, is trusted precisely because she is not heard. The publisher may print the book as it stands; the critics may admire or ignore it; the verb, I suspect, will matter only to two people, one of whom is dead.",
+      "But I will tell you what happened afterwards, since it is a matter of record. I took the cup down from the shelf, washed it, and placed it, with a certain ceremony, in the cardboard box I had set aside for the post. I looked up the timetable for the inland train. It leaves at ten. I have bought a ticket, as a matter of research, and my coat is on the chair.",
+      "Then I went out to the stairs, and, from habit, began to count them aloud. There are sixty-one. I had never known."
+     ],
+     "glossary": [
+      {
+       "en": "rigging",
+       "def": "the ropes and chains that support a ship's sails"
+      },
+      {
+       "en": "withheld",
+       "def": "kept back; not given or told"
+      },
+      {
+       "en": "typescript",
+       "def": "a typed copy of a text"
+      },
+      {
+       "en": "defect",
+       "def": "a fault or imperfection"
+      },
+      {
+       "en": "trembles",
+       "def": "shakes slightly, usually from weakness or emotion"
+      },
+      {
+       "en": "vainer",
+       "def": "more concerned with admiration of oneself"
+      },
+      {
+       "en": "confessor",
+       "def": "a priest who hears people's confessions; someone who keeps secrets"
+      },
+      {
+       "en": "ceremony",
+       "def": "a formal and dignified way of doing something"
+      },
+      {
+       "en": "fitting",
+       "def": "suitable or appropriate"
+      },
+      {
+       "en": "margin",
+       "def": "the empty space at the edge of a page"
+      }
+     ],
+     "items": [
+      {
+       "id": "orig-c2-4-q1",
+       "type": "choice",
+       "prompt": "What new fact does the narrator admit she has 'withheld'?",
+       "options": [
+        "Ilka is also a translator",
+        "The manuscript has a different title",
+        "Voss was still alive",
+        "The publisher wrote the last chapter"
+       ],
+       "answer": 0,
+       "explain": "In the final chapter Ilka has spent her life translating other people's books: the narrator's own profession."
+      },
+      {
+       "id": "orig-c2-4-q2",
+       "type": "choice",
+       "prompt": "What is the effect of the typewriter detail (the lowercase e that sinks below the line)?",
+       "options": [
+        "It proves the narrator wrote the manuscript herself",
+        "It raises, without settling, the question of who really authored the book",
+        "It shows the manuscript is a forgery by the publisher",
+        "It is a purely decorative detail"
+       ],
+       "answer": 1,
+       "explain": "She cannot prove anything, but the shared flaw and the nameless buyer suggest an unresolved link; the narrator refuses to 'draw conclusions'."
+      },
+      {
+       "id": "orig-c2-4-q3",
+       "type": "choice",
+       "prompt": "What is the significance of the sentence that stops 'without a verb'?",
+       "options": [
+        "It is a printing error that must be corrected",
+        "It leaves the narrator to decide how her own story will end",
+        "It shows that the author ran out of time",
+        "It proves the book was never finished"
+       ],
+       "answer": 1,
+       "explain": "The pencilled 'Yours to finish' makes the missing verb an invitation to choose an ending: her next action."
+      },
+      {
+       "id": "orig-c2-4-q4",
+       "type": "choice",
+       "prompt": "Her closing actions (the cup, the ticket, the coat, the counting) imply that she has",
+       "options": [
+        "decided to give up translating",
+        "chosen to take responsibility and finally travel to the place she has avoided",
+        "moved abroad",
+        "burned the manuscript"
+       ],
+       "answer": 1,
+       "explain": "She prepares to take the inland train, the route to the distant care home, and notices the stairs for the first time: a quiet shift toward facing her past."
+      },
+      {
+       "id": "orig-c2-4-q5",
+       "type": "gap",
+       "prompt": "'A translator, like a ___, is trusted precisely because she is not heard.'",
+       "answers": [
+        "confessor"
+       ],
+       "explain": "The comparison is with a confessor, who must keep secrets."
+      },
+      {
+       "id": "orig-c2-4-q6",
+       "type": "translate",
+       "prompt": "No te diré qué palabra elegí, porque a un traductor se le confía justamente porque no se le oye.",
+       "answers": [
+        "I will not tell you which word I chose, because a translator is trusted precisely because she is not heard.",
+        "I won't tell you which word I chose, because a translator is trusted precisely because she is not heard.",
+        "I will not tell you which word I chose, because a translator is trusted precisely because he is not heard.",
+        "I won't tell you which word I picked, because a translator is trusted precisely because she is not heard."
+       ],
+       "explain": "Note the indirect question 'which word I chose' (no inversion) and 'precisely because'."
+      }
+     ]
+    }
+   ],
+   "note": "Original text written for this app."
+  }
+ ]
+}

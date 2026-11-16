@@ -1,0 +1,1554 @@
+{
+ "id": "u-anglo-03",
+ "level": "B1",
+ "n": 3,
+ "title": "Getting a Job",
+ "goals": [
+  "Talk about your job interests and plans with gerunds: I enjoy working with people.",
+  "Choose between a gerund and an infinitive after common verbs: I want to apply; I avoid arriving late.",
+  "Say how long you have done something with the present perfect and for / since.",
+  "Understand the main parts of an online job ad: position, requirements, salary and how to apply.",
+  "Use useful phrases with a career counselor and in a job interview.",
+  "Write a short thank-you email after a job interview."
+ ],
+ "learn": [
+  {
+   "id": "g-gerunds",
+   "kind": "grammar",
+   "title": "Gerunds (verb + -ing)",
+   "html": "<p>A <strong>gerund</strong> is the <em>-ing</em> form of a verb used like a noun. It is very common when we talk about jobs and skills.</p><table><thead><tr><th>Use</th><th>Example</th></tr></thead><tbody><tr><td>As the subject of a sentence</td><td><strong>Working</strong> with people is interesting.</td></tr><tr><td>After a preposition (in, at, of, about, for)</td><td>She is good <strong>at solving</strong> problems. / I'm interested <strong>in becoming</strong> a nurse.</td></tr><tr><td>After some verbs: enjoy, avoid, finish, keep, consider, suggest, mind, practice</td><td>He enjoys <strong>helping</strong> customers. / I avoid <strong>being</strong> late.</td></tr><tr><td>After look forward to</td><td>I look forward to <strong>hearing</strong> from you.</td></tr></tbody></table><p>Negative gerund: put <em>not</em> before it: <em>I'm worried about not finding a job.</em></p>",
+   "watch": [
+    {
+     "wrong": "She is good at to talk with clients.",
+     "right": "She is good at talking with clients.",
+     "why": "After a preposition, always use the -ing form."
+    },
+    {
+     "wrong": "Work in a team is fun.",
+     "right": "Working in a team is fun.",
+     "why": "When a verb is the subject, use the gerund."
+    },
+    {
+     "wrong": "I look forward to meet you.",
+     "right": "I look forward to meeting you.",
+     "why": "In look forward to, the word to is a preposition, so the verb takes -ing."
+    },
+    {
+     "wrong": "He enjoys to cook.",
+     "right": "He enjoys cooking.",
+     "why": "Enjoy is followed by a gerund, never by an infinitive."
+    }
+   ]
+  },
+  {
+   "id": "g-ger-inf",
+   "kind": "grammar",
+   "title": "Gerunds and infinitives",
+   "html": "<p>Some verbs are followed by a <strong>gerund</strong> (<em>-ing</em>), some by an <strong>infinitive</strong> (<em>to</em> + base verb), and some by both. You need to learn each verb.</p><table><thead><tr><th>Pattern</th><th>Common verbs</th><th>Example</th></tr></thead><tbody><tr><td>verb + gerund</td><td>enjoy, avoid, finish, keep, consider, suggest, mind, practice</td><td>She finished <strong>writing</strong> her résumé.</td></tr><tr><td>verb + infinitive</td><td>want, need, hope, plan, decide, expect, learn, would like</td><td>I decided <strong>to look</strong> for a new job.</td></tr><tr><td>both (same meaning)</td><td>like, love, hate, start, begin, continue</td><td>I like <strong>working</strong> / <strong>to work</strong> at night.</td></tr><tr><td>adjective + infinitive</td><td>happy to, ready to, easy to, glad to</td><td>I'm ready <strong>to start</strong> tomorrow.</td></tr><tr><td>infinitive of purpose (why?)</td><td>to + base verb</td><td>He went to the office <strong>to leave</strong> his résumé.</td></tr></tbody></table><p>Tip: after a preposition, use a gerund. After <em>want, need, hope, plan, decide</em>, use <em>to</em>.</p>",
+   "watch": [
+    {
+     "wrong": "I want finding a better job.",
+     "right": "I want to find a better job.",
+     "why": "Want is followed by an infinitive."
+    },
+    {
+     "wrong": "She avoids to speak in meetings.",
+     "right": "She avoids speaking in meetings.",
+     "why": "Avoid is followed by a gerund."
+    },
+    {
+     "wrong": "He went to the bank for ask about a loan.",
+     "right": "He went to the bank to ask about a loan.",
+     "why": "To explain the purpose, use to + base verb, not for + verb."
+    },
+    {
+     "wrong": "They decided hiring two new workers.",
+     "right": "They decided to hire two new workers.",
+     "why": "Decide is followed by an infinitive."
+    }
+   ]
+  },
+  {
+   "id": "g-pp-for-since",
+   "kind": "grammar",
+   "title": "Present perfect with for and since",
+   "html": "<p>Use the <strong>present perfect</strong> (<em>have / has</em> + past participle) for something that started in the past and continues now. To say how long, use <strong>for</strong> or <strong>since</strong>.</p><table><thead><tr><th>Word</th><th>Use</th><th>Example</th></tr></thead><tbody><tr><td><strong>for</strong></td><td>a period of time</td><td>I have worked here <strong>for</strong> three years.</td></tr><tr><td><strong>since</strong></td><td>the starting point</td><td>She has been a nurse <strong>since</strong> 2018. / <strong>since</strong> last March.</td></tr><tr><td>Question</td><td>How long...?</td><td><strong>How long</strong> have you been a driver? — For six years.</td></tr></tbody></table><ul><li>Negative: <em>I haven't had a day off since Monday.</em></li><li>Short answers: <em>Have you worked here long? — Yes, I have.</em></li><li>The present perfect continuous is also possible: <em>I've been working here for three years.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "I work in this company since 2020.",
+     "right": "I have worked in this company since 2020.",
+     "why": "For an action that continues until now, use the present perfect, not the simple present."
+    },
+    {
+     "wrong": "She has been unemployed since two months.",
+     "right": "She has been unemployed for two months.",
+     "why": "Use for with a period of time; since is for a starting point."
+    },
+    {
+     "wrong": "How long do you work here?",
+     "right": "How long have you worked here?",
+     "why": "How long + present perfect."
+    },
+    {
+     "wrong": "I have lived here for 2015.",
+     "right": "I have lived here since 2015.",
+     "why": "2015 is a starting point, so use since."
+    }
+   ]
+  },
+  {
+   "id": "v-jobs",
+   "kind": "vocab",
+   "title": "Jobs and careers",
+   "words": [
+    {
+     "id": "w-accountant",
+     "en": "accountant",
+     "es": "contador/a",
+     "example": "My aunt is an accountant at a large company.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-electrician",
+     "en": "electrician",
+     "es": "electricista",
+     "example": "The electrician fixed the lights in our office."
+    },
+    {
+     "id": "w-plumber",
+     "en": "plumber",
+     "es": "plomero/a",
+     "example": "We called a plumber because the sink was leaking."
+    },
+    {
+     "id": "w-cashier",
+     "en": "cashier",
+     "es": "cajero/a",
+     "example": "The cashier gave me my change and a receipt."
+    },
+    {
+     "id": "w-receptionist",
+     "en": "receptionist",
+     "es": "recepcionista",
+     "example": "The receptionist answers the phone and welcomes visitors."
+    },
+    {
+     "id": "w-chef",
+     "en": "chef",
+     "es": "cocinero/a profesional, chef",
+     "example": "The chef has worked in this restaurant for ten years.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-mechanic",
+     "en": "mechanic",
+     "es": "mecánico/a",
+     "example": "A good mechanic can find the problem quickly.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-engineer",
+     "en": "engineer",
+     "es": "ingeniero/a",
+     "example": "He studied to become a civil engineer.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-flight-attendant",
+     "en": "flight attendant",
+     "es": "sobrecargo, auxiliar de vuelo",
+     "example": "A flight attendant helps passengers during the flight.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-security-guard",
+     "en": "security guard",
+     "es": "guardia de seguridad",
+     "example": "The security guard checks everyone at the door.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-truck-driver",
+     "en": "truck driver",
+     "es": "conductor/a de camión",
+     "example": "My cousin is a truck driver and travels all over the country.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-sales-rep",
+     "en": "sales representative",
+     "es": "representante de ventas",
+     "example": "A sales representative talks to customers about products.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-career-counselor",
+     "en": "career counselor",
+     "es": "orientador/a vocacional o laboral",
+     "example": "A career counselor can help you choose a profession.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-manager",
+     "en": "manager",
+     "es": "gerente, encargado/a",
+     "example": "The manager interviews every new employee.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "v-jobad",
+   "kind": "vocab",
+   "title": "Life skills: reading a job ad",
+   "words": [
+    {
+     "id": "w-position",
+     "en": "position",
+     "es": "puesto, vacante",
+     "example": "The company has a position open for a cashier.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-requirements",
+     "en": "requirements",
+     "es": "requisitos",
+     "example": "One of the requirements is a high school diploma.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-qualifications",
+     "en": "qualifications",
+     "es": "calificaciones, estudios y preparación",
+     "example": "Her qualifications are perfect for this job.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-experience",
+     "en": "experience",
+     "es": "experiencia",
+     "example": "We need someone with two years of experience.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-full-time",
+     "en": "full-time",
+     "es": "de tiempo completo",
+     "example": "This is a full-time job: 40 hours a week.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-part-time",
+     "en": "part-time",
+     "es": "de medio tiempo",
+     "example": "I have a part-time job while I study.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-salary",
+     "en": "salary",
+     "es": "sueldo, salario",
+     "example": "The ad does not say what the salary is.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-benefits",
+     "en": "benefits",
+     "es": "prestaciones laborales",
+     "example": "Health insurance and paid vacation are good benefits.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-apply",
+     "en": "apply (for a job)",
+     "es": "solicitar, postularse",
+     "example": "You can apply for the job on the company website.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-resume",
+     "en": "résumé",
+     "es": "currículum",
+     "example": "Please send your résumé before Friday.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-deadline",
+     "en": "deadline",
+     "es": "fecha límite",
+     "example": "The deadline to apply is October 30.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-shift",
+     "en": "shift",
+     "es": "turno",
+     "example": "I work the night shift on weekends.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-candidate",
+     "en": "candidate",
+     "es": "candidato/a",
+     "example": "The company interviewed five candidates today.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-reference",
+     "en": "reference",
+     "es": "referencia (persona que te recomienda)",
+     "example": "My old boss is my reference.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>I'm interested in working in... / I'd like some advice about...</strong> — talking to a career counselor.</li><li><strong>What are you good at? / What do you enjoy doing?</strong> — questions a counselor may ask.</li><li><strong>Have you ever thought about...?</strong> — suggesting an idea politely.</li><li><strong>I suggest updating your résumé.</strong> — giving advice.</li><li><strong>Tell me about yourself. / Why do you want this job?</strong> — common interview questions.</li><li><strong>I have three years of experience in... / I've worked as a... since...</strong> — talking about your experience.</li><li><strong>I'm good at working under pressure.</strong> — talking about your strengths.</li><li><strong>Thank you for your time. / I look forward to hearing from you.</strong> — closing an interview or an email.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Gerunds",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-gerunds",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "___ English every day helps you improve. (practice)",
+     "answers": [
+      "Practicing",
+      "Practising"
+     ],
+     "explain": "A verb used as the subject takes -ing."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "She is good at ___ with customers. (talk)",
+     "answers": [
+      "talking"
+     ],
+     "explain": "After a preposition (at), use the gerund."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "He is interested in ___ a mechanic. (become)",
+     "answers": [
+      "becoming"
+     ],
+     "explain": "After in, use -ing."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "I enjoy ___ with people. (work)",
+     "answers": [
+      "working"
+     ],
+     "explain": "Enjoy + gerund."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "My sister is thinking about ___ her job.",
+     "options": [
+      "change",
+      "changing",
+      "to change"
+     ],
+     "answer": 1,
+     "explain": "After the preposition about, use the gerund."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "She is afraid of to speak in meetings.",
+     "answers": [
+      "She is afraid of speaking in meetings.",
+      "She's afraid of speaking in meetings."
+     ],
+     "explain": "After of, use the gerund."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "Work with children is very rewarding.",
+     "answers": [
+      "Working with children is very rewarding."
+     ],
+     "explain": "A verb as the subject needs -ing."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "reports",
+      "Writing",
+      "a",
+      "takes",
+      "lot",
+      "of",
+      "time"
+     ],
+     "answers": [
+      "Writing reports takes a lot of time."
+     ],
+     "explain": "Gerund subject + verb in the third person."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Gerund or infinitive?",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-ger-inf",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "I want ___ a new job. (find)",
+     "answers": [
+      "to find"
+     ],
+     "explain": "Want + infinitive."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "He avoids ___ late to work. (arrive)",
+     "answers": [
+      "arriving"
+     ],
+     "explain": "Avoid + gerund."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "They decided ___ a small business. (start)",
+     "answers": [
+      "to start"
+     ],
+     "explain": "Decide + infinitive."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "She finished ___ the report at six o'clock. (write)",
+     "answers": [
+      "writing"
+     ],
+     "explain": "Finish + gerund."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "We hope ___ you next week.",
+     "options": [
+      "see",
+      "seeing",
+      "to see"
+     ],
+     "answer": 2,
+     "explain": "Hope + infinitive."
+    },
+    {
+     "id": "B6",
+     "type": "choice",
+     "prompt": "He keeps ___ for jobs online.",
+     "options": [
+      "to look",
+      "looking",
+      "look"
+     ],
+     "answer": 1,
+     "explain": "Keep + gerund."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "I need finding a better job.",
+     "answers": [
+      "I need to find a better job."
+     ],
+     "explain": "Need + infinitive."
+    },
+    {
+     "id": "B8",
+     "type": "fix",
+     "prompt": "She enjoys to cook for large groups.",
+     "answers": [
+      "She enjoys cooking for large groups."
+     ],
+     "explain": "Enjoy + gerund."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "More gerunds and infinitives",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-ger-inf",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "She likes ___ in a team. (work)",
+     "answers": [
+      "working",
+      "to work"
+     ],
+     "explain": "Like can be followed by a gerund or an infinitive."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "The company plans ___ ten new workers. (hire)",
+     "answers": [
+      "to hire"
+     ],
+     "explain": "Plan + infinitive."
+    },
+    {
+     "id": "C3",
+     "type": "choice",
+     "prompt": "I'm happy ___ you about the new job.",
+     "options": [
+      "tell",
+      "telling",
+      "to tell"
+     ],
+     "answer": 2,
+     "explain": "Adjective + infinitive: happy to tell."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "He went to the office ___ his résumé. (leave)",
+     "answers": [
+      "to leave"
+     ],
+     "explain": "To + base verb gives the purpose."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "Thank you for ___ me find this job. (help)",
+     "answers": [
+      "helping"
+     ],
+     "explain": "After the preposition for, use -ing."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "I'm looking forward to meet you.",
+     "answers": [
+      "I'm looking forward to meeting you.",
+      "I am looking forward to meeting you."
+     ],
+     "explain": "Look forward to + gerund."
+    },
+    {
+     "id": "C7",
+     "type": "translate",
+     "prompt": "Me gusta trabajar con niños.",
+     "answers": [
+      "I like working with children.",
+      "I like to work with children.",
+      "I like working with kids.",
+      "I like to work with kids."
+     ],
+     "explain": "Like + gerund or infinitive."
+    },
+    {
+     "id": "C8",
+     "type": "translate",
+     "prompt": "Ella decidió buscar otro trabajo.",
+     "answers": [
+      "She decided to look for another job.",
+      "She decided to find another job.",
+      "She decided to look for a different job.",
+      "She decided to find a different job."
+     ],
+     "explain": "Decide + infinitive."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "for and since",
+   "instructions": "Complete, choose, correct or order.",
+   "topic": "g-pp-for-since",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "I have worked here ___ three years.",
+     "answers": [
+      "for"
+     ],
+     "explain": "A period of time: for."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "She has been a nurse ___ 2019.",
+     "answers": [
+      "since"
+     ],
+     "explain": "A starting point: since."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "He ___ worked in this bank since March. (have)",
+     "answers": [
+      "has"
+     ],
+     "explain": "With he: has + past participle."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "We have known our boss ___ last year.",
+     "options": [
+      "for",
+      "since",
+      "from"
+     ],
+     "answer": 1,
+     "explain": "Last year is a starting point: since."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "How long ___ you worked as a driver?",
+     "options": [
+      "did",
+      "have",
+      "are"
+     ],
+     "answer": 1,
+     "explain": "How long + have + you + past participle."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "I work in this company since 2020.",
+     "answers": [
+      "I have worked in this company since 2020.",
+      "I've worked in this company since 2020.",
+      "I have been working in this company since 2020.",
+      "I've been working in this company since 2020."
+     ],
+     "explain": "Since + a starting point needs the present perfect."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "She has been unemployed since two months.",
+     "answers": [
+      "She has been unemployed for two months.",
+      "She's been unemployed for two months."
+     ],
+     "explain": "Two months is a period: for."
+    },
+    {
+     "id": "D8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "long",
+      "How",
+      "have",
+      "been",
+      "a",
+      "you",
+      "teacher"
+     ],
+     "answers": [
+      "How long have you been a teacher?"
+     ],
+     "explain": "How long + have + subject + past participle."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: jobs",
+   "instructions": "Complete, choose or translate.",
+   "topic": "v-jobs",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "An ___ fixes lights and wires.",
+     "answers": [
+      "electrician"
+     ],
+     "explain": "Electrician: works with electricity."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "Who repairs cars?",
+     "options": [
+      "A mechanic",
+      "A cashier",
+      "An accountant"
+     ],
+     "answer": 0,
+     "explain": "A mechanic repairs vehicles."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "A ___ works at the front desk and answers the phone.",
+     "answers": [
+      "receptionist"
+     ],
+     "explain": "Receptionist."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "A ___ takes money from customers in a store.",
+     "answers": [
+      "cashier"
+     ],
+     "explain": "Cashier."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "Who helps people choose a profession?",
+     "options": [
+      "A career counselor",
+      "A chef",
+      "A plumber"
+     ],
+     "answer": 0,
+     "explain": "A career counselor gives advice about work."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "A ___ fixes pipes and sinks.",
+     "answers": [
+      "plumber"
+     ],
+     "explain": "Plumber."
+    },
+    {
+     "id": "E7",
+     "type": "choice",
+     "prompt": "Who serves passengers on a plane?",
+     "options": [
+      "A flight attendant",
+      "A security guard",
+      "A truck driver"
+     ],
+     "answer": 0,
+     "explain": "A flight attendant works on planes."
+    },
+    {
+     "id": "E8",
+     "type": "translate",
+     "prompt": "Mi tío es contador.",
+     "answers": [
+      "My uncle is an accountant."
+     ],
+     "explain": "Accountant: contador."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Job ads and expressions",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "v-jobad",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "A job of 40 hours a week is...",
+     "options": [
+      "part-time",
+      "full-time",
+      "temporary"
+     ],
+     "answer": 1,
+     "explain": "Full-time: the normal number of hours."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "Send your ___ with your work history to this email address.",
+     "answers": [
+      "résumé",
+      "resume"
+     ],
+     "explain": "A résumé lists your studies and experience."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "The ___ for this job is 12,000 pesos a month.",
+     "answers": [
+      "salary"
+     ],
+     "explain": "Salary: the money you earn."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "The last day to send your application is the...",
+     "options": [
+      "deadline",
+      "shift",
+      "benefit"
+     ],
+     "answer": 0,
+     "explain": "Deadline: the last day."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "Thank you for your time. I look ___ to hearing from you.",
+     "answers": [
+      "forward"
+     ],
+     "explain": "Look forward to + gerund."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "Health insurance and paid vacation are good ___.",
+     "answers": [
+      "benefits"
+     ],
+     "explain": "Benefits are extras that a job gives you."
+    },
+    {
+     "id": "F7",
+     "type": "fix",
+     "prompt": "I am looking forward to hear from you.",
+     "answers": [
+      "I am looking forward to hearing from you.",
+      "I'm looking forward to hearing from you."
+     ],
+     "explain": "To is a preposition here, so use -ing."
+    },
+    {
+     "id": "F8",
+     "type": "translate",
+     "prompt": "Quiero solicitar este puesto.",
+     "answers": [
+      "I want to apply for this position.",
+      "I would like to apply for this position.",
+      "I'd like to apply for this position.",
+      "I want to apply for this job.",
+      "I would like to apply for this job.",
+      "I'd like to apply for this job."
+     ],
+     "explain": "Apply for + position; want / would like + infinitive."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "working",
+      "I",
+      "with",
+      "enjoy",
+      "children"
+     ],
+     "answers": [
+      "I enjoy working with children."
+     ],
+     "explain": "Enjoy + gerund."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "since",
+      "a",
+      "She",
+      "been",
+      "has",
+      "nurse",
+      "2018"
+     ],
+     "answers": [
+      "She has been a nurse since 2018."
+     ],
+     "explain": "Present perfect + since + starting point."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "to",
+      "engineer",
+      "He",
+      "an",
+      "become",
+      "wants"
+     ],
+     "answers": [
+      "He wants to become an engineer."
+     ],
+     "explain": "Want + infinitive."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "long",
+      "How",
+      "worked",
+      "you",
+      "have",
+      "here"
+     ],
+     "answers": [
+      "How long have you worked here?"
+     ],
+     "explain": "How long + have + subject + past participle."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "late",
+      "Avoid",
+      "for",
+      "being",
+      "interviews"
+     ],
+     "answers": [
+      "Avoid being late for interviews."
+     ],
+     "explain": "Avoid + gerund."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "decided",
+      "to",
+      "They",
+      "hire",
+      "a",
+      "new",
+      "cashier"
+     ],
+     "answers": [
+      "They decided to hire a new cashier."
+     ],
+     "explain": "Decide + infinitive."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Me gusta ayudar a la gente.",
+     "answers": [
+      "I like helping people.",
+      "I like to help people.",
+      "I enjoy helping people."
+     ],
+     "explain": "Like / enjoy + gerund."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Ella ha trabajado aquí desde 2019.",
+     "answers": [
+      "She has worked here since 2019.",
+      "She's worked here since 2019.",
+      "She has been working here since 2019.",
+      "She's been working here since 2019."
+     ],
+     "explain": "Present perfect + since."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "¿Cuánto tiempo has sido recepcionista?",
+     "answers": [
+      "How long have you been a receptionist?",
+      "How long have you worked as a receptionist?"
+     ],
+     "explain": "How long + have you been...?"
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Piensan abrir un restaurante.",
+     "answers": [
+      "They plan to open a restaurant.",
+      "They are planning to open a restaurant.",
+      "They're planning to open a restaurant."
+     ],
+     "explain": "Plan + infinitive."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Trabajar en equipo es importante.",
+     "answers": [
+      "Working in a team is important.",
+      "Working in teams is important.",
+      "Working as a team is important.",
+      "Working together is important."
+     ],
+     "explain": "A gerund can be the subject."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Espero con interés tu respuesta.",
+     "answers": [
+      "I look forward to hearing from you.",
+      "I'm looking forward to hearing from you.",
+      "I am looking forward to hearing from you.",
+      "I look forward to your answer.",
+      "I'm looking forward to your answer.",
+      "I am looking forward to your answer."
+     ],
+     "explain": "Look forward to + gerund or noun."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes 2 review items from earlier topics).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "She is good at ___ to customers.",
+     "options": [
+      "talk",
+      "talking",
+      "to talk"
+     ],
+     "answer": 1,
+     "explain": "After a preposition: gerund."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "I have lived in Guadalajara ___ 2015.",
+     "answers": [
+      "since"
+     ],
+     "explain": "2015 is a starting point."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "He wants getting a better job.",
+     "answers": [
+      "He wants to get a better job."
+     ],
+     "explain": "Want + infinitive."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "He trabajado aquí durante dos años.",
+     "answers": [
+      "I have worked here for two years.",
+      "I've worked here for two years.",
+      "I have been working here for two years.",
+      "I've been working here for two years."
+     ],
+     "explain": "Present perfect + for + period."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "Which person fixes lights and wires?",
+     "options": [
+      "An electrician",
+      "A chef",
+      "A manager"
+     ],
+     "answer": 0,
+     "explain": "Electrician."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "Please send your résumé before the ___.",
+     "answers": [
+      "deadline"
+     ],
+     "explain": "Deadline: the last day to apply."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "Yesterday I ___ to the interview by bus. (go) (review: simple past)",
+     "answers": [
+      "went"
+     ],
+     "explain": "Finished time (yesterday): simple past."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "My brother ___ in a bank. (work) (review: simple present)",
+     "answers": [
+      "works"
+     ],
+     "explain": "Routine with he: add -s."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a thank-you email after a job interview (120 to 160 words). Thank the interviewer, say why you are interested in the position, mention your experience with for or since, and close politely. Opening: Dear Ms. Herrera, Thank you for meeting with me...",
+   "targets": [
+    "gerunds",
+    "gerunds and infinitives",
+    "present perfect with for / since",
+    "job vocabulary and formal email phrases"
+   ],
+   "checklist": [
+    "120 to 160 words",
+    "A subject line, a greeting and a closing",
+    "Thanks for the interview and the interviewer's time",
+    "At least one sentence with for or since",
+    "At least two verbs with the correct gerund or infinitive (enjoy + -ing, want + to)",
+    "I look forward to hearing from you"
+   ],
+   "model": "Subject: Thank you for the interview\n\nDear Ms. Herrera,\n\nThank you for meeting with me yesterday about the sales assistant position. I enjoyed learning more about your team and the plans for the new store.\n\nI am very interested in this job. I have worked in customer service for three years, and I have always liked helping people find the right product. I believe I can learn your new system quickly, and I am happy to work on weekends if necessary.\n\nOur conversation made me even more excited about the position. If you need more information, such as references or examples of my work, please let me know.\n\nThank you again for your time. I look forward to hearing from you.\n\nSincerely,\nAna Torres"
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a short message (80 to 120 words) to a friend about your job search or your dream job. Say what you enjoy doing, what you want to do and how long you have been looking or working.",
+   "targets": [
+    "enjoy / avoid + gerund",
+    "want / plan / hope + infinitive",
+    "for / since"
+   ],
+   "checklist": [
+    "80 to 120 words",
+    "One verb + gerund (enjoy, avoid, finish...)",
+    "One verb + infinitive (want, plan, hope...)",
+    "One sentence with for or since",
+    "At least two job words from the unit"
+   ],
+   "model": "Hi Laura! How are you? I have been looking for a new job since September, and it is not easy. I enjoy working with people, so I want to find a position in customer service. I have already sent my résumé to six companies, and I plan to call two of them next week.\n\nMy sister has worked as a receptionist for five years, and she says the work is interesting. She suggests taking an English course because many companies need people who speak English. I hope to start one soon.\n\nWrite to me when you can, and tell me about your new job! Hugs, Marta"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Men, Women and Jobs",
+   "intro": "Read the article about changing ideas on jobs and answer.",
+   "paragraphs": [
+    "Many years ago, people often said that some jobs were only for men and other jobs were only for women. Nurses and secretaries were usually women, and pilots, mechanics and engineers were usually men. Today this idea is changing, but slowly.",
+    "Look at some examples. Sofia has been a truck driver for eight years. She enjoys traveling, and she is proud of driving big vehicles safely. At first, some customers were surprised when they saw her, but now they respect her work. Her company has hired three more women drivers since 2020.",
+    "Daniel has worked as a nurse since 2017. He decided to study nursing because he wanted to help people. He says that the hardest part was hearing jokes from his friends. Now he is a team leader in a hospital, and he has trained more than twenty young nurses.",
+    "Experts say that children learn about jobs from the people around them. When parents talk about work in a fair way, children feel free to choose any career. Schools can help too. A good career counselor avoids saying \"this is a job for boys\" or \"this is a job for girls.\" Instead, the counselor asks about interests and skills.",
+    "Of course, changes take time. Some companies still prefer to hire people who look like their current workers. Others are learning that mixed teams solve problems better. Many workers also want to have flexible schedules, so they can take care of their families. This is important for both men and women.",
+    "In the end, the best question is not \"Is this job for a man or a woman?\" It is \"Do I like doing this work, and am I good at it?\" People who follow their interests usually work harder and feel happier. Everyone benefits when talented people can choose the job they really want."
+   ],
+   "glossary": [
+    {
+     "en": "truck driver",
+     "def": "a person who drives a large vehicle that carries goods"
+    },
+    {
+     "en": "respect",
+     "def": "to think that someone or something is important and good"
+    },
+    {
+     "en": "train",
+     "def": "to teach someone how to do a job"
+    },
+    {
+     "en": "expert",
+     "def": "a person who knows a lot about a subject"
+    },
+    {
+     "en": "fair",
+     "def": "treating everyone in the same way"
+    },
+    {
+     "en": "flexible",
+     "def": "able to change easily"
+    },
+    {
+     "en": "talented",
+     "def": "having a natural ability to do something well"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Sofia has been a truck driver for eight years.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "The text says she has been a truck driver for eight years."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Since 2020, Sofia's company has hired...",
+     "options": [
+      "three more women drivers",
+      "eight new drivers",
+      "no new drivers"
+     ],
+     "answer": 0,
+     "explain": "Her company has hired three more women drivers since 2020."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What was the hardest part for Daniel?",
+     "options": [
+      "Studying nursing",
+      "Hearing jokes from his friends",
+      "Finding a hospital"
+     ],
+     "answer": 1,
+     "explain": "He says the hardest part was hearing jokes from his friends."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "Daniel has worked as a nurse since ___.",
+     "answers": [
+      "2017"
+     ],
+     "explain": "Daniel has worked as a nurse since 2017."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "According to experts, children learn about jobs from...",
+     "options": [
+      "the people around them",
+      "television only",
+      "their teachers only"
+     ],
+     "answer": 0,
+     "explain": "Children learn about jobs from the people around them."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "All companies now prefer mixed teams.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "The text says some companies still prefer to hire people who look like their current workers."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "What does a good career counselor ask about?",
+     "options": [
+      "Age and gender",
+      "Interests and skills",
+      "Family jobs"
+     ],
+     "answer": 1,
+     "explain": "The counselor asks about interests and skills."
+    },
+    {
+     "id": "R8",
+     "type": "translate",
+     "prompt": "Ella ha sido conductora de camión durante ocho años.",
+     "answers": [
+      "She has been a truck driver for eight years.",
+      "She's been a truck driver for eight years."
+     ],
+     "explain": "Present perfect + for + period of time."
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the career counselor's office",
+   "intro": "Listen to the conversation between a career counselor and a client. You can repeat it.",
+   "lines": [
+    {
+     "who": "Counselor",
+     "voice": "glassy",
+     "text": "Good morning, Marco. Please sit down. How can I help you today?"
+    },
+    {
+     "who": "Marco",
+     "voice": "buttery",
+     "text": "Good morning. I have worked in a warehouse for four years, but I want to find a different job."
+    },
+    {
+     "who": "Counselor",
+     "voice": "glassy",
+     "text": "I see. What do you enjoy doing most at work?"
+    },
+    {
+     "who": "Marco",
+     "voice": "buttery",
+     "text": "I like using computers, and I enjoy helping people solve problems."
+    },
+    {
+     "who": "Counselor",
+     "voice": "glassy",
+     "text": "That's useful. Have you ever thought about working in customer service?"
+    },
+    {
+     "who": "Marco",
+     "voice": "buttery",
+     "text": "Yes, I've considered it. But I haven't studied English since high school."
+    },
+    {
+     "who": "Counselor",
+     "voice": "glassy",
+     "text": "Don't worry. Many companies need people who can speak some English. You could take a course in the evenings."
+    },
+    {
+     "who": "Marco",
+     "voice": "buttery",
+     "text": "That sounds good. How long does a course take?"
+    },
+    {
+     "who": "Counselor",
+     "voice": "glassy",
+     "text": "Usually about six months. Meanwhile, I suggest updating your résumé and practicing for interviews."
+    },
+    {
+     "who": "Marco",
+     "voice": "buttery",
+     "text": "I'm not very good at talking about myself. Is that a problem?"
+    },
+    {
+     "who": "Counselor",
+     "voice": "glassy",
+     "text": "Not at all. We can practice together every Friday. Are you free this Friday at ten?"
+    },
+    {
+     "who": "Marco",
+     "voice": "buttery",
+     "text": "Yes, I'm free. Thank you so much for your help!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "How long has Marco worked in a warehouse?",
+     "options": [
+      "Two years",
+      "Four years",
+      "Six months"
+     ],
+     "answer": 1,
+     "explain": "He has worked in a warehouse for four years."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What does Marco enjoy?",
+     "options": [
+      "Driving trucks",
+      "Helping people solve problems",
+      "Cooking"
+     ],
+     "answer": 1,
+     "explain": "He enjoys helping people solve problems."
+    },
+    {
+     "id": "L3",
+     "type": "gap",
+     "prompt": "The counselor asks about working in customer ___.",
+     "answers": [
+      "service"
+     ],
+     "explain": "Have you ever thought about working in customer service?"
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "Marco hasn't studied English since...",
+     "options": [
+      "high school",
+      "last year",
+      "university"
+     ],
+     "answer": 0,
+     "explain": "He says: I haven't studied English since high school."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "The counselor suggests updating Marco's résumé.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "She suggests updating the résumé and practicing for interviews."
+    },
+    {
+     "id": "L6",
+     "type": "gap",
+     "prompt": "They will practice together on ___ at ten.",
+     "answers": [
+      "Friday",
+      "Fridays",
+      "this Friday"
+     ],
+     "explain": "The counselor asks if he is free this Friday at ten."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "I have worked in a warehouse for four years.",
+     "answers": [
+      "I have worked in a warehouse for four years.",
+      "I've worked in a warehouse for four years."
+     ],
+     "explain": "Present perfect + for."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "I enjoy helping people solve problems.",
+     "answers": [
+      "I enjoy helping people solve problems."
+     ],
+     "explain": "Enjoy + gerund."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Have you ever thought about working in customer service?",
+     "answers": [
+      "Have you ever thought about working in customer service?"
+     ],
+     "explain": "After about, use the gerund."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "I suggest updating your résumé and practicing for interviews.",
+     "answers": [
+      "I suggest updating your résumé and practicing for interviews.",
+      "I suggest updating your resume and practicing for interviews."
+     ],
+     "explain": "Suggest + gerund."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "You are talking to a career counselor. Say what you enjoy, what you are good at and what job you want.",
+     "questions": [
+      "What do you enjoy doing at work or at school?",
+      "What are you good at?",
+      "What kind of job do you want to find?",
+      "Have you ever thought about changing careers?"
+     ],
+     "model": "I enjoy working with people, and I'm good at solving problems. I want to find a job in customer service. I've worked in a store for two years, but I would like to learn new skills. I'm thinking about taking an English course.",
+     "checklist": [
+      "enjoy / be good at + gerund",
+      "want / would like + infinitive",
+      "for or since with the present perfect",
+      "Job vocabulary"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "You are in a job interview. Answer the interviewer's questions about your experience.",
+     "questions": [
+      "Tell me about yourself.",
+      "How long have you worked in this field?",
+      "Why do you want this job?",
+      "What are your strengths?"
+     ],
+     "model": "My name is Ana, and I'm a cashier. I have worked in a supermarket for three years. I want this job because I like helping customers and I'm ready to learn more. I'm good at working under pressure, and I never avoid asking for help. Thank you for your time.",
+     "checklist": [
+      "Present perfect with for / since",
+      "Gerunds after like / good at",
+      "want + infinitive",
+      "Polite closing"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about your own job experience or your dream job.",
+     "questions": [
+      "What is your job, or what job do you want?",
+      "How long have you done it, or how long have you wanted it?",
+      "What do you like about it?",
+      "What do you plan to do in the future?"
+     ],
+     "model": "I work as a teacher. I have taught for six years, since 2020. I enjoy explaining new ideas, but I don't like grading tests. I plan to take a course to learn new methods, and I hope to become a school director one day.",
+     "checklist": [
+      "for / since",
+      "enjoy / like + gerund",
+      "plan / hope + infinitive",
+      "Simple present for your routine"
+     ]
+    }
+   ],
+   "repeat": [
+    "I have worked here for three years.",
+    "I enjoy working with people.",
+    "She has been a nurse since 2018.",
+    "Have you ever thought about changing careers?",
+    "I want to apply for this position.",
+    "I look forward to hearing from you."
+   ]
+  }
+ }
+}

@@ -1,0 +1,1688 @@
+{
+ "id": "u-b1-07",
+ "level": "B1",
+ "n": 7,
+ "title": "Wonders of the World",
+ "goals": [
+  "Compare three or more things with superlatives: the tallest, the most interesting, the least expensive, the best.",
+  "Talk about places with the most + noun and one of the + superlative + plural noun.",
+  "Ask about and give measurements with How high / long / wide / deep…? and with units (meters, kilometers, degrees).",
+  "Name natural wonders and structures: glacier, reef, suspension bridge, skyscraper.",
+  "Show that you are listening with interest, using really / sure (It really is. It sure does.).",
+  "Write sentences with extra information between commas (Mount Fuji, a volcano in Japan, is famous)."
+ ],
+ "learn": [
+  {
+   "id": "v-human-wonders",
+   "kind": "vocab",
+   "title": "Human wonders (buildings and places)",
+   "words": [
+    {
+     "id": "w-hw-airport",
+     "en": "airport",
+     "es": "aeropuerto",
+     "example": "Mexico City's airport is one of the busiest in Latin America.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-hw-ancient-city",
+     "en": "ancient city",
+     "es": "ciudad antigua",
+     "example": "We spent a whole day exploring an ancient city in the jungle.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-hw-monument",
+     "en": "monument",
+     "es": "monumento",
+     "example": "The Angel of Independence is a famous monument in Mexico City.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-hw-office-building",
+     "en": "office building",
+     "es": "edificio de oficinas",
+     "example": "My aunt works on the twelfth floor of an office building.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-hw-pyramid",
+     "en": "pyramid",
+     "es": "pirámide",
+     "example": "You can climb the Pyramid of the Sun in Teotihuacán."
+    },
+    {
+     "id": "w-hw-shopping-mall",
+     "en": "shopping mall",
+     "es": "centro comercial",
+     "example": "On rainy days, we walk around the shopping mall.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-hw-stadium",
+     "en": "stadium",
+     "es": "estadio",
+     "example": "The stadium holds more than 80,000 fans.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-hw-suspension-bridge",
+     "en": "suspension bridge",
+     "es": "puente colgante",
+     "example": "The suspension bridge swings a little when the wind blows.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-hw-train-station",
+     "en": "train station",
+     "es": "estación de tren",
+     "example": "The old train station is now a museum.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-hw-roller-coaster",
+     "en": "roller coaster",
+     "es": "montaña rusa",
+     "example": "I screamed the whole time on the roller coaster."
+    },
+    {
+     "id": "w-hw-skyscraper",
+     "en": "skyscraper",
+     "es": "rascacielos",
+     "example": "From the top of that skyscraper, you can see the whole city."
+    },
+    {
+     "id": "w-hw-structure",
+     "en": "structure",
+     "es": "estructura, construcción",
+     "example": "The Eiffel Tower is an impressive iron structure.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-hw-tourism",
+     "en": "tourism",
+     "es": "turismo",
+     "example": "Tourism is very important for the economy of the coast.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-hw-seat",
+     "en": "seat",
+     "es": "asiento",
+     "example": "This theater has 500 seats.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "g-superlatives",
+   "kind": "grammar",
+   "title": "Superlatives: the -est / the most / the least",
+   "html": "<p>The superlative compares <strong>three or more</strong> things and points out the one at the extreme. In English, you use <strong>the</strong> + superlative adjective.</p><table><thead><tr><th>Type of adjective</th><th>Rule</th><th>Example</th></tr></thead><tbody><tr><td>Short (1 syllable)</td><td>the + adj + <strong>-est</strong></td><td>tall → the tallest</td></tr><tr><td>Ends in -e</td><td>+ <strong>-st</strong></td><td>large → the largest</td></tr><tr><td>Ends in vowel + consonant</td><td>double the consonant + -est</td><td>big → the biggest, hot → the hottest</td></tr><tr><td>2 syllables ending in -y</td><td>y → i + -est</td><td>busy → the busiest</td></tr><tr><td>Long (2+ syllables)</td><td>the <strong>most / least</strong> + adj</td><td>the most interesting, the least expensive</td></tr><tr><td>Irregular</td><td>—</td><td>good → the best, bad → the worst</td></tr></tbody></table><p>To say “the least…”, use <em>the least</em>: <em>the least crowded beach</em>. After the superlative, use <strong>in</strong> with places or groups (<em>in the world, in my family</em>) and <strong>of</strong> with periods or sets (<em>of the year, of all</em>).</p>",
+   "watch": [
+    {
+     "wrong": "It's the most tall building in the city.",
+     "right": "It's the tallest building in the city.",
+     "why": "Short adjectives take -est, not the most."
+    },
+    {
+     "wrong": "This is the most good restaurant in town.",
+     "right": "This is the best restaurant in town.",
+     "why": "Good is irregular: the best."
+    },
+    {
+     "wrong": "It's the biggest city of the country.",
+     "right": "It's the biggest city in the country.",
+     "why": "With places, use in, not of."
+    },
+    {
+     "wrong": "She is the more intelligent student.",
+     "right": "She is the most intelligent student.",
+     "why": "The superlative uses the most, not more."
+    }
+   ]
+  },
+  {
+   "id": "g-superlative-nouns",
+   "kind": "grammar",
+   "title": "the most + noun and one of the + superlative",
+   "html": "<p>With nouns, <strong>the most</strong> means “more than any other”: <em>Which country has the most tourism? Which stadium has the most seats?</em> For the opposite, use <strong>the fewest</strong> (countable nouns) or <strong>the least</strong> (uncountable nouns).</p><p>To say “one of the most…”, use <strong>one of the + superlative + plural noun</strong>:</p><ul><li>Mexico City is <strong>one of the biggest cities</strong> in the world.</li><li>It's <strong>one of the most beautiful beaches</strong> I've ever seen.</li></ul><p>For personal experience, use the <strong>present perfect</strong>: <em>It's the best trip I've ever taken.</em> (= of all the trips in my life so far).</p>",
+   "watch": [
+    {
+     "wrong": "It's one of the tallest building in the world.",
+     "right": "It's one of the tallest buildings in the world.",
+     "why": "After one of the, use a plural noun."
+    },
+    {
+     "wrong": "Which city has the most big airport?",
+     "right": "Which city has the biggest airport?",
+     "why": "If the noun is not a measurement, the short adjective takes -est."
+    },
+    {
+     "wrong": "It's the best trip I went.",
+     "right": "It's the best trip I've ever taken.",
+     "why": "For your whole life up to now, use the present perfect (I've ever + past participle)."
+    }
+   ]
+  },
+  {
+   "id": "v-natural-wonders",
+   "kind": "vocab",
+   "title": "Natural wonders",
+   "words": [
+    {
+     "id": "w-nw-archipelago",
+     "en": "archipelago",
+     "es": "archipiélago",
+     "example": "The Galápagos is an archipelago in the Pacific Ocean."
+    },
+    {
+     "id": "w-nw-beach",
+     "en": "beach",
+     "es": "playa",
+     "example": "We walked along the beach at sunrise.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-nw-coast",
+     "en": "coast",
+     "es": "costa",
+     "example": "The coast of Oaxaca has many quiet beaches.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-nw-continent",
+     "en": "continent",
+     "es": "continente",
+     "example": "Africa is the second-largest continent.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-nw-desert",
+     "en": "desert",
+     "es": "desierto",
+     "example": "It almost never rains in the desert.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-nw-glacier",
+     "en": "glacier",
+     "es": "glaciar",
+     "example": "A glacier is a huge river of ice that moves very slowly."
+    },
+    {
+     "id": "w-nw-island",
+     "en": "island",
+     "es": "isla",
+     "example": "We took a boat to a small island.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-nw-lake",
+     "en": "lake",
+     "es": "lago",
+     "example": "Lake Chapala is the largest lake in Mexico.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-nw-mountain-range",
+     "en": "mountain range",
+     "es": "cordillera",
+     "example": "The Andes is the longest mountain range in the world.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-nw-ocean",
+     "en": "ocean",
+     "es": "océano",
+     "example": "The Pacific is the largest ocean on Earth.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-nw-rain-forest",
+     "en": "rain forest",
+     "es": "selva tropical",
+     "example": "The Amazon rain forest is home to millions of species.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-nw-reef",
+     "en": "reef",
+     "es": "arrecife",
+     "example": "You can see colorful fish on the reef."
+    },
+    {
+     "id": "w-nw-river",
+     "en": "river",
+     "es": "río",
+     "example": "The river is wide and slow here.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-nw-volcano",
+     "en": "volcano",
+     "es": "volcán",
+     "example": "Popocatépetl is an active volcano."
+    },
+    {
+     "id": "w-nw-canyon",
+     "en": "canyon",
+     "es": "cañón",
+     "example": "We went hiking in a deep canyon."
+    },
+    {
+     "id": "w-nw-wildlife",
+     "en": "wildlife",
+     "es": "fauna silvestre",
+     "example": "The park has amazing wildlife: monkeys, birds and jaguars.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "g-how-adj",
+   "kind": "grammar",
+   "title": "How + adjective: measurements and facts",
+   "html": "<p>To ask about measurements, use <strong>How + adjective + be + subject?</strong> With <em>high, long, wide, deep, tall</em>, the answer repeats the adjective after the measurement:</p><table><thead><tr><th>Question</th><th>Answer</th></tr></thead><tbody><tr><td>How <strong>high</strong> is Mount Everest?</td><td>It's 8,850 meters (29,035 feet) <strong>high</strong>.</td></tr><tr><td>How <strong>long</strong> is the Nile River?</td><td>It's 6,695 kilometers (4,160 miles) <strong>long</strong>.</td></tr><tr><td>How <strong>wide</strong> is the Grand Canyon?</td><td>It's about 29 kilometers (18 miles) <strong>wide</strong>.</td></tr><tr><td>How <strong>deep</strong> is the Pacific Ocean?</td><td>It's about 11,000 meters <strong>deep</strong>.</td></tr><tr><td>How <strong>tall</strong> is the tower?</td><td>It's 300 meters <strong>tall</strong>.</td></tr></tbody></table><p>With <strong>large</strong> and <strong>hot</strong>, you do NOT repeat the adjective: <em>How large is the Sahara? — It's 9.1 million square kilometers. / How hot does it get in Death Valley? — It can reach 48 degrees Celsius.</em></p><p><strong>Units and numbers:</strong> 1 km = 0.62 miles; 1 m = 3.28 feet; 0°C = 32°F. You say <em>six thousand five hundred (and) twenty-nine</em> (6,529), <em>a million</em> (1,000,000) and <em>seven point seven</em> (7.7). In English, a comma separates the thousands: 6,529.</p>",
+   "watch": [
+    {
+     "wrong": "How is tall the tower?",
+     "right": "How tall is the tower?",
+     "why": "The adjective goes right after How."
+    },
+    {
+     "wrong": "It has 300 meters of height.",
+     "right": "It's 300 meters tall.",
+     "why": "In English, use be + measurement + adjective, not “it has … of height”."
+    },
+    {
+     "wrong": "How much long is the river?",
+     "right": "How long is the river?",
+     "why": "Much is not used between How and the adjective."
+    },
+    {
+     "wrong": "It's 9 million square kilometers large.",
+     "right": "It's 9 million square kilometers.",
+     "why": "With large, you don't repeat the adjective."
+    }
+   ]
+  },
+  {
+   "id": "v-measures",
+   "kind": "vocab",
+   "title": "Measurements, facts and useful verbs",
+   "words": [
+    {
+     "id": "w-ms-tall-high",
+     "en": "tall / high",
+     "es": "alto (edificios y personas / montañas)",
+     "example": "The tower is 300 meters tall; the mountain is 4,000 meters high.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-ms-long",
+     "en": "long",
+     "es": "largo",
+     "example": "The river is 1,500 kilometers long.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-ms-wide",
+     "en": "wide",
+     "es": "ancho",
+     "example": "The bridge is only six meters wide.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-ms-deep",
+     "en": "deep",
+     "es": "profundo",
+     "example": "The lake is 50 meters deep.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-ms-degrees-celsius-fahrenheit",
+     "en": "degrees Celsius / Fahrenheit",
+     "es": "grados centígrados / Fahrenheit",
+     "example": "Water boils at 100 degrees Celsius.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-ms-square-kilometer",
+     "en": "square kilometer",
+     "es": "kilómetro cuadrado",
+     "example": "The island covers 200 square kilometers.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-ms-a-million",
+     "en": "a million",
+     "es": "un millón",
+     "example": "More than a million people visit the park every year.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-ms-erupt",
+     "en": "erupt",
+     "es": "hacer erupción",
+     "example": "The volcano erupted in 2015.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-ms-reach",
+     "en": "reach",
+     "es": "alcanzar, llegar a",
+     "example": "In summer, temperatures can reach 45 degrees.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-ms-cover",
+     "en": "cover",
+     "es": "cubrir, abarcar",
+     "example": "Ice covers most of the continent.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-ms-hold",
+     "en": "hold",
+     "es": "tener capacidad para",
+     "example": "The stadium holds 70,000 people.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-ms-serve",
+     "en": "serve",
+     "es": "dar servicio a",
+     "example": "The airport serves millions of passengers every year.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-ms-go-hiking",
+     "en": "go hiking",
+     "es": "ir de excursión a pie",
+     "example": "We went hiking in the mountains last weekend.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-ms-visit",
+     "en": "visit",
+     "es": "visitar",
+     "example": "Millions of tourists visit the pyramids every year.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "s-supportive",
+   "kind": "strategy",
+   "title": "Strategy: being a supportive listener (really / sure)",
+   "html": "<p>To show you agree with someone, reply with a short phrase: <strong>pronoun + really / sure + auxiliary</strong>. The auxiliary <strong>repeats</strong> the tense of what the other person said.</p><table><thead><tr><th>Says A…</th><th>You reply B…</th></tr></thead><tbody><tr><td>Verb be: <em>This is the most incredible place!</em></td><td>Yeah, it <strong>really is</strong>.</td></tr><tr><td>Simple present: <em>It feels good to be out of the city.</em></td><td>It <strong>sure does</strong>.</td></tr><tr><td>Present perfect: <em>Well, it's been a great day.</em></td><td>It <strong>really has</strong>.</td></tr><tr><td>Modal: <em>We should go hiking there sometime.</em></td><td>We <strong>really should</strong>.</td></tr></tbody></table><p>You can also use the <strong>superlative for emphasis</strong> in your opinions: <em>This is the most incredible place! I had the best time.</em></p>"
+  },
+  {
+   "id": "g-appositive",
+   "kind": "grammar",
+   "title": "Writing: adding information with commas",
+   "html": "<p>You can join two sentences into one if the second one only gives <strong>extra information</strong> about something. The extra information is written between <strong>commas</strong>.</p><ul><li>Mount Aconcagua is the highest mountain in Argentina. + It is a peak in the Andes. → <strong>Mount Aconcagua, a peak in the Andes, is the highest mountain in Argentina.</strong> (commas before and after, because it's in the middle)</li><li>Many people visit the Andes. + They are the longest mountain range in the world. → <strong>Many people visit the Andes, the longest mountain range in the world.</strong> (one comma before it, because it comes at the end)</li></ul><p>This extra information is a noun phrase: it usually starts with <em>a, an</em> or <em>the</em>. It has no verb of its own.</p>",
+   "watch": [
+    {
+     "wrong": "Cancún a city on the coast is very popular.",
+     "right": "Cancún, a city on the coast, is very popular.",
+     "why": "Extra information in the middle goes between two commas."
+    },
+    {
+     "wrong": "Tulum, is an ancient city, is near the sea.",
+     "right": "Tulum, an ancient city, is near the sea.",
+     "why": "Extra information has no verb of its own (is)."
+    },
+    {
+     "wrong": "We visited Lake Chapala. The largest lake in Mexico.",
+     "right": "We visited Lake Chapala, the largest lake in Mexico.",
+     "why": "A loose fragment is not a sentence on its own: join it with a comma."
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>This is the most incredible place!</strong> — emphasizing an opinion with a superlative.</li><li><strong>I had the best time.</strong> — saying you had a great time.</li><li><strong>Yeah, it really is. / It sure does. / It really has. / We really should.</strong> — showing agreement.</li><li><strong>How long / high / wide / deep is …?</strong> — asking about measurements.</li><li><strong>It's about … meters/kilometers long.</strong> — giving an approximate measurement.</li><li><strong>It's one of the most … in the world.</strong> — saying something is among the best.</li><li><strong>Did you know that …?</strong> — sharing an interesting fact.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Superlatives: form",
+   "instructions": "Complete with the superlative of the adjective in brackets. Include “the”.",
+   "topic": "g-superlatives",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "Burj Khalifa is ___ building in the world. (tall)",
+     "answers": [
+      "the tallest"
+     ],
+     "explain": "Short adjective: the + tall + -est."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Which is ___ beach in your country? (beautiful)",
+     "answers": [
+      "the most beautiful"
+     ],
+     "explain": "Long adjective: the most + adjective."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "Monday is ___ day of the week for me. (busy)",
+     "answers": [
+      "the busiest"
+     ],
+     "explain": "Ends in -y: y → i + -est."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "This is ___ hotel in town; all the others cost more. (cheap)",
+     "answers": [
+      "the cheapest"
+     ],
+     "explain": "Cheap is short: the cheapest."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "The Sahara is ___ hot desert in the world. (large)",
+     "answers": [
+      "the largest"
+     ],
+     "explain": "Ends in -e: just add -st."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "That was ___ movie I've ever seen. (bad)",
+     "answers": [
+      "the worst"
+     ],
+     "explain": "Bad is irregular: the worst."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "This is ___ museum in Mexico City. (big)",
+     "answers": [
+      "the biggest"
+     ],
+     "explain": "Vowel + consonant: double the g."
+    },
+    {
+     "id": "A8",
+     "type": "gap",
+     "prompt": "It's ___ crowded beach on the coast; it's almost empty! (least / crowded)",
+     "answers": [
+      "the least crowded"
+     ],
+     "explain": "For “the least…”, use the least + adjective."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Superlatives with nouns and one of the",
+   "instructions": "Choose the correct option.",
+   "topic": "g-superlative-nouns",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "Which city has ___ people in your country?",
+     "options": [
+      "the most",
+      "the more",
+      "most"
+     ],
+     "answer": 0,
+     "explain": "With nouns: the most + noun."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "The Amazon is one of ___ rain forests on Earth.",
+     "options": [
+      "the largest",
+      "the most large",
+      "the larger"
+     ],
+     "answer": 0,
+     "explain": "Large is short: the largest."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "Everest is ___ mountain in the world.",
+     "options": [
+      "the highest",
+      "the most high",
+      "highest of"
+     ],
+     "answer": 0,
+     "explain": "High is short: the highest."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "It's the best hotel ___ the city.",
+     "options": [
+      "in",
+      "of",
+      "at"
+     ],
+     "answer": 0,
+     "explain": "With places, use in."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "Spring is ___ season for hiking.",
+     "options": [
+      "the better",
+      "the best",
+      "the most good"
+     ],
+     "answer": 1,
+     "explain": "Good is irregular: the best."
+    },
+    {
+     "id": "B6",
+     "type": "choice",
+     "prompt": "Which stadium has ___ seats?",
+     "options": [
+      "the most",
+      "the biggest",
+      "the largest"
+     ],
+     "answer": 0,
+     "explain": "With a noun (seats), use the most."
+    },
+    {
+     "id": "B7",
+     "type": "choice",
+     "prompt": "One of the tallest ___ in Dubai is a hotel.",
+     "options": [
+      "building",
+      "buildings",
+      "building's"
+     ],
+     "answer": 1,
+     "explain": "One of the + superlative + plural."
+    },
+    {
+     "id": "B8",
+     "type": "choice",
+     "prompt": "Ana is ___ student in her class. (good)",
+     "options": [
+      "the best",
+      "the most good",
+      "the goodest"
+     ],
+     "answer": 0,
+     "explain": "Irregular: good → the best."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "How + adjective",
+   "instructions": "Complete or choose the correct answer.",
+   "topic": "g-how-adj",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "How ___ is Mount Everest? — It's 8,850 meters high.",
+     "answers": [
+      "high"
+     ],
+     "explain": "How high for tall mountains."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "How ___ is the Nile? — It's 6,695 kilometers long.",
+     "answers": [
+      "long"
+     ],
+     "explain": "Length: How long."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "How ___ is the Grand Canyon? — It's about 29 kilometers wide.",
+     "answers": [
+      "wide"
+     ],
+     "explain": "Width: How wide."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "How ___ is the Pacific Ocean? — It's about 11,000 meters deep.",
+     "answers": [
+      "deep"
+     ],
+     "explain": "Depth: How deep."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "How large is the Sahara Desert?",
+     "options": [
+      "It's 9.1 million square kilometers.",
+      "It's 9.1 million square kilometers large.",
+      "It has 9.1 million square kilometers."
+     ],
+     "answer": 0,
+     "explain": "With large, don't repeat the adjective."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "How hot does it get in Death Valley?",
+     "options": [
+      "It's 48 degrees hot.",
+      "It can reach 48 degrees Celsius.",
+      "It has 48 degrees."
+     ],
+     "answer": 1,
+     "explain": "With hot, don't repeat the adjective; use reach."
+    },
+    {
+     "id": "C7",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "How",
+      "the",
+      "tall",
+      "is",
+      "Eiffel",
+      "Tower"
+     ],
+     "answers": [
+      "How tall is the Eiffel Tower?"
+     ],
+     "explain": "How + adjective + be + subject."
+    },
+    {
+     "id": "C8",
+     "type": "fix",
+     "prompt": "How is deep the lake?",
+     "answers": [
+      "How deep is the lake?"
+     ],
+     "explain": "The adjective goes right after How."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Adding information with commas",
+   "instructions": "Practice sentences with extra information.",
+   "topic": "g-appositive",
+   "items": [
+    {
+     "id": "D1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Mount",
+      "Fuji,",
+      "a",
+      "volcano",
+      "in",
+      "Japan,",
+      "is",
+      "very",
+      "famous"
+     ],
+     "answers": [
+      "Mount Fuji, a volcano in Japan, is very famous."
+     ],
+     "explain": "Extra information goes between commas."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "Cancún, ___ city on the Caribbean coast, is famous for its beaches.",
+     "answers": [
+      "a"
+     ],
+     "explain": "First mention: a + noun."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "I'd love to see the Great Wall, ___ longest wall in the world.",
+     "answers": [
+      "the"
+     ],
+     "explain": "Superlativo: the longest."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "Which sentence joins these ideas? Machu Picchu is in Peru. It is an ancient city.",
+     "options": [
+      "Machu Picchu, an ancient city, is in Peru.",
+      "Machu Picchu is an ancient city is in Peru.",
+      "Machu Picchu, in Peru, an ancient is city."
+     ],
+     "answer": 0,
+     "explain": "The extra information goes in the middle, with no verb of its own."
+    },
+    {
+     "id": "D5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Many",
+      "tourists",
+      "visit",
+      "Chichén",
+      "Itzá,",
+      "a",
+      "famous",
+      "pyramid"
+     ],
+     "answers": [
+      "Many tourists visit Chichén Itzá, a famous pyramid."
+     ],
+     "explain": "At the end of the sentence, there is only one comma, before the extra information."
+    },
+    {
+     "id": "D6",
+     "type": "translate",
+     "prompt": "Mount Everest, la montaña más alta del mundo, está en Asia.",
+     "answers": [
+      "Mount Everest, the highest mountain in the world, is in Asia.",
+      "Everest, the highest mountain in the world, is in Asia.",
+      "Mount Everest, the tallest mountain in the world, is in Asia."
+     ],
+     "explain": "Extra information between commas; in the world."
+    },
+    {
+     "id": "D7",
+     "type": "gap",
+     "prompt": "The Amazon, ___ longest river in South America, flows through Brazil.",
+     "answers": [
+      "the"
+     ],
+     "explain": "Superlativo: the longest."
+    },
+    {
+     "id": "D8",
+     "type": "translate",
+     "prompt": "Mi ciudad favorita, Oaxaca, tiene la mejor comida.",
+     "answers": [
+      "My favorite city, Oaxaca, has the best food.",
+      "My favourite city, Oaxaca, has the best food."
+     ],
+     "explain": "Extra information between commas; the best."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Supportive listener",
+   "instructions": "Complete the reply with the correct auxiliary.",
+   "topic": "s-supportive",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "A: This is the most incredible place! B: Yeah, it really ___.",
+     "answers": [
+      "is"
+     ],
+     "explain": "A uses be: B repeats is."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "A: It feels good to be out of the city. B: It sure ___.",
+     "answers": [
+      "does"
+     ],
+     "explain": "A uses simple present: B uses does."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "A: Well, it's been a great day. B: It really ___.",
+     "answers": [
+      "has"
+     ],
+     "explain": "A uses present perfect: B uses has."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "A: We should go hiking there sometime. B: We really ___.",
+     "answers": [
+      "should"
+     ],
+     "explain": "A uses a modal: B repeats should."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "A: I love this song. B: I really ___.",
+     "answers": [
+      "do"
+     ],
+     "explain": "A uses simple present with I: B uses do."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "A: The food here is delicious! B: It sure ___.",
+     "answers": [
+      "is"
+     ],
+     "explain": "A uses be: B repeats is."
+    },
+    {
+     "id": "E7",
+     "type": "choice",
+     "prompt": "A: We've had the best time! B: ___",
+     "options": [
+      "We really have.",
+      "We really do.",
+      "We really are."
+     ],
+     "answer": 0,
+     "explain": "A uses present perfect: B uses have."
+    },
+    {
+     "id": "E8",
+     "type": "choice",
+     "prompt": "A: You can see the whole city from here. B: ___",
+     "options": [
+      "We really can.",
+      "We really do.",
+      "We really are."
+     ],
+     "answer": 0,
+     "explain": "A uses the modal can: B repeats can."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Wonder vocabulary",
+   "instructions": "Complete with the correct word.",
+   "topic": "v-natural-wonders",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "A ___ is a huge area of ice that moves very slowly.",
+     "answers": [
+      "glacier"
+     ],
+     "explain": "Glacier."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "An ___ is a group of many islands.",
+     "answers": [
+      "archipelago"
+     ],
+     "explain": "Archipelago."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "When a volcano ___, hot rock and ash come out of it.",
+     "answers": [
+      "erupts"
+     ],
+     "explain": "Erupt: to burst out, like a volcano."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "A ___ bridge hangs from thick cables.",
+     "answers": [
+      "suspension"
+     ],
+     "explain": "Suspension bridge: a bridge hung from cables."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "You can see colorful fish on a coral ___.",
+     "answers": [
+      "reef"
+     ],
+     "explain": "Reef: a chain of rocks or coral in the sea."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "The Sahara is a hot ___, and it almost never rains there.",
+     "answers": [
+      "desert"
+     ],
+     "explain": "Desert: a very dry area."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "Africa, Asia and Europe are three ___.",
+     "answers": [
+      "continents"
+     ],
+     "explain": "Continent: the plural form is continents."
+    },
+    {
+     "id": "F8",
+     "type": "gap",
+     "prompt": "This stadium ___ 80,000 fans.",
+     "answers": [
+      "holds"
+     ],
+     "explain": "Hold: have space for (third person: holds)."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to make a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "What",
+      "is",
+      "the",
+      "tallest",
+      "building",
+      "in",
+      "the",
+      "world"
+     ],
+     "answers": [
+      "What is the tallest building in the world?"
+     ],
+     "explain": "Superlative: the tallest + in the world."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "about",
+      "It's",
+      "29",
+      "kilometers",
+      "wide"
+     ],
+     "answers": [
+      "It's about 29 kilometers wide."
+     ],
+     "explain": "Measurement + adjective."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "How",
+      "is",
+      "long",
+      "the",
+      "Nile",
+      "River"
+     ],
+     "answers": [
+      "How long is the Nile River?"
+     ],
+     "explain": "How + adjective + be + subject."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "This",
+      "is",
+      "the",
+      "most",
+      "beautiful",
+      "beach",
+      "I've",
+      "ever",
+      "seen"
+     ],
+     "answers": [
+      "This is the most beautiful beach I've ever seen.",
+      "This is the most beautiful beach I have ever seen."
+     ],
+     "explain": "Superlative + present perfect with ever."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Which",
+      "city",
+      "has",
+      "the",
+      "most",
+      "museums"
+     ],
+     "answers": [
+      "Which city has the most museums?"
+     ],
+     "explain": "The most + noun."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "It",
+      "can",
+      "reach",
+      "48",
+      "degrees",
+      "Celsius"
+     ],
+     "answers": [
+      "It can reach 48 degrees Celsius."
+     ],
+     "explain": "With hot, use reach, without repeating the adjective."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Es el edificio más alto de la ciudad.",
+     "answers": [
+      "It's the tallest building in the city.",
+      "It is the tallest building in the city."
+     ],
+     "explain": "The tallest + in the city."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿Qué tan largo es el río?",
+     "answers": [
+      "How long is the river?"
+     ],
+     "explain": "How + adjective + be + subject."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Fue el peor día de mi vida.",
+     "answers": [
+      "It was the worst day of my life.",
+      "It was the worst day in my life.",
+      "That was the worst day of my life.",
+      "That was the worst day in my life."
+     ],
+     "explain": "Bad is irregular: the worst."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Este es el restaurante menos caro de la zona.",
+     "answers": [
+      "This is the least expensive restaurant in the area.",
+      "It's the least expensive restaurant in the area.",
+      "This is the least expensive restaurant in the neighborhood."
+     ],
+     "explain": "Least expensive = the cheapest one."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "La Ciudad de México, la capital del país, tiene la mejor comida.",
+     "answers": [
+      "Mexico City, the capital of the country, has the best food.",
+      "Mexico City, the capital of Mexico, has the best food."
+     ],
+     "explain": "Extra information between commas."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Pasamos el mejor rato de nuestras vidas.",
+     "answers": [
+      "We had the best time of our lives.",
+      "We had the best time ever."
+     ],
+     "explain": "Superlative for emphasis: the best time."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics in the unit (including two review items).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Mount Aconcagua is ___ mountain in Argentina.",
+     "options": [
+      "the highest",
+      "the most high",
+      "higher"
+     ],
+     "answer": 0,
+     "explain": "Superlativo corto: the highest."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "How ___ is the Great Barrier Reef? — It's about 2,300 kilometers long.",
+     "answers": [
+      "long"
+     ],
+     "explain": "Length: How long."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "It's the most big city in the country.",
+     "answers": [
+      "It's the biggest city in the country.",
+      "It is the biggest city in the country."
+     ],
+     "explain": "Big is short: the biggest."
+    },
+    {
+     "id": "M4",
+     "type": "gap",
+     "prompt": "A: This view is amazing! B: It really ___.",
+     "answers": [
+      "is"
+     ],
+     "explain": "A uses be: B repeats is."
+    },
+    {
+     "id": "M5",
+     "type": "translate",
+     "prompt": "El Everest, la montaña más alta del mundo, mide 8,850 metros.",
+     "answers": [
+      "Mount Everest, the highest mountain in the world, is 8,850 meters high.",
+      "Everest, the highest mountain in the world, is 8,850 meters high.",
+      "Mount Everest, the tallest mountain in the world, is 8,850 meters tall.",
+      "Mount Everest, the highest mountain in the world, is 8,850 meters tall."
+     ],
+     "explain": "Extra information between commas; measurement + high."
+    },
+    {
+     "id": "M6",
+     "type": "fix",
+     "prompt": "She is the more intelligent student in class.",
+     "answers": [
+      "She is the most intelligent student in class.",
+      "She's the most intelligent student in class.",
+      "She is the most intelligent student in the class.",
+      "She's the most intelligent student in the class."
+     ],
+     "explain": "Superlative: the most + long adjective."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "Last summer we ___ a beautiful island. (visit) (review: simple past)",
+     "answers": [
+      "visited"
+     ],
+     "explain": "Regular simple past: visited."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "This beach is ___ than that one. (clean) (review: comparatives)",
+     "answers": [
+      "cleaner"
+     ],
+     "explain": "Comparing two things: comparative -er."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write an email to a friend (120 to 180 words) about the most impressive place you know: where it is, what it's like, and what you did there. Include at least three superlatives and two measurements (for example, how high or how long). Opening example: Last year I visited the most incredible place I've ever seen…",
+   "targets": [
+    "superlatives (the -est / the most / the least)",
+    "one of the + superlative + plural",
+    "How + adjective and measurements",
+    "in / of after the superlative"
+   ],
+   "checklist": [
+    "Between 120 and 180 words",
+    "At least 3 superlatives formed correctly",
+    "One measurement (It's … meters high / kilometers long)",
+    "in the world / in the city (not of)",
+    "one of the + plural",
+    "One expression with best or most for emphasis (I had the best time)"
+   ],
+   "model": "Hi Carlos,\n\nLast year I visited the most incredible place I've ever seen: Copper Canyon in Chihuahua. It is one of the biggest canyons in the world, and in some places it is about 1,800 meters deep. The train ride through the mountains is the most beautiful trip in Mexico, and it is about 650 kilometers long.\n\nWe stayed in a small town called Creel, which is the cheapest place to sleep near the canyon. On the first day, we hiked to a lake, and the water was the coldest I've ever touched! On the second day, we took a cable car and saw the most amazing views of the canyon. It was the least crowded place I visited on my trip, so it was very quiet.\n\nI had the best time of my life there, and the food was delicious, too. The people in the town are some of the friendliest in the country. You must come with me next year! Write to me soon and tell me when you are free.\n\nYour friend,\nLuis"
+  },
+  {
+   "id": "W2",
+   "prompt": "Write an information card (120 to 180 words) about three wonders of Mexico or of your region. For each one, use extra information between commas and at least one measurement. Opening example: Popocatépetl, an active volcano near Mexico City, is…",
+   "targets": [
+    "extra information with commas",
+    "How + adjective / measurements",
+    "superlatives",
+    "vocabulary of wonders"
+   ],
+   "checklist": [
+    "Between 120 and 180 words",
+    "Three different places",
+    "Extra information with commas before and after",
+    "One measurement per place, with the correct adjective",
+    "At least one superlative",
+    "Use of the / a / an in the extra information"
+   ],
+   "model": "Three Wonders of Mexico\n\nPopocatepetl, an active volcano near Mexico City, is one of the most famous mountains in the country. It is about 5,400 meters high, and on a clear day you can see it from the capital. It is the second highest peak in Mexico.\n\nChichen Itza, a Maya city in Yucatan, is a very popular place for tourists. Its main pyramid, El Castillo, is about 30 meters high. It is one of the most important ruins in the world, and it receives more than a million visitors every year.\n\nSumidero Canyon, a deep gorge in Chiapas, is a beautiful place to visit by boat. The cliffs, which are covered in green plants, are about 1,000 meters high. The river that runs through the canyon, the Grijalva, is a great place to see crocodiles and birds. The boat trip is about 35 kilometers long and takes two hours.\n\nAll three places are among the best reasons to visit Mexico."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Riding the train through the Copper Canyon",
+   "intro": "Read Marina's travel blog and answer the questions.",
+   "paragraphs": [
+    "Last month my brother Daniel and I took the most exciting trip of our lives: a train ride through the Copper Canyon in northern Mexico. Many people say it is the most beautiful place in the country, and now I agree. The canyon system is bigger than the Grand Canyon in the United States, and some parts are almost two kilometers deep.",
+    "The train is called the Chepe. It is about 650 kilometers long, and it crosses many bridges and goes through dozens of tunnels. When the train goes over the highest bridge, it moves very slowly, so you can take photos. Daniel, who is afraid of heights, closed his eyes the whole time. I laughed, but honestly I was a little scared too.",
+    "The weather changes a lot in the canyon. At the top, it was only 2 degrees Celsius (about 36 degrees Fahrenheit) in the morning, and we needed our warmest jackets. At the bottom, it can reach 40 degrees Celsius in summer. The guide told us that the canyon has the most different kinds of plants and animals in the region, from pine forests to tropical areas.",
+    "On the second day we met a Rarámuri family, people who are famous for being some of the best long-distance runners in the world. They sell handmade baskets, the most popular souvenir in the area, and they showed us how they make them. The woman asked my brother to try, and he made the worst basket in history. We all laughed.",
+    "I had the best time of my life on this trip. The only problem was the food on the train, which was the most expensive I have ever eaten, and it was not very good. But the views, the people and the quiet were incredible. Next year, we want to go back and go hiking at the bottom of the canyon. If you ask me, everyone should see this place at least once."
+   ],
+   "glossary": [
+    {
+     "en": "afraid of heights",
+     "def": "feeling fear when you are high up, like on a cliff or a tall building"
+    },
+    {
+     "en": "tunnel",
+     "def": "a long passage dug under the ground or through a mountain"
+    },
+    {
+     "en": "guide",
+     "def": "a person who shows visitors around a place and explains it"
+    },
+    {
+     "en": "handmade",
+     "def": "made by hand, not by a machine"
+    },
+    {
+     "en": "basket",
+     "def": "a container made of woven material such as straw or wicker"
+    },
+    {
+     "en": "souvenir",
+     "def": "an object you buy to remember a place you visited"
+    },
+    {
+     "en": "views",
+     "def": "what you can see from a place, especially beautiful landscapes"
+    },
+    {
+     "en": "at least",
+     "def": "not less than a certain amount; the smallest amount"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "The Copper Canyon is in northern Mexico.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Dice: «in northern Mexico»."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "The train is about 65 kilometers long.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Es about 650 kilometers long."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Who is afraid of heights?",
+     "options": [
+      "Marina",
+      "Daniel",
+      "The guide"
+     ],
+     "answer": 1,
+     "explain": "Daniel, who is afraid of heights, closed his eyes."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "In the morning, it was only ___ degrees Celsius at the top.",
+     "answers": [
+      "2",
+      "two"
+     ],
+     "explain": "At the top it was only 2 degrees Celsius."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "What did the Rarámuri family sell?",
+     "options": [
+      "Jackets",
+      "Baskets",
+      "Train tickets"
+     ],
+     "answer": 1,
+     "explain": "Sell handmade baskets."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "What was the problem on the trip?",
+     "options": [
+      "The weather",
+      "The people",
+      "The food on the train"
+     ],
+     "answer": 2,
+     "explain": "The only problem was the food on the train."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "What do they want to do next year?",
+     "options": [
+      "Go back and go hiking",
+      "Visit the Grand Canyon",
+      "Take a plane"
+     ],
+     "answer": 0,
+     "explain": "Next year, we want to go back and go hiking."
+    }
+   ]
+  },
+  "listening": {
+   "title": "A documentary night",
+   "intro": "Listen to the conversation between Pablo and Lucy. You can replay it.",
+   "lines": [
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "Wow, this documentary is the most interesting one I've seen this year."
+    },
+    {
+     "who": "Lucy",
+     "voice": "airy",
+     "text": "It really is. I didn't know the Great Barrier Reef is the largest reef in the world."
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "How long is it?"
+    },
+    {
+     "who": "Lucy",
+     "voice": "airy",
+     "text": "It's about 2,300 kilometers long. You can even see it from space."
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "That's incredible. We should go diving there someday."
+    },
+    {
+     "who": "Lucy",
+     "voice": "airy",
+     "text": "We really should. But the flights to Australia are the most expensive I've ever seen."
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "True. What about somewhere closer? Mexico has the second-largest reef in the world, in Quintana Roo."
+    },
+    {
+     "who": "Lucy",
+     "voice": "airy",
+     "text": "Oh, I know! Cancún is the busiest place there, though. I'd like a quieter beach."
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "Then let's find a small island. I read that the water is the clearest in the area."
+    },
+    {
+     "who": "Lucy",
+     "voice": "airy",
+     "text": "Sounds perfect. Let's go in July. It's been a long year."
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "It sure has."
+    },
+    {
+     "who": "Lucy",
+     "voice": "airy",
+     "text": "Great. I'll check the prices tonight."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "gap",
+     "prompt": "The Great Barrier Reef is about ___ kilometers long.",
+     "answers": [
+      "2,300",
+      "2300",
+      "two thousand three hundred"
+     ],
+     "explain": "It's about 2,300 kilometers long."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What do Pablo and Lucy want to do someday?",
+     "options": [
+      "Go diving",
+      "Climb a volcano",
+      "Visit a glacier"
+     ],
+     "answer": 0,
+     "explain": "We should go diving there someday."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Why don't they want to go to Australia?",
+     "options": [
+      "It is too cold",
+      "The flights are very expensive",
+      "They don't like reefs"
+     ],
+     "answer": 1,
+     "explain": "The flights are the most expensive she has ever seen."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "Lucy says Cancún is a quiet beach.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Cancún is the busiest place; she wants a quieter beach."
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "They decide to go in ___.",
+     "answers": [
+      "July"
+     ],
+     "explain": "Let's go in July."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "What does Pablo answer to \"It's been a long year\"?",
+     "options": [
+      "It sure has.",
+      "It really is.",
+      "It sure does."
+     ],
+     "answer": 0,
+     "explain": "Present perfect: It sure has."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Mexico has the second-largest reef in the world.",
+     "answers": [
+      "Mexico has the second-largest reef in the world.",
+      "Mexico has the second largest reef in the world."
+     ],
+     "explain": "Superlativo con in the world."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "The flights to Australia are the most expensive I've ever seen.",
+     "answers": [
+      "The flights to Australia are the most expensive I've ever seen.",
+      "The flights to Australia are the most expensive I have ever seen."
+     ],
+     "explain": "Superlativo largo + present perfect con ever."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "It's been a long year.",
+     "answers": [
+      "It's been a long year.",
+      "It has been a long year."
+     ],
+     "explain": "Present perfect: it's = it has."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "I'll check the prices tonight.",
+     "answers": [
+      "I'll check the prices tonight.",
+      "I will check the prices tonight."
+     ],
+     "explain": "I'll = I will."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Describe the most impressive place you know (natural or built by people).",
+     "questions": [
+      "What is the most incredible place you have ever visited?",
+      "Where is it?",
+      "What is it famous for?",
+      "Why do you like it?"
+     ],
+     "model": "The most incredible place I've ever visited is Teotihuacán, an ancient city near Mexico City. It's famous for the Pyramid of the Sun, one of the biggest pyramids in the world. I had the best time there because the views from the top were amazing.",
+     "checklist": [
+      "Superlative with the most / the -est",
+      "Extra information with commas (an ancient city)",
+      "one of the + superlative + plural",
+      "Opinion with the best"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Ask and answer fact questions with How + adjective.",
+     "questions": [
+      "How high is Mount Everest?",
+      "How long is the Nile River?",
+      "How deep is the Pacific Ocean?",
+      "How hot does it get in the desert?"
+     ],
+     "model": "Mount Everest is about 8,850 meters high. The Nile River is about 6,695 kilometers long. The Pacific Ocean is about 11,000 meters deep. In the desert, it can reach 48 degrees Celsius.",
+     "checklist": [
+      "Measurement + adjective (meters high, kilometers long)",
+      "With hot, don't repeat the adjective (reach)",
+      "Pronounce the numbers correctly",
+      "Use about for approximate facts"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "React to what your partner says and support them.",
+     "questions": [
+      "This is the most incredible place!",
+      "It feels good to be out of the city.",
+      "We should go hiking there sometime.",
+      "Well, it's been a great day."
+     ],
+     "model": "Yeah, it really is. It sure does. We really should. It really has.",
+     "checklist": [
+      "Repeat the correct auxiliary (is / does / should / has)",
+      "Use really or sure",
+      "Intonation that shows interest",
+      "Short, natural replies"
+     ]
+    }
+   ],
+   "repeat": [
+    "This is the most incredible place!",
+    "How tall is the Eiffel Tower?",
+    "It's one of the biggest cities in the world.",
+    "Mount Fuji, a volcano in Japan, is very famous.",
+    "It sure does.",
+    "I had the best time of my life."
+   ]
+  }
+ }
+}

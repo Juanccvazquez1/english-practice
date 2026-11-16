@@ -1,0 +1,1689 @@
+{
+ "id": "u-b2-07",
+ "level": "B2",
+ "n": 7,
+ "title": "Stories Worth Telling",
+ "goals": [
+  "Contrast simple and continuous verbs in the present, present perfect and past to talk about routines, temporary situations and experiences.",
+  "Use verb + -ing and verb + to + verb correctly (decide to, finish doing, end up doing...).",
+  "Tell how remember, stop and try change in meaning depending on whether -ing or to follows.",
+  "Tell an anecdote with a clear thread: general time, a particular moment, what happened and an ending.",
+  "Add emphasis to key moments with the dramatic present and with this / these.",
+  "Write an anecdote and an email about your current life using the vocabulary of the unit."
+ ],
+ "learn": [
+  {
+   "id": "g-simple-cont",
+   "kind": "grammar",
+   "title": "Simple and continuous verbs (review)",
+   "html": "<p>Simple verbs describe completed actions, habits or permanent situations. Continuous verbs describe actions in progress or temporary situations. Choosing correctly changes the meaning, not just the form.</p><table><thead><tr><th>Tense</th><th>Simple</th><th>Continuous</th></tr></thead><tbody><tr><td>Present</td><td>I listen to jazz a lot. (habit, permanent)</td><td>I'm listening to a lot of jazz these days. (temporary)</td></tr><tr><td>Present perfect</td><td>I've never lived abroad. (experience, result)</td><td>I've been living here for five years. (still happening)</td></tr><tr><td>Past</td><td>I went home and had a party. (completed action)</td><td>I was sitting on a bus at nine. (action in progress, sometimes interrupted)</td></tr></tbody></table><ul><li>Typical expressions with the continuous: <em>currently, these days, lately, right now, at this time yesterday</em>.</li><li>State verbs (<em>know, like, love, want, need, belong, understand</em>) are almost never used in the continuous: <em>I know her</em>, not <em>I'm knowing her</em>.</li><li>With <em>for / since</em> and a situation that continues, use the present perfect (simple or continuous), not the present.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I'm knowing her since high school.",
+     "right": "I've known her since high school.",
+     "why": "Know is a state verb, and with since we use the present perfect."
+    },
+    {
+     "wrong": "I live in Puebla since 2019.",
+     "right": "I've been living in Puebla since 2019.",
+     "why": "A situation that started in the past and is still going on: present perfect."
+    },
+    {
+     "wrong": "I watched TV when the phone rang.",
+     "right": "I was watching TV when the phone rang.",
+     "why": "A long action that was interrupted goes in the past continuous."
+    },
+    {
+     "wrong": "I've been finishing the report. Here it is.",
+     "right": "I've finished the report. Here it is.",
+     "why": "If the result already exists, use the simple form, not the continuous."
+    }
+   ]
+  },
+  {
+   "id": "g-verb-patterns",
+   "kind": "grammar",
+   "title": "Verb + -ing or to + verb",
+   "html": "<p>When a main verb needs another verb, the second one can take <strong>-ing</strong> or <strong>to + infinitive</strong>. It depends on the first verb, so these verbs are best learned in groups.</p><table><thead><tr><th>Pattern</th><th>Verbs</th><th>Example</th></tr></thead><tbody><tr><td>verb + -ing</td><td>consider, finish, imagine, miss, (not) mind, spend time, enjoy, avoid</td><td>I finished writing the report.</td></tr><tr><td>verb + particle/preposition + -ing</td><td>end up, keep on, plan on, think about</td><td>We ended up sleeping in the car.</td></tr><tr><td>verb + to + verb</td><td>agree, decide, expect, happen, intend, offer, seem</td><td>They agreed to pay for the repairs.</td></tr><tr><td>-ing or to, same meaning</td><td>begin, start, continue, like, love, hate, bother</td><td>It began raining. / It began to rain.</td></tr></tbody></table><p>After a preposition (<em>about, on, of, without</em>) you always use -ing: <em>I'm thinking about moving</em>. Speakers of Spanish tend to use the infinitive in almost every case, and that is where many mistakes come from.</p>",
+   "watch": [
+    {
+     "wrong": "I enjoy to travel alone.",
+     "right": "I enjoy traveling alone.",
+     "why": "Enjoy is followed by -ing."
+    },
+    {
+     "wrong": "She decided going abroad.",
+     "right": "She decided to go abroad.",
+     "why": "Decide is followed by to + verb."
+    },
+    {
+     "wrong": "I'm thinking to change jobs.",
+     "right": "I'm thinking about changing jobs.",
+     "why": "Think about + -ing."
+    },
+    {
+     "wrong": "We ended up to take a taxi.",
+     "right": "We ended up taking a taxi.",
+     "why": "End up + -ing."
+    }
+   ]
+  },
+  {
+   "id": "g-meaning-change",
+   "kind": "grammar",
+   "title": "remember, stop and try: -ing or to",
+   "html": "<p>With three key verbs, the meaning <strong>changes</strong> depending on the form that follows.</p><table><thead><tr><th>Verb</th><th>+ -ing</th><th>+ to + verb</th></tr></thead><tbody><tr><td>remember</td><td>I remember locking the door. (I recall doing it)</td><td>Remember to lock the door. (don't forget to do it)</td></tr><tr><td>stop</td><td>I stopped talking to him. (we no longer talk)</td><td>I stopped to talk to him. (I stopped in order to talk to him)</td></tr><tr><td>try</td><td>Try restarting the router. (experiment, see if it works)</td><td>I tried to lift the box. (I made the effort)</td></tr></tbody></table><p>Practical rule: <strong>-ing</strong> looks at something that already happened or at an experiment; <strong>to</strong> looks at a purpose or an effort.</p>",
+   "watch": [
+    {
+     "wrong": "I stopped to smoke last year.",
+     "right": "I stopped smoking last year.",
+     "why": "Giving up a habit is expressed as stop + -ing."
+    },
+    {
+     "wrong": "Remember closing the windows when you leave.",
+     "right": "Remember to close the windows when you leave.",
+     "why": "For a task you still have to do, use remember to."
+    },
+    {
+     "wrong": "I tried to eat sushi once and I loved it.",
+     "right": "I tried eating sushi once and I loved it.",
+     "why": "Trying something as an experiment: try + -ing."
+    },
+    {
+     "wrong": "She stopped to work in 2020 (she retired).",
+     "right": "She stopped working in 2020.",
+     "why": "Ending an activity: stop + -ing."
+    }
+   ]
+  },
+  {
+   "id": "g-story-drama",
+   "kind": "grammar",
+   "title": "Telling stories: the dramatic present and this / these",
+   "html": "<p>When telling an anecdote in conversation, almost everything is in the past, but at the <strong>key moments</strong> you can switch to the <strong>present</strong> to make them more vivid. Also, <em>this / these</em> highlight important people, places or things in the story, even if the listener doesn't know them yet.</p><table><thead><tr><th>Resource</th><th>Example</th></tr></thead><tbody><tr><td>Past for the background</td><td>There were all these trees around us, and we were completely lost.</td></tr><tr><td>Present for the key moment</td><td>And we're thinking, \"Oh, no.\" And we're both getting scared.</td></tr><tr><td>this / these for emphasis</td><td>We were on this trail... There were all these trees...</td></tr><tr><td>Story connectors</td><td>one day, all of a sudden, on the day of the show, in case anything happens</td></tr></tbody></table><p>To <strong>write</strong> an anecdote, follow four steps: (1) set the general time or place, (2) mark the particular moment, (3) tell what happened, (4) close the story and, if you can, connect it to the present.</p>",
+   "watch": [
+    {
+     "wrong": "We were on these trail in the middle of nowhere.",
+     "right": "We were on this trail in the middle of nowhere.",
+     "why": "Trail is singular: this trail."
+    },
+    {
+     "wrong": "There were this trees around us.",
+     "right": "There were all these trees around us.",
+     "why": "Plural: these, and all emphasizes the quantity."
+    },
+    {
+     "wrong": "All of sudden, the lights went out.",
+     "right": "All of a sudden, the lights went out.",
+     "why": "The full expression is all of a sudden."
+    },
+    {
+     "wrong": "Yesterday I'm walking home and I see an old friend.",
+     "right": "Yesterday I was walking home and I saw an old friend.",
+     "why": "Don't mix the present with a past time marker like yesterday when you open the story."
+    }
+   ]
+  },
+  {
+   "id": "v-life-moments",
+   "kind": "vocab",
+   "title": "Life, time and art",
+   "words": [
+    {
+     "id": "w-currently",
+     "en": "currently",
+     "es": "actualmente",
+     "example": "I'm currently working on two projects.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-lately",
+     "en": "lately",
+     "es": "últimamente",
+     "example": "I've been sleeping badly lately.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-later-this-year",
+     "en": "later this year",
+     "es": "más adelante este año",
+     "example": "We're moving to a bigger house later this year.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-thrilled",
+     "en": "thrilled",
+     "es": "muy emocionado/a",
+     "example": "She was thrilled to get the job.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-someplace",
+     "en": "someplace",
+     "es": "algún lugar",
+     "example": "Let's go someplace quiet to talk."
+    },
+    {
+     "id": "w-the-love-of-your-life",
+     "en": "the love of your life",
+     "es": "el amor de tu vida",
+     "example": "He met the love of his life at a concert.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fall-in-love-with",
+     "en": "fall in love with",
+     "es": "enamorarse de",
+     "example": "I fell in love with this city in a week.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-buy-yourself-a-treat",
+     "en": "buy yourself a treat",
+     "es": "darte un gusto",
+     "example": "After the exam, I bought myself a treat.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-do-something-for-fun",
+     "en": "do something for fun",
+     "es": "hacer algo por diversión",
+     "example": "I paint just for fun, not for money.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-in-pretty-good-shape",
+     "en": "get in (pretty good) shape",
+     "es": "ponerse en forma",
+     "example": "He wants to get in pretty good shape by June.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-i-can-t-get-through-the-day-without",
+     "en": "I can't get through the day without...",
+     "es": "no puedo pasar el día sin...",
+     "example": "I can't get through the day without coffee.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-art-studio",
+     "en": "art studio",
+     "es": "estudio de arte",
+     "example": "She rents a small art studio downtown.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-exhibition",
+     "en": "exhibition",
+     "es": "exposición",
+     "example": "The exhibition opens on Friday.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-sculpture",
+     "en": "sculpture",
+     "es": "escultura",
+     "example": "The sculpture in the park is made of metal."
+    },
+    {
+     "id": "w-talented-artist",
+     "en": "talented artist",
+     "es": "artista talentoso/a",
+     "example": "He's a talented artist who paints on walls.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-symbol",
+     "en": "symbol",
+     "es": "símbolo",
+     "example": "The dove is a symbol of peace.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "v-verb-patterns",
+   "kind": "vocab",
+   "title": "Verbs that need another verb",
+   "words": [
+    {
+     "id": "w-agree-to-do",
+     "en": "agree to do",
+     "es": "aceptar hacer",
+     "example": "They agreed to share the costs.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-decide-to-do",
+     "en": "decide to do",
+     "es": "decidir hacer",
+     "example": "I decided to quit my job.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-expect-to-do",
+     "en": "expect to do",
+     "es": "esperar hacer",
+     "example": "I expect to finish by Friday.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-happen-to-do",
+     "en": "happen to do",
+     "es": "hacer algo por casualidad",
+     "example": "I happened to see her at the airport.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-intend-to-do",
+     "en": "intend to do",
+     "es": "tener la intención de hacer",
+     "example": "I intend to call him tomorrow.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-offer-to-do",
+     "en": "offer to do",
+     "es": "ofrecerse a hacer",
+     "example": "He offered to carry my bags.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-seem-to-do",
+     "en": "seem to do",
+     "es": "parecer hacer",
+     "example": "She seems to enjoy her new job.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-consider-doing",
+     "en": "consider doing",
+     "es": "considerar hacer",
+     "example": "We're considering moving to Querétaro.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-finish-doing",
+     "en": "finish doing",
+     "es": "terminar de hacer",
+     "example": "I finished reading the book last night.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-imagine-doing",
+     "en": "imagine doing",
+     "es": "imaginarse haciendo",
+     "example": "Can you imagine living on a boat?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-miss-doing",
+     "en": "miss doing",
+     "es": "extrañar hacer",
+     "example": "I miss walking to school with my friends.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-not-mind-doing",
+     "en": "(not) mind doing",
+     "es": "(no) molestarle hacer",
+     "example": "I don't mind waiting a few minutes.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-spend-time-doing",
+     "en": "spend (time) doing",
+     "es": "pasar tiempo haciendo",
+     "example": "She spends hours practicing the violin.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-end-up-doing",
+     "en": "end up doing",
+     "es": "terminar haciendo (resultado final)",
+     "example": "We ended up eating at home.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-keep-on-doing",
+     "en": "keep on doing",
+     "es": "seguir haciendo",
+     "example": "He kept on talking, even after the bell.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-plan-on-doing",
+     "en": "plan on doing",
+     "es": "planear hacer",
+     "example": "I'm planning on visiting my cousins.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-story-actions",
+   "kind": "vocab",
+   "title": "Telling a story",
+   "words": [
+    {
+     "id": "w-going-away-party",
+     "en": "going-away party",
+     "es": "fiesta de despedida",
+     "example": "We had a going-away party for our boss.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-barbecue-v",
+     "en": "barbecue (v)",
+     "es": "hacer una parrillada",
+     "example": "On Sundays we barbecue in the yard."
+    },
+    {
+     "id": "w-knock-on-the-door",
+     "en": "knock on the door",
+     "es": "tocar a la puerta",
+     "example": "Someone knocked on the door at midnight.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-let-a-visitor-in",
+     "en": "let (a visitor) in",
+     "es": "dejar entrar (a una visita)",
+     "example": "I let the neighbors in.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-look-over-at-someone",
+     "en": "look over at (someone)",
+     "es": "echarle un vistazo a (alguien)",
+     "example": "She looked over at me and smiled.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-stick-together",
+     "en": "stick together",
+     "es": "mantenerse juntos",
+     "example": "In the crowd, we stuck together.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-wander-around",
+     "en": "wander around",
+     "es": "deambular",
+     "example": "We wandered around the old town for hours.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-lean-over-and-say-something",
+     "en": "lean over and say something",
+     "es": "inclinarse y decir algo",
+     "example": "He leaned over and whispered a secret.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-all-of-a-sudden",
+     "en": "all of a sudden",
+     "es": "de repente",
+     "example": "All of a sudden, it started to rain.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-in-case",
+     "en": "in case",
+     "es": "por si acaso",
+     "example": "Take a jacket in case it gets cold.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-face-a-challenge",
+     "en": "face a challenge",
+     "es": "enfrentar un reto",
+     "example": "She faced a big challenge in her first year.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-one-day",
+     "en": "one day",
+     "es": "un día (en un relato)",
+     "example": "One day, my teacher asked me to sing.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-on-the-day-of-the-speech",
+     "en": "on the day of (the speech)",
+     "es": "el día de (la presentación)",
+     "example": "On the day of the speech, I couldn't eat.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-take-long-weekends-off",
+     "en": "take (long weekends) off",
+     "es": "tomarse (fines de semana largos)",
+     "example": "I take long weekends off in the summer.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-story-moves",
+   "kind": "expressions",
+   "title": "Functions: opening, telling and closing a story",
+   "html": "<ul><li><strong>When I was in high school, ...</strong> / <strong>A few years ago, ...</strong> — set the general time.</li><li><strong>One day, ...</strong> / <strong>On the day of the speech, ...</strong> — move to the particular moment.</li><li><strong>All of a sudden, ...</strong> — introduce a surprise.</li><li><strong>And we're thinking, \"Oh, no.\"</strong> — dramatic present at the key moment.</li><li><strong>It's a long story!</strong> — warn that what follows is long or complicated.</li><li><strong>I wasn't planning on ...</strong> / <strong>I ended up ...</strong> — say that something was not planned and how it ended.</li><li><strong>It was a big challenge, but it helped me become ...</strong> — close the story and connect it to the present.</li><li><strong>Should I bother (to) apply?</strong> — ask whether the effort is worth it.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Simple or continuous?",
+   "instructions": "Complete with the correct form or choose the best option.",
+   "topic": "g-simple-cont",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "Julia ___ (work) at a gallery these days, but normally she teaches.",
+     "answers": [
+      "is working",
+      "'s working"
+     ],
+     "explain": "These days signals a temporary situation: present continuous."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "I ___ (live) in Guadalajara my whole life. I've never lived anywhere else.",
+     "answers": [
+      "have lived",
+      "'ve lived"
+     ],
+     "explain": "A situation that is complete up to now, with no focus on duration: simple present perfect."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "How long have you been ___ (learn) English?",
+     "answers": [
+      "learning"
+     ],
+     "explain": "How long + have been + -ing: an action that continues."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "At nine last night, I ___ dinner, so I didn't hear the phone.",
+     "options": [
+      "made",
+      "was making",
+      "have made"
+     ],
+     "answer": 1,
+     "explain": "An action in progress at a moment in the past: past continuous."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "She ___ (not / finish) her thesis yet.",
+     "answers": [
+      "hasn't finished",
+      "has not finished"
+     ],
+     "explain": "A result still pending, with yet: simple present perfect."
+    },
+    {
+     "id": "A6",
+     "type": "choice",
+     "prompt": "I ___ to this song a lot lately. I can't stop.",
+     "options": [
+      "listened",
+      "have been listening",
+      "am listening"
+     ],
+     "answer": 1,
+     "explain": "Lately with a repeated action that continues: present perfect continuous."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "My sister ___ (know) the director personally.",
+     "answers": [
+      "knows"
+     ],
+     "explain": "Know is a state verb: simple present."
+    },
+    {
+     "id": "A8",
+     "type": "gap",
+     "prompt": "When the lights went out, we ___ (watch) a movie.",
+     "answers": [
+      "were watching"
+     ],
+     "explain": "An action in progress that was interrupted: past continuous."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Verb + -ing or to",
+   "instructions": "Choose or complete with the correct form of the verb.",
+   "topic": "g-verb-patterns",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "She finished ___ her master's degree last June.",
+     "options": [
+      "to do",
+      "doing",
+      "do"
+     ],
+     "answer": 1,
+     "explain": "Finish + -ing."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "They agreed ___ for the damage.",
+     "options": [
+      "paying",
+      "to pay",
+      "pay"
+     ],
+     "answer": 1,
+     "explain": "Agree + to + verb."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "I'm considering ___ to a smaller apartment.",
+     "options": [
+      "to move",
+      "move",
+      "moving"
+     ],
+     "answer": 2,
+     "explain": "Consider + -ing."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "We ended up ___ (sleep) in the car.",
+     "answers": [
+      "sleeping"
+     ],
+     "explain": "End up + -ing."
+    },
+    {
+     "id": "B5",
+     "type": "gap",
+     "prompt": "He offered ___ (drive) us to the airport.",
+     "answers": [
+      "to drive"
+     ],
+     "explain": "Offer + to + verb."
+    },
+    {
+     "id": "B6",
+     "type": "gap",
+     "prompt": "Do you mind ___ (wait) a few minutes?",
+     "answers": [
+      "waiting"
+     ],
+     "explain": "Mind + -ing."
+    },
+    {
+     "id": "B7",
+     "type": "gap",
+     "prompt": "I'm planning on ___ (apply) for a scholarship.",
+     "answers": [
+      "applying"
+     ],
+     "explain": "Plan on + -ing."
+    },
+    {
+     "id": "B8",
+     "type": "choice",
+     "prompt": "It began ___ heavily at six.",
+     "options": [
+      "to rain only",
+      "raining only",
+      "to rain or raining"
+     ],
+     "answer": 2,
+     "explain": "Begin allows both -ing and to + verb, with the same meaning."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "remember, stop and try",
+   "instructions": "Choose the form that expresses the indicated meaning.",
+   "topic": "g-meaning-change",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "I stopped ___ to him because he never answers. (we don't talk now)",
+     "options": [
+      "to talk",
+      "talking"
+     ],
+     "answer": 1,
+     "explain": "Stop + -ing = to stop doing something."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "I stopped ___ (buy) a coffee on the way to work. (in order to buy)",
+     "answers": [
+      "to buy"
+     ],
+     "explain": "Stop + to = to stop in order to do something."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "Remember ___ (lock) the door when you leave. (don't forget)",
+     "answers": [
+      "to lock"
+     ],
+     "explain": "Remember + to = not to forget to do something."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "I remember ___ (meet) her at a party in 2015. (I met her)",
+     "answers": [
+      "meeting"
+     ],
+     "explain": "Remember + -ing = to recall something that already happened."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "I tried ___ the heavy box, but it was too heavy. (I made an effort)",
+     "options": [
+      "to lift",
+      "lifting"
+     ],
+     "answer": 0,
+     "explain": "Try + to = to make an effort to do something."
+    },
+    {
+     "id": "C6",
+     "type": "gap",
+     "prompt": "I tried ___ (use) a different shampoo, and my hair looks better. (an experiment)",
+     "answers": [
+      "using"
+     ],
+     "explain": "Try + -ing = to try something as an experiment."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "I stopped to smoke two years ago.",
+     "answers": [
+      "I stopped smoking two years ago.",
+      "I quit smoking two years ago."
+     ],
+     "explain": "Giving up a habit: stop + -ing."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Storytelling resources",
+   "instructions": "Choose or correct according to the style of an anecdote.",
+   "topic": "g-story-drama",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "We were on ___ trail in the middle of nowhere. (highlighting an important place)",
+     "options": [
+      "this",
+      "a",
+      "these"
+     ],
+     "answer": 0,
+     "explain": "This highlights an important element of the story."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "There were ___ strange noises coming from the forest.",
+     "options": [
+      "all this",
+      "all these",
+      "all that"
+     ],
+     "answer": 1,
+     "explain": "Noises is plural: all these."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "Which version makes the key moment more dramatic?",
+     "options": [
+      "And then I opened the door and saw him.",
+      "And then I open the door and there he is.",
+      "And then I had opened the door and had seen him."
+     ],
+     "answer": 1,
+     "explain": "The dramatic present creates more tension at the key moment."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "Take an umbrella ___ it rains.",
+     "answers": [
+      "in case"
+     ],
+     "explain": "In case = just in case."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "___ of a sudden, the lights went out.",
+     "answers": [
+      "All"
+     ],
+     "explain": "All of a sudden = suddenly."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "There were this trees all around us.",
+     "answers": [
+      "There were all these trees all around us.",
+      "There were all these trees around us."
+     ],
+     "explain": "Plural: these; all emphasizes the quantity."
+    },
+    {
+     "id": "D7",
+     "type": "gap",
+     "prompt": "On ___ day of the exam, I was extremely nervous.",
+     "answers": [
+      "the"
+     ],
+     "explain": "On the day of + event."
+    },
+    {
+     "id": "D8",
+     "type": "choice",
+     "prompt": "Which sentence sets the general time of an anecdote?",
+     "options": [
+      "When I was in college, I wasn't good at math.",
+      "On the day of the exam, I felt sick.",
+      "It helped me become more confident."
+     ],
+     "answer": 0,
+     "explain": "The first step is to set the general time."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Unit vocabulary",
+   "instructions": "Complete with the missing word or expression.",
+   "topic": "v-life-moments",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "She's ___ about her new job; she can't stop smiling.",
+     "answers": [
+      "thrilled"
+     ],
+     "explain": "Thrilled = very excited."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "I want to get in pretty good ___ before the race.",
+     "answers": [
+      "shape"
+     ],
+     "explain": "Get in shape = to get fit."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "I can't get ___ the day without a cup of coffee.",
+     "answers": [
+      "through"
+     ],
+     "explain": "Get through the day = to survive the day."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "He fell ___ love with the city on his first visit.",
+     "answers": [
+      "in"
+     ],
+     "explain": "Fall in love with."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "Please ___ them in; they're waiting outside.",
+     "answers": [
+      "let"
+     ],
+     "explain": "Let someone in = to allow someone to enter."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "We got lost, so we decided to stick ___ so nobody got separated.",
+     "answers": [
+      "together"
+     ],
+     "explain": "Stick together = to stay together."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "The sculptor opened an art ___ downtown.",
+     "answers": [
+      "studio"
+     ],
+     "explain": "Art studio = a workspace where artists make art."
+    },
+    {
+     "id": "E8",
+     "type": "gap",
+     "prompt": "Let's go ___ quiet to talk. (some place)",
+     "answers": [
+      "someplace"
+     ],
+     "explain": "Someplace = somewhere."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Find the mistake",
+   "instructions": "Each sentence has a mistake. Write the corrected sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "F1",
+     "type": "fix",
+     "prompt": "I'm knowing the answer.",
+     "answers": [
+      "I know the answer.",
+      "I do know the answer."
+     ],
+     "explain": "Know is a state verb: it does not take the continuous."
+    },
+    {
+     "id": "F2",
+     "type": "fix",
+     "prompt": "She is working here since 2020.",
+     "answers": [
+      "She has been working here since 2020.",
+      "She's been working here since 2020.",
+      "She has worked here since 2020.",
+      "She's worked here since 2020."
+     ],
+     "explain": "Since with a continuing situation: present perfect."
+    },
+    {
+     "id": "F3",
+     "type": "fix",
+     "prompt": "We enjoyed to talk about the old days.",
+     "answers": [
+      "We enjoyed talking about the old days."
+     ],
+     "explain": "Enjoy + -ing."
+    },
+    {
+     "id": "F4",
+     "type": "fix",
+     "prompt": "He decided leaving the company.",
+     "answers": [
+      "He decided to leave the company."
+     ],
+     "explain": "Decide + to + verb."
+    },
+    {
+     "id": "F5",
+     "type": "fix",
+     "prompt": "I'm thinking to take a long weekend.",
+     "answers": [
+      "I'm thinking about taking a long weekend.",
+      "I am thinking about taking a long weekend.",
+      "I'm thinking of taking a long weekend.",
+      "I am thinking of taking a long weekend."
+     ],
+     "explain": "Think about / of + -ing."
+    },
+    {
+     "id": "F6",
+     "type": "fix",
+     "prompt": "Don't forget closing the windows.",
+     "answers": [
+      "Don't forget to close the windows.",
+      "Do not forget to close the windows."
+     ],
+     "explain": "Forget / remember + to for tasks still pending."
+    },
+    {
+     "id": "F7",
+     "type": "fix",
+     "prompt": "I was cooking when the doorbell was ringing.",
+     "answers": [
+      "I was cooking when the doorbell rang."
+     ],
+     "explain": "The action that interrupts goes in the simple past."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I've",
+      "been",
+      "studying",
+      "English",
+      "for",
+      "six",
+      "years"
+     ],
+     "answers": [
+      "I've been studying English for six years."
+     ],
+     "explain": "For + duration with the present perfect continuous."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "She",
+      "finished",
+      "doing",
+      "her",
+      "degree",
+      "last",
+      "year"
+     ],
+     "answers": [
+      "She finished doing her degree last year."
+     ],
+     "explain": "Finish + -ing."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "We",
+      "ended",
+      "up",
+      "taking",
+      "a",
+      "taxi"
+     ],
+     "answers": [
+      "We ended up taking a taxi."
+     ],
+     "explain": "End up + -ing."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "There",
+      "were",
+      "all",
+      "these",
+      "trees",
+      "around",
+      "us"
+     ],
+     "answers": [
+      "There were all these trees around us."
+     ],
+     "explain": "All these + plural noun."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "He",
+      "stopped",
+      "to",
+      "buy",
+      "some",
+      "water"
+     ],
+     "answers": [
+      "He stopped to buy some water."
+     ],
+     "explain": "Stop to + verb expresses purpose."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "What",
+      "were",
+      "you",
+      "doing",
+      "at",
+      "this",
+      "time",
+      "yesterday"
+     ],
+     "answers": [
+      "What were you doing at this time yesterday?"
+     ],
+     "explain": "Wh- + was/were + subject + -ing."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Llevo cinco años viviendo aquí.",
+     "answers": [
+      "I've been living here for five years.",
+      "I have been living here for five years.",
+      "I've lived here for five years.",
+      "I have lived here for five years."
+     ],
+     "explain": "Situation that continues: present perfect with for."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Terminamos de preparar la presentación ayer.",
+     "answers": [
+      "We finished preparing the presentation yesterday.",
+      "We finished preparing the presentation yesterday"
+     ],
+     "explain": "Finish + -ing."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Ella decidió mudarse a otra ciudad.",
+     "answers": [
+      "She decided to move to another city.",
+      "She decided to move to a different city."
+     ],
+     "explain": "Decide + to + verb."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Recuerdo haber visto esa película cuando era niño.",
+     "answers": [
+      "I remember seeing that movie when I was a kid.",
+      "I remember watching that movie when I was a kid.",
+      "I remember seeing that movie when I was a child.",
+      "I remember watching that movie when I was a child."
+     ],
+     "explain": "Remember + -ing for a memory of the past."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Dejé de comer carne hace un año.",
+     "answers": [
+      "I stopped eating meat a year ago.",
+      "I stopped eating meat one year ago.",
+      "I quit eating meat a year ago.",
+      "I gave up eating meat a year ago."
+     ],
+     "explain": "Giving up a habit: stop + -ing."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Estaba lloviendo cuando salimos de casa.",
+     "answers": [
+      "It was raining when we left the house.",
+      "It was raining when we left home.",
+      "It was raining when we left."
+     ],
+     "explain": "Continuous action (in progress) + single action (simple)."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed practice",
+   "instructions": "Exercises covering all the topics in the unit (including review of earlier grammar).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "I ___ in this city since 2018.",
+     "options": [
+      "live",
+      "have lived",
+      "am living"
+     ],
+     "answer": 1,
+     "explain": "Since + continuing situation: present perfect."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "She hasn't decided ___ (accept) the offer yet.",
+     "answers": [
+      "to accept"
+     ],
+     "explain": "Decide + to + verb."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "I stopped to eat fast food last year.",
+     "answers": [
+      "I stopped eating fast food last year."
+     ],
+     "explain": "Giving up a habit: stop + -ing."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Estoy pensando en comprar una bicicleta.",
+     "answers": [
+      "I'm thinking about buying a bike.",
+      "I am thinking about buying a bike.",
+      "I'm thinking about buying a bicycle.",
+      "I am thinking about buying a bicycle.",
+      "I'm thinking of buying a bike.",
+      "I'm thinking of buying a bicycle."
+     ],
+     "explain": "Think about / of + -ing."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "While we ___ on the beach, a dog ran past.",
+     "options": [
+      "walked",
+      "were walking",
+      "have walked"
+     ],
+     "answer": 1,
+     "explain": "Interrupted action in progress: past continuous."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "Remember ___ (call) your mother tonight.",
+     "answers": [
+      "to call"
+     ],
+     "explain": "Remember + to = not to forget."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "There were ___ these people waiting outside.",
+     "answers": [
+      "all"
+     ],
+     "explain": "All these + plural, for emphasis."
+    },
+    {
+     "id": "M8",
+     "type": "choice",
+     "prompt": "He keeps on ___ the same mistake.",
+     "options": [
+      "to make",
+      "making",
+      "make"
+     ],
+     "answer": 1,
+     "explain": "Keep on + -ing."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "Last week I ___ (go) to the gym three times. (review: simple past)",
+     "answers": [
+      "went"
+     ],
+     "explain": "Completed action with last week: simple past."
+    },
+    {
+     "id": "M10",
+     "type": "choice",
+     "prompt": "I've known her ___ ten years. (review: for / since)",
+     "options": [
+      "since",
+      "for",
+      "during"
+     ],
+     "answer": 1,
+     "explain": "For + period of time; since + starting point."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write an anecdote of 180 to 250 words about a trip, a difficult day or a surprise. Follow these steps: (1) set the general time, (2) mark the particular moment with one day / on the day of, (3) tell what happened using past continuous for the background and past simple for the actions, and switch to the present at a key moment, (4) close the story and connect it to your life today. Possible opening: When I was ... ",
+   "targets": [
+    "past simple and continuous",
+    "verb + -ing / to + verb",
+    "remember / stop / try",
+    "dramatic present and this / these",
+    "story connectors"
+   ],
+   "checklist": [
+    "Between 180 and 250 words",
+    "General time, particular moment, event and ending",
+    "Past continuous for the background and past simple for the actions",
+    "At least three verbs with -ing or to + verb, used correctly (ended up, decided to, finished...)",
+    "A key moment in the present and at least one this / these",
+    "At least three connectors (one day, all of a sudden, in case...)",
+    "A closing sentence that connects the story to the present"
+   ],
+   "model": "When I was twenty, I traveled alone to Puebla for the first time. It was a rainy day in October, and I was carrying a heavy bag. One day earlier, my mother had told me not to forget my umbrella, but I did not listen.\n\nOn the day of the trip, I was waiting at the bus station when I realized that my wallet was missing. I remembered leaving it on the kitchen table, but I could not go back. I decided to call my cousin, who lived near the station. All of a sudden, my phone rang, and it was her!\n\nSo here I am, standing in the rain, and I hear her voice: \"Where are you? I'm already at the station!\" I start laughing, because she is right behind me. This is the moment I will never forget. She pays for my ticket, and we hug.\n\nWe ended up spending the whole weekend together. While we were walking through the city, it started to pour, so we stopped to buy two umbrellas in case it rained again. Finally, I finished the trip without any other problem.\n\nSince then, I always check my bag before leaving, and I try to stay calm when things go wrong. These small mistakes taught me that a bad start does not have to ruin a whole trip."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write an email of 180 to 250 words to a friend who lives in another country. Tell them what you are doing these days, what you have been doing lately (currently, lately), your plans for this year (planning on, intend to) and a short recent anecdote. End with two questions for them.",
+   "targets": [
+    "present simple and continuous",
+    "present perfect simple and continuous",
+    "planning on / intend to / decide to",
+    "lately, currently, later this year"
+   ],
+   "checklist": [
+    "Between 180 and 250 words",
+    "Contrast between the simple present (habits) and the continuous (temporary)",
+    "At least two sentences with the present perfect continuous (for / since / lately)",
+    "At least three verbs with -ing or to + verb, used correctly",
+    "A short anecdote in the simple past and past continuous",
+    "Email greeting and sign-off, and two questions for your friend"
+   ],
+   "model": "Hi Lucía,\n\nHow are things in Toronto? I hope you are doing well. Here, life is busy as usual. I usually get up at six and go to work by train, but this month I'm working from home because the office is being painted. Currently I'm also taking a photography course on Saturdays.\n\nLately I have been thinking a lot about my future. I have been saving money since January, and I have been looking at apartments for rent. I'm planning on moving to a new place later this year, and I intend to live closer to the city center. I have also decided to learn how to cook, so I have been trying new recipes every weekend. Some of them have been a disaster!\n\nLet me tell you a funny story. Last Sunday I was making a cake when the smoke alarm went off. I was talking on the phone with my mom, so I forgot about the oven. By the time I noticed, the kitchen was full of smoke, and my neighbor was knocking on the door. We laughed about it later.\n\nI would love to hear your news. Have you been traveling much lately? And are you thinking about coming to Mexico this year?\n\nWrite soon!\n\nLove,\nElena"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The Wrong Trail",
+   "intro": "Read the story of a weekend that did not go as planned, then answer the questions.",
+   "paragraphs": [
+    "Last October, my friend Daniela and I decided to spend a long weekend in the mountains outside Oaxaca. I had been working twelve hours a day for months, and I was thrilled to leave the city. We were planning on hiking for a few hours on Saturday morning and driving home on Sunday. Nobody expected it to become the most memorable trip of our lives.",
+    "We started early. The weather was perfect, and we kept on walking longer than we intended. Around noon, Daniela stopped to take a photo of a tiny waterfall, and I remember thinking how peaceful everything was. Then we ended up following a narrow path that did not appear on our map. We should have turned back, but we were enjoying ourselves too much, and we didn't mind getting a little lost.",
+    "By four o'clock the sky was getting dark, and we were both getting scared. There were all these tall trees around us, and every path looked the same. I'm trying to stay calm, but my heart is pounding. Daniela is checking her phone, and there is no signal. All of a sudden, we hear a bell. A farmer is walking toward us with two goats, and he's smiling as if this were completely normal.",
+    "The farmer, Don Aurelio, offered to walk with us to his village. He didn't talk much, but he seemed to know every rock on the mountain. We stuck together and followed him in silence. When we finally arrived, his wife let us in and gave us hot chocolate and fresh tortillas. The village had no hotel, so we slept in a small room above the kitchen. Before going to bed I tried calling my mother, but there was still no signal, so I wrote her a long message and promised myself I would send it in the morning.",
+    "At dawn, the whole family was already awake. His grandchildren were feeding the chickens, and they looked at us as if we were famous explorers. We had breakfast, and Don Aurelio refused to accept any money, but he agreed to let us pay for the tortillas. Then he drove us back to our car in his old truck, and we spent the whole ride laughing about our mistake.",
+    "These days I'm working fewer hours, and I have been trying to take more long weekends off. Daniela is currently planning another trip, but this time we're bringing a paper map, a charger and, in case anything happens, a whistle. I never forgot to thank that farmer. I still remember hearing that bell, and I think about it whenever I feel I cannot get through a difficult day."
+   ],
+   "glossary": [
+    {
+     "en": "thrilled",
+     "def": "very excited and happy about something"
+    },
+    {
+     "en": "trail / path",
+     "def": "a narrow path, often in the mountains or in the forest"
+    },
+    {
+     "en": "signal",
+     "def": "the connection that lets a phone make calls or use the internet"
+    },
+    {
+     "en": "pounding",
+     "def": "beating very fast and strongly (said of the heart)"
+    },
+    {
+     "en": "goat",
+     "def": "a farm animal with horns that gives milk"
+    },
+    {
+     "en": "stick together",
+     "def": "to stay close to each other so nobody gets separated"
+    },
+    {
+     "en": "dawn",
+     "def": "the early morning, when the sun starts to rise"
+    },
+    {
+     "en": "whistle",
+     "def": "a small device you blow to make a loud sound, often to get attention or for help"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Daniela and the writer planned to hike for several days.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "They planned to walk for a few hours on Saturday and return on Sunday."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Why did they end up on a path that was not on the map?",
+     "options": [
+      "They were following Don Aurelio.",
+      "They kept walking and were enjoying themselves too much.",
+      "Daniela's phone showed the way."
+     ],
+     "answer": 1,
+     "explain": "They didn't turn back because they were having a great time."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "They had a good phone signal in the forest.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Daniela checks her phone, and there is no signal."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "Don Aurelio offered to ___ with them to his village.",
+     "answers": [
+      "walk"
+     ],
+     "explain": "Offer to walk with us."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "What are they bringing on the next trip, besides a paper map?",
+     "options": [
+      "A camera and a tent",
+      "A charger and a whistle",
+      "Food and a radio"
+     ],
+     "answer": 1,
+     "explain": "A charger and, in case anything happens, a whistle."
+    },
+    {
+     "id": "R6",
+     "type": "translate",
+     "prompt": "No nos importó perdernos un poco.",
+     "answers": [
+      "We didn't mind getting a little lost.",
+      "We did not mind getting a little lost.",
+      "We didn't mind getting lost a little.",
+      "We didn't mind being a little lost."
+     ],
+     "explain": "(Not) mind + -ing."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "In the third paragraph, why does the writer change to the present tense?",
+     "options": [
+      "She made a mistake.",
+      "To make the key moment more dramatic.",
+      "Because it happened today."
+     ],
+     "answer": 1,
+     "explain": "The dramatic present highlights the key moment."
+    }
+   ]
+  },
+  "listening": {
+   "title": "It's a long story",
+   "intro": "Listen to the conversation between two coworkers. You can repeat it.",
+   "lines": [
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "Mateo, you look tired. What happened?"
+    },
+    {
+     "who": "Mateo",
+     "voice": "buttery",
+     "text": "Oh, it's a long story. I'm currently working two jobs, and lately I've been sleeping about five hours a night."
+    },
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "That sounds hard. Is that why you were late yesterday?"
+    },
+    {
+     "who": "Mateo",
+     "voice": "buttery",
+     "text": "Partly. Yesterday I was riding the bus to the office, and I was reading an email. I stopped looking out of the window."
+    },
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "And then?"
+    },
+    {
+     "who": "Mateo",
+     "voice": "buttery",
+     "text": "Then I look up, and we're on this highway, and all these buildings are different. I ended up in the next town!"
+    },
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "No way! Did you try calling your boss?"
+    },
+    {
+     "who": "Mateo",
+     "voice": "buttery",
+     "text": "I tried calling her, but my battery was dead. I remember thinking, why didn't I charge my phone?"
+    },
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "So what did you do?"
+    },
+    {
+     "who": "Mateo",
+     "voice": "buttery",
+     "text": "I got off, and a kind man offered to give me a ride to the station. I finished my trip by train."
+    },
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "I'm glad it worked out. Will you keep on taking the bus?"
+    },
+    {
+     "who": "Mateo",
+     "voice": "buttery",
+     "text": "Honestly, I'm considering buying a bike. At least I can't fall asleep on a bike!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "How many hours a night has Mateo been sleeping lately?",
+     "options": [
+      "About three",
+      "About five",
+      "About eight"
+     ],
+     "answer": 1,
+     "explain": "Lately I've been sleeping about five hours a night."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What was Mateo doing before he stopped looking out of the window?",
+     "options": [
+      "Reading an email",
+      "Sleeping",
+      "Calling his boss"
+     ],
+     "answer": 0,
+     "explain": "I was reading an email."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Why couldn't he call his boss?",
+     "options": [
+      "He had no number.",
+      "His battery was dead.",
+      "He was on the train."
+     ],
+     "answer": 1,
+     "explain": "My battery was dead."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "A kind man offered to give him a ___ to the station.",
+     "answers": [
+      "ride",
+      "lift"
+     ],
+     "explain": "Offer + to give someone a ride."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What is Mateo considering now?",
+     "options": [
+      "Changing jobs",
+      "Buying a bike",
+      "Moving to the next town"
+     ],
+     "answer": 1,
+     "explain": "I'm considering buying a bike."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "I'm currently working two jobs.",
+     "answers": [
+      "I'm currently working two jobs.",
+      "I am currently working two jobs."
+     ],
+     "explain": "Currently goes with the present continuous (temporary situation)."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "I ended up in the next town.",
+     "answers": [
+      "I ended up in the next town."
+     ],
+     "explain": "End up + place or -ing: how it ended."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "I tried calling her, but my battery was dead.",
+     "answers": [
+      "I tried calling her, but my battery was dead."
+     ],
+     "explain": "Try + -ing; but separa las dos ideas."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "A man offered to give me a ride to the station.",
+     "answers": [
+      "A man offered to give me a ride to the station."
+     ],
+     "explain": "Offer + to + verbo."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Tell an anecdote: something unexpected that happened to you on a trip or on an ordinary day.",
+     "questions": [
+      "When did it happen?",
+      "What were you doing at the time?",
+      "What happened all of a sudden?",
+      "How did the story end?"
+     ],
+     "model": "A few years ago, I was walking home after work, and it was raining. All of a sudden, I hear a noise behind me, and I'm thinking, \"Oh, no.\" It was just a little dog! He followed me all the way home, so I ended up keeping him.",
+     "checklist": [
+      "Past continuous for the background and simple past for the actions",
+      "Present tense at a key moment",
+      "all of a sudden, one day or on the day of",
+      "ended up + -ing"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about what you are doing these days and what you have been doing lately.",
+     "questions": [
+      "What are you currently working on?",
+      "What have you been doing lately for fun?",
+      "How long have you been living in your city?",
+      "What are you planning on doing later this year?"
+     ],
+     "model": "I'm currently studying for an exam. Lately I've been walking in the park every morning to get in shape. I've been living here for ten years. Later this year, I'm planning on visiting my cousins in Monterrey.",
+     "checklist": [
+      "Present continuous for temporary situations",
+      "Present perfect continuous with lately / for",
+      "plan on + -ing",
+      "later this year"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about what you enjoy, what you decided to do and what you remember.",
+     "questions": [
+      "What do you enjoy doing on weekends?",
+      "What did you decide to do last year?",
+      "What do you remember doing as a child?",
+      "Is there something you stopped doing? Why?"
+     ],
+     "model": "I enjoy cooking for my friends. Last year I decided to learn English seriously. I remember playing in the street with my cousins. I stopped eating sweets because I wanted to feel healthier.",
+     "checklist": [
+      "enjoy + -ing",
+      "decide + to + verb",
+      "remember + -ing",
+      "stop + -ing"
+     ]
+    }
+   ],
+   "repeat": [
+    "I've been living here for five years.",
+    "We ended up taking a taxi.",
+    "I stopped to take a photo.",
+    "There were all these trees around us.",
+    "All of a sudden, we hear a bell.",
+    "I'm considering buying a bike."
+   ]
+  }
+ }
+}

@@ -1,0 +1,1903 @@
+{
+ "level": "A1",
+ "attribution": "Tatoeba.org (CC BY 2.0 FR)",
+ "pairs": [
+  {
+   "id": "t689111",
+   "en": "Is it a yes or a no?",
+   "es": "¿Eso es un sí o un no?",
+   "alts": []
+  },
+  {
+   "id": "t67091",
+   "en": "Is that a bus or a car?",
+   "es": "¿Ese es un bus o un auto?",
+   "alts": []
+  },
+  {
+   "id": "t28971",
+   "en": "I have a cat and a dog.",
+   "es": "Tengo un gato y un perro.",
+   "alts": []
+  },
+  {
+   "id": "t2375936",
+   "en": "I know how to do my job.",
+   "es": "Sé como hacer mi trabajo.",
+   "alts": []
+  },
+  {
+   "id": "t240978",
+   "en": "May I have a cup of tea?",
+   "es": "¿Puedo tomar una taza de té?",
+   "alts": []
+  },
+  {
+   "id": "t3587901",
+   "en": "Do I have to do this now?",
+   "es": "¿Tengo que hacer eso ahora?",
+   "alts": []
+  },
+  {
+   "id": "t445014",
+   "en": "Why do I have to do this?",
+   "es": "¿Por qué tengo que hacerlo?",
+   "alts": [
+    "Why do I have to do that?",
+    "Why do I have to do it?"
+   ]
+  },
+  {
+   "id": "t2033158",
+   "en": "I want you to be my wife.",
+   "es": "Quiero que seas mi esposa.",
+   "alts": []
+  },
+  {
+   "id": "t1277295",
+   "en": "One of the two has to go.",
+   "es": "Uno de los dos tiene que irse.",
+   "alts": [
+    "Either of the two must go.",
+    "One of the two has to leave."
+   ]
+  },
+  {
+   "id": "t5105709",
+   "en": "I want to have a baby now!",
+   "es": "¡Quiero ponerme de parto ya!",
+   "alts": []
+  },
+  {
+   "id": "t3327854",
+   "en": "I was the same age as you.",
+   "es": "Yo tenía la misma edad que tú.",
+   "alts": []
+  },
+  {
+   "id": "t4435304",
+   "en": "Do it well or don't do it.",
+   "es": "Hágalo bien o no lo haga.",
+   "alts": []
+  },
+  {
+   "id": "t16083",
+   "en": "You must do as I tell you.",
+   "es": "Debes hacer lo que te digo.",
+   "alts": []
+  },
+  {
+   "id": "t2362086",
+   "en": "I don't know how to use it.",
+   "es": "No sé cómo usarlo.",
+   "alts": [
+    "I do not know how to use it."
+   ]
+  },
+  {
+   "id": "t3385928",
+   "en": "Why did you do that to him?",
+   "es": "¿Por qué le hiciste eso a él?",
+   "alts": []
+  },
+  {
+   "id": "t252885",
+   "en": "I can't run as fast as you.",
+   "es": "No puedo correr tan rápido como tú.",
+   "alts": []
+  },
+  {
+   "id": "t1977679",
+   "en": "I like it when you do that.",
+   "es": "Me gusta que hagas eso.",
+   "alts": []
+  },
+  {
+   "id": "t8561812",
+   "en": "One of us two should do it.",
+   "es": "Uno de nosotros dos debe hacerlo.",
+   "alts": []
+  },
+  {
+   "id": "t2012662",
+   "en": "I know what you want to do.",
+   "es": "Sé lo que quieres hacer.",
+   "alts": []
+  },
+  {
+   "id": "t2012701",
+   "en": "I want you to work with me.",
+   "es": "Quiero que trabajes conmigo.",
+   "alts": []
+  },
+  {
+   "id": "t288492",
+   "en": "He is the older of the two.",
+   "es": "Él es el mayor de los dos.",
+   "alts": []
+  },
+  {
+   "id": "t9564818",
+   "en": "You have to buy it for him.",
+   "es": "Debes comprárselo.",
+   "alts": []
+  },
+  {
+   "id": "t264581",
+   "en": "We want a house of our own.",
+   "es": "Queremos una casa propia.",
+   "alts": []
+  },
+  {
+   "id": "t2544357",
+   "en": "I wish I could go with you.",
+   "es": "Me gustaría poder ir contigo.",
+   "alts": []
+  },
+  {
+   "id": "t6883569",
+   "en": "She has a rose in her hair.",
+   "es": "Tiene una rosa en su cabello.",
+   "alts": []
+  },
+  {
+   "id": "t6354066",
+   "en": "Can you do that in one day?",
+   "es": "¿Puedes hacer eso en un día?",
+   "alts": []
+  },
+  {
+   "id": "t1779993",
+   "en": "We have a lot to talk about.",
+   "es": "Tenemos mucho de que hablar.",
+   "alts": []
+  },
+  {
+   "id": "t254786",
+   "en": "I am going to tell you that.",
+   "es": "Pienso contártelo.",
+   "alts": []
+  },
+  {
+   "id": "t4102899",
+   "en": "Now I don't know what to do.",
+   "es": "Ahora no sé qué hacer.",
+   "alts": [
+    "I don't know what to do now."
+   ]
+  },
+  {
+   "id": "t4524089",
+   "en": "I just want this to be over.",
+   "es": "Solo quiero que esto se acabe.",
+   "alts": []
+  },
+  {
+   "id": "t10557842",
+   "en": "The house is too big for me.",
+   "es": "La casa es demasiada grande para mí.",
+   "alts": []
+  },
+  {
+   "id": "t9706450",
+   "en": "I don't have a sofa at home.",
+   "es": "Yo no tengo sofá en casa.",
+   "alts": []
+  },
+  {
+   "id": "t11401109",
+   "en": "The sky has a lot of clouds.",
+   "es": "El cielo tiene muchas nubes.",
+   "alts": []
+  },
+  {
+   "id": "t248379",
+   "en": "We used to play in the park.",
+   "es": "Solíamos jugar en el parque.",
+   "alts": []
+  },
+  {
+   "id": "t31358",
+   "en": "It's time for us to go home.",
+   "es": "Ya es hora de irnos a casa.",
+   "alts": []
+  },
+  {
+   "id": "t3869676",
+   "en": "My wife took me by the neck.",
+   "es": "Mi esposa me tomó por el cuello.",
+   "alts": []
+  },
+  {
+   "id": "t2376286",
+   "en": "I know what I'm going to do.",
+   "es": "Sé lo que voy a hacer.",
+   "alts": [
+    "I know what I'll do."
+   ]
+  },
+  {
+   "id": "t4923389",
+   "en": "I'm saving as much as I can.",
+   "es": "Estoy ahorrando lo más que puedo.",
+   "alts": [
+    "I'm saving the most I can."
+   ]
+  },
+  {
+   "id": "t1581914",
+   "en": "I would like to draw a tree.",
+   "es": "Me gustaría dibujar un árbol.",
+   "alts": []
+  },
+  {
+   "id": "t1699230",
+   "en": "She grew up in a small town.",
+   "es": "Ella creció en un pequeño pueblo.",
+   "alts": []
+  },
+  {
+   "id": "t436365",
+   "en": "I am going to wash my hands.",
+   "es": "Me voy a lavar las manos.",
+   "alts": [
+    "I'm going to wash my hands."
+   ]
+  },
+  {
+   "id": "t3917083",
+   "en": "Do we need to wait for them?",
+   "es": "¿Tenemos que esperarlos?",
+   "alts": []
+  },
+  {
+   "id": "t67172",
+   "en": "One day I found a box there.",
+   "es": "Un día, encontré allí una caja.",
+   "alts": []
+  },
+  {
+   "id": "t6627493",
+   "en": "The one on the desk is mine.",
+   "es": "El que está sobre el escritorio es mío.",
+   "alts": []
+  },
+  {
+   "id": "t448177",
+   "en": "Do you want me to paint you?",
+   "es": "¿Querés que te retrate?",
+   "alts": []
+  },
+  {
+   "id": "t1598082",
+   "en": "I want a room with a shower.",
+   "es": "Quiero una habitación con ducha.",
+   "alts": []
+  },
+  {
+   "id": "t9050265",
+   "en": "I left my phone on the shelf.",
+   "es": "Olvidé mi celular sobre la repisa.",
+   "alts": []
+  },
+  {
+   "id": "t31163",
+   "en": "I can wait for him no longer.",
+   "es": "Ya no lo puedo esperar más.",
+   "alts": []
+  },
+  {
+   "id": "t3105035",
+   "en": "He is not the same as before.",
+   "es": "Él no es el mismo de antes.",
+   "alts": []
+  },
+  {
+   "id": "t1242864",
+   "en": "It's so nice to stay at home.",
+   "es": "Es tan agradable quedarse en casa.",
+   "alts": []
+  },
+  {
+   "id": "t2387453",
+   "en": "I need a moment of your time.",
+   "es": "Necesito un poco de tu tiempo.",
+   "alts": []
+  },
+  {
+   "id": "t57120",
+   "en": "This hat is too small for me.",
+   "es": "Este sombrero es demasiado pequeño para mí.",
+   "alts": []
+  },
+  {
+   "id": "t6403823",
+   "en": "I'm happy that I can see you.",
+   "es": "Estoy feliz de poder verte.",
+   "alts": []
+  },
+  {
+   "id": "t2354690",
+   "en": "We had a lot of fun together.",
+   "es": "Nos divertimos mucho juntos.",
+   "alts": []
+  },
+  {
+   "id": "t2013627",
+   "en": "I'd like to keep it that way.",
+   "es": "Me gustaría dejarlo así.",
+   "alts": []
+  },
+  {
+   "id": "t8717046",
+   "en": "I can't take my eyes off you.",
+   "es": "No puedo dejar de admirarte.",
+   "alts": [
+    "I can't take my eyes off of you."
+   ]
+  },
+  {
+   "id": "t13219483",
+   "en": "What is the name of the song?",
+   "es": "¿Cuál es el nombre de la canción?",
+   "alts": [
+    "What's the name of this song?"
+   ]
+  },
+  {
+   "id": "t8671361",
+   "en": "He is the owner of this shop.",
+   "es": "Es el propietario de esta tienda.",
+   "alts": []
+  },
+  {
+   "id": "t4573439",
+   "en": "I can't go because I am busy.",
+   "es": "No puedo ir porque estoy ocupado.",
+   "alts": []
+  },
+  {
+   "id": "t32212",
+   "en": "Would you like a cup of milk?",
+   "es": "¿Quieres una taza de leche?",
+   "alts": []
+  },
+  {
+   "id": "t39068",
+   "en": "There is a boy near the door.",
+   "es": "Hay un chico cerca de la puerta.",
+   "alts": []
+  },
+  {
+   "id": "t7952292",
+   "en": "I'm sorry that I was so late.",
+   "es": "Lamento haber llegado tan tarde.",
+   "alts": []
+  },
+  {
+   "id": "t8585217",
+   "en": "Can you help me set the table?",
+   "es": "¿Me ayudas a poner la mesa?",
+   "alts": []
+  },
+  {
+   "id": "t35839",
+   "en": "May I bother you for a moment?",
+   "es": "¿Puedo molestarle un momento?",
+   "alts": []
+  },
+  {
+   "id": "t68794",
+   "en": "I want you to meet my parents.",
+   "es": "Quiero que conozcas a mis padres.",
+   "alts": []
+  },
+  {
+   "id": "t6849247",
+   "en": "Could you give us a ride home?",
+   "es": "¿Nos llevas a casa?",
+   "alts": []
+  },
+  {
+   "id": "t28188",
+   "en": "You may sit down in the chair.",
+   "es": "Podrías sentarte en la silla.",
+   "alts": []
+  },
+  {
+   "id": "t1874023",
+   "en": "Do you really want to do that?",
+   "es": "¿De verdad quieres hacerlo?",
+   "alts": []
+  },
+  {
+   "id": "t261672",
+   "en": "I saw my mother hide the cake.",
+   "es": "Vi a mi madre esconder la tarta.",
+   "alts": []
+  },
+  {
+   "id": "t9367242",
+   "en": "I was just at the post office.",
+   "es": "Acabo de estar en la oficina de correos.",
+   "alts": [
+    "I have just been to the post office.",
+    "I've just been to the post office."
+   ]
+  },
+  {
+   "id": "t251880",
+   "en": "All I want is peace and quiet.",
+   "es": "Todo lo que quiero es paz y silencio.",
+   "alts": []
+  },
+  {
+   "id": "t47009",
+   "en": "I didn't know what to do then.",
+   "es": "No sabía qué hacer entonces.",
+   "alts": []
+  },
+  {
+   "id": "t53463",
+   "en": "No one stops to listen to him.",
+   "es": "Nadie se detiene a escucharlo.",
+   "alts": []
+  },
+  {
+   "id": "t10291453",
+   "en": "Could you tell me where it is?",
+   "es": "¿Podría decirme dónde está?",
+   "alts": []
+  },
+  {
+   "id": "t384881",
+   "en": "This flower is a type of rose.",
+   "es": "Esta flor es un tipo de rosa.",
+   "alts": [
+    "This flower is a kind of rose."
+   ]
+  },
+  {
+   "id": "t2033469",
+   "en": "I just want to take a picture.",
+   "es": "Solo quiero tomar una foto.",
+   "alts": []
+  },
+  {
+   "id": "t2045454",
+   "en": "It was like a dream come true.",
+   "es": "Fue como un sueño hecho realidad.",
+   "alts": []
+  },
+  {
+   "id": "t283217",
+   "en": "I have no idea where he lives.",
+   "es": "No tengo idea de dónde vive.",
+   "alts": []
+  },
+  {
+   "id": "t11427780",
+   "en": "I don't have milk for the cat.",
+   "es": "No tengo leche para el gato.",
+   "alts": []
+  },
+  {
+   "id": "t11346589",
+   "en": "Look at the size of that line!",
+   "es": "¡Mirá el tamaño de esta fila!",
+   "alts": []
+  },
+  {
+   "id": "t43352",
+   "en": "The old man caught a big fish.",
+   "es": "El anciano atrapó un pez grande.",
+   "alts": [
+    "That old man caught a large fish."
+   ]
+  },
+  {
+   "id": "t45463",
+   "en": "Tell me how to spell the word.",
+   "es": "Dime como deletrear la palabra.",
+   "alts": []
+  },
+  {
+   "id": "t309381",
+   "en": "Her hands were as cold as ice.",
+   "es": "Sus manos estaban frías como el hielo.",
+   "alts": []
+  },
+  {
+   "id": "t313413",
+   "en": "She did not turn up after all.",
+   "es": "No apareció nada.",
+   "alts": [
+    "He did not turn up after all."
+   ]
+  },
+  {
+   "id": "t3454509",
+   "en": "Store in a cool and dry place.",
+   "es": "Guarde en un lugar fresco y seco.",
+   "alts": []
+  },
+  {
+   "id": "t2821358",
+   "en": "I don't know what I should do.",
+   "es": "No sé qué debo hacer.",
+   "alts": []
+  },
+  {
+   "id": "t253822",
+   "en": "I wanted to go to the concert.",
+   "es": "Quería ir al concierto.",
+   "alts": []
+  },
+  {
+   "id": "t278169",
+   "en": "A bird is singing in the tree.",
+   "es": "Un pájaro está cantando en el árbol.",
+   "alts": []
+  },
+  {
+   "id": "t3347398",
+   "en": "Can you teach me how to fight?",
+   "es": "¿Me podrías enseñar a pelear?",
+   "alts": [
+    "Can you teach me to fight?",
+    "Could you teach me how to fight?"
+   ]
+  },
+  {
+   "id": "t4568105",
+   "en": "I don't have any money at all.",
+   "es": "No tengo nada de dinero.",
+   "alts": []
+  },
+  {
+   "id": "t303914",
+   "en": "He runs in the park every day.",
+   "es": "Él corre todos los días en el parque.",
+   "alts": []
+  },
+  {
+   "id": "t8270439",
+   "en": "I couldn't go back to my house.",
+   "es": "No podía volver a mi casa.",
+   "alts": []
+  },
+  {
+   "id": "t9176650",
+   "en": "And why didn't you let me know?",
+   "es": "¿Y por qué no me avisasteis?",
+   "alts": [
+    "Why didn't you let me know?"
+   ]
+  },
+  {
+   "id": "t23813",
+   "en": "In case of fire, ring the bell.",
+   "es": "En caso de incendio, toca la campana.",
+   "alts": []
+  },
+  {
+   "id": "t20567",
+   "en": "There is one apple on the desk.",
+   "es": "Hay una manzana sobre el escritorio.",
+   "alts": [
+    "There is an apple on the table."
+   ]
+  },
+  {
+   "id": "t2050618",
+   "en": "What kind of music do you play?",
+   "es": "¿Qué tipo de música tocáis?",
+   "alts": []
+  },
+  {
+   "id": "t464422",
+   "en": "We need a knife for the butter.",
+   "es": "Necesitamos un cuchillo para la mantequilla.",
+   "alts": []
+  },
+  {
+   "id": "t1553516",
+   "en": "Do you take work home with you?",
+   "es": "¿Te llevas el trabajo a casa?",
+   "alts": []
+  },
+  {
+   "id": "t10461468",
+   "en": "I don't really want to see him.",
+   "es": "No tengo muchas ganas de verle.",
+   "alts": [
+    "I don't really feel like seeing him."
+   ]
+  },
+  {
+   "id": "t2713034",
+   "en": "That isn't what I meant to say.",
+   "es": "Eso no es lo que quise decir.",
+   "alts": [
+    "That is not what I meant to say.",
+    "That's not what I meant to say."
+   ]
+  },
+  {
+   "id": "t1531026",
+   "en": "I haven't seen you for so long!",
+   "es": "¡No te he visto hace tanto tiempo!",
+   "alts": []
+  },
+  {
+   "id": "t1570751",
+   "en": "You have to go to the hospital.",
+   "es": "Tienes que ir al hospital.",
+   "alts": []
+  },
+  {
+   "id": "t291968",
+   "en": "He didn't come back in the end.",
+   "es": "Al final no volvió.",
+   "alts": []
+  },
+  {
+   "id": "t1573421",
+   "en": "I don't believe one word of it.",
+   "es": "No me creo ni una palabra.",
+   "alts": []
+  },
+  {
+   "id": "t35822",
+   "en": "A cat was sitting on the chair.",
+   "es": "Un gato estaba sentado en la silla.",
+   "alts": []
+  },
+  {
+   "id": "t9435215",
+   "en": "He says he isn't going to come.",
+   "es": "Dice que no va a venir.",
+   "alts": [
+    "He says he's not going to come.",
+    "He says that he's not going to come.",
+    "He says that he isn't going to come."
+   ]
+  },
+  {
+   "id": "t2014336",
+   "en": "I wanted to do the right thing.",
+   "es": "Quería hacer lo correcto.",
+   "alts": []
+  },
+  {
+   "id": "t286147",
+   "en": "Don't be taken in by his words.",
+   "es": "No caigas en sus palabras.",
+   "alts": []
+  },
+  {
+   "id": "t507297",
+   "en": "There's not a cloud in the sky.",
+   "es": "No hay ni una sola nube en el cielo.",
+   "alts": [
+    "There isn't a cloud in the sky."
+   ]
+  },
+  {
+   "id": "t325067",
+   "en": "I'll see you a week from today.",
+   "es": "Te veré en una semana a partir de hoy.",
+   "alts": []
+  },
+  {
+   "id": "t259854",
+   "en": "I don't go to school on Sunday.",
+   "es": "No voy a la escuela en domingo.",
+   "alts": []
+  },
+  {
+   "id": "t2396057",
+   "en": "How many more of you are there?",
+   "es": "¿Cuántos más son ustedes?",
+   "alts": []
+  },
+  {
+   "id": "t36511",
+   "en": "The late Mr Smith was a doctor.",
+   "es": "El difunto Sr. Schmidt era médico.",
+   "alts": []
+  },
+  {
+   "id": "t38050",
+   "en": "By the way, where are you from?",
+   "es": "Por cierto, ¿de dónde eres?",
+   "alts": []
+  },
+  {
+   "id": "t3185966",
+   "en": "My brother looks a lot like me.",
+   "es": "Mi hermano se parece mucho a mí.",
+   "alts": [
+    "My brother looks very similar to me."
+   ]
+  },
+  {
+   "id": "t1293167",
+   "en": "I wrote her a letter every day.",
+   "es": "Le escribía una carta cada día.",
+   "alts": []
+  },
+  {
+   "id": "t299826",
+   "en": "He went over to the other side.",
+   "es": "Él cruzó al otro lado.",
+   "alts": []
+  },
+  {
+   "id": "t4012638",
+   "en": "Where did you say you got this?",
+   "es": "¿Dónde dijiste que conseguiste esto?",
+   "alts": []
+  },
+  {
+   "id": "t238855",
+   "en": "The month is drawing to an end.",
+   "es": "El mes se acerca a su fin.",
+   "alts": []
+  },
+  {
+   "id": "t260253",
+   "en": "I told him not to throw stones.",
+   "es": "Le dije que no tirara piedras.",
+   "alts": []
+  },
+  {
+   "id": "t20413",
+   "en": "I found myself back in my room.",
+   "es": "Me encontré de vuelta en mi habitación.",
+   "alts": []
+  },
+  {
+   "id": "t4529588",
+   "en": "What kind of bread do you want?",
+   "es": "¿Qué clase de pan quieres?",
+   "alts": []
+  },
+  {
+   "id": "t453815",
+   "en": "I would like to meet his father.",
+   "es": "Me gustaría conocer a su padre.",
+   "alts": []
+  },
+  {
+   "id": "t2014653",
+   "en": "I don't want to leave a message.",
+   "es": "No quiero dejar un mensaje.",
+   "alts": []
+  },
+  {
+   "id": "t47532",
+   "en": "He goes to bed at eight o'clock.",
+   "es": "Se va a la cama a las ocho.",
+   "alts": []
+  },
+  {
+   "id": "t69853",
+   "en": "Which group do you want to join?",
+   "es": "¿A qué grupo te quieres unir?",
+   "alts": []
+  },
+  {
+   "id": "t38542",
+   "en": "Please stay as long as you wish.",
+   "es": "Por favor, quédese tanto como desee.",
+   "alts": []
+  },
+  {
+   "id": "t28453",
+   "en": "Don't go out after it gets dark.",
+   "es": "No salgas después de que oscurezca.",
+   "alts": [
+    "Don't go out after dark."
+   ]
+  },
+  {
+   "id": "t6663861",
+   "en": "I got tired of waiting and left.",
+   "es": "Me cansé de esperar y me fui.",
+   "alts": []
+  },
+  {
+   "id": "t2502974",
+   "en": "This is not a book for children.",
+   "es": "Ese no es un libro para niños.",
+   "alts": []
+  },
+  {
+   "id": "t8416150",
+   "en": "For this time of year, it's hot.",
+   "es": "Para esta época del año, está haciendo calor.",
+   "alts": []
+  },
+  {
+   "id": "t954535",
+   "en": "What does this look like to you?",
+   "es": "¿A qué se parece esto para usted?",
+   "alts": []
+  },
+  {
+   "id": "t411931",
+   "en": "I took my clothes to be cleaned.",
+   "es": "Llevé mi ropa a lavar.",
+   "alts": []
+  },
+  {
+   "id": "t10550841",
+   "en": "We need to start all over again.",
+   "es": "Tenemos que empezar de nuevo.",
+   "alts": []
+  },
+  {
+   "id": "t7792053",
+   "en": "The first one to get there wins.",
+   "es": "El que llegue primero, gana.",
+   "alts": [
+    "First one to get there wins."
+   ]
+  },
+  {
+   "id": "t2014718",
+   "en": "I wanted to learn from the best.",
+   "es": "Quería aprender del mejor.",
+   "alts": []
+  },
+  {
+   "id": "t1674",
+   "en": "There are too many things to do!",
+   "es": "¡Hay demasiadas cosas que hacer!",
+   "alts": []
+  },
+  {
+   "id": "t4424535",
+   "en": "The cat which you found is mine.",
+   "es": "El gato que encontraste es mío.",
+   "alts": []
+  },
+  {
+   "id": "t1829531",
+   "en": "What do you really think of her?",
+   "es": "¿Cuál es tu verdadera opinión sobre ella?",
+   "alts": []
+  },
+  {
+   "id": "t302059",
+   "en": "He picked up cans in the street.",
+   "es": "Él recogió latas de la calle.",
+   "alts": []
+  },
+  {
+   "id": "t10808131",
+   "en": "What is it that you really want?",
+   "es": "¿Qué es lo que realmente quieres?",
+   "alts": []
+  },
+  {
+   "id": "t54519",
+   "en": "Won't you have some tea with me?",
+   "es": "¿Gustaría usted servirse una taza de té conmigo?",
+   "alts": []
+  },
+  {
+   "id": "t1292947",
+   "en": "Does it snow much in the winter?",
+   "es": "¿Nieva mucho en el invierno?",
+   "alts": [
+    "Does it snow much in winter?",
+    "Does it snow a lot in the winter?"
+   ]
+  },
+  {
+   "id": "t2541497",
+   "en": "I wish I'd done the right thing.",
+   "es": "Desearía haber hecho lo correcto.",
+   "alts": []
+  },
+  {
+   "id": "t6003092",
+   "en": "I love people who make me laugh.",
+   "es": "Me encantan las personas que me hacen reír.",
+   "alts": []
+  },
+  {
+   "id": "t13545574",
+   "en": "They bought a house with a pool.",
+   "es": "Compraron una casa con piscina.",
+   "alts": [
+    "They bought a home with a pool."
+   ]
+  },
+  {
+   "id": "t73033",
+   "en": "He missed the train by a minute.",
+   "es": "Él perdió el tren por un minuto.",
+   "alts": []
+  },
+  {
+   "id": "t261772",
+   "en": "I share the room with my sister.",
+   "es": "Comparto la habitación con mi hermana.",
+   "alts": [
+    "I use the room with my sister."
+   ]
+  },
+  {
+   "id": "t11267768",
+   "en": "They don't take care of the dog.",
+   "es": "No cuidan al perro.",
+   "alts": []
+  },
+  {
+   "id": "t52244",
+   "en": "Our sister will be with us soon.",
+   "es": "Nuestra hermana estará pronto con nosotros.",
+   "alts": []
+  },
+  {
+   "id": "t50283",
+   "en": "The sofa takes up too much room.",
+   "es": "El sofá ocupa demasiado espacio.",
+   "alts": []
+  },
+  {
+   "id": "t9188977",
+   "en": "Which one are you going to pick?",
+   "es": "¿Cuál de ellos vas a escoger?",
+   "alts": [
+    "Which one of those are you going to pick?"
+   ]
+  },
+  {
+   "id": "t45299",
+   "en": "The man blew out his own brains.",
+   "es": "El hombre se voló los sesos.",
+   "alts": []
+  },
+  {
+   "id": "t10077684",
+   "en": "That was a really long time ago.",
+   "es": "Eso pasó hace realmente mucho tiempo.",
+   "alts": []
+  },
+  {
+   "id": "t26728",
+   "en": "I feel like singing in the rain.",
+   "es": "Tengo ganas de cantar en la lluvia.",
+   "alts": []
+  },
+  {
+   "id": "t495234",
+   "en": "She is two years younger than I.",
+   "es": "Ella tiene dos años menos que yo.",
+   "alts": []
+  },
+  {
+   "id": "t248311",
+   "en": "We were all present at the party.",
+   "es": "Todos estuvimos presentes en la fiesta.",
+   "alts": []
+  },
+  {
+   "id": "t10040017",
+   "en": "Wake me up tomorrow at six, okay?",
+   "es": "Despiértame mañana a las seis, ¿está bien?",
+   "alts": []
+  },
+  {
+   "id": "t11034561",
+   "en": "You need to remember who you are.",
+   "es": "Necesitas recordar quién eres.",
+   "alts": []
+  },
+  {
+   "id": "t2055264",
+   "en": "I have brown eyes and black hair.",
+   "es": "Tengo ojos castaños y pelo negro.",
+   "alts": []
+  },
+  {
+   "id": "t10367566",
+   "en": "What kind of bicycle do you have?",
+   "es": "¿Qué tipo de bicicleta tienes?",
+   "alts": []
+  },
+  {
+   "id": "t70139",
+   "en": "What did you do with your camera?",
+   "es": "¿Qué hiciste con tu cámara?",
+   "alts": []
+  },
+  {
+   "id": "t2315158",
+   "en": "I got up very early this morning.",
+   "es": "Esta mañana me he levantado muy pronto.",
+   "alts": []
+  },
+  {
+   "id": "t266517",
+   "en": "I'm sure we'll make it all right.",
+   "es": "Estoy seguro de que lo haremos bien.",
+   "alts": []
+  },
+  {
+   "id": "t241083",
+   "en": "Maybe I'll go, and maybe I won't.",
+   "es": "Quizás vaya, quizás no.",
+   "alts": []
+  },
+  {
+   "id": "t13764853",
+   "en": "You're not a dog! You're a horse!",
+   "es": "¡No eres perro, sino caballo!",
+   "alts": []
+  },
+  {
+   "id": "t3771109",
+   "en": "So many places I haven't been to.",
+   "es": "Hay tantos lugares que no he visitado...",
+   "alts": []
+  },
+  {
+   "id": "t67197",
+   "en": "One morning he saw a pretty girl.",
+   "es": "Una mañana él vio a una linda chica.",
+   "alts": []
+  },
+  {
+   "id": "t320760",
+   "en": "Mother told me to clean the room.",
+   "es": "Mamá me dijo que limpiara la habitación.",
+   "alts": []
+  },
+  {
+   "id": "t240423",
+   "en": "Are there many trees in the park?",
+   "es": "¿Hay muchos árboles en el parque?",
+   "alts": []
+  },
+  {
+   "id": "t24245",
+   "en": "There was much food in the house.",
+   "es": "Había harta comida en la casa.",
+   "alts": [
+    "There was a lot of food in the house.",
+    "There was lots of food in the house."
+   ]
+  },
+  {
+   "id": "t1137404",
+   "en": "I'd like to have a better memory.",
+   "es": "Yo desearía tener una mejor memoria.",
+   "alts": []
+  },
+  {
+   "id": "t9149087",
+   "en": "They just left, it began to rain.",
+   "es": "Apenas se fueron, comenzó a llover.",
+   "alts": []
+  },
+  {
+   "id": "t255660",
+   "en": "I've never gotten on a plane yet.",
+   "es": "Jamás he estado en un avión.",
+   "alts": []
+  },
+  {
+   "id": "t953394",
+   "en": "I can't hide my feelings for you.",
+   "es": "No puedo ocultar mis sentimientos por ti.",
+   "alts": []
+  },
+  {
+   "id": "t4576445",
+   "en": "The black dog sees the white cat.",
+   "es": "El perro negro ve al gato blanco.",
+   "alts": []
+  },
+  {
+   "id": "t1892006",
+   "en": "At what time does your class end?",
+   "es": "¿A qué hora se acaba tu clase?",
+   "alts": [
+    "What time does your class end?",
+    "When does your class end?"
+   ]
+  },
+  {
+   "id": "t682393",
+   "en": "What do you usually wear to work?",
+   "es": "¿Qué te pones normalmente para el trabajo?",
+   "alts": []
+  },
+  {
+   "id": "t292755",
+   "en": "He has all but finished the work.",
+   "es": "Él ha terminado prácticamente el trabajo.",
+   "alts": []
+  },
+  {
+   "id": "t1273372",
+   "en": "She looked him right in the eyes.",
+   "es": "Ella lo miró justo a los ojos.",
+   "alts": []
+  },
+  {
+   "id": "t6910067",
+   "en": "What programs do you watch on TV?",
+   "es": "¿Qué programas ves en la tele?",
+   "alts": []
+  },
+  {
+   "id": "t9165030",
+   "en": "Taking candy from a baby is mean.",
+   "es": "Es miserable robar golosinas a un bebé.",
+   "alts": []
+  },
+  {
+   "id": "t1855115",
+   "en": "You spend too much time with her.",
+   "es": "Pasás demasiado tiempo con ella.",
+   "alts": []
+  },
+  {
+   "id": "t41688",
+   "en": "It is high time we said good-bye.",
+   "es": "Ya es buena hora para despedirse.",
+   "alts": []
+  },
+  {
+   "id": "t10490837",
+   "en": "That means you think just like me.",
+   "es": "Eso quiere decir que piensas como yo.",
+   "alts": []
+  },
+  {
+   "id": "t3036159",
+   "en": "I'm just telling you what I heard.",
+   "es": "Solo te digo lo que oí.",
+   "alts": [
+    "I'm only telling you what I heard."
+   ]
+  },
+  {
+   "id": "t1823471",
+   "en": "I like nobody and nobody likes me.",
+   "es": "No me gusta nadie y no le gusto a nadie.",
+   "alts": []
+  },
+  {
+   "id": "t13972377",
+   "en": "Where's the cat? I can't find him.",
+   "es": "¿Dónde está el gato? No puedo encontrarlo.",
+   "alts": [
+    "Where's the cat? I can't find it."
+   ]
+  },
+  {
+   "id": "t39637",
+   "en": "She put the magazine on the table.",
+   "es": "Puso la revista sobre la mesa.",
+   "alts": []
+  },
+  {
+   "id": "t8847402",
+   "en": "He's better at teaching than I am.",
+   "es": "A él se le da mejor enseñar que a mí.",
+   "alts": []
+  },
+  {
+   "id": "t69924",
+   "en": "Did you buy it today or yesterday?",
+   "es": "¿Lo compraste hoy o ayer?",
+   "alts": []
+  },
+  {
+   "id": "t1417682",
+   "en": "I've been a teacher for two years.",
+   "es": "He sido profesor por dos años.",
+   "alts": []
+  },
+  {
+   "id": "t4346288",
+   "en": "Don't put the knife in your mouth.",
+   "es": "No te metas el cuchillo en la boca.",
+   "alts": []
+  },
+  {
+   "id": "t6611828",
+   "en": "I never sleep more than six hours.",
+   "es": "Nunca duermo más de seis horas.",
+   "alts": []
+  },
+  {
+   "id": "t299939",
+   "en": "He wanted to be in the newspapers.",
+   "es": "Quería estar en los periódicos.",
+   "alts": []
+  },
+  {
+   "id": "t2264621",
+   "en": "After all, the play wasn't so bad.",
+   "es": "Al fin y al cabo no era tan mala la comedia.",
+   "alts": []
+  },
+  {
+   "id": "t2641966",
+   "en": "I wouldn't want anybody to see us.",
+   "es": "No quisiera que nadie nos viera.",
+   "alts": [
+    "I wouldn't want anyone to see us."
+   ]
+  },
+  {
+   "id": "t1696998",
+   "en": "What time do you water the garden?",
+   "es": "¿A qué hora riegas el jardín?",
+   "alts": []
+  },
+  {
+   "id": "t2323288",
+   "en": "I don't want to be your boyfriend.",
+   "es": "No quiero ser tu novio.",
+   "alts": []
+  },
+  {
+   "id": "t807190",
+   "en": "Some of them did very little work.",
+   "es": "Algunos de ellos hicieron muy poco trabajo.",
+   "alts": []
+  },
+  {
+   "id": "t2534460",
+   "en": "I hope we didn't keep you waiting.",
+   "es": "Espero que no te hayamos hecho esperar.",
+   "alts": []
+  },
+  {
+   "id": "t3411329",
+   "en": "We're going to blow this place up.",
+   "es": "Vamos a volar por los aires este lugar.",
+   "alts": []
+  },
+  {
+   "id": "t46320",
+   "en": "The boy got in through the window.",
+   "es": "El niño entró por la ventana.",
+   "alts": []
+  },
+  {
+   "id": "t1507272",
+   "en": "You will find your toys and books.",
+   "es": "Vas a encontrar tus juguetes y libros.",
+   "alts": []
+  },
+  {
+   "id": "t306722",
+   "en": "They looked on me as their leader.",
+   "es": "Ellos me veían como a su líder.",
+   "alts": []
+  },
+  {
+   "id": "t11354799",
+   "en": "I'm sorry, I'm just about to call.",
+   "es": "Lo siento, acaba de llamar.",
+   "alts": []
+  },
+  {
+   "id": "t63922",
+   "en": "Might I ask your name and address?",
+   "es": "¿Puedo preguntarle su nombre y dirección?",
+   "alts": []
+  },
+  {
+   "id": "t310060",
+   "en": "She has no less than ten children.",
+   "es": "Ella no tiene menos de diez hijos.",
+   "alts": []
+  },
+  {
+   "id": "t1877600",
+   "en": "Look at this picture of my family.",
+   "es": "Mira esta foto de mi familia.",
+   "alts": []
+  },
+  {
+   "id": "t9631678",
+   "en": "There's still a lot to talk about.",
+   "es": "Aún queda mucho de qué hablar.",
+   "alts": [
+    "There's a lot left to talk about."
+   ]
+  },
+  {
+   "id": "t2857316",
+   "en": "Take the clothes and go wash them.",
+   "es": "Agarra las ropas y ve a lavarlas.",
+   "alts": []
+  },
+  {
+   "id": "t2750918",
+   "en": "Please give me a little more time.",
+   "es": "Dame un poco más de tiempo, por favor.",
+   "alts": []
+  },
+  {
+   "id": "t307566",
+   "en": "They wake up at six every morning.",
+   "es": "Se levantan todos los días a las seis.",
+   "alts": []
+  },
+  {
+   "id": "t9015751",
+   "en": "It's not as expensive as they say.",
+   "es": "No es tan caro como dicen.",
+   "alts": []
+  },
+  {
+   "id": "t647569",
+   "en": "No, I cannot believe what you say.",
+   "es": "No, no puedo creerme lo que dices.",
+   "alts": []
+  },
+  {
+   "id": "t312044",
+   "en": "She is beginning to play the piano.",
+   "es": "Ella está empezando a tocar el piano.",
+   "alts": []
+  },
+  {
+   "id": "t1103015",
+   "en": "I have two sisters and one brother.",
+   "es": "Tengo dos hermanas y un hermano.",
+   "alts": []
+  },
+  {
+   "id": "t8279716",
+   "en": "Should we go to the movies tonight?",
+   "es": "¿Vamos al cine esta noche?",
+   "alts": [
+    "Are we going to the movies tonight?"
+   ]
+  },
+  {
+   "id": "t19834",
+   "en": "What do you usually do on holidays?",
+   "es": "¿Qué sueles hacer en vacaciones?",
+   "alts": []
+  },
+  {
+   "id": "t62491",
+   "en": "Ken talks as if he knew everything.",
+   "es": "Ken habla como si supiera todo.",
+   "alts": []
+  },
+  {
+   "id": "t1663871",
+   "en": "Could you come back a little later?",
+   "es": "¿Podrías volver un poco más tarde?",
+   "alts": []
+  },
+  {
+   "id": "t7392946",
+   "en": "He said that he could've done that.",
+   "es": "Dijo que lo podría haber hecho.",
+   "alts": []
+  },
+  {
+   "id": "t2269000",
+   "en": "Three of the rooms face the street.",
+   "es": "Tres de las habitaciones dan a la calle.",
+   "alts": []
+  },
+  {
+   "id": "t54497",
+   "en": "Did you bring your family with you?",
+   "es": "¿Trajiste a tu familia contigo?",
+   "alts": []
+  },
+  {
+   "id": "t2663139",
+   "en": "That could solve a lot of problems.",
+   "es": "Eso podría solucionar muchos problemas.",
+   "alts": []
+  },
+  {
+   "id": "t291536",
+   "en": "He added that he didn't believe it.",
+   "es": "Él añadió que no se lo creía.",
+   "alts": []
+  },
+  {
+   "id": "t24583",
+   "en": "What time should I leave the hotel?",
+   "es": "¿A qué hora debo dejar el hotel?",
+   "alts": []
+  },
+  {
+   "id": "t1495758",
+   "en": "How many people came to your party?",
+   "es": "¿Cuánta gente vino a tu fiesta?",
+   "alts": []
+  },
+  {
+   "id": "t55839",
+   "en": "This is taller than any other tree.",
+   "es": "Este es más alto que cualquier otro árbol.",
+   "alts": []
+  },
+  {
+   "id": "t279544",
+   "en": "That guy took the best for himself.",
+   "es": "Ese tipo se llevó lo mejor para él.",
+   "alts": []
+  },
+  {
+   "id": "t5350327",
+   "en": "What happened to you? Are you hurt?",
+   "es": "¿Qué te sucedió? ¿Estás herido?",
+   "alts": []
+  },
+  {
+   "id": "t280179",
+   "en": "Do you have anything for a headache?",
+   "es": "¿Tienes algo para el dolor de cabeza?",
+   "alts": []
+  },
+  {
+   "id": "t2997795",
+   "en": "You have no idea what you've missed.",
+   "es": "No tienes idea de lo que te perdiste.",
+   "alts": []
+  },
+  {
+   "id": "t62604",
+   "en": "I got up at six-thirty this morning.",
+   "es": "Me levanté a las seis y media esta mañana.",
+   "alts": []
+  },
+  {
+   "id": "t245433",
+   "en": "Have you got through with your work?",
+   "es": "¿Has terminado tu trabajo?",
+   "alts": [
+    "Have you finished your work?",
+    "Are you through with your work?"
+   ]
+  },
+  {
+   "id": "t270415",
+   "en": "People often said this to my mother.",
+   "es": "La gente se lo decía a menudo a mi madre.",
+   "alts": []
+  },
+  {
+   "id": "t7774432",
+   "en": "You can't buy chicken at that price.",
+   "es": "A ese precio no se puede comprar el pollo.",
+   "alts": []
+  },
+  {
+   "id": "t245594",
+   "en": "My sister is cooking in the kitchen.",
+   "es": "Mi hermana está cocinando en la cocina.",
+   "alts": []
+  },
+  {
+   "id": "t9035839",
+   "en": "The dog is sleeping under the table.",
+   "es": "El perro duerme debajo de la mesa.",
+   "alts": []
+  },
+  {
+   "id": "t10167416",
+   "en": "Who is that sitting under that tree?",
+   "es": "¿Quién es el que está sentado bajo aquel árbol?",
+   "alts": []
+  },
+  {
+   "id": "t283960",
+   "en": "He brings home the bread and butter.",
+   "es": "Él trajo a casa el pan y la mantequilla.",
+   "alts": []
+  },
+  {
+   "id": "t4314843",
+   "en": "We'll have dinner when you get home.",
+   "es": "Cenaremos cuando llegues a casa.",
+   "alts": []
+  },
+  {
+   "id": "t5611085",
+   "en": "We've been together for a long time.",
+   "es": "Hemos estado juntos durante mucho tiempo.",
+   "alts": []
+  },
+  {
+   "id": "t320397",
+   "en": "It is a student's business to study.",
+   "es": "Estudiar es la labor del estudiante.",
+   "alts": []
+  },
+  {
+   "id": "t10717092",
+   "en": "There are forty people in the group.",
+   "es": "Hay cuarenta personas en el grupo.",
+   "alts": []
+  },
+  {
+   "id": "t1031060",
+   "en": "It's difficult to live in this city.",
+   "es": "Es difícil vivir en esta ciudad.",
+   "alts": [
+    "This city is hard to live in."
+   ]
+  },
+  {
+   "id": "t19457",
+   "en": "We make milk into cheese and butter.",
+   "es": "Transformamos la leche en queso y manteca.",
+   "alts": []
+  },
+  {
+   "id": "t589768",
+   "en": "This sentence has seven words in it.",
+   "es": "Esta frase tiene siete palabras.",
+   "alts": []
+  },
+  {
+   "id": "t10573597",
+   "en": "This bridge was the bridge of peace.",
+   "es": "Ese puente era el puente de la paz.",
+   "alts": []
+  },
+  {
+   "id": "t388557",
+   "en": "She was tired, but she kept working.",
+   "es": "Estaba cansada, pero siguió trabajando.",
+   "alts": []
+  },
+  {
+   "id": "t5651226",
+   "en": "Do you know who's broken the window?",
+   "es": "¿Sabes quién ha roto la ventana?",
+   "alts": []
+  },
+  {
+   "id": "t8892061",
+   "en": "Pigs are smarter than dogs and cats.",
+   "es": "Los cerdos son más inteligentes que los perros y los gatos.",
+   "alts": []
+  },
+  {
+   "id": "t9814667",
+   "en": "She wrote a message to her boyfriend.",
+   "es": "Le escribió un mensaje a su novio.",
+   "alts": []
+  },
+  {
+   "id": "t4080046",
+   "en": "That's what I really want... I think.",
+   "es": "Es lo que realmente quiero...creo.",
+   "alts": []
+  },
+  {
+   "id": "t1879074",
+   "en": "There was nothing he could have done.",
+   "es": "No había nada que él pudo haber hecho.",
+   "alts": []
+  },
+  {
+   "id": "t954837",
+   "en": "You're the one I've been waiting for.",
+   "es": "Es a ti a quien esperaba.",
+   "alts": []
+  },
+  {
+   "id": "t493574",
+   "en": "Close the window before going to bed.",
+   "es": "Cierra la ventana antes de que te vayas a la cama.",
+   "alts": []
+  },
+  {
+   "id": "t2264667",
+   "en": "Are you going to the concert tonight?",
+   "es": "¿Va usted al concierto esta noche?",
+   "alts": []
+  },
+  {
+   "id": "t455865",
+   "en": "I'll see you today, at around twelve.",
+   "es": "Te veo hoy, aproximadamente a las doce.",
+   "alts": []
+  },
+  {
+   "id": "t3725617",
+   "en": "There's no way of telling who'll win.",
+   "es": "No hay ninguna manera de saber quién va a ganar.",
+   "alts": []
+  },
+  {
+   "id": "t11885227",
+   "en": "The rich man has a beautiful kitchen.",
+   "es": "El hombre rico tiene una hermosa cocina.",
+   "alts": []
+  },
+  {
+   "id": "t9706569",
+   "en": "This has never happened to me before.",
+   "es": "Nunca me había pasado esto.",
+   "alts": [
+    "This has never happened to me."
+   ]
+  },
+  {
+   "id": "t3788709",
+   "en": "May I have your phone number, please?",
+   "es": "¿Puedo tener tu número de teléfono por favor?",
+   "alts": []
+  },
+  {
+   "id": "t10205211",
+   "en": "Life is very difficult for my family.",
+   "es": "La vida es muy difícil para mi familia.",
+   "alts": []
+  },
+  {
+   "id": "t12086107",
+   "en": "Right now, she does not have anything.",
+   "es": "En estos momentos, no tiene nada.",
+   "alts": []
+  },
+  {
+   "id": "t253571",
+   "en": "I don't know everybody in this school.",
+   "es": "No conozco a todos en esta escuela.",
+   "alts": []
+  },
+  {
+   "id": "t310188",
+   "en": "She came back soon after five o'clock.",
+   "es": "Ella volvió poco después de las cinco en punto.",
+   "alts": []
+  },
+  {
+   "id": "t245985",
+   "en": "The child missed his mother very much.",
+   "es": "El niño extrañaba mucho a su madre.",
+   "alts": []
+  },
+  {
+   "id": "t2429903",
+   "en": "Is the world getting better, or worse?",
+   "es": "¿El mundo está mejorando o empeorando?",
+   "alts": []
+  },
+  {
+   "id": "t11484567",
+   "en": "They will talk to us tomorrow morning.",
+   "es": "Hablarán con nosotros mañana por la mañana.",
+   "alts": []
+  },
+  {
+   "id": "t9584800",
+   "en": "He says he hasn't done anything wrong.",
+   "es": "Dice que no ha hecho nada malo.",
+   "alts": []
+  },
+  {
+   "id": "t10739691",
+   "en": "There aren't any schools in this town.",
+   "es": "No hay escuelas en esta ciudad.",
+   "alts": []
+  },
+  {
+   "id": "t10952314",
+   "en": "By the way, you look really beautiful.",
+   "es": "A propósito, estás realmente guapa.",
+   "alts": []
+  },
+  {
+   "id": "t5514041",
+   "en": "You should always keep the room clean.",
+   "es": "Siempre debes mantener el cuarto limpio.",
+   "alts": []
+  },
+  {
+   "id": "t9971919",
+   "en": "They are reading books in the library.",
+   "es": "Están leyendo libros en la biblioteca.",
+   "alts": []
+  },
+  {
+   "id": "t5933793",
+   "en": "How many sentences does this book have?",
+   "es": "¿Cuántas frases tiene este libro?",
+   "alts": []
+  },
+  {
+   "id": "t781138",
+   "en": "It must be a very expensive restaurant!",
+   "es": "¡Debe de ser un restaurante muy caro!",
+   "alts": []
+  },
+  {
+   "id": "t775442",
+   "en": "Language can be used in different ways.",
+   "es": "La lengua se puede usar de diferentes formas.",
+   "alts": []
+  },
+  {
+   "id": "t1869894",
+   "en": "There's something I'd like to show you.",
+   "es": "Hay algo que me gustaría enseñarte.",
+   "alts": []
+  },
+  {
+   "id": "t12131508",
+   "en": "What's the most important thing to you?",
+   "es": "¿Qué es lo más importante para ti?",
+   "alts": [
+    "What's most important to you?"
+   ]
+  },
+  {
+   "id": "t3786123",
+   "en": "Don't forget to do your homework, okay?",
+   "es": "No olviden hacer la tarea, ¿ok?",
+   "alts": []
+  },
+  {
+   "id": "t3202695",
+   "en": "You should've told me you needed money.",
+   "es": "Debiste haberme dicho que necesitabas dinero.",
+   "alts": []
+  },
+  {
+   "id": "t9524962",
+   "en": "There's always a line around this time.",
+   "es": "A esta hora siempre hay cola.",
+   "alts": []
+  },
+  {
+   "id": "t2722528",
+   "en": "I was thinking about you earlier today.",
+   "es": "Estuve pensando en ti el día de hoy.",
+   "alts": []
+  },
+  {
+   "id": "t954156",
+   "en": "Let's hope the weather is good tomorrow.",
+   "es": "Esperemos que haga buen clima mañana.",
+   "alts": []
+  },
+  {
+   "id": "t6659733",
+   "en": "I don't remember turning off the lights.",
+   "es": "No recuerdo haber apagado las luces.",
+   "alts": [
+    "I don't remember turning the lights off."
+   ]
+  },
+  {
+   "id": "t1682432",
+   "en": "I cannot give this dictionary to anyone.",
+   "es": "No le puedo dar este diccionario a nadie.",
+   "alts": [
+    "I can't give this dictionary to anyone."
+   ]
+  },
+  {
+   "id": "t2260580",
+   "en": "How many languages does your wife speak?",
+   "es": "¿Cuántas lenguas habla tu esposa?",
+   "alts": []
+  },
+  {
+   "id": "t72278",
+   "en": "You should arrive at school before nine.",
+   "es": "Tienes que llegar a la escuela antes de las nueve.",
+   "alts": []
+  },
+  {
+   "id": "t257335",
+   "en": "I have been writing letters all morning.",
+   "es": "He estado toda la mañana escribiendo cartas.",
+   "alts": [
+    "I've been writing letters all morning."
+   ]
+  },
+  {
+   "id": "t7666033",
+   "en": "They thought he didn't like the present.",
+   "es": "Creyeron que a él no le gustó el regalo.",
+   "alts": []
+  },
+  {
+   "id": "t9145859",
+   "en": "There aren't many books on these shelves.",
+   "es": "No hay muchos libros en estas estanterías.",
+   "alts": [
+    "There are not many books on these shelves."
+   ]
+  },
+  {
+   "id": "t1938869",
+   "en": "I thought you'd wear something like that.",
+   "es": "Pensé que tú te pondrías algo como eso.",
+   "alts": []
+  },
+  {
+   "id": "t824823",
+   "en": "Don't you have anything smaller than that?",
+   "es": "¿No tiene nada más pequeño que eso?",
+   "alts": []
+  },
+  {
+   "id": "t286645",
+   "en": "His hobby is painting pictures of flowers.",
+   "es": "Su afición es pintar cuadros de flores.",
+   "alts": []
+  },
+  {
+   "id": "t1961691",
+   "en": "I thought you said you weren't interested.",
+   "es": "Pensé que habías dicho que no estabas interesado.",
+   "alts": []
+  },
+  {
+   "id": "t322219",
+   "en": "A true scientist wouldn't think like that.",
+   "es": "Un auténtico científico no pensaría así.",
+   "alts": [
+    "A true scientist would not think like that."
+   ]
+  },
+  {
+   "id": "t5490624",
+   "en": "Today he feels much better than yesterday.",
+   "es": "Hoy él se siente mucho mejor que ayer.",
+   "alts": []
+  },
+  {
+   "id": "t2253054",
+   "en": "Better be careful, you're playing with fire.",
+   "es": "Mejor tenga cuidado, está usted jugando con fuego.",
+   "alts": []
+  },
+  {
+   "id": "t317065",
+   "en": "She spends every Saturday afternoon playing tennis.",
+   "es": "Ella pasa las tardes de los sábados jugando al tenis.",
+   "alts": []
+  }
+ ]
+}

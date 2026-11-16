@@ -1,0 +1,1790 @@
+{
+ "id": "u-c1-04",
+ "level": "C1",
+ "n": 4,
+ "title": "Science and doubt",
+ "goals": [
+  "Use the reporting passive (It is believed that…, is thought to have…) with the appropriate tense form.",
+  "Build passives with two-object verbs and prepositional verbs, choosing the subject with judgement.",
+  "Use the causative have/get something done for services and experiences.",
+  "Decide when the passive is appropriate in scientific texts, and form its tenses and modals.",
+  "Talk about findings with academic caution and assess evidence using vocabulary of doubt.",
+  "Write a short report and an opinion essay in a formal, nuanced register."
+ ],
+ "learn": [
+  {
+   "id": "g-reporting-passive",
+   "kind": "grammar",
+   "title": "Reporting passive: It is believed that… / is thought to have…",
+   "html": "<p>It is the star structure of scientific and journalistic English for presenting ideas that circulate without personally committing to them. It is the English counterpart of the impersonal “it is believed that…” style, but it has two constructions and a finer system of tenses.</p><table><thead><tr><th>Structure</th><th>Example</th><th>Use</th></tr></thead><tbody><tr><td>It + <strong>is believed / thought / said / known / estimated / expected</strong> + that + clause</td><td><strong>It is believed that</strong> the virus spread through contact.</td><td>Impersonal, very formal</td></tr><tr><td>Subject + <strong>is believed</strong> + <strong>to + infinitive</strong></td><td>The virus <strong>is believed to spread</strong> through contact.</td><td>Same time or future</td></tr><tr><td>Subject + is believed + <strong>to be + -ing</strong></td><td>Researchers <strong>are thought to be working</strong> on a vaccine.</td><td>Action in progress</td></tr><tr><td>Subject + is believed + <strong>to have + past participle</strong></td><td>The planet <strong>is thought to have formed</strong> 4.5 billion years ago.</td><td>Earlier action</td></tr><tr><td>There + is believed + <strong>to be</strong></td><td><strong>There is thought to be</strong> a link between sleep and memory.</td><td>Existence</td></tr></tbody></table><p><strong>Nuances:</strong></p><ul><li>Common verbs: <em>believe, think, say, know, consider, understand, expect, estimate, report, assume, suppose, allege, find, show</em>. With <em>hope</em> only <em>It is hoped that…</em> exists; with <em>suggest</em>, you say <em>It has been suggested that…</em> (not «he is suggested to»).</li><li>The choice between <em>to do / to be doing / to have done</em> marks the <strong>time relation</strong> with the reporting verb: simultaneous, in progress or earlier. This is what costs Spanish speakers the most, because they tend to use a single form for every time.</li><li>With negation or greater distance: <em>is not known to have…, is widely believed to…, is now thought to…</em></li><li>In science, <em>widely, generally, now, previously</em> place the degree of consensus: <em>It was long believed that…, but it is now known that…</em></li><li>Compare with Unit 3: there you reported what someone said; here the focus is on the idea, and who holds it is omitted or blurred.</li></ul>",
+   "watch": [
+    {
+     "wrong": "The patient is believed that he has recovered.",
+     "right": "The patient is believed to have recovered. / It is believed that the patient has recovered.",
+     "why": "With a personal subject: passive + to-infinitive; do not mix it with that."
+    },
+    {
+     "wrong": "The dinosaurs are thought to die out 66 million years ago.",
+     "right": "The dinosaurs are thought to have died out 66 million years ago.",
+     "why": "Earlier event: to have + past participle."
+    },
+    {
+     "wrong": "There is thought to being a link.",
+     "right": "There is thought to be a link.",
+     "why": "There + passive + to be."
+    },
+    {
+     "wrong": "It is said to that the drug works.",
+     "right": "It is said that the drug works. / The drug is said to work.",
+     "why": "Do not combine to with that."
+    }
+   ]
+  },
+  {
+   "id": "g-two-objects",
+   "kind": "grammar",
+   "title": "Passive with two-object verbs and prepositional verbs",
+   "html": "<p>Verbs such as <em>give, offer, send, show, tell, award, grant, promise, teach, pay, lend</em> have <strong>two objects</strong> (indirect: the person; direct: the thing). That is why they allow two passives:</p><table><thead><tr><th>Active</th><th>Passive A: person as subject</th><th>Passive B: thing as subject</th></tr></thead><tbody><tr><td>They awarded <em>her</em> <em>the prize</em>.</td><td><strong>She was awarded</strong> the prize.</td><td>The prize <strong>was awarded to her</strong>.</td></tr><tr><td>The lab offered <em>us</em> <em>a grant</em>.</td><td><strong>We were offered</strong> a grant.</td><td>A grant <strong>was offered to us</strong>.</td></tr></tbody></table><p>Passive A is the <strong>preferred</strong> one in English because it usually matches the topic of the sentence (we start with whoever matters to us). Passive B is necessary when you want to put the person at the end (<em>new information</em>), or when the verb does not allow A.</p><p><strong>Verbs that only allow the passive with the direct object</strong> (the person takes <em>to</em>): <em>explain, suggest, describe, announce, mention, say, report, propose</em>. <em>The theory was explained <strong>to</strong> us</em> (not «we were explained the theory»). This is a very common calque, since Spanish does say «nos fue explicada».</p><p><strong>Passive with prepositional verbs:</strong> the preposition stays with the verb: <em>The results were looked into. The proposal was argued against. The patient is being taken care of.</em> This is common in reports, and the preposition must not be «lost».</p><p><strong>by-agent:</strong> it is added only when it is informative (<em>The study was funded by a charity</em>), and at the end of the sentence, following the principle of <em>end-focus</em>.</p>",
+   "watch": [
+    {
+     "wrong": "The solution was explained us by the professor.",
+     "right": "The solution was explained to us by the professor.",
+     "why": "Explain does not take the person as the passive subject."
+    },
+    {
+     "wrong": "She was suggested a different approach.",
+     "right": "A different approach was suggested to her.",
+     "why": "Suggest: the person takes to."
+    },
+    {
+     "wrong": "The report was looked.",
+     "right": "The report was looked at.",
+     "why": "Look at keeps its preposition in the passive."
+    },
+    {
+     "wrong": "The truth was never told the public.",
+     "right": "The truth was never told to the public.",
+     "why": "With the thing as subject, the person takes to."
+    }
+   ]
+  },
+  {
+   "id": "g-causative",
+   "kind": "grammar",
+   "title": "have / get something done (causative)",
+   "html": "<p>The causative structure expresses that <strong>someone does something for us</strong> (a service), or that something <strong>happens</strong> to us without our doing it. It is formed with <em>have / get + object + past participle</em>: <em>I had my laptop repaired.</em> Spanish has no direct equivalent for this, so the structure is often mistranslated word by word.</p><table><thead><tr><th>Structure</th><th>Example</th><th>Nuance</th></tr></thead><tbody><tr><td>have + obj + <strong>past participle</strong></td><td>She <strong>had her paper reviewed</strong> by two experts.</td><td>Neutral / slightly more formal</td></tr><tr><td>get + obj + <strong>past participle</strong></td><td>I need to <strong>get my passport renewed</strong>.</td><td>More colloquial; sometimes implies effort</td></tr><tr><td>have + person + <strong>bare infinitive</strong></td><td>She <strong>had her assistant book</strong> the flights.</td><td>Telling someone to do it</td></tr><tr><td>get + person + <strong>to + infinitive</strong></td><td>We <strong>got the lab to repeat</strong> the test.</td><td>Persuading or managing to get them to do it</td></tr><tr><td>have / get + obj + past participle (unpleasant experience)</td><td>He <strong>had his bike stolen</strong>.</td><td>Something that happens to us</td></tr><tr><td>get + past participle (passive with get)</td><td>He <strong>got caught</strong> cheating.</td><td>An event, often unexpected</td></tr></tbody></table><p><strong>Nuances:</strong></p><ul><li>The same form <em>had his car stolen</em> is ambiguous between “his car was stolen” (an experience) and “he arranged for it to be stolen” (not very plausible); context almost always makes clear that it is a misfortune.</li><li>With <em>have</em> + person, <em>to</em> is not used: <em>had him check</em>, never <em>had him to check</em>.</li><li>The agent is added with <em>by</em> only when it matters: <em>had the thesis proofread by a professor</em>.</li><li>The causative works with tenses and modals: <em>I'm having the kitchen redone. You should get that checked.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "I must have my teeth to be checked.",
+     "right": "I must have my teeth checked.",
+     "why": "Direct past participle, without to be."
+    },
+    {
+     "wrong": "She had her assistant to book the flights.",
+     "right": "She had her assistant book the flights. / She got her assistant to book the flights.",
+     "why": "Have + person + base; get + person + to."
+    },
+    {
+     "wrong": "I cut my hair yesterday at the salon.",
+     "right": "I had my hair cut yesterday at the salon.",
+     "why": "If someone else did it for you, use have + past participle."
+    },
+    {
+     "wrong": "He had stolen his wallet on the bus.",
+     "right": "He had his wallet stolen on the bus.",
+     "why": "The order object + past participle expresses that it happened to him."
+    }
+   ]
+  },
+  {
+   "id": "g-passive-register",
+   "kind": "grammar",
+   "title": "The passive in scientific writing: when and how",
+   "html": "<p>The passive is not “more formal” in itself: it is a <strong>decision about focus</strong>. In academic and scientific texts it is chosen when what matters is the action or the result, not who did it.</p><ul><li><strong>Unknown or irrelevant agent:</strong> <em>Samples were collected at baseline.</em> (it does not matter who)</li><li><strong>Focus on the procedure:</strong> <em>Methods</em> sections: <em>The mixture was heated to 80°C and stirred for ten minutes.</em></li><li><strong>Cohesion:</strong> start with information that is already known and leave the new information for the end (end-focus): <em>The trial was designed by a team led by Dr. Reyes.</em></li><li><strong>Distance and objectivity:</strong> avoid repeated “I/we” in formal reports.</li></ul><p><strong>Forms you must master:</strong></p><table><thead><tr><th>Form</th><th>Example</th></tr></thead><tbody><tr><td>Passive present continuous</td><td>The drug <strong>is being tested</strong> on volunteers.</td></tr><tr><td>Passive present perfect</td><td>The results <strong>have not been published</strong> yet.</td></tr><tr><td>Modal + be + past participle</td><td>The findings <strong>should be interpreted</strong> with caution.</td></tr><tr><td>Passive modal perfect</td><td>The error <strong>could have been avoided</strong>.</td></tr><tr><td>need + to be + past participle / need + -ing</td><td>The hypothesis <strong>needs to be tested</strong> again. / needs testing.</td></tr></tbody></table><p><strong>Caution:</strong> too many passives make the text heavy and ambiguous (who concluded?). If the agent matters, use the active (<em>The authors conclude that…</em>). Also avoid the passive with intransitive verbs (<em>happen, occur, rise</em>), which have no passive.</p>",
+   "watch": [
+    {
+     "wrong": "The results can explain by several factors.",
+     "right": "The results can be explained by several factors.",
+     "why": "Modal + be + past participle."
+    },
+    {
+     "wrong": "The bridge is building at the moment.",
+     "right": "The bridge is being built at the moment.",
+     "why": "Present continuous passive: is being + past participle."
+    },
+    {
+     "wrong": "The accident was happened last night.",
+     "right": "The accident happened last night.",
+     "why": "Happen is intransitive: it has no passive."
+    },
+    {
+     "wrong": "The data haven't analysed yet.",
+     "right": "The data haven't been analysed yet.",
+     "why": "Present perfect passive: have been + past participle."
+    }
+   ]
+  },
+  {
+   "id": "v-science",
+   "kind": "vocab",
+   "title": "Science and method",
+   "words": [
+    {
+     "id": "w-hypothesis",
+     "en": "hypothesis",
+     "es": "hipótesis (pl. hypotheses)",
+     "example": "The hypothesis was tested in three separate trials.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-evidence",
+     "en": "evidence",
+     "es": "evidencia, pruebas (incontable)",
+     "example": "There is little evidence to support the claim.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-peer-review",
+     "en": "peer review",
+     "es": "revisión por pares",
+     "example": "The paper is still undergoing peer review.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-breakthrough",
+     "en": "breakthrough",
+     "es": "avance decisivo, descubrimiento clave",
+     "example": "The team announced a breakthrough in battery design.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-theory",
+     "en": "theory",
+     "es": "teoría",
+     "example": "The theory explains most, but not all, of the data.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-control-group",
+     "en": "control group",
+     "es": "grupo de control",
+     "example": "The control group received a placebo.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-sample-size",
+     "en": "sample size",
+     "es": "tamaño de la muestra",
+     "example": "The small sample size limits the conclusions.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-variable",
+     "en": "variable",
+     "es": "variable",
+     "example": "Researchers must control every variable they can.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-replicate",
+     "en": "replicate",
+     "es": "replicar, reproducir (un experimento)",
+     "example": "Other labs failed to replicate the results."
+    },
+    {
+     "id": "w-findings",
+     "en": "findings",
+     "es": "hallazgos, resultados",
+     "example": "The findings were published in a leading journal.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-bias",
+     "en": "bias",
+     "es": "sesgo",
+     "example": "Funding sources can introduce bias.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-conclusive",
+     "en": "conclusive / inconclusive",
+     "es": "concluyente / no concluyente",
+     "example": "The evidence is suggestive but not conclusive."
+    },
+    {
+     "id": "w-anomaly",
+     "en": "anomaly",
+     "es": "anomalía, dato que no encaja",
+     "example": "One anomaly in the data puzzled the team."
+    },
+    {
+     "id": "w-methodology",
+     "en": "methodology",
+     "es": "metodología",
+     "example": "The methodology was criticised as too narrow.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-funding",
+     "en": "funding",
+     "es": "financiación (incontable)",
+     "example": "The project secured funding for three years.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "v-research-verbs",
+   "kind": "vocab",
+   "title": "Verbs for talking about findings",
+   "words": [
+    {
+     "id": "w-demonstrate",
+     "en": "demonstrate",
+     "es": "demostrar",
+     "example": "The experiment demonstrates how quickly the effect fades.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-indicate",
+     "en": "indicate",
+     "es": "indicar, apuntar",
+     "example": "Early results indicate a modest improvement.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-suggest",
+     "en": "suggest",
+     "es": "sugerir (verbo cauteloso)",
+     "example": "The data suggest that sleep affects memory.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-confirm",
+     "en": "confirm",
+     "es": "confirmar",
+     "example": "A second study confirmed the initial result.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-refute",
+     "en": "refute",
+     "es": "refutar",
+     "example": "The new evidence refutes the earlier theory."
+    },
+    {
+     "id": "w-undermine",
+     "en": "undermine",
+     "es": "socavar, debilitar",
+     "example": "Poor sampling undermines the study's conclusions.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-correlate-with",
+     "en": "correlate with",
+     "es": "estar correlacionado con",
+     "example": "Height correlates with income in some datasets.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-account-for",
+     "en": "account for",
+     "es": "explicar, dar cuenta de",
+     "example": "Diet alone cannot account for the difference.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-rule-out",
+     "en": "rule out",
+     "es": "descartar",
+     "example": "Doctors ruled out a viral infection.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-shed-light",
+     "en": "shed light on",
+     "es": "arrojar luz sobre",
+     "example": "The fossil sheds light on early mammals.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-carry-out",
+     "en": "carry out / conduct",
+     "es": "llevar a cabo (un estudio)",
+     "example": "The team carried out trials in three countries.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-point-to",
+     "en": "point to",
+     "es": "apuntar a, sugerir",
+     "example": "The evidence points to a genetic cause.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-doubt",
+   "kind": "vocab",
+   "title": "Doubt and scepticism",
+   "words": [
+    {
+     "id": "w-sceptical",
+     "en": "sceptical (US: skeptical)",
+     "es": "escéptico/a",
+     "example": "Many experts remain sceptical of the claim."
+    },
+    {
+     "id": "w-dubious",
+     "en": "dubious",
+     "es": "dudoso, poco fiable",
+     "example": "The study's methods are dubious."
+    },
+    {
+     "id": "w-far-fetched",
+     "en": "far-fetched",
+     "es": "inverosímil, rebuscado",
+     "example": "The idea sounds far-fetched, but it is being tested."
+    },
+    {
+     "id": "w-flawed",
+     "en": "flawed",
+     "es": "defectuoso, con fallos",
+     "example": "The study is seriously flawed.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-anecdotal",
+     "en": "anecdotal",
+     "es": "anecdótico (sin base sistemática)",
+     "example": "The evidence is merely anecdotal."
+    },
+    {
+     "id": "w-plausible",
+     "en": "plausible",
+     "es": "plausible, verosímil",
+     "example": "It is a plausible explanation, but unproven."
+    },
+    {
+     "id": "w-unfounded",
+     "en": "unfounded",
+     "es": "infundado",
+     "example": "The fears turned out to be unfounded."
+    },
+    {
+     "id": "w-spurious",
+     "en": "spurious",
+     "es": "espurio, falso (correlación)",
+     "example": "The link is spurious: a third factor explains both."
+    },
+    {
+     "id": "w-take-with-salt",
+     "en": "take something with a pinch of salt",
+     "es": "tomar algo con pinzas",
+     "example": "Take those headlines with a pinch of salt.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-overstate",
+     "en": "overstate",
+     "es": "exagerar, sobrestimar",
+     "example": "Journalists often overstate the findings."
+    },
+    {
+     "id": "w-caveat",
+     "en": "caveat",
+     "es": "salvedad, advertencia",
+     "example": "One caveat: the sample was small."
+    },
+    {
+     "id": "w-tentative",
+     "en": "tentative",
+     "es": "provisional, tentativo",
+     "example": "The authors reached tentative conclusions."
+    }
+   ]
+  },
+  {
+   "id": "e-caution",
+   "kind": "expressions",
+   "title": "Talking about findings with academic caution",
+   "html": "<ul><li><strong>The findings point to… / are consistent with…</strong> — presenting results without claiming them as proof.</li><li><strong>Further research is needed to establish whether…</strong> — acknowledging limits.</li><li><strong>These results should be interpreted with caution.</strong> — warning about limitations.</li><li><strong>It remains to be seen whether…</strong> — leaving the question open.</li><li><strong>This is not to say that… / That is not to suggest that…</strong> — qualifying a possible conclusion.</li><li><strong>On the face of it, … however, …</strong> — “at first sight”; introduces a reservation.</li><li><strong>A word of caution: …</strong> / <strong>One caveat is that…</strong> — pointing out a limitation.</li><li><strong>It is too early to say…</strong> — avoiding premature conclusions.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Reporting passive",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-reporting-passive",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "The virus is thought ___ in bats. (originate)",
+     "answers": [
+      "to have originated"
+     ],
+     "explain": "Earlier event: to have + past participle."
+    },
+    {
+     "id": "A2",
+     "type": "choice",
+     "prompt": "It is widely ___ that the glacier will disappear by 2100.",
+     "options": [
+      "expected",
+      "expecting",
+      "expect"
+     ],
+     "answer": 0,
+     "explain": "It is expected that…"
+    },
+    {
+     "id": "A3",
+     "type": "fix",
+     "prompt": "The patient is believed that he has recovered.",
+     "answers": [
+      "The patient is believed to have recovered.",
+      "It is believed that the patient has recovered.",
+      "It is believed that he has recovered."
+     ],
+     "explain": "With a personal subject: to + infinitive; or it + that."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "The planet is estimated ___ around 4.5 billion years old. (be)",
+     "answers": [
+      "to be"
+     ],
+     "explain": "Current state: to be."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "Researchers are reported ___ on a new vaccine at the moment.",
+     "options": [
+      "to work",
+      "to be working",
+      "to have worked"
+     ],
+     "answer": 1,
+     "explain": "Action in progress: to be + -ing."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "There is thought to being a link between sleep and memory.",
+     "answers": [
+      "There is thought to be a link between sleep and memory."
+     ],
+     "explain": "There is thought to be."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "The fossil is ___ to date from 66 million years ago. (think)",
+     "answers": [
+      "thought",
+      "believed",
+      "estimated",
+      "said",
+      "known",
+      "understood"
+     ],
+     "explain": "Subject + passive + to + infinitive."
+    },
+    {
+     "id": "A8",
+     "type": "translate",
+     "prompt": "Se cree que el experimento fue un fracaso.",
+     "answers": [
+      "The experiment is believed to have been a failure.",
+      "The experiment is thought to have been a failure.",
+      "The experiment is said to have been a failure.",
+      "It is believed that the experiment was a failure.",
+      "It is thought that the experiment was a failure.",
+      "It is said that the experiment was a failure."
+     ],
+     "explain": "Reporting passive with to have been."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Verbs with two objects",
+   "instructions": "Choose or correct.",
+   "topic": "g-two-objects",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "Which is the most natural?",
+     "options": [
+      "The prize was awarded her.",
+      "She was awarded the prize.",
+      "Her was awarded the prize."
+     ],
+     "answer": 1,
+     "explain": "The person as the subject of the passive."
+    },
+    {
+     "id": "B2",
+     "type": "fix",
+     "prompt": "The solution was explained us by the professor.",
+     "answers": [
+      "The solution was explained to us by the professor."
+     ],
+     "explain": "Explain: the person takes to."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "The team was ___ a grant of two million pesos. (award)",
+     "answers": [
+      "awarded",
+      "granted",
+      "given",
+      "offered"
+     ],
+     "explain": "Passive with the person as subject."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "Which verb does NOT allow «I was ___ the answer»?",
+     "options": [
+      "told",
+      "shown",
+      "explained"
+     ],
+     "answer": 2,
+     "explain": "Explain only allows the passive with the direct object."
+    },
+    {
+     "id": "B5",
+     "type": "fix",
+     "prompt": "She was suggested a different approach by her supervisor.",
+     "answers": [
+      "A different approach was suggested to her by her supervisor.",
+      "A different approach was suggested by her supervisor."
+     ],
+     "explain": "Suggest: the thing as subject, the person with to."
+    },
+    {
+     "id": "B6",
+     "type": "gap",
+     "prompt": "The results were never ___ to the public. (disclose)",
+     "answers": [
+      "disclosed"
+     ],
+     "explain": "Disclose to sb."
+    },
+    {
+     "id": "B7",
+     "type": "translate",
+     "prompt": "A la investigadora le concedieron una beca.",
+     "answers": [
+      "The researcher was granted a scholarship.",
+      "The researcher was granted a grant.",
+      "The researcher was given a scholarship.",
+      "The researcher was given a grant.",
+      "The researcher was awarded a scholarship.",
+      "The researcher was awarded a grant.",
+      "A scholarship was granted to the researcher.",
+      "A scholarship was awarded to the researcher.",
+      "A grant was granted to the researcher.",
+      "A grant was awarded to the researcher."
+     ],
+     "explain": "Two objects: two possible passives."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Causative: have / get something done",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-causative",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "I need to ___ my laptop repaired before the conference. (have / get)",
+     "answers": [
+      "have",
+      "get"
+     ],
+     "explain": "Have/get + obj + past participle."
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "She ___ her paper reviewed by three experts.",
+     "options": [
+      "had",
+      "made",
+      "did"
+     ],
+     "answer": 0,
+     "explain": "Have + obj + past participle."
+    },
+    {
+     "id": "C3",
+     "type": "fix",
+     "prompt": "I must have my teeth to be checked.",
+     "answers": [
+      "I must have my teeth checked.",
+      "I must get my teeth checked."
+     ],
+     "explain": "Direct past participle, without to be."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "We got the lab ___ the samples again. (test)",
+     "answers": [
+      "to test"
+     ],
+     "explain": "Get + person + to + infinitive."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "Which sentence describes an unpleasant experience?",
+     "options": [
+      "She had her car washed.",
+      "She had her car stolen.",
+      "She had the mechanic check the car."
+     ],
+     "answer": 1,
+     "explain": "Have + obj + past participle also expresses what happens to us."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "She had her assistant to book the flights.",
+     "answers": [
+      "She had her assistant book the flights.",
+      "She got her assistant to book the flights."
+     ],
+     "explain": "Have + person + base; get + person + to."
+    },
+    {
+     "id": "C7",
+     "type": "translate",
+     "prompt": "Mandé revisar mi tesis a un profesor.",
+     "answers": [
+      "I had my thesis checked by a professor.",
+      "I had my thesis reviewed by a professor.",
+      "I had my thesis looked at by a professor.",
+      "I had my thesis read by a professor.",
+      "I had my thesis proofread by a professor.",
+      "I got my thesis checked by a professor.",
+      "I got my thesis reviewed by a professor.",
+      "I got my thesis looked at by a professor.",
+      "I got my thesis read by a professor.",
+      "I got my thesis proofread by a professor.",
+      "I had a professor check my thesis.",
+      "I had a professor review my thesis.",
+      "I had a professor read my thesis.",
+      "I had a professor proofread my thesis."
+     ],
+     "explain": "Causative with have/get."
+    },
+    {
+     "id": "C8",
+     "type": "gap",
+     "prompt": "He got ___ cheating during the exam. (catch)",
+     "answers": [
+      "caught"
+     ],
+     "explain": "Get + past participle (passive with get)."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Passive in scientific writing",
+   "instructions": "Choose, complete or correct.",
+   "topic": "g-passive-register",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "Which sentence fits in the methods section of an article?",
+     "options": [
+      "Blood samples were collected from each participant at baseline.",
+      "We, the authors, grabbed some blood from the participants.",
+      "Someone collected samples."
+     ],
+     "answer": 0,
+     "explain": "Passive: focus on the procedure."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "The drug ___ currently being tested on volunteers. (be)",
+     "answers": [
+      "is"
+     ],
+     "explain": "Present continuous passive."
+    },
+    {
+     "id": "D3",
+     "type": "fix",
+     "prompt": "The results can explain by several factors.",
+     "answers": [
+      "The results can be explained by several factors."
+     ],
+     "explain": "Modal + be + past participle."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "Why choose «The samples were contaminated» instead of «Someone contaminated the samples»?",
+     "options": [
+      "El agente es desconocido o irrelevante",
+      "La activa es incorrecta",
+      "La pasiva siempre es más formal"
+     ],
+     "answer": 0,
+     "explain": "The passive is chosen for focus, not for fashion."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "The hypothesis needs ___ tested again.",
+     "answers": [
+      "to be"
+     ],
+     "explain": "Need + to be + past participle."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "The bridge is building at the moment.",
+     "answers": [
+      "The bridge is being built at the moment."
+     ],
+     "explain": "Is being + past participle."
+    },
+    {
+     "id": "D7",
+     "type": "translate",
+     "prompt": "Los resultados deben interpretarse con cautela.",
+     "answers": [
+      "The results must be interpreted with caution.",
+      "The results must be interpreted with care.",
+      "The results should be interpreted with caution.",
+      "The results should be interpreted with care.",
+      "The results need to be interpreted with caution.",
+      "The results need to be interpreted with care.",
+      "The results have to be interpreted with caution.",
+      "The results have to be interpreted with care.",
+      "The results ought to be interpreted with caution.",
+      "The results ought to be interpreted with care.",
+      "The findings must be interpreted with caution.",
+      "The findings must be interpreted with care.",
+      "The findings should be interpreted with caution.",
+      "The findings should be interpreted with care.",
+      "The findings need to be interpreted with caution.",
+      "The findings need to be interpreted with care.",
+      "The findings have to be interpreted with caution.",
+      "The findings have to be interpreted with care.",
+      "The findings ought to be interpreted with caution.",
+      "The findings ought to be interpreted with care."
+     ],
+     "explain": "Modal + be + past participle."
+    },
+    {
+     "id": "D8",
+     "type": "gap",
+     "prompt": "The data ___ been analysed yet, so no conclusions can be drawn. (not)",
+     "answers": [
+      "have not",
+      "haven't",
+      "has not",
+      "hasn't"
+     ],
+     "explain": "Present perfect passive."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Science and method",
+   "instructions": "Complete with the appropriate word.",
+   "topic": "v-science",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "Scientists will test the ___ by comparing two groups.",
+     "answers": [
+      "hypothesis"
+     ],
+     "explain": "Hypothesis."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "«Peer review» means that a paper is…",
+     "options": [
+      "checked by other experts before publication",
+      "copied by other scientists",
+      "written by two authors"
+     ],
+     "answer": 0,
+     "explain": "Peer review."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "A ___ in cancer treatment could save thousands of lives.",
+     "answers": [
+      "breakthrough"
+     ],
+     "explain": "Breakthrough = a decisive advance."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "The ___ group received no treatment, so it served as a baseline.",
+     "answers": [
+      "control"
+     ],
+     "explain": "Control group."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "A study with a tiny sample size is likely to be…",
+     "options": [
+      "more reliable",
+      "less reliable",
+      "irrelevant"
+     ],
+     "answer": 1,
+     "explain": "Smaller sample, less reliability."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "Other labs have failed to ___ the results, which raises doubts.",
+     "answers": [
+      "replicate"
+     ],
+     "explain": "Replicate = to reproduce."
+    },
+    {
+     "id": "E7",
+     "type": "choice",
+     "prompt": "Evidence that is «conclusive»…",
+     "options": [
+      "is strong enough to settle the question",
+      "is weak",
+      "is controversial"
+     ],
+     "answer": 0,
+     "explain": "Conclusive = leaving no room for doubt."
+    },
+    {
+     "id": "E8",
+     "type": "translate",
+     "prompt": "Los hallazgos no son concluyentes.",
+     "answers": [
+      "The findings are inconclusive.",
+      "The findings are not conclusive.",
+      "The results are inconclusive.",
+      "The results are not conclusive."
+     ],
+     "explain": "Inconclusive / not conclusive."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Verbs for talking about findings",
+   "instructions": "Complete or choose.",
+   "topic": "v-research-verbs",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "The new data ___ the earlier theory, which can no longer be defended.",
+     "answers": [
+      "refute",
+      "undermine",
+      "contradict"
+     ],
+     "explain": "Refute/undermine."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "A study found that coffee consumption ___ longer life, but this does not prove cause.",
+     "options": [
+      "correlates with",
+      "causes",
+      "refutes"
+     ],
+     "answer": 0,
+     "explain": "Correlate with = correlation, not cause."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "Researchers have ___ out a series of trials in three countries.",
+     "answers": [
+      "carried"
+     ],
+     "explain": "Carry out."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "The discovery sheds ___ on how memory works.",
+     "answers": [
+      "light"
+     ],
+     "explain": "Shed light on."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "Which is the most cautious verb?",
+     "options": [
+      "proves",
+      "suggests",
+      "establishes"
+     ],
+     "answer": 1,
+     "explain": "Suggests."
+    },
+    {
+     "id": "F6",
+     "type": "fix",
+     "prompt": "The study rules the placebo effect.",
+     "answers": [
+      "The study rules out the placebo effect."
+     ],
+     "explain": "Rule out."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "The evidence points ___ a genetic cause.",
+     "answers": [
+      "to"
+     ],
+     "explain": "Point to."
+    },
+    {
+     "id": "F8",
+     "type": "translate",
+     "prompt": "No podemos descartar otras explicaciones.",
+     "answers": [
+      "We cannot rule out other explanations.",
+      "We cannot rule out other possibilities.",
+      "We cannot rule out alternative explanations.",
+      "We cannot rule out alternative possibilities.",
+      "We can't rule out other explanations.",
+      "We can't rule out other possibilities.",
+      "We can't rule out alternative explanations.",
+      "We can't rule out alternative possibilities."
+     ],
+     "explain": "Rule out."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "is",
+      "thought",
+      "to",
+      "have",
+      "been",
+      "The",
+      "sample",
+      "contaminated"
+     ],
+     "answers": [
+      "The sample is thought to have been contaminated."
+     ],
+     "explain": "Reporting passive with to have been."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "She",
+      "was",
+      "a",
+      "awarded",
+      "research",
+      "grant"
+     ],
+     "answers": [
+      "She was awarded a research grant."
+     ],
+     "explain": "Person as subject."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "had",
+      "I",
+      "my",
+      "checked",
+      "blood",
+      "pressure"
+     ],
+     "answers": [
+      "I had my blood pressure checked."
+     ],
+     "explain": "Have + obj + past participle."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "being",
+      "The",
+      "is",
+      "tested",
+      "vaccine",
+      "currently"
+     ],
+     "answers": [
+      "The vaccine is currently being tested."
+     ],
+     "explain": "Present continuous passive."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "It",
+      "is",
+      "widely",
+      "believed",
+      "that",
+      "the",
+      "theory",
+      "is",
+      "outdated"
+     ],
+     "answers": [
+      "It is widely believed that the theory is outdated."
+     ],
+     "explain": "It + passive + that."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "They",
+      "got",
+      "the",
+      "lab",
+      "to",
+      "repeat",
+      "the",
+      "experiment"
+     ],
+     "answers": [
+      "They got the lab to repeat the experiment."
+     ],
+     "explain": "Get + person + to."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Se dice que el medicamento fue probado en miles de pacientes.",
+     "answers": [
+      "The drug is said to have been tested on thousands of patients.",
+      "The drug is said to have been tested in thousands of patients.",
+      "The medicine is said to have been tested on thousands of patients.",
+      "The medicine is said to have been tested in thousands of patients.",
+      "The medication is said to have been tested on thousands of patients.",
+      "The medication is said to have been tested in thousands of patients.",
+      "It is said that the drug was tested on thousands of patients.",
+      "It is said that the drug was tested in thousands of patients.",
+      "It is said that the medicine was tested on thousands of patients.",
+      "It is said that the medicine was tested in thousands of patients.",
+      "It is said that the medication was tested on thousands of patients.",
+      "It is said that the medication was tested in thousands of patients."
+     ],
+     "explain": "Reporting passive."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Le ofrecieron un puesto en el laboratorio.",
+     "answers": [
+      "He was offered a job at the lab.",
+      "He was offered a job in the lab.",
+      "He was offered a position at the lab.",
+      "He was offered a position in the lab.",
+      "He was offered a post at the lab.",
+      "He was offered a post in the lab.",
+      "She was offered a job at the lab.",
+      "She was offered a job in the lab.",
+      "She was offered a position at the lab.",
+      "She was offered a position in the lab.",
+      "She was offered a post at the lab.",
+      "She was offered a post in the lab.",
+      "He was offered a job at the laboratory.",
+      "He was offered a job in the laboratory.",
+      "He was offered a position at the laboratory.",
+      "He was offered a position in the laboratory.",
+      "He was offered a post at the laboratory.",
+      "He was offered a post in the laboratory.",
+      "She was offered a job at the laboratory.",
+      "She was offered a job in the laboratory.",
+      "She was offered a position at the laboratory.",
+      "She was offered a position in the laboratory.",
+      "She was offered a post at the laboratory.",
+      "She was offered a post in the laboratory."
+     ],
+     "explain": "Person as subject."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Me hicieron una resonancia magnética ayer.",
+     "answers": [
+      "I had an MRI scan done yesterday.",
+      "I had an MRI scan yesterday.",
+      "I had an MRI done yesterday.",
+      "I had an MRI yesterday.",
+      "I got an MRI scan done yesterday.",
+      "I got an MRI done yesterday."
+     ],
+     "explain": "Have/get + obj + past participle."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Los resultados no han sido publicados todavía.",
+     "answers": [
+      "The results have not been published yet.",
+      "The results have not been published so far.",
+      "The results haven't been published yet.",
+      "The results haven't been published so far."
+     ],
+     "explain": "Present perfect passive."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Se cree que existe un vínculo entre la dieta y la memoria.",
+     "answers": [
+      "There is believed to be a link between diet and memory.",
+      "There is believed to be a connection between diet and memory.",
+      "There is thought to be a link between diet and memory.",
+      "There is thought to be a connection between diet and memory.",
+      "It is believed that there is a link between diet and memory.",
+      "It is believed that there is a connection between diet and memory.",
+      "It is thought that there is a link between diet and memory.",
+      "It is thought that there is a connection between diet and memory."
+     ],
+     "explain": "There is believed to be."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Vamos a mandar reparar el microscopio antes del lunes.",
+     "answers": [
+      "We're going to have the microscope repaired before Monday.",
+      "We're going to have the microscope fixed before Monday.",
+      "We're going to get the microscope repaired before Monday.",
+      "We're going to get the microscope fixed before Monday.",
+      "We are going to have the microscope repaired before Monday.",
+      "We are going to have the microscope fixed before Monday.",
+      "We are going to get the microscope repaired before Monday.",
+      "We are going to get the microscope fixed before Monday.",
+      "We'll have the microscope repaired before Monday.",
+      "We'll have the microscope fixed before Monday.",
+      "We'll get the microscope repaired before Monday.",
+      "We'll get the microscope fixed before Monday.",
+      "We will have the microscope repaired before Monday.",
+      "We will have the microscope fixed before Monday.",
+      "We will get the microscope repaired before Monday.",
+      "We will get the microscope fixed before Monday."
+     ],
+     "explain": "Causative in the future."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Different topics from the unit (includes review of earlier units).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "The vaccine is expected ___ approved next month.",
+     "options": [
+      "to be",
+      "being",
+      "to have"
+     ],
+     "answer": 0,
+     "explain": "Is expected to be + past participle."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "She was ___ a prestigious fellowship. (offer)",
+     "answers": [
+      "offered"
+     ],
+     "explain": "Passive with a person as subject."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "He had his car to be serviced yesterday.",
+     "answers": [
+      "He had his car serviced yesterday."
+     ],
+     "explain": "Have + obj + past participle."
+    },
+    {
+     "id": "M4",
+     "type": "gap",
+     "prompt": "The findings should be ___ with caution.",
+     "answers": [
+      "interpreted",
+      "treated",
+      "viewed",
+      "read",
+      "approached"
+     ],
+     "explain": "Interpret with caution."
+    },
+    {
+     "id": "M5",
+     "type": "translate",
+     "prompt": "Se cree que la teoría es errónea.",
+     "answers": [
+      "The theory is believed to be flawed.",
+      "The theory is believed to be wrong.",
+      "The theory is believed to be mistaken.",
+      "The theory is believed to be incorrect.",
+      "The theory is thought to be flawed.",
+      "The theory is thought to be wrong.",
+      "The theory is thought to be mistaken.",
+      "The theory is thought to be incorrect.",
+      "The theory is considered to be flawed.",
+      "The theory is considered to be wrong.",
+      "The theory is considered to be mistaken.",
+      "The theory is considered to be incorrect.",
+      "It is believed that the theory is flawed.",
+      "It is believed that the theory is wrong.",
+      "It is believed that the theory is mistaken.",
+      "It is believed that the theory is incorrect.",
+      "It is thought that the theory is flawed.",
+      "It is thought that the theory is wrong.",
+      "It is thought that the theory is mistaken.",
+      "It is thought that the theory is incorrect."
+     ],
+     "explain": "Reporting passive."
+    },
+    {
+     "id": "M6",
+     "type": "choice",
+     "prompt": "Which statement is the most cautious?",
+     "options": [
+      "The results prove X.",
+      "The results may point to X.",
+      "The results show that X is certainly true."
+     ],
+     "answer": 1,
+     "explain": "May point to."
+    },
+    {
+     "id": "M7",
+     "type": "fix",
+     "prompt": "The results are publishing next month.",
+     "answers": [
+      "The results are being published next month.",
+      "The results will be published next month."
+     ],
+     "explain": "Passive: is being / will be + past participle."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "A(n) ___ is an unexpected result that doesn't fit the existing theory.",
+     "answers": [
+      "anomaly"
+     ],
+     "explain": "Anomaly."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "(Unit 3 review) He denied ___ the data. (alter)",
+     "answers": [
+      "altering",
+      "having altered"
+     ],
+     "explain": "Deny + -ing."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "(Unit 2 review) At 9 a.m. tomorrow, the team ___ the final trial. (run)",
+     "answers": [
+      "will be running",
+      "'ll be running"
+     ],
+     "explain": "Future continuous."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a short report of 250 to 350 words about a study (real or invented) in which you present the findings with academic caution. Use at least three reporting passives (is thought to have…, It is believed that…), one causative, and vocabulary from v-science and v-research-verbs. Possible opening: A recent study, which was carried out by…",
+   "targets": [
+    "reporting passives",
+    "the passive in scientific writing",
+    "causatives",
+    "hedging and caution"
+   ],
+   "checklist": [
+    "250–350 words with a report structure (context, method, findings, limitations)",
+    "At least 3 reporting passives with the correct tense form (to be / to be -ing / to have + past participle)",
+    "At least 1 causative (have/get + obj + past participle)",
+    "Well-formed method passives (samples were collected…)",
+    "At least 5 words from v-science / v-research-verbs",
+    "One limitation with a caveat, tentative wording, or “should be interpreted with caution”",
+    "No passives with intransitive verbs"
+   ],
+   "model": "A recent study, which was carried out by a team of sleep researchers at a European university, examined the relationship between screen use and sleep quality in teenagers. Adolescents today are generally thought to be sleeping less than previous generations, and previous research is believed to have underestimated the effect of evening screen exposure. The authors therefore set out to test this hypothesis more rigorously.\n\nThe sample consisted of 480 adolescents aged between fourteen and seventeen. Participants were recruited from twelve schools and were asked to wear a wristband that recorded their sleep for four weeks. Screen time was measured with an application installed on their phones, and each participant had their blood pressure and body mass checked at the start and at the end of the study. The data were then analysed by an independent statistician, whom the team had hired to reduce bias.\n\nThe findings are striking. Teenagers who used screens for more than two hours after 9 p.m. were found to sleep, on average, forty minutes less than those who did not. A significant correlation was also observed between late screen use and lower exam performance. Blue light is thought to have disrupted the production of melatonin, although this mechanism was not directly tested. It is widely assumed that the effect is causal, but the results do not prove it.\n\nSeveral limitations should be acknowledged. The sample was drawn from urban schools only, and sleep was partly self-reported, so the results may not be representative of all adolescents. Moreover, the study was not designed to control for variables such as caffeine consumption or family stress. The conclusions should therefore be interpreted with caution, and further peer-reviewed research is needed before any firm recommendations are made.\n\nIn summary, the study suggests, rather than demonstrates, that evening screen use is associated with poorer sleep."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write an opinion essay of 250 to 350 words: «Should news headlines about science be treated with scepticism?». Contrast what a headline says with what the study probably says; use passives with two-object verbs and vocabulary of doubt.",
+   "targets": [
+    "passives with two objects",
+    "vocabulary of doubt",
+    "formal register",
+    "academic caution"
+   ],
+   "checklist": [
+    "250–350 words with an introduction, arguments and a conclusion",
+    "At least 2 passives with two-object verbs (was awarded, was offered, was explained to…)",
+    "At least 4 words from v-doubt",
+    "At least 2 e-caution formulas",
+    "Consistent hedging, not overdone",
+    "Connected paragraphs"
+   ],
+   "model": "Last month, a headline announced that \"Coffee Cures Memory Loss\". Readers were promised a miracle in a cup. The study behind it, however, seems to have said something far more modest. On the whole, I believe science headlines deserve a healthy dose of scepticism, though not cynicism.\n\nThe first reason is that headlines are written to attract readers, not to inform them. A researcher who has been offered a few lines in a newspaper is rarely given the chance to explain the limits of her work. In the coffee example, the participants were given either a coffee or a placebo and were asked to complete a memory test; the difference was small, and it was observed in only forty volunteers. The study probably claimed no more than a tentative association, but the headline presented it as a cure. It would appear that every layer of reporting makes the findings sound more certain than they are.\n\nA second reason is that dubious claims spread faster than careful ones. Questionable results are shared thousands of times before a correction is ever published, and unfounded fears can last for decades. A far-fetched claim repeated often enough begins to sound plausible.\n\nNevertheless, scepticism should not become blanket distrust. Some journalists do an admirable job, and several of the most important discoveries of recent years were explained clearly to the public by science reporters. The sensible approach, in my view, is to ask a few questions: who funded the study, how many people were involved, and whether the result has been replicated. The evidence suggests that these simple checks filter out most of the exaggeration.\n\nIn conclusion, headlines should be taken with a pinch of salt, but not thrown away. Readers who were never taught to question what they read are easy to mislead; those who are encouraged to do so will find that good science can still be recognised beneath the noise."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Coffee, correlation and the trouble with headlines",
+   "intro": "Read the text about how scientific findings are communicated and answer the questions.",
+   "paragraphs": [
+    "Every few months, a headline announces that a common food or habit has been shown to prolong life, or, just as confidently, to shorten it. Red wine is said to protect the heart one week and to damage the liver the next. For readers who simply want to know what to eat for breakfast, the effect is bewildering, and it is hardly surprising that many have concluded that scientists cannot make up their minds. The truth, however, is rather different: the science is usually far more cautious than the coverage it receives. Researchers rarely claim to have settled a question; they report what a particular group of people showed under particular conditions, and they say so in careful, deliberately modest language.",
+    "Consider a typical case. A team of researchers followed 40,000 adults for twelve years and found that those who drank three cups of coffee a day were less likely to die during the study period than those who drank none. In the original paper, the authors stated that coffee consumption \"was associated with\" lower mortality and explicitly warned that the results should be interpreted with caution. Participants had been asked to report their own habits, which are notoriously unreliable, and people who drink no coffee at all may well have been advised to avoid it for health reasons in the first place. By the time the study had been summarised in a press release, however, the wording had been simplified to \"coffee adds years to your life\", and within hours that claim had been repeated by dozens of websites.",
+    "What went wrong is not mysterious. Most scientific findings are, by their nature, provisional. A single study, particularly one with a modest sample size, is generally regarded as a starting point rather than a conclusion. Its results need to be replicated by independent teams, and its methods subjected to peer review, before it is accepted as part of the body of knowledge. Even then, the distinction between correlation and causation remains easy to overlook. Two things that rise and fall together are not necessarily connected; a third factor, such as income or lifestyle, may account for both. Researchers therefore tend to rely on carefully chosen verbs. A finding \"suggests\", \"is consistent with\" or \"points to\" something; only rarely does it \"prove\" anything.",
+    "Journalists are not entirely to blame. They are under pressure to attract readers, and a nuanced sentence rarely goes viral. Universities, too, have their share of responsibility, since their press offices are often keen to have their institution's work noticed. Yet readers are far from powerless. A few habits can be acquired quickly: checking whether a study was conducted on humans or on mice; asking how many people were involved; looking for phrases such as \"may\", \"could\" and \"is associated with\"; and being sceptical of any headline that contains the word \"breakthrough\". Above all, it helps to remember that doubt, far from being a weakness of science, is the mechanism by which it corrects itself. A discipline that never admitted uncertainty would be one that had stopped learning."
+   ],
+   "glossary": [
+    {
+     "en": "bewildering",
+     "def": "very confusing and difficult to understand"
+    },
+    {
+     "en": "mortality",
+     "def": "the number of deaths in a population"
+    },
+    {
+     "en": "notoriously",
+     "def": "famously, in a way that is well known for being bad or difficult"
+    },
+    {
+     "en": "provisional",
+     "def": "temporary, and subject to later review or change"
+    },
+    {
+     "en": "modest",
+     "def": "small in size or amount"
+    },
+    {
+     "en": "go viral",
+     "def": "to spread rapidly across the internet or social media"
+    },
+    {
+     "en": "press release",
+     "def": "an official statement issued to the media"
+    },
+    {
+     "en": "to account for",
+     "def": "to explain the reason for something"
+    },
+    {
+     "en": "nuanced",
+     "def": "showing subtle differences of meaning or opinion"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "What is the author's view of the idea that scientists cannot make up their minds?",
+     "options": [
+      "It is basically accurate.",
+      "It is mistaken: the science is more cautious than the coverage.",
+      "It is caused by peer review."
+     ],
+     "answer": 1,
+     "explain": "«The science is usually far more cautious than the coverage»."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "According to the text, the original paper claimed that coffee extends life.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Said \"was associated with\" and warned of caution."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Why might the data on coffee drinkers be unreliable?",
+     "options": [
+      "Participants reported their own habits.",
+      "The study lasted too short a time.",
+      "Only mice were studied."
+     ],
+     "answer": 0,
+     "explain": "Self-reported habits are unreliable."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "What must happen before a finding is accepted as knowledge?",
+     "options": [
+      "It must be replicated and peer reviewed.",
+      "It must appear in a press release.",
+      "It must be repeated online."
+     ],
+     "answer": 0,
+     "explain": "Replication and peer review."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "In the text, «provisional» is closest in meaning to…",
+     "options": [
+      "open to revision",
+      "definitive",
+      "flawed"
+     ],
+     "answer": 0,
+     "explain": "Provisional = sujeto a cambios."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Two things that rise and fall together are not necessarily ___.",
+     "answers": [
+      "connected",
+      "related",
+      "linked"
+     ],
+     "explain": "Correlation is not causation."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "Doubt is the mechanism by which science ___ itself.",
+     "answers": [
+      "corrects"
+     ],
+     "explain": "«By which it corrects itself»."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Is it really a breakthrough?",
+   "intro": "Listen to the radio programme with three voices. You can repeat it.",
+   "lines": [
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Welcome back to The Open Lab. Today we're asking whether a recent breakthrough in sleep research is as exciting as the headlines suggest. With me are Dr. Chen, who led the study, and Dr. Ibarra, who is rather more sceptical."
+    },
+    {
+     "who": "Dr. Chen",
+     "voice": "glassy",
+     "text": "Thanks for having us. I should say at the outset that we never used the word breakthrough. Our paper reports that people who slept less than six hours were found to have slightly worse memory scores."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "But the press release said that poor sleep destroys your memory."
+    },
+    {
+     "who": "Dr. Chen",
+     "voice": "glassy",
+     "text": "Yes, and I had the wording changed before it went out, but apparently the university's communications team had already sent a draft. It's rather frustrating."
+    },
+    {
+     "who": "Dr. Ibarra",
+     "voice": "rounded",
+     "text": "My concern is the sample. Only ninety volunteers were recruited, and most of them were students. Whatever the findings suggest, they can hardly be generalised to the whole population."
+    },
+    {
+     "who": "Dr. Chen",
+     "voice": "glassy",
+     "text": "That's fair. We make that point in the discussion section. The results are thought to be indicative, not conclusive."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "So what would make the result more convincing?"
+    },
+    {
+     "who": "Dr. Ibarra",
+     "voice": "rounded",
+     "text": "Replication, above all. If another lab were to get the same pattern with a larger, more diverse group, I'd be a lot more persuaded. It's also worth asking whether the participants were simply stressed. Stress could well account for both the poor sleep and the poor scores."
+    },
+    {
+     "who": "Dr. Chen",
+     "voice": "glassy",
+     "text": "Which is why we had every participant's stress levels assessed beforehand. The effect, such as it is, remained after we controlled for that."
+    },
+    {
+     "who": "Dr. Ibarra",
+     "voice": "rounded",
+     "text": "Fair enough, I hadn't noticed that. Then I'd say the finding is promising, but I'd still treat it with caution."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Dr. Chen, what's next for your team?"
+    },
+    {
+     "who": "Dr. Chen",
+     "voice": "glassy",
+     "text": "We've been awarded funding for a three-year follow-up, so we're going to have the whole protocol reviewed by an independent panel before we start."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Good news. And what's the moral for listeners?"
+    },
+    {
+     "who": "Dr. Ibarra",
+     "voice": "rounded",
+     "text": "Read past the headline. If an article says a study proves something, be wary. Real research usually says suggests."
+    },
+    {
+     "who": "Dr. Chen",
+     "voice": "glassy",
+     "text": "And sleep well in the meantime, whatever the data say."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What does Dr. Chen say about the word «breakthrough»?",
+     "options": [
+      "Her team never used it.",
+      "She believes it describes the study.",
+      "It was in the title of the paper."
+     ],
+     "answer": 0,
+     "explain": "We never used the word breakthrough."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What is Dr. Ibarra's main concern?",
+     "options": [
+      "The sample is small and mostly students.",
+      "The data were falsified.",
+      "The study took too long."
+     ],
+     "answer": 0,
+     "explain": "Only ninety volunteers, mostly students."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "The researchers ignored the participants' stress levels.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "They had stress levels assessed beforehand."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "The team has been awarded funding for a ___-year follow-up.",
+     "answers": [
+      "three",
+      "3"
+     ],
+     "explain": "A three-year follow-up."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What advice does Dr. Ibarra give listeners?",
+     "options": [
+      "Read beyond the headline.",
+      "Avoid all science news.",
+      "Trust press releases."
+     ],
+     "answer": 0,
+     "explain": "Read past the headline."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "The results are thought to be indicative, not conclusive.",
+     "answers": [
+      "The results are thought to be indicative, not conclusive."
+     ],
+     "explain": "Pasiva de reporte con to be."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "We had every participant's stress levels assessed beforehand.",
+     "answers": [
+      "We had every participant's stress levels assessed beforehand."
+     ],
+     "explain": "Causativa: had + obj + participio."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "If an article says a study proves something, be wary.",
+     "answers": [
+      "If an article says a study proves something, be wary."
+     ],
+     "explain": "Primer condicional con imperativo."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "We've been awarded funding for a three-year follow-up.",
+     "answers": [
+      "We've been awarded funding for a three-year follow-up.",
+      "We have been awarded funding for a three-year follow-up.",
+      "We've been awarded funding for a 3-year follow-up.",
+      "We have been awarded funding for a 3-year follow-up."
+     ],
+     "explain": "Passive with a person as the subject."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about a scientific or health claim you have read, and assess with caution how much you believe it.",
+     "questions": [
+      "What claim did you read or hear about?",
+      "Who is believed to have made the discovery?",
+      "How strong is the evidence, in your view?",
+      "Would you change your habits because of it? Why or why not?"
+     ],
+     "model": "Recently I read that intermittent fasting is thought to improve memory. The study is said to have followed a few hundred people for a year, but it seems that most participants were young and healthy. On the face of it, the results are encouraging, but I'd take them with a pinch of salt until they have been replicated. I wouldn't change my habits yet.",
+     "checklist": [
+      "Reporting passive with the correct tense form",
+      "Hedging (it seems that, on the face of it)",
+      "Vocabulary of evidence or doubt",
+      "A nuanced conclusion"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Tell about something you had done, or that was done for you recently (a repair, paperwork, treatment), using have / get + past participle.",
+     "questions": [
+      "What did you have done recently?",
+      "Who did it, and how long did it take?",
+      "Were you satisfied with the result?",
+      "What is something you need to get done soon?"
+     ],
+     "model": "Last month I had my laptop repaired because the screen kept flickering. I got the technician to replace the battery as well, and the whole thing was done within three days. The only drawback was that I had my files backed up by a colleague, which took ages. Next week I need to get my passport renewed.",
+     "checklist": [
+      "have/get + obj + past participle",
+      "A case with get + person + to",
+      "Consistent tenses",
+      "Concrete details"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Debate: should we trust headlines about science? Defend a position with evidence and nuance.",
+     "questions": [
+      "Do you tend to trust science headlines?",
+      "Should journalists be required to explain the limits of a study?",
+      "Is scepticism healthy or harmful?",
+      "What makes a study credible?"
+     ],
+     "model": "I tend to be sceptical of headlines, mainly because they are written to attract clicks. Studies are often reported as if they proved something, when in fact they only suggest it. That said, I wouldn't dismiss science itself: doubt is what makes it reliable. Arguably, the best approach is to ask how big the sample was and whether the results have been replicated.",
+     "checklist": [
+      "Clear position with nuance",
+      "Vocabulary of science and doubt",
+      "At least one reporting passive",
+      "An argument with an example"
+     ]
+    }
+   ],
+   "repeat": [
+    "It is thought to have originated in Asia.",
+    "She was offered a position at the lab.",
+    "I had my thesis proofread by a professor.",
+    "The results should be interpreted with caution.",
+    "The findings are consistent with earlier studies.",
+    "It remains to be seen whether the effect lasts."
+   ]
+  }
+ }
+}

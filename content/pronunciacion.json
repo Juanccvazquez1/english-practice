@@ -1,0 +1,1161 @@
+{
+ "attribution": "CMU Pronouncing Dictionary; IPA: ipa-dict (MIT)",
+ "contrasts": [
+  {
+   "id": "ih-iy",
+   "title": "ship / sheep",
+   "sounds": [
+    "/ɪ/",
+    "/iː/"
+   ],
+   "tip": "/ɪ/ is short and relaxed: the tongue is low and the lips hardly stretch. It is between the 'i' and the 'e' of Spanish. /iː/ is long and tense, like a long Spanish 'i' with the lips stretched. A common mistake is using the Spanish 'i' for both, so 'ship' sounds like 'sheep'.",
+   "pairs": [
+    {
+     "a": "ship",
+     "b": "sheep",
+     "ipa_a": "/ˈʃɪp/",
+     "ipa_b": "/ˈʃip/"
+    },
+    {
+     "a": "sit",
+     "b": "seat",
+     "ipa_a": "/ˈsɪt/",
+     "ipa_b": "/ˈsit/"
+    },
+    {
+     "a": "fill",
+     "b": "feel",
+     "ipa_a": "/ˈfɪɫ/",
+     "ipa_b": "/ˈfiɫ/"
+    },
+    {
+     "a": "will",
+     "b": "wheel",
+     "ipa_a": "/ˈwɪɫ/",
+     "ipa_b": "/ˈhwiɫ/"
+    },
+    {
+     "a": "it",
+     "b": "eat",
+     "ipa_a": "/ˈɪt/",
+     "ipa_b": "/ˈit/"
+    },
+    {
+     "a": "been",
+     "b": "bean",
+     "ipa_a": "/ˈbɪn/",
+     "ipa_b": "/ˈbin/"
+    },
+    {
+     "a": "list",
+     "b": "least",
+     "ipa_a": "/ˈɫɪst/",
+     "ipa_b": "/ˈɫist/"
+    },
+    {
+     "a": "rich",
+     "b": "reach",
+     "ipa_a": "/ˈɹɪtʃ/",
+     "ipa_b": "/ˈɹitʃ/"
+    },
+    {
+     "a": "still",
+     "b": "steal",
+     "ipa_a": "/ˈstɪɫ/",
+     "ipa_b": "/ˈstiɫ/"
+    },
+    {
+     "a": "sick",
+     "b": "seek",
+     "ipa_a": "/ˈsɪk/",
+     "ipa_b": "/ˈsik/"
+    },
+    {
+     "a": "hit",
+     "b": "heat",
+     "ipa_a": "/ˈhɪt/",
+     "ipa_b": "/ˈhit/"
+    },
+    {
+     "a": "slip",
+     "b": "sleep",
+     "ipa_a": "/ˈsɫɪp/",
+     "ipa_b": "/ˈsɫip/"
+    },
+    {
+     "a": "did",
+     "b": "deed",
+     "ipa_a": "/ˈdɪd/",
+     "ipa_b": "/ˈdid/"
+    },
+    {
+     "a": "hill",
+     "b": "heal",
+     "ipa_a": "/ˈhɪɫ/",
+     "ipa_b": "/ˈhiɫ/"
+    },
+    {
+     "a": "bit",
+     "b": "beat",
+     "ipa_a": "/ˈbɪt/",
+     "ipa_b": "/ˈbit/"
+    },
+    {
+     "a": "lip",
+     "b": "leap",
+     "ipa_a": "/ˈɫɪp/",
+     "ipa_b": "/ˈɫip/"
+    }
+   ]
+  },
+  {
+   "id": "ae-ah",
+   "title": "cat / cut",
+   "sounds": [
+    "/æ/",
+    "/ʌ/"
+   ],
+   "tip": "/æ/ is made with the jaw low and the mouth open. It sounds between 'a' and 'e'. /ʌ/ is short, relaxed and central, with the mouth almost closed, like a very soft 'a'. A common mistake is saying the Spanish 'a' for both, so 'cat' and 'cut' sound the same.",
+   "pairs": [
+    {
+     "a": "cat",
+     "b": "cut",
+     "ipa_a": "/ˈkæt/",
+     "ipa_b": "/ˈkət/"
+    },
+    {
+     "a": "bat",
+     "b": "but",
+     "ipa_a": "/ˈbæt/",
+     "ipa_b": "/ˈbət/"
+    },
+    {
+     "a": "cap",
+     "b": "cup",
+     "ipa_a": "/ˈkæp/",
+     "ipa_b": "/ˈkəp/"
+    },
+    {
+     "a": "fan",
+     "b": "fun",
+     "ipa_a": "/ˈfæn/",
+     "ipa_b": "/ˈfən/"
+    },
+    {
+     "a": "match",
+     "b": "much",
+     "ipa_a": "/ˈmætʃ/",
+     "ipa_b": "/ˈmətʃ/"
+    },
+    {
+     "a": "carry",
+     "b": "curry",
+     "ipa_a": "/ˈkæɹi/",
+     "ipa_b": "/ˈkəɹi/"
+    },
+    {
+     "a": "track",
+     "b": "truck",
+     "ipa_a": "/ˈtɹæk/",
+     "ipa_b": "/ˈtɹək/"
+    },
+    {
+     "a": "lack",
+     "b": "luck",
+     "ipa_a": "/ˈɫæk/",
+     "ipa_b": "/ˈɫək/"
+    },
+    {
+     "a": "bag",
+     "b": "bug",
+     "ipa_a": "/ˈbæɡ/",
+     "ipa_b": "/ˈbəɡ/"
+    },
+    {
+     "a": "ankle",
+     "b": "uncle",
+     "ipa_a": "/ˈæŋkəɫ/",
+     "ipa_b": "/ˈəŋkəɫ/"
+    },
+    {
+     "a": "staff",
+     "b": "stuff",
+     "ipa_a": "/ˈstæf/",
+     "ipa_b": "/ˈstəf/"
+    },
+    {
+     "a": "hat",
+     "b": "hut",
+     "ipa_a": "/ˈhæt/",
+     "ipa_b": "/ˈhət/"
+    },
+    {
+     "a": "drag",
+     "b": "drug",
+     "ipa_a": "/ˈdɹæɡ/",
+     "ipa_b": "/ˈdɹəɡ/"
+    },
+    {
+     "a": "mad",
+     "b": "mud",
+     "ipa_a": "/ˈmæd/",
+     "ipa_b": "/ˈməd/"
+    },
+    {
+     "a": "crash",
+     "b": "crush",
+     "ipa_a": "/ˈkɹæʃ/",
+     "ipa_b": "/ˈkɹəʃ/"
+    },
+    {
+     "a": "damp",
+     "b": "dump",
+     "ipa_a": "/ˈdæmp/",
+     "ipa_b": "/ˈdəmp/"
+    }
+   ]
+  },
+  {
+   "id": "ae-eh",
+   "title": "bad / bed",
+   "sounds": [
+    "/æ/",
+    "/ɛ/"
+   ],
+   "tip": "/ɛ/ is similar to the Spanish 'e' in 'perro'. /æ/ is more open: lower the jaw and stretch the lips a little, as if you were saying 'a' and 'e' at the same time. A common mistake is saying 'e' for both, so 'bad' sounds like 'bed'.",
+   "pairs": [
+    {
+     "a": "bad",
+     "b": "bed",
+     "ipa_a": "/ˈbæd/",
+     "ipa_b": "/ˈbɛd/"
+    },
+    {
+     "a": "had",
+     "b": "head",
+     "ipa_a": "/ˈhæd/",
+     "ipa_b": "/ˈhɛd/"
+    },
+    {
+     "a": "than",
+     "b": "then",
+     "ipa_a": "/ˈðæn/",
+     "ipa_b": "/ˈðɛn/"
+    },
+    {
+     "a": "dad",
+     "b": "dead",
+     "ipa_a": "/ˈdæd/",
+     "ipa_b": "/ˈdɛd/"
+    },
+    {
+     "a": "band",
+     "b": "bend",
+     "ipa_a": "/ˈbænd/",
+     "ipa_b": "/ˈbɛnd/"
+    },
+    {
+     "a": "bag",
+     "b": "beg",
+     "ipa_a": "/ˈbæɡ/",
+     "ipa_b": "/ˈbɛɡ/"
+    },
+    {
+     "a": "pan",
+     "b": "pen",
+     "ipa_a": "/ˈpæn/",
+     "ipa_b": "/ˈpɛn/"
+    },
+    {
+     "a": "gas",
+     "b": "guess",
+     "ipa_a": "/ˈɡæs/",
+     "ipa_b": "/ˈɡɛs/"
+    },
+    {
+     "a": "shall",
+     "b": "shell",
+     "ipa_a": "/ˈʃæɫ/",
+     "ipa_b": "/ˈʃɛɫ/"
+    },
+    {
+     "a": "land",
+     "b": "lend",
+     "ipa_a": "/ˈɫænd/",
+     "ipa_b": "/ˈɫɛnd/"
+    },
+    {
+     "a": "bat",
+     "b": "bet",
+     "ipa_a": "/ˈbæt/",
+     "ipa_b": "/ˈbɛt/"
+    },
+    {
+     "a": "sand",
+     "b": "send",
+     "ipa_a": "/ˈsænd/",
+     "ipa_b": "/ˈsɛnd/"
+    },
+    {
+     "a": "mass",
+     "b": "mess",
+     "ipa_a": "/ˈmæs/",
+     "ipa_b": "/ˈmɛs/"
+    },
+    {
+     "a": "access",
+     "b": "excess",
+     "ipa_a": "/ˈækˌsɛs/",
+     "ipa_b": "/ˈɛkˌsɛs/"
+    },
+    {
+     "a": "cattle",
+     "b": "kettle",
+     "ipa_a": "/ˈkætəɫ/",
+     "ipa_b": "/ˈkɛtəɫ/"
+    },
+    {
+     "a": "tan",
+     "b": "ten",
+     "ipa_a": "/ˈtæn/",
+     "ipa_b": "/ˈtɛn/"
+    }
+   ]
+  },
+  {
+   "id": "aa-ah",
+   "title": "cot / cut",
+   "sounds": [
+    "/ɑ/",
+    "/ʌ/"
+   ],
+   "tip": "/ɑ/ is a long, open 'a' made at the back of the mouth, with the lips not rounded. /ʌ/ is short, relaxed and with the mouth more closed. A common mistake is using the Spanish 'a' for both, so 'cot' and 'cut' sound the same.",
+   "pairs": [
+    {
+     "a": "cot",
+     "b": "cut",
+     "ipa_a": "/ˈkɑt/",
+     "ipa_b": "/ˈkət/"
+    },
+    {
+     "a": "cop",
+     "b": "cup",
+     "ipa_a": "/ˈkɑp/",
+     "ipa_b": "/ˈkəp/"
+    },
+    {
+     "a": "lock",
+     "b": "luck",
+     "ipa_a": "/ˈɫɑk/",
+     "ipa_b": "/ˈɫək/"
+    },
+    {
+     "a": "boss",
+     "b": "bus",
+     "ipa_a": "/ˈbɑs/",
+     "ipa_b": "/ˈbəs/"
+    },
+    {
+     "a": "shot",
+     "b": "shut",
+     "ipa_a": "/ˈʃɑt/",
+     "ipa_b": "/ˈʃət/"
+    },
+    {
+     "a": "doll",
+     "b": "dull",
+     "ipa_a": "/ˈdɑɫ/",
+     "ipa_b": "/ˈdəɫ/"
+    },
+    {
+     "a": "collar",
+     "b": "color",
+     "ipa_a": "/ˈkɑɫɝ/",
+     "ipa_b": "/ˈkəɫɝ/"
+    },
+    {
+     "a": "hot",
+     "b": "hut",
+     "ipa_a": "/ˈhɑt/",
+     "ipa_b": "/ˈhət/"
+    },
+    {
+     "a": "body",
+     "b": "buddy",
+     "ipa_a": "/ˈbɑdi/",
+     "ipa_b": "/ˈbədi/"
+    },
+    {
+     "a": "calm",
+     "b": "come",
+     "ipa_a": "/ˈkɑɫm/",
+     "ipa_b": "/ˈkəm/"
+    },
+    {
+     "a": "fond",
+     "b": "fund",
+     "ipa_a": "/ˈfɑnd/",
+     "ipa_b": "/ˈfənd/"
+    },
+    {
+     "a": "jog",
+     "b": "jug",
+     "ipa_a": "/ˈdʒɑɡ/",
+     "ipa_b": "/ˈdʒəɡ/"
+    },
+    {
+     "a": "not",
+     "b": "nut",
+     "ipa_a": "/ˈnɑt/",
+     "ipa_b": "/ˈnət/"
+    },
+    {
+     "a": "dock",
+     "b": "duck",
+     "ipa_a": "/ˈdɑk/",
+     "ipa_b": "/ˈdək/"
+    },
+    {
+     "a": "sock",
+     "b": "suck",
+     "ipa_a": "/ˈsɑk/",
+     "ipa_b": "/ˈsək/"
+    },
+    {
+     "a": "rob",
+     "b": "rub",
+     "ipa_a": "/ˈɹɑb/",
+     "ipa_b": "/ˈɹəb/"
+    }
+   ]
+  },
+  {
+   "id": "uh-uw",
+   "title": "full / fool",
+   "sounds": [
+    "/ʊ/",
+    "/uː/"
+   ],
+   "tip": "/ʊ/ is short and relaxed, with the lips barely rounded. /uː/ is long and tense, with the lips very rounded and pushed forward. A common mistake is using the Spanish 'u' for both, so 'full' sounds like 'fool'.",
+   "pairs": [
+    {
+     "a": "full",
+     "b": "fool",
+     "ipa_a": "/ˈfʊɫ/",
+     "ipa_b": "/ˈfuɫ/"
+    },
+    {
+     "a": "pull",
+     "b": "pool",
+     "ipa_a": "/ˈpʊɫ/",
+     "ipa_b": "/ˈpuɫ/"
+    },
+    {
+     "a": "soot",
+     "b": "suit",
+     "ipa_a": "/ˈsʊt/",
+     "ipa_b": "/ˈsut/"
+    }
+   ]
+  },
+  {
+   "id": "b-v",
+   "title": "berry / very",
+   "sounds": [
+    "/b/",
+    "/v/"
+   ],
+   "tip": "For /b/ you press both lips together. For /v/ you touch your top teeth to your bottom lip and let the air vibrate. In Spanish 'b' and 'v' sound the same, so speakers often say /b/ both times, and 'very' sounds like 'berry'.",
+   "pairs": [
+    {
+     "a": "berry",
+     "b": "very",
+     "ipa_a": "/ˈbɛɹi/",
+     "ipa_b": "/ˈvɛɹi/"
+    },
+    {
+     "a": "boat",
+     "b": "vote",
+     "ipa_a": "/ˈboʊt/",
+     "ipa_b": "/ˈvoʊt/"
+    },
+    {
+     "a": "base",
+     "b": "vase",
+     "ipa_a": "/ˈbeɪs/",
+     "ipa_b": "/ˈvɑz/"
+    },
+    {
+     "a": "cupboard",
+     "b": "covered",
+     "ipa_a": "/ˈkəbɝd/",
+     "ipa_b": "/ˈkəvɝd/"
+    },
+    {
+     "a": "bury",
+     "b": "vary",
+     "ipa_a": "/ˈbɛɹi/",
+     "ipa_b": "/ˈvɛɹi/"
+    },
+    {
+     "a": "bet",
+     "b": "vet",
+     "ipa_a": "/ˈbɛt/",
+     "ipa_b": "/ˈvɛt/"
+    },
+    {
+     "a": "ban",
+     "b": "van",
+     "ipa_a": "/ˈbæn/",
+     "ipa_b": "/ˈvæn/"
+    },
+    {
+     "a": "bow",
+     "b": "vow",
+     "ipa_a": "/ˈbaʊ/",
+     "ipa_b": "/ˈvaʊ/"
+    },
+    {
+     "a": "marble",
+     "b": "marvel",
+     "ipa_a": "/ˈmɑɹbəɫ/",
+     "ipa_b": "/ˈmɑɹvəɫ/"
+    },
+    {
+     "a": "banish",
+     "b": "vanish",
+     "ipa_a": "/ˈbænɪʃ/",
+     "ipa_b": "/ˈvænɪʃ/"
+    }
+   ]
+  },
+  {
+   "id": "s-z",
+   "title": "bus / buzz",
+   "sounds": [
+    "/s/",
+    "/z/"
+   ],
+   "tip": "/s/ is a voiceless hiss. /z/ is the same hiss with voice in your throat (touch your neck to feel it). Mexican Spanish has no /z/ sound, so people tend to say /s/, and 'buzz' or 'rise' sound like 'bus' or 'rice'.",
+   "pairs": [
+    {
+     "a": "bus",
+     "b": "buzz",
+     "ipa_a": "/ˈbəs/",
+     "ipa_b": "/ˈbəz/"
+    },
+    {
+     "a": "loose",
+     "b": "lose",
+     "ipa_a": "/ˈɫus/",
+     "ipa_b": "/ˈɫuz/"
+    },
+    {
+     "a": "advice",
+     "b": "advise",
+     "ipa_a": "/ædˈvaɪs/",
+     "ipa_b": "/ædˈvaɪz/"
+    },
+    {
+     "a": "price",
+     "b": "prize",
+     "ipa_a": "/ˈpɹaɪs/",
+     "ipa_b": "/ˈpɹaɪz/"
+    },
+    {
+     "a": "rice",
+     "b": "rise",
+     "ipa_a": "/ˈɹaɪs/",
+     "ipa_b": "/ˈɹaɪz/"
+    },
+    {
+     "a": "race",
+     "b": "raise",
+     "ipa_a": "/ˈɹeɪs/",
+     "ipa_b": "/ˈɹeɪz/"
+    },
+    {
+     "a": "face",
+     "b": "phase",
+     "ipa_a": "/ˈfeɪs/",
+     "ipa_b": "/ˈfeɪz/"
+    },
+    {
+     "a": "sue",
+     "b": "zoo",
+     "ipa_a": "/ˈsu/",
+     "ipa_b": "/ˈzu/"
+    },
+    {
+     "a": "dose",
+     "b": "doze",
+     "ipa_a": "/ˈdoʊs/",
+     "ipa_b": "/ˈdoʊz/"
+    },
+    {
+     "a": "cease",
+     "b": "seize",
+     "ipa_a": "/ˈsis/",
+     "ipa_b": "/ˈsiz/"
+    },
+    {
+     "a": "device",
+     "b": "devise",
+     "ipa_a": "/dɪˈvaɪs/",
+     "ipa_b": "/dɪˈvaɪs/"
+    }
+   ]
+  },
+  {
+   "id": "th-t",
+   "title": "three / tree",
+   "sounds": [
+    "/θ/",
+    "/t/"
+   ],
+   "tip": "For /θ/ put the tip of your tongue between your teeth and blow softly. For /t/ touch the top gum and release the air suddenly. Mexican Spanish has no /θ/, so people replace it with /t/ (or /s/), and 'three' sounds like 'tree'.",
+   "pairs": [
+    {
+     "a": "three",
+     "b": "tree",
+     "ipa_a": "/ˈθɹi/",
+     "ipa_b": "/ˈtɹi/"
+    },
+    {
+     "a": "bath",
+     "b": "bat",
+     "ipa_a": "/ˈbæθ/",
+     "ipa_b": "/ˈbæt/"
+    },
+    {
+     "a": "both",
+     "b": "boat",
+     "ipa_a": "/ˈboʊθ/",
+     "ipa_b": "/ˈboʊt/"
+    },
+    {
+     "a": "through",
+     "b": "true",
+     "ipa_a": "/ˈθɹu/",
+     "ipa_b": "/ˈtɹu/"
+    },
+    {
+     "a": "thank",
+     "b": "tank",
+     "ipa_a": "/ˈθæŋk/",
+     "ipa_b": "/ˈtæŋk/"
+    },
+    {
+     "a": "thin",
+     "b": "tin",
+     "ipa_a": "/ˈθɪn/",
+     "ipa_b": "/ˈtɪn/"
+    },
+    {
+     "a": "death",
+     "b": "debt",
+     "ipa_a": "/ˈdɛθ/",
+     "ipa_b": "/ˈdɛt/"
+    },
+    {
+     "a": "theme",
+     "b": "team",
+     "ipa_a": "/ˈθim/",
+     "ipa_b": "/ˈtim/"
+    },
+    {
+     "a": "booth",
+     "b": "boot",
+     "ipa_a": "/ˈbuθ/",
+     "ipa_b": "/ˈbut/"
+    },
+    {
+     "a": "thread",
+     "b": "tread",
+     "ipa_a": "/ˈθɹɛd/",
+     "ipa_b": "/ˈtɹɛd/"
+    },
+    {
+     "a": "faith",
+     "b": "fate",
+     "ipa_a": "/ˈfeɪθ/",
+     "ipa_b": "/ˈfeɪt/"
+    }
+   ]
+  },
+  {
+   "id": "th-s",
+   "title": "think / sink",
+   "sounds": [
+    "/θ/",
+    "/s/"
+   ],
+   "tip": "/θ/ is made with the tongue between the teeth and a soft breath. /s/ is made with the tongue behind the teeth. In Mexican Spanish 'z' and 'c' sound like /s/, so it is very common to replace /θ/ with /s/, and 'think' sounds like 'sink'.",
+   "pairs": [
+    {
+     "a": "think",
+     "b": "sink",
+     "ipa_a": "/ˈθɪŋk/",
+     "ipa_b": "/ˈsɪŋk/"
+    },
+    {
+     "a": "thick",
+     "b": "sick",
+     "ipa_a": "/ˈθɪk/",
+     "ipa_b": "/ˈsɪk/"
+    },
+    {
+     "a": "mouth",
+     "b": "mouse",
+     "ipa_a": "/ˈmaʊθ/",
+     "ipa_b": "/ˈmaʊs/"
+    },
+    {
+     "a": "fourth",
+     "b": "force",
+     "ipa_a": "/ˈfɔɹθ/",
+     "ipa_b": "/ˈfɔɹs/"
+    },
+    {
+     "a": "youth",
+     "b": "use",
+     "ipa_a": "/ˈjuθ/",
+     "ipa_b": "/ˈjus/"
+    },
+    {
+     "a": "path",
+     "b": "pass",
+     "ipa_a": "/ˈpæθ/",
+     "ipa_b": "/ˈpæs/"
+    },
+    {
+     "a": "math",
+     "b": "mass",
+     "ipa_a": "/ˈmæθ/",
+     "ipa_b": "/ˈmæs/"
+    },
+    {
+     "a": "thumb",
+     "b": "sum",
+     "ipa_a": "/ˈθəm/",
+     "ipa_b": "/ˈsəm/"
+    },
+    {
+     "a": "myth",
+     "b": "miss",
+     "ipa_a": "/ˈmɪθ/",
+     "ipa_b": "/ˈmɪs/"
+    },
+    {
+     "a": "worth",
+     "b": "worse",
+     "ipa_a": "/ˈwɝθ/",
+     "ipa_b": "/ˈwɝs/"
+    },
+    {
+     "a": "faith",
+     "b": "face",
+     "ipa_a": "/ˈfeɪθ/",
+     "ipa_b": "/ˈfeɪs/"
+    },
+    {
+     "a": "theme",
+     "b": "seem",
+     "ipa_a": "/ˈθim/",
+     "ipa_b": "/ˈsim/"
+    },
+    {
+     "a": "growth",
+     "b": "gross",
+     "ipa_a": "/ˈɡɹoʊθ/",
+     "ipa_b": "/ˈɡɹoʊs/"
+    },
+    {
+     "a": "thin",
+     "b": "sin",
+     "ipa_a": "/ˈθɪn/",
+     "ipa_b": "/ˈsɪn/"
+    },
+    {
+     "a": "bath",
+     "b": "bass",
+     "ipa_a": "/ˈbæθ/",
+     "ipa_b": "/ˈbæs/"
+    }
+   ]
+  },
+  {
+   "id": "dh-d",
+   "title": "they / day",
+   "sounds": [
+    "/ð/",
+    "/d/"
+   ],
+   "tip": "/ð/ is voiced: put your tongue between your teeth and make your voice vibrate, like the soft 'd' in 'nada' but at the start of a word. /d/ is a firm stop with the tongue on the gum. A common mistake is using /d/ at the start of a word, so 'they' sounds like 'day'.",
+   "pairs": [
+    {
+     "a": "they",
+     "b": "day",
+     "ipa_a": "/ˈðeɪ/",
+     "ipa_b": "/ˈdeɪ/"
+    },
+    {
+     "a": "breathe",
+     "b": "breed",
+     "ipa_a": "/ˈbɹið/",
+     "ipa_b": "/ˈbɹid/"
+    },
+    {
+     "a": "there",
+     "b": "dare",
+     "ipa_a": "/ˈðɛɹ/",
+     "ipa_b": "/ˈdɛɹ/"
+    },
+    {
+     "a": "those",
+     "b": "doze",
+     "ipa_a": "/ˈðoʊz/",
+     "ipa_b": "/ˈdoʊz/"
+    },
+    {
+     "a": "breathing",
+     "b": "breeding",
+     "ipa_a": "/ˈbɹiðɪŋ/",
+     "ipa_b": "/ˈbɹidɪŋ/"
+    },
+    {
+     "a": "their",
+     "b": "dare",
+     "ipa_a": "/ˈðɛɹ/",
+     "ipa_b": "/ˈdɛɹ/"
+    },
+    {
+     "a": "though",
+     "b": "dough",
+     "ipa_a": "/ˈðoʊ/",
+     "ipa_b": "/ˈdoʊ/"
+    },
+    {
+     "a": "then",
+     "b": "den",
+     "ipa_a": "/ˈðɛn/",
+     "ipa_b": "/ˈdɛn/"
+    }
+   ]
+  },
+  {
+   "id": "sh-ch",
+   "title": "shoe / chew",
+   "sounds": [
+    "/ʃ/",
+    "/tʃ/"
+   ],
+   "tip": "/ʃ/ is a continuous sound, like saying 'shhh' to ask for quiet, with no tongue closure. /tʃ/ is the Spanish 'ch': you close first and then release the air. A common mistake is saying 'ch' instead of 'sh', so 'shoe' sounds like 'chew'.",
+   "pairs": [
+    {
+     "a": "shoe",
+     "b": "chew",
+     "ipa_a": "/ˈʃu/",
+     "ipa_b": "/ˈtʃu/"
+    },
+    {
+     "a": "wash",
+     "b": "watch",
+     "ipa_a": "/ˈwɑʃ/",
+     "ipa_b": "/ˈwɑtʃ/"
+    },
+    {
+     "a": "wish",
+     "b": "which",
+     "ipa_a": "/ˈwɪʃ/",
+     "ipa_b": "/ˈhwɪtʃ/"
+    },
+    {
+     "a": "share",
+     "b": "chair",
+     "ipa_a": "/ˈʃɛɹ/",
+     "ipa_b": "/ˈtʃɛɹ/"
+    },
+    {
+     "a": "cash",
+     "b": "catch",
+     "ipa_a": "/ˈkæʃ/",
+     "ipa_b": "/ˈkætʃ/"
+    },
+    {
+     "a": "sheep",
+     "b": "cheap",
+     "ipa_a": "/ˈʃip/",
+     "ipa_b": "/ˈtʃip/"
+    },
+    {
+     "a": "mash",
+     "b": "match",
+     "ipa_a": "/ˈmæʃ/",
+     "ipa_b": "/ˈmætʃ/"
+    },
+    {
+     "a": "ship",
+     "b": "chip",
+     "ipa_a": "/ˈʃɪp/",
+     "ipa_b": "/ˈtʃɪp/"
+    },
+    {
+     "a": "shop",
+     "b": "chop",
+     "ipa_a": "/ˈʃɑp/",
+     "ipa_b": "/ˈtʃɑp/"
+    },
+    {
+     "a": "sheet",
+     "b": "cheat",
+     "ipa_a": "/ˈʃit/",
+     "ipa_b": "/ˈtʃit/"
+    }
+   ]
+  },
+  {
+   "id": "jh-y",
+   "title": "jet / yet",
+   "sounds": [
+    "/dʒ/",
+    "/j/"
+   ],
+   "tip": "/dʒ/ starts with the tongue closing against the roof of the mouth and then releases with friction (like a voiced 'ch'). /j/ has no closure: it is like the 'i' in 'hielo' used as a consonant. Many Spanish speakers say 'y' as /dʒ/ or the other way round, so 'yet' and 'jet' get mixed up.",
+   "pairs": [
+    {
+     "a": "jet",
+     "b": "yet",
+     "ipa_a": "/ˈdʒɛt/",
+     "ipa_b": "/ˈjɛt/"
+    },
+    {
+     "a": "juice",
+     "b": "use",
+     "ipa_a": "/ˈdʒus/",
+     "ipa_b": "/ˈjus/"
+    },
+    {
+     "a": "joke",
+     "b": "yolk",
+     "ipa_a": "/ˈdʒoʊk/",
+     "ipa_b": "/ˈjoʊk/"
+    }
+   ]
+  },
+  {
+   "id": "t-d-final",
+   "title": "cart / card",
+   "sounds": [
+    "/t/",
+    "/d/"
+   ],
+   "tip": "At the end of a word, /d/ is voiced and /t/ is voiceless, but the clearest clue is that the vowel before /d/ is longer ('card') and shorter before /t/ ('cart'). In Spanish, the final 'd' almost disappears, so people tend to say /t/ or drop it. Make the vowel longer and keep your voice going to the end for /d/.",
+   "pairs": [
+    {
+     "a": "cart",
+     "b": "card",
+     "ipa_a": "/ˈkɑɹt/",
+     "ipa_b": "/ˈkɑɹd/"
+    },
+    {
+     "a": "site",
+     "b": "side",
+     "ipa_a": "/ˈsaɪt/",
+     "ipa_b": "/ˈsaɪd/"
+    },
+    {
+     "a": "bat",
+     "b": "bad",
+     "ipa_a": "/ˈbæt/",
+     "ipa_b": "/ˈbæd/"
+    },
+    {
+     "a": "hat",
+     "b": "had",
+     "ipa_a": "/ˈhæt/",
+     "ipa_b": "/ˈhæd/"
+    },
+    {
+     "a": "heart",
+     "b": "hard",
+     "ipa_a": "/ˈhɑɹt/",
+     "ipa_b": "/ˈhɑɹd/"
+    },
+    {
+     "a": "write",
+     "b": "ride",
+     "ipa_a": "/ˈɹaɪt/",
+     "ipa_b": "/ˈɹaɪd/"
+    },
+    {
+     "a": "great",
+     "b": "grade",
+     "ipa_a": "/ˈɡɹeɪt/",
+     "ipa_b": "/ˈɡɹeɪd/"
+    },
+    {
+     "a": "coat",
+     "b": "code",
+     "ipa_a": "/ˈkoʊt/",
+     "ipa_b": "/ˈkoʊd/"
+    },
+    {
+     "a": "at",
+     "b": "add",
+     "ipa_a": "/ˈæt/",
+     "ipa_b": "/ˈæd/"
+    },
+    {
+     "a": "kit",
+     "b": "kid",
+     "ipa_a": "/ˈkɪt/",
+     "ipa_b": "/ˈkɪd/"
+    },
+    {
+     "a": "white",
+     "b": "wide",
+     "ipa_a": "/ˈhwaɪt/",
+     "ipa_b": "/ˈwaɪd/"
+    },
+    {
+     "a": "let",
+     "b": "lead",
+     "ipa_a": "/ˈɫɛt/",
+     "ipa_b": "/ˈɫɛd/"
+    },
+    {
+     "a": "bright",
+     "b": "bride",
+     "ipa_a": "/ˈbɹaɪt/",
+     "ipa_b": "/ˈbɹaɪd/"
+    },
+    {
+     "a": "seat",
+     "b": "seed",
+     "ipa_a": "/ˈsit/",
+     "ipa_b": "/ˈsid/"
+    },
+    {
+     "a": "root",
+     "b": "rude",
+     "ipa_a": "/ˈɹut/",
+     "ipa_b": "/ˈɹud/"
+    },
+    {
+     "a": "cent",
+     "b": "send",
+     "ipa_a": "/ˈsɛnt/",
+     "ipa_b": "/ˈsɛnd/"
+    }
+   ]
+  },
+  {
+   "id": "m-n-final",
+   "title": "team / teen",
+   "sounds": [
+    "/m/",
+    "/n/"
+   ],
+   "tip": "For /m/ close your lips; for /n/ keep your lips open and touch the tip of your tongue to the gum. In Spanish, final 'm' and 'n' tend to merge, so 'team' and 'teen' can sound the same. Really close your lips for /m/ and do not close them for /n/.",
+   "pairs": [
+    {
+     "a": "team",
+     "b": "teen",
+     "ipa_a": "/ˈtim/",
+     "ipa_b": "/ˈtin/"
+    },
+    {
+     "a": "them",
+     "b": "then",
+     "ipa_a": "/ˈðɛm/",
+     "ipa_b": "/ˈðɛn/"
+    },
+    {
+     "a": "sum",
+     "b": "sun",
+     "ipa_a": "/ˈsəm/",
+     "ipa_b": "/ˈsən/"
+    },
+    {
+     "a": "some",
+     "b": "son",
+     "ipa_a": "/ˈsəm/",
+     "ipa_b": "/ˈsən/"
+    },
+    {
+     "a": "am",
+     "b": "an",
+     "ipa_a": "/ˈæm/",
+     "ipa_b": "/ˈæn/"
+    },
+    {
+     "a": "seem",
+     "b": "scene",
+     "ipa_a": "/ˈsim/",
+     "ipa_b": "/ˈsin/"
+    },
+    {
+     "a": "scream",
+     "b": "screen",
+     "ipa_a": "/ˈskɹim/",
+     "ipa_b": "/ˈskɹin/"
+    },
+    {
+     "a": "warm",
+     "b": "warn",
+     "ipa_a": "/ˈwɔɹm/",
+     "ipa_b": "/ˈwɔɹn/"
+    },
+    {
+     "a": "game",
+     "b": "gain",
+     "ipa_a": "/ˈɡeɪm/",
+     "ipa_b": "/ˈɡeɪn/"
+    },
+    {
+     "a": "term",
+     "b": "turn",
+     "ipa_a": "/ˈtɝm/",
+     "ipa_b": "/ˈtɝn/"
+    },
+    {
+     "a": "beam",
+     "b": "bean",
+     "ipa_a": "/ˈbim/",
+     "ipa_b": "/ˈbin/"
+    },
+    {
+     "a": "forum",
+     "b": "foreign",
+     "ipa_a": "/ˈfɔɹəm/",
+     "ipa_b": "/ˈfɑɹən/"
+    },
+    {
+     "a": "lame",
+     "b": "lane",
+     "ipa_a": "/ˈɫeɪm/",
+     "ipa_b": "/ˈɫeɪn/"
+    },
+    {
+     "a": "gum",
+     "b": "gun",
+     "ipa_a": "/ˈɡəm/",
+     "ipa_b": "/ˈɡən/"
+    },
+    {
+     "a": "comb",
+     "b": "cone",
+     "ipa_a": "/ˈkoʊm/",
+     "ipa_b": "/ˈkoʊn/"
+    },
+    {
+     "a": "dumb",
+     "b": "done",
+     "ipa_a": "/ˈdəm/",
+     "ipa_b": "/ˈdən/"
+    }
+   ]
+  }
+ ]
+}

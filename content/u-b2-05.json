@@ -1,0 +1,1724 @@
+{
+ "id": "u-b2-05",
+ "level": "B2",
+ "n": 5,
+ "title": "Reading Between the Lines",
+ "goals": [
+  "Speculate about the present with must, can't, could, may and might (+ be / be + -ing).",
+  "Speculate about the past with must have, can't have and might have + past participle.",
+  "Tell apart -ed adjectives (how I feel) from -ing adjectives (what something is like), with their prepositions.",
+  "Talk about problems, accidents and achievements: get in trouble, get a scholarship, train for a marathon.",
+  "React with empathy and explain with You must be…, I see and You see.",
+  "Write impressions and opinions with My impression is that… and In my opinion, … about projects that improve lives."
+ ],
+ "learn": [
+  {
+   "id": "g-spec-present",
+   "kind": "grammar",
+   "title": "Speculating about the present: must, can't, could, may, might",
+   "html": "<p>When you don't know something for certain but you have clues, you make a <strong>guess</strong>. English uses modal verbs + base verb (or <strong>be + -ing</strong> for something happening now).</p><table><thead><tr><th>Modal</th><th>Certainty</th><th>Example</th></tr></thead><tbody><tr><td><strong>must (not)</strong></td><td>Almost 100% sure (logical conclusion)</td><td>She must be a genius. He must not sleep much.</td></tr><tr><td><strong>can't</strong></td><td>Almost sure that it is impossible</td><td>That can't be his sister; she's too old.</td></tr><tr><td><strong>could / may / might</strong></td><td>Possible, less sure</td><td>He could be a teacher. They might be feeling sad.</td></tr><tr><td><strong>may not / might not</strong></td><td>Maybe not</td><td>She may not know the answer.</td></tr></tbody></table><ul><li>Structures: <em>modal + be + adjective/noun</em> (<em>must be tired</em>) and <em>modal + be + verb-ing</em> (<em>must be working</em>).</li><li>For the impossible we use <strong>can't</strong>, not <em>mustn't</em>: <em>She can't be at home</em> (= it is impossible that she is).</li><li>Modals do not take -s, do not take to, and do not use do/does in questions.</li></ul>",
+   "watch": [
+    {
+     "wrong": "She must to be tired.",
+     "right": "She must be tired.",
+     "why": "Modals do not take to."
+    },
+    {
+     "wrong": "He musts be a genius.",
+     "right": "He must be a genius.",
+     "why": "Modals do not take -s in the third person."
+    },
+    {
+     "wrong": "That mustn't be true. It's impossible!",
+     "right": "That can't be true. It's impossible!",
+     "why": "To say that something is impossible we use can't, not mustn't."
+    },
+    {
+     "wrong": "They might are feeling nervous.",
+     "right": "They might be feeling nervous.",
+     "why": "After the modal comes be + -ing, not a conjugated form."
+    }
+   ]
+  },
+  {
+   "id": "g-spec-past",
+   "kind": "grammar",
+   "title": "Speculating about the past: modal + have + past participle",
+   "html": "<p>To make guesses about something that <strong>already happened</strong>, use the same modal + <strong>have + past participle</strong>. It is a very useful extension at B2: it helps explain clues (a broken window, a friend who didn't arrive).</p><table><thead><tr><th>Structure</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td>must have + participle</td><td>Surely it happened</td><td>The streets are wet. It must have rained.</td></tr><tr><td>can't / couldn't have + participle</td><td>Impossible that it happened</td><td>She can't have forgotten the meeting; I reminded her.</td></tr><tr><td>might / may / could have + participle</td><td>Maybe it happened</td><td>He might have missed the bus.</td></tr><tr><td>might not have + participle</td><td>Maybe it didn't happen</td><td>They might not have heard the alarm.</td></tr></tbody></table><p>With continuous actions in the past: <em>They must have been waiting for hours.</em> Remember: <em>have</em> does not change (not <em>has</em>) and it is pronounced weakly: «must've», «might've».</p>",
+   "watch": [
+    {
+     "wrong": "She must has left her keys at home.",
+     "right": "She must have left her keys at home.",
+     "why": "After the modal it is always have, never has."
+    },
+    {
+     "wrong": "He can't have being at the party.",
+     "right": "He can't have been at the party.",
+     "why": "The past participle of be is been."
+    },
+    {
+     "wrong": "It must rained last night.",
+     "right": "It must have rained last night.",
+     "why": "For the past, have + participle is missing."
+    },
+    {
+     "wrong": "They must have went home early.",
+     "right": "They must have gone home early.",
+     "why": "After have we use the participle: gone, not went."
+    }
+   ]
+  },
+  {
+   "id": "v-feelings",
+   "kind": "vocab",
+   "title": "Feelings: how you feel (-ed adjectives)",
+   "words": [
+    {
+     "id": "w-amazed",
+     "en": "amazed",
+     "es": "asombrado/a",
+     "example": "I was amazed by how quickly the children learned.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-fascinated",
+     "en": "fascinated",
+     "es": "fascinado/a",
+     "example": "She is fascinated by deep-sea animals."
+    },
+    {
+     "id": "w-pleased",
+     "en": "pleased",
+     "es": "contento/a, satisfecho/a",
+     "example": "We were pleased about the good news.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-thrilled",
+     "en": "thrilled",
+     "es": "emocionadísimo/a",
+     "example": "Rita is thrilled about her new job.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-motivated",
+     "en": "motivated",
+     "es": "motivado/a",
+     "example": "The group keeps me motivated to exercise.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-annoyed",
+     "en": "annoyed",
+     "es": "molesto/a, fastidiado/a",
+     "example": "I get annoyed with people who are always late.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-anxious",
+     "en": "anxious",
+     "es": "ansioso/a, inquieto/a",
+     "example": "He felt anxious before the final exam.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-bored",
+     "en": "bored",
+     "es": "aburrido/a",
+     "example": "I'm bored with this routine.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-confused",
+     "en": "confused",
+     "es": "confundido/a",
+     "example": "Many people are confused by the new rules.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-disappointed",
+     "en": "disappointed",
+     "es": "decepcionado/a",
+     "example": "Julia was disappointed with her test results.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-embarrassed",
+     "en": "embarrassed",
+     "es": "avergonzado/a",
+     "example": "He felt embarrassed when he forgot her name.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-frustrated",
+     "en": "frustrated",
+     "es": "frustrado/a",
+     "example": "I'm frustrated because the app keeps crashing.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-jealous",
+     "en": "jealous",
+     "es": "celoso/a, envidioso/a",
+     "example": "She was jealous of her brother's scholarship."
+    },
+    {
+     "id": "w-scared-of",
+     "en": "scared of",
+     "es": "asustado/a de, con miedo a",
+     "example": "My cousin is scared of heights.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-shocked",
+     "en": "shocked",
+     "es": "impactado/a, en shock",
+     "example": "We were shocked by the price of the tickets.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-nervous",
+     "en": "nervous",
+     "es": "nervioso/a",
+     "example": "I always feel nervous before a presentation.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "g-ed-ing",
+   "kind": "grammar",
+   "title": "-ed and -ing adjectives",
+   "html": "<p>Many emotion verbs have two adjectives. Those ending in <strong>-ed</strong> describe <strong>how a person feels</strong>; those ending in <strong>-ing</strong> describe <strong>what causes</strong> that emotion (a thing, a person, a situation).</p><table><thead><tr><th>-ed (how I feel)</th><th>-ing (what something is like)</th></tr></thead><tbody><tr><td>I'm <strong>bored</strong> with my job.</td><td>My job is <strong>boring</strong>.</td></tr><tr><td>She's <strong>fascinated</strong> by astronomy.</td><td>Astronomy is <strong>fascinating</strong>.</td></tr><tr><td>We were <strong>disappointed</strong> with the ending.</td><td>The ending was <strong>disappointing</strong>.</td></tr><tr><td>He's <strong>frustrated</strong> with the traffic.</td><td>The traffic is <strong>frustrating</strong>.</td></tr></tbody></table><ul><li>Common prepositions: <em>interested <strong>in</strong>, excited <strong>about</strong>, pleased <strong>about</strong>, surprised <strong>by</strong>, bored <strong>with</strong>, annoyed <strong>with</strong>, scared <strong>of</strong></em>.</li><li>Some adjectives do not have an exact pair: <em>scared</em> (me) / <em>scary</em> (the thing); <em>worried</em> (me) / <em>worrying</em> (the situation).</li><li>A person can be -ing if they <em>cause</em> the emotion: <em>He's boring</em> = he bores other people; <em>He's bored</em> = he is bored.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I'm very interesting in astronomy.",
+     "right": "I'm very interested in astronomy.",
+     "why": "For your own feeling use -ed."
+    },
+    {
+     "wrong": "The movie was really bored.",
+     "right": "The movie was really boring.",
+     "why": "To describe the film use -ing."
+    },
+    {
+     "wrong": "I'm interested on history.",
+     "right": "I'm interested in history.",
+     "why": "Interested goes with in."
+    },
+    {
+     "wrong": "My sister is scary of spiders.",
+     "right": "My sister is scared of spiders.",
+     "why": "Scared of = to be afraid; scary = frightening."
+    }
+   ]
+  },
+  {
+   "id": "v-trouble",
+   "kind": "vocab",
+   "title": "Problems, accidents and milestones",
+   "words": [
+    {
+     "id": "w-get-in-trouble",
+     "en": "get in trouble",
+     "es": "meterse en problemas",
+     "example": "He got in trouble for arriving late three days in a row.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-get-lost-be-lost",
+     "en": "get lost / be lost",
+     "es": "perderse",
+     "example": "We got lost because the map was out of date.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-throw-a-tantrum",
+     "en": "throw a tantrum",
+     "es": "hacer un berrinche",
+     "example": "The little boy threw a tantrum in the supermarket.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-fail-a-test",
+     "en": "fail a test",
+     "es": "reprobar un examen",
+     "example": "If you don't study, you'll fail the test.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-fall-and-break-something",
+     "en": "fall and break something",
+     "es": "caerse y romper algo",
+     "example": "She fell and broke her wrist while skating.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-lock-your-keys-inside-the-car",
+     "en": "lock your keys inside the car",
+     "es": "dejar las llaves encerradas en el coche",
+     "example": "I locked my keys inside the car and had to call a locksmith.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-spill-something-all-over-someone",
+     "en": "spill something all over someone",
+     "es": "derramar algo sobre alguien",
+     "example": "The waiter spilled soup all over my jacket.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-get-a-scholarship",
+     "en": "get a scholarship",
+     "es": "obtener una beca",
+     "example": "Daniela got a scholarship to study engineering abroad.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-graduate-from-college",
+     "en": "graduate from college",
+     "es": "graduarse de la universidad",
+     "example": "He graduated from college at twenty-two.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-wear-a-cap-and-gown",
+     "en": "wear a cap and gown",
+     "es": "usar toga y birrete",
+     "example": "Students wear a cap and gown at the ceremony.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-get-in-shape",
+     "en": "get in shape",
+     "es": "ponerse en forma",
+     "example": "My goal this year is to get in shape.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-train-for-a-marathon",
+     "en": "train for a marathon",
+     "es": "entrenar para un maratón",
+     "example": "She trains for a marathon every spring.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-proud-of",
+     "en": "proud (of)",
+     "es": "orgulloso/a (de)",
+     "example": "Their parents are very proud of them.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-genius",
+     "en": "genius",
+     "es": "genio",
+     "example": "Her teacher says she is a genius at math.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "g-opinion",
+   "kind": "grammar",
+   "title": "Giving impressions and opinions in writing",
+   "html": "<p>In a formal or semi-formal text (an email, a review, a comment) opinions are softened with introductory expressions. Almost all of them are followed by <strong>that + complete sentence</strong> (with subject and verb); in written language <em>that</em> can be omitted.</p><table><thead><tr><th>Expression</th><th>Example</th></tr></thead><tbody><tr><td>My impression is that…</td><td>My impression is that you are passionate about the project.</td></tr><tr><td>It seems to me that…</td><td>It seems to me that the program has helped many young people.</td></tr><tr><td>I think / believe / feel that…</td><td>I believe that it is important to save cultural traditions.</td></tr><tr><td>In my opinion / view, …</td><td>In my opinion, the rainforest is very valuable.</td></tr></tbody></table><p>Watch out: <em>In my opinion</em> and <em>In my view</em> take a comma and <strong>don't</strong> take that. Say <em>in</em> my opinion; there is no word-for-word equivalent of «according to me».</p>",
+   "watch": [
+    {
+     "wrong": "According to me, it's a great idea.",
+     "right": "In my opinion, it's a great idea.",
+     "why": "There is no literal English equivalent of 'according to me': use In my opinion."
+    },
+    {
+     "wrong": "It seems to me what you worked very hard.",
+     "right": "It seems to me that you worked very hard.",
+     "why": "After It seems to me comes that, not what."
+    },
+    {
+     "wrong": "In my opinion that the project is useful.",
+     "right": "In my opinion, the project is useful.",
+     "why": "In my opinion does not take that; it takes a comma."
+    }
+   ]
+  },
+  {
+   "id": "v-impact",
+   "kind": "vocab",
+   "title": "Making a difference",
+   "words": [
+    {
+     "id": "w-volunteer",
+     "en": "volunteer",
+     "es": "ser voluntario/a; voluntario/a",
+     "example": "She volunteers at an animal shelter on weekends.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-get-involved-with",
+     "en": "get involved with",
+     "es": "involucrarse en",
+     "example": "More teenagers should get involved with local programs.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-support-an-organization",
+     "en": "support an organization",
+     "es": "apoyar a una organización",
+     "example": "We support an organization that plants trees.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-start-a-program",
+     "en": "start a program",
+     "es": "iniciar un programa",
+     "example": "He started a program to teach adults to read.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-improve-lives",
+     "en": "improve lives",
+     "es": "mejorar vidas",
+     "example": "Clean water improves lives in rural communities.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-overcome-challenges",
+     "en": "overcome challenges",
+     "es": "superar desafíos",
+     "example": "Music helped her overcome challenges at school.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-bring-people-together",
+     "en": "bring people together",
+     "es": "unir a la gente",
+     "example": "Sports can bring people together.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-tackle-a-problem",
+     "en": "tackle a problem",
+     "es": "abordar un problema difícil",
+     "example": "The city must tackle the problem of pollution.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-benefit-young-people",
+     "en": "benefit young people",
+     "es": "beneficiar a los jóvenes",
+     "example": "The new library will benefit young people.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-save-traditions",
+     "en": "save traditions",
+     "es": "conservar tradiciones",
+     "example": "The festival helps save local traditions.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-funding",
+     "en": "funding",
+     "es": "financiamiento",
+     "example": "Many cultural groups need more funding.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-role-model",
+     "en": "role model",
+     "es": "modelo a seguir",
+     "example": "A good teacher is a role model.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-committed-to",
+     "en": "committed (to)",
+     "es": "comprometido/a (con)",
+     "example": "They are committed to their community."
+    },
+    {
+     "id": "w-inspiring",
+     "en": "inspiring",
+     "es": "inspirador/a",
+     "example": "Her speech was inspiring.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-demanding",
+     "en": "demanding",
+     "es": "exigente",
+     "example": "Being a conductor is demanding work.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "e-reactions",
+   "kind": "expressions",
+   "title": "Reacting and explaining: must, I see, You see",
+   "html": "<ul><li><strong>You must be… / That must be…</strong> — show that you understand the other person's situation or feelings: <em>A: I just joined a band. B: That must be fun.</em></li><li><strong>You see, …</strong> — explain something the other person may not know: <em>You see, I used to practice every morning.</em></li><li><strong>I see.</strong> — «ya entiendo» (you have just understood something new): <em>A: The band keeps me motivated. B: I see.</em></li><li><strong>It must be hard / stressful / exciting.</strong> — short empathetic reaction.</li><li><strong>He can't be serious!</strong> — it can't be true, I'm surprised.</li><li><strong>It could be…, but I'm not sure.</strong> — admit that it's only a guess.</li><li><strong>Looking back, … / It turned out that…</strong> — it turned out that…, in the end.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Guesses about the present",
+   "instructions": "Choose or complete with the most logical modal based on the clue.",
+   "topic": "g-spec-present",
+   "items": [
+    {
+     "id": "A1",
+     "type": "choice",
+     "prompt": "Marta has been studying for ten hours and her eyes are closing. She ___ exhausted.",
+     "options": [
+      "must be",
+      "can't be",
+      "might not be"
+     ],
+     "answer": 0,
+     "explain": "Very strong clues: logical conclusion with must."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "That ___ be Diego's brother. Diego is an only child.",
+     "answers": [
+      "can't",
+      "cannot"
+     ],
+     "explain": "It is impossible: Diego is an only child, so can't."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "I'm not sure, but the meeting ___ be canceled. Nobody is in the room.",
+     "answers": [
+      "might",
+      "may",
+      "could"
+     ],
+     "explain": "Possible but not certain: might / may / could."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "She has two jobs and also studies at night, so she ___ work very hard.",
+     "options": [
+      "must",
+      "can't",
+      "might not"
+     ],
+     "answer": 0,
+     "explain": "Almost certain conclusion: must."
+    },
+    {
+     "id": "A5",
+     "type": "fix",
+     "prompt": "He must is tired after the flight.",
+     "answers": [
+      "He must be tired after the flight."
+     ],
+     "explain": "Modal + be + adjective."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "The noise is loud and constant, so someone ___ be repairing the street outside. (casi seguro)",
+     "answers": [
+      "must"
+     ],
+     "explain": "Almost 100% sure: must + be + -ing."
+    },
+    {
+     "id": "A7",
+     "type": "translate",
+     "prompt": "Ese no puede ser el hermano de Ana; es demasiado joven.",
+     "answers": [
+      "That can't be Ana's brother; he's too young.",
+      "That can't be Ana's brother; he is too young.",
+      "That can't be Ana's brother, he's too young.",
+      "That can't be Ana's brother, he is too young.",
+      "That cannot be Ana's brother; he's too young.",
+      "That cannot be Ana's brother; he is too young.",
+      "That cannot be Ana's brother, he's too young.",
+      "That cannot be Ana's brother, he is too young."
+     ],
+     "explain": "Impossible: can't be."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "might",
+      "be",
+      "They",
+      "feeling",
+      "nervous"
+     ],
+     "answers": [
+      "They might be feeling nervous."
+     ],
+     "explain": "Modal + be + verb-ing."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Guesses about the past",
+   "instructions": "Use modal + have + past participle to explain the clues.",
+   "topic": "g-spec-past",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "The window is broken and the door is open. Someone ___ the house.",
+     "options": [
+      "must have broken into",
+      "must be broken into",
+      "can't have broke into"
+     ],
+     "answer": 0,
+     "explain": "Conclusion about the past: must have + participle (broken)."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "Lucía ___ have forgotten the meeting; she texted me about it this morning.",
+     "answers": [
+      "can't",
+      "couldn't",
+      "cannot"
+     ],
+     "explain": "It is almost impossible that she forgot: can't / couldn't have."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "I'm not sure why he's late. He ___ have missed the bus.",
+     "answers": [
+      "might",
+      "may",
+      "could"
+     ],
+     "explain": "Possibility: might / may / could have."
+    },
+    {
+     "id": "B4",
+     "type": "fix",
+     "prompt": "She must has left her phone at home.",
+     "answers": [
+      "She must have left her phone at home."
+     ],
+     "explain": "Modal + have, not has."
+    },
+    {
+     "id": "B5",
+     "type": "fix",
+     "prompt": "They can't have being at the party; they were out of town.",
+     "answers": [
+      "They can't have been at the party; they were out of town."
+     ],
+     "explain": "The past participle of be is been."
+    },
+    {
+     "id": "B6",
+     "type": "choice",
+     "prompt": "The streets are wet. It ___ last night.",
+     "options": [
+      "must have rained",
+      "must be rained",
+      "must raining"
+     ],
+     "answer": 0,
+     "explain": "must have + participle: rained."
+    },
+    {
+     "id": "B7",
+     "type": "translate",
+     "prompt": "Debe de haberse perdido en el camino.",
+     "answers": [
+      "He must have gotten lost on the way.",
+      "He must have gotten lost along the way.",
+      "He must have got lost on the way.",
+      "He must have got lost along the way.",
+      "She must have gotten lost on the way.",
+      "She must have gotten lost along the way.",
+      "She must have got lost on the way.",
+      "She must have got lost along the way.",
+      "He must have been lost on the way.",
+      "He must have been lost along the way.",
+      "She must have been lost on the way.",
+      "She must have been lost along the way."
+     ],
+     "explain": "Must have + participle (gotten/got lost)."
+    },
+    {
+     "id": "B8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "have",
+      "might",
+      "The",
+      "been",
+      "train",
+      "delayed"
+     ],
+     "answers": [
+      "The train might have been delayed."
+     ],
+     "explain": "might have + been + participle (passive voice)."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "-ed and -ing adjectives",
+   "instructions": "Choose or write the correct form.",
+   "topic": "g-ed-ing",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "I was really ___ by the ending of that movie.",
+     "options": [
+      "surprising",
+      "surprised",
+      "surprise"
+     ],
+     "answer": 1,
+     "explain": "My emotion: -ed."
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "The lecture was so ___ that half the class fell asleep.",
+     "options": [
+      "bored",
+      "boring",
+      "bore"
+     ],
+     "answer": 1,
+     "explain": "Describes the conference: -ing."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "I'm ___ (annoy) with my roommate. He never washes the dishes.",
+     "answers": [
+      "annoyed"
+     ],
+     "explain": "Your feeling: annoyed, with with."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "It's ___ (frustrate) when the app crashes just before I save my work.",
+     "answers": [
+      "frustrating"
+     ],
+     "explain": "Describes the situation: frustrating."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "I'm very interesting in astronomy.",
+     "answers": [
+      "I'm very interested in astronomy.",
+      "I am very interested in astronomy."
+     ],
+     "explain": "Your feeling: interested in."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "The test results were really disappointed.",
+     "answers": [
+      "The test results were really disappointing."
+     ],
+     "explain": "Describes the results: -ing."
+    },
+    {
+     "id": "C7",
+     "type": "choice",
+     "prompt": "I'm ___ of flying, but I think roller coasters are fun.",
+     "options": [
+      "scared",
+      "scary",
+      "scaring"
+     ],
+     "answer": 0,
+     "explain": "Scared of = to feel fear."
+    },
+    {
+     "id": "C8",
+     "type": "translate",
+     "prompt": "Estoy confundido porque las instrucciones son muy confusas.",
+     "answers": [
+      "I'm confused because the instructions are very confusing.",
+      "I'm confused because the instructions are really confusing.",
+      "I'm confused because the instructions are so confusing.",
+      "I am confused because the instructions are very confusing.",
+      "I am confused because the instructions are really confusing.",
+      "I am confused because the instructions are so confusing."
+     ],
+     "explain": "Person: confused; thing: confusing."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Vocabulary: feelings",
+   "instructions": "Complete with an adjective from the box: jealous, embarrassed, anxious, thrilled, disappointed, motivated, fascinated, frustrated.",
+   "topic": "v-feelings",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "I tripped in front of the whole class and my face turned red. I felt so ___.",
+     "answers": [
+      "embarrassed"
+     ],
+     "explain": "Shame: embarrassed."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "She got the job, and she can't stop smiling. She's absolutely ___.",
+     "answers": [
+      "thrilled"
+     ],
+     "explain": "A great deal of positive excitement: thrilled."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "Tomás didn't get the promotion he worked for all year. He's really ___.",
+     "answers": [
+      "disappointed"
+     ],
+     "explain": "You expected something and it didn't happen: disappointed."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "My cousin has a new car and a bigger house, and I feel a bit ___ of him.",
+     "answers": [
+      "jealous"
+     ],
+     "explain": "Envy: jealous of."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "Meli can't sleep before her interview tomorrow. She's very ___.",
+     "answers": [
+      "anxious",
+      "nervous"
+     ],
+     "explain": "Worry before something: anxious."
+    },
+    {
+     "id": "D6",
+     "type": "gap",
+     "prompt": "I'm ___ by deep-sea animals; I could read about them for hours.",
+     "answers": [
+      "fascinated"
+     ],
+     "explain": "Huge interest: fascinated by."
+    },
+    {
+     "id": "D7",
+     "type": "gap",
+     "prompt": "Since I joined the running club, I'm very ___ to train every morning.",
+     "answers": [
+      "motivated"
+     ],
+     "explain": "Wanting to do it: motivated."
+    },
+    {
+     "id": "D8",
+     "type": "gap",
+     "prompt": "I've been trying to fix this printer for an hour and nothing works. I'm so ___.",
+     "answers": [
+      "frustrated"
+     ],
+     "explain": "You can't achieve it: frustrated."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: problems, achievements and commitment",
+   "instructions": "Complete, choose or translate.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "E1",
+     "type": "choice",
+     "prompt": "What does \"throw a tantrum\" mean?",
+     "options": [
+      "to get angry and scream like a child",
+      "to celebrate a goal",
+      "to throw a ball far away"
+     ],
+     "answer": 0,
+     "explain": "Throw a tantrum = to have a tantrum."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "Raúl wants to ___ for a marathon, so he runs every morning.",
+     "answers": [
+      "train"
+     ],
+     "explain": "Train for a marathon = to train for a marathon."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "Ana studied hard and got a ___ to study abroad.",
+     "answers": [
+      "scholarship"
+     ],
+     "explain": "Get a scholarship = to get a scholarship."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "At graduation, students wear a cap and ___.",
+     "answers": [
+      "gown"
+     ],
+     "explain": "Cap and gown = graduation cap and gown."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "He's very ___ of his daughter: she just graduated from college.",
+     "options": [
+      "proud",
+      "proudly",
+      "pride"
+     ],
+     "answer": 0,
+     "explain": "Adjective: proud of."
+    },
+    {
+     "id": "E6",
+     "type": "translate",
+     "prompt": "Se me quedaron las llaves dentro del coche.",
+     "answers": [
+      "I locked my keys inside the car.",
+      "I locked my keys in the car."
+     ],
+     "explain": "Lock your keys inside the car."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "She decided to ___ at the shelter on weekends. (ser voluntaria)",
+     "answers": [
+      "volunteer"
+     ],
+     "explain": "Volunteer is both a verb and a noun."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Opinions and reactions",
+   "instructions": "Choose or complete to give an opinion or react naturally.",
+   "topic": "g-opinion",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "Which sentence is best for a formal email?",
+     "options": [
+      "My impression is that your team is very committed.",
+      "Dude, your team is cool.",
+      "I think so your team good."
+     ],
+     "answer": 0,
+     "explain": "Formal register: My impression is that + complete sentence."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "___ my opinion, volunteering benefits everyone.",
+     "answers": [
+      "In"
+     ],
+     "explain": "In my opinion."
+    },
+    {
+     "id": "F3",
+     "type": "fix",
+     "prompt": "It seems to me what the program has helped many children.",
+     "answers": [
+      "It seems to me that the program has helped many children."
+     ],
+     "explain": "It seems to me that + sentence."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "A: I just started night classes after work. B: You ___ be tired!",
+     "options": [
+      "must",
+      "can't",
+      "couldn't"
+     ],
+     "answer": 0,
+     "explain": "To show that you understand the situation: must be."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "A: Our band practices at night. B: ___, now I understand why you're always so tired.",
+     "options": [
+      "I see.",
+      "You see.",
+      "See you."
+     ],
+     "answer": 0,
+     "explain": "I see = I understand now."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "___, I used to live near the beach. That's why I love the sea.",
+     "answers": [
+      "You see"
+     ],
+     "explain": "You see + explanation the other person did not know."
+    },
+    {
+     "id": "F7",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "that",
+      "I",
+      "believe",
+      "education",
+      "is",
+      "very",
+      "important"
+     ],
+     "answers": [
+      "I believe that education is very important."
+     ],
+     "explain": "I believe that + complete sentence."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "must",
+      "a",
+      "He",
+      "genius",
+      "be"
+     ],
+     "answers": [
+      "He must be a genius."
+     ],
+     "explain": "must + be + noun."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "can't",
+      "They",
+      "home",
+      "be",
+      "already"
+     ],
+     "answers": [
+      "They can't be home already."
+     ],
+     "explain": "can't + be."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "might",
+      "She",
+      "feeling",
+      "be",
+      "anxious"
+     ],
+     "answers": [
+      "She might be feeling anxious."
+     ],
+     "explain": "might + be + -ing."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "have",
+      "must",
+      "They",
+      "missed",
+      "the",
+      "flight"
+     ],
+     "answers": [
+      "They must have missed the flight."
+     ],
+     "explain": "must have + participle."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "ending",
+      "The",
+      "is",
+      "very",
+      "disappointing"
+     ],
+     "answers": [
+      "The ending is very disappointing."
+     ],
+     "explain": "Describes a thing: -ing."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "my",
+      "with",
+      "annoyed",
+      "I'm",
+      "brother"
+     ],
+     "answers": [
+      "I'm annoyed with my brother."
+     ],
+     "explain": "Annoyed with + person."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Debe de estar cansado después del viaje.",
+     "answers": [
+      "He must be tired after the trip.",
+      "He must be tired after the journey.",
+      "She must be tired after the trip.",
+      "She must be tired after the journey."
+     ],
+     "explain": "Must be + adjective."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "No puede ser verdad.",
+     "answers": [
+      "That can't be true.",
+      "It can't be true.",
+      "This can't be true.",
+      "That cannot be true.",
+      "It cannot be true."
+     ],
+     "explain": "Impossible: can't be."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Puede que estén esperando afuera.",
+     "answers": [
+      "They might be waiting outside.",
+      "They may be waiting outside.",
+      "They could be waiting outside."
+     ],
+     "explain": "Modal + be + -ing."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Estoy muy interesado en el proyecto porque es fascinante.",
+     "answers": [
+      "I'm very interested in the project because it's fascinating.",
+      "I'm very interested in the project because it is fascinating.",
+      "I'm really interested in the project because it's fascinating.",
+      "I'm really interested in the project because it is fascinating.",
+      "I am very interested in the project because it's fascinating.",
+      "I am very interested in the project because it is fascinating.",
+      "I am really interested in the project because it's fascinating.",
+      "I am really interested in the project because it is fascinating."
+     ],
+     "explain": "Interested (me) / fascinating (the project)."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "En mi opinión, es importante apoyar a las organizaciones locales.",
+     "answers": [
+      "In my opinion, it's important to support local organizations.",
+      "In my opinion, it is important to support local organizations.",
+      "In my view, it's important to support local organizations.",
+      "In my view, it is important to support local organizations."
+     ],
+     "explain": "In my opinion + comma."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Ella no puede haber olvidado la cita.",
+     "answers": [
+      "She can't have forgotten the appointment.",
+      "She can't have forgotten the meeting.",
+      "She cannot have forgotten the appointment.",
+      "She cannot have forgotten the meeting.",
+      "She couldn't have forgotten the appointment.",
+      "She couldn't have forgotten the meeting."
+     ],
+     "explain": "can't have + participle."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises from different topics (includes 2 review items from earlier units).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Look at those clouds. It ___ rain later.",
+     "options": [
+      "might",
+      "might to",
+      "musts"
+     ],
+     "answer": 0,
+     "explain": "Modal + base verb, no to and no -s."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "I'm ___ (bore) with this routine.",
+     "answers": [
+      "bored"
+     ],
+     "explain": "Your feeling: -ed."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "She must to be very proud of her son.",
+     "answers": [
+      "She must be very proud of her son."
+     ],
+     "explain": "Modals do not take to."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Se metió en problemas por llegar tarde.",
+     "answers": [
+      "He got in trouble for being late.",
+      "He got in trouble for arriving late.",
+      "He got in trouble for coming late.",
+      "He got in trouble because of being late.",
+      "He got in trouble because of arriving late.",
+      "He got in trouble because of coming late.",
+      "She got in trouble for being late.",
+      "She got in trouble for arriving late.",
+      "She got in trouble for coming late.",
+      "She got in trouble because of being late.",
+      "She got in trouble because of arriving late.",
+      "She got in trouble because of coming late."
+     ],
+     "explain": "Get in trouble for + -ing."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "Everyone was ___ by the news.",
+     "options": [
+      "shocked",
+      "shocking",
+      "shock"
+     ],
+     "answer": 0,
+     "explain": "People's feeling: -ed."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "It seems to me ___ the plan is too expensive.",
+     "answers": [
+      "that"
+     ],
+     "explain": "It seems to me that + sentence."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "I ___ (visit) Oaxaca twice this year, and I'm planning a third trip. (repaso)",
+     "answers": [
+      "have visited",
+      "'ve visited"
+     ],
+     "explain": "Review: present perfect for experiences up to now."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "If it rains tomorrow, we ___ (stay) at home. (repaso)",
+     "answers": [
+      "will stay",
+      "'ll stay"
+     ],
+     "explain": "Review: first conditional with will."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write an anecdote of 180 to 250 words about a time you drew wrong conclusions about someone or something (a neighbor, a coworker, a noise). Use at least three guesses with must / can't / might (present) and two with must have / can't have / might have (past), describe how you felt with -ed adjectives, and how the situation was with -ing adjectives. Close by saying what you learned.",
+   "targets": [
+    "must / can't / could / may / might + be",
+    "modal + have + past participle",
+    "-ed / -ing adjectives",
+    "prepositions with adjectives (interested in, scared of)",
+    "sequence connectors"
+   ],
+   "checklist": [
+    "Between 180 and 250 words",
+    "At least 3 guesses about the present with modal + be (+ -ing)",
+    "At least 2 guesses about the past with modal + have + participle",
+    "Correct use of -ed (person) and -ing (thing)",
+    "An ending with reflection (Looking back, it turned out that…)",
+    "No to and no -s after modals"
+   ],
+   "model": "Last year I was sure that my new neighbor was a strange person. Every night, around eleven, I heard heavy noises coming from his apartment. He must be moving furniture, I thought. Then I heard voices. He can't be alone, I said to myself. He might be having a party, but nobody ever came in. I was quite worried, and I felt annoyed because I couldn't sleep.\n\nFirst, I decided to ask my other neighbors. Then I noticed that he never smiled in the elevator. He must have had a bad experience, or he might have been angry with me. After that, I even thought he could have been dangerous, and I imagined that something terrible might be happening inside. I was interested in finding out the truth, but I was also scared of knocking on his door.\n\nFinally, one evening I met him on the stairs. He was carrying a big drum. It turned out that he was a musician who practiced at night because he worked during the day. He felt embarrassed and apologized, and I felt ashamed for judging him. His music was actually fascinating, and the whole situation was a bit surprising.\n\nLooking back, I learned that I can't know a person from the outside. He wasn't unfriendly; he was just shy. Now we are good friends."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write an email of 180 to 250 words to an organization that supports young people or takes care of the environment (real or invented). Tell them your impression, say why you think their work is important, and offer to help as a volunteer. Use My impression is that…, It seems to me that…, In my opinion, … and at least three verbs from the «Making a difference» section.",
+   "targets": [
+    "My impression is that…",
+    "It seems to me that…",
+    "In my opinion, …",
+    "social commitment vocabulary",
+    "formal register"
+   ],
+   "checklist": [
+    "Between 180 and 250 words",
+    "Formal greeting and closing",
+    "At least 3 opinion expressions with that / correct comma",
+    "At least 3 verbs or phrases from «Making a difference»",
+    "A concrete offer of help",
+    "Consistent semi-formal register"
+   ],
+   "model": "Dear Sir or Madam,\n\nI am writing to you because I recently read about your work with young people in my city, and I was very impressed. My impression is that your organization is making a real difference in the community, especially through the free workshops you offer after school.\n\nIt seems to me that programs like yours are essential. Many teenagers do not have a safe place to go, and they need adults who care about them and give them opportunities. In my opinion, education and support at this age can change a whole life. I also believe that your recycling project helps young people to protect the environment and to feel proud of their neighborhood.\n\nI would like to offer my help as a volunteer. I am twenty-eight years old, and I work as a teacher, so I am used to working with teenagers. I am available on Saturday mornings and on some weekday evenings. I could help to run the workshops, raise money for the activities or take part in your cleanup days. I am also willing to donate some books and sports equipment to your center.\n\nPlease let me know if you need more information about me. I would be glad to come to a meeting and talk about how I can contribute.\n\nI look forward to hearing from you.\n\nYours faithfully,\nRicardo Mendoza"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The Mystery on Calle Morelos",
+   "intro": "Read the blog post and answer.",
+   "paragraphs": [
+    "When Mrs. Aldana moved into the empty house at the end of our street, everyone in the neighborhood had a theory. My sister Paula was convinced that she must be a famous actress, because she arrived at midnight wearing dark glasses. My father said she couldn't be an actress; he thought she might be a retired judge, since she walks straight and rarely smiles.",
+    "I was fascinated, so I started to watch the house. Every morning at six, I heard a strange sound: long, slow notes followed by a short silence. It can't be a radio, I told myself, because the same notes kept repeating, as if someone were practicing. A week later, delivery trucks brought dozens of long black cases. Paula said they must contain equipment for a movie. I thought they might be instruments, but I didn't dare to say it.",
+    "One Saturday I felt too curious and knocked on her door. I was nervous and a little embarrassed, because I had no excuse. A tall woman with silver hair opened it. \"You must be the boy who watches my windows,\" she said, smiling. I wanted to disappear. But she wasn't annoyed at all. \"Come in,\" she said. \"I think you've already guessed the secret.\"",
+    "Inside, the living room was full of violins, cellos and music stands. It turned out that Mrs. Aldana had been a conductor for thirty years in Vienna and in Mexico City. She had moved to our neighborhood to start a free program for children whose families can't pay for lessons. \"The funding is small,\" she explained, \"but music brings kids together. I've seen shy children overcome their fears just by playing in an orchestra. It's demanding work, but it's also very rewarding.\"",
+    "I left her house with a mix of feelings. I was surprised, because my sister's theory had been completely wrong, and I was excited, because I had always wanted to learn an instrument. Paula was disappointed that our neighbor wasn't a movie star, but she changed her mind when she heard the first rehearsal. \"It's amazing,\" she whispered. \"I never thought music could be so moving.\"",
+    "Now, six months later, thirty children practice in her living room every afternoon. I play the violin, though not very well yet. My father, the one who thought she was a judge, volunteers on Saturdays to carry the heavy cases. Looking back, I realize how easily we judge people from small clues. Our guesses were creative, but they were all wrong. Sometimes the best way to understand someone is simply to say hello."
+   ],
+   "glossary": [
+    {
+     "en": "theory",
+     "def": "an idea or set of ideas that tries to explain something"
+    },
+    {
+     "en": "retired",
+     "def": "no longer working, usually because of age"
+    },
+    {
+     "en": "case",
+     "def": "a box or container used to protect and hold something"
+    },
+    {
+     "en": "conductor",
+     "def": "the person who leads an orchestra and directs the musicians"
+    },
+    {
+     "en": "funding",
+     "def": "money provided to pay for a project or activity"
+    },
+    {
+     "en": "overcome",
+     "def": "to succeed in dealing with a problem or difficulty"
+    },
+    {
+     "en": "demanding",
+     "def": "requiring a lot of effort, time or attention"
+    },
+    {
+     "en": "rehearsal",
+     "def": "a practice session before a performance"
+    },
+    {
+     "en": "moving",
+     "def": "making you feel strong emotions, especially sadness or sympathy"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Paula thought Mrs. Aldana was a famous actress.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Paula was convinced that she must be a famous actress."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Why did the narrator think the sound couldn't be a radio?",
+     "options": [
+      "The same notes kept repeating, like practice",
+      "The sound was too quiet",
+      "It came from the street"
+     ],
+     "answer": 0,
+     "explain": "The same notes kept repeating, as if someone were practicing."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Mrs. Aldana was angry when the narrator knocked on her door.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "She wasn't annoyed at all."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "What was inside the long black cases?",
+     "options": [
+      "Movie equipment",
+      "Musical instruments",
+      "Books"
+     ],
+     "answer": 1,
+     "explain": "In the room there were violins and cellos."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "Why did Mrs. Aldana move to the neighborhood?",
+     "options": [
+      "To retire quietly",
+      "To start a free music program for children",
+      "To find a new job in Vienna"
+     ],
+     "answer": 1,
+     "explain": "Wanted to start a free program for children."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Mrs. Aldana worked as a ___ for thirty years.",
+     "answers": [
+      "conductor"
+     ],
+     "explain": "She had been a conductor for thirty years."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "What does the narrator realize at the end?",
+     "options": [
+      "Guesses based on small clues can be wrong",
+      "Neighbors should never talk",
+      "Music is easy to learn"
+     ],
+     "answer": 0,
+     "explain": "Final reflection: we judge quickly with few clues."
+    }
+   ]
+  },
+  "listening": {
+   "title": "What's up with Pablo?",
+   "intro": "Listen to the conversation between two coworkers. You can repeat it.",
+   "lines": [
+    {
+     "who": "Nora",
+     "voice": "glassy",
+     "text": "Have you seen Pablo this week? He's been really strange."
+    },
+    {
+     "who": "Dave",
+     "voice": "buttery",
+     "text": "Strange how? He seems fine to me."
+    },
+    {
+     "who": "Nora",
+     "voice": "glassy",
+     "text": "He leaves the office at five sharp, and yesterday he came in wearing a suit. He might be looking for a new job."
+    },
+    {
+     "who": "Dave",
+     "voice": "buttery",
+     "text": "I don't think so. He can't be going to interviews; he just got promoted."
+    },
+    {
+     "who": "Nora",
+     "voice": "glassy",
+     "text": "True. Then maybe he's just stressed. He looked exhausted on Monday."
+    },
+    {
+     "who": "Dave",
+     "voice": "buttery",
+     "text": "He must be tired because he gets here before everyone. Wait, I saw him this morning in the parking lot. He was stretching."
+    },
+    {
+     "who": "Nora",
+     "voice": "glassy",
+     "text": "Stretching? That's odd. He can't be training for something... can he?"
+    },
+    {
+     "who": "Dave",
+     "voice": "buttery",
+     "text": "Actually, he might be training for something. He told me he wants to get in shape before he turns forty."
+    },
+    {
+     "who": "Nora",
+     "voice": "glassy",
+     "text": "Really? I'm surprised, because he always eats pizza at lunch!"
+    },
+    {
+     "who": "Dave",
+     "voice": "buttery",
+     "text": "I know, but he signed up for a marathon in November. He's pretty nervous about it."
+    },
+    {
+     "who": "Nora",
+     "voice": "glassy",
+     "text": "Wow, that's impressive! I'm proud of him. We should cheer for him on race day."
+    },
+    {
+     "who": "Dave",
+     "voice": "buttery",
+     "text": "Good idea. And I'll stop teasing him about the pizza."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Why does Nora think Pablo might be looking for a new job?",
+     "options": [
+      "He wears a suit and leaves at five",
+      "He talks about salaries",
+      "He was promoted"
+     ],
+     "answer": 0,
+     "explain": "Leaves at five and arrived in a suit."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Why does Dave say Pablo can't be going to interviews?",
+     "options": [
+      "He just got promoted",
+      "He hates his job",
+      "He is on vacation"
+     ],
+     "answer": 0,
+     "explain": "He just got promoted."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Where did Dave see Pablo this morning?",
+     "options": [
+      "In the parking lot",
+      "In the cafeteria",
+      "At the gym"
+     ],
+     "answer": 0,
+     "explain": "Saw him stretching in the parking lot."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "Pablo signed up for a ___ in November.",
+     "answers": [
+      "marathon"
+     ],
+     "explain": "He signed up for a marathon in November."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What does Pablo want to do before he turns forty?",
+     "options": [
+      "Get in shape",
+      "Change jobs",
+      "Move abroad"
+     ],
+     "answer": 0,
+     "explain": "He wants to get in shape."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "How does Nora feel at the end?",
+     "options": [
+      "Proud",
+      "Jealous",
+      "Bored"
+     ],
+     "answer": 0,
+     "explain": "I'm proud of him."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "He can't be going to interviews; he just got promoted.",
+     "answers": [
+      "He can't be going to interviews; he just got promoted.",
+      "He cannot be going to interviews; he just got promoted."
+     ],
+     "explain": "can't + be + -ing para algo casi imposible."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "He must be tired because he gets here before everyone.",
+     "answers": [
+      "He must be tired because he gets here before everyone."
+     ],
+     "explain": "must be for a logical conclusion."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "He might be training for something.",
+     "answers": [
+      "He might be training for something."
+     ],
+     "explain": "might + be + -ing: posibilidad."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "I'm surprised, because he always eats pizza at lunch.",
+     "answers": [
+      "I'm surprised, because he always eats pizza at lunch.",
+      "I am surprised, because he always eats pizza at lunch."
+     ],
+     "explain": "Surprised (feeling) + because + reason."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Imagine you see an unknown person in a café with two suitcases and a bunch of flowers. Speculate about who they are and what they are doing there.",
+     "questions": [
+      "Who do you think this person is?",
+      "Where might he or she be going?",
+      "Why is he or she carrying flowers?",
+      "What can't this person be doing?"
+     ],
+     "model": "I think this person must be a traveler, because of the suitcases. The flowers could be for a family member, so she might be going to a wedding or a birthday. She can't be going to work, because nobody carries flowers to the office. She must have just arrived by bus, too.",
+     "checklist": [
+      "must / can't / might + be",
+      "At least one modal + have + participle",
+      "Reasons with because",
+      "Clear voice and natural pauses"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Tell about an experience in which you felt embarrassed, nervous or proud. Describe how you felt and what the situation was like.",
+     "questions": [
+      "When did you feel really embarrassed or proud?",
+      "What happened?",
+      "How did you feel?",
+      "Was the situation exciting, scary or frustrating?"
+     ],
+     "model": "Last year I gave a presentation at work. I was very nervous because the room was full of people. The beginning was frustrating, because the projector didn't work. But the end was amazing, and my boss said I did a great job. I was really proud of myself.",
+     "checklist": [
+      "-ed adjectives for your feelings",
+      "-ing adjectives for the situation",
+      "Correct prepositions (proud of)",
+      "Well-ordered simple past"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about a person or organization you admire because they improve other people's lives. Give your impression and your opinion.",
+     "questions": [
+      "Who or what organization do you admire?",
+      "What do they do?",
+      "What is your impression of their work?",
+      "Would you like to get involved?"
+     ],
+     "model": "I admire a local organization that teaches children to play music. My impression is that the teachers are very committed. In my opinion, music brings kids together and helps them overcome challenges. It seems to me that more people should support programs like this one, and I would love to volunteer.",
+     "checklist": [
+      "My impression is that…",
+      "In my opinion, …",
+      "It seems to me that…",
+      "Social commitment vocabulary"
+     ]
+    }
+   ],
+   "repeat": [
+    "That must be fun.",
+    "He can't be serious!",
+    "She might have missed the train.",
+    "I'm bored with my job, but my job isn't boring.",
+    "In my opinion, music brings kids together.",
+    "You see, I used to practice every morning."
+   ]
+  }
+ }
+}

@@ -1,0 +1,1704 @@
+{
+ "id": "u-c1-02",
+ "level": "C1",
+ "n": 2,
+ "title": "The future of work",
+ "goals": [
+  "Use the future perfect (simple and continuous) to talk about what will have happened, or what will have continued, up to a point in the future.",
+  "Use the future continuous for actions in progress in the future, and to ask politely about other people's plans.",
+  "Express what is imminent or scheduled with be about to, be due to, be on the verge of and be set to, without confusing them.",
+  "Grade the certainty of a prediction precisely (bound to, likely to, may well, unlikely to, there's every chance).",
+  "Talk about the working world with C1-level vocabulary: redundancy, freelance, burnout, upskill, gig economy.",
+  "Write predictions and proposals of 250 to 350 words about the future of work, in an analytical tone."
+ ],
+ "learn": [
+  {
+   "id": "g-fut-perfect",
+   "kind": "grammar",
+   "title": "Future perfect simple and continuous",
+   "html": "<p>This tense looks at the future “from ahead”: you place yourself at a point in the future and look back.</p><table><thead><tr><th>Form</th><th>Structure</th><th>Example</th><th>Nuance</th></tr></thead><tbody><tr><td>Future perfect simple</td><td>will have + past participle</td><td>By Friday I <strong>will have finished</strong> the report.</td><td>An action finished before that point.</td></tr><tr><td>Future perfect continuous</td><td>will have been + -ing</td><td>By June I <strong>will have been working</strong> here for ten years.</td><td>A duration that reaches up to that point; focus on the process.</td></tr></tbody></table><p><strong>Markers:</strong> <em>by</em> (+ time point), <em>by the time</em> (+ present clause), <em>by then</em>, <em>in two years' time</em>, <em>before long</em>. <em>By</em> means “no later than”; <em>until</em> means “up to” and describes a situation that continues: <em>I'll wait until Friday</em> versus <em>I'll finish it by Friday</em>.</p><p><strong>The time-clause trap:</strong> after <em>by the time, when, before, as soon as, once</em>, <strong>will is NOT used</strong>: <em>By the time I finish the degree, the market will have changed</em>. In Spanish, the subjunctive (“cuando termine”, “when I finish”) causes the opposite mistake: <em>when I will finish</em>.</p><p><strong>Other uses.</strong> The future perfect is also used to make a guess about the present or the very recent past, in a formal tone: <em>You will have heard the news by now.</em> Stative verbs do not usually take the continuous: <em>will have known</em>, not <em>will have been knowing</em>. In the negative there is a reading of “will not yet have…”: <em>They won't have finished by then.</em></p><p><strong>Simple or continuous:</strong> if you are interested in the result or the quantity, use the simple (<em>will have written 300 pages</em>); if the duration or the effort matters, use the continuous (<em>will have been writing for two years</em>).</p>",
+   "watch": [
+    {
+     "wrong": "By the time I will finish, they will have left.",
+     "right": "By the time I finish, they will have left.",
+     "why": "After by the time, the present simple is used, not will."
+    },
+    {
+     "wrong": "By next June I will work here for ten years.",
+     "right": "By next June I will have been working here for ten years.",
+     "why": "Duration up to a future point: future perfect (continuous)."
+    },
+    {
+     "wrong": "I will finish the report until Friday.",
+     "right": "I will finish the report by Friday.",
+     "why": "Until = up to (continuity); by = no later than."
+    },
+    {
+     "wrong": "By 2030 she will have been knowing him for years.",
+     "right": "By 2030 she will have known him for years.",
+     "why": "Know is a stative verb: it does not take the continuous."
+    }
+   ]
+  },
+  {
+   "id": "g-fut-cont",
+   "kind": "grammar",
+   "title": "Future continuous",
+   "html": "<p><strong>Form:</strong> will be + verb-ing. Negative: <em>won't be working</em>. Question: <em>Will you be working?</em></p><table><thead><tr><th>Use</th><th>Example</th><th>Nuance</th></tr></thead><tbody><tr><td>Action in progress at a future moment</td><td>This time tomorrow I'<strong>ll be flying</strong> to Lima.</td><td>It paints a scene: “I will be flying”.</td></tr><tr><td>Action that will happen in the normal course of things</td><td>The CEO <strong>will be announcing</strong> the results on Monday.</td><td>It sounds like something scheduled, not a spontaneous decision.</td></tr><tr><td>Polite question about someone else's plans</td><td><strong>Will you be using</strong> the projector this afternoon?</td><td>Friendlier than <em>Will you use…?</em>, which can sound like a request or a decision.</td></tr><tr><td>Something that will still be true in the future</td><td>In ten years many of us <strong>will still be working</strong> remotely.</td><td>With <em>still</em>, it stresses continuity.</td></tr></tbody></table><p><strong>Will versus will be -ing.</strong> <em>I'll call you</em> is a decision taken now; <em>I'll be calling you at six</em> is a plan or routine already arranged. For a strong personal intention, <em>I'm going to…</em> is preferred.</p><p><strong>Time clauses:</strong> just as with the future perfect, after <em>when, while, as, before</em> the present simple is used: <em>When you arrive, I'll be waiting.</em></p><p><strong>Stative verbs:</strong> stative verbs (know, understand, belong, own) do not take the continuous: <em>I'll know the results by Friday</em>.</p>",
+   "watch": [
+    {
+     "wrong": "This time tomorrow I will fly to Madrid.",
+     "right": "This time tomorrow I will be flying to Madrid.",
+     "why": "An action in progress at a specific future moment: future continuous."
+    },
+    {
+     "wrong": "When you will arrive, I will be waiting.",
+     "right": "When you arrive, I will be waiting.",
+     "why": "In a when clause, the present simple is used."
+    },
+    {
+     "wrong": "I'll be knowing the results by Friday.",
+     "right": "I'll know the results by Friday.",
+     "why": "Know is a stative verb: it is not used in the continuous."
+    },
+    {
+     "wrong": "Will you use the car tonight? (a polite question to a roommate)",
+     "right": "Will you be using the car tonight?",
+     "why": "“Will you use…?” sounds like a request or like demanding a plan; the continuous is neutral and polite."
+    }
+   ]
+  },
+  {
+   "id": "g-near-future",
+   "kind": "grammar",
+   "title": "be about to, be due to, be on the verge of, be set to",
+   "html": "<p>Four ways to talk about what is about to happen, but each one says something different.</p><table><thead><tr><th>Structure</th><th>Nuance</th><th>Example</th></tr></thead><tbody><tr><td><strong>be about to</strong> + base</td><td>Imminent, in the next few moments. It does not take a future time expression.</td><td>Hurry up, the film is <strong>about to</strong> start.</td></tr><tr><td><strong>be due to</strong> + base</td><td>Scheduled or expected according to a timetable or plan.</td><td>The new policy is <strong>due to</strong> come into effect in January.</td></tr><tr><td><strong>be on the verge of</strong> + -ing / noun</td><td>On the brink of something important or dramatic (positive or negative).</td><td>The firm is <strong>on the verge of</strong> bankruptcy. / She was <strong>on the verge of</strong> resigning.</td></tr><tr><td><strong>be set to</strong> / <strong>be poised to</strong> + base</td><td>Everything is ready for it; journalistic and formal style.</td><td>Unemployment is <strong>set to</strong> rise next year.</td></tr></tbody></table><p><strong>Watch the preposition.</strong> <em>Be due to</em> + base (“is scheduled to”) is not the same as the preposition <em>due to</em> + noun (“because of”): <em>The delay was due to a strike</em>. And <em>on the verge of</em> takes -ing or a noun, never an infinitive.</p><p><strong>About to and past tenses.</strong> <em>I was about to call you when…</em> (“I was on the point of calling you when…”) is used for interrupted or avoided actions. English has no single general expression for this, so it requires a choice: <em>about to</em> (seconds), <em>on the verge of</em> (critical moment), <em>due to</em> (timetable).</p>",
+   "watch": [
+    {
+     "wrong": "The plane is about to land in ten minutes.",
+     "right": "The plane is due to land in ten minutes.",
+     "why": "About to does not take a future time frame; for something scheduled, use due to."
+    },
+    {
+     "wrong": "He's on the verge to resign.",
+     "right": "He's on the verge of resigning.",
+     "why": "On the verge of + -ing, not an infinitive."
+    },
+    {
+     "wrong": "The law is due to being passed next year.",
+     "right": "The law is due to be passed next year.",
+     "why": "Be due to + infinitive (here in the passive: to be passed)."
+    },
+    {
+     "wrong": "I'm about to leaving.",
+     "right": "I'm about to leave.",
+     "why": "About to + base form, without -ing."
+    }
+   ]
+  },
+  {
+   "id": "g-certainty",
+   "kind": "grammar",
+   "title": "Degrees of certainty in predictions",
+   "html": "<p>Predicting well in English is not just a matter of using <em>will</em>. There is a scale of certainty, and each point has its own structures.</p><table><thead><tr><th>Degree</th><th>Structures</th><th>Example</th></tr></thead><tbody><tr><td>Almost certain</td><td>will definitely / is bound to / is sure (certain) to / there is no doubt that</td><td>Automation is <strong>bound to</strong> change logistics.</td></tr><tr><td>Probable</td><td>will probably / is likely to / in all likelihood / is set to</td><td>Many offices <strong>are likely to</strong> adopt hybrid schedules.</td></tr><tr><td>Possible</td><td>may / might / could (well) / there's a chance that</td><td>The company <strong>may well</strong> relocate.</td></tr><tr><td>Unlikely</td><td>is unlikely to / is hardly likely to / I doubt whether / there's little chance that</td><td>The four-day week <strong>is unlikely to</strong> reach every sector.</td></tr></tbody></table><p><strong>Nuances.</strong> <em>May well</em> and <em>might well</em> raise the probability compared with <em>may</em> and <em>might</em>. <em>Likely</em> is used with <em>be likely to + base</em> or <em>it is likely that…</em>; there is no *<em>be probable to</em>*: one says <em>it is probable that…</em> (formal) or <em>will probably</em>. <em>Bound to</em> expresses an almost logical consequence (<em>She's bound to get the job</em>).</p><p><strong>Adverb position.</strong> With <em>will</em>, the adverb goes before the main verb: <em>will probably / definitely go</em>; in the negative it goes before the auxiliary: <em>probably won't</em>. <em>Perhaps</em> and <em>maybe</em> go at the beginning.</p><p><strong>Caution.</strong> In academic and journalistic texts, <em>is expected to, is projected to, is forecast to</em> and phrases such as <em>there is every chance that</em> are preferred. Note: after <em>doubt</em> in an affirmative sentence we use <em>whether/that</em>: <em>I doubt that many will return</em>. Avoid adding a negative after doubt, as happens in literal translations: I doubt that many won't return is misleading.</p>",
+   "watch": [
+    {
+     "wrong": "AI is bound replace many routine jobs.",
+     "right": "AI is bound to replace many routine jobs.",
+     "why": "Be bound to + base."
+    },
+    {
+     "wrong": "Robots are probable to take over routine tasks.",
+     "right": "Robots are likely to take over routine tasks.",
+     "why": "Be probable to does not exist: use be likely to or will probably."
+    },
+    {
+     "wrong": "She may well to change her mind.",
+     "right": "She may well change her mind.",
+     "why": "May well + base, without to."
+    },
+    {
+     "wrong": "He will for sure to get the contract.",
+     "right": "He will definitely get the contract.",
+     "why": "Certainty adverbs go before the verb; no to after will."
+    }
+   ]
+  },
+  {
+   "id": "v-workplace",
+   "kind": "vocab",
+   "title": "The modern workplace",
+   "words": [
+    {
+     "id": "w-redundancy",
+     "en": "redundancy / be made redundant",
+     "es": "despido por reducción de plantilla / ser despedido",
+     "example": "Three hundred employees were made redundant after the merger."
+    },
+    {
+     "id": "w-lay-off",
+     "en": "lay sb off",
+     "es": "despedir (por recorte)",
+     "example": "The factory laid off half its workforce.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-freelance",
+     "en": "freelance",
+     "es": "trabajador independiente",
+     "example": "She went freelance after ten years in advertising."
+    },
+    {
+     "id": "w-burnout",
+     "en": "burnout",
+     "es": "agotamiento laboral",
+     "example": "Long hours and no breaks led to burnout."
+    },
+    {
+     "id": "w-upskill",
+     "en": "upskill / reskill",
+     "es": "actualizar / reconvertir las habilidades",
+     "example": "Firms must upskill staff as technology changes."
+    },
+    {
+     "id": "w-gig-economy",
+     "en": "the gig economy",
+     "es": "economía de trabajos esporádicos",
+     "example": "Many drivers work in the gig economy with no job security.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-remote-work",
+     "en": "remote / hybrid working",
+     "es": "trabajo remoto / híbrido",
+     "example": "Hybrid working gives staff flexibility.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-workload",
+     "en": "workload",
+     "es": "carga de trabajo",
+     "example": "My workload has doubled since March."
+    },
+    {
+     "id": "w-work-life-balance",
+     "en": "work-life balance",
+     "es": "equilibrio entre trabajo y vida personal",
+     "example": "A good work-life balance is now a priority for many graduates.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-probation",
+     "en": "probation period",
+     "es": "periodo de prueba",
+     "example": "New staff are on a three-month probation period.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-severance",
+     "en": "severance pay",
+     "es": "indemnización por despido",
+     "example": "She received six months' severance pay.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-appraisal",
+     "en": "appraisal",
+     "es": "evaluación de desempeño",
+     "example": "Annual appraisals set salary increases."
+    },
+    {
+     "id": "w-headhunt",
+     "en": "headhunt",
+     "es": "reclutar (talento) de otra empresa",
+     "example": "She was headhunted by a rival firm."
+    },
+    {
+     "id": "w-downsizing",
+     "en": "downsizing",
+     "es": "reducción de plantilla",
+     "example": "Downsizing hit the retail sector hardest."
+    }
+   ]
+  },
+  {
+   "id": "v-career",
+   "kind": "vocab",
+   "title": "Career collocations",
+   "words": [
+    {
+     "id": "w-career-ladder",
+     "en": "climb the career ladder",
+     "es": "ascender profesionalmente",
+     "example": "She climbed the career ladder faster than anyone expected.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-career-prospects",
+     "en": "career prospects",
+     "es": "perspectivas profesionales",
+     "example": "Speaking another language improves your career prospects.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-career-break",
+     "en": "a career break",
+     "es": "un paréntesis profesional",
+     "example": "He took a career break to care for his father.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-dead-end-job",
+     "en": "a dead-end job",
+     "es": "un trabajo sin futuro",
+     "example": "She felt stuck in a dead-end job.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pursue-career",
+     "en": "pursue / launch / build a career",
+     "es": "dedicarse a / lanzar / construir una carrera",
+     "example": "He moved to Madrid to pursue a career in film.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-career-path",
+     "en": "career path",
+     "es": "trayectoria profesional",
+     "example": "There's no clear career path in this industry.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-promising-career",
+     "en": "a promising / glittering career",
+     "es": "una carrera prometedora / brillante",
+     "example": "An injury ended a promising football career.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-cut-short",
+     "en": "cut a career short",
+     "es": "truncar una carrera",
+     "example": "An accident cut his career short.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-change-careers",
+     "en": "change careers / a career change",
+     "es": "cambiar de carrera / un cambio de carrera",
+     "example": "Changing careers at forty can be daunting.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-career-move",
+     "en": "a smart career move",
+     "es": "una decisión profesional inteligente",
+     "example": "Joining the start-up was a smart career move.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-stalled",
+     "en": "a stalled career",
+     "es": "una carrera estancada",
+     "example": "A stalled career can be restarted with new skills.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-career-defining",
+     "en": "career-defining",
+     "es": "que marca una carrera",
+     "example": "It was a career-defining project."
+    }
+   ]
+  },
+  {
+   "id": "v-automation",
+   "kind": "vocab",
+   "title": "Technology and the labour market",
+   "words": [
+    {
+     "id": "w-automation",
+     "en": "automation",
+     "es": "automatización",
+     "example": "Automation is changing manufacturing."
+    },
+    {
+     "id": "w-algorithm",
+     "en": "algorithm",
+     "es": "algoritmo",
+     "example": "An algorithm now screens most job applications.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-displace",
+     "en": "displace workers",
+     "es": "desplazar trabajadores",
+     "example": "Machines may displace thousands of workers.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-obsolete",
+     "en": "obsolete",
+     "es": "obsoleto",
+     "example": "Some skills become obsolete within a decade."
+    },
+    {
+     "id": "w-skill-set",
+     "en": "skill set",
+     "es": "conjunto de habilidades",
+     "example": "Her skill set is perfect for the role.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-transferable",
+     "en": "transferable skills",
+     "es": "habilidades transferibles",
+     "example": "Teaching gives you transferable skills.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-workforce",
+     "en": "workforce",
+     "es": "plantilla, fuerza laboral",
+     "example": "The workforce is ageing.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-labour-market",
+     "en": "labour market",
+     "es": "mercado laboral",
+     "example": "The labour market is increasingly competitive.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-productivity",
+     "en": "productivity",
+     "es": "productividad",
+     "example": "Productivity rose despite the shorter week.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-digital-nomad",
+     "en": "digital nomad",
+     "es": "nómada digital",
+     "example": "Digital nomads work from beaches and cafés.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-safety-net",
+     "en": "safety net",
+     "es": "red de seguridad",
+     "example": "Gig workers often have no safety net.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-roll-out",
+     "en": "roll out (a scheme)",
+     "es": "implantar (un programa)",
+     "example": "The company plans to roll out the scheme nationwide.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "e-predict",
+   "kind": "expressions",
+   "title": "Functions: predicting and grading certainty",
+   "html": "<ul><li><strong>Almost certain:</strong> <em>There's no doubt that… / It's bound to… / I'm convinced that… will…</em></li><li><strong>Probable:</strong> <em>It's highly likely that… / In all likelihood… / I'd expect… to…</em></li><li><strong>Possible:</strong> <em>It could well… / There's a fair chance that… / It's entirely possible that…</em></li><li><strong>Unlikely:</strong> <em>It's unlikely that… / I doubt whether… / There's little prospect of…</em></li><li><strong>Timeframes and projections:</strong> <em>By 2040, … will have… / Within a decade, … / In the long run, … / Sooner or later…</em></li><li><strong>Introducing caution:</strong> <em>It remains to be seen whether… / Only time will tell. / That said, … / Having said that, …</em></li><li><strong>Talking about what is imminent:</strong> <em>The firm is on the verge of… / The deal is due to be signed… / We're about to…</em></li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Future perfect",
+   "instructions": "Complete, choose or correct using the future perfect.",
+   "topic": "g-fut-perfect",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "By the time you read this, I ___ (leave) the country.",
+     "answers": [
+      "will have left",
+      "'ll have left"
+     ],
+     "explain": "Action finished before a future point: will have + past participle."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "By 2030, this company ___ (operate) for fifty years.",
+     "answers": [
+      "will have been operating",
+      "will have operated",
+      "'ll have been operating",
+      "'ll have operated"
+     ],
+     "explain": "Duration up to a future point: future perfect (continuous or simple)."
+    },
+    {
+     "id": "A3",
+     "type": "choice",
+     "prompt": "I'll send you the draft ___ Friday.",
+     "options": [
+      "until",
+      "by",
+      "for"
+     ],
+     "answer": 1,
+     "explain": "By = no later than; until = up to."
+    },
+    {
+     "id": "A4",
+     "type": "fix",
+     "prompt": "By the time I will finish my degree, the job market will have changed.",
+     "answers": [
+      "By the time I finish my degree, the job market will have changed.",
+      "By the time I finish my degree the job market will have changed."
+     ],
+     "explain": "After by the time, the present simple is used."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "By the time she gets here, the meeting will have ended.",
+      "By the time she will get here, the meeting will have ended.",
+      "By the time she gets here, the meeting will ended."
+     ],
+     "answer": 0,
+     "explain": "Present simple after by the time + will have + past participle."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "By this time next month, they ___ (not / finish) the merger.",
+     "answers": [
+      "won't have finished",
+      "will not have finished"
+     ],
+     "explain": "Negative: won't have + past participle."
+    },
+    {
+     "id": "A7",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "By",
+      "the",
+      "time",
+      "we",
+      "retire",
+      "robots",
+      "will",
+      "have",
+      "taken",
+      "over",
+      "routine",
+      "work"
+     ],
+     "answers": [
+      "By the time we retire, robots will have taken over routine work.",
+      "By the time we retire robots will have taken over routine work."
+     ],
+     "explain": "By the time + present simple, will have + past participle."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Future continuous",
+   "instructions": "Complete, choose or correct using the future continuous.",
+   "topic": "g-fut-cont",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "This time next week, I ___ (lie) on a beach in Cancún.",
+     "answers": [
+      "will be lying",
+      "'ll be lying"
+     ],
+     "explain": "Action in progress at a future moment: will be + -ing."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "Which is the most polite way to ask about someone's plans?",
+     "options": [
+      "Will you use the projector at three?",
+      "Will you be using the projector at three?",
+      "Are you going to use the projector at three, then?"
+     ],
+     "answer": 1,
+     "explain": "The future continuous sounds neutral and polite."
+    },
+    {
+     "id": "B3",
+     "type": "fix",
+     "prompt": "When you will arrive tomorrow, I'll be waiting at the gate.",
+     "answers": [
+      "When you arrive tomorrow, I'll be waiting at the gate.",
+      "When you arrive tomorrow, I will be waiting at the gate."
+     ],
+     "explain": "After when, the present simple is used."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "Don't phone at eight; we ___ (have) dinner.",
+     "answers": [
+      "will be having",
+      "'ll be having"
+     ],
+     "explain": "Action in progress at a future moment: will be having."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "Which sentence expresses a decision made at the moment of speaking?",
+     "options": [
+      "I'll be calling her now.",
+      "I'll call her now.",
+      "I'll have called her now."
+     ],
+     "answer": 1,
+     "explain": "Spontaneous decisions take will + base."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "I'll be knowing the results by Friday.",
+     "answers": [
+      "I'll know the results by Friday.",
+      "I will know the results by Friday."
+     ],
+     "explain": "Know is a stative verb: it is not used in the continuous."
+    },
+    {
+     "id": "B7",
+     "type": "gap",
+     "prompt": "In twenty years, many of us ___ (still / work), whether we like it or not.",
+     "answers": [
+      "will still be working",
+      "'ll still be working"
+     ],
+     "explain": "Continuity in the future: will still be working."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "be about to, due to, on the verge of",
+   "instructions": "Choose the structure that best expresses the nuance.",
+   "topic": "g-near-future",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "I was just ___ to call you when you walked in.",
+     "options": [
+      "about",
+      "due",
+      "set"
+     ],
+     "answer": 0,
+     "explain": "Imminent and interrupted: was about to."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "The first phase of the project is ___ to be completed by March.",
+     "answers": [
+      "due",
+      "set"
+     ],
+     "explain": "Scheduled: is due to / is set to."
+    },
+    {
+     "id": "C3",
+     "type": "choice",
+     "prompt": "After years of losses, the firm is on the verge ___ bankruptcy.",
+     "options": [
+      "of",
+      "to",
+      "for"
+     ],
+     "answer": 0,
+     "explain": "On the verge of + noun or -ing."
+    },
+    {
+     "id": "C4",
+     "type": "fix",
+     "prompt": "The train is about to arrive in ten minutes.",
+     "answers": [
+      "The train is due to arrive in ten minutes.",
+      "The train is due in ten minutes.",
+      "The train will arrive in ten minutes.",
+      "The train is set to arrive in ten minutes.",
+      "The train is about to arrive."
+     ],
+     "explain": "About to takes no future time frame; with an estimated time, use due to."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "She was on the verge to quit when the offer arrived.",
+     "answers": [
+      "She was on the verge of quitting when the offer arrived."
+     ],
+     "explain": "On the verge of + -ing."
+    },
+    {
+     "id": "C6",
+     "type": "gap",
+     "prompt": "Sorry, I can't talk: I'm just ___ to go into a meeting.",
+     "answers": [
+      "about"
+     ],
+     "explain": "Imminent: be about to."
+    },
+    {
+     "id": "C7",
+     "type": "choice",
+     "prompt": "Which sentence describes something scheduled?",
+     "options": [
+      "The report is due to be published next week.",
+      "The report is on the verge of being published next week.",
+      "The report is about to be published next week."
+     ],
+     "answer": 0,
+     "explain": "Scheduled with a deadline: due to."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Degrees of certainty",
+   "instructions": "Choose or correct according to the degree of certainty expressed.",
+   "topic": "g-certainty",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "Which is the strongest prediction?",
+     "options": [
+      "Automation might replace some jobs.",
+      "Automation is bound to replace some jobs.",
+      "Automation could possibly replace some jobs."
+     ],
+     "answer": 1,
+     "explain": "Be bound to expresses almost certainty."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "Remote work is here to stay; most companies are ___ to keep some form of it.",
+     "answers": [
+      "likely",
+      "sure",
+      "bound",
+      "certain",
+      "set"
+     ],
+     "explain": "Be likely / sure / bound / certain to + base."
+    },
+    {
+     "id": "D3",
+     "type": "fix",
+     "prompt": "Robots are probable to replace cashiers.",
+     "answers": [
+      "Robots are likely to replace cashiers.",
+      "Robots will probably replace cashiers."
+     ],
+     "explain": "Be probable to does not exist: be likely to or will probably."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "I ___ whether many people will choose to work five days a week in the future.",
+     "options": [
+      "doubt",
+      "think",
+      "expect"
+     ],
+     "answer": 0,
+     "explain": "Doubt whether… expresses improbability."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "She ___ well get promoted, but nothing is certain yet.",
+     "answers": [
+      "may",
+      "might",
+      "could"
+     ],
+     "explain": "May / might / could well + base: quite possible."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "Which is the weakest prediction?",
+     "options": [
+      "There's a slim chance the factory will reopen.",
+      "The factory is certain to reopen.",
+      "The factory will definitely reopen."
+     ],
+     "answer": 0,
+     "explain": "Slim chance expresses a low probability."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "He will for sure to get the contract.",
+     "answers": [
+      "He will definitely get the contract.",
+      "He is sure to get the contract.",
+      "He will surely get the contract.",
+      "He's sure to get the contract.",
+      "He will for sure get the contract."
+     ],
+     "explain": "Will + base, without to; definitely goes before the verb."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "The modern workplace",
+   "instructions": "Complete with the correct term.",
+   "topic": "v-workplace",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "After the merger, 300 employees were made ___.",
+     "answers": [
+      "redundant"
+     ],
+     "explain": "Be made redundant: to lose one's job because of cutbacks."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "After years of working eighty-hour weeks, she suffered ___ and had to take three months off.",
+     "options": [
+      "burnout",
+      "redundancy",
+      "probation"
+     ],
+     "answer": 0,
+     "explain": "Burnout: exhaustion caused by work."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "Taking evening courses is a smart way to ___ before your industry changes.",
+     "answers": [
+      "upskill",
+      "reskill"
+     ],
+     "explain": "Upskill / reskill: to update one's skills."
+    },
+    {
+     "id": "E4",
+     "type": "choice",
+     "prompt": "He quit his corporate job to become a ___ translator, working for different clients.",
+     "options": [
+      "freelance",
+      "redundant",
+      "probationary"
+     ],
+     "answer": 0,
+     "explain": "Freelance: self-employed."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "Employees on a six-month ___ period can be dismissed with little notice.",
+     "answers": [
+      "probation"
+     ],
+     "explain": "Probation period: trial period."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "The firm plans to ___ about 10% of its workforce next quarter.",
+     "options": [
+      "lay off",
+      "lay out",
+      "lay down"
+     ],
+     "answer": 0,
+     "explain": "Lay off: to dismiss staff because of cutbacks."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "Her work-life ___ improved once she started working from home.",
+     "answers": [
+      "balance"
+     ],
+     "explain": "Work-life balance."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Career collocations",
+   "instructions": "Complete or choose the correct collocation.",
+   "topic": "v-career",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "She took a two-year career ___ to travel and then returned to work.",
+     "answers": [
+      "break"
+     ],
+     "explain": "A career break: a pause in one's professional life."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "He felt stuck in a ___ job with no prospects of promotion.",
+     "options": [
+      "dead-end",
+      "dead-weight",
+      "deadline"
+     ],
+     "answer": 0,
+     "explain": "Dead-end job: a job with no prospects of advancement."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "Many graduates hope to ___ a career in renewable energy.",
+     "answers": [
+      "pursue",
+      "launch",
+      "build"
+     ],
+     "explain": "Pursue / launch / build a career."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "She's climbing the career ___ faster than anyone expected.",
+     "options": [
+      "ladder",
+      "stairs",
+      "road"
+     ],
+     "answer": 0,
+     "explain": "Climb the career ladder."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "A knee injury cut his football career ___.",
+     "answers": [
+      "short"
+     ],
+     "explain": "Cut a career short: to end it prematurely."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "Changing careers at forty can be daunting, but it opened up new ___.",
+     "options": [
+      "prospects",
+      "prospectus",
+      "previews"
+     ],
+     "answer": 0,
+     "explain": "Prospects: future opportunities."
+    },
+    {
+     "id": "F7",
+     "type": "fix",
+     "prompt": "He climbed the career stairs very quickly.",
+     "answers": [
+      "He climbed the career ladder very quickly."
+     ],
+     "explain": "The correct collocation is career ladder."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "By",
+      "the",
+      "time",
+      "you",
+      "arrive",
+      "we",
+      "will",
+      "have",
+      "finished",
+      "the",
+      "presentation"
+     ],
+     "answers": [
+      "By the time you arrive, we will have finished the presentation.",
+      "By the time you arrive we will have finished the presentation.",
+      "By the time you arrive, we'll have finished the presentation."
+     ],
+     "explain": "By the time + present, will have + past participle."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "This",
+      "time",
+      "next",
+      "year",
+      "I'll",
+      "be",
+      "working",
+      "for",
+      "a",
+      "start-up"
+     ],
+     "answers": [
+      "This time next year I'll be working for a start-up.",
+      "This time next year I will be working for a start-up."
+     ],
+     "explain": "Future continuous: action in progress at a future moment."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "The",
+      "company",
+      "is",
+      "on",
+      "the",
+      "verge",
+      "of",
+      "laying",
+      "off",
+      "half",
+      "its",
+      "staff"
+     ],
+     "answers": [
+      "The company is on the verge of laying off half its staff."
+     ],
+     "explain": "On the verge of + -ing."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "Self-driving",
+      "trucks",
+      "are",
+      "bound",
+      "to",
+      "change",
+      "the",
+      "logistics",
+      "industry"
+     ],
+     "answers": [
+      "Self-driving trucks are bound to change the logistics industry."
+     ],
+     "explain": "Be bound to + base."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "The",
+      "new",
+      "policy",
+      "is",
+      "due",
+      "to",
+      "come",
+      "into",
+      "effect",
+      "in",
+      "January"
+     ],
+     "answers": [
+      "The new policy is due to come into effect in January."
+     ],
+     "explain": "Be due to + base: something scheduled."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a question.",
+     "words": [
+      "Will",
+      "you",
+      "be",
+      "using",
+      "the",
+      "meeting",
+      "room",
+      "this",
+      "afternoon"
+     ],
+     "answers": [
+      "Will you be using the meeting room this afternoon?"
+     ],
+     "explain": "Polite question with the future continuous."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English using the most natural structure.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Para finales de año, habré trabajado aquí diez años.",
+     "answers": [
+      "By the end of the year, I will have worked here for ten years.",
+      "By the end of the year I will have worked here for ten years.",
+      "By the end of the year, I'll have worked here for ten years.",
+      "By the end of the year I'll have worked here for ten years.",
+      "By the end of the year, I will have been working here for ten years.",
+      "By the end of the year I will have been working here for ten years.",
+      "By the end of the year, I'll have been working here for ten years.",
+      "By the end of the year I'll have been working here for ten years."
+     ],
+     "explain": "Duration up to a future point: future perfect."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Mañana a esta hora estaré volando a Nueva York.",
+     "answers": [
+      "This time tomorrow I'll be flying to New York.",
+      "This time tomorrow I will be flying to New York.",
+      "Tomorrow at this time I'll be flying to New York.",
+      "Tomorrow at this time I will be flying to New York.",
+      "This time tomorrow, I'll be flying to New York.",
+      "This time tomorrow, I will be flying to New York."
+     ],
+     "explain": "Action in progress at a future moment: future continuous."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "La empresa está a punto de anunciar despidos masivos.",
+     "answers": [
+      "The company is about to announce mass layoffs.",
+      "The company is on the verge of announcing mass layoffs.",
+      "The company is about to announce mass redundancies.",
+      "The company is on the verge of announcing mass redundancies.",
+      "The firm is about to announce mass layoffs.",
+      "The firm is on the verge of announcing mass layoffs.",
+      "The company is about to announce large-scale layoffs."
+     ],
+     "explain": "Imminent: about to; critical moment: on the verge of."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Es muy probable que la automatización elimine muchos empleos de oficina.",
+     "answers": [
+      "Automation is very likely to eliminate many office jobs.",
+      "It is very likely that automation will eliminate many office jobs.",
+      "It's very likely that automation will eliminate many office jobs.",
+      "Automation will very probably eliminate many office jobs.",
+      "Automation will most likely eliminate many office jobs.",
+      "Automation is highly likely to eliminate many office jobs.",
+      "It is highly likely that automation will eliminate many office jobs."
+     ],
+     "explain": "High probability: be (very) likely to / will probably."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Dudo que la semana laboral de cuatro días se generalice pronto.",
+     "answers": [
+      "I doubt that the four-day working week will become widespread soon.",
+      "I doubt whether the four-day working week will become widespread soon.",
+      "I doubt that the four-day work week will become widespread soon.",
+      "I doubt whether the four-day work week will become widespread soon.",
+      "I doubt the four-day working week will become widespread soon.",
+      "I doubt the four-day work week will become widespread soon.",
+      "I doubt that the four-day working week will become widespread any time soon.",
+      "I doubt that the four-day work week will become widespread any time soon."
+     ],
+     "explain": "Doubt that/whether + will; the negation is not doubled."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Se espera que el informe se publique el lunes.",
+     "answers": [
+      "The report is due to be published on Monday.",
+      "The report is set to be published on Monday.",
+      "The report is expected to be published on Monday.",
+      "The report is due out on Monday.",
+      "The report is due to be published Monday."
+     ],
+     "explain": "Scheduled or expected: due to / set to + be + past participle."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (the last two review unit 1).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "By the time he retires, he ___ at the same hospital for forty years.",
+     "options": [
+      "will have been working",
+      "will be working",
+      "would have worked"
+     ],
+     "answer": 0,
+     "explain": "Duration up to a future point: will have been working."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Don't call me at seven; I ___ (pick up) my kids from school.",
+     "answers": [
+      "will be picking up",
+      "'ll be picking up"
+     ],
+     "explain": "Action in progress at a future moment: will be picking up."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "The firm is on the verge to collapse.",
+     "answers": [
+      "The firm is on the verge of collapse.",
+      "The firm is on the verge of collapsing."
+     ],
+     "explain": "On the verge of + noun or -ing."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "Experts say unemployment ___ to rise next year.",
+     "options": [
+      "is set",
+      "is about",
+      "is verge"
+     ],
+     "answer": 0,
+     "explain": "Be set to: scheduled (journalistic style)."
+    },
+    {
+     "id": "M5",
+     "type": "translate",
+     "prompt": "Me despidieron en marzo (por recorte de personal).",
+     "answers": [
+      "I was made redundant in March.",
+      "I was laid off in March.",
+      "I got laid off in March.",
+      "I was made redundant last March.",
+      "I was laid off last March."
+     ],
+     "explain": "Be made redundant / be laid off."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "Without upskilling, many workers could well find their skills ___ within a decade.",
+     "answers": [
+      "obsolete",
+      "outdated",
+      "redundant"
+     ],
+     "explain": "Obsolete: out of date."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "I will finish it until Monday.",
+      "I will have finished it by Monday.",
+      "I will have finish it by Monday."
+     ],
+     "answer": 1,
+     "explain": "Will have + past participle + by."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "There's every ___ that remote work will remain popular.",
+     "answers": [
+      "chance",
+      "likelihood",
+      "possibility",
+      "prospect"
+     ],
+     "explain": "There's every chance that…: very likely."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "She wasn't used to working from home, but she ___ used to it quickly. (unit 1 review)",
+     "answers": [
+      "got",
+      "gotten"
+     ],
+     "explain": "Get used to: the process of becoming accustomed."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "When I finally quit, I ___ (work) there for eleven years. (unit 1 review)",
+     "answers": [
+      "had been working",
+      "'d been working",
+      "had worked",
+      "'d worked"
+     ],
+     "explain": "Duration before a past moment: had been working."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write an essay of 250-350 words predicting how your profession (or one you know well) will look in 2040. Use different degrees of certainty, mention at least one factor like automation, remote work or reskilling, and refer to what will have changed by then and what will still be happening. Organise your ideas into 3-4 paragraphs with a clear opening and conclusion.",
+   "targets": [
+    "future perfect",
+    "future continuous",
+    "degrees of certainty",
+    "work vocabulary",
+    "essay organization"
+   ],
+   "checklist": [
+    "250-350 words in 3-4 paragraphs, with an introduction and a conclusion",
+    "At least one future perfect (simple or continuous) with by 2040 or by then",
+    "At least one future continuous (will still be -ing)",
+    "Three different degrees of certainty (bound to, likely to, may well, unlikely to)",
+    "Five work-related vocabulary items (redundancy, upskill, workforce, labour market...)",
+    "Present simple after by the time / when / before",
+    "Hedging connectors (That said, It remains to be seen...)"
+   ],
+   "model": "By 2040, the teaching profession will look very different from the one I joined fifteen years ago. Few people doubt that technology will reshape the classroom, but the real question is how far it will change what teachers actually do.\n\nAutomation is bound to take over much of the routine work. By the time today's primary pupils leave school, adaptive software will have taken over most marking and basic exercises, which will free teachers to concentrate on discussion, mentoring and creativity. Remote work is likely to become standard for certain tasks too: lesson planning and parent meetings will probably be held online, and some specialist subjects may well be taught by experts connecting from the other side of the world. That said, it is unlikely that machines will replace the human relationship at the heart of learning.\n\nThe labour market will also demand constant reskilling. By 2040 the average teacher will have retrained at least twice, and many will be upskilling every summer in data analysis and digital pedagogy. Schools that fail to invest in their workforce may face redundancies, while those that adapt will attract the best graduates. It remains to be seen whether governments will fund this transition fairly.\n\nEven so, some things will not have changed. Teachers will still be managing restless teenagers, and they will still be answering questions that no algorithm anticipated. When the next generation of pupils arrives, they will be looking for someone who notices when they are struggling. In short, technology will transform the tools of the profession, but the heart of it will remain stubbornly human."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a formal email of 250-350 words to the Human Resources director of a company proposing a reskilling programme for employees whose tasks are likely to be automated. Explain the situation, make predictions with appropriate caution, say what the company is about to do or is due to do, and propose three concrete steps.",
+   "targets": [
+    "be about to / be due to / be on the verge of",
+    "cautious predictions",
+    "formal register",
+    "work vocabulary",
+    "future perfect and continuous"
+   ],
+   "checklist": [
+    "250-350 words with a formal greeting, body and sign-off",
+    "A structure for an imminent or scheduled future (be due to, be set to, be on the verge of)",
+    "Two predictions with different degrees of certainty",
+    "A well-formed future perfect or future continuous",
+    "Vocabulary: upskill, redundancy, workforce, skill set, transferable skills",
+    "Three concrete proposals, clearly numbered or linked",
+    "Formal tone, without excessive contractions and without by/until errors"
+   ],
+   "model": "Dear Ms Alvarez,\n\nI am writing to propose a reskilling programme for employees whose roles are likely to be automated over the coming years.\n\nAs you are aware, our company is due to introduce automated invoicing and customer-service tools in the third quarter, and the finance department is on the verge of a significant restructuring. Our competitors have already moved in this direction. It is almost certain that routine data entry will have disappeared from most departments by the end of 2027, and it is quite possible that further tasks will follow. We should therefore not wait until redundancies become unavoidable.\n\nI would like to suggest three concrete steps. First, we could carry out a skills audit across the workforce to identify which tasks are most exposed and which transferable skills each employee already possesses, so that every skill set can be matched against future needs. Second, we might establish a six-month upskilling programme, delivered partly online and partly during working hours, in areas such as data analysis, project coordination and client relations. Third, we should create an internal mobility scheme, so that those who complete the programme are given priority when new positions open.\n\nI appreciate that such an initiative requires investment. Nevertheless, retraining existing staff is likely to prove considerably cheaper than recruiting and training replacements, and it would help us retain valuable knowledge. By this time next year, we could be running the first cohort, and the company will have demonstrated its commitment to its people.\n\nI would welcome the opportunity to discuss these proposals in more detail at your convenience, and I can prepare a costed outline if that would be helpful.\n\nYours sincerely,\n\nDaniel Reyes\nOperations Analyst"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The Quiet Revolution at Halden & Moss",
+   "intro": "Read the feature article and answer the questions.",
+   "paragraphs": [
+    "When the logistics firm Halden & Moss announced, last spring, that it was on the verge of scrapping the five-day week, most of its competitors assumed it was a publicity stunt. Six months on, nobody is laughing. The trial, which was due to end in September, has been extended until the end of the year, and the managers who were the most sceptical are now among its strongest defenders.",
+    "The arrangement is simple. Staff work four days, keep their full salary and are expected to deliver the same results. There is, inevitably, a catch: meetings have been slashed, email is discouraged after five and employees are asked to map out their week in advance. Priya Nair, who heads the operations team, admits she was about to hand in her notice when the scheme was introduced. 'I had been working sixty-hour weeks for three years,' she says. 'I was on autopilot. By the time the trial started, I'd more or less forgotten what a free Friday felt like.'",
+    "The early figures are encouraging. Sick leave has fallen by nearly a third, and the number of resignations is down. Productivity, the metric that sceptics were most keen to cite, has barely moved, which, the company argues, is precisely the point. Yet researchers who study working patterns urge caution. A trial run by a motivated firm, they point out, is bound to produce rosier results than a nationwide rollout, because the staff know they are being watched and are therefore inclined to behave well. 'It may well work for knowledge-based roles,' says labour economist Dr Tomás Ibarra. 'Whether it will work for a hospital ward or a factory floor is a different question.'",
+    "Automation complicates the picture further. Halden & Moss has quietly introduced software that handles invoicing and scheduling, tasks that used to occupy a team of six. Rather than laying those employees off, the firm has offered them retraining, and most have accepted. 'Nobody will have the same job in ten years' time,' admits the chief executive, Marguerite Holt. 'The question is whether we'll still be employing the same people, and I'd like to think we will. The alternative is a workforce that wakes up one morning to find its skills obsolete.'",
+    "Critics remain unconvinced that such generosity can last. If a downturn arrives, they argue, even the most progressive employers will be tempted to cut costs by cutting staff. Others fear a two-tier labour market in which well-paid professionals enjoy shorter weeks while gig workers, with no safety net, work longer for less. Both concerns are legitimate, and neither has been answered. Still, as the trial approaches its final month, one thing seems clear: the assumption that more hours automatically mean more output has been shaken. By this time next year, if the early results hold, a good many of Halden & Moss's rivals will have been forced to follow suit, or to explain why they have not. For workers, the significance may be larger still. If a four-day week proves workable in logistics, a notoriously demanding industry, it becomes much harder for other employers to argue that it is simply impossible. Whether that argument will be won on evidence, or merely on fashion, is a question that employees, managers and economists will all be watching closely in the months ahead."
+   ],
+   "glossary": [
+    {
+     "en": "scrap",
+     "def": "to get rid of something, or to cancel a plan or idea"
+    },
+    {
+     "en": "publicity stunt",
+     "def": "an action staged to attract media attention"
+    },
+    {
+     "en": "hand in one's notice",
+     "def": "to formally resign from one's job"
+    },
+    {
+     "en": "on autopilot",
+     "def": "doing something without paying conscious attention"
+    },
+    {
+     "en": "rollout",
+     "def": "the large-scale introduction of a product or system"
+    },
+    {
+     "en": "rosy",
+     "def": "optimistic and encouraging"
+    },
+    {
+     "en": "downturn",
+     "def": "a fall in economic activity or business performance"
+    },
+    {
+     "en": "follow suit",
+     "def": "to do the same as someone else has just done"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "The trial was originally due to end in September.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "The text says it was expected to end in September, and it was extended."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Employees accept a pay cut in exchange for the extra day off.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Keep their full salary."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What reservation does Dr Ibarra express?",
+     "options": [
+      "It might not suit jobs such as hospital or factory work.",
+      "Productivity has fallen sharply.",
+      "Employees dislike the scheme."
+     ],
+     "answer": 0,
+     "explain": "Says it might work for knowledge work, but it is unclear in hospitals or factories."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "What has the firm done for employees whose tasks were automated?",
+     "options": [
+      "It has laid them off.",
+      "It has offered them retraining.",
+      "It has moved them to a longer week."
+     ],
+     "answer": 1,
+     "explain": "Rather than laying those employees off, the firm has offered them retraining."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Sick leave has fallen by nearly a ___.",
+     "answers": [
+      "third"
+     ],
+     "explain": "Nearly a third."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "What does 'a two-tier labour market' refer to in the final paragraph?",
+     "options": [
+      "Professionals enjoy shorter weeks while gig workers do not.",
+      "Companies run two daily shifts.",
+      "Each firm has two salary scales."
+     ],
+     "answer": 0,
+     "explain": "The text explains it right after the term."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "Priya had forgotten what a free ___ felt like by the time the trial started.",
+     "answers": [
+      "Friday"
+     ],
+     "explain": "A free Friday."
+    }
+   ]
+  },
+  "listening": {
+   "title": "The Career Clinic",
+   "intro": "Listen to the radio programme. You can repeat it.",
+   "lines": [
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Good morning, and welcome to The Career Clinic. With me today are Nadia Okafor, a career coach, and Ben Cole, who left a stable corporate job to go freelance. Ben, by this time next year you'll have been working for yourself for two years. Any regrets?"
+    },
+    {
+     "who": "Ben",
+     "voice": "rounded",
+     "text": "Honestly, none so far, though I'd be lying if I said it was a smooth ride. In the first six months I was on the verge of going back more than once."
+    },
+    {
+     "who": "Nadia",
+     "voice": "glassy",
+     "text": "That's incredibly common. People underestimate how long it takes for freelance income to stabilise. Most advice says to have at least six months' salary saved before you jump."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Nadia, you work with a lot of people in mid-career. What are you hearing from them at the moment?"
+    },
+    {
+     "who": "Nadia",
+     "voice": "glassy",
+     "text": "Anxiety about automation, mostly. A lot of my clients are convinced their jobs will have vanished within ten years. I tell them that's unlikely for most roles, but it's almost certain that the tasks within those roles will change."
+    },
+    {
+     "who": "Ben",
+     "voice": "rounded",
+     "text": "That's what I found. I used to spend half my week on admin. Now software does it in minutes, and I'm free to concentrate on the creative side, which is what clients actually pay for."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "So upskilling really matters?"
+    },
+    {
+     "who": "Nadia",
+     "voice": "glassy",
+     "text": "Enormously. Not necessarily a whole new degree, mind you. Even a short course can make you stand out. I always say: don't wait until you're made redundant to start learning."
+    },
+    {
+     "who": "Ben",
+     "voice": "rounded",
+     "text": "Hear, hear. I'm doing a data analysis course at the moment. This time next month, I'll be sitting my first exam, and I'm absolutely dreading it."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Is there a downside to all this flexibility? I'm thinking of burnout."
+    },
+    {
+     "who": "Nadia",
+     "voice": "glassy",
+     "text": "Absolutely. When your office is your kitchen table, work tends to seep into every corner of your life. Setting boundaries isn't optional; it's survival."
+    },
+    {
+     "who": "Ben",
+     "voice": "rounded",
+     "text": "I'm still working on that. My partner says I'm bound to burn out if I keep answering emails at midnight, and she's probably right."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "On that sobering note, a short break, and then we'll take your calls."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "How long will Ben have been freelancing by this time next year?",
+     "options": [
+      "Two years",
+      "One year",
+      "Six months"
+     ],
+     "answer": 0,
+     "explain": "By this time next year you'll have been working for yourself for two years."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What was Ben on the verge of doing in his first six months?",
+     "options": [
+      "Going back to a corporate job",
+      "Taking out a loan",
+      "Moving abroad"
+     ],
+     "answer": 0,
+     "explain": "I was on the verge of going back more than once."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What does Nadia say is almost certain?",
+     "options": [
+      "Most jobs will have disappeared within ten years.",
+      "The tasks within many roles will change.",
+      "Software will replace career coaches."
+     ],
+     "answer": 1,
+     "explain": "Says it is almost certain that tasks will change."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "Nadia thinks you should wait until you are made redundant before you retrain.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Dice «don't wait until you're made redundant»."
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "Ben is taking a ___ analysis course.",
+     "answers": [
+      "data"
+     ],
+     "explain": "A data analysis course."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "According to Nadia, what is the risk of working from your kitchen table?",
+     "options": [
+      "Work seeps into every corner of your life.",
+      "Work becomes cheaper.",
+      "Work becomes boring."
+     ],
+     "answer": 0,
+     "explain": "Work tends to seep into every corner of your life."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Don't wait until you're made redundant to start learning.",
+     "answers": [
+      "Don't wait until you're made redundant to start learning.",
+      "Do not wait until you are made redundant to start learning."
+     ],
+     "explain": "Until + present-tense clause; made redundant."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "This time next month, I'll be sitting my first exam.",
+     "answers": [
+      "This time next month, I'll be sitting my first exam.",
+      "This time next month I'll be sitting my first exam.",
+      "This time next month, I will be sitting my first exam.",
+      "This time next month I will be sitting my first exam."
+     ],
+     "explain": "Future continuous for an action in progress at a future moment."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "I used to spend half my week on admin.",
+     "answers": [
+      "I used to spend half my week on admin."
+     ],
+     "explain": "Used to + base: past habit (review of unit 1)."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Work tends to seep into every corner of your life.",
+     "answers": [
+      "Work tends to seep into every corner of your life."
+     ],
+     "explain": "Tend to + base para generalizar con cautela."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Predict how your profession (or one you know well) will change over the next fifteen years.",
+     "questions": [
+      "What do you do, or what would you like to do?",
+      "How is your field likely to change by 2040?",
+      "Which of your current tasks might be automated?",
+      "What skills will people in your field need to learn?"
+     ],
+     "model": "I work in finance, and I'm convinced the sector is bound to change dramatically. By 2040, routine tasks like reconciliations will almost certainly have been automated, and analysts will be spending far more time interpreting data. Many roles may well disappear, but I suspect new ones will emerge. People who don't upskill are unlikely to keep pace.",
+     "checklist": [
+      "Use a future perfect (will have been automated)",
+      "Use a future continuous (will be spending)",
+      "Two different degrees of certainty (bound to, may well, unlikely to)",
+      "Work vocabulary (upskill, sector, roles)"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about where you plan to be in five years and what you will have achieved.",
+     "questions": [
+      "Where do you expect to be working in five years?",
+      "What will you have achieved by then?",
+      "What will you be doing on a typical day?",
+      "What might get in the way?"
+     ],
+     "model": "In five years' time I hope to be leading a small team. By then I'll have completed a master's degree and I'll have been working for the same company for almost eight years. On a typical day, I'll probably be managing projects rather than doing the technical work myself. The main obstacle is that the firm may well restructure, but I'm optimistic.",
+     "checklist": [
+      "Future perfect and future perfect continuous",
+      "Future continuous for a typical day",
+      "A certainty structure (will probably, may well)",
+      "Connectors and a natural closing"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Debate: should every company adopt a four-day working week?",
+     "questions": [
+      "Do you think a four-day week is realistic for most companies?",
+      "Which sectors would struggle most?",
+      "What could go wrong?",
+      "Would you personally prefer it, and why?"
+     ],
+     "model": "I think it's likely to work well for office-based roles, but I doubt whether it will suit sectors like healthcare, where shifts are essential. That said, there's every chance that productivity will hold steady, because people tend to focus better when they're rested. Personally, I'd welcome it, though it remains to be seen whether employers will be willing to go along.",
+     "checklist": [
+      "Degrees of certainty (likely to, I doubt whether, there's every chance)",
+      "A contrast connector (That said, However)",
+      "A hedging formula (it remains to be seen)",
+      "A justified personal opinion"
+     ]
+    }
+   ],
+   "repeat": [
+    "By this time next year, I'll have been working here for a decade.",
+    "The company is on the verge of announcing redundancies.",
+    "This time tomorrow I'll be flying to Mexico City.",
+    "Automation is bound to change the labour market.",
+    "The scheme is due to be rolled out in January.",
+    "It remains to be seen whether it will work."
+   ]
+  }
+ }
+}

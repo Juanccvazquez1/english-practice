@@ -1,0 +1,1725 @@
+{
+ "id": "u-b2-10",
+ "level": "B2",
+ "n": 10,
+ "title": "Count me in!",
+ "goals": [
+  "Talk about obligations, expectations and rumors with be supposed to (I'm supposed to work; It's supposed to be a barbecue).",
+  "Talk about plans that did not happen with was / were supposed to and was / were going to.",
+  "Use inseparable phrasal verbs with get (get out of, get over, get around to, get away with) and place the object correctly.",
+  "Check your understanding with statement questions (So you're not going?, right?, huh?) and use so in conversation.",
+  "Describe your social style (extrovert, introvert, small talk) and connect ideas with as (being, because, while).",
+  "Write an email declining an invitation and a text about your social style."
+ ],
+ "learn": [
+  {
+   "id": "v-plans",
+   "kind": "vocab",
+   "title": "Plans and social events",
+   "words": [
+    {
+     "id": "w-barbecue",
+     "en": "barbecue",
+     "es": "parrillada, carne asada (reunión)",
+     "example": "Aunt Rosa is organizing a barbecue on Saturday."
+    },
+    {
+     "id": "w-reunion",
+     "en": "family reunion",
+     "es": "reunión familiar",
+     "example": "The family reunion is held every December.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fancy-wedding",
+     "en": "fancy wedding",
+     "es": "boda elegante",
+     "example": "Her cousin is having a fancy wedding in a hacienda.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-reception",
+     "en": "wedding reception",
+     "es": "recepción de boda",
+     "example": "The wedding reception starts at eight.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-surprise-party",
+     "en": "surprise party",
+     "es": "fiesta sorpresa",
+     "example": "We're planning a surprise party for our boss.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-throw-party",
+     "en": "throw a party",
+     "es": "hacer / organizar una fiesta",
+     "example": "They throw a party every New Year's Eve.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-celebrate-bday",
+     "en": "celebrate your birthday",
+     "es": "festejar tu cumpleaños",
+     "example": "How do you usually celebrate your birthday?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-look-forward",
+     "en": "look forward to + -ing / noun",
+     "es": "tener muchas ganas de, esperar con ilusión",
+     "example": "I'm looking forward to seeing you.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-come-get",
+     "en": "come and get someone",
+     "es": "venir por alguien (a recogerlo)",
+     "example": "Can you come and get me at the station?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-cancel-plans",
+     "en": "cancel plans",
+     "es": "cancelar planes",
+     "example": "She had to cancel plans because of the rain.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-call-meeting",
+     "en": "call a meeting",
+     "es": "convocar a una junta",
+     "example": "The director called a meeting for Monday.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-dress-up",
+     "en": "dress up",
+     "es": "arreglarse, vestirse elegante",
+     "example": "You don't have to dress up for the barbecue.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-formal-clothes",
+     "en": "wear formal clothes",
+     "es": "vestir ropa formal",
+     "example": "Guests are expected to wear formal clothes.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-white-lie",
+     "en": "tell a white lie",
+     "es": "decir una mentira piadosa",
+     "example": "He told a white lie to get out of the invitation.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-walk-in-late",
+     "en": "walk in late",
+     "es": "entrar tarde",
+     "example": "Walking in late is embarrassing.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-hurry",
+     "en": "hurry",
+     "es": "apurarse, darse prisa",
+     "example": "Hurry! The taxi is waiting.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-instead",
+     "en": "instead",
+     "es": "en lugar de eso, mejor",
+     "example": "We didn't go out; we stayed home instead.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "g-supposed",
+   "kind": "grammar",
+   "title": "be supposed to: present and future",
+   "html": "<p><strong>be supposed to</strong> has several meanings depending on the context. It is formed with <em>be</em> (am / is / are) + <em>supposed</em> + <em>to</em> + base verb. The -d at the end of <em>supposed</em> is required.</p><table><thead><tr><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td>'They say that…' (what is expected or said)</td><td>It's supposed to be a barbecue. (= They say it's a barbecue.)</td></tr><tr><td>'I have to…' (obligation, like have to)</td><td>I'm supposed to work tomorrow. (= I have to work tomorrow.)</td></tr><tr><td>'I shouldn't…' (like should not)</td><td>He's not supposed to eat chocolate. (= He shouldn't eat chocolate.)</td></tr><tr><td>Contrast with reality</td><td>I'm supposed to be studying for an exam (but I'm not).</td></tr></tbody></table><ul><li>Negative: <em>isn't / aren't / am not supposed to</em>.</li><li>Question: <em>Are we supposed to dress up?</em></li><li>It is used a lot to talk about rules, expectations and rumors.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I suppose to work tomorrow.",
+     "right": "I'm supposed to work tomorrow.",
+     "why": "The be and the -d are missing: am supposed to."
+    },
+    {
+     "wrong": "He's not suppose to eat chocolate.",
+     "right": "He's not supposed to eat chocolate.",
+     "why": "It is a past participle: supposed, with -d."
+    },
+    {
+     "wrong": "She's supposed go to the party.",
+     "right": "She's supposed to go to the party.",
+     "why": "The to is missing between supposed and the verb."
+    },
+    {
+     "wrong": "We're supposed to going early.",
+     "right": "We're supposed to go early.",
+     "why": "After supposed to comes the base form of the verb."
+    }
+   ]
+  },
+  {
+   "id": "g-past-supposed",
+   "kind": "grammar",
+   "title": "was / were supposed to and was / were going to",
+   "html": "<p>In the past, <strong>was / were supposed to</strong> expresses what was expected to happen but <strong>did not happen</strong> (or will not happen): <em>They were supposed to come at 7:00 (but they didn't).</em> / <em>I wasn't supposed to go by myself (but I'll have to).</em></p><p><strong>was / were going to</strong> has a similar use: plans that did not happen, or a past intention.</p><table><thead><tr><th>Form</th><th>Example</th><th>Meaning</th></tr></thead><tbody><tr><td>was / were supposed to + base</td><td>She was supposed to call me.</td><td>It was expected, but she didn't call.</td></tr><tr><td>wasn't / weren't supposed to + base</td><td>I wasn't supposed to tell anyone.</td><td>It was forbidden, or I shouldn't have.</td></tr><tr><td>was / were going to + base</td><td>He was going to give us directions (but he didn't).</td><td>A plan or intention that did not happen.</td></tr><tr><td>wasn't going to + base</td><td>I wasn't going to go (but I guess I will).</td><td>I wasn't planning to go, but I changed my mind.</td></tr></tbody></table><ul><li>Question: <em>Weren't you supposed to get off work early?</em> (with a tone of surprise)</li><li>Notice the verb after to: always the base form, never the past.</li></ul>",
+   "watch": [
+    {
+     "wrong": "She was supposed to came at six.",
+     "right": "She was supposed to come at six.",
+     "why": "After to comes the base form, even though the sentence is in the past."
+    },
+    {
+     "wrong": "He was going to gave us directions.",
+     "right": "He was going to give us directions.",
+     "why": "Was going to + base verb."
+    },
+    {
+     "wrong": "Did you suppose to bring the cake?",
+     "right": "Were you supposed to bring the cake?",
+     "why": "It uses be (was / were), not did, and supposed with -d."
+    },
+    {
+     "wrong": "I was suppose to call him.",
+     "right": "I was supposed to call him.",
+     "why": "The past participle supposed."
+    }
+   ]
+  },
+  {
+   "id": "v-get",
+   "kind": "vocab",
+   "title": "Expressions with get",
+   "words": [
+    {
+     "id": "w-get-going",
+     "en": "get going",
+     "es": "ponerse en marcha, irse ya",
+     "example": "We have to get going; it's late.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-home",
+     "en": "get home",
+     "es": "llegar a casa",
+     "example": "I usually get home around seven.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-last-minute",
+     "en": "get ready at the last minute",
+     "es": "arreglarse a última hora",
+     "example": "She always gets ready at the last minute.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-feeling",
+     "en": "get the feeling that …",
+     "es": "tener la impresión de que…",
+     "example": "I get the feeling that he doesn't want to come.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-to-know",
+     "en": "get to know someone",
+     "es": "llegar a conocer a alguien",
+     "example": "Parties are good for getting to know your co-workers.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-used-to",
+     "en": "get used to + -ing",
+     "es": "acostumbrarse a",
+     "example": "I can't get used to dressing up every day.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-get-around-to",
+     "en": "get around to + -ing",
+     "es": "encontrar tiempo para, llegar a hacer algo",
+     "example": "I never got around to buying a gift.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-away-with",
+     "en": "get away with + -ing",
+     "es": "salirse con la suya, no recibir castigo por",
+     "example": "You can't get away with wearing jeans to a wedding.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-off-work",
+     "en": "get off work",
+     "es": "salir del trabajo",
+     "example": "I get off work at five.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-out-of",
+     "en": "get out of + noun / -ing",
+     "es": "librarse de, zafarse de",
+     "example": "Couldn't you get out of the meeting?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-over",
+     "en": "get over + noun / -ing",
+     "es": "superar, reponerse de",
+     "example": "She'll get over feeling embarrassed.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-through",
+     "en": "get through + noun",
+     "es": "sobrevivir a, terminar (algo difícil)",
+     "example": "I can't get through the day without coffee.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-find-hard",
+     "en": "find it hard to + verbo",
+     "es": "resultarte difícil",
+     "example": "I find it hard to talk to strangers.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-get-phrasal",
+   "kind": "grammar",
+   "title": "Inseparable phrasal verbs with get",
+   "html": "<p>Inseparable <strong>phrasal verbs</strong> do not allow the object to go between the verb and the particle. The object goes <strong>after</strong> the particle or preposition, and it can be a noun, a verb with -ing or a pronoun:</p><table><thead><tr><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>verb + particle + object</td><td>Weren't you supposed to get off work early? / She'll never get over feeling embarrassed. / I'm sure she'll get over it.</td></tr><tr><td>verb + particle + preposition + object</td><td>A: Can I get away with wearing pants? B: No. You can't get away with it.</td></tr><tr><td></td><td>A: Couldn't you get out of the meeting? B: No, I couldn't get out of it.</td></tr><tr><td></td><td>A: Did you get around to buying a gift? B: No, I never got around to it.</td></tr></tbody></table><ul><li>With a pronoun, the pronoun goes at the end: <em>get over it</em>, NOT <em>get it over</em>.</li><li>The prepositions <em>to, with, of</em> are part of the verb: <em>get around to, get away with, get out of</em>.</li><li>After the preposition, a verb takes -ing: <em>get around to buying</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I never got around buying a gift.",
+     "right": "I never got around to buying a gift.",
+     "why": "The preposition to is missing: get around to + -ing."
+    },
+    {
+     "wrong": "He can't get away it.",
+     "right": "He can't get away with it.",
+     "why": "The preposition with is needed."
+    },
+    {
+     "wrong": "Could you get out the meeting?",
+     "right": "Could you get out of the meeting?",
+     "why": "Of is needed: get out of."
+    },
+    {
+     "wrong": "She'll get it over soon.",
+     "right": "She'll get over it soon.",
+     "why": "Inseparable: the object goes after the particle."
+    }
+   ]
+  },
+  {
+   "id": "s-check",
+   "kind": "strategy",
+   "title": "Strategy: checking your understanding (statement questions and so)",
+   "html": "<p>In real conversation you can ask questions in the form of a statement, with rising intonation, to confirm what you understood. They often end in <strong>huh</strong> or <strong>right</strong>.</p><ul><li>A: I just don't like big groups of people. B: <strong>So you're not going to go?</strong> (more natural than <em>So aren't you going to go?</em>)</li><li><strong>So parties aren't your thing, huh?</strong> / <strong>You're going this time, right?</strong></li></ul><p><strong>So</strong> is used for several things:</p><ul><li>Starting a topic: <em>So, there's another work party on Friday, right?</em></li><li>Checking that you understood: <em>So parties aren't your thing, huh?</em></li><li>Leaving the idea open for the other person to conclude: <em>I'd rather talk one on one, so …</em></li><li>Closing a topic or a story: <em>So yeah, I'll just say I have other plans.</em></li></ul>"
+  },
+  {
+   "id": "v-social",
+   "kind": "vocab",
+   "title": "Social style",
+   "words": [
+    {
+     "id": "w-extrovert",
+     "en": "extrovert",
+     "es": "extrovertido/a",
+     "example": "As an extrovert, she loves big parties."
+    },
+    {
+     "id": "w-introvert",
+     "en": "introvert",
+     "es": "introvertido/a",
+     "example": "My brother is an introvert and needs time alone."
+    },
+    {
+     "id": "w-party-person",
+     "en": "party person",
+     "es": "persona fiestera",
+     "example": "Gina is a real party person.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-social-animal",
+     "en": "social animal",
+     "es": "persona muy sociable",
+     "example": "He's a social animal: he knows everybody.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-people-person",
+     "en": "people person",
+     "es": "persona a la que le gusta tratar con gente",
+     "example": "I'm a people person, so I enjoy customer service.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-small-talk",
+     "en": "be good at small talk",
+     "es": "ser bueno para la plática trivial",
+     "example": "She is good at small talk with strangers.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-center-attention",
+     "en": "be the center of attention",
+     "es": "ser el centro de atención",
+     "example": "He loves being the center of attention.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-chitchat",
+     "en": "engage in chitchat",
+     "es": "entablar plática ligera",
+     "example": "I don't enjoy engaging in chitchat at parties.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-low-profile",
+     "en": "keep a low profile",
+     "es": "pasar desapercibido",
+     "example": "I kept a low profile at the wedding.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-one-on-one",
+     "en": "talk one on one",
+     "es": "hablar de uno a uno",
+     "example": "I prefer to talk one on one.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-work-up",
+     "en": "work your way up",
+     "es": "ascender poco a poco en una empresa",
+     "example": "She worked her way up from receptionist to manager.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-ambitious",
+     "en": "ambitious",
+     "es": "ambicioso/a",
+     "example": "He's ambitious and wants to be a director.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-somehow",
+     "en": "somehow",
+     "es": "de alguna manera, no sé cómo",
+     "example": "Somehow, I always end up at these parties.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "g-as",
+   "kind": "grammar",
+   "title": "The uses of as: because, being, while",
+   "html": "<p>The word <strong>as</strong> connects ideas and has three meanings. It is very useful in intermediate-to-advanced written texts.</p><table><thead><tr><th>as = …</th><th>Example</th></tr></thead><tbody><tr><td>being</td><td>As an extrovert, I love to socialize. (= Being an extrovert, …)</td></tr><tr><td>because</td><td>I enjoy going out to new places as I love to meet new people.</td></tr><tr><td>while / when</td><td>I get excited as the weekend gets closer.</td></tr></tbody></table><ul><li><em>As + noun</em> talks about your role or identity: <em>As a teacher, As an introvert.</em></li><li>Don't use <em>like</em> in that case: <em>Like an introvert</em> means 'similar to an introvert'.</li><li>With the meaning 'while', describe two things that change or happen at the same time.</li></ul>",
+   "watch": [
+    {
+     "wrong": "As a extrovert, I love parties.",
+     "right": "As an extrovert, I love parties.",
+     "why": "Before a vowel sound we use an."
+    },
+    {
+     "wrong": "Like an introvert, I need quiet time to recharge.",
+     "right": "As an introvert, I need quiet time to recharge.",
+     "why": "As = being; like = similar to."
+    },
+    {
+     "wrong": "I get nervous as the party is get closer.",
+     "right": "I get nervous as the party gets closer.",
+     "why": "After as comes a normal conjugated verb."
+    },
+    {
+     "wrong": "I stayed home as of I was tired.",
+     "right": "I stayed home as I was tired.",
+     "why": "As + subject + verb; it does not take of."
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>All I know is that …</strong> — 'the only thing I know is that…'.</li><li><strong>I don't get it.</strong> — 'I don't understand it.'</li><li><strong>Oh, come on!</strong> — used to insist or to show you don't believe something.</li><li><strong>By the way, …</strong> — 'by the way…', to change the topic.</li><li><strong>Anyway, …</strong> — 'anyway…', to return to a topic or to close it.</li><li><strong>I'm looking forward to …</strong> — 'I can't wait to…'.</li><li><strong>It's supposed to be …</strong> — 'it is meant to be…'.</li><li><strong>I was going to … but …</strong> — 'I was going to… but…'.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "be supposed to (present)",
+   "instructions": "Complete, choose or correct using be supposed to.",
+   "topic": "g-supposed",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "I ___ supposed to work on Saturday, so I can't come.",
+     "answers": [
+      "am",
+      "'m"
+     ],
+     "explain": "I + am supposed to."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "He isn't ___ to eat sugar. His doctor said no.",
+     "answers": [
+      "supposed"
+     ],
+     "explain": "Is not supposed to = shouldn't."
+    },
+    {
+     "id": "A3",
+     "type": "choice",
+     "prompt": "The new restaurant ___ to be excellent. Everybody says so.",
+     "options": [
+      "is supposed",
+      "supposes",
+      "is suppose"
+     ],
+     "answer": 0,
+     "explain": "Is supposed to be = they say it is."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "We're ___ to be studying, but we're watching a series.",
+     "answers": [
+      "supposed"
+     ],
+     "explain": "A contrast between what should be happening and what is happening."
+    },
+    {
+     "id": "A5",
+     "type": "fix",
+     "prompt": "She suppose to call me tonight.",
+     "answers": [
+      "She's supposed to call me tonight.",
+      "She is supposed to call me tonight."
+     ],
+     "explain": "Missing is and the -d."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "You aren't supposed using your phone here.",
+     "answers": [
+      "You aren't supposed to use your phone here.",
+      "You're not supposed to use your phone here.",
+      "You are not supposed to use your phone here."
+     ],
+     "explain": "Supposed to + base verb."
+    },
+    {
+     "id": "A7",
+     "type": "translate",
+     "prompt": "Se supone que la fiesta es sorpresa.",
+     "answers": [
+      "The party is supposed to be a surprise.",
+      "The party's supposed to be a surprise.",
+      "It's supposed to be a surprise party.",
+      "It is supposed to be a surprise party."
+     ],
+     "explain": "'It's supposed to…' = 'is supposed to be'."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "supposed",
+      "I'm",
+      "early",
+      "to",
+      "tomorrow",
+      "leave"
+     ],
+     "answers": [
+      "I'm supposed to leave early tomorrow.",
+      "Tomorrow I'm supposed to leave early."
+     ],
+     "explain": "Be supposed to + base verb."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "was / were supposed to and was / were going to",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-past-supposed",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "They ___ supposed to arrive at seven, but they got lost.",
+     "answers": [
+      "were"
+     ],
+     "explain": "Plural subject in the past: were."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "I wasn't ___ to go alone, but I did.",
+     "answers": [
+      "supposed"
+     ],
+     "explain": "Wasn't supposed to = shouldn't have."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "He was ___ to give us directions, but he forgot.",
+     "answers": [
+      "going"
+     ],
+     "explain": "Was going to = intended to."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "Weren't you ___ to call me yesterday?",
+     "options": [
+      "suppose",
+      "supposed",
+      "supposing"
+     ],
+     "answer": 1,
+     "explain": "Supposed (past participle)."
+    },
+    {
+     "id": "B5",
+     "type": "fix",
+     "prompt": "She was supposed to came at six.",
+     "answers": [
+      "She was supposed to come at six."
+     ],
+     "explain": "After to comes the base form."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "Did you suppose to bring the cake?",
+     "answers": [
+      "Were you supposed to bring the cake?"
+     ],
+     "explain": "Use were / was, not did."
+    },
+    {
+     "id": "B7",
+     "type": "choice",
+     "prompt": "\"I was going to cook dinner, but I ordered pizza.\" What happened?",
+     "options": [
+      "I cooked dinner.",
+      "I didn't cook dinner.",
+      "I will cook dinner."
+     ],
+     "answer": 1,
+     "explain": "Was going to suggests the plan did not happen."
+    },
+    {
+     "id": "B8",
+     "type": "translate",
+     "prompt": "Se suponía que íbamos a salir temprano.",
+     "answers": [
+      "We were supposed to leave early.",
+      "We were supposed to go out early."
+     ],
+     "explain": "Was / were supposed to + base verb."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Phrasal verbs with get",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-get-phrasal",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "I never got around ___ buying a gift.",
+     "answers": [
+      "to"
+     ],
+     "explain": "Get around to + -ing."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "Can you get ___ of the meeting?",
+     "answers": [
+      "out"
+     ],
+     "explain": "Get out of = to avoid."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "He wore jeans and got away ___ it.",
+     "answers": [
+      "with"
+     ],
+     "explain": "Get away with = to avoid being punished for something."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "She'll get ___ her embarrassment soon.",
+     "options": [
+      "over",
+      "on",
+      "at"
+     ],
+     "answer": 0,
+     "explain": "Get over = to recover from."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "I hope we can get ___ the evening without an argument.",
+     "options": [
+      "through",
+      "away",
+      "around"
+     ],
+     "answer": 0,
+     "explain": "Get through = to survive, to finish."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "She'll never get it over.",
+     "answers": [
+      "She'll never get over it.",
+      "She will never get over it."
+     ],
+     "explain": "Inseparable: get over it."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "I couldn't get out the invitation.",
+     "answers": [
+      "I couldn't get out of the invitation."
+     ],
+     "explain": "Of is missing: get out of."
+    },
+    {
+     "id": "C8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "off",
+      "Weren't",
+      "you",
+      "get",
+      "work",
+      "to",
+      "supposed",
+      "early"
+     ],
+     "answers": [
+      "Weren't you supposed to get off work early?"
+     ],
+     "explain": "Weren't you supposed to + base verb."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "The uses of as",
+   "instructions": "Choose, complete or correct.",
+   "topic": "g-as",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "___ an introvert, I prefer small groups.",
+     "options": [
+      "As",
+      "Like",
+      "When"
+     ],
+     "answer": 0,
+     "explain": "As + identity = being."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "I stayed home ___ I was tired.",
+     "answers": [
+      "as",
+      "because"
+     ],
+     "explain": "As = because."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "I get excited ___ the weekend gets closer.",
+     "answers": [
+      "as",
+      "when"
+     ],
+     "explain": "As = while / when."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "\"I enjoy parties as I love to meet people.\" Here, as means:",
+     "options": [
+      "mientras",
+      "porque",
+      "como"
+     ],
+     "answer": 1,
+     "explain": "As = because."
+    },
+    {
+     "id": "D5",
+     "type": "fix",
+     "prompt": "As a extrovert, I love meeting new people.",
+     "answers": [
+      "As an extrovert, I love meeting new people."
+     ],
+     "explain": "An before a vowel sound."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "Like an introvert, I need time alone to recharge.",
+     "answers": [
+      "As an introvert, I need time alone to recharge."
+     ],
+     "explain": "For identity we use as, not like."
+    },
+    {
+     "id": "D7",
+     "type": "translate",
+     "prompt": "Como soy extrovertido, me encanta socializar.",
+     "answers": [
+      "As an extrovert, I love to socialize.",
+      "As an extrovert, I love socializing.",
+      "As I'm an extrovert, I love to socialize.",
+      "As I'm an extrovert, I love socializing.",
+      "As I am an extrovert, I love to socialize.",
+      "As I am an extrovert, I love socializing.",
+      "Since I'm an extrovert, I love to socialize.",
+      "Since I'm an extrovert, I love socializing.",
+      "Being an extrovert, I love to socialize.",
+      "Being an extrovert, I love socializing."
+     ],
+     "explain": "As + identity or as + subject + verb."
+    },
+    {
+     "id": "D8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "as",
+      "gets",
+      "the",
+      "party",
+      "closer",
+      "I",
+      "nervous",
+      "get"
+     ],
+     "answers": [
+      "I get nervous as the party gets closer."
+     ],
+     "explain": "As = while."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Check your understanding",
+   "instructions": "Choose, complete or rewrite.",
+   "topic": "s-check",
+   "items": [
+    {
+     "id": "E1",
+     "type": "choice",
+     "prompt": "A: I don't like big parties.  B: ___",
+     "options": [
+      "So you're not going to go?",
+      "So aren't you going to go?",
+      "So you not going?"
+     ],
+     "answer": 0,
+     "explain": "Statement question: affirmative word order with rising intonation."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "So parties aren't your thing, ___?",
+     "answers": [
+      "huh",
+      "right"
+     ],
+     "explain": "Huh / right at the end asks for confirmation."
+    },
+    {
+     "id": "E3",
+     "type": "fix",
+     "prompt": "So aren't you coming tonight?",
+     "answers": [
+      "So you're not coming tonight?",
+      "So you aren't coming tonight?",
+      "So you are not coming tonight?",
+      "You're not coming tonight, right?",
+      "You aren't coming tonight, right?",
+      "So you're not coming tonight, right?"
+     ],
+     "explain": "Better as a statement question: affirmative word order."
+    },
+    {
+     "id": "E4",
+     "type": "choice",
+     "prompt": "\"I'd rather talk one on one, so …\" The final so is used to:",
+     "options": [
+      "cerrar una historia",
+      "dejar que el otro saque la conclusión",
+      "iniciar un tema"
+     ],
+     "answer": 1,
+     "explain": "So at the end leaves the idea open."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "\"So yeah, I'll just say I have other plans.\" Here, so is used to:",
+     "options": [
+      "cerrar un tema",
+      "comprobar que entendiste",
+      "iniciar un tema"
+     ],
+     "answer": 0,
+     "explain": "So yeah closes the topic."
+    },
+    {
+     "id": "E6",
+     "type": "translate",
+     "prompt": "O sea que no te gustan las fiestas, ¿verdad?",
+     "answers": [
+      "So you don't like parties, right?",
+      "So you don't like parties, huh?",
+      "So parties aren't your thing, huh?",
+      "So parties aren't your thing, right?"
+     ],
+     "explain": "Statement question with right or huh."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Social vocabulary",
+   "instructions": "Complete or choose.",
+   "topic": "v-social",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "Mia loves being the center of ___: she's a real party person.",
+     "answers": [
+      "attention"
+     ],
+     "explain": "Center of attention."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "People who don't like attention often keep a low ___.",
+     "answers": [
+      "profile"
+     ],
+     "explain": "Keep a low profile."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "Someone who loves being with others and gets energy from them is an ___.",
+     "options": [
+      "introvert",
+      "extrovert",
+      "ambitious"
+     ],
+     "answer": 1,
+     "explain": "Extrovert."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "Ana is good at small ___; she can chat with anybody.",
+     "answers": [
+      "talk"
+     ],
+     "explain": "Small talk."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "We're going to throw a ___ party for Luis: he doesn't know about it.",
+     "answers": [
+      "surprise"
+     ],
+     "explain": "Surprise party."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "I'm really looking ___ to the family reunion.",
+     "answers": [
+      "forward"
+     ],
+     "explain": "Look forward to."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "He wants to work his way ___ in the company.",
+     "answers": [
+      "up"
+     ],
+     "explain": "Work your way up."
+    },
+    {
+     "id": "F8",
+     "type": "choice",
+     "prompt": "An ambitious person ___.",
+     "options": [
+      "wants to succeed",
+      "hates parties",
+      "is always late"
+     ],
+     "answer": 0,
+     "explain": "Ambitious = eager to succeed."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "is",
+      "The",
+      "supposed",
+      "start",
+      "concert",
+      "to",
+      "at",
+      "eight"
+     ],
+     "answers": [
+      "The concert is supposed to start at eight."
+     ],
+     "explain": "Is supposed to + base verb."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "were",
+      "They",
+      "to",
+      "going",
+      "cancel",
+      "plans",
+      "the"
+     ],
+     "answers": [
+      "They were going to cancel the plans."
+     ],
+     "explain": "Were going to + base verb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I",
+      "got",
+      "never",
+      "around",
+      "to",
+      "calling",
+      "her"
+     ],
+     "answers": [
+      "I never got around to calling her."
+     ],
+     "explain": "Get around to + -ing."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "As",
+      "an",
+      "introvert",
+      "I",
+      "prefer",
+      "small",
+      "groups"
+     ],
+     "answers": [
+      "As an introvert, I prefer small groups."
+     ],
+     "explain": "As + identity."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "So",
+      "you're",
+      "not",
+      "coming",
+      "right"
+     ],
+     "answers": [
+      "So you're not coming, right?"
+     ],
+     "explain": "Statement question with right."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "He",
+      "get",
+      "can't",
+      "away",
+      "with",
+      "wearing",
+      "jeans"
+     ],
+     "answers": [
+      "He can't get away with wearing jeans."
+     ],
+     "explain": "Get away with + -ing."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Se supone que no debemos llegar tarde.",
+     "answers": [
+      "We're not supposed to arrive late.",
+      "We aren't supposed to arrive late.",
+      "We are not supposed to arrive late.",
+      "We're not supposed to be late.",
+      "We aren't supposed to be late.",
+      "We are not supposed to be late."
+     ],
+     "explain": "Not supposed to = shouldn't."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Iba a llamarte, pero me quedé dormido.",
+     "answers": [
+      "I was going to call you, but I fell asleep.",
+      "I was going to call you, but I overslept."
+     ],
+     "explain": "Was going to + base verb."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Nunca pude librarme de esa reunión.",
+     "answers": [
+      "I never managed to get out of that meeting.",
+      "I couldn't get out of that meeting.",
+      "I could never get out of that meeting.",
+      "I never could get out of that meeting."
+     ],
+     "explain": "Get out of + noun."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "¿No se suponía que ibas a salir temprano del trabajo?",
+     "answers": [
+      "Weren't you supposed to get off work early?",
+      "Weren't you supposed to leave work early?"
+     ],
+     "explain": "Weren't you supposed to + base verb."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Como soy introvertido, prefiero hablar uno a uno.",
+     "answers": [
+      "As an introvert, I prefer to talk one on one.",
+      "As an introvert, I prefer talking one on one.",
+      "As I'm an introvert, I prefer to talk one on one.",
+      "As I'm an introvert, I prefer talking one on one.",
+      "As I am an introvert, I prefer to talk one on one.",
+      "As I am an introvert, I prefer talking one on one.",
+      "Being an introvert, I prefer to talk one on one."
+     ],
+     "explain": "As + identity."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Tengo muchas ganas de ir a la reunión familiar.",
+     "answers": [
+      "I'm looking forward to the family reunion.",
+      "I am looking forward to the family reunion.",
+      "I'm looking forward to going to the family reunion.",
+      "I am looking forward to going to the family reunion."
+     ],
+     "explain": "Look forward to + noun or -ing."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed practice",
+   "instructions": "Exercises covering all the topics in the unit (includes 2 review items from unit 9).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Karen ___ to bring the cake, but she forgot.",
+     "options": [
+      "was supposed",
+      "supposed",
+      "is suppose"
+     ],
+     "answer": 0,
+     "explain": "Was supposed to = was expected to."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "I'm sure she'll get ___ it soon.",
+     "answers": [
+      "over"
+     ],
+     "explain": "Get over it."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "He was going to gave a speech.",
+     "answers": [
+      "He was going to give a speech."
+     ],
+     "explain": "Was going to + base verb."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Se supone que el pastel es de chocolate.",
+     "answers": [
+      "The cake is supposed to be chocolate.",
+      "The cake is supposed to be a chocolate cake.",
+      "It's supposed to be a chocolate cake.",
+      "It is supposed to be a chocolate cake.",
+      "The cake's supposed to be chocolate."
+     ],
+     "explain": "Is supposed to be = they say it is."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "___ a people person, she loves parties.",
+     "options": [
+      "As",
+      "Of",
+      "Than"
+     ],
+     "answer": 0,
+     "explain": "As + identity."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "So you're coming to the wedding, ___?",
+     "answers": [
+      "right",
+      "huh"
+     ],
+     "explain": "Statement question."
+    },
+    {
+     "id": "M7",
+     "type": "fix",
+     "prompt": "I couldn't get out the dinner.",
+     "answers": [
+      "I couldn't get out of the dinner."
+     ],
+     "explain": "Get out of."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "They're ___ to open a new restaurant downtown, according to the news.",
+     "answers": [
+      "supposed"
+     ],
+     "explain": "Rumor: is / are supposed to."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "(review: passive) Tamales ___ (make) with corn dough.",
+     "answers": [
+      "are made"
+     ],
+     "explain": "Present passive, plural."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "(review: -ing as subject) Cutting in line ___ rude.",
+     "answers": [
+      "is"
+     ],
+     "explain": "Gerund as subject: singular verb."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "A friend invited you to an event (a wedding, a barbecue, a surprise party) but you can't or don't want to go. Write an email of 180 to 250 words: thank them, explain what you were going to do and what you were supposed to do, what you tried in order to get out of it, and suggest an alternative plan. Use be supposed to, was / were going to and at least two phrasal verbs with get. Example opening: Hi Pablo, thanks so much for inviting me to the barbecue. I was going to come, but …",
+   "targets": [
+    "be supposed to / was supposed to",
+    "was / were going to",
+    "inseparable phrasal verbs with get",
+    "look forward to",
+    "as"
+   ],
+   "checklist": [
+    "Between 180 and 250 words",
+    "At least one sentence with am / is / are supposed to",
+    "At least one with was / were supposed to and one with was / were going to",
+    "Base verb after supposed to and going to",
+    "Two phrasal verbs with get (get out of, get around to…) with the object well placed",
+    "One sentence with as (because, being or while)",
+    "Email greeting and sign-off"
+   ],
+   "model": "Hi Pablo,\n\nThanks so much for inviting me to the barbecue. I was going to come, but something unexpected has happened. I'm supposed to finish a report by Monday, and I haven't even started it. My boss is supposed to read it first thing in the morning, so I can't leave it for later.\n\nI was supposed to work on it last week, but I never got around to it. Honestly, I tried to get out of it by asking a colleague to take over, but she was going to travel this weekend, so it didn't work. I also thought about asking for an extension. I was going to talk to my boss yesterday, but he was in meetings all day. In the end I had to get on with it by myself.\n\nAs I won't be able to finish before Sunday night, I really can't join you. I feel terrible, because I was looking forward to seeing everyone, and I'm sure it will be a great party. I hope you aren't upset.\n\nHow about this: next Saturday I could invite you and a few friends to my place? I'm going to make my famous tacos al pastor. We could watch the football match and catch up. Let me know if that works.\n\nHave a great barbecue, and say hi to everyone from me!\n\nBest wishes,\nDaniel"
+  },
+  {
+   "id": "W2",
+   "prompt": "Describe your social style in 180 to 250 words: are you an extrovert, an introvert or somewhere in between? Tell how you feel at parties, how you talk with people and what you do to have a good time. Use as (being / because / while), social vocabulary from the unit and at least one short dialogue of 2 to 3 lines with a confirmation question (So you're not coming, right?). Example opening: As an introvert, I like parties, but …",
+   "targets": [
+    "as = being / because / while",
+    "social style vocabulary",
+    "statement questions",
+    "get used to / get to know"
+   ],
+   "checklist": [
+    "Between 180 and 250 words",
+    "Three different uses of as (being, because, while)",
+    "At least 5 expressions from the social vocabulary",
+    "A statement question with right or huh",
+    "'an' before a vowel sound (an extrovert, an introvert)",
+    "One expression from the unit (By the way, Anyway, All I know is that…)",
+    "Clear paragraphs: introduction, development and closing"
+   ],
+   "model": "As an introvert, I like parties, but only for a short time. I'm somewhere between an extrovert and an introvert: being in a small group makes me feel relaxed, while big crowds make me tired.\n\nWhen I arrive at a party, I usually look for a quiet corner. As I'm not very good at small talk, I often stand next to the food and wait for someone to start a conversation. Once I get to know people, I feel more comfortable. I have to get used to the noise first, and then I can enjoy myself. My friends, who are more outgoing, always make me laugh, and I like being a good listener while they tell their stories.\n\nLast week there was a birthday party, and this is what happened:\n\n\"So you're not staying for the cake, right?\"\n\"I'm afraid not. I have an early day tomorrow.\"\n\"You always do, huh?\"\n\nAs I enjoy deep conversations more than dancing, I usually leave early. As I walk home, I feel happy and calm. By the way, I'm not shy at work; it is just that big events are exhausting.\n\nAnyway, all I know is that I need time alone to recharge. It doesn't mean I don't like people. It just means that I need a balance between going out and staying home, and I'm happy with that."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The party I couldn't get out of",
+   "intro": "Read the story of an introverted person and answer the questions.",
+   "paragraphs": [
+    "I'm not a party person. As an introvert, I recharge by spending time alone, and my idea of a perfect Friday night involves a sofa, a blanket, and a good series. So when my co-worker Daniela announced a surprise party for our boss, my heart sank. I could already imagine the music, the crowd, and the endless questions about my weekend plans.",
+    "\"You're coming, right?\" she asked at the coffee machine. I smiled, the way you do when you would prefer to disappear. The party was supposed to be small, just the team, but I got the feeling that it would turn into one of those loud evenings where you have to engage in chitchat for hours. I was going to say that I had other plans. In fact, I had already prepared a little white lie about a sick cousin. But Daniela looked so excited that I couldn't get out of it.",
+    "On Saturday I was supposed to arrive at seven, and I tried to get ready at the last minute so that I wouldn't have to wait around. Naturally, I got lost, and I walked in twenty minutes late, feeling every eye in the room turn toward me. The living room was full of people holding paper plates. I looked for a quiet corner, hoping to keep a low profile, but my boss, who is a real social animal, found me immediately. \"So parties aren't your thing, huh?\" he said, smiling. I laughed. \"To be honest, no.\"",
+    "Then something unexpected happened. Instead of pushing me into the center of attention, he told me he wasn't a big fan of large groups either. As an ambitious young manager, he had learned to be good at small talk, but it had taken years, and he still felt exhausted afterwards. We talked one on one for twenty minutes, and for the first time in months I felt that someone at work really understood me.",
+    "I stayed for three hours, which is a personal record. I didn't get around to dancing, of course, but I helped with the cake and listened to a colleague's travel stories. On the way home, I realized that I had spent weeks dreading that party, and it had been fine. I won't say I'm a new person; I'm still going to choose the sofa most Fridays. But next time someone asks, \"You're coming, right?\", I might say yes without looking for an excuse. As the saying goes, the hardest part is getting out of the house."
+   ],
+   "glossary": [
+    {
+     "en": "my heart sank",
+     "def": "to feel suddenly disappointed or discouraged"
+    },
+    {
+     "en": "recharge",
+     "def": "to regain your energy, usually by resting or spending time alone"
+    },
+    {
+     "en": "white lie",
+     "def": "a small, harmless lie told to avoid hurting someone's feelings"
+    },
+    {
+     "en": "dread",
+     "def": "to feel anxious or afraid about something that is going to happen"
+    },
+    {
+     "en": "keep a low profile",
+     "def": "to avoid attracting attention"
+    },
+    {
+     "en": "social animal",
+     "def": "a person who enjoys being with other people"
+    },
+    {
+     "en": "exhausted",
+     "def": "extremely tired, with no energy left"
+    },
+    {
+     "en": "colleague",
+     "def": "a person you work with"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "The writer enjoys big, noisy parties.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Says they are introverted and prefer the sofa."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Why did the writer go to the party?",
+     "options": [
+      "He is the boss.",
+      "He couldn't get out of it because Daniela looked so excited.",
+      "He loves cake."
+     ],
+     "answer": 1,
+     "explain": "Daniela looked so excited that she could not get out of it."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What time was the writer supposed to arrive?",
+     "options": [
+      "At six",
+      "At seven",
+      "At eight"
+     ],
+     "answer": 1,
+     "explain": "On Saturday I was supposed to arrive at seven."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "The writer arrived on time.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Got lost and walked in late."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "The boss said, \"So parties aren't your ___, huh?\"",
+     "answers": [
+      "thing"
+     ],
+     "explain": "Parties aren't your thing."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "They talked one on ___ for twenty minutes.",
+     "answers": [
+      "one"
+     ],
+     "explain": "One on one = de uno a uno."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "What did the boss confess?",
+     "options": [
+      "He doesn't like large groups either.",
+      "He hates his job.",
+      "He wants to quit."
+     ],
+     "answer": 0,
+     "explain": "He told me he wasn't a big fan of large groups either."
+    },
+    {
+     "id": "R8",
+     "type": "translate",
+     "prompt": "Nunca llegué a bailar.",
+     "answers": [
+      "I never got around to dancing.",
+      "I didn't get around to dancing."
+     ],
+     "explain": "Get around to + -ing."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Saturday plans",
+   "intro": "Listen to the conversation between two friends. You can repeat it.",
+   "lines": [
+    {
+     "who": "Paula",
+     "voice": "airy",
+     "text": "Diego, are you coming to Aunt Rosa's barbecue on Saturday?"
+    },
+    {
+     "who": "Diego",
+     "voice": "glassy",
+     "text": "I was going to, but I'm supposed to work that day. I'm trying to get out of it."
+    },
+    {
+     "who": "Paula",
+     "voice": "airy",
+     "text": "Weren't you supposed to get off work early on Fridays?"
+    },
+    {
+     "who": "Diego",
+     "voice": "glassy",
+     "text": "Yes, but my boss called a meeting for Saturday morning. So I can't get out of the meeting."
+    },
+    {
+     "who": "Paula",
+     "voice": "airy",
+     "text": "So you're not coming at all, huh?"
+    },
+    {
+     "who": "Diego",
+     "voice": "glassy",
+     "text": "Well, the barbecue is supposed to start at two. If the meeting ends at noon, I'll get there around three."
+    },
+    {
+     "who": "Paula",
+     "voice": "airy",
+     "text": "Great. By the way, did you get around to buying a gift for Grandma?"
+    },
+    {
+     "who": "Diego",
+     "voice": "glassy",
+     "text": "No, I never got around to it. I'm going to look for something on Friday."
+    },
+    {
+     "who": "Paula",
+     "voice": "airy",
+     "text": "Oh, come on! Her birthday is on Sunday. Do it tomorrow."
+    },
+    {
+     "who": "Diego",
+     "voice": "glassy",
+     "text": "OK, OK. As I have a free afternoon tomorrow, I'll go to the mall."
+    },
+    {
+     "who": "Paula",
+     "voice": "airy",
+     "text": "Perfect. Everybody is looking forward to seeing you."
+    },
+    {
+     "who": "Diego",
+     "voice": "glassy",
+     "text": "Me too. Anyway, I have to get going. See you Saturday!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Why can't Diego come early to the barbecue?",
+     "options": [
+      "He has a meeting on Saturday morning.",
+      "He is sick.",
+      "He is on vacation."
+     ],
+     "answer": 0,
+     "explain": "Their boss called a meeting on Saturday morning."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "When is the barbecue supposed to start?",
+     "options": [
+      "At two",
+      "At noon",
+      "At three"
+     ],
+     "answer": 0,
+     "explain": "The barbecue is supposed to start at two."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Diego has already bought a gift for Grandma.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "I never got around to it."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "When is Grandma's birthday?",
+     "options": [
+      "On Friday",
+      "On Saturday",
+      "On Sunday"
+     ],
+     "answer": 2,
+     "explain": "Her birthday is on Sunday."
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "Diego will go to the ___ tomorrow to buy a gift.",
+     "answers": [
+      "mall"
+     ],
+     "explain": "I'll go to the mall."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "I was going to come, but I'm supposed to work.",
+     "answers": [
+      "I was going to come, but I'm supposed to work."
+     ],
+     "explain": "Was going to + base; am supposed to + base."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Weren't you supposed to get off work early?",
+     "answers": [
+      "Weren't you supposed to get off work early?"
+     ],
+     "explain": "Weren't you supposed to + base."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "I never got around to it.",
+     "answers": [
+      "I never got around to it."
+     ],
+     "explain": "Get around to + objeto."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Everybody is looking forward to seeing you.",
+     "answers": [
+      "Everybody is looking forward to seeing you."
+     ],
+     "explain": "Look forward to + -ing."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Tell about a plan that did not happen: something you were going to do or were supposed to do, but didn't. Explain why.",
+     "questions": [
+      "What were you supposed to do last weekend?",
+      "Was there something you were going to do but didn't?",
+      "Why didn't you do it?",
+      "What are you supposed to do tomorrow?"
+     ],
+     "model": "Last weekend I was supposed to visit my grandmother, but I got sick. I was going to take her a cake, but I never got around to buying the ingredients. Tomorrow I'm supposed to work until five, and then I'm going to call her. I'm really looking forward to seeing her.",
+     "checklist": [
+      "was / were supposed to + base verb",
+      "was / were going to + base verb",
+      "get around to + -ing",
+      "look forward to"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about your social style: whether you are an extrovert or an introvert, how you feel at parties and why.",
+     "questions": [
+      "Are you an extrovert or an introvert?",
+      "Are you good at small talk?",
+      "Do you like being the center of attention?",
+      "How do you usually celebrate your birthday?"
+     ],
+     "model": "As an introvert, I prefer small groups. I'm not very good at small talk, so I usually talk one on one. I don't like being the center of attention; I keep a low profile at parties. For my birthday, I have dinner with three or four close friends.",
+     "checklist": [
+      "As + identity",
+      "Social vocabulary from the unit",
+      "be good at + noun / -ing",
+      "'an' before a vowel sound"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "A coworker invites you to a party, but you don't want to go. Make up an excuse or try to get out of it, and confirm what you understood with statement questions.",
+     "questions": [
+      "Are you coming to the party on Friday?",
+      "Can't you get out of your plans?",
+      "So you're not going to go?",
+      "What are you going to say to your friend?"
+     ],
+     "model": "I'm sorry, I can't make it. I was going to come, but I'm supposed to work on Saturday morning. So you really want me there, right? To be honest, I'm not a party person, but I'll try to get there for an hour. I'm looking forward to the cake!",
+     "checklist": [
+      "was going to / am supposed to",
+      "get out of / get around to",
+      "statement question with right or huh",
+      "To be honest / By the way"
+     ]
+    }
+   ],
+   "repeat": [
+    "It's supposed to be a surprise party.",
+    "I was supposed to arrive at seven.",
+    "He was going to give us directions.",
+    "I never got around to buying a gift.",
+    "So parties aren't your thing, huh?",
+    "As an extrovert, I love to socialize."
+   ]
+  }
+ }
+}

@@ -1,0 +1,1809 @@
+{
+ "id": "u-c2-03",
+ "level": "C2",
+ "n": 3,
+ "title": "In our own words",
+ "goals": [
+  "Use C2 phrasal verbs accurately (separable, inseparable and three-part verbs) and choose the appropriate register.",
+  "Use idioms about language and communication without translating them literally from Spanish.",
+  "Adjust your register (informal, neutral, formal) to your interlocutor and medium, using courteous indirectness.",
+  "Handle euphemism, dysphemism and connotation, and recognise doublespeak.",
+  "Speak with nuance about identity, culture, accents and dialects (code-switching, heritage speaker, accentism).",
+  "Consciously adapt your register to each context, in speech and in writing."
+ ],
+ "learn": [
+  {
+   "id": "g-phrasal",
+   "kind": "grammar",
+   "title": "C2 phrasal verbs: syntax, nuance and register",
+   "html": "<p>At C2 the problem is no longer knowing that they exist, but <strong>where to place the object</strong>, <strong>what nuance they add</strong> and <strong>which register they belong to</strong>. Almost all the phrasal verbs at this level are idiomatic: the meaning cannot be worked out from the parts (<em>come across as</em> has nothing to do with \"coming\" or \"crossing\").</p>\n<table><thead><tr><th>Type</th><th>Object rule</th><th>Example</th></tr></thead><tbody>\n<tr><td>Intransitive</td><td>No object</td><td>The effect soon <strong>wore off</strong>. / Many dialects are <strong>dying out</strong>.</td></tr>\n<tr><td>Transitive <strong>separable</strong></td><td>The object goes between the verb and the particle, or after it; <strong>a pronoun always goes in the middle</strong></td><td>She <strong>spelled out</strong> the terms. / She <strong>spelled the terms out</strong>. / She <strong>spelled them out</strong>.</td></tr>\n<tr><td>Transitive <strong>inseparable</strong></td><td>The object always goes after the particle</td><td>I <strong>came across</strong> the word by chance. / He <strong>takes after</strong> his father.</td></tr>\n<tr><td><strong>Three-part</strong> (verb + adverb + preposition)</td><td>Inseparable: the object goes at the end</td><td>I can't <strong>put up with</strong> it. / She <strong>lives up to</strong> her reputation.</td></tr>\n</tbody></table>\n<ul>\n<li><strong>Long object:</strong> with separable verbs, a very long object usually goes after the particle so the sentence does not \"break\": <em>She spelled out in no uncertain terms exactly what she expected.</em></li>\n<li><strong>Passive:</strong> the particle stays attached to the verb: <em>She was looked down on by her classmates.</em> (the final preposition is not dropped).</li>\n<li><strong>Preposition at the end:</strong> in neutral or informal register this is natural: <em>the dialect I grew up with</em>. In very formal register <em>the dialect with which I grew up</em> is preferred.</li>\n<li><strong>Register:</strong> most phrasal verbs sound neutral or informal, and their Latinate equivalents (<em>postpone, tolerate, convey</em>) sound more formal; but some are perfectly formal (<em>carry out, point out, set out</em>). You have to hear them in context, not just memorise them.</li>\n<li><strong>Polysemy:</strong> the same phrasal verb can have a literal and a figurative sense: <em>pick up</em> (to collect / to acquire an accent without trying / to understand); <em>come across</em> (to encounter / to give the impression of: <em>She comes across as aloof</em>).</li>\n<li><strong>Nuance of effortlessness:</strong> <em>pick up</em> a language means acquiring it through exposure; <em>learn</em> suggests study; <em>brush up on</em> means refreshing something you already knew.</li>\n</ul>",
+   "watch": [
+    {
+     "wrong": "She picked up it from her grandmother.",
+     "right": "She picked it up from her grandmother.",
+     "why": "With a separable verb, the object pronoun always goes between the verb and the particle."
+    },
+    {
+     "wrong": "I can't put it up with.",
+     "right": "I can't put up with it.",
+     "why": "Three-part verbs are inseparable: the object goes at the end."
+    },
+    {
+     "wrong": "She was looked down by her classmates.",
+     "right": "She was looked down on by her classmates.",
+     "why": "In the passive the preposition is kept: look down on → be looked down on."
+    },
+    {
+     "wrong": "He spelled out me the rules.",
+     "right": "He spelled the rules out to me.",
+     "why": "After the particle an indirect object cannot follow without \"to\"; restructure with \"to\" or place the direct object first."
+    }
+   ]
+  },
+  {
+   "id": "g-idioms",
+   "kind": "grammar",
+   "title": "Idioms about language and communication: how they behave",
+   "html": "<p>An idiom is a semi-fixed unit: its overall meaning does not derive from its words. Spanish speakers typically make two mistakes: <strong>calquing</strong> the Spanish idiom word for word (<em>andarse por las ramas</em> ≠ <em>walk around the branches</em>), and <strong>altering</strong> a part that does not allow change.</p>\n<table><thead><tr><th>Idiom</th><th>Approximate Spanish equivalent</th><th>Room for variation</th></tr></thead><tbody>\n<tr><td>beat around the bush</td><td>andarse por las ramas</td><td>It conjugates: <em>He kept beating around the bush.</em></td></tr>\n<tr><td>hit the nail on the head</td><td>dar en el clavo</td><td>Past tense: <em>You've hit the nail on the head.</em></td></tr>\n<tr><td>get the wrong end of the stick</td><td>entender al revés / malinterpretar</td><td>Accepts <em>get hold of the wrong end of the stick</em>.</td></tr>\n<tr><td>call a spade a spade</td><td>llamar al pan, pan y al vino, vino</td><td>Almost unalterable; it connotes frankness, sometimes bluntly so.</td></tr>\n<tr><td>bite your tongue</td><td>morderse la lengua</td><td>The possessive agrees with the subject: <em>I bit my tongue.</em></td></tr>\n</tbody></table>\n<ul>\n<li><strong>Grammatical agreement yes, lexical change no:</strong> tense, number and possessive are adjusted (<em>She bit her tongue</em>), but no word is substituted (<em>hit the nail in the head</em> is an error).</li>\n<li><strong>Fixed articles and prepositions:</strong> <em>in a nutshell</em> (not <em>in nutshell</em>), <em>at cross purposes</em> (not <em>in</em>).</li>\n<li><strong>Rhetorical effect:</strong> a well-placed idiom sounds natural; three in a row sound like a catalogue. In academic writing they are used sparingly, and sometimes in quotation marks or with a wink: <em>to borrow a phrase, ...</em></li>\n<li><strong>Creative twist (native level):</strong> speakers play with idioms: <em>Beating around the bush? You're practically mowing it.</em> It is only funny if the listener recognises the original.</li>\n<li><strong>Difference between idiom and collocation:</strong> <em>make a point</em> is a collocation (a habitual combination), whereas <em>get the wrong end of the stick</em> is an idiom (figurative meaning, not literal).</li>\n</ul>",
+   "watch": [
+    {
+     "wrong": "Stop going around the branches!",
+     "right": "Stop beating around the bush!",
+     "why": "Calque of \"andarse por las ramas\": English uses bush, not branches."
+    },
+    {
+     "wrong": "You hit the nail in the head.",
+     "right": "You hit the nail on the head.",
+     "why": "The preposition is fixed: on the head."
+    },
+    {
+     "wrong": "I think we have the cables crossed.",
+     "right": "I think we've got our wires crossed.",
+     "why": "Calque of \"cables cruzados\": in English they are wires, and the idiom is get / have our wires crossed."
+    },
+    {
+     "wrong": "In nutshell, we lost.",
+     "right": "In a nutshell, we lost.",
+     "why": "The article \"a\" is part of the idiom."
+    }
+   ]
+  },
+  {
+   "id": "g-register",
+   "kind": "grammar",
+   "title": "Register: from colloquial to formal (and how to choose)",
+   "html": "<p>English has no grammatical equivalent of <em>tú/usted</em>: formality is built with <strong>vocabulary, syntax and degree of indirectness</strong>. A Spanish speaker, used to <em>usted</em> doing the work, often sounds too blunt in English (<em>I want…</em>) or, when overcorrecting, absurdly stiff.</p>\n<table><thead><tr><th>Colloquial</th><th>Neutral</th><th>Formal / written</th></tr></thead><tbody>\n<tr><td>find out</td><td>discover</td><td>ascertain</td></tr>\n<tr><td>put off</td><td>delay</td><td>postpone, defer</td></tr>\n<tr><td>look into</td><td>investigate</td><td>examine, scrutinise</td></tr>\n<tr><td>get rid of</td><td>remove</td><td>dispose of, eliminate</td></tr>\n<tr><td>a lot of</td><td>plenty of</td><td>a considerable amount of</td></tr>\n<tr><td>Any chance you could…?</td><td>Could you…?</td><td>I should be grateful if you could…</td></tr>\n<tr><td>Sorry about that.</td><td>I'm sorry.</td><td>Please accept my apologies.</td></tr>\n</tbody></table>\n<ul>\n<li><strong>Grammar and register:</strong> contractions and ellipsis (<em>Seen the film?</em>, <em>Can't wait.</em>) are colloquial; passives, nominalisations and long subordinate clauses are formal; <em>preposition + which/whom</em> is formal (<em>the committee of which I am a member</em>); a preposition at the end is neutral (<em>the committee I'm a member of</em>).</li>\n<li><strong>Indirectness = courtesy:</strong> <em>I wonder if you could…</em> is more polite than <em>Could you…?</em>, and that is more polite than <em>Can you…?</em>. Avoid <em>I want</em> with strangers: <em>I'd like…</em> / <em>I was hoping to…</em>.</li>\n<li><strong>Colloquial markers:</strong> <em>well, you know, I mean, sort of, or something, mate</em>. Remove them from formal texts; use them in moderation in informal ones so you do not sound stiff.</li>\n<li><strong>Factors that decide register:</strong> power relationship, social distance, medium (email, message, speech) and purpose. Adjusting register to each interlocutor is a form of <em>code-switching</em>, not of insincerity.</li>\n<li><strong>Do not mix:</strong> a formal greeting with a colloquial body (<em>Dear Dr Hale, gonna need that by Friday</em>), or a pompous passive with a friend, sounds sarcastic.</li>\n</ul>",
+   "watch": [
+    {
+     "wrong": "Dear Ms Okafor, I'm gonna need the figures by Friday.",
+     "right": "Dear Ms Okafor, I will need the figures by Friday.",
+     "why": "Mixed register: a formal greeting requires a formal body (no \"gonna\")."
+    },
+    {
+     "wrong": "I want to speak with the manager.",
+     "right": "I'd like to speak to the manager.",
+     "why": "\"I want\" sounds abrupt to a stranger; \"I'd like\" softens it without losing firmness."
+    },
+    {
+     "wrong": "I have been informed by my friend that the party is cancelled, mate.",
+     "right": "Apparently the party's off, mate.",
+     "why": "A formal passive with a friend sounds distant or sarcastic: keep it colloquial with \"mate\"."
+    }
+   ]
+  },
+  {
+   "id": "g-euphemism",
+   "kind": "grammar",
+   "title": "Euphemism, dysphemism and connotation",
+   "html": "<p>Two words with the same <strong>denotation</strong> (referent) can carry opposite <strong>connotations</strong>. Choosing one or the other is taking a position. <strong>Euphemism</strong> softens what is uncomfortable; <strong>dysphemism</strong> deliberately hardens it; <em>doublespeak</em> uses euphemisms to <em>conceal</em> something.</p>\n<table><thead><tr><th>Direct</th><th>Euphemism</th><th>Nuance note</th></tr></thead><tbody>\n<tr><td>die</td><td>pass away / pass on</td><td>Condolences and respectful treatment; <em>kick the bucket</em> is a humorous dysphemism.</td></tr>\n<tr><td>fire (staff)</td><td>let go / make redundant / downsize</td><td>Corporate; <em>rightsizing</em> and <em>restructuring</em> can sound like doublespeak.</td></tr>\n<tr><td>unemployed</td><td>between jobs</td><td>Self-protection: it suggests something temporary.</td></tr>\n<tr><td>old people</td><td>older people / senior citizens</td><td>Respectful; <em>the elderly</em> sounds clinical and distant.</td></tr>\n<tr><td>poor country</td><td>developing country</td><td>Shifts the perspective from \"lack\" to \"process\".</td></tr>\n<tr><td>toilet</td><td>restroom / bathroom / the loo</td><td>The taboo shifts: the euphemistic \"treadmill\" effect.</td></tr>\n</tbody></table>\n<ul>\n<li><strong>Connotation scale:</strong> <em>thrifty / frugal</em> (positive), <em>economical</em> (neutral), <em>cheap / stingy</em> (negative); <em>determined</em> (+), <em>stubborn</em> (−), <em>pig-headed</em> (−−). The word you choose reveals your judgement.</li>\n<li><strong>\"Euphemism treadmill\":</strong> a euphemism picks up the taboo of what it replaces and, over time, becomes offensive; it then has to be replaced (<em>handicapped → disabled → person with a disability</em>). This is why some labels, such as <em>handicapped</em>, now sound old-fashioned.</li>\n<li><strong>When to soften:</strong> condolences, bad news, health, age, disability. <strong>When not to:</strong> safety instructions, contracts, precise diagnoses: there, vagueness is dangerous.</li>\n<li><strong>Beware of affection:</strong> adjectives that can be affectionate in Spanish (<em>gordito</em>, <em>flaquito</em>) have no warm equivalent in English; <em>fat</em> or <em>skinny</em> usually sound like an insult.</li>\n<li><strong>Doublespeak:</strong> <em>collateral damage</em>, <em>enhanced interrogation</em>, <em>pre-owned</em>: language that hides or disguises. Spotting it is part of reading between the lines.</li>\n</ul>",
+   "watch": [
+    {
+     "wrong": "My neighbour, who is handicapped, volunteers at the library.",
+     "right": "My neighbour, who has a disability, volunteers at the library.",
+     "why": "\"Handicapped\" sounds outdated; today \"person with a disability\" or \"disabled person\" is preferred."
+    },
+    {
+     "wrong": "I'm so sorry your father is dead.",
+     "right": "I'm so sorry for your loss.",
+     "why": "In condolences, \"dead\" is blunt; people say \"for your loss\" or \"passed away\"."
+    },
+    {
+     "wrong": "He is very cheap, and I admire that.",
+     "right": "He is very frugal, and I admire that.",
+     "why": "\"Cheap\" applied to a person is pejorative; if you admire the trait, use \"frugal\" or \"thrifty\"."
+    }
+   ]
+  },
+  {
+   "id": "v-identity",
+   "kind": "vocab",
+   "title": "Identity, culture and belonging",
+   "words": [
+    {
+     "id": "w-heritage",
+     "en": "heritage",
+     "es": "herencia cultural, patrimonio (lengua, tradiciones)",
+     "example": "She is proud of her Zapotec heritage and still speaks the language with her grandparents.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-belonging",
+     "en": "a sense of belonging",
+     "es": "sentido de pertenencia",
+     "example": "Sharing a dialect can create an instant sense of belonging.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-assimilate",
+     "en": "assimilate",
+     "es": "asimilarse, integrarse (a menudo implica perder rasgos propios)",
+     "example": "Pressure to assimilate led many families to stop speaking their language at home."
+    },
+    {
+     "id": "w-diaspora",
+     "en": "diaspora",
+     "es": "diáspora, comunidad dispersa fuera de su lugar de origen",
+     "example": "The Lebanese diaspora in Mexico has kept its cuisine and many of its words."
+    },
+    {
+     "id": "w-heritage-speaker",
+     "en": "heritage speaker",
+     "es": "hablante de herencia (crece con la lengua familiar pero domina la del entorno)",
+     "example": "As a heritage speaker, she understands everything but hesitates when she writes.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-code-switching",
+     "en": "code-switching",
+     "es": "alternar entre lenguas o registros según el contexto (no es «mezclar por error»)",
+     "example": "Code-switching between English and Spanish is a sophisticated skill, not a deficiency."
+    },
+    {
+     "id": "w-lingua-franca",
+     "en": "lingua franca",
+     "es": "lengua franca, idioma vehicular entre hablantes de lenguas distintas",
+     "example": "English has become the lingua franca of international aviation."
+    },
+    {
+     "id": "w-mother-tongue",
+     "en": "mother tongue",
+     "es": "lengua materna (también first language, native language)",
+     "example": "It is hard to joke in anything other than your mother tongue.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-outsider",
+     "en": "outsider",
+     "es": "persona ajena al grupo, forastero",
+     "example": "No matter how fluent he was, he was always treated as an outsider.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-stereotype",
+     "en": "stereotype",
+     "es": "estereotipo; como verbo, encasillar",
+     "example": "Accents are often used to stereotype speakers before they have said anything of substance.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-roots",
+     "en": "roots",
+     "es": "raíces (origen familiar y cultural)",
+     "example": "She went back to Oaxaca to reconnect with her roots.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-marginalise",
+     "en": "marginalise",
+     "es": "marginar, relegar a un segundo plano",
+     "example": "Policies that ignore regional languages tend to marginalise their speakers."
+    },
+    {
+     "id": "w-cultural-appropriation",
+     "en": "cultural appropriation",
+     "es": "apropiación cultural (adoptar elementos de una cultura sin respeto o reconocimiento; ≠ appreciation)",
+     "example": "The debate turns on the difference between appreciation and cultural appropriation.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-hybrid-identity",
+     "en": "hybrid identity",
+     "es": "identidad híbrida (que combina más de una cultura)",
+     "example": "Many second-generation migrants describe a hybrid identity that fits neither country exactly.",
+     "cefr": "C1"
+    }
+   ]
+  },
+  {
+   "id": "v-accents",
+   "kind": "vocab",
+   "title": "Accents and dialects",
+   "words": [
+    {
+     "id": "w-accent",
+     "en": "accent",
+     "es": "acento (forma de pronunciar; todos los hablantes tienen uno)",
+     "example": "Everybody has an accent; some are simply treated as the default.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-dialect",
+     "en": "dialect",
+     "es": "dialecto (variedad con léxico y gramática propios, no solo pronunciación)",
+     "example": "In her village they speak a dialect that visitors can barely follow."
+    },
+    {
+     "id": "w-idiolect",
+     "en": "idiolect",
+     "es": "idiolecto (forma personal e irrepetible de hablar de cada individuo)",
+     "example": "Your idiolect is shaped by every person you have ever talked to."
+    },
+    {
+     "id": "w-vernacular",
+     "en": "vernacular",
+     "es": "lengua vernácula, habla cotidiana de una comunidad (vs. lengua formal)",
+     "example": "The playwright wrote in the vernacular of the docks."
+    },
+    {
+     "id": "w-rp",
+     "en": "Received Pronunciation (RP)",
+     "es": "pronunciación estándar prestigiosa del inglés británico, asociada a la educación y la clase alta",
+     "example": "RP is spoken natively by only a small fraction of Britons.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-drawl",
+     "en": "drawl",
+     "es": "habla lenta con vocales alargadas (p. ej., el sur de EE. UU.)",
+     "example": "He spoke with a lazy drawl that made every sentence sound like a joke."
+    },
+    {
+     "id": "w-twang",
+     "en": "twang",
+     "es": "deje nasal marcado",
+     "example": "Her country twang gave her away within seconds."
+    },
+    {
+     "id": "w-lilt",
+     "en": "lilt",
+     "es": "cadencia melodiosa, entonación ascendente y descendente agradable",
+     "example": "She spoke with a soft Welsh lilt."
+    },
+    {
+     "id": "w-brogue",
+     "en": "brogue",
+     "es": "acento marcado, sobre todo irlandés o escocés",
+     "example": "He still has a thick Irish brogue after thirty years in Texas."
+    },
+    {
+     "id": "w-slang",
+     "en": "slang",
+     "es": "argot, jerga informal (cambia rápido y marca grupo)",
+     "example": "Teenage slang can date a conversation within a year."
+    },
+    {
+     "id": "w-jargon",
+     "en": "jargon",
+     "es": "jerga profesional (a menudo opaca para quien no es del gremio)",
+     "example": "The contract was so full of legal jargon that nobody read it."
+    },
+    {
+     "id": "w-creole",
+     "en": "creole",
+     "es": "lengua criolla (surge del contacto de lenguas y se convierte en lengua materna)",
+     "example": "Haitian Creole is spoken by millions of people."
+    },
+    {
+     "id": "w-mutually-intelligible",
+     "en": "mutually intelligible",
+     "es": "mutuamente inteligible (hablantes de dos variedades se entienden sin estudio previo)",
+     "example": "Norwegian and Swedish are largely mutually intelligible."
+    },
+    {
+     "id": "w-accentism",
+     "en": "accentism / linguistic prejudice",
+     "es": "discriminación por la forma de hablar",
+     "example": "Accentism makes people judge competence by sound rather than substance.",
+     "cefr": "C1"
+    }
+   ]
+  },
+  {
+   "id": "v-phrasal",
+   "kind": "vocab",
+   "title": "Phrasal verbs for language, culture and identity",
+   "words": [
+    {
+     "id": "w-pick-up",
+     "en": "pick up (an accent / a language)",
+     "es": "adquirir sin proponérselo, pegarse (un acento, una lengua)",
+     "example": "She picked up the accent within a few months of moving.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-fall-back-on",
+     "en": "fall back on",
+     "es": "recurrir a, echar mano de (un recurso de reserva)",
+     "example": "When words failed me, I fell back on gestures.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-brush-up-on",
+     "en": "brush up on",
+     "es": "repasar, refrescar un conocimiento que ya se tenía",
+     "example": "I need to brush up on my German before the interview.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-rub-off-on",
+     "en": "rub off on",
+     "es": "contagiarse a, pegársele a alguien (rasgo, hábito, forma de hablar)",
+     "example": "Her optimism rubbed off on the whole team.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-play-down",
+     "en": "play down",
+     "es": "restar importancia a, minimizar",
+     "example": "He played down his fluency to avoid being asked to translate.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-spell-out",
+     "en": "spell out",
+     "es": "explicar con todo detalle y sin dejar nada implícito",
+     "example": "I had to spell out the difference to him.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-across",
+     "en": "get (something) across",
+     "es": "hacer entender, transmitir (una idea) con éxito",
+     "example": "She struggled to get her point across in a second language.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-iron-out",
+     "en": "iron out",
+     "es": "limar, resolver (diferencias, problemas pequeños)",
+     "example": "We still have to iron out a few discrepancies in the translation.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-hold-on-to",
+     "en": "hold on to",
+     "es": "aferrarse a, conservar (tradición, identidad)",
+     "example": "Migrant families often hold on to their traditions through food and language.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-grow-out-of",
+     "en": "grow out of",
+     "es": "dejar atrás con la edad, superar (un hábito)",
+     "example": "She grew out of her teenage slang by the time she was twenty.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fit-in",
+     "en": "fit in (with)",
+     "es": "encajar, adaptarse a un grupo",
+     "example": "He changed the way he spoke to fit in with his new classmates.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-tone-down",
+     "en": "tone down",
+     "es": "suavizar, atenuar (tono, lenguaje, acento)",
+     "example": "She toned down her accent for the interview.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-slip-into",
+     "en": "slip into",
+     "es": "pasar insensiblemente a (otro registro, dialecto o lengua)",
+     "example": "Whenever she phones home, she slips into the dialect of her childhood.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-talk-down-to",
+     "en": "talk down to",
+     "es": "hablar con condescendencia a (alguien)",
+     "example": "Nobody likes being talked down to, least of all by a stranger.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pass-on",
+     "en": "pass on",
+     "es": "transmitir (tradiciones, conocimientos, valores) a la siguiente generación",
+     "example": "The language was passed on orally for centuries.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-die-out",
+     "en": "die out",
+     "es": "extinguirse, desaparecer del todo (lenguas, costumbres, especies)",
+     "example": "Hundreds of languages are expected to die out this century.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-come-across-as",
+     "en": "come across as",
+     "es": "dar la impresión de ser (percepción del oyente)",
+     "example": "He comes across as arrogant, though he's simply shy.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-idioms",
+   "kind": "vocab",
+   "title": "Idioms about language and communication",
+   "words": [
+    {
+     "id": "w-beat-around-the-bush",
+     "en": "beat around the bush",
+     "es": "andarse por las ramas, no ir al grano",
+     "example": "Stop beating around the bush and tell us what happened.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-hit-the-nail",
+     "en": "hit the nail on the head",
+     "es": "dar en el clavo, acertar exactamente",
+     "example": "You've hit the nail on the head: it's not the grammar, it's the confidence.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-wrong-end-of-stick",
+     "en": "get the wrong end of the stick",
+     "es": "entender al revés, malinterpretar",
+     "example": "I think you've got the wrong end of the stick: she never said she was leaving.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-lost-in-translation",
+     "en": "lost in translation",
+     "es": "que se pierde al pasar de una lengua a otra (matiz, humor)",
+     "example": "Puns are the first thing to get lost in translation.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-read-between-lines",
+     "en": "read between the lines",
+     "es": "leer entre líneas, captar lo implícito",
+     "example": "If you read between the lines, the letter is really a warning.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-way-with-words",
+     "en": "have a way with words",
+     "es": "tener facilidad de palabra, expresarse con talento",
+     "example": "She has a way with words; one sentence from her can settle an argument.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-bite-your-tongue",
+     "en": "bite your tongue",
+     "es": "morderse la lengua, contenerse de decir algo",
+     "example": "I bit my tongue rather than argue at the wedding.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-slip-of-the-tongue",
+     "en": "a slip of the tongue",
+     "es": "un lapsus (decir sin querer otra cosa)",
+     "example": "Calling her teacher 'Mum' was just a slip of the tongue.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-in-a-nutshell",
+     "en": "in a nutshell",
+     "es": "en pocas palabras, en resumen",
+     "example": "In a nutshell, we need more time and fewer meetings."
+    },
+    {
+     "id": "w-call-a-spade",
+     "en": "call a spade a spade",
+     "es": "llamar al pan, pan y al vino, vino (hablar sin rodeos, a veces con dureza)",
+     "example": "I'm going to call a spade a spade: this draft isn't ready.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-cross-purposes",
+     "en": "talk at cross purposes",
+     "es": "no entenderse por referirse cada quien a algo distinto",
+     "example": "We spent an hour talking at cross purposes before we realised we meant different dates.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-wires-crossed",
+     "en": "get your wires crossed",
+     "es": "confundirse, haber un malentendido",
+     "example": "We must have got our wires crossed: I thought the meeting was on Tuesday.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-lose-the-thread",
+     "en": "lose the thread",
+     "es": "perder el hilo",
+     "example": "I lost the thread halfway through his answer.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-mince-words",
+     "en": "not mince your words",
+     "es": "no andarse con rodeos, hablar con crudeza",
+     "example": "The manager did not mince her words about the delays.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-register",
+   "kind": "expressions",
+   "title": "Useful phrases: adjusting register and reformulating",
+   "html": "<ul>\n<li><strong>Formal:</strong> <em>I am writing with regard to…</em> / <em>I should be grateful if you could…</em> / <em>Might I suggest…?</em> / <em>Please do not hesitate to contact me.</em></li>\n<li><strong>Neutral:</strong> <em>Could you possibly…?</em> / <em>Just checking whether…</em> / <em>I was wondering if…</em></li>\n<li><strong>Informal:</strong> <em>Any chance you could…?</em> / <em>Mind if I…?</em> / <em>Sorry, I didn't catch that.</em></li>\n<li><strong>Reformulating without belittling the other person:</strong> <em>What I mean is…</em> / <em>Put another way,…</em> / <em>To put it more simply,…</em></li>\n<li><strong>Softening an uncomfortable truth:</strong> <em>Not to put too fine a point on it,…</em> / <em>With the greatest respect,…</em> / <em>I don't mean to be rude, but…</em></li>\n<li><strong>Deliberate vagueness (colloquial):</strong> <em>sort of, kind of, or something, and stuff</em>: they soften, but overusing them undermines authority in formal contexts.</li>\n<li><strong>Talking about your own language:</strong> <em>I sound different depending on who I'm talking to.</em> / <em>I tend to slip into Spanish when I'm tired.</em> / <em>It doesn't quite translate.</em></li>\n</ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Phrasal verbs: the right particle",
+   "instructions": "Write the missing particle to complete the phrasal verb.",
+   "topic": "g-phrasal",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "Her grandmother's rolling accent has rubbed ___ on all her grandchildren.",
+     "answers": [
+      "off"
+     ],
+     "explain": "rub off on = to influence someone by example, passing on a quality or habit."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Please don't talk ___ to me as though I were a child.",
+     "answers": [
+      "down"
+     ],
+     "explain": "talk down to = to speak to someone condescendingly, as if they were less intelligent."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "I can't put up ___ people who correct my grammar at dinner.",
+     "answers": [
+      "with"
+     ],
+     "explain": "put up with = tolerate; a three-part verb (verb + particle + preposition)."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "She's rusty, so she's brushing ___ on her German before the move.",
+     "answers": [
+      "up"
+     ],
+     "explain": "brush up on = to refresh one's knowledge of something."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "When the funding ended, the museum had to fall ___ on volunteers.",
+     "answers": [
+      "back"
+     ],
+     "explain": "fall back on = to resort to something when other options fail."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "Many of the region's minority languages have died ___ within two generations.",
+     "answers": [
+      "out"
+     ],
+     "explain": "die out = to become extinct, to gradually disappear."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "He didn't say it directly, so I asked him to spell it ___.",
+     "answers": [
+      "out"
+     ],
+     "explain": "spell out = to explain in full detail; with a pronoun, the pronoun goes in the middle."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Phrasal verbs: meaning and object placement",
+   "instructions": "Choose the correct option or correct the sentence.",
+   "topic": "v-phrasal",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "Mariana always ___ her achievements, which makes her seem modest.",
+     "options": [
+      "plays down",
+      "plays out",
+      "plays up"
+     ],
+     "answer": 0,
+     "explain": "play down = to minimise, to make something seem less important."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "My manager ___ as rather cold at first, but she's actually very warm.",
+     "options": [
+      "comes across",
+      "comes through",
+      "comes along"
+     ],
+     "answer": 0,
+     "explain": "come across as = to give the impression of being."
+    },
+    {
+     "id": "B3",
+     "type": "fix",
+     "prompt": "She picked up it from her grandmother.",
+     "answers": [
+      "She picked it up from her grandmother."
+     ],
+     "explain": "The object pronoun goes between the verb and the particle."
+    },
+    {
+     "id": "B4",
+     "type": "fix",
+     "prompt": "Her classmates looked down her because of her accent.",
+     "answers": [
+      "Her classmates looked down on her because of her accent.",
+      "Her classmates looked down upon her because of her accent."
+     ],
+     "explain": "look down on is a three-part verb (verb + particle + preposition); the object goes after \"on\"."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "We spent two hours ___ the differences between the translations.",
+     "options": [
+      "ironing out",
+      "ironing up",
+      "ironing over"
+     ],
+     "answer": 0,
+     "explain": "iron out = to resolve or smooth out differences."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "We couldn't get our point across them.",
+     "answers": [
+      "We couldn't get our point across to them."
+     ],
+     "explain": "get something across to someone: the preposition \"to\" is missing."
+    },
+    {
+     "id": "B7",
+     "type": "choice",
+     "prompt": "Whenever she phones her mother, she ___ the dialect of her childhood.",
+     "options": [
+      "slips into",
+      "slips out of",
+      "slips up on"
+     ],
+     "answer": 0,
+     "explain": "slip into = to switch, without meaning to, into a different way of speaking."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Idioms about language and communication",
+   "instructions": "Complete, choose or correct.",
+   "topic": "v-idioms",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "You've hit the nail on the ___: that's exactly the problem.",
+     "answers": [
+      "head"
+     ],
+     "explain": "hit the nail on the head = to be exactly right."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "I think you got the wrong end of the ___; she never said she was leaving.",
+     "answers": [
+      "stick"
+     ],
+     "explain": "get the wrong end of the stick = to misunderstand."
+    },
+    {
+     "id": "C3",
+     "type": "choice",
+     "prompt": "Something that is 'lost in translation' is:",
+     "options": [
+      "a nuance that does not survive the move to another language",
+      "a document accidentally deleted",
+      "an interpreter's unpaid fee"
+     ],
+     "answer": 0,
+     "explain": "lost in translation = a nuance that does not carry over from one language to another."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "Let me put it in a ___: we need more time and fewer meetings.",
+     "answers": [
+      "nutshell"
+     ],
+     "explain": "in a nutshell = in brief, summarised very concisely."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "She has a way of words, and everyone listens.",
+     "answers": [
+      "She has a way with words, and everyone listens."
+     ],
+     "explain": "have a way with words: the preposition is \"with\"."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "We both thought we agreed, but we were clearly talking at ___.",
+     "options": [
+      "cross purposes",
+      "opposite ends",
+      "different heights"
+     ],
+     "answer": 0,
+     "explain": "talk at cross purposes = to misunderstand each other because each is talking about something different."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "He bit his language rather than argue at the funeral.",
+     "answers": [
+      "He bit his tongue rather than argue at the funeral."
+     ],
+     "explain": "bite one's tongue = to hold back a comment or remark."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Register: formal, neutral and informal",
+   "instructions": "Choose the appropriate option or complete.",
+   "topic": "g-register",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "Which is the most formal way to ask a colleague to send a file?",
+     "options": [
+      "Send me that file, will you?",
+      "Any chance you could send that over?",
+      "I should be grateful if you could forward the file."
+     ],
+     "answer": 2,
+     "explain": "\"I should be grateful if you could…\" is the most formal formula."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "Choose the everyday phrasal verb that matches the formal verb 'ascertain'.",
+     "options": [
+      "find out",
+      "put off",
+      "look after"
+     ],
+     "answer": 0,
+     "explain": "ascertain = find out, establish (formal)."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "Which sentence suits an email to a senior client you have never met?",
+     "options": [
+      "Hey, can't make Tuesday, sorry!",
+      "I regret that I shall be unable to attend on Tuesday.",
+      "Tuesday's a no-go, I'm afraid, mate."
+     ],
+     "answer": 1,
+     "explain": "Formal passive and \"regret that\" construction: appropriate register."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "Which message sounds like a text to a close friend?",
+     "options": [
+      "I shall be delighted to attend.",
+      "Can't make it tonight, sorry. Work's mental.",
+      "Kindly note that I shall be unavailable."
+     ],
+     "answer": 1,
+     "explain": "Ellipsis, contraction and colloquial vocabulary."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "We have decided to ___ the vote until March. (formal verb for 'put off')",
+     "answers": [
+      "postpone",
+      "defer"
+     ],
+     "explain": "postpone / defer = formal equivalents of \"put off\"."
+    },
+    {
+     "id": "D6",
+     "type": "gap",
+     "prompt": "The committee of ___ I am a member has approved the plan. (formal)",
+     "answers": [
+      "which"
+     ],
+     "explain": "Formal register: preposition + which."
+    },
+    {
+     "id": "D7",
+     "type": "choice",
+     "prompt": "In English, the difference between formal and informal address is carried mainly by:",
+     "options": [
+      "a separate 'usted' form",
+      "vocabulary, grammar and degree of indirectness",
+      "spelling only"
+     ],
+     "answer": 1,
+     "explain": "English has no tú/usted distinction: formality is conveyed through vocabulary, syntax and indirectness."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Euphemism, dysphemism and connotation",
+   "instructions": "Choose the option or correct the sentence.",
+   "topic": "g-euphemism",
+   "items": [
+    {
+     "id": "E1",
+     "type": "choice",
+     "prompt": "Which is a euphemism for 'died'?",
+     "options": [
+      "passed away",
+      "passed over",
+      "passed by"
+     ],
+     "answer": 0,
+     "explain": "pass away = a common euphemism for \"died\"."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "'We're letting twenty staff go' is a euphemism for:",
+     "options": [
+      "making twenty employees redundant",
+      "giving staff a holiday",
+      "training twenty staff"
+     ],
+     "answer": 0,
+     "explain": "let go = to dismiss staff, in a softened way."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "She isn't stingy; she's just ___. (a positive word for 'careful with money')",
+     "answers": [
+      "thrifty",
+      "frugal"
+     ],
+     "explain": "thrifty / frugal have positive connotations."
+    },
+    {
+     "id": "E4",
+     "type": "fix",
+     "prompt": "My neighbour, who is handicapped, volunteers at the library.",
+     "answers": [
+      "My neighbour, who is disabled, volunteers at the library.",
+      "My neighbour, who has a disability, volunteers at the library."
+     ],
+     "explain": "Handicapped sounds outdated and can be offensive."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "Someone who won't change their mind: which word carries the most positive connotation?",
+     "options": [
+      "pig-headed",
+      "stubborn",
+      "determined"
+     ],
+     "answer": 2,
+     "explain": "determined (+), stubborn (−), pig-headed (−−)."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "'Collateral damage' used by a spokesperson for civilian deaths is an example of:",
+     "options": [
+      "a plain description",
+      "doublespeak: a euphemism that obscures",
+      "a sports metaphor"
+     ],
+     "answer": 1,
+     "explain": "A euphemism that hides the truth = doublespeak."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "'Between jobs' is a gentle way of saying that someone is ___.",
+     "answers": [
+      "unemployed",
+      "out of work",
+      "jobless"
+     ],
+     "explain": "between jobs = unemployed, in a softened way."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Identity, accents and dialects",
+   "instructions": "Complete or choose.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "She alternates between Spanish and English mid-sentence depending on who is listening. This is called code-___.",
+     "answers": [
+      "switching"
+     ],
+     "explain": "code-switching = alternating between languages or registers."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "English used between a Thai and a Brazilian businessperson is functioning as a ___.",
+     "options": [
+      "lingua franca",
+      "creole",
+      "brogue"
+     ],
+     "answer": 0,
+     "explain": "lingua franca = a shared language used for communication between speakers of different first languages."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "A 'heritage speaker' is someone who:",
+     "options": [
+      "grew up hearing a family language at home but mostly uses another outside it",
+      "studies dead languages at a museum",
+      "teaches classical rhetoric"
+     ],
+     "answer": 0,
+     "explain": "heritage speaker = someone who grew up hearing a language at home (often a minority or immigrant language) but is more dominant in another."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "A slow way of speaking with lengthened vowels, often linked to the American South, is a ___.",
+     "answers": [
+      "drawl"
+     ],
+     "explain": "drawl = a slow way of speaking with stretched vowels."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "Which word names the specialised vocabulary of a profession, often opaque to outsiders?",
+     "options": [
+      "jargon",
+      "drawl",
+      "lilt"
+     ],
+     "answer": 0,
+     "explain": "jargon = the specialised vocabulary of a profession or group."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "Judging someone's intelligence by how they speak is a form of linguistic ___. (prejudice / discrimination)",
+     "answers": [
+      "discrimination",
+      "prejudice"
+     ],
+     "explain": "Accentism = linguistic discrimination/prejudice."
+    },
+    {
+     "id": "F7",
+     "type": "choice",
+     "prompt": "Two dialects are 'mutually intelligible' when:",
+     "options": [
+      "speakers can understand each other without special study",
+      "both use the same alphabet",
+      "both have the same number of speakers"
+     ],
+     "answer": 0,
+     "explain": "mutually intelligible = speakers of each can understand the other without prior study."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "picked",
+      "it",
+      "up",
+      "she",
+      "from",
+      "her",
+      "grandmother"
+     ],
+     "answers": [
+      "She picked it up from her grandmother."
+     ],
+     "explain": "The pronoun goes between the verb and the particle."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Not",
+      "everything",
+      "can",
+      "be",
+      "put",
+      "into",
+      "words"
+     ],
+     "answers": [
+      "Not everything can be put into words."
+     ],
+     "explain": "Passive with a modal: \"can be put into words\"."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I",
+      "wonder",
+      "if",
+      "you",
+      "could",
+      "possibly",
+      "give",
+      "me",
+      "a",
+      "hand"
+     ],
+     "answers": [
+      "I wonder if you could possibly give me a hand."
+     ],
+     "explain": "Courteous indirectness: \"I wonder if you could…\""
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Her",
+      "accent",
+      "has",
+      "rubbed",
+      "off",
+      "on",
+      "all",
+      "of",
+      "us"
+     ],
+     "answers": [
+      "Her accent has rubbed off on all of us."
+     ],
+     "explain": "rub off on = to influence someone by example."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "He",
+      "came",
+      "across",
+      "as",
+      "far",
+      "more",
+      "confident",
+      "than",
+      "he",
+      "felt"
+     ],
+     "answers": [
+      "He came across as far more confident than he felt."
+     ],
+     "explain": "come across as + adjective."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "The",
+      "language",
+      "is",
+      "in",
+      "danger",
+      "of",
+      "dying",
+      "out",
+      "within",
+      "a",
+      "generation"
+     ],
+     "answers": [
+      "The language is in danger of dying out within a generation."
+     ],
+     "explain": "\"in danger of\" + -ing; \"die out\"."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English; use the hint in brackets.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Ella adquirió el acento de su abuela. (pick up)",
+     "answers": [
+      "She picked up her grandmother's accent.",
+      "She picked up her grandma's accent.",
+      "She picked her grandmother's accent up.",
+      "She picked her grandma's accent up."
+     ],
+     "explain": "pick up = to acquire something effortlessly, without studying it."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "No soporto que me hablen con condescendencia. (talk down to)",
+     "answers": [
+      "I can't stand being talked down to.",
+      "I can't stand people talking down to me.",
+      "I can't stand it when people talk down to me.",
+      "I cannot stand being talked down to.",
+      "I cannot stand people talking down to me.",
+      "I cannot stand it when people talk down to me.",
+      "I can't bear being talked down to.",
+      "I can't bear people talking down to me.",
+      "I can't put up with being talked down to.",
+      "I can't put up with people talking down to me.",
+      "I cannot bear being talked down to.",
+      "I cannot bear people talking down to me.",
+      "I cannot put up with being talked down to.",
+      "I cannot put up with people talking down to me."
+     ],
+     "explain": "talk down to; \"can't stand\" + -ing."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Tú diste en el clavo.",
+     "answers": [
+      "You hit the nail on the head.",
+      "You've hit the nail on the head.",
+      "You have hit the nail on the head."
+     ],
+     "explain": "hit the nail on the head."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Me mordí la lengua para no discutir.",
+     "answers": [
+      "I bit my tongue to avoid arguing.",
+      "I bit my tongue so as not to argue.",
+      "I bit my tongue so I wouldn't argue.",
+      "I bit my tongue rather than argue.",
+      "I bit my tongue to avoid an argument.",
+      "I bit my tongue so that I wouldn't argue."
+     ],
+     "explain": "bite one's tongue; the possessive agrees with the subject."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "En pocas palabras, necesitamos más tiempo.",
+     "answers": [
+      "In a nutshell, we need more time.",
+      "To put it in a nutshell, we need more time.",
+      "In short, we need more time.",
+      "In brief, we need more time."
+     ],
+     "explain": "in a nutshell = in brief."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Muchas lenguas minoritarias se están extinguiendo. (die out)",
+     "answers": [
+      "Many minority languages are dying out.",
+      "Lots of minority languages are dying out.",
+      "A lot of minority languages are dying out."
+     ],
+     "explain": "die out; present continuous for a process in progress."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Mixed exercises covering the whole unit (the last two review Units 1 and 2).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "She tried to ___ her accent for the interview, but it kept slipping back.",
+     "options": [
+      "tone down",
+      "tone up",
+      "tone over"
+     ],
+     "answer": 0,
+     "explain": "tone down = to moderate, to soften."
+    },
+    {
+     "id": "M2",
+     "type": "fix",
+     "prompt": "I'll look up it in the dictionary.",
+     "answers": [
+      "I'll look it up in the dictionary."
+     ],
+     "explain": "look up is separable: the pronoun goes in the middle."
+    },
+    {
+     "id": "M3",
+     "type": "gap",
+     "prompt": "My roots are in Oaxaca, so I feel a strong sense of ___ there.",
+     "answers": [
+      "belonging"
+     ],
+     "explain": "a sense of belonging = a feeling of being part of a community."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "Which opening suits an email to the CEO?",
+     "options": [
+      "Hey, quick one —",
+      "Dear Mr Alder,",
+      "Yo, Mr Alder,"
+     ],
+     "answer": 1,
+     "explain": "\"Dear\" + surname: formal register."
+    },
+    {
+     "id": "M5",
+     "type": "translate",
+     "prompt": "Algunos dialectos son mutuamente inteligibles.",
+     "answers": [
+      "Some dialects are mutually intelligible.",
+      "Certain dialects are mutually intelligible."
+     ],
+     "explain": "mutually intelligible."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "A nuance that does not survive the move between languages is said to be lost in ___.",
+     "answers": [
+      "translation"
+     ],
+     "explain": "lost in translation."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "He's very ___ with money: he never wastes a peso, and I admire it.",
+     "options": [
+      "frugal",
+      "stingy",
+      "tight-fisted"
+     ],
+     "answer": 0,
+     "explain": "Positive connotation: frugal."
+    },
+    {
+     "id": "M8",
+     "type": "translate",
+     "prompt": "No pude hacerle entender mi punto de vista. (get across)",
+     "answers": [
+      "I couldn't get my point across to him.",
+      "I couldn't get my point of view across to him.",
+      "I couldn't get my view across to him.",
+      "I could not get my point across to him.",
+      "I could not get my point of view across to him.",
+      "I could not get my view across to him.",
+      "I wasn't able to get my point across to him.",
+      "I wasn't able to get my point of view across to him.",
+      "I wasn't able to get my view across to him."
+     ],
+     "explain": "get something across to someone."
+    },
+    {
+     "id": "M9",
+     "type": "choice",
+     "prompt": "(Unit 1 review) We booked a translator, but the host spoke perfect Spanish. We ___ have bothered.",
+     "options": [
+      "needn't",
+      "mustn't",
+      "couldn't"
+     ],
+     "answer": 0,
+     "explain": "needn't have + past participle: something was done that turned out to be unnecessary."
+    },
+    {
+     "id": "M10",
+     "type": "choice",
+     "prompt": "(Unit 2 review) ___ the days when a regional accent was a barrier in broadcasting.",
+     "options": [
+      "Gone are",
+      "Are gone",
+      "Gone is"
+     ],
+     "answer": 0,
+     "explain": "Inversion for emphasis: \"Gone are the days when…\""
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Reflective essay of 300 to 400 words: \"Does speaking another language change who you are?\" Use at least six phrasal verbs from the unit (e.g. pick up, rub off on, hold on to, slip into, tone down, come across as), two idioms about language, one well-justified euphemism and a note on your own register when speaking with your family, at work and with your friends.",
+   "targets": [
+    "phrasal verbs C2",
+    "idioms about language",
+    "euphemism and connotation",
+    "register",
+    "identity vocabulary"
+   ],
+   "checklist": [
+    "Between 300 and 400 words with clear paragraphs and a thesis",
+    "At least 6 well-placed phrasal verbs (pronouns between verb and particle in separable ones)",
+    "2 idioms with their parts unaltered",
+    "One euphemism and a note on its connotation",
+    "Register contrast between two contexts (family / work / friends)",
+    "Identity vocabulary (heritage, code-switching, sense of belonging…)",
+    "A conclusion that returns to the thesis"
+   ],
+   "model": "When I was a child, English was a school subject; now it is a second skin, or perhaps a second voice. The question is whether that voice has changed the person using it. I would argue that it has, though less dramatically than the romantic version suggests: a language does not replace the self, but it does draw out sides of it that might otherwise have stayed dormant.\n\nI picked up most of my English late, through films, songs and years of stubborn practice, and some habits of the new language have rubbed off on me. In Spanish I am inclined to beat around the bush; in English I get to the point, and I am quicker to say \"I disagree\" without cushioning it. In Spanish I hold on to ceremony; in English I slip into a brisker, drier humour that my relatives find faintly alien. I have also learned to tone down my enthusiasm in certain settings, since what sounds warm at home can come across as excessive in an office. Some of my jokes, of course, are lost in translation.\n\nThat is where register matters. With my family I speak a relaxed, affectionate Spanish full of diminutives and in-jokes, and when I switch into English for a visiting cousin, we all feel the shift. At work I am measured and careful: I say \"I am afraid there has been a slight delay\" when I mean the project has collapsed. It is a euphemism that spares feelings while hardly concealing the truth, although its connotation of regret can also read as evasion. With friends, finally, I speak a hybrid that no dictionary records, shifting mid-sentence from one language to the other. Linguists call this code-switching, and I regard it less as a lapse than as a badge of belonging.\n\nNone of this means I have been replaced by someone else. My heritage remains the source of my accent, my jokes and my stubbornness. Learning another language taught me that every way of speaking is a way of seeing, and that I can have more than one without losing my own.\n\nSo yes, speaking another language changes who you are, but only by adding to it. My sense of self used to have one voice. It now has two, and I am no longer sure I could do without either."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a formal letter of 300 to 400 words to the editor of a newspaper about prejudice against accents at work, in a respectful but firm tone. At the end add a short message (2–3 sentences) to a friend telling them you sent it, in colloquial register.",
+   "targets": [
+    "formal and informal register",
+    "euphemism",
+    "vocabulary of accents and dialects",
+    "polite indirectness"
+   ],
+   "checklist": [
+    "Letter of 300 to 400 words with formal greeting and sign-off",
+    "Coherent formal vocabulary (ascertain, postpone, regarding…) with no contractions",
+    "At least one euphemism or term with a deliberately chosen connotation",
+    "Vocabulary of accents and dialects (accentism, vernacular, mutually intelligible…)",
+    "Courteous indirectness formulas (I should be grateful if…)",
+    "Colloquial closing message with contractions and informal markers, clearly different in register"
+   ],
+   "model": "Dear Sir or Madam,\n\nI am writing regarding your recent article on graduate recruitment, which, to my disappointment, made no mention of a form of prejudice that many employees experience daily: bias against regional and foreign accents.\n\nI should be grateful if you would allow me to explain why this matters. Accentism, as it has come to be known, is the practice of judging a person's competence, intelligence or reliability by the way he or she sounds. Studies have repeatedly ascertained that listeners rate speakers of certain varieties as less capable, even when the content of what they say is identical. A candidate whose vernacular differs from that of the interviewer may therefore be passed over or, in the polite language of human resources, \"not progressed to the next stage\". Such a phrase may sound neutral, but its connotation is anything but.\n\nIt is worth recalling that accents are not deficiencies. Most varieties of English are mutually intelligible, and clarity depends far more on the listener's willingness to listen than on the speaker's pronunciation. To suggest otherwise is to confuse unfamiliarity with inferiority. I would not wish to be unfair: many employers act in good faith, and some have introduced training to counter unconscious bias. Nevertheless, good intentions do not amount to good practice, and I would respectfully suggest that firms review how interviews are scored and whether accent has any bearing on the outcome.\n\nI would therefore urge your readers, and indeed your editorial team, not to postpone this conversation any further. Should you consider the matter worthy of a follow-up, I would be happy to share the evidence on which this letter is based.\n\nYours faithfully,\n\nElena Marsh\n\nP.S. to Sam: Just sent a letter to the paper about accent bias at work, so fingers crossed they'll print it! Can't believe nobody's covered it properly before. Let's catch up soon, yeah?"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The Accent Question",
+   "intro": "Read the article and answer the questions. Pay attention to inferences, not only to explicit facts.",
+   "paragraphs": [
+    "When Marisol Vega moved from Monterrey to Manchester at the age of twenty-six, she assumed that her English, honed over a decade of careful study, would see her through. It did, more or less. What she had not anticipated was the way people would listen to her. Within a fortnight a colleague had remarked, with every appearance of kindness, that she was 'remarkably easy to understand, considering'. The 'considering' stayed with her for months.",
+    "Linguists have a name for what Marisol was experiencing: accentism, or linguistic prejudice. Every speaker has an accent; there is no such thing as speaking 'without one'. Yet certain accents, historically those associated with power, education and the capital, have come to be treated as neutral, while others are heard as markers of something to be explained or excused. In Britain, Received Pronunciation, spoken natively by only a small fraction of the population, long served as the voice of the BBC and of the boardroom. Regional voices, from the Glasgow patter to the Liverpool lilt, were politely tolerated at best and, at worst, treated as a sign of limited ability. That hierarchy has loosened, but it has not vanished.",
+    "Marisol's first response was to try to iron out her accent. She watched dozens of hours of television, recorded herself reading the news aloud, and picked up the flat vowels of her adopted city with surprising speed. Colleagues noticed. 'You sound so Mancunian,' one said, and it was impossible to tell whether it was praise. Meanwhile, something odd was happening at the other end of the line. When she phoned her mother, her Spanish had begun to come across as slightly stiff, as though it, too, were being performed. Her sister teased her for sprinkling English words into their conversations: 'Estoy un poco stressed', 'nos vemos el weekend'. Marisol laughed it off, but privately she wondered whether she was losing something.",
+    "What she was actually doing, as the sociolinguist she eventually consulted explained, was code-switching: the fluid movement between languages or registers depending on who is listening and what is at stake. Far from being a sign of confusion, it is a sophisticated skill, one that bilinguals deploy almost instinctively. People code-switch not only between languages but within one. The same person may speak very differently to a child, a client and a childhood friend, and nobody calls that dishonest. 'The danger,' the linguist said, 'is not in adapting. It is in believing that one version of you is the real one and the rest are costumes.'",
+    "That remark changed the way Marisol thought about her situation. Identity, she began to see, is not a fixed possession, like a passport, but something negotiated in conversation, again and again. Her heritage was not diminished by her new vowels, any more than a Mancunian's roots are erased by a spell in Madrid. What mattered was whether she retained a sense of choice. Some days she wished to blend in; on others she wanted to stand out; and the freedom to decide, she realised, was precisely what linguistic prejudice takes away.",
+    "Today Marisol teaches Spanish at a community college, and she begins every first lesson in the same way. She asks her students to introduce themselves, then points out that nobody in the room has a 'neutral' voice. Those who worry about their accents are told, firmly but kindly, that intelligibility matters, while sounding like someone else does not. She still gets the occasional compliment on her English, and she has stopped trying to decide whether each one is a kindness or a verdict, because she has learned that the answer matters far less than her own freedom to answer in whichever voice she chooses. These days she thanks the speaker without a flicker of resentment and says, with a smile that is only slightly mischievous, 'Considering what?'"
+   ],
+   "glossary": [
+    {
+     "en": "honed",
+     "def": "Refined and sharpened through practice."
+    },
+    {
+     "en": "fortnight",
+     "def": "A period of two weeks."
+    },
+    {
+     "en": "boardroom",
+     "def": "The room where a company's senior executives meet; the top decision-making level of an organisation."
+    },
+    {
+     "en": "patter",
+     "def": "The distinctive speech style or jargon of a particular place or group."
+    },
+    {
+     "en": "lilt",
+     "def": "A musical, rising-and-falling quality in someone's voice."
+    },
+    {
+     "en": "blend in",
+     "def": "To look or sound like the people around you, so as not to stand out."
+    },
+    {
+     "en": "intelligibility",
+     "def": "The quality of being clear enough to be understood."
+    },
+    {
+     "en": "mischievous",
+     "def": "Playfully naughty; fond of teasing or small pranks."
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "What had Marisol NOT anticipated when she moved to Manchester?",
+     "options": [
+      "How closely people would listen to her accent",
+      "That her English would be inadequate",
+      "That the city would be unfriendly"
+     ],
+     "answer": 0,
+     "explain": "Says they did not anticipate \"the way people would hear it\"."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "According to the article, Received Pronunciation is spoken natively by most British people.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Only by a small fraction of the population."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What does 'The \"considering\" stayed with her for months' imply?",
+     "options": [
+      "The remark carried an implied judgement that kept bothering her",
+      "She could not remember the word",
+      "She started using the word herself"
+     ],
+     "answer": 0,
+     "explain": "The word \"considering\" implied a veiled judgment about their English."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "What does the sociolinguist identify as the real danger?",
+     "options": [
+      "Believing that one version of yourself is authentic and the others are costumes",
+      "Adapting how you speak to different listeners",
+      "Speaking two languages at once"
+     ],
+     "answer": 0,
+     "explain": "The danger is not adapting, but believing that only one version is the \"real\" one."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "When Marisol phoned her mother, her Spanish had begun to sound slightly ___. (one word)",
+     "answers": [
+      "stiff"
+     ],
+     "explain": "«come across as slightly stiff»."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Her sister's teasing about mixing English words into Spanish illustrates code-___.",
+     "answers": [
+      "switching"
+     ],
+     "explain": "Code-switching is explained in the fourth paragraph."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "Which statement best summarises the article's view of identity?",
+     "options": [
+      "It is negotiated in conversation, and what matters is having a choice",
+      "It is fixed by the language you learn first",
+      "A neutral accent is the best protection for it"
+     ],
+     "answer": 0,
+     "explain": "Identity is «negotiated in conversation»; lo importante es la libertad de elegir."
+    },
+    {
+     "id": "R8",
+     "type": "choice",
+     "prompt": "What is the tone of Marisol's final reply, 'Considering what?'",
+     "options": [
+      "Gently ironic and unresentful",
+      "Openly hostile",
+      "Embarrassed and apologetic"
+     ],
+     "answer": 0,
+     "explain": "\"A smile only slightly mischievous\", with no resentment: gentle irony."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Between two voices",
+   "intro": "Listen to an excerpt from a radio programme about accents and register. You can repeat it.",
+   "lines": [
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Welcome back to Word of Mouth. Today we're asking why we sound different depending on who we're talking to. With me is Dr Amara Okafor, a sociolinguist. Amara, welcome."
+    },
+    {
+     "who": "Dr Okafor",
+     "voice": "glassy",
+     "text": "Thanks for having me. It's a subject close to my heart, because I do it all the time myself."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Do what, exactly?"
+    },
+    {
+     "who": "Dr Okafor",
+     "voice": "glassy",
+     "text": "Switch. When I'm lecturing, I sound fairly formal. But at my mum's in Leeds, I slip into the dialect I grew up with, and my vowels change completely. My students wouldn't recognise me."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "And that's not, you know, putting on a voice?"
+    },
+    {
+     "who": "Dr Okafor",
+     "voice": "glassy",
+     "text": "Not at all. It's closer to dressing for the weather. Nobody thinks you've lost your identity because you've swapped a suit for a raincoat."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "We've got a caller on the line. Daniel, you're through."
+    },
+    {
+     "who": "Daniel",
+     "voice": "rounded",
+     "text": "Hi there. I just wanted to say that at work I'm constantly toning my accent down. I'm from Glasgow, and I was told in a meeting that I should 'speak more clearly'. I speak perfectly clearly. I just don't sound like them."
+    },
+    {
+     "who": "Dr Okafor",
+     "voice": "glassy",
+     "text": "That's a very common experience, Daniel. We call it accent prejudice, and the research suggests that listeners often judge competence by sound rather than substance. It's a bias, not a fact."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "But surely there's a case for a standard? A shared form we can all understand?"
+    },
+    {
+     "who": "Dr Okafor",
+     "voice": "glassy",
+     "text": "There is, for writing and for certain official purposes. But being understood and sounding the same are not the same thing. I can follow Daniel perfectly, and I'd bet most of your listeners can too."
+    },
+    {
+     "who": "Daniel",
+     "voice": "rounded",
+     "text": "Cheers. That's a relief to hear. I'd started to think I was the one at fault."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Well, I think that's a good place to leave it. Amara, thank you. And Daniel, don't let anyone water down your voice."
+    },
+    {
+     "who": "Dr Okafor",
+     "voice": "glassy",
+     "text": "Hear, hear. Thanks for having me."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What does Dr Okafor do when she visits her mother?",
+     "options": [
+      "She slips into the dialect she grew up with",
+      "She speaks as formally as in lectures",
+      "She avoids speaking about work"
+     ],
+     "answer": 0,
+     "explain": "At my mum's in Leeds, I slip into the dialect I grew up with."
+    },
+    {
+     "id": "L2",
+     "type": "gap",
+     "prompt": "Dr Okafor compares switching voices to dressing for the ___.",
+     "answers": [
+      "weather"
+     ],
+     "explain": "«It's closer to dressing for the weather»."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Where is Daniel from?",
+     "options": [
+      "Glasgow",
+      "Leeds",
+      "Manchester"
+     ],
+     "answer": 0,
+     "explain": "I'm from Glasgow."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "According to the research Dr Okafor mentions, listeners often judge competence by...",
+     "options": [
+      "sound rather than substance",
+      "vocabulary rather than grammar",
+      "speed rather than clarity"
+     ],
+     "answer": 0,
+     "explain": "judge competence by sound rather than substance."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What is her position on having a standard form?",
+     "options": [
+      "There is a case for it in writing and official uses, but understanding is not the same as sounding alike",
+      "Standards should be abolished entirely",
+      "A spoken standard is essential for everyone"
+     ],
+     "answer": 0,
+     "explain": "Recognizes the written standard, but distinguishes between being understood and sounding the same."
+    },
+    {
+     "id": "L6",
+     "type": "gap",
+     "prompt": "Being understood and sounding the same are not the ___ thing.",
+     "answers": [
+      "same"
+     ],
+     "explain": "«are not the same thing»."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Nobody thinks you've lost your identity because you've swapped a suit for a raincoat.",
+     "answers": [
+      "Nobody thinks you've lost your identity because you've swapped a suit for a raincoat.",
+      "Nobody thinks you have lost your identity because you have swapped a suit for a raincoat."
+     ],
+     "explain": "Present perfect con you've; swap X for Y."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "At work I'm constantly toning my accent down.",
+     "answers": [
+      "At work I'm constantly toning my accent down.",
+      "At work I am constantly toning my accent down."
+     ],
+     "explain": "Present continuous with constantly: complaint or annoying habit; tone down = soften."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Listeners often judge competence by sound rather than substance.",
+     "answers": [
+      "Listeners often judge competence by sound rather than substance."
+     ],
+     "explain": "judge … by … rather than …: contraste elegante."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Don't let anyone water down your voice.",
+     "answers": [
+      "Don't let anyone water down your voice.",
+      "Do not let anyone water down your voice."
+     ],
+     "explain": "water down = diluir, rebajar."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about how your way of speaking changes depending on who you are with: family, work, friends. Describe one specific case of code-switching.",
+     "questions": [
+      "How do you sound different at work and at home?",
+      "Do you ever slip into a different register without noticing?",
+      "Has anyone ever talked down to you because of the way you speak?",
+      "What would be lost in translation if you tried to explain your family's way of speaking?"
+     ],
+     "model": "I'm a bit of a chameleon, to be honest. At work I tone down my slang and sound quite measured, but with my cousins I slip into a much looser, jokier way of talking. Without noticing it, I pick up their expressions, and then they rub off on my colleagues! My grandmother has a way with words that simply gets lost in translation. I wouldn't say I'm putting on a voice. It's more that I'm dressing for the weather.",
+     "checklist": [
+      "A clear register contrast between two contexts",
+      "At least 3 phrasal verbs (slip into, tone down, rub off on, pick up)",
+      "One idiom about language, used naturally",
+      "Cohesion: to be honest, more that…"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Give an explanation in two registers: first formally tell a client that a shipment will be delayed; then tell a close colleague.",
+     "questions": [
+      "How would you explain the delay to a client you have never met?",
+      "How would you say the same thing to a close colleague?",
+      "Which words change most between the two versions?",
+      "Is there a euphemism you would use with the client?"
+     ],
+     "model": "To the client: I should like to inform you that, regrettably, your order will be delayed until Thursday. Please accept my apologies for any inconvenience. To a colleague: Heads up, the order's running late, probably Thursday. Sorry about that. The shift is mainly lexical, with 'regrettably' and 'inconvenience' replaced by 'heads up' and 'running late'. With the client, a euphemism like 'a slight delay' keeps the tone calm.",
+     "checklist": [
+      "Two versions with clearly different registers",
+      "Formal formulas (I should like to inform you…, Please accept my apologies)",
+      "Colloquial vocabulary in the second version (heads up, running late)",
+      "Comment on what changes between the two"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Discussion: \"Accents should be neutralised for professional communication.\" Defend or reject the claim with arguments and an example.",
+     "questions": [
+      "Do you agree that accents should be neutralised at work?",
+      "Where is the line between clarity and conformity?",
+      "Who benefits from a 'neutral' accent?",
+      "What happens to a language when its dialects die out?"
+     ],
+     "model": "I'd push back on that. Being understood matters, but sounding the same doesn't. A 'neutral' accent is really just the voice of whoever holds power, and asking people to tone theirs down makes them feel like outsiders. If dialects die out, we lose more than sounds: we lose a way of seeing the world. That said, I'll grant you that in an emergency call, clarity is vital.",
+     "checklist": [
+      "A clear position from the first sentence",
+      "Distinguish clarity from uniformity",
+      "One phrasal verb (die out, tone down) and identity vocabulary",
+      "A final concession with nuance (I'll grant you…)"
+     ]
+    }
+   ],
+   "repeat": [
+    "She picked it up from her grandmother.",
+    "I slip into the dialect of my childhood whenever I phone home.",
+    "Nobody likes being talked down to.",
+    "You've hit the nail on the head.",
+    "Being understood and sounding the same are not the same thing.",
+    "I should be grateful if you could forward the file."
+   ]
+  }
+ }
+}

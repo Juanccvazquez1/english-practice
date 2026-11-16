@@ -1,0 +1,1727 @@
+{
+ "id": "u-a2-08",
+ "level": "A2",
+ "n": 8,
+ "title": "Let's celebrate!",
+ "goals": [
+  "Talk about plans and predictions with be going to (We're going to have a party).",
+  "Say who a gift is for, using indirect objects and pronouns (I'm going to buy her something special).",
+  "Choose between the present continuous and be going to for plans with a time or place.",
+  "Talk about celebrations and traditions: weddings, birthdays, festivals.",
+  "Say dates with months and ordinal numbers (on May 25th).",
+  "Use vague language (and stuff, and everything) and vague answers (It depends), and write invitations with good openings and closings."
+ ],
+ "learn": [
+  {
+   "id": "g-going-to",
+   "kind": "grammar",
+   "title": "be going to: plans and predictions",
+   "html": "<p>Use <strong>be going to + base verb</strong> for future plans and for predictions based on what you can see. In Spanish it is like “voy a + verb”.</p><table><thead><tr><th>Affirmative</th><th>Negative</th><th>Question</th></tr></thead><tbody><tr><td>I'm going to buy something special.</td><td>You're <strong>not</strong> going to get a present.</td><td><strong>Are</strong> you going to have a party?</td></tr><tr><td>She's going to be 50.</td><td>Marcos <strong>isn't</strong> going to have a party.</td><td>What <strong>are</strong> you going to do tonight?</td></tr><tr><td>It's going to rain.</td><td>They <strong>aren't</strong> going to come.</td><td><strong>Who's</strong> going to bring the cake?</td></tr></tbody></table><ul><li>Short answers: <em>Yes, we are. / No, we're not. / No, he isn't.</em></li><li>When the question word is the subject, the order doesn't change: <em>Who's going to go? What's going to happen?</em></li><li>After <em>going to</em>, the verb is in the base form (no -s or -ing).</li><li>Time expressions: <em>tonight, tomorrow, next week, this weekend, in June</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I going to buy a gift.",
+     "right": "I'm going to buy a gift.",
+     "why": "Missing be: I'm going to."
+    },
+    {
+     "wrong": "She's going to buys a cake.",
+     "right": "She's going to buy a cake.",
+     "why": "After going to, use the base verb."
+    },
+    {
+     "wrong": "Are you going have a party?",
+     "right": "Are you going to have a party?",
+     "why": "Don't forget the to in going to."
+    },
+    {
+     "wrong": "What you are going to do tonight?",
+     "right": "What are you going to do tonight?",
+     "why": "In questions, be goes before the subject."
+    }
+   ]
+  },
+  {
+   "id": "g-indirect-objects",
+   "kind": "grammar",
+   "title": "Indirect objects: for whom",
+   "html": "<p>The <strong>indirect object</strong> answers the question “for whom?”. It goes <strong>before</strong> the direct object, without <em>to</em> or <em>for</em>: <em>I'm going to buy <strong>my mother</strong> something special.</em> If you already know who you are talking about, use a pronoun.</p><table><thead><tr><th>Subject</th><th>Object pronoun</th><th>Example</th></tr></thead><tbody><tr><td>I</td><td><strong>me</strong></td><td>My sister is baking me a cake.</td></tr><tr><td>you</td><td><strong>you</strong></td><td>I'm going to give you a book.</td></tr><tr><td>he</td><td><strong>him</strong></td><td>I want to buy him something special.</td></tr><tr><td>she</td><td><strong>her</strong></td><td>I'm going to get her some flowers.</td></tr><tr><td>we</td><td><strong>us</strong></td><td>Gino is going to teach us Italian.</td></tr><tr><td>they</td><td><strong>them</strong></td><td>Let's send them some flowers.</td></tr></tbody></table><p>Common verbs: <em>buy, give, get, send, bake, make, teach, show</em>.</p>",
+   "watch": [
+    {
+     "wrong": "I'm going to buy she a present.",
+     "right": "I'm going to buy her a present.",
+     "why": "After the verb, use the object pronoun (her), not the subject pronoun."
+    },
+    {
+     "wrong": "She's going to give I a book.",
+     "right": "She's going to give me a book.",
+     "why": "I changes to me."
+    },
+    {
+     "wrong": "Let's send they some flowers.",
+     "right": "Let's send them some flowers.",
+     "why": "They changes to them."
+    },
+    {
+     "wrong": "They are going to give to us books.",
+     "right": "They are going to give us books.",
+     "why": "The indirect object goes without to, before the direct object."
+    }
+   ]
+  },
+  {
+   "id": "g-future-continuous",
+   "kind": "grammar",
+   "title": "Plans: present continuous or be going to",
+   "html": "<p>For the future you have two options. The <strong>present continuous</strong> is used for plans that are already arranged, with a time, a place, or specific people. <strong>Be going to</strong> is used for general plans and for predictions.</p><table><thead><tr><th>Use</th><th>Example</th></tr></thead><tbody><tr><td>Plan with a time or place (present continuous)</td><td>We're meeting friends at the restaurant at 8:30.</td></tr><tr><td>General plan (be going to)</td><td>We're going to meet some friends at a restaurant.</td></tr><tr><td>Prediction (only be going to)</td><td>It's going to snow tomorrow. It's going to be fun.</td></tr></tbody></table><ul><li>Often both forms work: <em>I'm graduating next month. = I'm going to graduate next month.</em></li><li>Predictions use only <em>be going to</em>: <em>It's going to rain.</em> (not <em>It's raining tomorrow</em>).</li><li>With <em>go</em> and <em>come</em>, the continuous is common: <em>I'm going to the doctor at four.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "Tomorrow I play soccer with my friends at 5:00.",
+     "right": "Tomorrow I'm playing soccer with my friends at 5:00.",
+     "why": "A plan with a time: present continuous."
+    },
+    {
+     "wrong": "It's snowing tomorrow.",
+     "right": "It's going to snow tomorrow.",
+     "why": "A prediction is said with be going to."
+    },
+    {
+     "wrong": "We meet my parents at 7:00 tonight.",
+     "right": "We're meeting my parents at 7:00 tonight.",
+     "why": "Arranged plan: present continuous."
+    },
+    {
+     "wrong": "Are you do anything on Saturday?",
+     "right": "Are you doing anything on Saturday?",
+     "why": "Be + verb-ing."
+    }
+   ]
+  },
+  {
+   "id": "v-celebrations",
+   "kind": "vocab",
+   "title": "Celebrations and special days",
+   "words": [
+    {
+     "id": "w-birthday",
+     "en": "birthday",
+     "es": "cumpleaños",
+     "example": "My birthday is in May.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-wedding",
+     "en": "wedding",
+     "es": "boda",
+     "example": "My cousin's wedding is on Saturday.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-anniversary",
+     "en": "wedding anniversary",
+     "es": "aniversario de bodas",
+     "example": "Their wedding anniversary is on June 3rd.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-engagement",
+     "en": "engagement",
+     "es": "compromiso (pedida de mano)",
+     "example": "We're having a party for their engagement.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-graduation",
+     "en": "graduation",
+     "es": "graduación",
+     "example": "Graduation is in December."
+    },
+    {
+     "id": "w-retirement",
+     "en": "retirement",
+     "es": "jubilación",
+     "example": "My dad's retirement party is next week.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-birth-baby",
+     "en": "the birth of a baby",
+     "es": "el nacimiento de un bebé",
+     "example": "The birth of a baby is a big family celebration.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-new-years-eve",
+     "en": "New Year's Eve",
+     "es": "Nochevieja, 31 de diciembre",
+     "example": "We eat grapes on New Year's Eve.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-halloween",
+     "en": "Halloween",
+     "es": "Halloween",
+     "example": "Children wear costumes on Halloween."
+    },
+    {
+     "id": "w-valentines",
+     "en": "Valentine's Day",
+     "es": "Día de San Valentín",
+     "example": "They go out for dinner on Valentine's Day.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-blow-candles",
+     "en": "blow out the candles",
+     "es": "soplar las velas",
+     "example": "She is going to blow out the candles.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-exchange-rings",
+     "en": "exchange rings",
+     "es": "intercambiar anillos",
+     "example": "The couple exchanges rings at the ceremony.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-get-married",
+     "en": "get married",
+     "es": "casarse",
+     "example": "They're getting married in June.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-trick-or-treating",
+     "en": "go trick-or-treating",
+     "es": "pedir dulces en Halloween",
+     "example": "The kids go trick-or-treating at night.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fireworks",
+     "en": "see fireworks",
+     "es": "ver fuegos artificiales",
+     "example": "We're going to see fireworks at midnight.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-cap-gown",
+     "en": "wear a cap and gown",
+     "es": "usar toga y birrete",
+     "example": "Students wear a cap and gown on graduation day.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-diploma",
+     "en": "get a diploma",
+     "es": "recibir un diploma",
+     "example": "She is going to get a diploma.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-dates",
+   "kind": "vocab",
+   "title": "Months, ordinal numbers, and dates",
+   "words": [
+    {
+     "id": "w-months-1",
+     "en": "January / February / March",
+     "es": "enero / febrero / marzo",
+     "example": "My birthday is in February.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-months-2",
+     "en": "April / May / June",
+     "es": "abril / mayo / junio",
+     "example": "School ends in June.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-months-3",
+     "en": "July / August / September",
+     "es": "julio / agosto / septiembre",
+     "example": "We go on vacation in August.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-months-4",
+     "en": "October / November / December",
+     "es": "octubre / noviembre / diciembre",
+     "example": "Halloween is in October.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-first-third",
+     "en": "first, second, third (1st, 2nd, 3rd)",
+     "es": "primero, segundo, tercero",
+     "example": "Mom and Dad's anniversary is on the second.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fourth-tenth",
+     "en": "fourth, fifth, sixth, seventh, eighth, ninth, tenth",
+     "es": "cuarto … décimo (4th–10th)",
+     "example": "Sue's birthday is on the ninth.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-twelfth",
+     "en": "eleventh, twelfth, thirteenth",
+     "es": "undécimo, duodécimo, decimotercero",
+     "example": "The party is on the twelfth."
+    },
+    {
+     "id": "w-twentieth",
+     "en": "twentieth, twenty-first, twenty-second, twenty-third",
+     "es": "vigésimo, vigésimo primero…",
+     "example": "Tennis classes start on the twentieth."
+    },
+    {
+     "id": "w-thirtieth",
+     "en": "thirtieth, thirty-first",
+     "es": "trigésimo, trigésimo primero",
+     "example": "Anton's Halloween party is on the thirty-first."
+    },
+    {
+     "id": "w-in-month",
+     "en": "in + month",
+     "es": "en + mes (in May)",
+     "example": "My wedding is in May.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-on-date",
+     "en": "on + date",
+     "es": "el + fecha (on May 10th / on the tenth of May)",
+     "example": "Her birthday is on May 10th.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-tonight",
+     "en": "tonight / tomorrow night / this weekend",
+     "es": "esta noche / mañana en la noche / este fin de semana",
+     "example": "I'm going out tonight.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-next",
+     "en": "next week / next month / next year",
+     "es": "la próxima semana / el próximo mes / el próximo año",
+     "example": "We're moving next year.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-festivals",
+   "kind": "vocab",
+   "title": "Festivals and traditions",
+   "words": [
+    {
+     "id": "w-festival",
+     "en": "festival",
+     "es": "festival",
+     "example": "There's a food festival in the city this weekend.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fiesta",
+     "en": "fiesta",
+     "es": "fiesta",
+     "example": "Our town has a big fiesta in August."
+    },
+    {
+     "id": "w-parade",
+     "en": "parade",
+     "es": "desfile",
+     "example": "The children love the parade.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-get-dressed-up",
+     "en": "get dressed up",
+     "es": "arreglarse, ponerse elegante",
+     "example": "We get dressed up for the party.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-outfit",
+     "en": "outfit",
+     "es": "conjunto de ropa",
+     "example": "She has a beautiful outfit for the festival.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-makeup",
+     "en": "makeup",
+     "es": "maquillaje",
+     "example": "The kids wear costumes and makeup.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-traditional-music",
+     "en": "traditional music",
+     "es": "música tradicional",
+     "example": "There's going to be traditional music.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-cultural-event",
+     "en": "cultural event",
+     "es": "evento cultural",
+     "example": "A concert is a cultural event.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-wedding-ceremony",
+     "en": "wedding ceremony",
+     "es": "ceremonia de boda",
+     "example": "The wedding ceremony is at five.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-wedding-reception",
+     "en": "wedding reception",
+     "es": "recepción de boda",
+     "example": "The wedding reception is in a garden.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-bride-groom",
+     "en": "bride / groom",
+     "es": "novia / novio",
+     "example": "The bride and the groom are very happy.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-relatives",
+     "en": "relatives",
+     "es": "familiares",
+     "example": "Our relatives are coming from Puebla.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-guest",
+     "en": "guest",
+     "es": "invitado/a",
+     "example": "We have fifty guests.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-invite",
+     "en": "invite / invitation",
+     "es": "invitar / invitación",
+     "example": "I'm sending an invitation to all my friends.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-promise",
+     "en": "promise",
+     "es": "prometer",
+     "example": "They promise to love each other.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-cute",
+     "en": "cute",
+     "es": "lindo/a, tierno/a",
+     "example": "Her little sister looks so cute in that costume.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "e-vague",
+   "kind": "expressions",
+   "title": "Vague language and personal notes",
+   "html": "<p>In conversation, you sometimes don't give a complete list. Use <strong>vague expressions</strong> at the end of a list to mean “and things like that”.</p><ul><li><strong>and stuff (like that)</strong> — <em>It's a festival. There are parades and stuff.</em></li><li><strong>and things (like that)</strong> — <em>You can eat tacos and things like that.</em></li><li><strong>and everything</strong> — <em>The kids wear outfits and makeup and everything.</em></li></ul><p>When you can't or don't want to commit, use <strong>vague answers</strong>:</p><ul><li><strong>I don't know. / I'm not sure. / Maybe.</strong></li><li><strong>It depends.</strong> (+ a question or reason) — <em>Are you going to the festival? — It depends. What is it exactly?</em></li></ul><p><strong>Personal notes and emails:</strong></p><table><thead><tr><th></th><th>Opening</th><th>Closing</th></tr></thead><tbody><tr><td>Less formal</td><td>Hi Roberto, / Dear Roberto,</td><td>Take care, / See you, / Love,</td></tr><tr><td>More formal</td><td>Dear Ms. Benson,</td><td>Best wishes, / Best regards, / All the best,</td></tr></tbody></table><p>To invite someone: <em>Would you like to come? Can you make it? Can I bring anything?</em></p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "be going to",
+   "instructions": "Complete, choose, or correct.",
+   "topic": "g-going-to",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "I ___ going to buy something special for my mom.",
+     "answers": [
+      "am",
+      "'m"
+     ],
+     "explain": "I → am (I'm going to)."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Marcos ___ going to have a party this year. He's too busy.",
+     "answers": [
+      "isn't",
+      "is not",
+      "'s not"
+     ],
+     "explain": "Negative with Marcos (he): isn't."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "___ you going to invite your cousins?",
+     "answers": [
+      "Are"
+     ],
+     "explain": "Question: Are + subject + going to."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "What ___ they going to do on New Year's Eve?",
+     "answers": [
+      "are"
+     ],
+     "explain": "Wh- + are + they + going to."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "My grandma is going to ___ 80 next month.",
+     "options": [
+      "is",
+      "be",
+      "been"
+     ],
+     "answer": 1,
+     "explain": "Going to + base verb: be."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "Who ___ going to bring the cake?",
+     "answers": [
+      "is",
+      "'s"
+     ],
+     "explain": "With who as the subject: Who's going to…?"
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "She going to graduate in June.",
+     "answers": [
+      "She's going to graduate in June.",
+      "She is going to graduate in June."
+     ],
+     "explain": "Missing be: She's going to."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "not",
+      "We're",
+      "going",
+      "to",
+      "stay",
+      "out",
+      "late"
+     ],
+     "answers": [
+      "We're not going to stay out late."
+     ],
+     "explain": "Negative: be + not + going to + base verb."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Indirect objects",
+   "instructions": "Complete with the pronoun or correct.",
+   "topic": "g-indirect-objects",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "I'm going to buy my mother a gift. → I'm going to buy ___ a gift.",
+     "answers": [
+      "her"
+     ],
+     "explain": "My mother → her."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "Gino is going to teach Andrea and me Italian. → Gino is going to teach ___ Italian.",
+     "answers": [
+      "us"
+     ],
+     "explain": "Andrea and me → us."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "Let's send Mom and Dad some flowers. → Let's send ___ some flowers.",
+     "answers": [
+      "them"
+     ],
+     "explain": "Mom and Dad → them."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "My boss is giving Pedro a bonus. → My boss is giving ___ a bonus.",
+     "answers": [
+      "him"
+     ],
+     "explain": "Pedro → him."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "She's going to bake ___ a cake. (for me)",
+     "options": [
+      "I",
+      "me",
+      "my"
+     ],
+     "answer": 1,
+     "explain": "Object pronoun: me."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "I'm going to buy she a present.",
+     "answers": [
+      "I'm going to buy her a present.",
+      "I am going to buy her a present."
+     ],
+     "explain": "She changes to her."
+    },
+    {
+     "id": "B7",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "going",
+      "to",
+      "give",
+      "them",
+      "a",
+      "book",
+      "We're"
+     ],
+     "answers": [
+      "We're going to give them a book."
+     ],
+     "explain": "Verb + indirect object pronoun + direct object."
+    },
+    {
+     "id": "B8",
+     "type": "choice",
+     "prompt": "A: What are you going to get your parents? B: I'm going to get ___ tickets for a trip.",
+     "options": [
+      "them",
+      "they",
+      "their"
+     ],
+     "answer": 0,
+     "explain": "Object pronoun: them."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Plans: continuous or be going to",
+   "instructions": "Choose or complete based on the type of plan.",
+   "topic": "g-future-continuous",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "Look at those dark clouds! It ___ rain.",
+     "options": [
+      "is going to",
+      "is meeting",
+      "goes to"
+     ],
+     "answer": 0,
+     "explain": "Prediction: be going to."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "Tonight I ___ my friends at 8:30 at the restaurant. (meet)",
+     "answers": [
+      "'m meeting",
+      "am meeting"
+     ],
+     "explain": "Plan with a time and place: present continuous."
+    },
+    {
+     "id": "C3",
+     "type": "choice",
+     "prompt": "A: What are you doing for New Year's Eve? B: We ___ to The Blue Fish at 9:00. We have a reservation.",
+     "options": [
+      "are going",
+      "go",
+      "going"
+     ],
+     "answer": 0,
+     "explain": "Arranged plan: are going."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "Tomorrow at 4:00 I'm ___ to the dentist. (go)",
+     "answers": [
+      "going"
+     ],
+     "explain": "With go, the present continuous is common."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "a: “I'm graduating next month.” b: “I'm going to graduate next month.” Which is correct?",
+     "options": [
+      "Only a",
+      "Only b",
+      "Both"
+     ],
+     "answer": 2,
+     "explain": "A plan: both forms are correct."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "a: “It's snowing tomorrow.” b: “It's going to snow tomorrow.” Which is correct?",
+     "options": [
+      "Only a",
+      "Only b",
+      "Both"
+     ],
+     "answer": 1,
+     "explain": "A prediction is only said with be going to."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "We meet my parents in front of the theater at 7:00 tonight.",
+     "answers": [
+      "We're meeting my parents in front of the theater at 7:00 tonight.",
+      "We are meeting my parents in front of the theater at 7:00 tonight."
+     ],
+     "explain": "Plan with a time and place: present continuous."
+    },
+    {
+     "id": "C8",
+     "type": "gap",
+     "prompt": "A: ___ you doing anything on Saturday night? B: Yes, I'm having a party.",
+     "answers": [
+      "Are"
+     ],
+     "explain": "Continuous question: Are + you + verb-ing."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Celebrations",
+   "instructions": "Complete with celebration vocabulary.",
+   "topic": "v-celebrations",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "People exchange rings at a ___.",
+     "options": [
+      "wedding",
+      "birthday",
+      "Halloween"
+     ],
+     "answer": 0,
+     "explain": "Exchange rings → wedding."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "On your birthday you blow out the ___ on the cake.",
+     "answers": [
+      "candles"
+     ],
+     "explain": "Blow out the candles."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "Children go trick-or-treating on ___.",
+     "answers": [
+      "Halloween"
+     ],
+     "explain": "Trick-or-treating is for Halloween."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "On graduation day students wear a cap and ___.",
+     "answers": [
+      "gown"
+     ],
+     "explain": "Cap and gown."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "A ___ is when a person stops working because of age.",
+     "options": [
+      "retirement",
+      "engagement",
+      "graduation"
+     ],
+     "answer": 0,
+     "explain": "Retirement = when you stop working for good."
+    },
+    {
+     "id": "D6",
+     "type": "gap",
+     "prompt": "On New Year's Eve, many people go to see ___ at midnight.",
+     "answers": [
+      "fireworks"
+     ],
+     "explain": "See fireworks = to watch fireworks."
+    },
+    {
+     "id": "D7",
+     "type": "choice",
+     "prompt": "When two people agree to get married, it's an ___.",
+     "options": [
+      "engagement",
+      "anniversary",
+      "reception"
+     ],
+     "answer": 0,
+     "explain": "Engagement = a promise to get married."
+    },
+    {
+     "id": "D8",
+     "type": "gap",
+     "prompt": "On Valentine's Day, couples go out for a romantic ___.",
+     "answers": [
+      "dinner"
+     ],
+     "explain": "Go out for a romantic dinner."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Months and dates",
+   "instructions": "Complete with months, ordinal numbers, and prepositions.",
+   "topic": "v-dates",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "The second month of the year is ___.",
+     "answers": [
+      "February"
+     ],
+     "explain": "February is the second month of the year."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "My birthday is ___ October. (in / on)",
+     "answers": [
+      "in"
+     ],
+     "explain": "With a month: in."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "My birthday is ___ October 12th. (in / on)",
+     "answers": [
+      "on"
+     ],
+     "explain": "With an exact date: on."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "The 3rd of the month is the ___ .",
+     "answers": [
+      "third"
+     ],
+     "explain": "3rd = third."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "Which is correct?",
+     "options": [
+      "the twenty-one",
+      "the twenty-first",
+      "the twentyth"
+     ],
+     "answer": 1,
+     "explain": "21st = twenty-first."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "June, July, ___: the sixth, seventh and eighth months.",
+     "answers": [
+      "August"
+     ],
+     "explain": "August = the eighth month."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "The 12th = the ___.",
+     "answers": [
+      "twelfth"
+     ],
+     "explain": "12th = twelfth."
+    },
+    {
+     "id": "E8",
+     "type": "fix",
+     "prompt": "My party is in May 10th.",
+     "answers": [
+      "My party is on May 10th.",
+      "My party is on the 10th of May.",
+      "My party is on the tenth of May.",
+      "My party is on May tenth."
+     ],
+     "explain": "Exact date: on, not in."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Vague language and notes",
+   "instructions": "Choose the best option.",
+   "topic": "e-vague",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "Everyone brings their favorite food and music ___.",
+     "options": [
+      "and stuff",
+      "and he",
+      "and them"
+     ],
+     "answer": 0,
+     "explain": "And stuff = and things like that."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "There's going to be food, music, dancing, and things ___ that.",
+     "answers": [
+      "like"
+     ],
+     "explain": "And things like that."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "A: Do you want to go to Karen's party on the 31st? B: ___ Is it at her house?",
+     "options": [
+      "It depends.",
+      "It's Friday.",
+      "I'm fine."
+     ],
+     "answer": 0,
+     "explain": "It depends leaves the answer open."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "A: Where would you like to go this summer? B: ___ I'm going to look at places online.",
+     "options": [
+      "I don't know.",
+      "Yes, I do.",
+      "It's expensive."
+     ],
+     "answer": 0,
+     "explain": "Vague answer: I don't know."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "Which closing is more formal for a note to your boss?",
+     "options": [
+      "Love,",
+      "See you,",
+      "Best regards,"
+     ],
+     "answer": 2,
+     "explain": "Best regards is formal."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "Which opening is informal, for a friend?",
+     "options": [
+      "Hi Roberto,",
+      "Dear Ms. Benson,",
+      "Best wishes,"
+     ],
+     "answer": 0,
+     "explain": "Hi + name is informal."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "The kids wear outfits and makeup and ___.",
+     "answers": [
+      "everything"
+     ],
+     "explain": "And everything."
+    },
+    {
+     "id": "F8",
+     "type": "gap",
+     "prompt": "A: Are you going to the festival? B: I'm not ___. It depends on the weather.",
+     "answers": [
+      "sure"
+     ],
+     "explain": "I'm not sure."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "What",
+      "are",
+      "you",
+      "going",
+      "to",
+      "do",
+      "tonight"
+     ],
+     "answers": [
+      "What are you going to do tonight?"
+     ],
+     "explain": "Wh- + are + subject + going to + base verb."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "I'm",
+      "going",
+      "to",
+      "buy",
+      "her",
+      "something",
+      "special"
+     ],
+     "answers": [
+      "I'm going to buy her something special."
+     ],
+     "explain": "Indirect object pronoun before the direct object."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Her",
+      "sister",
+      "is",
+      "getting",
+      "married",
+      "in",
+      "June"
+     ],
+     "answers": [
+      "Her sister is getting married in June."
+     ],
+     "explain": "Plan with a date: present continuous."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "They're",
+      "giving",
+      "us",
+      "tickets",
+      "to",
+      "a",
+      "concert"
+     ],
+     "answers": [
+      "They're giving us tickets to a concert."
+     ],
+     "explain": "Giving + pronoun + direct object."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Who",
+      "is",
+      "going",
+      "to",
+      "bring",
+      "the",
+      "cake"
+     ],
+     "answers": [
+      "Who is going to bring the cake?"
+     ],
+     "explain": "Who as the subject: the order doesn't change."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Our",
+      "anniversary",
+      "is",
+      "on",
+      "the",
+      "ninth",
+      "of",
+      "May"
+     ],
+     "answers": [
+      "Our anniversary is on the ninth of May."
+     ],
+     "explain": "On + date."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Voy a comprarle algo especial a mi mamá.",
+     "answers": [
+      "I'm going to buy my mom something special.",
+      "I'm going to buy my mother something special.",
+      "I'm going to buy my mum something special.",
+      "I am going to buy my mom something special.",
+      "I am going to buy my mother something special.",
+      "I'm going to buy her something special.",
+      "I am going to buy her something special."
+     ],
+     "explain": "Be going to + indirect object before the direct object."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿Vas a hacer una fiesta este año?",
+     "answers": [
+      "Are you going to have a party this year?",
+      "Are you going to throw a party this year?"
+     ],
+     "explain": "Question: Are + you + going to + base verb."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "No vamos a salir a cenar en Año Nuevo.",
+     "answers": [
+      "We're not going to go out for dinner on New Year's Eve.",
+      "We aren't going to go out for dinner on New Year's Eve.",
+      "We are not going to go out for dinner on New Year's Eve.",
+      "We're not going out for dinner on New Year's Eve.",
+      "We aren't going out for dinner on New Year's Eve."
+     ],
+     "explain": "Negative with be going to or the present continuous."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Mis abuelos nos van a regalar libros.",
+     "answers": [
+      "My grandparents are going to give us books.",
+      "My grandparents are going to get us books.",
+      "My grandparents are giving us books."
+     ],
+     "explain": "Indirect object us before books."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Mi cumpleaños es el 25 de mayo.",
+     "answers": [
+      "My birthday is on May 25th.",
+      "My birthday is on May twenty-fifth.",
+      "My birthday is on the 25th of May.",
+      "My birthday is on the twenty-fifth of May.",
+      "My birthday is on May 25."
+     ],
+     "explain": "Exact date: on."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Esta noche me reúno con mis amigos a las ocho.",
+     "answers": [
+      "I'm meeting my friends tonight at eight.",
+      "Tonight I'm meeting my friends at eight.",
+      "I'm meeting my friends at eight tonight.",
+      "I am meeting my friends tonight at eight.",
+      "Tonight I am meeting my friends at eight."
+     ],
+     "explain": "Plan with a time: present continuous."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes review of earlier units).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Tonight we ___ my parents at 7:30.",
+     "options": [
+      "are meeting",
+      "meets",
+      "meeting"
+     ],
+     "answer": 0,
+     "explain": "Plan with a time: present continuous."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Our teacher is giving ___ a lot of homework. (to us)",
+     "answers": [
+      "us"
+     ],
+     "explain": "We → us."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "Are you going have a party?",
+     "answers": [
+      "Are you going to have a party?"
+     ],
+     "explain": "Missing to: going to."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "A: Do you want to come? B: ___ What time is it?",
+     "options": [
+      "It depends.",
+      "Yes, I am.",
+      "I'm twenty."
+     ],
+     "answer": 0,
+     "explain": "Vague answer."
+    },
+    {
+     "id": "M5",
+     "type": "gap",
+     "prompt": "My brother's wedding is ___ the 14th of June.",
+     "answers": [
+      "on"
+     ],
+     "explain": "Date: on."
+    },
+    {
+     "id": "M6",
+     "type": "translate",
+     "prompt": "Mi hermana se va a graduar en diciembre.",
+     "answers": [
+      "My sister is going to graduate in December.",
+      "My sister's going to graduate in December.",
+      "My sister is graduating in December."
+     ],
+     "explain": "Be going to + base verb; in + month."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "It's going to be a big party, with music and ___.",
+     "options": [
+      "and everything",
+      "everything and",
+      "and every"
+     ],
+     "answer": 0,
+     "explain": "Vague expression: and everything."
+    },
+    {
+     "id": "M8",
+     "type": "fix",
+     "prompt": "It's raining tomorrow, so take an umbrella.",
+     "answers": [
+      "It's going to rain tomorrow, so take an umbrella."
+     ],
+     "explain": "Prediction: be going to."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "Last weekend we ___ to a wedding. (go) (past simple review)",
+     "answers": [
+      "went"
+     ],
+     "explain": "Go is irregular: went."
+    },
+    {
+     "id": "M10",
+     "type": "choice",
+     "prompt": "At the party I don't eat ___ cake. (uncountable nouns review)",
+     "options": [
+      "many",
+      "much",
+      "a few"
+     ],
+     "answer": 1,
+     "explain": "Cake as food is uncountable: much."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write an invitation (60–100 words) to a celebration (a birthday, a wedding, or a party). For a friend, use Hi or Dear + name, and close with Take care, or See you,. Say when it is (date with on), where it is, what you are going to do (be going to), and what the guest can bring. Start with: Hi Ana, I'm having a party on ...",
+   "targets": [
+    "be going to",
+    "dates with in / on",
+    "present continuous for plans",
+    "opening and closing personal notes"
+   ],
+   "checklist": [
+    "60–100 words",
+    "A good opening and closing (Hi Ana, / Take care,)",
+    "Date with on and an ordinal or cardinal number (May 10th)",
+    "At least two plans with be going to",
+    "One plan with a time, using the present continuous",
+    "A question such as Can you make it?"
+   ],
+   "model": "Hi Ana, I'm having a party on May 10th at my house. It's my birthday! The party is at 7 p.m. My address is 25 Reforma Street. We are going to eat a big cake, and we are going to play music and dance. My brother is going to cook tacos. I'm picking up the cake at 5 p.m., so I'm not going to be home early. Can you bring a drink or a snack for everybody? Can you make it?\nTake care,\nLuis"
+  },
+  {
+   "id": "W2",
+   "prompt": "Write 60–100 words about the gifts you are going to give your family at your next celebration. Use indirect objects and pronouns: I'm going to buy my mother … / I'm going to give him … Add a vague expression (and stuff, and everything).",
+   "targets": [
+    "indirect objects",
+    "object pronouns",
+    "be going to",
+    "vague language"
+   ],
+   "checklist": [
+    "60–100 words",
+    "At least three gifts with an indirect object (no to or for)",
+    "Correct pronouns (her, him, them, us)",
+    "Be going to with the correct form of be",
+    "A vague expression (and stuff / and things like that)"
+   ],
+   "model": "At my next celebration, I'm going to give my family some nice gifts. I'm going to buy my mother a scarf. I'm going to give my father a book about history, and I'm going to send my sister some flowers. She loves them. My brother loves games, so I'm going to buy him a video game. I'm going to give them a card too. For my parents, I'm going to make dinner and everything. We are going to have cake and stuff. I think they are going to love it."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "My sister's wedding",
+   "intro": "Read Lucía's email and answer.",
+   "paragraphs": [
+    "Hi Ben, I'm writing with big news! My sister Paola is getting married on June 14th, and the whole family is already busy. The wedding ceremony is going to be at 5:00 in an old church in Puebla, and the reception is going to be in a garden near the city.",
+    "Everybody has a job. My parents are paying for the food, so there is going to be a lot of it: tacos, mole, cake and things like that. My cousin Hugo is going to bring his band. They play traditional music and everything. I'm making the invitations this week, and my brother Iván is buying the flowers on Friday. I'm also going to buy my sister something special. I don't know what yet. It depends on the price!",
+    "I'm sending you an invitation, too. Are you going to come? The party is going to be long. We're going to dance until midnight, and then we're going to see fireworks. The groom's relatives are arriving on the 12th, so we're having a big dinner with them that night. If you come early, you can stay at our house. Please tell me soon, because the hotel rooms in town are going to be expensive in June.",
+    "Take care,",
+    "Lucía"
+   ],
+   "glossary": [
+    {
+     "en": "wedding ceremony",
+     "def": "the official event where a couple gets married"
+    },
+    {
+     "en": "reception",
+     "def": "a party after the wedding ceremony"
+    },
+    {
+     "en": "church",
+     "def": "a building where people go to pray"
+    },
+    {
+     "en": "band",
+     "def": "a group of musicians who play together"
+    },
+    {
+     "en": "groom",
+     "def": "a man who is getting married"
+    },
+    {
+     "en": "relatives",
+     "def": "family members"
+    },
+    {
+     "en": "fireworks",
+     "def": "colorful lights that explode in the sky"
+    },
+    {
+     "en": "until",
+     "def": "up to a time; before a time ends"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "The wedding is on June 12th.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "The wedding is on June 14th; on the 12th, the groom's relatives arrive."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Where is the reception going to be?",
+     "options": [
+      "In a church",
+      "In a garden near the city",
+      "At Lucía's house"
+     ],
+     "answer": 1,
+     "explain": "The reception is going to be in a garden near the city."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Who is going to bring a band?",
+     "options": [
+      "Hugo",
+      "Iván",
+      "Ben"
+     ],
+     "answer": 0,
+     "explain": "My cousin Hugo is going to bring his band."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "Lucía's parents are paying for the ___.",
+     "answers": [
+      "food"
+     ],
+     "explain": "My parents are paying for the food."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "Lucía knows what she is going to buy for Paola.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "She says “I don't know what yet.”"
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "The groom's relatives are arriving on the ___ of June. (number)",
+     "answers": [
+      "12th",
+      "twelfth",
+      "12",
+      "the 12th",
+      "the twelfth"
+     ],
+     "explain": "Arrive on the 12th."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "Why should Ben answer soon?",
+     "options": [
+      "The hotel rooms are going to be expensive",
+      "The church is closed",
+      "Paola is going to travel"
+     ],
+     "answer": 0,
+     "explain": "Hotel rooms in June are going to be expensive."
+    }
+   ]
+  },
+  "listening": {
+   "title": "A surprise party",
+   "intro": "Listen to the conversation between two friends. You can repeat it.",
+   "lines": [
+    {
+     "who": "Sam",
+     "voice": "rounded",
+     "text": "Hi, Rosa! Are you doing anything on Saturday, the twentieth?"
+    },
+    {
+     "who": "Rosa",
+     "voice": "airy",
+     "text": "I don't know. It depends. Why?"
+    },
+    {
+     "who": "Sam",
+     "voice": "rounded",
+     "text": "It's Gina's thirtieth birthday, and we're going to have a surprise party at my house."
+    },
+    {
+     "who": "Rosa",
+     "voice": "airy",
+     "text": "A surprise party? Wow! What time?"
+    },
+    {
+     "who": "Sam",
+     "voice": "rounded",
+     "text": "At seven. Her husband is bringing her at seven thirty."
+    },
+    {
+     "who": "Rosa",
+     "voice": "airy",
+     "text": "Great. What are you going to make?"
+    },
+    {
+     "who": "Sam",
+     "voice": "rounded",
+     "text": "I'm going to make tacos and rice and things like that. Can you bring a cake?"
+    },
+    {
+     "who": "Rosa",
+     "voice": "airy",
+     "text": "Sure. I'm going to bake her a chocolate cake. Chocolate is her favorite."
+    },
+    {
+     "who": "Sam",
+     "voice": "rounded",
+     "text": "Perfect. And what are we giving her?"
+    },
+    {
+     "who": "Rosa",
+     "voice": "airy",
+     "text": "I'm not sure. Maybe we can buy her tickets to a concert."
+    },
+    {
+     "who": "Sam",
+     "voice": "rounded",
+     "text": "Good idea! Let's get her two tickets. She loves music and dancing and everything."
+    },
+    {
+     "who": "Rosa",
+     "voice": "airy",
+     "text": "OK. I'm going to look online tonight, and I'm going to send you the prices tomorrow."
+    },
+    {
+     "who": "Sam",
+     "voice": "rounded",
+     "text": "Thanks, Rosa. See you on Saturday!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "When is the party?",
+     "options": [
+      "Saturday the twentieth",
+      "Sunday the twentieth",
+      "Saturday the thirtieth"
+     ],
+     "answer": 0,
+     "explain": "Saturday, the twentieth."
+    },
+    {
+     "id": "L2",
+     "type": "gap",
+     "prompt": "Gina is going to be ___ years old.",
+     "answers": [
+      "thirty",
+      "30"
+     ],
+     "explain": "It's Gina's thirtieth birthday."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Who is bringing Gina to the party at seven thirty?",
+     "options": [
+      "Her husband",
+      "Rosa",
+      "Sam"
+     ],
+     "answer": 0,
+     "explain": "Her husband is bringing her."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What is Rosa going to bake?",
+     "options": [
+      "A chocolate cake",
+      "Tacos",
+      "Cookies"
+     ],
+     "answer": 0,
+     "explain": "I'm going to bake her a chocolate cake."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What are they going to buy for Gina?",
+     "options": [
+      "Flowers",
+      "Tickets to a concert",
+      "A dress"
+     ],
+     "answer": 1,
+     "explain": "Maybe we can buy her tickets to a concert."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "Sam is going to make pizza.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Sam is going to make tacos and rice."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "We're going to have a surprise party at my house.",
+     "answers": [
+      "We're going to have a surprise party at my house.",
+      "We are going to have a surprise party at my house."
+     ],
+     "explain": "Be going to + base verb."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "I'm going to bake her a chocolate cake.",
+     "answers": [
+      "I'm going to bake her a chocolate cake.",
+      "I am going to bake her a chocolate cake."
+     ],
+     "explain": "Object pronoun her before the direct object."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Her husband is bringing her at seven thirty.",
+     "answers": [
+      "Her husband is bringing her at seven thirty."
+     ],
+     "explain": "Plan with a time: present continuous."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "She loves music and dancing and everything.",
+     "answers": [
+      "She loves music and dancing and everything."
+     ],
+     "explain": "Vague expression: and everything."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about your plans for next weekend.",
+     "questions": [
+      "What are you going to do this weekend?",
+      "Are you doing anything on Saturday night?",
+      "Who are you meeting?",
+      "What are you not going to do?"
+     ],
+     "model": "This weekend I'm going to relax. On Saturday night I'm having dinner with my cousins at 8:00. We're meeting at a restaurant downtown. On Sunday I'm going to clean the house, and I'm not going to go out.",
+     "checklist": [
+      "be going to + base verb",
+      "A plan with a time, in the present continuous",
+      "A negative (I'm not going to…)",
+      "Time expressions (on Saturday, tonight)"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about a gift you are going to give to a family member or a friend.",
+     "questions": [
+      "Who is having a birthday soon?",
+      "What are you going to buy him or her?",
+      "What are your parents going to give you?",
+      "What are you going to get your best friend?"
+     ],
+     "model": "My sister's birthday is on March 9th. I'm going to buy her a nice outfit. My parents are going to give me a book for my birthday. I'm going to get my best friend two tickets to a concert.",
+     "checklist": [
+      "Indirect object without to",
+      "Correct pronouns (her, him, me, them)",
+      "Date with on and an ordinal number",
+      "be going to"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Describe a party or festival in your city, and answer with vague responses.",
+     "questions": [
+      "Is there a festival in your town?",
+      "What do people do there?",
+      "Are you going to go this year?",
+      "What do people wear?"
+     ],
+     "model": "Yes, there's a big fiesta in August. There are parades, traditional music and things like that. People get dressed up and everything. Am I going to go this year? I'm not sure. It depends on my work.",
+     "checklist": [
+      "A vague expression (and stuff / things like that / and everything)",
+      "A vague answer (I'm not sure. / It depends.)",
+      "Simple present to describe",
+      "Months with in"
+     ]
+    }
+   ],
+   "repeat": [
+    "What are you going to do tonight?",
+    "I'm going to buy her something special.",
+    "They're giving us tickets to a concert.",
+    "My birthday is on May twenty-fifth.",
+    "There's going to be music and things like that.",
+    "It depends. I'm not sure."
+   ]
+  }
+ }
+}

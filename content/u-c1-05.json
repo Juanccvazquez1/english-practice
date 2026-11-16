@@ -1,0 +1,1703 @@
+{
+ "id": "u-c1-05",
+ "level": "C1",
+ "n": 5,
+ "title": "Places we call home",
+ "goals": [
+  "Emphasise ideas with pseudo-clefts (What I love is…) and recognise when they soften or conclude.",
+  "Use it-clefts (It was… that…) to correct, contrast and identify precisely.",
+  "Apply emphasis with do/does/did and distinguish it from intensifying adverbs.",
+  "Master All…, The thing…, The reason…, The place… and avoid errors such as is because.",
+  "Speak and write with advanced vocabulary about housing and the city (gentrification, commute, sprawl).",
+  "Describe places with nuanced adjectives and express opinions with emphasis and caution."
+ ],
+ "learn": [
+  {
+   "id": "g-wh-cleft",
+   "kind": "grammar",
+   "title": "Pseudo-clefts with What",
+   "html": "<p>A <strong>cleft sentence</strong> (<em>cleft sentence</em>) splits a simple sentence into two parts to place the focus of information at the end, where English naturally puts the most important information. The most common type is the <strong>pseudo-cleft with <em>what</em></strong>: the clause introduced by <em>what</em> works as the subject, <em>be</em> acts as the hinge and the emphasised element comes last.</p>\n<table><thead><tr><th>Neutral sentence</th><th>Cleft sentence</th></tr></thead><tbody>\n<tr><td>I miss the market most.</td><td><strong>What I miss most is</strong> the market.</td></tr>\n<tr><td>The noise annoys me.</td><td><strong>What annoys me is</strong> the noise.</td></tr>\n<tr><td>We need a better bus service.</td><td><strong>What we need is</strong> a better bus service.</td></tr>\n<tr><td>I regret selling the house.</td><td><strong>What I regret is</strong> selling the house. / <strong>What I regret is that</strong> I sold the house.</td></tr>\n</tbody></table>\n<p><strong>Important points:</strong></p>\n<ul>\n<li><strong>Verb in the clause and be.</strong> When the emphasised element is a verb, the pattern repeats the action: <em>What she did was (to) apply for a transfer.</em> The <em>to</em> is optional if <em>did</em> appears in the clause (<em>What I did was call him</em> = <em>What I did was to call him</em>).</li>\n<li><strong>Clause as complement.</strong> After <em>be</em> you can use a noun, a gerund, an infinitive or a clause with <em>that</em>: <em>What worries me is how fast prices are rising.</em></li>\n<li><strong>Inverted version (reverse pseudo-cleft).</strong> The order can be reversed for a more conversational, concluding tone: <em>The market is what I miss most.</em> / <em>That's what I can't stand.</em> Here the focus goes to the beginning.</li>\n<li><strong>Agreement.</strong> With singular <em>is</em> it is acceptable even when what follows is plural (<em>What we need is more parks</em>); in very careful register you may see <em>What the city needs are affordable homes</em>, but <em>is</em> is always safe.</li>\n<li><strong>Do not repeat the pronoun.</strong> In Spanish you might say «lo que me gusta es eso»; in English the clause with <em>what</em> already contains the object, so do not add <em>it</em>: <em>What I like is the view</em> (not <em>What I like it is the view</em>).</li>\n</ul>\n<p><strong>Register:</strong> it works in both speech and formal writing; it can introduce a conclusion (<em>What this study shows is&hellip;</em>) or soften a complaint (<em>What I'd say is that it's a bit pricey</em>).</p>",
+   "watch": [
+    {
+     "wrong": "What I like it is the view from the balcony.",
+     "right": "What I like is the view from the balcony.",
+     "why": "The what-clause already contains the object: do not add it (a calque of «lo que me gusta es…»)."
+    },
+    {
+     "wrong": "What annoys me it is the noise.",
+     "right": "What annoys me is the noise.",
+     "why": "After the what-clause comes be directly; do not repeat the subject with it."
+    },
+    {
+     "wrong": "The thing what bothers me is the traffic.",
+     "right": "The thing that bothers me is the traffic.",
+     "why": "After the thing, use that (or nothing), never what: what already includes «the thing that»."
+    },
+    {
+     "wrong": "What I did was to went to the agency.",
+     "right": "What I did was go to the agency.",
+     "why": "After What I did was comes the infinitive, with or without to, never a conjugated verb form."
+    }
+   ]
+  },
+  {
+   "id": "g-it-cleft",
+   "kind": "grammar",
+   "title": "It-clefts: It was … that …",
+   "html": "<p>The <strong>it-cleft</strong> follows the pattern <strong>It + be + emphasised element + that/who + rest</strong>. Unlike the pseudo-cleft, the focus appears in the middle and is mainly used to <strong>correct, contrast or identify</strong> someone or something specific.</p>\n<table><thead><tr><th>Emphasised element</th><th>Example</th></tr></thead><tbody>\n<tr><td>Subject (person)</td><td>It was my landlord <strong>who/that</strong> raised the rent.</td></tr>\n<tr><td>Subject (thing)</td><td>It was the rent <strong>that</strong> made us leave.</td></tr>\n<tr><td>Object</td><td>It's the noise <strong>that</strong> I can't stand.</td></tr>\n<tr><td>Place / time complement</td><td>It was in 2019 <strong>that</strong> the market closed. / It was on this street <strong>that</strong> we met.</td></tr>\n<tr><td>With a time negation</td><td>It wasn't until I left home <strong>that</strong> I learned to cook.</td></tr>\n</tbody></table>\n<p><strong>Details that distinguish the advanced level:</strong></p>\n<ul>\n<li><strong>who / that / which.</strong> With people use <em>who</em> or <em>that</em>; with things, <em>that</em> (<em>which</em> is possible but more formal). With time or place complements, use <em>that</em>; <em>when</em> and <em>where</em> appear in speech but are considered informal in formal writing.</li>\n<li><strong>Pronouns.</strong> In informal speech the object form is used: <em>It was him who found the flat.</em> In very formal writing you may hear <em>It was he who&hellip;</em>, but it sounds stilted.</li>\n<li><strong>Agreement in the second part.</strong> If the focus is <em>I</em>, careful English makes the verb agree with it: <em>It was I who was late</em>; in everyday speech: <em>It was me who was late</em>.</li>\n<li><strong>Tense of be.</strong> <em>It is&hellip; that</em> for present facts; <em>It was&hellip; that</em> for the past. With modals: <em>It might have been the rent that decided it.</em></li>\n<li><strong>Questions.</strong> You can ask about the focus: <em>Was it the price that put you off?</em></li>\n<li><strong>It is not a passive.</strong> Compare: <em>The developers demolished the market</em> / <em>The market was demolished by the developers</em> / <em>It was the developers who demolished the market</em> (here what is emphasised is <em>who</em> did it).</li>\n</ul>\n<p><strong>Contrast with Spanish:</strong> Spanish does the same with <em>fue&hellip; quien/el que/lo que&hellip;</em> («fue mi casero quien subió la renta»), but English does not allow omitting <em>that/who</em> when the focus is the subject: you cannot say <em>It was my landlord raised the rent</em>.</p>",
+   "watch": [
+    {
+     "wrong": "It was my landlord raised the rent.",
+     "right": "It was my landlord who raised the rent.",
+     "why": "When the focus is the subject, who/that is obligatory; it can be omitted only if the focus is an object (It was the flat I wanted)."
+    },
+    {
+     "wrong": "It was in 2019 what they demolished the market.",
+     "right": "It was in 2019 that they demolished the market.",
+     "why": "What cannot act as a connector in an it-cleft; use that."
+    },
+    {
+     "wrong": "It was not until I moved out when I realised.",
+     "right": "It was not until I moved out that I realised.",
+     "why": "It was not until… is followed by that, not when."
+    },
+    {
+     "wrong": "Is the price what put you off?",
+     "right": "Was it the price that put you off?",
+     "why": "The question keeps the structure: Was it + focus + that + rest."
+    }
+   ]
+  },
+  {
+   "id": "g-do-emphasis",
+   "kind": "grammar",
+   "title": "Emphasis with do / does / did",
+   "html": "<p>In affirmative sentences the auxiliary <em>do</em> does not normally appear, but it can be <strong>inserted as an emphatic device</strong>. Use <em>do/does</em> in the present and <em>did</em> in the past, followed by the <strong>base form of the verb</strong> (the auxiliary already carries the tense and person).</p>\n<table><thead><tr><th>Neutral</th><th>Emphatic (stress on do/does/did)</th></tr></thead><tbody>\n<tr><td>I like this flat.</td><td>I <strong>do</strong> like this flat.</td></tr>\n<tr><td>She lives alone.</td><td>She <strong>does</strong> live alone.</td></tr>\n<tr><td>They warned us.</td><td>They <strong>did</strong> warn us.</td></tr>\n<tr><td>Be careful with the lease.</td><td><strong>Do</strong> be careful with the lease.</td></tr>\n</tbody></table>\n<p><strong>What it is for (and what nuance it adds):</strong></p>\n<ul>\n<li><strong>Contradicting or correcting</strong> a doubt from the listener: <em>— You never call. — I did call! I called on Sunday.</em></li>\n<li><strong>Conceding something before qualifying it</strong>: <em>I do like living here; it's just that the commute is exhausting.</em> This is a very natural pattern in conversation for introducing a <em>but</em>.</li>\n<li><strong>Intensifying a wish or politeness:</strong> <em>Do come in!</em> / <em>Do sit down.</em> The imperative with <em>do</em> sounds warm, almost insistent; in tense contexts it can sound impatient (<em>Do be quiet!</em>).</li>\n<li><strong>Confirming that something is indeed true</strong> after an expectation to the contrary: <em>The area does have a bad reputation, but it has improved.</em></li>\n</ul>\n<p><strong>Formal rules:</strong> (1) it never combines with another auxiliary: <em>I do have</em>, but not <em>I do can</em>; with modals you stress the modal with your voice (<em>I CAN help</em>). (2) The main verb goes in the base form, without <em>-s</em> or <em>-ed</em>: <em>She does like</em>, <em>he did warn</em>. (3) In writing it is marked with italics or, more soberly, with adverbs such as <em>certainly, indeed, really</em>; overusing emphatic <em>do</em> in an academic text sounds too colloquial.</p>\n<p><strong>Spanish vs. English:</strong> in Spanish we mark this with «sí» («sí me gusta», «sí te avisé»). English has no such particle: <em>do/did</em> fulfils that function.</p>",
+   "watch": [
+    {
+     "wrong": "He does likes living downtown.",
+     "right": "He does like living downtown.",
+     "why": "After does/did the verb takes the base form: the -s is already on does."
+    },
+    {
+     "wrong": "I did went to the meeting.",
+     "right": "I did go to the meeting.",
+     "why": "After did comes the infinitive without to; the past is already marked by did."
+    },
+    {
+     "wrong": "I do can see the problem.",
+     "right": "I can see the problem. (con acento en can)",
+     "why": "Emphatic do does not combine with modals; the modal is stressed with the voice instead."
+    },
+    {
+     "wrong": "Yes, I am like it very much.",
+     "right": "Yes, I do like it very much.",
+     "why": "Emphasis is not made with be + verb: insert do before the base verb."
+    }
+   ]
+  },
+  {
+   "id": "g-cleft-more",
+   "kind": "grammar",
+   "title": "Other clefts: All, The thing, The reason, The place",
+   "html": "<p>Besides <em>what</em> there is a family of structures that change <strong>what is emphasised</strong> and <strong>how much the message is softened or concluded</strong>. All follow the pattern <em>clause + be + focus</em>.</p>\n<table><thead><tr><th>Structure</th><th>Example</th><th>Nuance</th></tr></thead><tbody>\n<tr><td>All (that) + subject + verb + be</td><td><strong>All I wanted was</strong> a quiet place.</td><td>Downplays: 'the only thing that…'.</td></tr>\n<tr><td>The thing (that)… + be</td><td><strong>The thing that bothers me is</strong> the traffic.</td><td>Conversational; very frequent.</td></tr>\n<tr><td>The reason (why/that)… + be that</td><td><strong>The reason why we left was that</strong> rents kept rising.</td><td>Cause; <em>why</em> is optional.</td></tr>\n<tr><td>The place where… + be</td><td><strong>The place where I feel most at home is</strong> my grandmother's kitchen.</td><td>Place; evokes emotion.</td></tr>\n<tr><td>The first/last/only thing… + be</td><td><strong>The first thing we noticed was</strong> the smell of bread.</td><td>Sequence: focus on the first or last element.</td></tr>\n<tr><td>What happened/follows is (that)…</td><td><strong>What happened was that</strong> the landlord sold the building.</td><td>Narrative; anticipates a twist.</td></tr>\n</tbody></table>\n<p><strong>Fine points:</strong></p>\n<ul>\n<li><strong>The reason is that, not <em>because</em>.</strong> After <em>The reason&hellip; is</em> comes <em>that</em>: <em>The reason is that we couldn't afford it</em>; <em>The reason is because&hellip;</em> is common in spoken English, but it is considered incorrect in formal writing and in exams such as the TOEFL.</li>\n<li><strong>All + did + was + base (with or without to).</strong> <em>All she did was ask for a quieter room.</em> With <em>did</em> in the clause, the <em>to</em> is usually omitted; in other cases it is kept (<em>All I want is to sleep</em>).</li>\n<li><strong>The place where / the day when / the way (that).</strong> <em>The way she explained it was clear</em> (not <em>the way how</em>).</li>\n<li><strong>When not to use them.</strong> Too many clefts make a text heavy. Use them once or twice per paragraph to highlight the key idea; for the rest, use normal word order.</li>\n<li><strong>Comparing focus.</strong> <em>What I like is the view</em> (what), <em>It's the view that I like</em> (contrast: the view, not something else) and <em>I do like the view</em> (emphatic affirmation of the verb): each one puts the stress in a different place.</li>\n</ul>",
+   "watch": [
+    {
+     "wrong": "The reason why I left is because the rent was too high.",
+     "right": "The reason why I left is that the rent was too high.",
+     "why": "After The reason… is comes that; is because is avoided in formal register."
+    },
+    {
+     "wrong": "All she did was asked for a quieter room.",
+     "right": "All she did was ask for a quieter room.",
+     "why": "After All she did was comes the infinitive (with or without to), never the past."
+    },
+    {
+     "wrong": "The way how he explained it was clear.",
+     "right": "The way he explained it was clear.",
+     "why": "The way does not take how: it is used alone (or with that)."
+    },
+    {
+     "wrong": "The place that I grew up has changed.",
+     "right": "The place where I grew up has changed.",
+     "why": "If the relative clause expresses place (grew up in/at), where is needed."
+    }
+   ]
+  },
+  {
+   "id": "v-city-housing",
+   "kind": "vocab",
+   "title": "Housing and urban life",
+   "words": [
+    {
+     "id": "w-gentrification",
+     "en": "gentrification",
+     "es": "aburguesamiento urbano, gentrificación",
+     "example": "Gentrification has transformed the old industrial district into a hub of cafés and studios."
+    },
+    {
+     "id": "w-commute",
+     "en": "commute (n./v.)",
+     "es": "trayecto diario al trabajo; ir y volver al trabajo",
+     "example": "His daily commute takes almost two hours each way."
+    },
+    {
+     "id": "w-sprawl",
+     "en": "urban sprawl",
+     "es": "expansión urbana desordenada",
+     "example": "Urban sprawl has swallowed the farmland around the city.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-suburb",
+     "en": "suburb",
+     "es": "barrio periférico residencial",
+     "example": "They moved to a quiet suburb for the sake of the children.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-landlord",
+     "en": "landlord / landlady",
+     "es": "casero/a, arrendador/a",
+     "example": "The landlord refuses to repair the heating.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-tenant",
+     "en": "tenant",
+     "es": "inquilino/a",
+     "example": "Tenants are protected against sudden rent increases.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-mortgage",
+     "en": "mortgage",
+     "es": "hipoteca, crédito hipotecario",
+     "example": "They took out a thirty-year mortgage to buy the flat.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-eviction",
+     "en": "eviction",
+     "es": "desalojo",
+     "example": "Many families face eviction when they fall behind with the rent."
+    },
+    {
+     "id": "w-affordable-housing",
+     "en": "affordable housing",
+     "es": "vivienda asequible",
+     "example": "The council promised more affordable housing near the station.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-overcrowding",
+     "en": "overcrowding",
+     "es": "hacinamiento, sobrepoblación",
+     "example": "Overcrowding in the old quarter is a serious health issue."
+    },
+    {
+     "id": "w-amenities",
+     "en": "amenities",
+     "es": "servicios e instalaciones (parques, tiendas, clínicas)",
+     "example": "The area lacks basic amenities such as a pharmacy or a school."
+    },
+    {
+     "id": "w-infrastructure",
+     "en": "infrastructure",
+     "es": "infraestructura",
+     "example": "Investment in public infrastructure is long overdue.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-displacement",
+     "en": "displacement",
+     "es": "desplazamiento (de residentes)",
+     "example": "The rise in rents has caused the displacement of long-term residents."
+    },
+    {
+     "id": "w-zoning",
+     "en": "zoning",
+     "es": "zonificación urbanística",
+     "example": "Strict zoning prevents shops from opening in residential streets.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-developer",
+     "en": "property developer",
+     "es": "promotor inmobiliario, desarrollador",
+     "example": "The developer wants to turn the old factory into luxury flats.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-gated-community",
+     "en": "gated community",
+     "es": "fraccionamiento cerrado, comunidad privada con acceso controlado",
+     "example": "They live in a gated community with round-the-clock security.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-property-ladder",
+     "en": "get on the property ladder",
+     "es": "comprar tu primera vivienda (empezar a ser propietario)",
+     "example": "For many young people, getting on the property ladder is only a dream.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "v-place-adjectives",
+   "kind": "vocab",
+   "title": "Adjectives for describing places",
+   "words": [
+    {
+     "id": "w-cramped",
+     "en": "cramped",
+     "es": "estrecho, apretado (con poco espacio)",
+     "example": "We lived in a cramped one-bedroom flat for years."
+    },
+    {
+     "id": "w-spacious",
+     "en": "spacious",
+     "es": "espacioso, amplio",
+     "example": "The new office is bright and spacious."
+    },
+    {
+     "id": "w-run-down",
+     "en": "run-down",
+     "es": "descuidado, deteriorado",
+     "example": "The neighbourhood used to be run-down, but it is changing fast."
+    },
+    {
+     "id": "w-dilapidated",
+     "en": "dilapidated",
+     "es": "en ruinas, muy deteriorado",
+     "example": "The dilapidated building was condemned last year."
+    },
+    {
+     "id": "w-bustling",
+     "en": "bustling",
+     "es": "bullicioso, animado y lleno de gente",
+     "example": "The market is bustling on Saturday mornings."
+    },
+    {
+     "id": "w-secluded",
+     "en": "secluded",
+     "es": "apartado, aislado y tranquilo",
+     "example": "They bought a secluded cottage in the hills."
+    },
+    {
+     "id": "w-picturesque",
+     "en": "picturesque",
+     "es": "pintoresco",
+     "example": "It is a picturesque village with cobbled streets."
+    },
+    {
+     "id": "w-up-and-coming",
+     "en": "up-and-coming",
+     "es": "en auge, que se está poniendo de moda",
+     "example": "It's an up-and-coming area, so prices are rising fast."
+    },
+    {
+     "id": "w-upmarket",
+     "en": "upmarket",
+     "es": "de categoría, para clientes de alto poder adquisitivo",
+     "example": "They opened an upmarket restaurant in the old town."
+    },
+    {
+     "id": "w-cosy",
+     "en": "cosy (US cozy)",
+     "es": "acogedor",
+     "example": "The flat is small but extremely cosy."
+    },
+    {
+     "id": "w-soulless",
+     "en": "soulless",
+     "es": "sin alma, impersonal",
+     "example": "The new estate feels soulless: every house looks identical."
+    },
+    {
+     "id": "w-tranquil",
+     "en": "tranquil",
+     "es": "tranquilo, sereno",
+     "example": "The tranquil lakeside is a perfect place to unwind."
+    },
+    {
+     "id": "w-sought-after",
+     "en": "sought-after",
+     "es": "muy solicitado, codiciado",
+     "example": "It's one of the most sought-after addresses in the city."
+    },
+    {
+     "id": "w-overpriced",
+     "en": "overpriced",
+     "es": "sobrevalorado, con precio excesivo",
+     "example": "The flats are overpriced for what they offer."
+    },
+    {
+     "id": "w-leafy",
+     "en": "leafy",
+     "es": "arbolado, frondoso (zona verde y residencial)",
+     "example": "They live in a leafy suburb with wide pavements."
+    },
+    {
+     "id": "w-vibrant",
+     "en": "vibrant",
+     "es": "vibrante, lleno de vida",
+     "example": "Mexico City's cultural scene is vibrant and diverse.",
+     "cefr": "C1"
+    }
+   ]
+  },
+  {
+   "id": "e-emphasis",
+   "kind": "expressions",
+   "title": "Emphasising and qualifying opinions",
+   "html": "<ul>\n<li><strong>What strikes me is&hellip; / What I find remarkable is&hellip;</strong> — introduce a personal observation with emphasis.</li>\n<li><strong>It's not so much X as Y.</strong> — meaning «it is not so much X as Y»: <em>It's not so much the rent as the lack of services.</em></li>\n<li><strong>If anything,&hellip;</strong> — qualify or correct cautiously: <em>If anything, the area has got noisier.</em></li>\n<li><strong>I do see your point, but&hellip;</strong> — concede before disagreeing.</li>\n<li><strong>The point is (that)&hellip; / The thing is (that)&hellip;</strong> — get to the heart of the matter in a conversational way.</li>\n<li><strong>To be fair,&hellip; / In fairness,&hellip;</strong> — soften a criticism.</li>\n<li><strong>That's precisely what I mean. / That's exactly why&hellip;</strong> — reinforce an argument.</li>\n<li><strong>Admittedly,&hellip; / Granted,&hellip;</strong> — acknowledge a point against you.</li>\n<li><strong>All things considered,&hellip;</strong> — close with an overall assessment.</li>\n</ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Pseudo-clefts with What",
+   "instructions": "Complete, choose or correct according to the structure What … is.",
+   "topic": "g-wh-cleft",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "___ really annoys me is the lack of parking.",
+     "answers": [
+      "What"
+     ],
+     "explain": "The What-clause is the subject, and be introduces the focus."
+    },
+    {
+     "id": "A2",
+     "type": "choice",
+     "prompt": "Choose the correct cleft version of «I can't stand the noise».",
+     "options": [
+      "What I can't stand is the noise.",
+      "What I can't stand it is the noise.",
+      "The noise is what I can't stand it."
+     ],
+     "answer": 0,
+     "explain": "The what-clause already contains the object: do not add it."
+    },
+    {
+     "id": "A3",
+     "type": "fix",
+     "prompt": "What I like it is the view from the balcony.",
+     "answers": [
+      "What I like is the view from the balcony."
+     ],
+     "explain": "The object is not repeated with it."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "All I wanted ___ a quiet place to work.",
+     "answers": [
+      "was"
+     ],
+     "explain": "All I wanted + was (singular subject, past)."
+    },
+    {
+     "id": "A5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "me",
+      "was",
+      "most",
+      "was",
+      "surprised",
+      "street",
+      "the",
+      "quiet",
+      "What",
+      "how"
+     ],
+     "answers": [
+      "What surprised me most was how quiet the street was."
+     ],
+     "explain": "What + verb + be + focus."
+    },
+    {
+     "id": "A6",
+     "type": "translate",
+     "prompt": "Lo que más extraño de mi barrio es el mercado.",
+     "answers": [
+      "What I miss most about my neighbourhood is the market.",
+      "What I miss most about my neighborhood is the market.",
+      "What I miss the most about my neighbourhood is the market.",
+      "What I miss the most about my neighborhood is the market."
+     ],
+     "explain": "What + I miss most + is + focus."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "What she did ___ apply for a transfer to another office.",
+     "answers": [
+      "was"
+     ],
+     "explain": "After What she did, use be in the past, then the infinitive (with or without to)."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "It-clefts",
+   "instructions": "Complete or correct the sentences with It was … that/who …",
+   "topic": "g-it-cleft",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "It was the rent ___ made us leave the city centre.",
+     "answers": [
+      "that"
+     ],
+     "explain": "Focus on the subject (thing): that."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "It was in 2019 ___ they demolished the old market.",
+     "options": [
+      "that",
+      "what",
+      "where"
+     ],
+     "answer": 0,
+     "explain": "The connector in an it-cleft with time is that."
+    },
+    {
+     "id": "B3",
+     "type": "fix",
+     "prompt": "It was not until I moved out when I realised how much my parents did.",
+     "answers": [
+      "It was not until I moved out that I realised how much my parents did.",
+      "It was not until I moved out that I realized how much my parents did."
+     ],
+     "explain": "It was not until… that…"
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "It's the lack of public transport ___ worries residents most.",
+     "answers": [
+      "that"
+     ],
+     "explain": "Focus on the subject (thing): that."
+    },
+    {
+     "id": "B5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "rent",
+      "the",
+      "my",
+      "raised",
+      "without",
+      "landlord",
+      "warning",
+      "It",
+      "who",
+      "was"
+     ],
+     "answers": [
+      "It was my landlord who raised the rent without warning."
+     ],
+     "explain": "It + be + focus + who + rest."
+    },
+    {
+     "id": "B6",
+     "type": "translate",
+     "prompt": "Fue su hermana, no él, quien encontró el departamento.",
+     "answers": [
+      "It was his sister, not him, who found the flat.",
+      "It was his sister, not him, who found the apartment.",
+      "It was his sister, not him, that found the flat.",
+      "It was his sister, not him, that found the apartment.",
+      "It was his sister, not he, who found the flat.",
+      "It was his sister, not he, who found the apartment.",
+      "It was his sister, not he, that found the flat.",
+      "It was his sister, not he, that found the apartment."
+     ],
+     "explain": "It was + focus + who/that + verb."
+    },
+    {
+     "id": "B7",
+     "type": "gap",
+     "prompt": "It wasn't ___ the contract expired that they raised the rent.",
+     "answers": [
+      "until"
+     ],
+     "explain": "It wasn't until… that…"
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Emphasis with do / does / did",
+   "instructions": "Use emphatic do, does or did, or correct the error.",
+   "topic": "g-do-emphasis",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "I ___ like my flat, but it's far too expensive.",
+     "answers": [
+      "do"
+     ],
+     "explain": "Emphatic do before the base verb."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "She ___ warn us that the neighbourhood was changing.",
+     "answers": [
+      "did"
+     ],
+     "explain": "Emphatic past: did + base."
+    },
+    {
+     "id": "C3",
+     "type": "choice",
+     "prompt": "«You never visit.» — «That's not true! I ___ visit you last month.»",
+     "options": [
+      "did",
+      "do",
+      "was"
+     ],
+     "answer": 0,
+     "explain": "Emphatic did rejects a doubt about a past event."
+    },
+    {
+     "id": "C4",
+     "type": "fix",
+     "prompt": "He does likes living downtown.",
+     "answers": [
+      "He does like living downtown."
+     ],
+     "explain": "After does, the verb takes the base form."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "___ be careful when you sign a lease: read every clause.",
+     "answers": [
+      "Do"
+     ],
+     "explain": "Emphatic imperative with Do."
+    },
+    {
+     "id": "C6",
+     "type": "translate",
+     "prompt": "Sí me gusta vivir aquí; es solo que el trayecto es largo.",
+     "answers": [
+      "I do like living here; it's just that the commute is long.",
+      "I do like living here; it's only that the commute is long.",
+      "I do like living here; it is just that the commute is long.",
+      "I do like living here; it is only that the commute is long.",
+      "I do like living here, it's just that the commute is long.",
+      "I do like living here, it's only that the commute is long.",
+      "I do like living here, it is just that the commute is long.",
+      "I do like living here, it is only that the commute is long."
+     ],
+     "explain": "Emphatic do + concession."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "I did went to the meeting, but nobody listened.",
+     "answers": [
+      "I did go to the meeting, but nobody listened."
+     ],
+     "explain": "Did + infinitive without to."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "All, The thing, The reason, The place",
+   "instructions": "Complete or correct these cleft structures.",
+   "topic": "g-cleft-more",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "The reason ___ I left was the noise.",
+     "answers": [
+      "why",
+      "that"
+     ],
+     "explain": "The reason (why/that) + subject + verb + be."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "The place ___ I feel most at home is my grandmother's kitchen.",
+     "answers": [
+      "where"
+     ],
+     "explain": "Place: where."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "All she did ___ ask for a quieter room.",
+     "options": [
+      "was",
+      "has",
+      "did"
+     ],
+     "answer": 0,
+     "explain": "All she did was (to) + base."
+    },
+    {
+     "id": "D4",
+     "type": "fix",
+     "prompt": "The thing what bothers me is the traffic.",
+     "answers": [
+      "The thing that bothers me is the traffic.",
+      "The thing which bothers me is the traffic."
+     ],
+     "explain": "After the thing comes that, not what."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "Which is the most natural option in a formal text for emphasis?",
+     "options": [
+      "What the report highlights is the pace of displacement.",
+      "The report highlights what is the pace of displacement.",
+      "What highlights the report is the pace of displacement."
+     ],
+     "answer": 0,
+     "explain": "What + subject + transitive verb + be + focus."
+    },
+    {
+     "id": "D6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "we",
+      "The",
+      "fresh",
+      "the",
+      "smell",
+      "thing",
+      "of",
+      "bread",
+      "first",
+      "was",
+      "noticed"
+     ],
+     "answers": [
+      "The first thing we noticed was the smell of fresh bread."
+     ],
+     "explain": "The first thing + clause + was + focus."
+    },
+    {
+     "id": "D7",
+     "type": "translate",
+     "prompt": "Lo único que hice fue pedirles que bajaran el volumen.",
+     "answers": [
+      "All I did was to ask them to turn the music down.",
+      "All I did was to ask them to turn the volume down.",
+      "All I did was to ask them to turn it down.",
+      "All I did was ask them to turn the music down.",
+      "All I did was ask them to turn the volume down.",
+      "All I did was ask them to turn it down."
+     ],
+     "explain": "All I did was (to) + base."
+    },
+    {
+     "id": "D8",
+     "type": "fix",
+     "prompt": "The reason why I left is because the rent was too high.",
+     "answers": [
+      "The reason why I left is that the rent was too high.",
+      "The reason I left is that the rent was too high."
+     ],
+     "explain": "The reason… is that."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Housing and urban life",
+   "instructions": "Complete with housing and urban vocabulary.",
+   "topic": "v-city-housing",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "Rising prices are causing the ___ of long-term residents.",
+     "answers": [
+      "displacement"
+     ],
+     "explain": "displacement = the forced moving of residents from their homes."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "A person who rents a flat from the owner is a ___.",
+     "options": [
+      "landlord",
+      "tenant",
+      "developer"
+     ],
+     "answer": 1,
+     "explain": "Tenant = a person who rents a property from its owner."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "My daily ___ takes almost two hours each way.",
+     "answers": [
+      "commute"
+     ],
+     "explain": "commute = the daily journey to and from work."
+    },
+    {
+     "id": "E4",
+     "type": "fix",
+     "prompt": "The new metro line has improved the infrastructures of the suburb.",
+     "answers": [
+      "The new metro line has improved the infrastructure of the suburb."
+     ],
+     "explain": "Infrastructure is uncountable."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "Parks, clinics and shops near your home are local ___.",
+     "options": [
+      "amenities",
+      "amenable",
+      "amends"
+     ],
+     "answer": 0,
+     "explain": "Amenities = facilities and services that make a place pleasant or convenient."
+    },
+    {
+     "id": "E6",
+     "type": "translate",
+     "prompt": "Muchos jóvenes no pueden permitirse comprar una casa.",
+     "answers": [
+      "Many young people can't afford to buy a house.",
+      "Many young people can't afford to buy a home.",
+      "Many young people can't afford to buy a flat.",
+      "Many young people can't afford to buy a property."
+     ],
+     "explain": "can't afford to + infinitive."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "The council plans to build more ___ housing for low-income families.",
+     "answers": [
+      "affordable"
+     ],
+     "explain": "affordable housing = housing that people on ordinary incomes can pay for."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Place adjectives",
+   "instructions": "Choose or complete with the right adjective.",
+   "topic": "v-place-adjectives",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "We lived in a ___ one-bedroom flat: there was barely room for a sofa.",
+     "answers": [
+      "cramped"
+     ],
+     "explain": "cramped = very small, with little room."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "An area that is becoming fashionable and attracting investment is ___.",
+     "options": [
+      "up-and-coming",
+      "dilapidated",
+      "secluded"
+     ],
+     "answer": 0,
+     "explain": "Up-and-coming = becoming fashionable and successful."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "A house far from other people, hidden among trees, is ___.",
+     "options": [
+      "secluded",
+      "bustling",
+      "soulless"
+     ],
+     "answer": 0,
+     "explain": "Secluded = private and far from other people."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "The town centre is ___ on Saturdays: crowds, music and street food everywhere.",
+     "answers": [
+      "bustling"
+     ],
+     "explain": "bustling = full of activity and people."
+    },
+    {
+     "id": "F5",
+     "type": "fix",
+     "prompt": "The building was so dilapidate that nobody wanted to rent it.",
+     "answers": [
+      "The building was so dilapidated that nobody wanted to rent it."
+     ],
+     "explain": "Dilapidated is a participial adjective."
+    },
+    {
+     "id": "F6",
+     "type": "translate",
+     "prompt": "Es un barrio pintoresco, aunque algo caro.",
+     "answers": [
+      "It's a picturesque neighbourhood, although a bit overpriced.",
+      "It's a picturesque neighbourhood, although a bit expensive.",
+      "It's a picturesque neighbourhood, although a bit pricey.",
+      "It's a picturesque neighbourhood, although a little overpriced.",
+      "It's a picturesque neighbourhood, although a little expensive.",
+      "It's a picturesque neighbourhood, although a little pricey.",
+      "It's a picturesque neighbourhood, although somewhat overpriced.",
+      "It's a picturesque neighbourhood, although somewhat expensive.",
+      "It's a picturesque neighbourhood, although somewhat pricey.",
+      "It's a picturesque neighbourhood, although slightly overpriced.",
+      "It's a picturesque neighbourhood, although slightly expensive.",
+      "It's a picturesque neighbourhood, although slightly pricey.",
+      "It's a picturesque neighborhood, although a bit overpriced.",
+      "It's a picturesque neighborhood, although a bit expensive.",
+      "It's a picturesque neighborhood, although a bit pricey.",
+      "It's a picturesque neighborhood, although a little overpriced.",
+      "It's a picturesque neighborhood, although a little expensive.",
+      "It's a picturesque neighborhood, although a little pricey.",
+      "It's a picturesque neighborhood, although somewhat overpriced.",
+      "It's a picturesque neighborhood, although somewhat expensive.",
+      "It's a picturesque neighborhood, although somewhat pricey.",
+      "It's a picturesque neighborhood, although slightly overpriced.",
+      "It's a picturesque neighborhood, although slightly expensive.",
+      "It's a picturesque neighborhood, although slightly pricey."
+     ],
+     "explain": "picturesque + overpriced."
+    },
+    {
+     "id": "F7",
+     "type": "choice",
+     "prompt": "The new estate feels ___: every house looks identical and there are no shops.",
+     "options": [
+      "soulless",
+      "leafy",
+      "tranquil"
+     ],
+     "answer": 0,
+     "explain": "Soulless = impersonal, lacking character."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "loneliness",
+      "cities",
+      "hardest",
+      "I",
+      "big",
+      "is",
+      "the",
+      "find",
+      "What",
+      "about"
+     ],
+     "answers": [
+      "What I find hardest about big cities is the loneliness."
+     ],
+     "explain": "What + clause + is + focus."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "moved",
+      "was",
+      "noticed",
+      "the",
+      "It",
+      "noise",
+      "only",
+      "after",
+      "that",
+      "we",
+      "we"
+     ],
+     "answers": [
+      "It was only after we moved that we noticed the noise."
+     ],
+     "explain": "It was only after… that…"
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "is",
+      "rents",
+      "many",
+      "people",
+      "that",
+      "reason",
+      "keep",
+      "The",
+      "why",
+      "leave",
+      "rising"
+     ],
+     "answers": [
+      "The reason why many people leave is that rents keep rising."
+     ],
+     "explain": "The reason why… is that…"
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "into",
+      "much",
+      "you",
+      "I",
+      "the",
+      "have",
+      "how",
+      "put",
+      "effort",
+      "flat",
+      "appreciate",
+      "do"
+     ],
+     "answers": [
+      "I do appreciate how much effort you have put into the flat."
+     ],
+     "explain": "Emphatic do + base."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "street",
+      "a",
+      "bus",
+      "decent",
+      "quiet",
+      "All",
+      "is",
+      "we",
+      "need",
+      "a",
+      "and",
+      "service"
+     ],
+     "answers": [
+      "All we need is a quiet street and a decent bus service."
+     ],
+     "explain": "All we need is…"
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "not",
+      "residents,",
+      "benefit",
+      "is",
+      "developers,",
+      "from",
+      "project",
+      "the",
+      "the",
+      "It",
+      "the",
+      "who"
+     ],
+     "answers": [
+      "It is the developers, not the residents, who benefit from the project."
+     ],
+     "explain": "It is + focus + who + plural verb."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate using cleft structures or emphasis.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Lo que me molesta no es el ruido, sino la falta de privacidad.",
+     "answers": [
+      "What bothers me is not the noise, but rather the lack of privacy.",
+      "What bothers me is not the noise, but the lack of privacy.",
+      "What bothers me is not the noise but rather the lack of privacy.",
+      "What bothers me is not the noise but the lack of privacy.",
+      "What bothers me isn't the noise, but rather the lack of privacy.",
+      "What bothers me isn't the noise, but the lack of privacy.",
+      "What bothers me isn't the noise but rather the lack of privacy.",
+      "What bothers me isn't the noise but the lack of privacy.",
+      "What annoys me is not the noise, but rather the lack of privacy.",
+      "What annoys me is not the noise, but the lack of privacy.",
+      "What annoys me is not the noise but rather the lack of privacy.",
+      "What annoys me is not the noise but the lack of privacy.",
+      "What annoys me isn't the noise, but rather the lack of privacy.",
+      "What annoys me isn't the noise, but the lack of privacy.",
+      "What annoys me isn't the noise but rather the lack of privacy.",
+      "What annoys me isn't the noise but the lack of privacy."
+     ],
+     "explain": "What + verb + is not X but Y."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Fue en esa calle donde conocí a mi esposa.",
+     "answers": [
+      "It was on that street that I met my wife.",
+      "It was on that street where I met my wife."
+     ],
+     "explain": "It was + place + that…"
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Sí te avisé de que el alquiler iba a subir.",
+     "answers": [
+      "I did warn you that the rent was going to go up.",
+      "I did warn you that the rent was going to rise.",
+      "I did warn you that the rent was going to increase.",
+      "I did warn you that the rent would go up.",
+      "I did warn you that the rent would rise.",
+      "I did warn you that the rent would increase.",
+      "I did warn you the rent was going to go up.",
+      "I did warn you the rent was going to rise.",
+      "I did warn you the rent was going to increase.",
+      "I did warn you the rent would go up.",
+      "I did warn you the rent would rise.",
+      "I did warn you the rent would increase."
+     ],
+     "explain": "did + base form, for emphasis."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "La razón por la que nos mudamos fue el trayecto diario al trabajo.",
+     "answers": [
+      "The reason why we moved was the daily commute to work.",
+      "The reason why we moved was the daily commute.",
+      "The reason why we moved was the commute to work.",
+      "The reason why we moved was the commute.",
+      "The reason that we moved was the daily commute to work.",
+      "The reason that we moved was the daily commute.",
+      "The reason that we moved was the commute to work.",
+      "The reason that we moved was the commute.",
+      "The reason we moved was the daily commute to work.",
+      "The reason we moved was the daily commute.",
+      "The reason we moved was the commute to work.",
+      "The reason we moved was the commute."
+     ],
+     "explain": "The reason (why) + subject + verb + was."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Lo primero que hice al llegar fue abrir todas las ventanas.",
+     "answers": [
+      "The first thing I did when I arrived was to open all the windows.",
+      "The first thing I did when I arrived was open all the windows.",
+      "The first thing I did as soon as I arrived was to open all the windows.",
+      "The first thing I did as soon as I arrived was open all the windows."
+     ],
+     "explain": "The first thing I did was (to) + base."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "No fue hasta que vi el contrato que entendí el problema.",
+     "answers": [
+      "It was not until I saw the contract that I understood the problem.",
+      "It wasn't until I saw the contract that I understood the problem."
+     ],
+     "explain": "It wasn't until… that…"
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed review of the unit",
+   "instructions": "Mix of everything covered, plus two items from earlier units.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "___ I regret is not buying the flat when it was cheap.",
+     "options": [
+      "What",
+      "That",
+      "It"
+     ],
+     "answer": 0,
+     "explain": "What I regret is…"
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "It was the high rent ___ forced them to leave.",
+     "answers": [
+      "that",
+      "which"
+     ],
+     "explain": "It was + focus + that + verb."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "She did warned us about the rent.",
+     "answers": [
+      "She did warn us about the rent."
+     ],
+     "explain": "Did + infinitive."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "The ___ of the city centre has pushed families out to the suburbs.",
+     "options": [
+      "gentrification",
+      "commute",
+      "amenity"
+     ],
+     "answer": 0,
+     "explain": "Gentrification pushes residents out."
+    },
+    {
+     "id": "M5",
+     "type": "gap",
+     "prompt": "We love our new flat; it's so ___ that we can host twelve people.",
+     "answers": [
+      "spacious"
+     ],
+     "explain": "spacious = large and roomy."
+    },
+    {
+     "id": "M6",
+     "type": "translate",
+     "prompt": "Lo que necesitamos es transporte público decente.",
+     "answers": [
+      "What we need is decent public transport.",
+      "What we need is decent public transportation."
+     ],
+     "explain": "What we need is + focus."
+    },
+    {
+     "id": "M7",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "her",
+      "that",
+      "It",
+      "impressed",
+      "most",
+      "me",
+      "was",
+      "honesty"
+     ],
+     "answers": [
+      "It was her honesty that impressed me most."
+     ],
+     "explain": "It was + focus + that."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "The place ___ I grew up has changed beyond recognition.",
+     "answers": [
+      "where"
+     ],
+     "explain": "The place where…"
+    },
+    {
+     "id": "M9",
+     "type": "choice",
+     "prompt": "(Review: reporting verbs) The landlord denied ___ the deposit.",
+     "options": [
+      "to keep",
+      "keeping",
+      "that keep"
+     ],
+     "answer": 1,
+     "explain": "Deny + gerund (or that + clause)."
+    },
+    {
+     "id": "M10",
+     "type": "choice",
+     "prompt": "(Review: passive) The old factory is thought ___ built in 1890.",
+     "options": [
+      "to have been",
+      "to be",
+      "having been"
+     ],
+     "answer": 0,
+     "explain": "is thought to have been + past participle: a past event."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a text of 250 to 300 words about the neighbourhood or city where you grew up or live now: what it was like before, how it has changed and what you think of that change (who gains, who loses). Use at least two pseudo-clefts with What, two it-clefts, one emphatic do/did and a couple of expressions to qualify (If anything, It's not so much… as…). Start like this: 'What strikes me most about my neighbourhood is…'",
+   "targets": [
+    "pseudo-clefts with What",
+    "It-clefts",
+    "emphatic do/did",
+    "housing and city vocabulary",
+    "place adjectives"
+   ],
+   "checklist": [
+    "At least two correct pseudo-clefts (What … is …)",
+    "At least two it-clefts with correct that/who",
+    "One emphatic do/did with a base-form verb",
+    "Vocabulary: gentrification, commute, amenities, affordable housing or others",
+    "At least four place adjectives used well",
+    "Consistent register and linking words (However, Admittedly, To be fair)",
+    "Between 250 and 300 words, in well-organised paragraphs"
+   ],
+   "model": "What strikes me most about my neighbourhood is how quiet it has become. When I was a child, the streets were never silent: children played football beside the market, and neighbours chatted from their balconies until midnight. What I remember best is the smell of bread from the bakery on the corner, which closed three years ago.\n\nIt was in the early 2010s that things began to change. It was the arrival of short-term holiday flats that transformed the area most, and it is the long-standing residents who have borne the cost. What many families can no longer afford is the rent, which has doubled in a decade. It is not so much that the neighbourhood has become dangerous as that it has become unaffordable.\n\nTo be fair, there have been gains. Amenities have improved, the pavements are cleaner, and the new cafés do give the area a lively, cosmopolitan feel. I do appreciate the cycle lanes, which make my commute far more pleasant. Admittedly, a trendy, well-connected district is hard to resist.\n\nIf anything, though, the benefits are unevenly shared. The people who gain most are property owners and visitors, while elderly tenants and young families are slowly being pushed out. What worries me is that a neighbourhood with no affordable housing loses its character, becoming a showcase rather than a community.\n\nWhat I would like to see is a more balanced approach: a cap on tourist lets and genuine investment in affordable housing. A vibrant, gentrifying neighbourhood is not necessarily a better one, and the old baker would, I think, agree."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a formal letter of 280 to 350 words to the city council about rising rents and the lack of affordable housing in your city. Describe the problem, state the causes clearly (It is… that…, The reason… is that…) and propose three concrete solutions. Keep a firm but polite tone and avoid overusing colloquial emphatic do.",
+   "targets": [
+    "it-clefts",
+    "The reason … is that",
+    "All … was",
+    "formal register",
+    "housing vocabulary"
+   ],
+   "checklist": [
+    "Formal greeting and closing",
+    "Clear description of the problem with data or examples",
+    "At least three varied clefts (What, It, The reason…)",
+    "The reason… is that (no because)",
+    "Three concrete proposals using housing vocabulary",
+    "Polite but firm tone (If anything, To be fair, Admittedly)",
+    "Between 280 and 350 words"
+   ],
+   "model": "Dear Members of the Council,\n\nI am writing to express my deep concern about rising rents and the shortage of affordable housing in our city, which now threaten the stability of thousands of households.\n\nAccording to the latest figures from the municipal housing office, average rents have risen by almost forty per cent in the past six years, while wages have grown by less than ten. A young teacher in my own street, for instance, now spends more than sixty per cent of her salary on a one-bedroom flat. What is particularly worrying is that many residents are being forced to leave the neighbourhoods in which they have lived all their lives.\n\nThe causes are not difficult to identify. It is the conversion of residential flats into tourist accommodation that has reduced the supply of long-term rentals most sharply. The main reason rents continue to climb is that new construction has focused almost exclusively on luxury developments. Admittedly, investment is welcome and, to be fair, the council has taken some steps in the right direction. Nevertheless, these measures have been too limited to make a real difference.\n\nI would therefore respectfully urge the council to consider three measures. First, a strict limit should be placed on the number of licences granted for short-term tourist lets. Second, a proportion of every new development, say thirty per cent, ought to be reserved for affordable housing. Third, the council should create a public rental scheme, offering stable contracts to young people and families on moderate incomes.\n\nAll that is required is the political will to act. If anything, delay will only make the problem more expensive to solve. I would be grateful for the opportunity to discuss these proposals at a public meeting, and I trust that you will give them serious consideration.\n\nYours faithfully,\n\nMarta Delgado"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The street that changed",
+   "intro": "Read this personal essay about a neighbourhood in transformation and answer the questions.",
+   "paragraphs": [
+    "When I left Calle Naranjo at nineteen, it was a street that smelled of frying onions and diesel. Twenty years on, what greets me at the corner is a cold-brew bar with a neon sign in English. It would be easy to write a lament, and I have read plenty of them. But what interests me is not nostalgia; it is the question of who gets to decide what a neighbourhood is for.",
+    "My aunt Lupe still lives in the building where I grew up, though not for much longer. It was last spring that her landlord told her the rent would almost double. 'It isn't that I mind the new neighbours,' she told me, stirring her coffee with unusual force. 'What I mind is being treated as though I were part of the scenery.' She has lived in that third-floor flat for thirty-one years, long enough to have watched the pharmacy become a phone shop, then a gallery, and now a studio that sells ceramic cups for the price of a week's groceries.",
+    "The usual word for all this is gentrification, and it is a word that is easy to overuse. Developers speak of regeneration; residents speak of displacement; economists, characteristically, speak of neighbourhood sorting. Each of them is describing something real. Nobody disputes that the street is safer, cleaner and better lit than it was. What is disputed is who has been paid for those improvements, and who has paid for them. Property values have tripled in a decade, yet the typical household income on the street has barely risen. The people who can afford to stay are largely those who bought early or inherited; everyone else has moved to the outskirts, where a cheaper flat comes with a commute of two hours each way.",
+    "That commute is, I think, the part of the story that gets least attention. It was only when I spent a week travelling with Lupe's former neighbour, Mauricio, that I understood it. He now lives on a sprawling estate at the edge of the city, where rows of identical houses stand without a single shop, clinic or café within walking distance. He leaves at five in the morning and returns after eight at night. 'I do have a bigger kitchen,' he said with a tired smile, 'but I hardly ever see it in daylight.' The amenities the rest of us take for granted, such as a pharmacy round the corner or a school one can walk to, are exactly what he traded away for space.",
+    "None of this means that change itself is the enemy. A street that never changes is a museum, and nobody has ever wanted to pay rent in a museum. The real issue is pace and participation. The cities that have handled the problem best tend to do three things: they cap sudden rent increases, they require developers to set aside a share of every new building as affordable housing, and, hardest of all, they consult the people who already live there before the cranes arrive. None of these measures is glamorous, and none is cheap.",
+    "On my last evening, Lupe took me up to the roof. The city was doing what it does at dusk: the lights came on in waves, a dog barked somewhere, and a vendor's whistle drifted up from the street below. 'You see?' she said. 'It's the sounds that haven't changed.' I thought about that on the flight home. Perhaps what makes a place feel like home is less the buildings than the small, unremarkable routines that survive inside them, and it is precisely those routines that money finds hardest to protect."
+   ],
+   "glossary": [
+    {
+     "en": "lament",
+     "def": "a sad expression of regret or grief for something lost."
+    },
+    {
+     "en": "regeneration",
+     "def": "the process of renewing and redeveloping an urban area."
+    },
+    {
+     "en": "outskirts",
+     "def": "the outer areas on the edge of a town or city."
+    },
+    {
+     "en": "estate",
+     "def": "a planned residential development of houses or flats, often on the edge of a city."
+    },
+    {
+     "en": "cap (v.)",
+     "def": "to set an upper limit on something, such as rent."
+    },
+    {
+     "en": "set aside",
+     "def": "to keep something separately for a particular purpose."
+    },
+    {
+     "en": "cranes",
+     "def": "tall machines used on building sites to lift heavy materials."
+    },
+    {
+     "en": "dusk",
+     "def": "the time of day just after sunset, when it is getting dark."
+    },
+    {
+     "en": "drifted up",
+     "def": "floated slowly upwards."
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "What is the writer chiefly interested in?",
+     "options": [
+      "Expressing nostalgia for his childhood",
+      "Who has the power to decide what a neighbourhood is for",
+      "Criticising the new cafés",
+      "Proving that the street is now safer"
+     ],
+     "answer": 1,
+     "explain": "Says they are not interested in nostalgia but in who decides what a neighborhood is for."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Lupe objects mainly to her new neighbours.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Says: \"It isn't that I mind the new neighbours\"; what bothers them is feeling like part of the scenery."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "According to the text, what is actually disputed?",
+     "options": [
+      "Whether the street is safer",
+      "Who has benefited from the improvements and who has paid for them",
+      "Whether property values have risen",
+      "Whether developers exist"
+     ],
+     "answer": 1,
+     "explain": "No one disputes the improvement; the debate is about who pays and who benefits."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Why does Mauricio hardly ever see his kitchen in daylight?",
+     "options": [
+      "He works night shifts",
+      "His commute keeps him out from early morning until late evening",
+      "He prefers to eat out",
+      "His kitchen has no windows"
+     ],
+     "answer": 1,
+     "explain": "Leaves at five and returns after eight."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "What is the writer's view of change?",
+     "options": [
+      "Change is the enemy",
+      "Change is acceptable if its pace and the participation of residents are handled well",
+      "Streets should never change",
+      "He is indifferent to it"
+     ],
+     "answer": 1,
+     "explain": "\"None of this means that change itself is the enemy\"; what matters is pace and participation."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "According to the writer, a street that never changes is a ___.",
+     "answers": [
+      "museum"
+     ],
+     "explain": "«A street that never changes is a museum»."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "What does Lupe mean by «It's the sounds that haven't changed»?",
+     "options": [
+      "Home is sustained more by small routines than by buildings",
+      "The street has become quieter",
+      "Noise is the main problem",
+      "Sounds are protected by law"
+     ],
+     "answer": 0,
+     "explain": "The text's last sentence returns to the idea: it is routines that make a home."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Viewing a flat",
+   "intro": "Listen to a couple viewing a flat with the estate agent. You can play it again.",
+   "lines": [
+    {
+     "who": "Agent",
+     "voice": "glassy",
+     "text": "Right, so this is the living area. As you can see, it's open-plan, and the windows face south, so you get sun most of the afternoon."
+    },
+    {
+     "who": "Maya",
+     "voice": "airy",
+     "text": "It's lovely, honestly. What strikes me is how much light there is. The photos didn't do it justice."
+    },
+    {
+     "who": "Daniel",
+     "voice": "buttery",
+     "text": "It is bright. What I'm wondering about is the street, though. Is it noisy at night?"
+    },
+    {
+     "who": "Agent",
+     "voice": "glassy",
+     "text": "Not at all. It's one of the quietest roads in the area. There's a bar at the far end, but it closes at eleven."
+    },
+    {
+     "who": "Daniel",
+     "voice": "buttery",
+     "text": "Hm. And the commute? We both work downtown."
+    },
+    {
+     "who": "Agent",
+     "voice": "glassy",
+     "text": "It's about twenty-five minutes by metro. The station is a five-minute walk, and it was the new line that made this neighbourhood so sought-after."
+    },
+    {
+     "who": "Maya",
+     "voice": "airy",
+     "text": "It's a bit above our budget, though. We did say nothing over fourteen thousand a month."
+    },
+    {
+     "who": "Agent",
+     "voice": "glassy",
+     "text": "I understand. The landlord is asking sixteen, but there may be room to negotiate, particularly if you're willing to sign for two years."
+    },
+    {
+     "who": "Daniel",
+     "voice": "buttery",
+     "text": "Two years is a big commitment. All I'd want is a clause allowing us to leave after twelve months if our jobs change."
+    },
+    {
+     "who": "Agent",
+     "voice": "glassy",
+     "text": "That's not unusual. I'll raise it with him. What you need to bear in mind is that another couple is coming to view it at five."
+    },
+    {
+     "who": "Maya",
+     "voice": "airy",
+     "text": "Ah, so that's a bit of pressure, then."
+    },
+    {
+     "who": "Agent",
+     "voice": "glassy",
+     "text": "Not pressure, just reality. It's a popular street."
+    },
+    {
+     "who": "Daniel",
+     "voice": "buttery",
+     "text": "Let's talk it over outside. It was the kitchen that worried me, honestly. It's rather cramped."
+    },
+    {
+     "who": "Maya",
+     "voice": "airy",
+     "text": "I know, but I do think we could live with it. It's the location that sells it for me."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What does Maya like most about the flat?",
+     "options": [
+      "The kitchen",
+      "The amount of light",
+      "The location of the station"
+     ],
+     "answer": 1,
+     "explain": "«What strikes me is how much light there is»."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "The street is noisy at night.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "The agent says it is one of the quietest streets."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "How long is the commute to the city centre?",
+     "options": [
+      "About fifteen minutes",
+      "About twenty-five minutes",
+      "About forty-five minutes"
+     ],
+     "answer": 1,
+     "explain": "Twenty-five minutes by metro."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What does Daniel want in the contract?",
+     "options": [
+      "A lower rent",
+      "A clause allowing them to leave after twelve months",
+      "A longer lease"
+     ],
+     "answer": 1,
+     "explain": "«All I'd want is a clause allowing us to leave after twelve months»."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "Why does the agent mention another couple?",
+     "options": [
+      "To suggest they may need to decide quickly",
+      "To lower the price",
+      "To warn about noisy neighbours"
+     ],
+     "answer": 0,
+     "explain": "Another couple is coming to see it at five: there is competition."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "What strikes me is how much light there is.",
+     "answers": [
+      "What strikes me is how much light there is."
+     ],
+     "explain": "Pseudo-hendida con What."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "It was the new line that made this neighbourhood so sought-after.",
+     "answers": [
+      "It was the new line that made this neighbourhood so sought-after."
+     ],
+     "explain": "It-cleft con that."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "All I'd want is a clause allowing us to leave after twelve months.",
+     "answers": [
+      "All I'd want is a clause allowing us to leave after twelve months."
+     ],
+     "explain": "All + I'd want + is."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "I do think we could live with it.",
+     "answers": [
+      "I do think we could live with it."
+     ],
+     "explain": "Emphatic do before think."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Describe the place where you grew up and what you miss most about it. Use pseudo-clefts (What I miss most is…) and place adjectives.",
+     "questions": [
+      "Where did you grow up?",
+      "What does the neighbourhood look and feel like?",
+      "What do you miss most about it?",
+      "How has it changed?"
+     ],
+     "model": "I grew up in a leafy suburb on the edge of Puebla. It was a tranquil place, with wide pavements and old jacaranda trees. What I miss most is the sense of community: the neighbours knew each other by name. It was the tianguis on Sundays that really brought the street to life. Nowadays it's a lot busier, and honestly, what worries me is how many of the old houses have been replaced by apartment blocks.",
+     "checklist": [
+      "At least two pseudo-clefts with What",
+      "One it-cleft (It was… that…)",
+      "Place adjectives (leafy, tranquil, bustling)",
+      "Linking words to qualify (honestly, if anything)"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Give your opinion on gentrification: who wins and who loses? Qualify your position and concede a point to the other side.",
+     "questions": [
+      "Is gentrification a positive or a negative trend?",
+      "Who benefits from it?",
+      "Who loses out?",
+      "What should local governments do?"
+     ],
+     "model": "I do think gentrification brings real benefits: safer streets, new businesses, better infrastructure. Admittedly, though, it's not so much the improvement that bothers me as the way it prices out long-term residents. What cities need is a mix of measures: rent caps, affordable housing quotas and a say for residents. The reason it works badly in many places is that decisions are taken before anyone asks the neighbours.",
+     "checklist": [
+      "Emphatic do + concession (I do think…, Admittedly)",
+      "It's not so much X as Y",
+      "The reason… is that",
+      "Vocabulary: displacement, affordable housing, amenities"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Imagine you are viewing a flat with a friend. Discuss what you like and what worries you; negotiate the price with the agent.",
+     "questions": [
+      "What do you like about this flat?",
+      "What worries you about it?",
+      "Is the rent within your budget?",
+      "Would you sign a two-year lease?"
+     ],
+     "model": "What I like is the amount of light, and the street seems quiet. The thing is, the rent is above what we planned. All we'd ask for is a break clause after a year. It was the kitchen that put me off a little, because it's rather cramped. If the landlord can lower the price a little, I do think we'd take it.",
+     "checklist": [
+      "Pseudo-cleft or The thing is…",
+      "All we'd ask for is…",
+      "Emphatic do",
+      "Place adjectives (cramped, spacious)"
+     ]
+    }
+   ],
+   "repeat": [
+    "What strikes me is how much light there is.",
+    "It was the rent that made us leave the city centre.",
+    "I do like living here; it's just that the commute is exhausting.",
+    "The reason why many people leave is that rents keep rising.",
+    "All I wanted was a quiet street and a decent bus service.",
+    "It's not so much the noise as the lack of privacy."
+   ]
+  }
+ }
+}

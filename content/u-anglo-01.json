@@ -1,0 +1,1573 @@
+{
+ "id": "u-anglo-01",
+ "level": "B1",
+ "n": 1,
+ "title": "Personal Information",
+ "goals": [
+  "Meet new neighbors and talk about yourself: where you are from, what you do and where you live.",
+  "Use the Simple Present and the Present Continuous to talk about habits and about things happening now.",
+  "Talk about your past with the Simple Past and used to.",
+  "Talk about plans and predictions with will and be going to.",
+  "Ask for help politely when you arrive in a new place.",
+  "Read and write a social media profile and a short personal bio."
+ ],
+ "learn": [
+  {
+   "id": "g-present-review",
+   "kind": "grammar",
+   "title": "Simple Present and Present Continuous (review)",
+   "html": "<p>Use the <strong>Simple Present</strong> for habits, routines and facts. Use the <strong>Present Continuous</strong> for actions happening <em>now</em> or around now.</p><table><thead><tr><th></th><th>Simple Present</th><th>Present Continuous</th></tr></thead><tbody><tr><td>Use</td><td>habits, facts, permanent situations</td><td>now, temporary situations</td></tr><tr><td>Positive</td><td>She <strong>works</strong> in a bank.</td><td>She <strong>is working</strong> at home today.</td></tr><tr><td>Negative</td><td>He <strong>doesn't live</strong> here.</td><td>He <strong>isn't living</strong> here this month.</td></tr><tr><td>Question</td><td><strong>Do</strong> you <strong>work</strong> on Saturdays?</td><td><strong>Are</strong> you <strong>working</strong> now?</td></tr><tr><td>Time words</td><td>always, usually, every day, often, never</td><td>now, right now, today, this week, at the moment</td></tr></tbody></table><ul><li>Add <em>-s</em> with he / she / it in the Simple Present: <em>she lives</em>.</li><li>Some verbs are not usually used in the continuous: <em>know, like, love, want, need, have</em> (for possession).</li></ul>",
+   "watch": [
+    {
+     "wrong": "She is work in a hospital.",
+     "right": "She works in a hospital.",
+     "why": "For a regular job, use the Simple Present. The continuous needs is + verb-ing."
+    },
+    {
+     "wrong": "I am knowing your neighbor.",
+     "right": "I know your neighbor.",
+     "why": "Know is a state verb. We do not use it in the continuous."
+    },
+    {
+     "wrong": "He don't live here.",
+     "right": "He doesn't live here.",
+     "why": "With he / she / it, use doesn't."
+    },
+    {
+     "wrong": "Where you live?",
+     "right": "Where do you live?",
+     "why": "Questions in the Simple Present need do / does."
+    }
+   ]
+  },
+  {
+   "id": "g-past-used-to",
+   "kind": "grammar",
+   "title": "Simple Past and used to",
+   "html": "<p>Use the <strong>Simple Past</strong> for finished actions at a specific time in the past. Use <strong>used to</strong> for past habits or situations that are not true now.</p><table><thead><tr><th></th><th>Simple Past</th><th>used to</th></tr></thead><tbody><tr><td>Positive</td><td>We <strong>moved</strong> here in 2019.</td><td>I <strong>used to live</strong> in a small town.</td></tr><tr><td>Negative</td><td>She <strong>didn't speak</strong> English.</td><td>We <strong>didn't use to have</strong> a car.</td></tr><tr><td>Question</td><td><strong>Did</strong> you <strong>grow up</strong> here?</td><td><strong>Did</strong> you <strong>use to</strong> play soccer?</td></tr></tbody></table><ul><li>Regular verbs end in <em>-ed</em>: <em>move - moved</em>. Irregular verbs change: <em>go - went, meet - met, have - had</em>.</li><li>After <em>did / didn't</em>, the verb goes back to the base form: <em>Did you go?</em></li><li><em>used to</em> + base verb. It does not tell us exactly when something happened.</li></ul>",
+   "watch": [
+    {
+     "wrong": "She didn't went to school.",
+     "right": "She didn't go to school.",
+     "why": "After didn't, use the base form."
+    },
+    {
+     "wrong": "I use to live in Toluca.",
+     "right": "I used to live in Toluca.",
+     "why": "For the past, write used to, with -d."
+    },
+    {
+     "wrong": "Did you moved last year?",
+     "right": "Did you move last year?",
+     "why": "After did, the verb is in the base form."
+    },
+    {
+     "wrong": "I used to living with my parents.",
+     "right": "I used to live with my parents.",
+     "why": "used to + base verb, not -ing."
+    }
+   ]
+  },
+  {
+   "id": "g-future",
+   "kind": "grammar",
+   "title": "Future: will and be going to",
+   "html": "<p>We use <strong>be going to</strong> for plans we already made and for predictions based on what we see. We use <strong>will</strong> for quick decisions, promises, offers and opinions about the future.</p><table><thead><tr><th>Use</th><th>Example</th></tr></thead><tbody><tr><td>plan (be going to)</td><td>We <strong>are going to</strong> visit my aunt next month.</td></tr><tr><td>prediction with evidence (be going to)</td><td>Look at the sky! It <strong>is going to</strong> rain.</td></tr><tr><td>quick decision (will)</td><td>The phone is ringing. I<strong>'ll</strong> answer it.</td></tr><tr><td>promise or offer (will)</td><td>Don't worry. I<strong>'ll</strong> help you with the boxes.</td></tr><tr><td>opinion (will)</td><td>I think you<strong>'ll</strong> like this neighborhood.</td></tr></tbody></table><ul><li><em>will</em> + base verb for all subjects: <em>she will go</em>. Negative: <em>won't</em>.</li><li><em>be going to</em> + base verb: <em>I am going to study</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "She will to call you tomorrow.",
+     "right": "She will call you tomorrow.",
+     "why": "After will, use the base verb without to."
+    },
+    {
+     "wrong": "He will goes to the party.",
+     "right": "He will go to the party.",
+     "why": "will + base form, with no -s."
+    },
+    {
+     "wrong": "They are going to moving next month.",
+     "right": "They are going to move next month.",
+     "why": "be going to + base verb."
+    },
+    {
+     "wrong": "I going to study tonight.",
+     "right": "I am going to study tonight.",
+     "why": "Do not forget the verb be: am / is / are."
+    }
+   ]
+  },
+  {
+   "id": "v-moving",
+   "kind": "vocab",
+   "title": "Moving to a new place",
+   "words": [
+    {
+     "id": "w-neighbor",
+     "en": "neighbor",
+     "es": "vecino/a",
+     "example": "My neighbor always says hello in the morning.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-newcomer",
+     "en": "newcomer",
+     "es": "recién llegado/a",
+     "example": "Newcomers to the city often need help with buses."
+    },
+    {
+     "id": "w-immigrant",
+     "en": "immigrant",
+     "es": "inmigrante",
+     "example": "Her parents were immigrants from Italy.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-hometown",
+     "en": "hometown",
+     "es": "ciudad natal, pueblo de origen",
+     "example": "My hometown is small, but it is very beautiful."
+    },
+    {
+     "id": "w-grow-up",
+     "en": "grow up",
+     "es": "crecer, criarse",
+     "example": "I grew up near the mountains.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-move-to",
+     "en": "move to / move into",
+     "es": "mudarse a / mudarse a (una casa o edificio)",
+     "example": "We moved into a new apartment last week.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-settle-in",
+     "en": "settle in",
+     "es": "instalarse, acostumbrarse a un lugar",
+     "example": "It took us a month to settle in.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-get-used-to",
+     "en": "get used to",
+     "es": "acostumbrarse a",
+     "example": "I'm getting used to the cold weather.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-homesick",
+     "en": "homesick",
+     "es": "con nostalgia del hogar",
+     "example": "She felt homesick during her first month abroad."
+    },
+    {
+     "id": "w-culture-shock",
+     "en": "culture shock",
+     "es": "choque cultural",
+     "example": "Many travelers feel culture shock in a new country.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-adapt",
+     "en": "adapt",
+     "es": "adaptarse",
+     "example": "Children usually adapt to a new school quickly.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-native-language",
+     "en": "native language",
+     "es": "lengua materna",
+     "example": "Spanish is my native language.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-community",
+     "en": "community",
+     "es": "comunidad",
+     "example": "The community center offers free classes.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-background",
+     "en": "background",
+     "es": "origen, formación, trayectoria",
+     "example": "People in my class have very different backgrounds.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "v-profile",
+   "kind": "vocab",
+   "title": "Profiles and personal information forms",
+   "words": [
+    {
+     "id": "w-full-name",
+     "en": "full name",
+     "es": "nombre completo",
+     "example": "Please write your full name at the top of the form.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-date-of-birth",
+     "en": "date of birth",
+     "es": "fecha de nacimiento",
+     "example": "My date of birth is June 5, 1994.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-nationality",
+     "en": "nationality",
+     "es": "nacionalidad",
+     "example": "What is your nationality?"
+    },
+    {
+     "id": "w-occupation",
+     "en": "occupation",
+     "es": "ocupación, profesión",
+     "example": "Her occupation is teacher.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-contact-info",
+     "en": "contact information",
+     "es": "datos de contacto",
+     "example": "Write your phone number and email in the contact information box.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-emergency-contact",
+     "en": "emergency contact",
+     "es": "contacto de emergencia",
+     "example": "My sister is my emergency contact.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-username",
+     "en": "username",
+     "es": "nombre de usuario",
+     "example": "Choose a username that is easy to remember."
+    },
+    {
+     "id": "w-password",
+     "en": "password",
+     "es": "contraseña",
+     "example": "Never share your password with anyone.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-profile-picture",
+     "en": "profile picture",
+     "es": "foto de perfil",
+     "example": "She changed her profile picture yesterday.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-bio",
+     "en": "bio",
+     "es": "biografía breve, descripción personal",
+     "example": "His bio says: teacher, runner and coffee lover."
+    },
+    {
+     "id": "w-follower",
+     "en": "follower",
+     "es": "seguidor/a",
+     "example": "She has two hundred followers on her page.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-post",
+     "en": "post",
+     "es": "publicación; publicar",
+     "example": "I wrote a post about my new neighborhood.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-privacy-settings",
+     "en": "privacy settings",
+     "es": "configuración de privacidad",
+     "example": "Check your privacy settings before you share photos.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-log-in",
+     "en": "log in",
+     "es": "iniciar sesión",
+     "example": "You need a username and a password to log in."
+    }
+   ]
+  },
+  {
+   "id": "e-neighbors-help",
+   "kind": "expressions",
+   "title": "Meeting neighbors and asking for help",
+   "html": "<ul><li><strong>Hi, I'm... I just moved into number 5.</strong> - introducing yourself to a neighbor.</li><li><strong>Welcome to the neighborhood!</strong> - welcoming a new neighbor.</li><li><strong>Nice to meet you. Where are you from?</strong> - starting a friendly conversation.</li><li><strong>What do you do? / What do you do for a living?</strong> - asking about someone's job.</li><li><strong>I'm new here. Could you help me?</strong> - asking for help when you arrive.</li><li><strong>Could you tell me where the nearest pharmacy is?</strong> - a polite question (the verb is after the subject).</li><li><strong>Do you know how to get to the bus station?</strong> - asking for directions.</li><li><strong>Where can I find...? / Is there a... near here?</strong> - looking for places and services.</li><li><strong>Thanks a lot. I really appreciate it.</strong> - thanking someone for help.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Simple Present or Present Continuous",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-present-review",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "My neighbor ___ in a bakery every morning. (work)",
+     "answers": [
+      "works"
+     ],
+     "explain": "A regular habit with he / she: Simple Present with -s."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Look! The new neighbors ___ boxes into the building. (carry)",
+     "answers": [
+      "are carrying",
+      "'re carrying"
+     ],
+     "explain": "Look! means it is happening now: Present Continuous."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "How often ___ you call your parents?",
+     "answers": [
+      "do"
+     ],
+     "explain": "Simple Present questions with you use do."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "Right now, I ___ for my keys.",
+     "options": [
+      "look",
+      "am looking",
+      "looks"
+     ],
+     "answer": 1,
+     "explain": "Right now: am + verb-ing."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "She usually drinks coffee, but today she ___ tea.",
+     "options": [
+      "drinks",
+      "is drinking",
+      "drink"
+     ],
+     "answer": 1,
+     "explain": "Today is a temporary change: Present Continuous."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "He is knowing all the neighbors.",
+     "answers": [
+      "He knows all the neighbors."
+     ],
+     "explain": "Know is a state verb: Simple Present."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "Maria don't work on Sundays.",
+     "answers": [
+      "Maria doesn't work on Sundays.",
+      "Maria does not work on Sundays."
+     ],
+     "explain": "With she, use doesn't + base verb."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Where",
+      "does",
+      "your",
+      "family",
+      "live"
+     ],
+     "answers": [
+      "Where does your family live?"
+     ],
+     "explain": "Question word + does + subject + base verb."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Simple Past and used to",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-past-used-to",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "We ___ to Monterrey in 2019. (move)",
+     "answers": [
+      "moved"
+     ],
+     "explain": "A finished action in 2019: Simple Past with -ed."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "Did you ___ the neighbors yesterday? (meet)",
+     "answers": [
+      "meet"
+     ],
+     "explain": "After did, use the base form."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "I ___ to live in a small town, but now I live in the city.",
+     "answers": [
+      "used"
+     ],
+     "explain": "Past habit that is not true now: used to."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "We ___ to have a car, so we took the bus.",
+     "answers": [
+      "didn't use",
+      "did not use"
+     ],
+     "explain": "Negative of used to: didn't use to."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "When ___ you arrive in this city?",
+     "options": [
+      "do",
+      "did",
+      "were"
+     ],
+     "answer": 1,
+     "explain": "A question about the past uses did."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "She didn't went to the party.",
+     "answers": [
+      "She didn't go to the party.",
+      "She did not go to the party."
+     ],
+     "explain": "After didn't, use the base form: go."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "I use to play soccer every weekend as a child.",
+     "answers": [
+      "I used to play soccer every weekend as a child."
+     ],
+     "explain": "For the past, write used to."
+    },
+    {
+     "id": "B8",
+     "type": "translate",
+     "prompt": "Antes vivíamos en un pueblo pequeño.",
+     "answers": [
+      "We used to live in a small town.",
+      "We used to live in a small village."
+     ],
+     "explain": "Past habit or situation: used to + base verb."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "will and be going to",
+   "instructions": "Complete, choose, correct or order.",
+   "topic": "g-future",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "Look at those black clouds! It ___ rain.",
+     "answers": [
+      "is going to",
+      "'s going to"
+     ],
+     "explain": "A prediction based on what you see: be going to."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "I think my new neighbors ___ be very friendly.",
+     "answers": [
+      "will",
+      "'ll"
+     ],
+     "explain": "An opinion about the future: will."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "We ___ visit my grandparents next weekend. We already bought the tickets.",
+     "answers": [
+      "are going to",
+      "'re going to"
+     ],
+     "explain": "A plan you already made: be going to."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "The phone is ringing. I ___ answer it.",
+     "options": [
+      "will",
+      "going to",
+      "am going"
+     ],
+     "answer": 0,
+     "explain": "A quick decision at the moment of speaking: will."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "Next year, Laura ___ study nursing. She has already applied.",
+     "options": [
+      "will",
+      "is going to",
+      "is going"
+     ],
+     "answer": 1,
+     "explain": "A plan she already made: be going to."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "She will to call you tomorrow.",
+     "answers": [
+      "She will call you tomorrow.",
+      "She'll call you tomorrow."
+     ],
+     "explain": "Will is followed by the base verb, without to."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "They are going to moving next month.",
+     "answers": [
+      "They are going to move next month.",
+      "They're going to move next month."
+     ],
+     "explain": "be going to + base verb."
+    },
+    {
+     "id": "C8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "What",
+      "are",
+      "you",
+      "going",
+      "to",
+      "do",
+      "tomorrow"
+     ],
+     "answers": [
+      "What are you going to do tomorrow?"
+     ],
+     "explain": "Question word + are + subject + going to + base verb."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Vocabulary: moving to a new place",
+   "instructions": "Complete, choose or translate.",
+   "topic": "v-moving",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "A person who lives next to you is your ___.",
+     "answers": [
+      "neighbor",
+      "neighbour"
+     ],
+     "explain": "The person who lives next door is your neighbor."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "When you miss your home and family, you feel ___.",
+     "answers": [
+      "homesick"
+     ],
+     "explain": "Homesick: sad because you miss home."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "The city where you were born is your...",
+     "options": [
+      "hometown",
+      "community",
+      "profile"
+     ],
+     "answer": 0,
+     "explain": "Your hometown is the place you come from."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "It takes time to get ___ to a new culture.",
+     "answers": [
+      "used"
+     ],
+     "explain": "get used to = become comfortable with something new."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "A person who moves to live in another country is an...",
+     "options": [
+      "immigrant",
+      "neighbor",
+      "follower"
+     ],
+     "answer": 0,
+     "explain": "An immigrant comes to live in a new country."
+    },
+    {
+     "id": "D6",
+     "type": "gap",
+     "prompt": "I grew ___ in a small village near Oaxaca.",
+     "answers": [
+      "up"
+     ],
+     "explain": "grow up = spend your childhood in a place."
+    },
+    {
+     "id": "D7",
+     "type": "translate",
+     "prompt": "Extraño mi ciudad natal.",
+     "answers": [
+      "I miss my hometown.",
+      "I miss my home town."
+     ],
+     "explain": "Miss + object; hometown = ciudad natal."
+    },
+    {
+     "id": "D8",
+     "type": "choice",
+     "prompt": "Her first language is Spanish. Spanish is her ___ language.",
+     "options": [
+      "native",
+      "new",
+      "local"
+     ],
+     "answer": 0,
+     "explain": "Your first language is your native language."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: profiles and forms",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "v-profile",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "To enter your account, you type your username and your ___.",
+     "answers": [
+      "password"
+     ],
+     "explain": "Username + password to log in."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "A short text about you on your profile is your...",
+     "options": [
+      "bio",
+      "post",
+      "password"
+     ],
+     "answer": 0,
+     "explain": "Bio = a short description of yourself."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "My date of ___ is March 12, 1995.",
+     "answers": [
+      "birth"
+     ],
+     "explain": "date of birth = fecha de nacimiento."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "People who follow your page are your ___.",
+     "answers": [
+      "followers"
+     ],
+     "explain": "Followers see your posts."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "A job title, like nurse or driver, is your...",
+     "options": [
+      "occupation",
+      "nationality",
+      "username"
+     ],
+     "answer": 0,
+     "explain": "Occupation = your job or profession."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "Mexican is my ___.",
+     "options": [
+      "nationality",
+      "occupation",
+      "bio"
+     ],
+     "answer": 0,
+     "explain": "Nationality = the country you belong to."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "Please change your ___ settings, so only friends can see your photos.",
+     "answers": [
+      "privacy"
+     ],
+     "explain": "Privacy settings control who sees your information."
+    },
+    {
+     "id": "E8",
+     "type": "fix",
+     "prompt": "I have 30 years old.",
+     "answers": [
+      "I'm 30 years old.",
+      "I am 30 years old.",
+      "I'm 30.",
+      "I am 30."
+     ],
+     "explain": "Age uses the verb be, not have."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Meeting neighbors and asking for help",
+   "instructions": "Complete, choose, correct, order or translate.",
+   "topic": "e-neighbors-help",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "A new family moves in next door. You say:",
+     "options": [
+      "Welcome to the neighborhood!",
+      "See you later!",
+      "Good luck on the test!"
+     ],
+     "answer": 0,
+     "explain": "Welcome to the neighborhood! greets new neighbors."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "Excuse me, I'm new ___. Where is the post office?",
+     "answers": [
+      "here"
+     ],
+     "explain": "I'm new here = I just arrived in this place."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "Could you ___ me where the bus stop is?",
+     "answers": [
+      "tell"
+     ],
+     "explain": "Could you tell me...? is a polite question."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "Which sentence is the most polite?",
+     "options": [
+      "Where is the bank?",
+      "Could you tell me where the bank is?",
+      "Tell me the bank."
+     ],
+     "answer": 1,
+     "explain": "Could you tell me...? sounds polite."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "I just moved ___ number 12 last week.",
+     "answers": [
+      "into"
+     ],
+     "explain": "move into = start living in a house or apartment."
+    },
+    {
+     "id": "F6",
+     "type": "fix",
+     "prompt": "Could you tell me where is the bank?",
+     "answers": [
+      "Could you tell me where the bank is?"
+     ],
+     "explain": "After Could you tell me, use normal word order: subject + verb."
+    },
+    {
+     "id": "F7",
+     "type": "translate",
+     "prompt": "Soy nuevo aquí. ¿Me puede ayudar?",
+     "answers": [
+      "I'm new here. Could you help me?",
+      "I am new here. Could you help me?",
+      "I'm new here. Can you help me?",
+      "I am new here. Can you help me?",
+      "I'm new here. Could you help me, please?",
+      "I am new here. Could you help me, please?",
+      "I'm new here. Can you help me, please?",
+      "I am new here. Can you help me, please?"
+     ],
+     "explain": "I'm new here + a polite request with Could / Can you."
+    },
+    {
+     "id": "F8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Do",
+      "you",
+      "know",
+      "where",
+      "the",
+      "pharmacy",
+      "is"
+     ],
+     "answers": [
+      "Do you know where the pharmacy is?"
+     ],
+     "explain": "Do you know + where + subject + verb."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "moved",
+      "We",
+      "here",
+      "in",
+      "2020"
+     ],
+     "answers": [
+      "We moved here in 2020."
+     ],
+     "explain": "Subject + past verb + place + time."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "is",
+      "He",
+      "cooking",
+      "dinner",
+      "right",
+      "now"
+     ],
+     "answers": [
+      "He is cooking dinner right now.",
+      "Right now he is cooking dinner."
+     ],
+     "explain": "Present Continuous: is + verb-ing."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "used",
+      "to",
+      "I",
+      "live",
+      "in",
+      "Toluca"
+     ],
+     "answers": [
+      "I used to live in Toluca."
+     ],
+     "explain": "Subject + used to + base verb."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "is",
+      "going",
+      "to",
+      "She",
+      "study",
+      "medicine"
+     ],
+     "answers": [
+      "She is going to study medicine."
+     ],
+     "explain": "Subject + is going to + base verb."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I",
+      "will",
+      "help",
+      "you",
+      "carry",
+      "the",
+      "boxes"
+     ],
+     "answers": [
+      "I will help you carry the boxes."
+     ],
+     "explain": "will + base verb: an offer."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Where",
+      "did",
+      "you",
+      "grow",
+      "up"
+     ],
+     "answers": [
+      "Where did you grow up?"
+     ],
+     "explain": "Question word + did + subject + base verb."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Mi vecino trabaja en un hospital.",
+     "answers": [
+      "My neighbor works in a hospital.",
+      "My neighbor works at a hospital.",
+      "My neighbour works in a hospital.",
+      "My neighbour works at a hospital."
+     ],
+     "explain": "Simple Present with he: works."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Ellos se mudaron a esta ciudad hace tres años.",
+     "answers": [
+      "They moved to this city three years ago.",
+      "They moved to this town three years ago."
+     ],
+     "explain": "Simple Past + ago."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Yo solía vivir cerca del mar.",
+     "answers": [
+      "I used to live near the sea.",
+      "I used to live near the ocean.",
+      "I used to live by the sea.",
+      "I used to live by the ocean."
+     ],
+     "explain": "Past situation: used to + base verb."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Mañana voy a llenar un formulario.",
+     "answers": [
+      "I'm going to fill out a form tomorrow.",
+      "I am going to fill out a form tomorrow.",
+      "Tomorrow I'm going to fill out a form.",
+      "Tomorrow I am going to fill out a form.",
+      "I'm going to fill in a form tomorrow.",
+      "I am going to fill in a form tomorrow.",
+      "Tomorrow I'm going to fill in a form.",
+      "Tomorrow I am going to fill in a form."
+     ],
+     "explain": "A plan: be going to + base verb."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Creo que será una buena experiencia.",
+     "answers": [
+      "I think it will be a good experience.",
+      "I think it'll be a good experience.",
+      "I think that it will be a good experience.",
+      "I think that it'll be a good experience."
+     ],
+     "explain": "An opinion about the future: I think + will."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "¿A qué te dedicas?",
+     "answers": [
+      "What do you do?",
+      "What do you do for a living?"
+     ],
+     "explain": "To ask about a job: What do you do?"
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes 2 review items from earlier topics).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "She ___ to work by bus every day.",
+     "options": [
+      "goes",
+      "is going",
+      "go"
+     ],
+     "answer": 0,
+     "explain": "Every day: Simple Present with -s."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "When I was a child, I ___ to play outside every day.",
+     "answers": [
+      "used"
+     ],
+     "explain": "A past habit: used to."
+    },
+    {
+     "id": "M3",
+     "type": "choice",
+     "prompt": "Don't worry. I ___ help you with the form.",
+     "options": [
+      "will",
+      "am going",
+      "did"
+     ],
+     "answer": 0,
+     "explain": "A promise or offer: will."
+    },
+    {
+     "id": "M4",
+     "type": "fix",
+     "prompt": "He don't have a username.",
+     "answers": [
+      "He doesn't have a username.",
+      "He does not have a username."
+     ],
+     "explain": "With he, use doesn't + base verb."
+    },
+    {
+     "id": "M5",
+     "type": "translate",
+     "prompt": "Soy de Puebla, pero vivo en Querétaro.",
+     "answers": [
+      "I'm from Puebla, but I live in Querétaro.",
+      "I am from Puebla, but I live in Querétaro.",
+      "I'm from Puebla but I live in Querétaro.",
+      "I am from Puebla but I live in Querétaro.",
+      "I'm from Puebla, but I live in Queretaro.",
+      "I am from Puebla, but I live in Queretaro.",
+      "I'm from Puebla but I live in Queretaro.",
+      "I am from Puebla but I live in Queretaro."
+     ],
+     "explain": "be from for origin; Simple Present for where you live."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "Please write your full name and date of ___.",
+     "answers": [
+      "birth"
+     ],
+     "explain": "date of birth."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "There ___ three families in my building. (review: there is / there are)",
+     "answers": [
+      "are"
+     ],
+     "explain": "Plural noun: there are."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "How old ___ your brother? (review: be)",
+     "answers": [
+      "is"
+     ],
+     "explain": "Age questions use be: is with he."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a short bio about yourself (120 to 160 words). Say who you are, where you are from, what you do now, what you used to do, and what you are going to do in the future. Opening: My name is... and I'm... years old.",
+   "targets": [
+    "Simple Present and Present Continuous",
+    "Simple Past and used to",
+    "will / be going to",
+    "personal information vocabulary"
+   ],
+   "checklist": [
+    "120 to 160 words",
+    "Name, age, hometown and occupation",
+    "At least one sentence with used to or the Simple Past",
+    "One sentence with a Present Continuous action (now / this year)",
+    "One plan with be going to and one opinion with will",
+    "Verbs in the correct form (works, lived, didn't go)"
+   ],
+   "model": "My name is Daniel Torres, and I'm 29 years old. I was born in Puebla, Mexico, but I live in Querétaro now. I moved here in 2021 because I got a job as a software tester. Before that, I used to live with my parents and my two sisters. I grew up in a small neighborhood where everybody knew each other, so at first I felt homesick. Now I'm used to my new city, and I have many good friends.\n\nI work from Monday to Friday, and I usually play soccer on Saturday mornings. This semester I'm studying English at night because I want to improve my career. In the future, I'm going to take an online course in data analysis. I think I will also travel to Canada one day. I love meeting new people, learning languages and trying different food."
+  },
+  {
+   "id": "W2",
+   "prompt": "You just moved to a new building. Write a short message (80 to 120 words) to a neighbor. Introduce yourself, ask two polite questions to get help, and say one thing you are going to do soon.",
+   "targets": [
+    "introducing yourself",
+    "polite questions with Could you tell me...?",
+    "be going to"
+   ],
+   "checklist": [
+    "80 to 120 words",
+    "Greeting and your name",
+    "Two polite questions (Could you tell me where...?)",
+    "One sentence with be going to",
+    "Thanks at the end"
+   ],
+   "model": "Hi Mrs. Lopez, I'm Daniel from apartment 3C. I moved in last Saturday. I'm writing to say hello and to ask for some help. Could you tell me where the nearest pharmacy is? I also need to know which day the garbage truck comes. I used to live in a small house, so I'm not used to apartment rules yet. Next weekend I'm going to have a few friends over, and I'll try not to make noise. Thank you very much, and I hope we can have coffee soon. Best wishes, Daniel"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "New Country, New Life",
+   "intro": "Read about three people who moved to a new country and answer.",
+   "paragraphs": [
+    "Moving to a new country is never easy, but many people turn the change into a success story. Here are the stories of three people who started a new life far from home.",
+    "Karina Lopez grew up in Guadalajara, Mexico. In 2015, she moved to Canada to study design. At first she felt homesick, and she didn't understand fast English. She used to eat lunch alone every day. Then she joined a volunteer group in her neighborhood and made her first friends. Today she is a graphic designer, and she works for a large company in Vancouver. She is also learning French, and next year she is going to open her own studio.",
+    "Omar Haddad is from Egypt. He came to Spain in 2012 with only one suitcase. He didn't speak Spanish, so he took free classes at a community center every evening. He used to wash dishes in a restaurant; now he owns two small restaurants. \"Be patient,\" he says. \"Every day gets a little easier.\" This year he is hiring more workers from his neighborhood.",
+    "Mei Lin grew up in a small village in China. Five years ago, she moved to Australia to join her brother. She is a nurse now, and she is studying for an exam so she can work in a bigger hospital. She says her neighbors helped her a lot: they showed her the bus routes and invited her to dinner. \"In the future, I'll do the same for other newcomers,\" she says.",
+    "These people have different backgrounds, but they share three things. They asked for help, they learned the language, and they never stopped trying. Their stories show that the first months are the hardest, but things get better. Karina, Omar and Mei Lin all say the same thing: be kind to yourself, make friends with your neighbors, and don't be afraid of mistakes. What will you do if you move to a new place?"
+   ],
+   "glossary": [
+    {
+     "en": "success story",
+     "def": "the story of someone who achieved something important"
+    },
+    {
+     "en": "homesick",
+     "def": "sad because you miss your home and family"
+    },
+    {
+     "en": "volunteer",
+     "def": "a person who works to help others without payment"
+    },
+    {
+     "en": "suitcase",
+     "def": "a bag you use to carry clothes when you travel"
+    },
+    {
+     "en": "community center",
+     "def": "a place where people in a neighborhood meet and take classes"
+    },
+    {
+     "en": "hire",
+     "def": "to give someone a job"
+    },
+    {
+     "en": "route",
+     "def": "the road or way a bus or train follows"
+    },
+    {
+     "en": "newcomer",
+     "def": "a person who has just arrived in a place"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Karina moved to Canada to study design.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "She moved to Canada to study design."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Why did Karina feel alone at first?",
+     "options": [
+      "She was homesick and she didn't understand fast English",
+      "She didn't like her course",
+      "Her neighbors were unfriendly"
+     ],
+     "answer": 0,
+     "explain": "She felt homesick and did not understand fast English."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What did Omar do in the evenings?",
+     "options": [
+      "He took free language classes",
+      "He worked in a hospital",
+      "He opened a restaurant"
+     ],
+     "answer": 0,
+     "explain": "He took free classes at a community center every evening."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "Omar used to wash dishes, but now he owns two small ___.",
+     "answers": [
+      "restaurants"
+     ],
+     "explain": "Now he owns two small restaurants."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "Mei Lin lives in China now.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "She moved to Australia five years ago."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "How did Mei Lin's neighbors help her?",
+     "options": [
+      "They showed her the bus routes",
+      "They gave her a job",
+      "They taught her English"
+     ],
+     "answer": 0,
+     "explain": "They showed her the bus routes and invited her to dinner."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "Karina is going to open her own ___ next year.",
+     "answers": [
+      "studio"
+     ],
+     "explain": "Next year she is going to open her own studio."
+    },
+    {
+     "id": "R8",
+     "type": "translate",
+     "prompt": "Ella creció en un pueblo pequeño.",
+     "answers": [
+      "She grew up in a small village.",
+      "She grew up in a small town."
+     ],
+     "explain": "grew up = past of grow up."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Meeting the new neighbors",
+   "intro": "Listen to three neighbors talking in a building. You can repeat it.",
+   "lines": [
+    {
+     "who": "Laura",
+     "voice": "airy",
+     "text": "Hello! Are you the new neighbors in apartment 4B?"
+    },
+    {
+     "who": "Sam",
+     "voice": "buttery",
+     "text": "Yes, we are. We're moving in today. I'm Sam, and this is my wife, Dana."
+    },
+    {
+     "who": "Dana",
+     "voice": "glassy",
+     "text": "Nice to meet you. We used to live across the city, but Sam found a new job near here."
+    },
+    {
+     "who": "Laura",
+     "voice": "airy",
+     "text": "Welcome to the neighborhood! I'm Laura. I live in 4A, right next door."
+    },
+    {
+     "who": "Sam",
+     "voice": "buttery",
+     "text": "Thanks! What do you do, Laura?"
+    },
+    {
+     "who": "Laura",
+     "voice": "airy",
+     "text": "I'm a nurse. I work at the hospital on weekdays, but I'm not working this weekend, so I can help you."
+    },
+    {
+     "who": "Dana",
+     "voice": "glassy",
+     "text": "That's very kind. Actually, could you tell us where the nearest supermarket is?"
+    },
+    {
+     "who": "Laura",
+     "voice": "airy",
+     "text": "Sure. It's two blocks from here, next to the pharmacy. I'm going to go there tonight, so you can come with me."
+    },
+    {
+     "who": "Sam",
+     "voice": "buttery",
+     "text": "Great! We're going to need a lot of things for the kitchen."
+    },
+    {
+     "who": "Laura",
+     "voice": "airy",
+     "text": "Don't worry. I'll bring you a map of the area and the bus schedule tomorrow."
+    },
+    {
+     "who": "Dana",
+     "voice": "glassy",
+     "text": "Thank you so much. We don't know anybody here yet."
+    },
+    {
+     "who": "Laura",
+     "voice": "airy",
+     "text": "You will soon. There's a small party in the building on Saturday, and I think you'll like it."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Which apartment is Laura's?",
+     "options": [
+      "4A",
+      "4B",
+      "5A"
+     ],
+     "answer": 0,
+     "explain": "Laura lives in 4A, next door to the new neighbors."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Why did Sam and Dana move?",
+     "options": [
+      "Sam found a new job near the building",
+      "Dana started school",
+      "They wanted a bigger kitchen"
+     ],
+     "answer": 0,
+     "explain": "Dana says Sam found a new job near here."
+    },
+    {
+     "id": "L3",
+     "type": "gap",
+     "prompt": "Laura works as a ___.",
+     "answers": [
+      "nurse"
+     ],
+     "explain": "Laura says: I'm a nurse."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "Where is the supermarket?",
+     "options": [
+      "Next to the pharmacy",
+      "Behind the hospital",
+      "Across the city"
+     ],
+     "answer": 0,
+     "explain": "It is two blocks away, next to the pharmacy."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What will Laura bring tomorrow?",
+     "options": [
+      "A map and the bus schedule",
+      "Some kitchen things",
+      "A cake"
+     ],
+     "answer": 0,
+     "explain": "She will bring a map of the area and the bus schedule."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "The party in the building is on Sunday.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "The party is on Saturday."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Welcome to the neighborhood!",
+     "answers": [
+      "Welcome to the neighborhood!",
+      "Welcome to the neighbourhood!"
+     ],
+     "explain": "A friendly greeting for new neighbors."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Could you tell us where the nearest supermarket is?",
+     "answers": [
+      "Could you tell us where the nearest supermarket is?"
+     ],
+     "explain": "A polite question: normal word order after where."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "We used to live across the city.",
+     "answers": [
+      "We used to live across the city."
+     ],
+     "explain": "used to + base verb for a past situation."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "I'm going to go there tonight.",
+     "answers": [
+      "I'm going to go there tonight.",
+      "I am going to go there tonight."
+     ],
+     "explain": "A plan: be going to + base verb."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "You meet a new neighbor in your building. Introduce yourself and ask about them.",
+     "questions": [
+      "Hi! Are you the new neighbor?",
+      "Where are you from?",
+      "What do you do?",
+      "How long have you lived here?"
+     ],
+     "model": "Hi, I'm Daniel. I live in apartment 3C. Nice to meet you! I'm from Puebla, but I moved here two years ago. I work in an office and I study English at night. What about you? What do you do?",
+     "checklist": [
+      "Greeting and name",
+      "Where you are from (I'm from...)",
+      "Simple Present for your job",
+      "A question to the other person"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "You just arrived in a new city. Ask a stranger for help with two places or services.",
+     "questions": [
+      "Excuse me, can I help you?",
+      "What are you looking for?",
+      "Do you know the area?",
+      "Is there anything else you need?"
+     ],
+     "model": "Excuse me, I'm new here. Could you tell me where the nearest pharmacy is? Also, do you know how to get to the bus station? Thank you very much. I really appreciate your help.",
+     "checklist": [
+      "I'm new here",
+      "Could you tell me where... is?",
+      "Do you know how to get to...?",
+      "Thanks"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about yourself: your past, your life now and your plans.",
+     "questions": [
+      "Where did you grow up?",
+      "What did you use to do when you were a child?",
+      "What are you doing these days?",
+      "What are you going to do next year?"
+     ],
+     "model": "I grew up in a small town near Puebla. When I was a child, I used to play soccer every afternoon. These days I'm working and studying English. Next year I'm going to take a computer course, and I think I'll travel to Canada one day.",
+     "checklist": [
+      "Simple Past for where you grew up",
+      "used to for a past habit",
+      "Present Continuous for these days",
+      "be going to for a plan"
+     ]
+    }
+   ],
+   "repeat": [
+    "Welcome to the neighborhood!",
+    "I just moved into apartment 3C.",
+    "Could you tell me where the nearest pharmacy is?",
+    "I used to live in a small town.",
+    "We are going to visit my family next weekend.",
+    "I think you will like it here."
+   ]
+  }
+ }
+}

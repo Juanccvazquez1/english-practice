@@ -1,0 +1,1885 @@
+{
+ "id": "u-c2-06",
+ "level": "C2",
+ "n": 6,
+ "title": "Humour and irony",
+ "goals": [
+  "Recognise and produce understatement and litotes, and infer the implied meaning.",
+  "Distinguish irony, sarcasm and other forms of humour, and detect their signals.",
+  "Use \"as if\" / \"as though\" with unreal and real situations.",
+  "Understand puns, double meanings and rhetorical devices.",
+  "React naturally to humour and to implicit meaning in English."
+ ],
+ "learn": [
+  {
+   "id": "g-understatement",
+   "kind": "grammar",
+   "title": "Understatement and litotes: saying less to mean more",
+   "html": "<p><strong>Understatement</strong> consists of expressing something with less intensity than the reality warrants; the listener must <em>infer</em> the true magnitude. It is the most characteristic feature of British humour and politeness. <strong>Litotes</strong> is a variant: denying the opposite (<em>not bad</em> = quite good; <em>not unkind</em> = rather kind).</p><table><thead><tr><th>What is said</th><th>What is meant (implicit)</th></tr></thead><tbody><tr><td>It was a bit of an inconvenience. (after getting lost in the mountains for two days)</td><td>It was a terrible experience.</td></tr><tr><td>Not bad at all. / It wasn't half bad.</td><td>It is very good (genuine praise, but restrained).</td></tr><tr><td>That's an interesting idea.</td><td>I'm not convinced; we'll probably not do it.</td></tr><tr><td>It could have gone better.</td><td>It was a disaster.</td></tr><tr><td>I wouldn't say no to…</td><td>I would love to (enthusiastic but discreet acceptance).</td></tr><tr><td>That's not exactly what I'd call a success.</td><td>It was a failure.</td></tr></tbody></table><p><strong>Softening intensifiers.</strong> <em>Quite</em>, <em>rather</em>, <em>fairly</em>, <em>a bit</em>, <em>slightly</em>: in British English <em>quite good</em> usually means \"acceptable, somewhat below expectations\"; in American English it can be intensifying. <em>Rather</em> + positive adjective is stronger (<em>rather good</em> = quite good, surprisingly good).</p><p><strong>Frequent structures:</strong> <em>a bit of a + noun</em> (<em>a bit of a problem</em>), <em>not the best / not exactly + noun</em>, <em>I've had better days</em>, <em>Well, that could have gone better</em>. The pragmatic key: the competent listener recognises the mismatch between the mild word and the seriousness of the situation.</p>",
+   "watch": [
+    {
+     "wrong": "The food was quite good (para alabar mucho).",
+     "right": "The food was really good / excellent.",
+     "why": "In British English <em>quite good</em> usually means \"acceptable\"; if you want to praise sincerely, use <em>really</em> or <em>excellent</em>."
+    },
+    {
+     "wrong": "I'm afraid there's a bit problem with your order.",
+     "right": "I'm afraid there's a bit of a problem with your order.",
+     "why": "The formula is <em>a bit of a + noun</em>; courteous understatement requires the full structure."
+    },
+    {
+     "wrong": "Thank you a lot for ruining my day.",
+     "right": "Thanks a lot for ruining my day.",
+     "why": "Sarcastic thanks uses the fixed formula <em>Thanks a lot</em>; <em>thank you a lot</em> sounds unnatural and does not convey the irony."
+    },
+    {
+     "wrong": "They made a joke of me at the party.",
+     "right": "They made fun of me at the party.",
+     "why": "<em>Make fun of</em> = to mock; <em>make a joke of something</em> means treating something lightly, not mocking a person."
+    }
+   ]
+  },
+  {
+   "id": "g-implicature",
+   "kind": "grammar",
+   "title": "Implicature, irony and sarcasm",
+   "html": "<p><strong>Implicature</strong> (H. P. Grice) is the meaning a speaker communicates <em>without saying it literally</em>. Conversation is governed by a cooperative principle: the speaker is expected to be informative, truthful, relevant and clear. When a sentence seems to break those expectations, the listener assumes there is a hidden meaning and looks for it.</p><table><thead><tr><th>Utterance</th><th>Literal meaning</th><th>Implied meaning</th></tr></thead><tbody><tr><td>\"Can you pass the salt?\"</td><td>Are you able to pass it?</td><td>Please pass me the salt.</td></tr><tr><td>\"It's a bit cold in here.\"</td><td>It is somewhat cold.</td><td>Could you close the window?</td></tr><tr><td>\"Some of the students passed.\"</td><td>At least one passed.</td><td>Not all of them passed (scalar implicature).</td></tr><tr><td>\"I have an exam at 8 tomorrow.\" (answering \"Are you coming out?\")</td><td>I have an exam.</td><td>I'm not going / I can't stay out.</td></tr><tr><td>\"Lovely weather!\" (in the rain)</td><td>The weather is nice.</td><td>The weather is awful (irony).</td></tr></tbody></table><p><strong>Irony</strong>: saying the opposite of what is meant (verbal), an outcome opposite to what was expected (<em>situational irony</em>: a fire station that burns down), or the audience knowing something the character does not (<em>dramatic irony</em>). <strong>Sarcasm</strong>: verbal irony with a target and a hurtful intent (<em>Thanks, that's really helpful</em>, said to someone who has just spilled coffee on your keyboard).</p><p><strong>Signals for detecting them:</strong> exaggerated or deliberately flat intonation, a pause, hyperbole, an obvious mismatch with the situation, or fixed responses such as <em>Oh, great</em>, <em>Brilliant</em>, <em>Tell me about it</em>, <em>That's one way of putting it</em> (= I would put it differently, less kindly or less accurately).</p>",
+   "watch": [
+    {
+     "wrong": "He told me sarcastic that I was very clever.",
+     "right": "He told me sarcastically that I was very clever.",
+     "why": "An adverb (sarcastically) is needed to modify the verb; the implication is that I was considered the opposite of clever."
+    },
+    {
+     "wrong": "'Thanks a lot!' = siempre agradecimiento sincero.",
+     "right": "With a dry tone, 'Thanks a lot!' is usually sarcastic.",
+     "why": "You must attend to context and tone: what is said and what is meant can be opposites."
+    },
+    {
+     "wrong": "He is a very sensible person; he cried at the joke about his dog.",
+     "right": "He is a very sensitive person; he cried at the joke about his dog.",
+     "why": "False friend: <em>sensible</em> = sensato; <em>sensitive</em> = sensible (emotionally)."
+    },
+    {
+     "wrong": "Interesting idea! = ¡Qué idea tan fascinante, la adoptaremos!",
+     "right": "'That's an interesting idea' suele implicar reservas.",
+     "why": "Between British speakers it is a polite way of not committing; the implied meaning is disagreement."
+    }
+   ]
+  },
+  {
+   "id": "g-as-if",
+   "kind": "grammar",
+   "title": "as if / as though + unreal situation",
+   "html": "<p><em>As if</em> and <em>as though</em> compare a situation with a hypothetical <strong>manner</strong>. If the comparison is <strong>unreal or contrary to fact</strong>, the past is used (for the present) or the past perfect (for the past), even with <em>were</em> for all persons in formal register.</p><table><thead><tr><th>Meaning</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Unreal, present</td><td>as if + past simple (were/was)</td><td>He talks as if he <strong>owned</strong> the place. (it isn't his)</td></tr><tr><td>Unreal, past</td><td>as if + past perfect</td><td>She reacted as if I <strong>had insulted</strong> her. (I didn't insult her)</td></tr><tr><td>Possible/real</td><td>as if + present</td><td>It looks as if it <strong>is going to</strong> rain. (it is possible)</td></tr><tr><td>Ironic reproach</td><td>It's not as if + clause</td><td>It's not as if I <strong>cared</strong> what he thinks.</td></tr><tr><td>Sarcastic rejection</td><td>As if!</td><td>—He says he'll finish by tomorrow. —As if! (= I don't believe that at all)</td></tr></tbody></table><p><strong>Key nuance:</strong> the mood (indicative versus unreal past) reveals what the speaker believes. <em>He looks as if he is ill</em> (I think he really is) versus <em>He behaves as if he were ill</em> (he isn't, but he is pretending). With <em>as though</em> the usage is identical. In informal register, <em>like</em> replaces <em>as if</em> (<em>He talks like he owns the place</em>), but it is avoided in formal writing.</p>",
+   "watch": [
+    {
+     "wrong": "He behaves as if he is the boss (y no lo es).",
+     "right": "He behaves as if he were the boss.",
+     "why": "Unreal situation: past (were/was), not present; the present would imply that it is the case."
+    },
+    {
+     "wrong": "She looked at me as if I have two heads.",
+     "right": "She looked at me as if I had two heads.",
+     "why": "A comparison contrary to fact: past simple."
+    },
+    {
+     "wrong": "It looks as if it would rain any minute.",
+     "right": "It looks as if it is going to rain any minute. / …as if it will rain…",
+     "why": "When the possibility is real, the indicative (present or future) is used, not the conditional."
+    },
+    {
+     "wrong": "He spends as if he would be rich.",
+     "right": "He spends as if he were rich.",
+     "why": "\"Would\" is not used after \"as if\"; an unreal comparison requires the past simple."
+    }
+   ]
+  },
+  {
+   "id": "g-wordplay",
+   "kind": "grammar",
+   "title": "Puns, types of humour and rhetorical devices",
+   "html": "<p>Much of English humour is linguistic: it depends on a word or structure admitting <strong>two readings</strong>. Getting the joke requires activating both.</p><table><thead><tr><th>Device</th><th>What it is</th><th>Example and implied meaning</th></tr></thead><tbody><tr><td>Pun (word play)</td><td>Two similar meanings or sounds</td><td><em>I used to be a banker, but I lost interest.</em> Interest = banking interest / curiosity.</td></tr><tr><td>Zeugma</td><td>One verb with two complements of different meaning</td><td><em>She lost her keys and her temper.</em></td></tr><tr><td>Double entendre</td><td>A phrase with a second, often suggestive, meaning</td><td>It is said with an innocent appearance to suggest something else.</td></tr><tr><td>Oxymoron</td><td>Contradictory terms</td><td><em>deafening silence, bitter-sweet</em></td></tr><tr><td>Hyperbole</td><td>Deliberate exaggeration</td><td><em>I've told you a million times.</em></td></tr><tr><td>Deadpan</td><td>Humour delivered with a straight face, without signalling the joke</td><td>The audience must realise on their own.</td></tr><tr><td>Satire / parody</td><td>Ridicule for a critical purpose / a mocking imitation</td><td>A sketch that exaggerates a politician's habits.</td></tr></tbody></table><p><strong>Comprehension strategy:</strong> if a sentence seems absurd, illogical or unnecessarily precise in its context, there is probably a second reading. Ask yourself: which word can mean something else? What did the listener expect to be said? Who is the target of the mockery?</p><p>Humour rarely translates literally: you almost always have to reproduce the <em>effect</em>, not the words.</p>",
+   "watch": [
+    {
+     "wrong": "He made a witty quip that everyone laughed it.",
+     "right": "He made a witty quip that everyone laughed at.",
+     "why": "<em>Laugh at</em> requires a preposition; the relative pronoun is omitted or placed at the beginning."
+    },
+    {
+     "wrong": "The comedian made fun with the politicians.",
+     "right": "The comedian made fun of the politicians.",
+     "why": "Make fun <strong>of</strong>: to mock; with it, a target is criticised."
+    },
+    {
+     "wrong": "I didn't understand the joke because was a pun.",
+     "right": "I didn't get the joke because it was a pun.",
+     "why": "The subject \"it\" is obligatory in English; the implication: the joke depends on two meanings."
+    },
+    {
+     "wrong": "It is a ironic situation.",
+     "right": "It is an ironic situation.",
+     "why": "<em>An</em> before a vowel sound: an ironic, an unexpected."
+    }
+   ]
+  },
+  {
+   "id": "v-humour-types",
+   "kind": "vocab",
+   "title": "Humour, irony and tone",
+   "words": [
+    {
+     "id": "w-deadpan",
+     "en": "deadpan",
+     "es": "(humor) con gesto serio, sin delatar la broma",
+     "example": "His deadpan delivery made the joke funnier: he never smiled."
+    },
+    {
+     "id": "w-tongue-in-cheek",
+     "en": "tongue-in-cheek",
+     "es": "dicho en broma, sin tomarse en serio",
+     "example": "Her essay on the 'tragedy' of Mondays was entirely tongue-in-cheek."
+    },
+    {
+     "id": "w-wry",
+     "en": "wry",
+     "es": "irónico, con un toque de amargura divertida",
+     "example": "He gave a wry smile and said it could have been worse."
+    },
+    {
+     "id": "w-dry",
+     "en": "dry (humour)",
+     "es": "humor seco, sin aspavientos",
+     "example": "Her dry humour often leaves new colleagues unsure whether she is joking.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-witty",
+     "en": "witty",
+     "es": "ingenioso, agudo",
+     "example": "The speech was witty without being cruel."
+    },
+    {
+     "id": "w-facetious",
+     "en": "facetious",
+     "es": "chistoso fuera de lugar, que bromea cuando no toca",
+     "example": "Don't be facetious; this is a serious matter."
+    },
+    {
+     "id": "w-flippant",
+     "en": "flippant",
+     "es": "frívolo, poco respetuoso",
+     "example": "He was flippant about the accident, which offended his colleagues."
+    },
+    {
+     "id": "w-droll",
+     "en": "droll",
+     "es": "gracioso de forma peculiar",
+     "example": "The film has a droll charm that grows on you."
+    },
+    {
+     "id": "w-sarcastic",
+     "en": "sarcastic",
+     "es": "sarcástico (ironía con intención de herir)",
+     "example": "'Nice parking,' she said in a sarcastic tone, looking at the dented car."
+    },
+    {
+     "id": "w-banter",
+     "en": "banter",
+     "es": "bromas amistosas, cuchufletas",
+     "example": "The banter between the two friends was quick and good-natured."
+    },
+    {
+     "id": "w-quip",
+     "en": "quip",
+     "es": "comentario ingenioso y breve",
+     "example": "She dismissed the criticism with a quip."
+    },
+    {
+     "id": "w-wisecrack",
+     "en": "wisecrack",
+     "es": "salida ingeniosa, a menudo burlona",
+     "example": "He couldn't resist a wisecrack about the manager's tie."
+    },
+    {
+     "id": "w-punchline",
+     "en": "punchline",
+     "es": "remate (de un chiste)",
+     "example": "He forgot the punchline, and the joke fell apart."
+    },
+    {
+     "id": "w-pun",
+     "en": "pun",
+     "es": "juego de palabras",
+     "example": "'Time flies like an arrow; fruit flies like a banana' is a classic pun."
+    },
+    {
+     "id": "w-innuendo",
+     "en": "innuendo",
+     "es": "insinuación, doble sentido",
+     "example": "The sitcom is full of innuendo that children don't notice."
+    },
+    {
+     "id": "w-satire",
+     "en": "satire",
+     "es": "sátira",
+     "example": "The novel is a biting satire of corporate culture."
+    },
+    {
+     "id": "w-parody",
+     "en": "parody",
+     "es": "parodia",
+     "example": "The sketch is a gentle parody of daytime television."
+    }
+   ]
+  },
+  {
+   "id": "v-humour-phrases",
+   "kind": "vocab",
+   "title": "Joking, teasing and getting the joke",
+   "words": [
+    {
+     "id": "w-pull-leg",
+     "en": "pull someone's leg",
+     "es": "tomarle el pelo a alguien",
+     "example": "Stop pulling my leg! You didn't really meet the president.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-take-mickey",
+     "en": "take the mickey out of someone",
+     "es": "burlarse de alguien (BrE informal)",
+     "example": "They kept taking the mickey out of his accent.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-poke-fun",
+     "en": "poke fun at",
+     "es": "burlarse de, ridiculizar con ligereza",
+     "example": "The show pokes fun at politicians of every party.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-make-fun",
+     "en": "make fun of",
+     "es": "burlarse de",
+     "example": "Don't make fun of him; he's trying his best.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-wind-up",
+     "en": "wind someone up",
+     "es": "hacer rabiar / tomar el pelo (BrE)",
+     "example": "He said I'd failed just to wind me up.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-send-up",
+     "en": "send up",
+     "es": "parodiar, ridiculizar",
+     "example": "The film sends up the spy genre.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-laugh-off",
+     "en": "laugh something off",
+     "es": "tomarse algo a risa, quitarle importancia",
+     "example": "She laughed off the criticism and carried on.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-play-down",
+     "en": "play down",
+     "es": "quitar importancia a",
+     "example": "He played down the injury, though it was serious.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-break-ice",
+     "en": "break the ice",
+     "es": "romper el hielo",
+     "example": "A quick joke broke the ice at the meeting.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fall-flat",
+     "en": "fall flat",
+     "es": "no tener efecto (un chiste)",
+     "example": "His joke fell flat: nobody laughed.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-crack-up",
+     "en": "crack up",
+     "es": "partirse de risa",
+     "example": "The audience cracked up at the punchline.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-get-joke",
+     "en": "get the joke",
+     "es": "entender el chiste",
+     "example": "I didn't get the joke until my sister explained it.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-miss-point",
+     "en": "miss the point",
+     "es": "no captar la idea/ironía",
+     "example": "If you take that literally, you're missing the point.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-butt",
+     "en": "be the butt of the joke",
+     "es": "ser el blanco de las bromas",
+     "example": "He was always the butt of the joke in the office.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-lighten",
+     "en": "lighten the mood",
+     "es": "aligerar el ambiente",
+     "example": "She made a quip to lighten the mood.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-tease",
+     "en": "tease",
+     "es": "bromear con cariño, picar",
+     "example": "His brothers tease him about his accent.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "e-reactions",
+   "kind": "expressions",
+   "title": "Responding to implicit meaning, irony and humour",
+   "html": "<p><strong>Marking or detecting irony:</strong> <em>Oh, great. / Brilliant. / Just what I needed. / How very thoughtful of you.</em> (all of these can mean the opposite).</p><p><strong>Questioning a phrasing:</strong> <em>That's one way of putting it. / I'm not sure that's the compliment you think it is. / Is that a joke, or are you serious?</em></p><p><strong>Showing you caught the double meaning:</strong> <em>I see what you did there. / Say no more. / Nudge, nudge. / Ah, now I get it.</em></p><p><strong>Sharing a complaint or experience:</strong> <em>Tell me about it. / You don't say. / No kidding.</em> (the last two can be sincere or sarcastic).</p><p><strong>Softening a criticism:</strong> <em>It's not quite what I had in mind. / With respect, that may not be the best approach. / It could be a little more polished.</em> (implied: it needs major changes).</p><p><strong>Rejecting sarcastically:</strong> <em>As if! / Yeah, right. / Like that's going to happen.</em></p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Understatement",
+   "instructions": "Choose, complete or correct. Pay attention to the implied meaning.",
+   "topic": "g-understatement",
+   "items": [
+    {
+     "id": "A1",
+     "type": "choice",
+     "prompt": "After being lost for two days without water, a hiker says: 'It was a bit of an inconvenience.' The speaker is…",
+     "options": [
+      "sincerely describing a minor problem",
+      "using understatement: the experience was terrible",
+      "exaggerating the danger"
+     ],
+     "answer": 1,
+     "explain": "Implied: it was very serious; understatement lowers the volume of the words so the listener infers the gravity."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "A: 'How was the concert?' B: 'Well, it wasn't ___ bad.' (= it was quite good)",
+     "answers": [
+      "half",
+      "too",
+      "so"
+     ],
+     "explain": "Not half bad = quite good (implied: better than he expected)."
+    },
+    {
+     "id": "A3",
+     "type": "choice",
+     "prompt": "In British English, 'That's quite good' most often implies…",
+     "options": [
+      "it is excellent",
+      "it is acceptable but not impressive",
+      "it is terrible"
+     ],
+     "answer": 1,
+     "explain": "Quite softens: implied, it is somewhat below expectations."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "A manager says: 'That's an interesting idea.' She probably means…",
+     "options": [
+      "she is genuinely fascinated",
+      "she has reservations and will probably not adopt it",
+      "she wants to start tomorrow"
+     ],
+     "answer": 1,
+     "explain": "Implied: polite disagreement; \"interesting\" avoids direct rejection."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "After a flood destroyed her ground floor, she called it 'a minor ___'.",
+     "options": [
+      "setback",
+      "catastrophe",
+      "tragedy"
+     ],
+     "answer": 0,
+     "explain": "A mild word for a serious problem is understatement; the implied meaning is the real gravity."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "I'm afraid there's a bit problem with your order.",
+     "answers": [
+      "I'm afraid there's a bit of a problem with your order.",
+      "I am afraid there's a bit of a problem with your order.",
+      "I am afraid there is a bit of a problem with your order."
+     ],
+     "explain": "A bit of a + noun; implied: the order has a real fault."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "The launch lost half its budget in a week. 'That's not ___ what I'd call a success.'",
+     "answers": [
+      "exactly",
+      "quite",
+      "precisely"
+     ],
+     "explain": "Not exactly = litotes; implied: it was a failure."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "i",
+      "wouldn't",
+      "say",
+      "no",
+      "to",
+      "a",
+      "second",
+      "helping"
+     ],
+     "answers": [
+      "I wouldn't say no to a second helping."
+     ],
+     "explain": "I wouldn't say no to = litotes; implied: I accept gladly."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Implicature, irony and sarcasm",
+   "instructions": "Interpret the implied meaning.",
+   "topic": "g-implicature",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "At a bus stop in pouring rain, someone says, 'Lovely weather!' What is meant?",
+     "options": [
+      "The weather is pleasant",
+      "The speaker wants to go to the beach",
+      "The weather is awful (irony)"
+     ],
+     "answer": 2,
+     "explain": "Irony: the mismatch between the sentence and the situation signals the opposite."
+    },
+    {
+     "id": "B2",
+     "type": "fix",
+     "prompt": "Thank you a lot for ruining my day.",
+     "answers": [
+      "Thanks a lot for ruining my day.",
+      "Thanks very much for ruining my day.",
+      "Thanks so much for ruining my day."
+     ],
+     "explain": "\"Thanks a lot\" is the sarcastic thanks formula; implied: I am not grateful."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "A: 'Are you coming to the party?' B: 'I have an exam at 8 tomorrow.' B implies…",
+     "options": [
+      "B is not coming, or cannot stay long",
+      "B is happy to come",
+      "B wants to discuss the exam"
+     ],
+     "answer": 0,
+     "explain": "Relevance implicature: the answer gives a reason for declining."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "'Some of the students passed.' What does the speaker typically imply?",
+     "options": [
+      "All of them passed",
+      "Not all of them passed",
+      "Nobody knows"
+     ],
+     "answer": 1,
+     "explain": "Scalar implicature: if all had passed, \"all\" would have been said."
+    },
+    {
+     "id": "B5",
+     "type": "gap",
+     "prompt": "'Can you pass the salt?' is not really a question about your ___; it is a polite request.",
+     "answers": [
+      "ability"
+     ],
+     "explain": "It is an indirect request; the implied meaning is \"pass me the salt\"."
+    },
+    {
+     "id": "B6",
+     "type": "choice",
+     "prompt": "After a 12-hour day, a colleague mutters, 'Oh, great. Another meeting.' She is…",
+     "options": [
+      "delighted about the meeting",
+      "being sarcastic: she is dreading it",
+      "asking for the agenda"
+     ],
+     "answer": 1,
+     "explain": "\"Oh, great\" with a flat tone and a negative context = sarcasm."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "He told me sarcastic that I was very clever.",
+     "answers": [
+      "He told me sarcastically that I was very clever."
+     ],
+     "explain": "An adverb is needed; implied: I thought the opposite."
+    },
+    {
+     "id": "B8",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "that's",
+      "one",
+      "way",
+      "of",
+      "putting",
+      "it"
+     ],
+     "answers": [
+      "That's one way of putting it."
+     ],
+     "explain": "\"That's one way of putting it\": implied, I would put it another way (blunter or more precise)."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "as if / as though",
+   "instructions": "Choose, complete or correct.",
+   "topic": "g-as-if",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "He talks as if he ___ the owner of the company, but he's only an intern.",
+     "answers": [
+      "were",
+      "was"
+     ],
+     "explain": "Unreal in the present: were/was; implied: he isn't."
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "She looked at me as if I ___ two heads.",
+     "options": [
+      "have",
+      "had",
+      "would have"
+     ],
+     "answer": 1,
+     "explain": "Contrary-to-fact comparison: past simple; implied: she looked at me in puzzlement."
+    },
+    {
+     "id": "C3",
+     "type": "fix",
+     "prompt": "It looks as if it would rain any minute, so take an umbrella.",
+     "answers": [
+      "It looks as if it's going to rain any minute, so take an umbrella.",
+      "It looks as if it is going to rain any minute, so take an umbrella.",
+      "It looks as if it will rain any minute, so take an umbrella."
+     ],
+     "explain": "Real possibility: indicative, not \"would\"."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "He spent money as though there ___ no tomorrow.",
+     "answers": [
+      "were",
+      "was"
+     ],
+     "explain": "As though + unreal past."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "She reacted as if I ___ her a terrible insult. (I had only asked the time.)",
+     "options": [
+      "said",
+      "had said",
+      "would say"
+     ],
+     "answer": 1,
+     "explain": "Earlier unreal event: past perfect; implied: she overreacted."
+    },
+    {
+     "id": "C6",
+     "type": "gap",
+     "prompt": "It's not ___ I care what he thinks.",
+     "answers": [
+      "as if",
+      "as though"
+     ],
+     "explain": "It's not as if… = it's not that…; implied: I do care a little, or it bothers me that he thinks that way."
+    },
+    {
+     "id": "C7",
+     "type": "choice",
+     "prompt": "A: 'He says he'll finish by tomorrow.' B: 'As if!' B means…",
+     "options": [
+      "He definitely will",
+      "I don't believe that for a moment",
+      "Please repeat that"
+     ],
+     "answer": 1,
+     "explain": "As if! = sarcastic rejection."
+    },
+    {
+     "id": "C8",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "he",
+      "behaved",
+      "as",
+      "though",
+      "nothing",
+      "had",
+      "happened"
+     ],
+     "answers": [
+      "He behaved as though nothing had happened."
+     ],
+     "explain": "As though + past perfect for something unreal; implied: she pretended nothing had happened."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Puns and devices",
+   "instructions": "Identify the device and its meaning.",
+   "topic": "g-wordplay",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "'I used to be a banker, but I lost interest.' The pun plays on…",
+     "options": [
+      "'interest' as bank return and as curiosity",
+      "'banker' as river bank",
+      "'lost' as perdido"
+     ],
+     "answer": 0,
+     "explain": "Double meaning: stopped being interested / lost the bank interest."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "'She lost her keys and her temper.' This is an example of…",
+     "options": [
+      "zeugma",
+      "oxymoron",
+      "litotes"
+     ],
+     "answer": 0,
+     "explain": "A single verb (lost) with two complements of different meaning."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "'Deafening silence' is…",
+     "options": [
+      "an oxymoron",
+      "a pun",
+      "a quip"
+     ],
+     "answer": 0,
+     "explain": "Two contradictory terms: the implied meaning is a silence so intense it is almost loud."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "A fire station burns to the ground. This is…",
+     "options": [
+      "situational irony",
+      "a pun",
+      "deadpan humour"
+     ],
+     "answer": 0,
+     "explain": "An outcome contrary to expectation = situational irony."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "The ___ is the final line of a joke, where the surprise or twist arrives.",
+     "answers": [
+      "punchline"
+     ],
+     "explain": "Punchline = the final line of a joke."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "He is a very sensible person; he cried when he heard the joke about his dog.",
+     "answers": [
+      "He is a very sensitive person; he cried when he heard the joke about his dog.",
+      "He's a very sensitive person; he cried when he heard the joke about his dog."
+     ],
+     "explain": "False friend: sensible = sensato; sensitive = sensible."
+    },
+    {
+     "id": "D7",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "it's",
+      "the",
+      "kind",
+      "of",
+      "humour",
+      "that",
+      "goes",
+      "over",
+      "my",
+      "head"
+     ],
+     "answers": [
+      "It's the kind of humour that goes over my head."
+     ],
+     "explain": "Go over someone's head = not to understand it; implied: the joke required knowledge I do not have."
+    },
+    {
+     "id": "D8",
+     "type": "choice",
+     "prompt": "A comedian tells a joke with a perfectly straight face, never smiling. This style is…",
+     "options": [
+      "deadpan",
+      "flippant",
+      "facetious"
+     ],
+     "answer": 0,
+     "explain": "Deadpan: the humour depends on the audience catching the joke without clues."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary of humour and irony",
+   "instructions": "Choose, complete or correct.",
+   "topic": "v-humour-types",
+   "items": [
+    {
+     "id": "E1",
+     "type": "choice",
+     "prompt": "He said it with a perfectly straight face and no change of tone, so nobody knew he was joking. His humour was…",
+     "options": [
+      "deadpan",
+      "gullible",
+      "bashful"
+     ],
+     "answer": 0,
+     "explain": "Deadpan = without giving away the joke."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "The newspaper ran a ___ of the president, exaggerating his habits for comic effect.",
+     "answers": [
+      "parody",
+      "satire",
+      "lampoon",
+      "caricature"
+     ],
+     "explain": "Parody/satire: exaggeration for mocking or critical purposes."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "'Nice hat. Did you lose a bet?' is a…",
+     "options": [
+      "wisecrack",
+      "parody",
+      "double entendre"
+     ],
+     "answer": 0,
+     "explain": "Wisecrack: a mocking remark; implied: the hat is ridiculous."
+    },
+    {
+     "id": "E4",
+     "type": "choice",
+     "prompt": "A comment said half-seriously, not meant to be taken literally, is…",
+     "options": [
+      "tongue-in-cheek",
+      "earnest",
+      "solemn"
+     ],
+     "answer": 0,
+     "explain": "Tongue-in-cheek = said as a joke."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "Trading ___ with colleagues over lunch makes the workday bearable.",
+     "answers": [
+      "banter"
+     ],
+     "explain": "Banter = friendly teasing."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "He is too ___ about serious matters; he treats funerals like open-mic nights.",
+     "options": [
+      "flippant",
+      "meticulous",
+      "reverent"
+     ],
+     "answer": 0,
+     "explain": "Flippant = frivolous; implied: a lack of respect."
+    },
+    {
+     "id": "E7",
+     "type": "fix",
+     "prompt": "She told a quip very witty.",
+     "answers": [
+      "She told a very witty quip.",
+      "She made a very witty quip."
+     ],
+     "explain": "The adjective precedes the noun."
+    },
+    {
+     "id": "E8",
+     "type": "gap",
+     "prompt": "The film is a biting ___ of corporate culture, exposing its absurdities through ridicule.",
+     "answers": [
+      "satire"
+     ],
+     "explain": "Satire = criticism through mockery."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Verbs and expressions of humour",
+   "instructions": "Choose, complete or correct.",
+   "topic": "v-humour-phrases",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "Stop ___ my leg! You didn't really meet the president.",
+     "answers": [
+      "pulling"
+     ],
+     "explain": "Pull someone's leg = to tease someone; implied: I don't believe you."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "They're just ___ you: the train hasn't been cancelled.",
+     "options": [
+      "winding up",
+      "breaking the ice with",
+      "laughing off"
+     ],
+     "answer": 0,
+     "explain": "Wind someone up = to annoy someone with a joke or trick."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "She tried to ___ off the criticism with a smile.",
+     "answers": [
+      "laugh"
+     ],
+     "explain": "Laugh something off = to dismiss its importance; implied: it hurt her."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "His joke ___ completely; nobody laughed.",
+     "options": [
+      "fell flat",
+      "cracked up",
+      "got through"
+     ],
+     "answer": 0,
+     "explain": "Fall flat = to fail to work."
+    },
+    {
+     "id": "F5",
+     "type": "fix",
+     "prompt": "The comedian made fun with the politicians.",
+     "answers": [
+      "The comedian made fun of the politicians.",
+      "The comedian poked fun at the politicians."
+     ],
+     "explain": "Make fun of / poke fun at."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "He told a story to ___ the ice at the awkward dinner.",
+     "options": [
+      "break",
+      "crack",
+      "melt"
+     ],
+     "answer": 0,
+     "explain": "Break the ice = to ease tension."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "I didn't ___ the joke until my sister explained it.",
+     "answers": [
+      "get",
+      "understand",
+      "see",
+      "catch"
+     ],
+     "explain": "Get the joke = to understand the joke; implied: I missed the second reading."
+    },
+    {
+     "id": "F8",
+     "type": "choice",
+     "prompt": "'He laughed it off' implies that he…",
+     "options": [
+      "dismissed it lightly, perhaps to hide that it bothered him",
+      "laughed until he cried",
+      "refused to listen"
+     ],
+     "answer": 0,
+     "explain": "Laugh off = to play down, sometimes to hide discomfort."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put in order",
+   "instructions": "Put the words in order.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "he",
+      "talks",
+      "as",
+      "though",
+      "he",
+      "owned",
+      "the",
+      "place"
+     ],
+     "answers": [
+      "He talks as though he owned the place."
+     ],
+     "explain": "As though + unreal past; implied: he behaves with an authority he does not have."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "her",
+      "wry",
+      "smile",
+      "suggested",
+      "she",
+      "knew",
+      "more",
+      "than",
+      "she",
+      "said"
+     ],
+     "answers": [
+      "Her wry smile suggested she knew more than she said."
+     ],
+     "explain": "Wry smile: an ironic smile; implied: she knows something she is not saying."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "it's",
+      "not",
+      "as",
+      "if",
+      "anyone",
+      "asked",
+      "for",
+      "his",
+      "opinion"
+     ],
+     "answers": [
+      "It's not as if anyone asked for his opinion."
+     ],
+     "explain": "It's not as if…; implied: his opinion was not needed."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "the",
+      "comedian",
+      "poked",
+      "fun",
+      "at",
+      "the",
+      "whole",
+      "cabinet"
+     ],
+     "answers": [
+      "The comedian poked fun at the whole cabinet."
+     ],
+     "explain": "Poke fun at = to mock lightly."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "nobody",
+      "could",
+      "tell",
+      "whether",
+      "he",
+      "was",
+      "serious",
+      "or",
+      "tongue-in-cheek"
+     ],
+     "answers": [
+      "Nobody could tell whether he was serious or tongue-in-cheek."
+     ],
+     "explain": "Tongue-in-cheek: said as a joke; irony without signalling it."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "she",
+      "laughed",
+      "off",
+      "the",
+      "criticism",
+      "as",
+      "if",
+      "it",
+      "were",
+      "nothing"
+     ],
+     "answers": [
+      "She laughed off the criticism as if it were nothing."
+     ],
+     "explain": "Laugh off + unreal \"as if\"; implied: it did matter to him."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate into English, preserving the nuance.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Mi jefe habla como si fuera el dueño de la empresa.",
+     "answers": [
+      "My boss talks as if he were the owner of the company.",
+      "My boss talks as if he were the owner of the firm.",
+      "My boss talks as if he were the owner of the business.",
+      "My boss talks as if he was the owner of the company.",
+      "My boss talks as if he was the owner of the firm.",
+      "My boss talks as if he was the owner of the business.",
+      "My boss talks as though he were the owner of the company.",
+      "My boss talks as though he were the owner of the firm.",
+      "My boss talks as though he were the owner of the business.",
+      "My boss talks as though he was the owner of the company.",
+      "My boss talks as though he was the owner of the firm.",
+      "My boss talks as though he was the owner of the business.",
+      "My boss speaks as if he were the owner of the company.",
+      "My boss speaks as if he were the owner of the firm.",
+      "My boss speaks as if he were the owner of the business.",
+      "My boss speaks as if he was the owner of the company.",
+      "My boss speaks as if he was the owner of the firm.",
+      "My boss speaks as if he was the owner of the business.",
+      "My boss speaks as though he were the owner of the company.",
+      "My boss speaks as though he were the owner of the firm.",
+      "My boss speaks as though he were the owner of the business.",
+      "My boss speaks as though he was the owner of the company.",
+      "My boss speaks as though he was the owner of the firm.",
+      "My boss speaks as though he was the owner of the business.",
+      "My boss talks as if he owned the company.",
+      "My boss talks as if he owned the firm.",
+      "My boss talks as if he owned the business.",
+      "My boss talks as though he owned the company.",
+      "My boss talks as though he owned the firm.",
+      "My boss talks as though he owned the business.",
+      "My boss speaks as if he owned the company.",
+      "My boss speaks as if he owned the firm.",
+      "My boss speaks as if he owned the business.",
+      "My boss speaks as though he owned the company.",
+      "My boss speaks as though he owned the firm.",
+      "My boss speaks as though he owned the business."
+     ],
+     "explain": "As if + unreal past; implied: he is not the owner."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "No es como si me importara lo que piensen los demás.",
+     "answers": [
+      "It's not as if I cared what other people think.",
+      "It's not as if I cared what other people thought.",
+      "It's not as if I cared what others think.",
+      "It's not as if I cared what others thought.",
+      "It's not as if I care what other people think.",
+      "It's not as if I care what other people thought.",
+      "It's not as if I care what others think.",
+      "It's not as if I care what others thought.",
+      "It is not as if I cared what other people think.",
+      "It is not as if I cared what other people thought.",
+      "It is not as if I cared what others think.",
+      "It is not as if I cared what others thought.",
+      "It is not as if I care what other people think.",
+      "It is not as if I care what other people thought.",
+      "It is not as if I care what others think.",
+      "It is not as if I care what others thought.",
+      "It's not as though I cared what other people think.",
+      "It's not as though I cared what other people thought.",
+      "It's not as though I cared what others think.",
+      "It's not as though I cared what others thought.",
+      "It's not as though I care what other people think.",
+      "It's not as though I care what other people thought.",
+      "It's not as though I care what others think.",
+      "It's not as though I care what others thought.",
+      "It is not as though I cared what other people think.",
+      "It is not as though I cared what other people thought.",
+      "It is not as though I cared what others think.",
+      "It is not as though I cared what others thought.",
+      "It is not as though I care what other people think.",
+      "It is not as though I care what other people thought.",
+      "It is not as though I care what others think.",
+      "It is not as though I care what others thought."
+     ],
+     "explain": "It's not as if…; the implication is usually that it does matter to you, or that they should not judge you."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Cuando mi jefa dijo que la reunión había sido «bastante productiva», quería decir que casi no se logró nada.",
+     "answers": [
+      "When my boss said the meeting had been 'fairly productive', she meant that almost nothing had been achieved.",
+      "When my boss said the meeting had been 'fairly productive', she meant that almost nothing had been accomplished.",
+      "When my boss said the meeting had been 'fairly productive', she meant that hardly anything had been achieved.",
+      "When my boss said the meeting had been 'fairly productive', she meant that hardly anything had been accomplished.",
+      "When my boss said the meeting had been 'fairly productive', she meant that very little had been achieved.",
+      "When my boss said the meeting had been 'fairly productive', she meant that very little had been accomplished.",
+      "When my boss said the meeting had been 'quite productive', she meant that almost nothing had been achieved.",
+      "When my boss said the meeting had been 'quite productive', she meant that almost nothing had been accomplished.",
+      "When my boss said the meeting had been 'quite productive', she meant that hardly anything had been achieved.",
+      "When my boss said the meeting had been 'quite productive', she meant that hardly anything had been accomplished.",
+      "When my boss said the meeting had been 'quite productive', she meant that very little had been achieved.",
+      "When my boss said the meeting had been 'quite productive', she meant that very little had been accomplished.",
+      "When my boss said the meeting had been 'rather productive', she meant that almost nothing had been achieved.",
+      "When my boss said the meeting had been 'rather productive', she meant that almost nothing had been accomplished.",
+      "When my boss said the meeting had been 'rather productive', she meant that hardly anything had been achieved.",
+      "When my boss said the meeting had been 'rather productive', she meant that hardly anything had been accomplished.",
+      "When my boss said the meeting had been 'rather productive', she meant that very little had been achieved.",
+      "When my boss said the meeting had been 'rather productive', she meant that very little had been accomplished.",
+      "When my boss said the meeting had been 'reasonably productive', she meant that almost nothing had been achieved.",
+      "When my boss said the meeting had been 'reasonably productive', she meant that almost nothing had been accomplished.",
+      "When my boss said the meeting had been 'reasonably productive', she meant that hardly anything had been achieved.",
+      "When my boss said the meeting had been 'reasonably productive', she meant that hardly anything had been accomplished.",
+      "When my boss said the meeting had been 'reasonably productive', she meant that very little had been achieved.",
+      "When my boss said the meeting had been 'reasonably productive', she meant that very little had been accomplished."
+     ],
+     "explain": "Quite/fairly = understatement; implied: the meeting was disappointing."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "El humor británico suele basarse en la ironía y en decir menos de lo que se piensa.",
+     "answers": [
+      "British humour tends to rely on irony and on saying less than you mean.",
+      "British humour tends to rely on irony and on saying less than one means.",
+      "British humour tends to rely on irony and on saying less than you think.",
+      "British humour often relies on irony and on saying less than you mean.",
+      "British humour often relies on irony and on saying less than one means.",
+      "British humour often relies on irony and on saying less than you think.",
+      "British humour usually relies on irony and on saying less than you mean.",
+      "British humour usually relies on irony and on saying less than one means.",
+      "British humour usually relies on irony and on saying less than you think.",
+      "British humour is often based on irony and on saying less than you mean.",
+      "British humour is often based on irony and on saying less than one means.",
+      "British humour is often based on irony and on saying less than you think.",
+      "British humor tends to rely on irony and on saying less than you mean.",
+      "British humor tends to rely on irony and on saying less than one means.",
+      "British humor tends to rely on irony and on saying less than you think.",
+      "British humor often relies on irony and on saying less than you mean.",
+      "British humor often relies on irony and on saying less than one means.",
+      "British humor often relies on irony and on saying less than you think.",
+      "British humor usually relies on irony and on saying less than you mean.",
+      "British humor usually relies on irony and on saying less than one means.",
+      "British humor usually relies on irony and on saying less than you think.",
+      "British humor is often based on irony and on saying less than you mean.",
+      "British humor is often based on irony and on saying less than one means.",
+      "British humor is often based on irony and on saying less than you think."
+     ],
+     "explain": "Understatement: saying less than one thinks."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "No entendí el chiste hasta que alguien me explicó el doble sentido.",
+     "answers": [
+      "I didn't get the joke until someone explained the double meaning.",
+      "I didn't get the joke until someone explained the wordplay.",
+      "I didn't get the joke until someone explained the pun.",
+      "I didn't get the joke until somebody explained the double meaning.",
+      "I didn't get the joke until somebody explained the wordplay.",
+      "I didn't get the joke until somebody explained the pun.",
+      "I didn't understand the joke until someone explained the double meaning.",
+      "I didn't understand the joke until someone explained the wordplay.",
+      "I didn't understand the joke until someone explained the pun.",
+      "I didn't understand the joke until somebody explained the double meaning.",
+      "I didn't understand the joke until somebody explained the wordplay.",
+      "I didn't understand the joke until somebody explained the pun.",
+      "I did not get the joke until someone explained the double meaning.",
+      "I did not get the joke until someone explained the wordplay.",
+      "I did not get the joke until someone explained the pun.",
+      "I did not get the joke until somebody explained the double meaning.",
+      "I did not get the joke until somebody explained the wordplay.",
+      "I did not get the joke until somebody explained the pun.",
+      "I did not understand the joke until someone explained the double meaning.",
+      "I did not understand the joke until someone explained the wordplay.",
+      "I did not understand the joke until someone explained the pun.",
+      "I did not understand the joke until somebody explained the double meaning.",
+      "I did not understand the joke until somebody explained the wordplay.",
+      "I did not understand the joke until somebody explained the pun."
+     ],
+     "explain": "Get the joke; the double meaning is the second reading."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Se burlaron de él durante semanas, pero él se lo tomó a risa.",
+     "answers": [
+      "They made fun of him for weeks, but he laughed it off.",
+      "They made fun of him for weeks, but he laughed it all off.",
+      "They made fun of him for weeks, but he took it as a joke.",
+      "They made fun of him for weeks, but he took it in good humour.",
+      "They made fun of him for weeks, but he took it in good humor.",
+      "They poked fun at him for weeks, but he laughed it off.",
+      "They poked fun at him for weeks, but he laughed it all off.",
+      "They poked fun at him for weeks, but he took it as a joke.",
+      "They poked fun at him for weeks, but he took it in good humour.",
+      "They poked fun at him for weeks, but he took it in good humor.",
+      "They teased him for weeks, but he laughed it off.",
+      "They teased him for weeks, but he laughed it all off.",
+      "They teased him for weeks, but he took it as a joke.",
+      "They teased him for weeks, but he took it in good humour.",
+      "They teased him for weeks, but he took it in good humor."
+     ],
+     "explain": "Make fun of / laugh it off."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed review",
+   "instructions": "Mix of the whole unit and of earlier units of the level.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "A critic says of a sold-out masterpiece: 'Not bad at all.' This is…",
+     "options": [
+      "litotes: strong praise delivered with restraint",
+      "a sincere complaint",
+      "a literal statement of mediocrity"
+     ],
+     "answer": 0,
+     "explain": "Not bad at all = litotes; implied: it is excellent."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "He acts as if he ___ never made a mistake in his life.",
+     "answers": [
+      "had"
+     ],
+     "explain": "As if + past perfect for something unreal in the past; implied: he is arrogant."
+    },
+    {
+     "id": "M3",
+     "type": "choice",
+     "prompt": "A: 'Fancy another drink?' B: 'I have to be up at five.' B implies…",
+     "options": [
+      "B declines the offer",
+      "B accepts gladly",
+      "B wants to know the time"
+     ],
+     "answer": 0,
+     "explain": "Relevance implicature: gives a reason for refusing."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "The ___ of the survey results revealed a significant discrepancy.",
+     "options": [
+      "analysis",
+      "analyze",
+      "analyzing"
+     ],
+     "answer": 0,
+     "explain": "Nominalisation: analysis (Unit 5)."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "___ I enjoy his jokes, I cannot condone their cruelty.",
+     "options": [
+      "Much as",
+      "As much",
+      "Even much"
+     ],
+     "answer": 0,
+     "explain": "Much as + clause = although very much (Unit 4)."
+    },
+    {
+     "id": "M6",
+     "type": "fix",
+     "prompt": "She looked at me as if I would be a ghost.",
+     "answers": [
+      "She looked at me as if I were a ghost.",
+      "She looked at me as if I was a ghost.",
+      "She looked at me as though I were a ghost.",
+      "She looked at me as though I was a ghost."
+     ],
+     "explain": "As if + unreal past (were/was); implied: she was very startled or surprised."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "The comedian's ___ was so unexpected that the audience took a moment to react.",
+     "answers": [
+      "punchline"
+     ],
+     "explain": "Punchline = the final line of a joke."
+    },
+    {
+     "id": "M8",
+     "type": "translate",
+     "prompt": "Esa es una forma de decirlo.",
+     "answers": [
+      "That's one way of putting it.",
+      "That's one way to put it.",
+      "That is one way of putting it.",
+      "That is one way to put it."
+     ],
+     "explain": "Implied: I would say it another way, less softly or more precisely."
+    },
+    {
+     "id": "M9",
+     "type": "choice",
+     "prompt": "'Oh, brilliant!' he said, staring at the flat tyre. He is…",
+     "options": [
+      "genuinely delighted",
+      "being sarcastic: he is annoyed",
+      "confused"
+     ],
+     "answer": 1,
+     "explain": "Irony: the praise contradicts the situation."
+    },
+    {
+     "id": "M10",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "it",
+      "was",
+      "a",
+      "bit",
+      "of",
+      "a",
+      "disaster",
+      "to",
+      "put",
+      "it",
+      "mildly"
+     ],
+     "answers": [
+      "It was a bit of a disaster, to put it mildly."
+     ],
+     "explain": "To put it mildly = explicit understatement; implied: it was a total disaster."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a reflective essay (300 to 400 words) comparing how irony and humour are used in your culture with British understatement. Include at least three example sentences with their literal and implied meanings, a brief anecdote about a misunderstanding caused by missing irony, and several constructions with as if / as though. Opening example: In Mexico, as in Britain, saying exactly what one means is not always the goal of conversation…",
+   "targets": [
+    "understatement and litotes",
+    "implied vs. literal meaning",
+    "as if / as though + unreal past",
+    "humour vocabulary (deadpan, wry, banter, tongue-in-cheek)"
+   ],
+   "checklist": [
+    "Between 300 and 400 words",
+    "Three examples with literal and implied meaning explained",
+    "At least 3 correct uses of as if / as though (unreal past)",
+    "One understatement or litotes of your own, well formed (a bit of a…, not exactly…)",
+    "At least 5 words from the unit's humour vocabulary",
+    "An anecdote with a pragmatic misunderstanding",
+    "One sentence with a phrasal expression such as laugh off, wind up or fall flat",
+    "A conclusion with a personal stance"
+   ],
+   "model": "In Mexico, as in Britain, saying exactly what one means is not always the goal of conversation. The difference lies in the direction the indirectness takes. Mexican humour tends towards exaggeration, wordplay and affectionate teasing; British humour favours understatement, the deadpan delivery and the wry aside. Both rely on the listener to read between the lines.\n\nTake three British sentences. \"That's not bad\" literally denies a fault, but usually implies \"that is excellent\". \"I was slightly disappointed\" literally reports mild regret, yet it implies \"I was furious\". \"With respect\" literally promises courtesy and implies \"I think you are wrong\". My own contribution to the genre would be \"It was not exactly my finest hour\", which literally refers to a single poor hour and implies a complete catastrophe. Such litotes is a bit of a national sport.\n\nI learned its dangers the hard way. Early in my career, a British colleague glanced at my first draft and said, \"It's quite good.\" I thanked him warmly and submitted it, behaving as though he had said \"excellent\". When the document came back covered in corrections, I stared at it as if it had been written by somebody else. In his usage, \"quite good\" meant \"acceptable, but needs work\"; I had heard praise because, in Spanish, my instinct was to hear it that way. I could have laughed it off, but I wound up rewriting the whole report over a weekend.\n\nLooking back, the episode amused me more than it stung. Irony is a kind of club, and its rules are rarely written down. A joke told tongue-in-cheek can fall flat if the audience is not in on it, and the banter that bonds one group can baffle another. It sometimes seems as if every culture speaks two languages: the one in the dictionary and the one hidden behind it. Even now, a quip delivered in perfect deadpan occasionally leaves me wondering whether I have been complimented or insulted.\n\nStill, I would not trade the experience. Understanding irony in another language is the surest sign of having truly arrived in it, and I am proud to say that I now speak both dialects, though I confess I prefer to exaggerate."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a short story with dialogue (300 to 400 words) in which one character says the opposite of what they think and another misreads it, or reads it correctly. Include the narrator's comments that reveal the implied meaning, at least one pun (you may invent it) and two or more sentences with as if / as though. Opening example: 'Well, that went rather well,' said Clara, surveying the wreckage of the dinner…",
+   "targets": [
+    "irony and sarcasm in dialogue",
+    "as if / as though + unreal past",
+    "wordplay",
+    "narration with a personal voice"
+   ],
+   "checklist": [
+    "Between 300 and 400 words",
+    "Dialogue with at least three ironic or understated lines",
+    "A narrator who explains or suggests the implied meaning",
+    "A pun or double meaning",
+    "At least 2 correct uses of as if / as though with an unreal past verb",
+    "Varied humour vocabulary (wry, deadpan, quip, banter)",
+    "Natural colloquial register with contractions",
+    "An ending that closes the misunderstanding or leaves it ironically open"
+   ],
+   "model": "\"Well, that went rather well,\" said Clara, surveying the wreckage of the dinner. The soufflé lay in a sad heap on the floor, a candle had set fire to a napkin, and the guest of honour was picking trifle out of his hair.\n\nTom, who was extinguishing the napkin in the sink, did not look round. \"Spectacular,\" he said. \"I particularly admired the way the cat made an entrance.\"\n\nClara's smile did not reach her eyes. It was the smile of a woman who had stopped joking some time ago, though anyone who did not know her might have missed it.\n\nMr Hargreaves, however, did not know her. He beamed at her as though she had paid him a compliment. \"I'm delighted you think so,\" he said. \"I must say, I've rarely been to a dinner with such... energy.\"\n\n\"Energy,\" repeated Clara, deadpan.\n\n\"Quite. And the soufflé was a triumph. Might I have the recipe?\"\n\nThere was a pause in which Tom, still facing the sink, seemed to struggle with a cough that was suspiciously like laughter. Clara looked at Mr Hargreaves as if he had asked her to lend him her car. He had, she realised, taken every word at face value, and was now gazing at her with the touching trust of a man who believed he had been given the best evening of his life.\n\n\"It's quite simple,\" she said, her voice wry. \"You take six eggs, a great deal of optimism, and you drop the lot.\"\n\n\"Ha! Marvellous.\" Mr Hargreaves slapped his knee. \"You're a wit, Clara.\"\n\n\"Well,\" quipped Tom, finally turning round, \"we've certainly given him food for thought.\"\n\nClara threw a tea towel at him. It missed, as everything had that evening, and landed in the trifle.\n\n\"Rather well, indeed,\" she murmured, and, for the first time since seven o'clock, she laughed, properly and helplessly, as if the whole catastrophe had been rehearsed for the purpose. Mr Hargreaves, delighted, laughed too, and never learned why."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Saying Less, Meaning More",
+   "intro": "Read the article and answer the questions. Pay attention to what is meant, not only to what is said.",
+   "paragraphs": [
+    "Every culture has its rules for what may be said directly and what must be left to implication, but few elevate the art of leaving things unsaid quite as devotedly as the British. A visitor who is told that a proposal is 'interesting', that a dish is 'not unpleasant', or that a colleague's behaviour is 'a little unfortunate' would be wise to pause before celebrating. In a great many cases, the words on the surface and the message beneath them point in opposite directions.",
+    "Linguists would call this implicature: the gap between what is literally said and what a speaker intends the listener to infer. The philosopher Paul Grice argued that conversation runs on an unspoken agreement that speakers will be informative, truthful, relevant and clear. When someone appears to flout one of those expectations, listeners do not conclude that communication has failed; they search for a hidden meaning that would make the remark cooperative after all. If you ask a friend how her dreadful holiday went and she replies, 'Well, the hotel did have a roof,' she has told you almost nothing about the roof and almost everything about the hotel.",
+    "Understatement is the most familiar vehicle for this kind of indirection. A pilot announcing that passengers may experience 'a little turbulence' as the plane plunges, or a mountaineer describing a night spent in a blizzard as 'a bit chilly', is lowering the volume of his words precisely so that the listener will register how loud the reality was. The effect is partly comic, partly a display of composure: to refuse to dramatise a disaster is to signal that one is equal to it. This explains why understatement flourishes in cultures that prize emotional restraint, and why it can baffle visitors from those that do not, who may take 'it could have gone better' at face value when it was meant as a verdict on a catastrophe.",
+    "Irony works in the opposite direction, saying one thing while meaning its reverse, and sarcasm is irony sharpened into a weapon. Standing in a downpour and remarking 'lovely weather' is irony; telling a colleague who has just spilled coffee over your keyboard 'thanks, that's really helpful' is sarcasm, because it carries a target and a sting. Neither is signalled by grammar. Listeners rely on cues: an exaggerated stress, a deliberately flat tone, a pause, or simply the obvious mismatch between the remark and the situation. A comedian who delivers an outrageous line without a flicker of expression, the so-called deadpan style, forces the audience to do the interpretive work, and the pleasure of the joke lies partly in having done it.",
+    "Foreign learners often find that the hardest part is not recognising irony but producing it safely. A remark that would draw an appreciative smile among close friends may land as plain rudeness with a stranger, and the same words delivered in writing, without the benefit of tone, are notoriously prone to misreading. Many office disputes have begun with an email that was meant playfully and read as hostile. A practical rule is to reserve sarcasm for people whose reactions you can predict, and to tone down your irony in writing unless the relationship is secure.",
+    "There is also a subtler danger in taking understatement too literally on the receiving end. In one piece of workplace folklore, a manager responds to a draft report with the words, 'This is quite good, though perhaps you could consider a few small changes.' The author hears praise and goes home content. What the manager meant, as colleagues familiar with the idiom would have recognised at once, was that the report needed substantial rewriting. 'Quite' in this setting dilutes rather than intensifies; 'a few small changes' is a polite fiction; and 'perhaps you could consider' is not a suggestion but an instruction wrapped in good manners.",
+    "None of this means that British speakers are being dishonest. The convention is shared, and those within it decode the signals as automatically as they read a smile. The cost of indirectness is paid mostly by outsiders, who must learn the code; the benefit is that criticism can be delivered without open confrontation, and affection without sentimentality. A friend who says, 'You're not completely hopeless,' after watching you cook may well be offering the warmest compliment she can bring herself to utter. To understand such a remark is to have crossed a threshold: you are no longer merely hearing the language but listening to the people who speak it."
+   ],
+   "glossary": [
+    {
+     "en": "flout",
+     "def": "To openly disregard or break a rule or expectation."
+    },
+    {
+     "en": "baffle",
+     "def": "To puzzle or confuse someone completely."
+    },
+    {
+     "en": "composure",
+     "def": "Calmness and self-control, especially under pressure."
+    },
+    {
+     "en": "restraint",
+     "def": "Self-control; moderation in how something is expressed or done."
+    },
+    {
+     "en": "sting",
+     "def": "A sharp, cutting quality, as in a remark that hurts or provokes."
+    },
+    {
+     "en": "flicker",
+     "def": "A brief, faint sign or trace of something, such as an emotion."
+    },
+    {
+     "en": "dilute",
+     "def": "To weaken or soften something by adding something else or reducing its force."
+    },
+    {
+     "en": "groan",
+     "def": "A low sound of complaint or annoyance; a grumble of displeasure."
+    },
+    {
+     "en": "take at face value",
+     "def": "To accept something as it appears, without questioning its hidden meaning."
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "What does 'interesting' probably imply when applied to a proposal?",
+     "options": [
+      "genuine enthusiasm",
+      "polite reservation or disapproval",
+      "a request for more details"
+     ],
+     "answer": 1,
+     "explain": "Implied: the text suggests that behind the kind word there is an opposite message, such as reservation or polite rejection."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Grice believed that listeners conclude communication has failed when a speaker breaks a conversational expectation.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "False: according to the text, listeners look for a hidden meaning that makes the sentence cooperative."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "'Well, the hotel did have a roof.' What does this imply about the holiday?",
+     "options": [
+      "The roof was impressive",
+      "The holiday was a success",
+      "The hotel had little else to recommend it"
+     ],
+     "answer": 2,
+     "explain": "Implied: the only good thing you can say is that it had a roof; the hotel was very bad."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Why does the author say understatement 'lowers the volume' of words?",
+     "options": [
+      "Because speakers whisper when they are afraid",
+      "Because it leaves the listener to infer how serious the reality was",
+      "Because British people prefer silence"
+     ],
+     "answer": 1,
+     "explain": "The listener registers how high the reality was, precisely because the words are soft."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "According to the text, how does sarcasm differ from irony?",
+     "options": [
+      "It is always written",
+      "It carries a target and a sting",
+      "It is less common"
+     ],
+     "answer": 1,
+     "explain": "Sarcasm is irony with a target and a hurtful intention."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Many office disputes have begun with an ___ that was meant playfully and read as hostile.",
+     "answers": [
+      "email",
+      "e-mail"
+     ],
+     "explain": "Without tone of voice, written irony is misread."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "What did the manager really mean by 'This is quite good, though perhaps you could consider a few small changes'?",
+     "options": [
+      "The report needed substantial rewriting",
+      "The report was nearly perfect",
+      "The author should be promoted"
+     ],
+     "answer": 0,
+     "explain": "Implied: \"quite\" dilutes it; \"a few small changes\" is a polite fiction that implies a rewrite, and \"perhaps you could consider\" is an order."
+    },
+    {
+     "id": "R8",
+     "type": "choice",
+     "prompt": "What does 'You're not completely hopeless' probably express?",
+     "options": [
+      "A harsh insult",
+      "A warm compliment delivered with restraint",
+      "A request for help"
+     ],
+     "answer": 1,
+     "explain": "Affectionate litotes: implied, you did well; affection is expressed without sentimentality."
+    }
+   ]
+  },
+  "listening": {
+   "title": "The meeting that went rather well",
+   "intro": "Listen to the conversation between three colleagues. You can repeat it.",
+   "lines": [
+    {
+     "who": "Priya",
+     "voice": "airy",
+     "text": "So, how did the meeting with Mr Whitlock go?"
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Oh, it went rather well. Apart from the part where he cancelled my project."
+    },
+    {
+     "who": "Priya",
+     "voice": "airy",
+     "text": "Ah. So 'rather well' is doing a lot of work in that sentence."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "It's holding the whole thing up, frankly. He said my proposal was 'interesting' and that he'd 'give it some thought'."
+    },
+    {
+     "who": "Marco",
+     "voice": "glassy",
+     "text": "Oh no. Dan, I've been there. 'I'll give it some thought' means no."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "I'm beginning to realise that. He also said I'd 'clearly put a lot of effort in'."
+    },
+    {
+     "who": "Marco",
+     "voice": "glassy",
+     "text": "Which is what you say about a school play when the lead has forgotten all his lines."
+    },
+    {
+     "who": "Priya",
+     "voice": "airy",
+     "text": "Don't be so unkind. Maybe he meant it kindly. He did say the slides looked 'nice'."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Priya, he said it the way you'd say it about a hospital waiting room."
+    },
+    {
+     "who": "Marco",
+     "voice": "glassy",
+     "text": "Honestly, it's not as if you didn't warn us. You told us on Monday it might be 'a bit of a struggle'."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "I did. I'd had a feeling. I just didn't expect the struggle to end in a funeral."
+    },
+    {
+     "who": "Priya",
+     "voice": "airy",
+     "text": "Right. Dramatic. Fancy a coffee? I'll buy. Consider it a condolence."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "I wouldn't say no. Make mine a double."
+    },
+    {
+     "who": "Marco",
+     "voice": "glassy",
+     "text": "Make it two. And Dan, rewrite the proposal. Mr Whitlock never says no; he just says 'interesting'."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What does Dan really mean by 'it went rather well'?",
+     "options": [
+      "It went well",
+      "It went badly; he is being ironic",
+      "It went averagely"
+     ],
+     "answer": 1,
+     "explain": "Implied: the meeting went badly; the next line confirms it: the project was canceled."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "According to Marco, what does 'I'll give it some thought' usually mean?",
+     "options": [
+      "No",
+      "Yes, later",
+      "Maybe next year"
+     ],
+     "answer": 0,
+     "explain": "Marco says it outright; it is a polite way to decline."
+    },
+    {
+     "id": "L3",
+     "type": "gap",
+     "prompt": "Marco says that 'you put a lot of effort in' is what you say about a school play when the lead has forgotten all his ___.",
+     "answers": [
+      "lines"
+     ],
+     "explain": "Implied: it is a consolation compliment when the result was bad."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "Why does Dan say Mr Whitlock said 'nice' the way you'd say it about a hospital waiting room?",
+     "options": [
+      "It was said warmly",
+      "It was said with no real enthusiasm, as faint praise",
+      "It was said very loudly"
+     ],
+     "answer": 1,
+     "explain": "Implied: \"nice\" is an empty compliment, without enthusiasm, for something that does not deserve it."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "When Priya says, 'Consider it a condolence,' she is…",
+     "options": [
+      "seriously offering sympathy",
+      "joking that the project's death deserves condolences",
+      "refusing to pay"
+     ],
+     "answer": 1,
+     "explain": "Light humor: follows Dan's metaphor (funeral) to console him with a joke."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "What is Marco's final advice?",
+     "options": [
+      "Rewrite the proposal, because 'interesting' means rejection",
+      "Resign immediately",
+      "Wait for Mr Whitlock's decision"
+     ],
+     "answer": 0,
+     "explain": "Implied: Whitlock never says no outright; \"interesting\" is their way of refusing."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Well, it went rather well, apart from the part where he cancelled my project.",
+     "answers": [
+      "Well, it went rather well, apart from the part where he cancelled my project."
+     ],
+     "explain": "Ironic understatement: rather well = it went badly."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Saying you'll give it some thought usually means no.",
+     "answers": [
+      "Saying you'll give it some thought usually means no."
+     ],
+     "explain": "Polite formula that implies refusal."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "It's not as if you didn't warn us.",
+     "answers": [
+      "It's not as if you didn't warn us."
+     ],
+     "explain": "It's not as if…; implied: you did tell us."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "He spoke as though he were reading a funeral notice.",
+     "answers": [
+      "He spoke as though he were reading a funeral notice."
+     ],
+     "explain": "As though + were; implied: their tone was solemn and bleak."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Explain to a Spanish-speaking friend what these phrases really mean in a British context.",
+     "questions": [
+      "What might someone mean by 'That's an interesting idea'?",
+      "What does 'It could have gone better' usually imply?",
+      "And what about 'Not bad at all'?"
+     ],
+     "model": "When a British colleague says 'That's an interesting idea', they often have reservations: it's a polite way of not committing. 'It could have gone better' is classic understatement, and it usually means the thing was a disaster. 'Not bad at all', on the other hand, is genuine praise: the speaker is using litotes to express a strong, but restrained, approval.",
+     "checklist": [
+      "Explain the implied meaning of each phrase",
+      "Use understatement and litotes as terms",
+      "Contrast the literal and the implied meaning",
+      "Use formulas such as \"often / usually / it's a polite way of\""
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Tell a funny anecdote (real or invented) in which someone failed to understand another person's irony or humour.",
+     "questions": [
+      "What happened, and who was involved?",
+      "How did the other person actually mean it?",
+      "How did it end?"
+     ],
+     "model": "A colleague of mine once told a visiting manager, 'Well, that was a bit of an adventure,' after our train broke down for four hours. The manager looked at him as if he had enjoyed the whole thing and started asking where he'd found the adventure! My colleague had to explain, with a wry smile, that he meant it was a nightmare. We all laughed it off, but it taught me how easily understatement can be misunderstood.",
+     "checklist": [
+      "Anecdote with a beginning, middle and ending",
+      "At least one well-used as if / as though",
+      "One understatement with its implied meaning",
+      "Expressions such as laugh it off or fall flat"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Debate: are humour and irony universal, or do they depend on culture? Is sarcasm appropriate at work?",
+     "questions": [
+      "Is humour universal, or does it depend on culture?",
+      "Do you think sarcasm has a place at work?",
+      "Have you ever missed a joke in another language?"
+     ],
+     "model": "I'd say humour is only partly universal. Slapstick travels well, but irony and wordplay depend on shared knowledge, so they rarely survive translation. As for sarcasm at work, I'd tread carefully: it can lighten the mood among people who know each other well, but with a stranger it may land as plain rudeness. In my own experience, I've sometimes laughed along at a joke in English without really getting it, as if I had understood perfectly.",
+     "checklist": [
+      "A clear position with nuance",
+      "Contrast between universal and cultural humour",
+      "A warning about sarcasm, with examples",
+      "Humour vocabulary and as if / as though"
+     ]
+    }
+   ],
+   "repeat": [
+    "Well, that could have gone better.",
+    "I'm not sure that's the compliment you think it is.",
+    "He talks as if he owned the place.",
+    "It's not as if anyone asked for his opinion.",
+    "I didn't get the joke until someone explained the pun.",
+    "She laughed it off, but I could tell it had bothered her."
+   ]
+  }
+ }
+}

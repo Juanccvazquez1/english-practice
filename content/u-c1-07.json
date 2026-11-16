@@ -1,0 +1,1716 @@
+{
+ "id": "u-c1-07",
+ "level": "C1",
+ "n": 7,
+ "title": "Mind and memory",
+ "goals": [
+  "Compress ideas with participle clauses (Having finished…, Not knowing…, Built in 1900…) and choose the form that fits the meaning.",
+  "Avoid dangling participles: use the same subject or a fixed connector (Generally speaking, Judging by…).",
+  "Use reduced relative clauses with participles (people waiting…, data collected…) and to + infinitive (the first to arrive).",
+  "Talk about psychology and memory with precise vocabulary (recall, vivid, trigger, cognitive, retain).",
+  "Master memory collocations and idioms (on the tip of my tongue, ring a bell, draw a blank).",
+  "Write dense, well-connected texts in a formal register."
+ ],
+ "learn": [
+  {
+   "id": "g-pc-forms",
+   "kind": "grammar",
+   "title": "Participle clauses: forms and connectors",
+   "html": "<p>A <strong>participle clause</strong> replaces a subordinate clause (of time, cause, condition…) and compresses it: <em>As she was walking home, she…</em> → <em>Walking home, she…</em>. It is a typical feature of <strong>written and formal English</strong>: it gives density and avoids repeating the subject and the conjunction. In Spanish it resembles the gerund and the past participle, but English is much more systematic.</p><table><thead><tr><th>Form</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td><strong>V-ing</strong> (active)</td><td>Simultaneous or immediately preceding action; cause</td><td><em>Opening the drawer, she found the letter.</em></td></tr><tr><td><strong>Having + V-ed</strong> (perfect active)</td><td>Action completed BEFORE the main clause; cause</td><td><em>Having read the report, she called her lawyer.</em></td></tr><tr><td><strong>V-ed / past participle</strong> (passive)</td><td>Passive meaning, without <em>being</em></td><td><em>Built in 1900, the house needs repairs.</em></td></tr><tr><td><strong>Being + V-ed</strong> / <strong>Having been + V-ed</strong></td><td>Explicit passive (ongoing / earlier)</td><td><em>Having been warned twice, he ignored us.</em></td></tr><tr><td><strong>Not + participle</strong></td><td>Negative: <em>not</em> goes in front</td><td><em>Not knowing the way, we asked for help.</em></td></tr></tbody></table><p><strong>With a conjunction:</strong> the conjunction is often kept to clarify the relationship: <em>after / before / while / since / on / upon / once / when</em> + V-ing (<em>After leaving school, he…; Upon arriving, please…</em>) and <em>although / if / unless / when / once</em> + V-ed (<em>Although tired, she…; Unless treated, the infection spreads</em>).</p><p><strong>V-ing or Having V-ed:</strong> if the actions are almost simultaneous or follow each other immediately, V-ing is enough (<em>Turning the key, he opened the door</em>). If there is a clear gap between them or the first is a previous state, use <em>Having</em> (<em>Having lived abroad for ten years, she…</em>). State verbs (<em>know, be, have</em>) usually prefer <em>Being</em> or <em>Having been/known</em>, depending on the meaning.</p>",
+   "watch": [
+    {
+     "wrong": "Having finish the exam, we left.",
+     "right": "Having finished the exam, we left.",
+     "why": "Having + past participle (finished), not the base form."
+    },
+    {
+     "wrong": "Not having knew the answer, she guessed.",
+     "right": "Not knowing the answer, she guessed.",
+     "why": "Not goes in front and the verb takes the participle (knowing / having known)."
+    },
+    {
+     "wrong": "Be tired after the flight, he slept at once.",
+     "right": "Being tired after the flight, he slept at once.",
+     "why": "Being is needed (or it is omitted): the bare base verb does not work as a clause."
+    },
+    {
+     "wrong": "Knowing her for years, I could tell she was lying.",
+     "right": "Having known her for years, I could tell she was lying.",
+     "why": "A state that had been going on before requires Having known."
+    }
+   ]
+  },
+  {
+   "id": "g-pc-meaning",
+   "kind": "grammar",
+   "title": "What the clause means: time, cause, condition, contrast",
+   "html": "<p>The participle clause <strong>does not say by itself</strong> whether it expresses time, cause or condition: the reader infers it from context. That ambiguity is what must be handled with care.</p><table><thead><tr><th>Relationship</th><th>Example</th><th>Equivalent to</th></tr></thead><tbody><tr><td>Sequence / time</td><td><em>Having checked the figures, she signed.</em></td><td>After she had checked…</td></tr><tr><td>Cause</td><td><em>Not wanting to wake anyone, he left quietly.</em></td><td>Because he didn't want…</td></tr><tr><td>Condition</td><td><em>Used properly, the technique improves recall.</em></td><td>If it is used properly…</td></tr><tr><td>Contrast (with conjunction)</td><td><em>Although exhausted, she kept studying.</em></td><td>Although she was exhausted…</td></tr><tr><td>Result / consequence</td><td><em>The storm hit at dawn, causing power cuts across the region.</em></td><td>…and it caused…</td></tr><tr><td>Simultaneous description</td><td><em>She sat by the window, staring at the rain.</em></td><td>…and she stared…</td></tr></tbody></table><p><strong>Position:</strong> at the start (time or cause frame; takes a comma), at the end (result or accompaniment), or inserted between commas (<em>The proposal, having been rejected twice, was shelved</em>). In spoken register a full clause is much more natural (<em>Because I didn't know the way, I asked</em>); in an essay, a report or a literary narrative the participle sounds more polished.</p><p><strong>Nuance:</strong> a final <em>-ing</em> after a comma = result or accompaniment (<em>…causing delays</em>); without it, the reading changes. <em>Born in Leeds, she…</em> (= as she was born in Leeds; <em>being</em> is omitted): notice we use <em>born</em>, not <em>being born</em>, although both are possible.</p>",
+   "watch": [
+    {
+     "wrong": "Being born in Lima, she speaks with a Peruvian accent.",
+     "right": "Born in Lima, she speaks with a Peruvian accent.",
+     "why": "With a place or date of birth, born is preferred, without being."
+    },
+    {
+     "wrong": "Having arrived late, the meeting had already started.",
+     "right": "Having arrived late, we found that the meeting had already started.",
+     "why": "The subject of the participle clause must be the subject of the main clause."
+    },
+    {
+     "wrong": "Using the new software, the problem was solved.",
+     "right": "Using the new software, we solved the problem.",
+     "why": "Whoever uses the software is a person; the passive breaks the subject relationship."
+    },
+    {
+     "wrong": "Using properly, the tool is safe.",
+     "right": "Used properly, the tool is safe.",
+     "why": "Passive meaning: the tool IS used, which is why it takes the past participle."
+    }
+   ]
+  },
+  {
+   "id": "g-dangling",
+   "kind": "grammar",
+   "title": "Same subject and dangling participles",
+   "html": "<p>Golden rule: the <strong>implied subject</strong> of the participle clause is the subject of the main clause. If they do not match, we have a <em>dangling participle</em>: <em>Walking down the street, a bicycle almost hit me</em> suggests that the bicycle was walking. It is a very common error, even among native speakers, but it is penalised in formal writing.</p><table><thead><tr><th>Incorrect</th><th>Correction</th></tr></thead><tbody><tr><td><em>Reading the article, the argument seemed weak.</em></td><td><em>Reading the article, I found the argument weak.</em></td></tr><tr><td><em>Surprised by the results, the experiment was repeated.</em></td><td><em>Surprised by the results, the team repeated the experiment.</em></td></tr><tr><td><em>Having been warned, the storm didn't scare us.</em></td><td><em>Having been warned, we weren't scared by the storm.</em></td></tr></tbody></table><p><strong>Accepted exceptions:</strong> fixed expressions that work as connectors and do not require the same subject: <em>Generally speaking, Strictly speaking, Judging by…, Considering…, Given that…, Taking everything into account, Speaking of which, Weather permitting, All things considered</em>.</p><p><strong>Own subject (absolute clause):</strong> if you want a different subject, make it explicit: <em>The deadline being so close, we skipped the meeting; Her phone ringing, she left the room; Weather permitting, the match will go ahead.</em> It is a very formal and literary register; with <em>with</em> it sounds more modern: <em>With the deadline so close, we skipped the meeting.</em></p><p><strong>Revision strategy:</strong> after the comma, ask yourself «who is doing the action of the clause?» and check that it is the word the main clause begins with.</p>",
+   "watch": [
+    {
+     "wrong": "Walking down the street, a bicycle almost hit me.",
+     "right": "Walking down the street, I was almost hit by a bicycle.",
+     "why": "The subject of walking must be 'I', not 'a bicycle'."
+    },
+    {
+     "wrong": "Having finished the exam, the teacher collected the papers.",
+     "right": "Having finished the exam, the students handed in their papers.",
+     "why": "Same subject for both actions: whoever finished the exam are the students."
+    },
+    {
+     "wrong": "Being the nice day, we went to the park.",
+     "right": "The day being nice, we went to the park.",
+     "why": "With its own subject, it is made explicit (absolute clause); also: It being a nice day."
+    },
+    {
+     "wrong": "Having a lot of work, the weekend was spent in the office.",
+     "right": "Having a lot of work, I spent the weekend in the office.",
+     "why": "The person who has the work is a person, not the weekend."
+    }
+   ]
+  },
+  {
+   "id": "g-reduced-rel",
+   "kind": "grammar",
+   "title": "Reduced relative clauses with participles",
+   "html": "<p>Relative clauses with <em>who / which / that</em> + verb can be reduced to a <strong>participle</strong> when the relative pronoun is the <strong>subject</strong> of the clause. It is the same condensing device as participle clauses, but in <strong>post-noun position</strong>.</p><table><thead><tr><th>Full relative clause</th><th>Reduced</th><th>Rule</th></tr></thead><tbody><tr><td>The people <strong>who are waiting</strong> outside…</td><td>The people <strong>waiting</strong> outside…</td><td>Active: V-ing</td></tr><tr><td>The data <strong>that was collected</strong> last year…</td><td>The data <strong>collected</strong> last year…</td><td>Passive: V-ed</td></tr><tr><td>Anyone <strong>who wants</strong> to apply…</td><td>Anyone <strong>wanting</strong> to apply…</td><td>Present / habitual: V-ing</td></tr><tr><td>The first student <strong>who arrived</strong>…</td><td>The first student <strong>to arrive</strong>…</td><td>After first/last/only/superlative: to + infinitive</td></tr><tr><td>Memories <strong>which have been triggered</strong> by smell…</td><td>Memories <strong>triggered</strong> by smell…</td><td>The auxiliary <em>have been</em> is omitted</td></tr></tbody></table><p><strong>Limits:</strong> you cannot reduce a relative clause whose relative pronoun is the <em>object</em> and keeps its own subject (<em>the book that I borrowed</em>: there is no participle reduction that keeps «I»). Nor can you do so with static verbs when meaning is lost (<em>the man who owns the shop</em> → <em>the man owning the shop</em> is possible but unnatural; prefer <em>the shop's owner</em>). A reduced clause with <em>-ing</em> expresses a habitual or ongoing action; it does not serve for completed one-off actions (<em>the man who arrived yesterday</em>, not <em>the man arriving yesterday</em>).</p><p><strong>In non-defining clauses:</strong> they are used between commas and sound formal: <em>My brother, working in Madrid, rarely visits.</em> They are most easily recognised in headlines and academic summaries: <em>Participants given the drug performed better.</em></p>",
+   "watch": [
+    {
+     "wrong": "The researchers interviewing on the radio yesterday were nervous.",
+     "right": "The researchers interviewed on the radio yesterday were nervous.",
+     "why": "Passive meaning → past participle (interviewed), not -ing."
+    },
+    {
+     "wrong": "The man sat opposite me was reading.",
+     "right": "The man sitting opposite me was reading.",
+     "why": "Position / state in progress: sitting (V-ing)."
+    },
+    {
+     "wrong": "The people lived next door are friendly.",
+     "right": "The people living next door are friendly.",
+     "why": "Habitual active verb: V-ing (not V-ed)."
+    },
+    {
+     "wrong": "The first person arriving gets a prize.",
+     "right": "The first person to arrive gets a prize.",
+     "why": "After first/last/only use to + infinitive."
+    }
+   ]
+  },
+  {
+   "id": "v-memory",
+   "kind": "vocab",
+   "title": "Memory and the mind",
+   "words": [
+    {
+     "id": "w-recall",
+     "en": "recall (v/n)",
+     "es": "recordar, evocar; capacidad de recordar",
+     "example": "I can't recall where I left my glasses.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-retain",
+     "en": "retain",
+     "es": "retener, conservar en la memoria",
+     "example": "Students retain more when they test themselves.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-retrieve",
+     "en": "retrieve",
+     "es": "recuperar (información) de la memoria",
+     "example": "Under pressure, it was hard to retrieve the formula.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-vivid",
+     "en": "vivid",
+     "es": "vívido, muy nítido",
+     "example": "She has a vivid memory of her grandmother's kitchen."
+    },
+    {
+     "id": "w-trigger",
+     "en": "trigger (v/n)",
+     "es": "desencadenar; detonante",
+     "example": "The smell of rain triggered a flood of memories.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-cognitive",
+     "en": "cognitive",
+     "es": "cognitivo",
+     "example": "Cognitive decline can begin earlier than we think.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-fade",
+     "en": "fade",
+     "es": "desvanecerse",
+     "example": "With time, the pain faded but the details did too.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-haunt",
+     "en": "haunt",
+     "es": "atormentar, perseguir (un recuerdo)",
+     "example": "The mistake haunted him for years.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-flashback",
+     "en": "flashback",
+     "es": "escena retrospectiva; recuerdo súbito e intenso",
+     "example": "A sudden sound gave him a flashback to the accident."
+    },
+    {
+     "id": "w-nostalgia",
+     "en": "nostalgia",
+     "es": "nostalgia",
+     "example": "A wave of nostalgia swept over her at the old school gates."
+    },
+    {
+     "id": "w-absent-minded",
+     "en": "absent-minded",
+     "es": "distraído, despistado",
+     "example": "He's so absent-minded that he once put the milk in the cupboard."
+    },
+    {
+     "id": "w-blur",
+     "en": "blur (v/n)",
+     "es": "volverse borroso; difuminar",
+     "example": "The details of that summer have blurred into one long afternoon."
+    },
+    {
+     "id": "w-rehearse",
+     "en": "rehearse",
+     "es": "ensayar, repetir mentalmente",
+     "example": "Rehearse the key points aloud before the exam."
+    },
+    {
+     "id": "w-mnemonic",
+     "en": "mnemonic",
+     "es": "regla mnemotécnica",
+     "example": "I use a mnemonic to remember the order of the planets."
+    }
+   ]
+  },
+  {
+   "id": "v-mind-collocations",
+   "kind": "vocab",
+   "title": "Collocations and idioms about memory",
+   "words": [
+    {
+     "id": "w-tip-of-the-tongue",
+     "en": "on the tip of my tongue",
+     "es": "en la punta de la lengua",
+     "example": "His name is on the tip of my tongue.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-slip-mind",
+     "en": "slip one's mind",
+     "es": "olvidarse de algo sin querer",
+     "example": "Sorry, your birthday completely slipped my mind.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-ring-a-bell",
+     "en": "ring a bell",
+     "es": "sonarle a alguien, resultar familiar",
+     "example": "Her name rings a bell, but I can't place her.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-draw-a-blank",
+     "en": "draw a blank",
+     "es": "quedarse en blanco",
+     "example": "I tried to remember the code but drew a blank.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-jog-memory",
+     "en": "jog someone's memory",
+     "es": "refrescar la memoria a alguien",
+     "example": "This photo might jog your memory.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-by-heart",
+     "en": "learn / know by heart",
+     "es": "aprender / saber de memoria",
+     "example": "Actors must learn their lines by heart.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-commit-memory",
+     "en": "commit sth to memory",
+     "es": "memorizar algo",
+     "example": "Commit the safety instructions to memory.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-photographic-memory",
+     "en": "have a photographic memory",
+     "es": "tener memoria fotográfica",
+     "example": "Few people really have a photographic memory.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-memory-lane",
+     "en": "a trip down memory lane",
+     "es": "un viaje por los recuerdos",
+     "example": "Looking at old photos was a trip down memory lane.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-in-living-memory",
+     "en": "within / in living memory",
+     "es": "en la memoria de los vivos, de memoria reciente",
+     "example": "It was the worst flood in living memory.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-bad-memory",
+     "en": "have a bad / poor / short memory",
+     "es": "tener mala memoria",
+     "example": "I have a terrible memory for faces.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-fresh-in-mind",
+     "en": "fresh in one's mind",
+     "es": "fresco en la memoria",
+     "example": "Write it down while it's still fresh in your mind.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-etched",
+     "en": "be etched in one's memory",
+     "es": "quedar grabado en la memoria",
+     "example": "The scene is etched in my memory forever.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-bear-in-mind",
+     "en": "bear / keep in mind",
+     "es": "tener presente",
+     "example": "Bear in mind that the deadline has moved.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "v-cognition",
+   "kind": "vocab",
+   "title": "Research and cognition",
+   "words": [
+    {
+     "id": "w-attention-span",
+     "en": "attention span",
+     "es": "capacidad de atención",
+     "example": "Short videos may shorten our attention span.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-working-memory",
+     "en": "working memory",
+     "es": "memoria de trabajo",
+     "example": "Working memory holds only a few items at once.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-long-term",
+     "en": "long-term memory",
+     "es": "memoria a largo plazo",
+     "example": "Repetition moves facts into long-term memory.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-encode",
+     "en": "encode",
+     "es": "codificar (información en la memoria)",
+     "example": "Information that isn't encoded can't be retrieved."
+    },
+    {
+     "id": "w-consolidate",
+     "en": "consolidate",
+     "es": "consolidar",
+     "example": "Sleep helps the brain consolidate what we've learnt.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-cognitive-load",
+     "en": "cognitive load",
+     "es": "carga cognitiva",
+     "example": "Too many instructions increase the cognitive load.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-false-memory",
+     "en": "false memory",
+     "es": "falso recuerdo",
+     "example": "The experiment implanted a false memory in some participants.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-impair",
+     "en": "impair",
+     "es": "deteriorar, afectar negativamente",
+     "example": "Lack of sleep impairs concentration."
+    },
+    {
+     "id": "w-distraction",
+     "en": "distraction",
+     "es": "distracción",
+     "example": "Notifications are a constant distraction."
+    },
+    {
+     "id": "w-perception",
+     "en": "perception",
+     "es": "percepción",
+     "example": "Mood can alter our perception of the past.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-bias",
+     "en": "bias",
+     "es": "sesgo",
+     "example": "Hindsight bias makes outcomes seem predictable.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-spaced-practice",
+     "en": "spaced practice",
+     "es": "práctica espaciada",
+     "example": "Spaced practice beats cramming.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-retrieval-practice",
+     "en": "retrieval practice",
+     "es": "práctica de recuperación (autoevaluarse)",
+     "example": "Retrieval practice strengthens recall.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-anecdotal",
+     "en": "anecdotal",
+     "es": "anecdótico, no sistemático",
+     "example": "The evidence is anecdotal, not experimental."
+    }
+   ]
+  },
+  {
+   "id": "e-dense-writing",
+   "kind": "expressions",
+   "title": "Connecting ideas and writing densely",
+   "html": "<ul><li><strong>Having said that, … / That said, …</strong> — introduce a counterpoint without breaking the formal tone.</li><li><strong>Given that … / Considering that …</strong> — justify an idea with a premise.</li><li><strong>Generally / Broadly / Strictly speaking, …</strong> — qualify the scope of the statement (they do not require the same subject).</li><li><strong>Judging by … / Taking everything into account, …</strong> — support a conclusion with evidence.</li><li><strong>Put simply, … / In other words, …</strong> — restate clearly.</li><li><strong>Seen in this light, … / Viewed from this angle, …</strong> — introduce an interpretation.</li><li><strong>Whereas / While</strong> + full clause — contrast two facts; <strong>, thereby + V-ing</strong> — mark a result: <em>She automated the process, thereby saving hours.</em></li><li><strong>Not only … but also …</strong> and <strong>V-ing, which</strong> — add weighty information: <em>The study is small, which limits its conclusions.</em></li></ul><p><strong>Tip:</strong> in a dense paragraph, alternate long sentences with participles and short concluding sentences. Avoid chaining more than two participle clauses in a row.</p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Form of the participle",
+   "instructions": "Write the appropriate participle form of the verb in brackets.",
+   "topic": "g-pc-forms",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "___ (finish) the report, Laura sent it to her manager before leaving.",
+     "answers": [
+      "Having finished"
+     ],
+     "explain": "The finishing happens BEFORE: Having + past participle."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "___ (walk) along the beach, we found an old bottle.",
+     "answers": [
+      "Walking"
+     ],
+     "explain": "Simultaneous action: V-ing."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "___ (not / know) the way, he asked a passer-by.",
+     "answers": [
+      "Not knowing"
+     ],
+     "explain": "Negative: Not before the participle."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "___ (warn) twice about the storm, the hikers turned back. (pasiva perfecta)",
+     "answers": [
+      "Having been warned"
+     ],
+     "explain": "Earlier passive: Having been + past participle."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "___ (build) in 1890, the library still attracts visitors.",
+     "answers": [
+      "Built"
+     ],
+     "explain": "Passive meaning: participle without being."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "___ (be) the youngest in the class, she often felt left out.",
+     "answers": [
+      "Being"
+     ],
+     "explain": "Causal clause with a state: Being."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "After ___ (read) the contract carefully, I signed it.",
+     "answers": [
+      "reading",
+      "having read"
+     ],
+     "explain": "After after: V-ing or having + past participle."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "Having",
+      "her",
+      "keys",
+      "lost",
+      "Sara",
+      "couldn't",
+      "get",
+      "in"
+     ],
+     "answers": [
+      "Having lost her keys, Sara couldn't get in.",
+      "Having lost her keys, Sara could not get in."
+     ],
+     "explain": "Having + past participle, then the main clause with the same subject."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Choose the form or the meaning",
+   "instructions": "Choose the correct option.",
+   "topic": "g-pc-meaning",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "___ the job offer, Daniel had to decide quickly.",
+     "options": [
+      "Having received",
+      "Receiving to",
+      "Having been receive"
+     ],
+     "answer": 0,
+     "explain": "First he received the offer, then he decided: Having received."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "___ by the noise, the baby started to cry.",
+     "options": [
+      "Waking",
+      "Woken",
+      "To wake"
+     ],
+     "answer": 1,
+     "explain": "Passive: woken (the baby is woken up)."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "In which sentence did the first action clearly happen before the second?",
+     "options": [
+      "Opening the door, he turned the key.",
+      "Having turned the key, he opened the door.",
+      "Turning the key, he opened the door."
+     ],
+     "answer": 1,
+     "explain": "Having + past participle marks an earlier action."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "___ wanting to disturb them, I left quietly.",
+     "options": [
+      "Not",
+      "Having not",
+      "Don't"
+     ],
+     "answer": 0,
+     "explain": "In the negative, Not goes before the participle."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "___ her for years, I could tell she was lying.",
+     "options": [
+      "Knowing",
+      "Having known",
+      "Known"
+     ],
+     "answer": 1,
+     "explain": "A long-lasting earlier state: Having known."
+    },
+    {
+     "id": "B6",
+     "type": "choice",
+     "prompt": "___ properly, the technique can improve recall.",
+     "options": [
+      "Using",
+      "Used",
+      "Having used"
+     ],
+     "answer": 1,
+     "explain": "Passive-conditional meaning: Used (= if it is used)."
+    },
+    {
+     "id": "B7",
+     "type": "choice",
+     "prompt": "On ___ the results, the team realised the experiment had failed.",
+     "options": [
+      "seeing",
+      "to see",
+      "having seen"
+     ],
+     "answer": 0,
+     "explain": "On + V-ing = upon + gerund (e.g. «on seeing» ≈ «upon seeing»)."
+    },
+    {
+     "id": "B8",
+     "type": "choice",
+     "prompt": "Which one is INCORRECT?",
+     "options": [
+      "Having finished the exam, he relaxed.",
+      "Finished the exam, he relaxed.",
+      "Finishing the exam, he relaxed."
+     ],
+     "answer": 1,
+     "explain": "A simple past participle ('Finished') has a passive meaning; here Having finished is needed."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Reduced relative clauses",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-reduced-rel",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "The people ___ (wait) outside are from the press.",
+     "answers": [
+      "waiting"
+     ],
+     "explain": "Reduced active relative: V-ing."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "The data ___ (collect) last year was incomplete.",
+     "answers": [
+      "collected"
+     ],
+     "explain": "Reduced passive relative: V-ed."
+    },
+    {
+     "id": "C3",
+     "type": "choice",
+     "prompt": "Anyone ___ to join the study should email us.",
+     "options": [
+      "wanted",
+      "wanting",
+      "who wanting"
+     ],
+     "answer": 1,
+     "explain": "Anyone wanting to join = anyone who wants to join."
+    },
+    {
+     "id": "C4",
+     "type": "fix",
+     "prompt": "The researchers interviewing on the radio yesterday were nervous.",
+     "answers": [
+      "The researchers interviewed on the radio yesterday were nervous."
+     ],
+     "explain": "The researchers WERE interviewed: past participle."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "The first person ___ (arrive) will get a prize.",
+     "answers": [
+      "to arrive"
+     ],
+     "explain": "After first/last/only: to + infinitive."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "Which sentence CANNOT be reduced with a participle while keeping the subject 'I'?",
+     "options": [
+      "The students who were chosen for the trial",
+      "The book that I borrowed from you",
+      "The people who live next door"
+     ],
+     "answer": 1,
+     "explain": "The relative is the object and the clause keeps its own subject (I)."
+    },
+    {
+     "id": "C7",
+     "type": "gap",
+     "prompt": "Students ___ (suffer) from stress often struggle to retain information.",
+     "answers": [
+      "suffering"
+     ],
+     "explain": "Habitual active relative: V-ing."
+    },
+    {
+     "id": "C8",
+     "type": "translate",
+     "prompt": "Los pacientes tratados con este método mejoraron.",
+     "answers": [
+      "Patients treated with this method improved.",
+      "The patients treated with this method improved.",
+      "Patients treated with this method got better.",
+      "The patients treated with this method got better."
+     ],
+     "explain": "Past participle for passive meaning: treated."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Find the error (participles)",
+   "instructions": "Each sentence has an error. Write the corrected sentence.",
+   "topic": "g-dangling",
+   "items": [
+    {
+     "id": "D1",
+     "type": "fix",
+     "prompt": "Walking down the street, a bicycle almost hit me.",
+     "answers": [
+      "Walking down the street, I was almost hit by a bicycle.",
+      "Walking down the street, I was nearly hit by a bicycle.",
+      "Walking down the street, I almost got hit by a bicycle.",
+      "Walking down the street, I nearly got hit by a bicycle."
+     ],
+     "explain": "Dangling participle: the subject of walking must be 'I'."
+    },
+    {
+     "id": "D2",
+     "type": "fix",
+     "prompt": "Having finish the exam, we went out to celebrate.",
+     "answers": [
+      "Having finished the exam, we went out to celebrate."
+     ],
+     "explain": "Having + past participle."
+    },
+    {
+     "id": "D3",
+     "type": "fix",
+     "prompt": "Not having knew the answer, she guessed.",
+     "answers": [
+      "Not knowing the answer, she guessed.",
+      "Not having known the answer, she guessed."
+     ],
+     "explain": "Participle of know: knowing / having known."
+    },
+    {
+     "id": "D4",
+     "type": "fix",
+     "prompt": "Be exhausted after the flight, Marco went straight to bed.",
+     "answers": [
+      "Being exhausted after the flight, Marco went straight to bed.",
+      "Exhausted after the flight, Marco went straight to bed."
+     ],
+     "explain": "Being is needed (or being is omitted)."
+    },
+    {
+     "id": "D5",
+     "type": "fix",
+     "prompt": "After arrived at the hotel, we called our parents.",
+     "answers": [
+      "After arriving at the hotel, we called our parents.",
+      "After having arrived at the hotel, we called our parents."
+     ],
+     "explain": "After + V-ing."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "The man sat opposite me was reading a memoir.",
+     "answers": [
+      "The man sitting opposite me was reading a memoir."
+     ],
+     "explain": "Active reduced relative: sitting."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "Surprising by the results, the team repeated the experiment.",
+     "answers": [
+      "Surprised by the results, the team repeated the experiment."
+     ],
+     "explain": "Passive meaning: surprised."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Memory vocabulary",
+   "instructions": "Complete with a suitable word.",
+   "topic": "v-memory",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "I can't ___ where I parked the car.",
+     "answers": [
+      "recall",
+      "remember"
+     ],
+     "explain": "Recall = to remember."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "She has a ___ memory of her first day at school: the smell of chalk, the yellow walls.",
+     "answers": [
+      "vivid"
+     ],
+     "explain": "Vivid = very clear and sharp."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "The smell of baking bread was a ___ for childhood memories.",
+     "options": [
+      "trigger",
+      "barrier",
+      "cure"
+     ],
+     "answer": 0,
+     "explain": "Trigger = something that sets off a reaction or a memory."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "Sleep is crucial for the brain to ___ new information.",
+     "answers": [
+      "retain",
+      "consolidate",
+      "process",
+      "store"
+     ],
+     "explain": "Retain / consolidate: to fix information in memory."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "A ___ study measures attention, memory and problem-solving.",
+     "options": [
+      "cognitive",
+      "chronic",
+      "cosmetic"
+     ],
+     "answer": 0,
+     "explain": "Cognitive = relating to mental processes such as thinking and memory."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "Over time, even the most intense emotions ___.",
+     "answers": [
+      "fade",
+      "fade away"
+     ],
+     "explain": "Fade = to gradually become weaker or less clear."
+    },
+    {
+     "id": "E7",
+     "type": "choice",
+     "prompt": "Which word means 'to bring back something stored in memory'?",
+     "options": [
+      "retrieve",
+      "reject",
+      "rehearse"
+     ],
+     "answer": 0,
+     "explain": "Retrieve = to recover information from memory."
+    },
+    {
+     "id": "E8",
+     "type": "gap",
+     "prompt": "A wave of ___ made her scroll through old photos for hours.",
+     "answers": [
+      "nostalgia"
+     ],
+     "explain": "Nostalgia = a sentimental longing for the past."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Memory collocations and idioms",
+   "instructions": "Complete, choose or correct.",
+   "topic": "v-mind-collocations",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "His name is on the tip of my ___, but I can't say it.",
+     "options": [
+      "tongue",
+      "mind",
+      "lip"
+     ],
+     "answer": 0,
+     "explain": "On the tip of my tongue."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "Sorry, it completely slipped my ___.",
+     "answers": [
+      "mind"
+     ],
+     "explain": "Slip one's mind = to forget something without meaning to."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "Does that name ring a ___?",
+     "options": [
+      "bell",
+      "note",
+      "tone"
+     ],
+     "answer": 0,
+     "explain": "Ring a bell = to sound familiar."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "I tried to remember the password but drew a ___.",
+     "answers": [
+      "blank"
+     ],
+     "explain": "Draw a blank = to be unable to remember anything."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "Could you ___ my memory? Where did we meet?",
+     "options": [
+      "jog",
+      "push",
+      "shake"
+     ],
+     "answer": 0,
+     "explain": "Jog someone's memory = to help someone remember something."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "Actors must learn their lines by ___.",
+     "answers": [
+      "heart"
+     ],
+     "explain": "Learn by heart = to memorise word for word."
+    },
+    {
+     "id": "F7",
+     "type": "translate",
+     "prompt": "Ahora que lo mencionas, me suena.",
+     "answers": [
+      "Now that you mention it, it rings a bell.",
+      "Now you mention it, it rings a bell.",
+      "Now that you mention it, that rings a bell."
+     ],
+     "explain": "Ring a bell = to sound familiar to someone."
+    },
+    {
+     "id": "F8",
+     "type": "fix",
+     "prompt": "I have bad memory for names.",
+     "answers": [
+      "I have a bad memory for names.",
+      "I have a poor memory for names.",
+      "I have a terrible memory for names."
+     ],
+     "explain": "Here memory is countable with an adjective: a bad memory."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "Having",
+      "read",
+      "the",
+      "report",
+      "she",
+      "called",
+      "her",
+      "lawyer"
+     ],
+     "answers": [
+      "Having read the report, she called her lawyer."
+     ],
+     "explain": "Perfect participle + main clause."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "Born",
+      "in",
+      "1952",
+      "the",
+      "author",
+      "still",
+      "writes",
+      "every",
+      "day"
+     ],
+     "answers": [
+      "Born in 1952, the author still writes every day."
+     ],
+     "explain": "Born in + year: past participle as a clause."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "The",
+      "participants",
+      "given",
+      "the",
+      "drug",
+      "performed",
+      "better"
+     ],
+     "answers": [
+      "The participants given the drug performed better."
+     ],
+     "explain": "Reduced passive relative: given the drug."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "Not",
+      "remembering",
+      "his",
+      "name",
+      "I",
+      "just",
+      "smiled"
+     ],
+     "answers": [
+      "Not remembering his name, I just smiled."
+     ],
+     "explain": "Not + V-ing at the start."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "Judging",
+      "by",
+      "his",
+      "face",
+      "he",
+      "hadn't",
+      "slept"
+     ],
+     "answers": [
+      "Judging by his face, he hadn't slept.",
+      "Judging by his face, he had not slept."
+     ],
+     "explain": "Judging by is a fixed connector."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "Memories",
+      "triggered",
+      "by",
+      "smell",
+      "are",
+      "often",
+      "vivid"
+     ],
+     "answers": [
+      "Memories triggered by smell are often vivid."
+     ],
+     "explain": "Triggered by smell reduces 'that are triggered by smell'."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Habiendo olvidado sus llaves, Marta tuvo que esperar afuera.",
+     "answers": [
+      "Having forgotten her keys, Marta had to wait outside.",
+      "Having forgotten her keys, Marta had to wait outside the house."
+     ],
+     "explain": "Having + forgotten; the subject of both actions is Marta."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Los recuerdos provocados por un olor suelen ser muy vívidos.",
+     "answers": [
+      "Memories triggered by a smell are usually very vivid.",
+      "Memories triggered by a smell are often very vivid.",
+      "Memories triggered by smell are usually very vivid.",
+      "Memories triggered by smell are often very vivid.",
+      "Memories triggered by a smell tend to be very vivid.",
+      "Memories triggered by smell tend to be very vivid."
+     ],
+     "explain": "Reduced relative with triggered."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Sin saber qué decir, Pedro se quedó callado.",
+     "answers": [
+      "Not knowing what to say, Pedro stayed silent.",
+      "Not knowing what to say, Pedro remained silent.",
+      "Not knowing what to say, Pedro kept quiet.",
+      "Not knowing what to say, Pedro stayed quiet.",
+      "Not knowing what to say, Pedro said nothing."
+     ],
+     "explain": "Not knowing = without knowing."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Los estudiantes que presentan el examen mañana deben llegar temprano.",
+     "answers": [
+      "Students taking the exam tomorrow must arrive early.",
+      "The students taking the exam tomorrow must arrive early.",
+      "Students taking the exam tomorrow should arrive early.",
+      "The students taking the exam tomorrow should arrive early.",
+      "Students sitting the exam tomorrow must arrive early.",
+      "The students sitting the exam tomorrow must arrive early."
+     ],
+     "explain": "Reduced relative: students taking."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "No me acuerdo de su nombre; lo tengo en la punta de la lengua.",
+     "answers": [
+      "I can't remember his name; it's on the tip of my tongue.",
+      "I can't remember her name; it's on the tip of my tongue.",
+      "I can't remember their name; it's on the tip of my tongue."
+     ],
+     "explain": "On the tip of my tongue."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Escrito en 1920, el libro sigue siendo un clásico.",
+     "answers": [
+      "Written in 1920, the book is still a classic.",
+      "Written in 1920, the book remains a classic.",
+      "Written in 1920, the book is still considered a classic."
+     ],
+     "explain": "Past participle as an opening clause."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes review of units 5 and 6).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "___ the evidence, the committee reached a decision.",
+     "options": [
+      "Having reviewed",
+      "Having been reviewed",
+      "Reviewed to"
+     ],
+     "answer": 0,
+     "explain": "The committee (subject) reviewed the evidence: Having reviewed."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "The woman ___ (sit) behind me kept coughing.",
+     "answers": [
+      "sitting"
+     ],
+     "explain": "Active reduced relative: sitting."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "Having been seen the film twice, he didn't want to go again.",
+     "answers": [
+      "Having seen the film twice, he didn't want to go again.",
+      "Having seen the film twice, he did not want to go again."
+     ],
+     "explain": "Active voice: Having seen (he saw the film)."
+    },
+    {
+     "id": "M4",
+     "type": "gap",
+     "prompt": "Her face rings a ___, but I can't place her.",
+     "answers": [
+      "bell"
+     ],
+     "explain": "Ring a bell."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "A ___ memory is one you can picture in great detail.",
+     "options": [
+      "vivid",
+      "vague",
+      "brief"
+     ],
+     "answer": 0,
+     "explain": "Vivid = clear and sharp."
+    },
+    {
+     "id": "M6",
+     "type": "fix",
+     "prompt": "Opened the box, she found a letter.",
+     "answers": [
+      "Opening the box, she found a letter.",
+      "Having opened the box, she found a letter."
+     ],
+     "explain": "Active meaning: Opening / Having opened."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "Which one contains a dangling participle?",
+     "options": [
+      "Driving to work, I noticed an accident.",
+      "Driving to work, the traffic was terrible.",
+      "Driving to work, I got stuck in traffic."
+     ],
+     "answer": 1,
+     "explain": "'The traffic' does not drive: the subject is wrong."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "___ (not / remember) the password, I had to reset it.",
+     "answers": [
+      "Not remembering"
+     ],
+     "explain": "Not + V-ing."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "___ I known the fees were so high, I'd never have opened the account. (Review Unit 6)",
+     "answers": [
+      "Had"
+     ],
+     "explain": "Inverted conditional: Had I known = If I had known."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "___ was my sister who first noticed the problem. (Review Unit 5)",
+     "answers": [
+      "It"
+     ],
+     "explain": "Cleft sentence: It was … who …"
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write an essay of 250 to 350 words titled «Why we remember what we remember»: explain why memory is not a faithful archive, give one concrete example (personal or from a study) and propose two tips for remembering better. Use at least five varied participle clauses and two reduced relative clauses.",
+   "targets": [
+    "participle clauses",
+    "reduced relative clauses",
+    "memory vocabulary",
+    "formal connectors"
+   ],
+   "checklist": [
+    "Between 250 and 350 words, with introduction, development and conclusion",
+    "At least 5 participle clauses (V-ing, Having V-ed, V-ed, Not V-ing)",
+    "Same subject in the participle clause and the main clause (no dangling participles)",
+    "2 reduced relative clauses (people waiting…, data collected…)",
+    "Vocabulary: recall, retain, vivid, trigger, cognitive, fade",
+    "Varied linkers (Having said that, Given that, Whereas…)",
+    "Mix of long and short sentences; formal register"
+   ],
+   "model": "Why we remember what we remember\n\nWe tend to think of memory as an archive, a place where experiences are stored intact and retrieved whenever we need them. Cognitive psychology suggests otherwise. Having studied recall for decades, researchers now agree that memory is not a faithful record but a reconstruction, rebuilt each time we call something to mind.\n\nA famous experiment illustrates the point. Shown a film of a car accident, participants were later asked how fast the cars were going when they \"smashed\" into each other. Those given the verb \"smashed\" estimated higher speeds, and many even recalled seeing broken glass that was never there. Whereas the original event was identical for everyone, the wording of a single question altered what people remembered. Given that we reconstruct the past in the present, it is hardly surprising that our recollections are shaped by what we know, feel and expect today.\n\nMy own experience confirms this. Having heard my family tell the story of my fifth birthday so often, I can now recall it in vivid detail, yet my parents insist that I was not even there, because I was ill in bed. Not realising it, I had absorbed their account and turned it into a memory of my own.\n\nWhy, then, do some memories survive while others fade? Events accompanied by strong emotion are retained better, as are those repeated at intervals. Having said that, repetition can also distort, as the birthday story shows. People trying to remember more effectively might therefore follow two simple tips. First, test yourself rather than simply rereading notes, since effort strengthens retrieval. Second, link new information to a trigger, such as a place or a smell, so that your brain can find the path back to it later.\n\nMemory, in short, is less a library than a storyteller. Accepting this need not make us distrust ourselves; knowing how it works, we can learn to use it more wisely."
+  },
+  {
+   "id": "W2",
+   "prompt": "In 250 to 350 words, write a narrative or blog post about a very vivid memory (a smell, a song, a place) that takes you back to the past. Describe the scene, what triggers it and how it has changed over time. Use participles to link the actions and collocations such as ring a bell, fade, be etched in my memory.",
+   "targets": [
+    "descriptive and narrative participles",
+    "memory collocations",
+    "coherence and cohesion"
+   ],
+   "checklist": [
+    "Between 250 and 350 words",
+    "At least 4 participle clauses (time, cause, description)",
+    "At least 3 memory collocations or idioms",
+    "Vivid sensory description",
+    "Well-connected paragraphs (sequence, contrast)",
+    "No dangling participles",
+    "Reflective ending"
+   ],
+   "model": "Every autumn, the smell of woodsmoke stops me in my tracks. Walking down a street in the city last week, I caught it on the wind, and in an instant I was eight years old again, standing in my grandfather's garden.\n\nThe scene is etched in my memory. Wearing a coat two sizes too big, I am watching him burn dry leaves in an old metal barrel. Smoke curls upward, tinged with orange by the setting sun, and the whole garden smells of apples and damp earth. Sitting on an upturned crate, my grandfather hums a tune I could never name, and I remember the warmth of the fire on my cheeks. Having finished his work, he hands me a roasted chestnut, too hot to hold, and laughs as I juggle it between my palms.\n\nWhat triggers the memory is not only the smell, but a particular quality of light, thin and golden, that I only see in late October. Whenever it appears, the tune starts to ring a bell, although I still cannot say where I heard it. Perhaps it was never a real song, just one he made up.\n\nOver the years the memory has changed. Some details have started to fade: I can no longer picture the colour of the gate, and I am not sure whether the crate was blue or green. Others, strangely, have grown sharper. Having retold the story to my children, I have probably added things that never happened, such as the chestnut, which my mother insists was a biscuit.\n\nYet I do not mind. Memories like this one do not need to be accurate to be valuable. Gone for twenty years, my grandfather still visits me every autumn, carried on a thread of smoke. And perhaps that is what remembering really is: not an exact copy of the past, but a way of keeping those we love close, even as the details slip away."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The Unreliable Archive",
+   "intro": "Read the article about how memory really works and answer the questions.",
+   "paragraphs": [
+    "Most of us instinctively treat memory as an archive: experiences, once stored, are filed away and can be pulled out whenever we need them. Decades of research, however, point in a rather different direction. Far from being a faithful recording, memory is a reconstruction, rebuilt each time we recall an event and therefore open to quiet, almost imperceptible revision.",
+    "One of the best-known demonstrations dates from the 1970s. Shown footage of a minor car accident, volunteers were asked how fast the vehicles had been travelling when they either \"hit\" or \"smashed into\" each other. Those given the more dramatic verb gave higher estimates and, a week later, many of them \"remembered\" broken glass that had never appeared on screen. Having been nudged by a single word, their memories had rewritten themselves without anyone noticing.",
+    "Emotion complicates the picture further. People who lived through a landmark event, such as a national tragedy, often describe their recollections as vivid, almost photographic. Yet studies tracking the same individuals over several years show that the details drift considerably, while confidence in them remains stubbornly high. Intense feelings seem to strengthen the sense of certainty rather than the accuracy of what is retained. The brain, having flagged the moment as important, stamps it with a feeling of authenticity that is surprisingly easy to mistake for proof.",
+    "None of this means that memory is useless. Quite the opposite: a system designed to extract the gist of experience, rather than to preserve every detail, serves us remarkably well most of the time. Researchers working in this field tend to stress that forgetting is not a malfunction but a feature, allowing the mind to discard clutter and focus on patterns. The difficulty arises when we confuse the two roles and rely on recollection in situations demanding precision, such as eyewitness testimony.",
+    "What, then, can be done? The most robust finding in the literature is also the least glamorous. Information retrieved repeatedly is retained far better than information simply reread, which is why a student testing herself on yesterday's notes will outperform one who highlights the same pages for an hour. Spacing matters too: sessions spread over several days beat a single marathon, provided each one demands real effort. Sleep, often sacrificed first when deadlines loom, plays a decisive role in consolidating what has been learnt. Cut short, it leaves fragile traces that fade within days.",
+    "There is also a humbler lesson. Knowing that recollections are reconstructed should make us more charitable when two people remember the same argument differently. Neither is necessarily lying; both may be sincerely describing a version assembled from fragments, shaped by mood, hindsight and the stories told since. Seen this way, a disagreement about the past stops being a contest about who is right and becomes an invitation to compare reconstructions, which is, after all, what any good historian does.",
+    "Memoirists have understood this for centuries. Writing about her childhood, one novelist admitted that the scenes she described felt \"more true than the facts\", having been polished by decades of retelling. Perhaps the wisest attitude is a flexible one: to treat our most cherished memories with affection, and our certainty about them with a measure of scepticism."
+   ],
+   "glossary": [
+    {
+     "en": "faithful",
+     "def": "accurate and true to the original."
+    },
+    {
+     "en": "imperceptible",
+     "def": "so slight that it is hard to notice."
+    },
+    {
+     "en": "drift",
+     "def": "to change gradually and move away from the original."
+    },
+    {
+     "en": "stubbornly",
+     "def": "in a persistent way that refuses to change."
+    },
+    {
+     "en": "gist",
+     "def": "the central meaning or main idea."
+    },
+    {
+     "en": "clutter",
+     "def": "things that are unnecessary and take up space or attention."
+    },
+    {
+     "en": "eyewitness",
+     "def": "a person who saw an event happen."
+    },
+    {
+     "en": "hindsight",
+     "def": "understanding of something only after it has happened."
+    },
+    {
+     "en": "scepticism",
+     "def": "a questioning attitude; doubt about claims until they are proven."
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "The 1970s study showed that the wording of a question can influence what people later remember.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "The volunteers who heard 'smashed into' remembered broken glass that did not exist."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "According to the text, what happens to vivid memories of landmark events over several years?",
+     "options": [
+      "Both details and confidence fade",
+      "Details change but confidence stays high",
+      "They become more accurate"
+     ],
+     "answer": 1,
+     "explain": "The details change, but confidence stays high."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "The author presents forgetting as...",
+     "options": [
+      "a feature of a well-designed system",
+      "a sign of poor health",
+      "a problem caused by stress"
+     ],
+     "answer": 0,
+     "explain": "'Forgetting is not a malfunction but a feature'."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Rereading notes is the most effective way to retain information.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "The text says that retrieval practice works better than rereading."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Sessions that are ___ over several days work better than one marathon.",
+     "answers": [
+      "spread",
+      "spaced"
+     ],
+     "explain": "'Sessions spread over several days beat a single marathon'."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "What does the author suggest about two people who remember an argument differently?",
+     "options": [
+      "One of them must be lying",
+      "Both may be sincere",
+      "A historian should decide"
+     ],
+     "answer": 1,
+     "explain": "'Neither is necessarily lying; both may be sincerely describing a version…'"
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "What is the author's attitude to memory in the final paragraph?",
+     "options": [
+      "Cynical",
+      "Balanced and appreciative",
+      "Alarmed"
+     ],
+     "answer": 1,
+     "explain": "Appreciates the memories but suggests some skepticism."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Why can't I remember names?",
+   "intro": "Listen to an extract from a radio programme. You can play it again.",
+   "lines": [
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Welcome back to Brain Matters. Today we're tackling a question that has probably embarrassed every one of us at a party: why can't I remember that person's name?"
+    },
+    {
+     "who": "Dr. Mensah",
+     "voice": "glassy",
+     "text": "Thanks for having me. Honestly, it's one of the most common complaints I hear, and in most cases there's nothing wrong with your memory at all."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "That's a relief. So what's going on?"
+    },
+    {
+     "who": "Dr. Mensah",
+     "voice": "glassy",
+     "text": "Well, names are arbitrary. A face comes with a rich web of associations, whereas a name is just a label, so there's very little for the brain to hook it onto. Having heard a name once, most people never rehearse it."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Right, we're busy thinking about what to say next instead of listening."
+    },
+    {
+     "who": "Dr. Mensah",
+     "voice": "glassy",
+     "text": "Exactly. The information never gets properly encoded, so you can't retrieve what was never stored."
+    },
+    {
+     "who": "Priya",
+     "voice": "airy",
+     "text": "Hi, can I jump in? My problem's the opposite. I remember everything, including things I'd rather forget, like an embarrassing speech I gave ten years ago."
+    },
+    {
+     "who": "Dr. Mensah",
+     "voice": "glassy",
+     "text": "Ha, that's very common too. Emotionally charged events tend to be vivid, and the memory gets replayed every time something triggers it. Replaying it, you actually strengthen the trace."
+    },
+    {
+     "who": "Priya",
+     "voice": "airy",
+     "text": "So the more I cringe, the more I remember?"
+    },
+    {
+     "who": "Dr. Mensah",
+     "voice": "glassy",
+     "text": "More or less. A trick that helps is to describe the event in a different tone. Tell it as a funny story. Told with a bit of distance, the memory loses its sting."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "And for the rest of us, any quick tips for names?"
+    },
+    {
+     "who": "Dr. Mensah",
+     "voice": "glassy",
+     "text": "Repeat the name immediately, use it in the conversation, and link it to something: a rhyme, an image, whatever sticks. Don't just say 'nice to meet you'. Say 'nice to meet you, Daniel'."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "And if it's on the tip of my tongue? Should I keep struggling?"
+    },
+    {
+     "who": "Dr. Mensah",
+     "voice": "glassy",
+     "text": "Better to move on. Distracted by something else, your brain often keeps searching in the background, and the word pops up when you stop trying."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Brilliant. Dr. Mensah, thank you."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "According to Dr. Mensah, why do people often forget names?",
+     "options": [
+      "The information is rarely encoded properly",
+      "Names are longer than other words",
+      "Memory declines at parties"
+     ],
+     "answer": 0,
+     "explain": "It is never encoded well, so it cannot be retrieved."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What is Priya's problem?",
+     "options": [
+      "She forgets everything",
+      "She can't stop remembering embarrassing things",
+      "She mixes up names"
+     ],
+     "answer": 1,
+     "explain": "Remembers things they would prefer to forget."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Dr. Mensah says that replaying a memory weakens it.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Says that repeating it strengthens the trace."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "Dr. Mensah suggests telling the embarrassing event as a ___ story.",
+     "answers": [
+      "funny"
+     ],
+     "explain": "'Tell it as a funny story'."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What should you do when a word is on the tip of your tongue?",
+     "options": [
+      "Keep trying hard",
+      "Move on and let the brain keep searching",
+      "Ask somebody else"
+     ],
+     "answer": 1,
+     "explain": "Distracted, the mind keeps searching in the background."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Having heard a name once, most people never rehearse it.",
+     "answers": [
+      "Having heard a name once, most people never rehearse it."
+     ],
+     "explain": "Participio perfecto inicial."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "You can't retrieve what was never stored.",
+     "answers": [
+      "You can't retrieve what was never stored.",
+      "You cannot retrieve what was never stored."
+     ],
+     "explain": "Relativa con what y pasiva."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Told with a bit of distance, the memory loses its sting.",
+     "answers": [
+      "Told with a bit of distance, the memory loses its sting."
+     ],
+     "explain": "Participio pasado inicial con valor condicional."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Distracted by something else, your brain often keeps searching in the background.",
+     "answers": [
+      "Distracted by something else, your brain often keeps searching in the background."
+     ],
+     "explain": "Participio pasado inicial con valor causal."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Tell about a very vivid memory from your childhood and what triggers it.",
+     "questions": [
+      "What is one of your most vivid childhood memories?",
+      "What usually triggers it: a smell, a song, a place?",
+      "How has the memory changed over the years?",
+      "Do you trust it completely? Why, or why not?"
+     ],
+     "model": "One memory that is etched in my mind is my grandmother's kitchen on Sunday mornings. Walking past a bakery, I sometimes catch the smell of sweet bread, and I'm suddenly eight years old again. Having heard the story so many times, I'm no longer sure which details are real and which I've added. Still, the feeling is vivid.",
+     "checklist": [
+      "Use at least two participle clauses",
+      "Vocabulary: vivid, trigger, etched",
+      "Qualify how reliable the memory is (I'm no longer sure…)",
+      "Natural rhythm, without long pauses"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Discuss: How reliable is an eyewitness's memory in a trial?",
+     "questions": [
+      "Should a trial rely on eyewitness memory?",
+      "What factors can distort a memory?",
+      "How could the legal system reduce the risk?",
+      "Have you ever remembered something differently from someone else?"
+     ],
+     "model": "Generally speaking, eyewitness testimony is persuasive, yet research shows that memories can be reshaped by leading questions. Given that confidence doesn't guarantee accuracy, I think courts should treat it as one piece of evidence among several. Questions asked in a neutral way would help, as would recording statements immediately.",
+     "checklist": [
+      "Qualifying linker (Generally speaking, Given that…)",
+      "Participles or reduced relative clauses",
+      "Clear position with caution",
+      "Example or reason"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Advise a student on how to retain what they study better.",
+     "questions": [
+      "What study habits do you recommend?",
+      "Why is rereading less effective than self-testing?",
+      "How important is sleep?",
+      "What would you avoid?"
+     ],
+     "model": "My advice is to test yourself rather than reread. Information retrieved from memory is retained far better. Spread your sessions over several days, and don't sacrifice sleep: having slept well, your brain consolidates what you've learnt. Avoid cramming, which only gives the illusion of knowing.",
+     "checklist": [
+      "Advice with imperatives and reasons",
+      "Reduced relative or participle",
+      "Vocabulary: retain, retrieve, consolidate",
+      "Contrast (rather than, only)"
+     ]
+    }
+   ],
+   "repeat": [
+    "Having heard the news, she called her sister.",
+    "Memories triggered by smell are often vivid.",
+    "Not knowing what to say, he stayed silent.",
+    "It's on the tip of my tongue.",
+    "Built in 1900, the house still stands.",
+    "Judging by her face, she hadn't slept."
+   ]
+  }
+ }
+}

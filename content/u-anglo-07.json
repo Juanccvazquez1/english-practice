@@ -1,0 +1,1586 @@
+{
+ "id": "u-anglo-07",
+ "level": "B1",
+ "n": 7,
+ "title": "Safety",
+ "goals": [
+  "Call emergency services and give clear information: what happened, where you are and who needs help.",
+  "Use can, could and be able to to talk about ability and possibility in the present, past and future.",
+  "Describe what was happening at a moment in the past with the Past Continuous.",
+  "Tell a story with when and while, mixing the Past Continuous and the Simple Past.",
+  "Understand safety advice at home and at work, and name common hazards and safety equipment.",
+  "Read and write an accident report: who, what, where, when and what you were doing."
+ ],
+ "learn": [
+  {
+   "id": "g-ability",
+   "kind": "grammar",
+   "title": "can, could and be able to",
+   "html": "<p>We use <strong>can</strong>, <strong>could</strong> and <strong>be able to</strong> to talk about ability and possibility. <em>Can</em> and <em>could</em> are modal verbs: they have no -s and no -ing, and the next verb is in the base form. <em>Be able to</em> works in all tenses.</p><table><thead><tr><th>Time</th><th>Form</th><th>Example</th></tr></thead><tbody><tr><td>Present</td><td>can / can't / am (is, are) able to</td><td>I <strong>can</strong> call an ambulance. She <strong>isn't able to</strong> walk.</td></tr><tr><td>Past (general ability)</td><td>could / couldn't / was (were) able to</td><td>He <strong>could</strong> swim when he was six.</td></tr><tr><td>Past (one specific success)</td><td>was / were able to</td><td>The firefighters <strong>were able to</strong> save the baby.</td></tr><tr><td>Past (negative, one event)</td><td>couldn't / wasn't able to</td><td>We <strong>couldn't</strong> open the door.</td></tr><tr><td>Future</td><td>will be able to</td><td>You <strong>will be able to</strong> walk next week.</td></tr></tbody></table><ul><li>For one specific success in the past, use <em>was / were able to</em>, not <em>could</em>: <em>I was able to find the exit.</em></li><li>In the negative, <em>couldn't</em> is fine for both: <em>I couldn't find the exit.</em></li><li><em>Can</em> and <em>could</em> are also used for polite requests: <em>Can you help me? Could you call 911?</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "She can to drive an ambulance.",
+     "right": "She can drive an ambulance.",
+     "why": "After can, use the base verb without to."
+    },
+    {
+     "wrong": "I will can help you tomorrow.",
+     "right": "I will be able to help you tomorrow.",
+     "why": "Can has no future form. Use will be able to."
+    },
+    {
+     "wrong": "The firefighter could save the child (one time, yesterday).",
+     "right": "The firefighter was able to save the child.",
+     "why": "For one specific success in the past, use was / were able to."
+    },
+    {
+     "wrong": "He doesn't can find the first aid kit.",
+     "right": "He can't find the first aid kit.",
+     "why": "Can makes its own negative: can't. Do not use doesn't with can."
+    }
+   ]
+  },
+  {
+   "id": "g-past-cont",
+   "kind": "grammar",
+   "title": "Past Continuous",
+   "html": "<p>We use the <strong>Past Continuous</strong> to talk about an action that was in progress at a moment in the past. We form it with <strong>was / were + verb-ing</strong>.</p><table><thead><tr><th>Form</th><th>Example</th></tr></thead><tbody><tr><td>Positive</td><td>I <strong>was cooking</strong> at six o'clock. They <strong>were working</strong>.</td></tr><tr><td>Negative</td><td>She <strong>wasn't wearing</strong> a helmet. We <strong>weren't looking</strong>.</td></tr><tr><td>Yes/no question</td><td><strong>Were</strong> you <strong>driving</strong>? — Yes, I <strong>was</strong>. / No, I <strong>wasn't</strong>.</td></tr><tr><td>Wh- question</td><td>What <strong>were</strong> you <strong>doing</strong> at ten?</td></tr></tbody></table><ul><li>It describes the <em>background</em> or the situation: <em>It was raining and the road was wet.</em></li><li>State verbs (know, like, want, have for possession) usually do not take the continuous form.</li></ul>",
+   "watch": [
+    {
+     "wrong": "We was waiting for the ambulance.",
+     "right": "We were waiting for the ambulance.",
+     "why": "With we, you and they, use were."
+    },
+    {
+     "wrong": "What you were doing at nine?",
+     "right": "What were you doing at nine?",
+     "why": "In questions, was / were goes before the subject."
+    },
+    {
+     "wrong": "I was cook dinner when the lights went out.",
+     "right": "I was cooking dinner when the lights went out.",
+     "why": "After was / were, the verb needs -ing."
+    },
+    {
+     "wrong": "She was knowing the emergency number.",
+     "right": "She knew the emergency number.",
+     "why": "Know is a state verb. It is not used in the continuous."
+    }
+   ]
+  },
+  {
+   "id": "g-when-while",
+   "kind": "grammar",
+   "title": "Past Continuous vs Simple Past: when and while",
+   "html": "<p>We often use both tenses in one sentence. The <strong>Past Continuous</strong> is the longer action in progress. The <strong>Simple Past</strong> is the shorter action that interrupts it.</p><table><thead><tr><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td><strong>while</strong> + Past Continuous</td><td>I fell <strong>while</strong> I <strong>was walking</strong> down the stairs.</td></tr><tr><td><strong>when</strong> + Simple Past</td><td>I was walking down the stairs <strong>when</strong> I <strong>fell</strong>.</td></tr><tr><td>Two actions at the same time</td><td>I <strong>was cooking while</strong> my father <strong>was watching</strong> TV.</td></tr><tr><td>Two actions in order</td><td>When the alarm <strong>rang</strong>, everyone <strong>left</strong> the building.</td></tr></tbody></table><ul><li>When the sentence begins with <em>when</em> or <em>while</em>, we use a comma: <em>While I was cooking, the phone rang.</em></li><li><em>While</em> is usually followed by the Past Continuous. <em>When</em> can be followed by either tense.</li><li>One short, finished action is in the Simple Past: <em>I saw the accident.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "I burned my hand while I cooked.",
+     "right": "I burned my hand while I was cooking.",
+     "why": "The longer action in progress uses the Past Continuous."
+    },
+    {
+     "wrong": "While I was waiting for the bus, I was seeing an accident.",
+     "right": "While I was waiting for the bus, I saw an accident.",
+     "why": "A short, finished action uses the Simple Past."
+    },
+    {
+     "wrong": "While they crossed the street, a car was hitting them.",
+     "right": "While they were crossing the street, a car hit them.",
+     "why": "The long action is continuous. The interruption is Simple Past."
+    },
+    {
+     "wrong": "I was breaking my arm when I was a child.",
+     "right": "I broke my arm when I was a child.",
+     "why": "A single finished event uses the Simple Past."
+    }
+   ]
+  },
+  {
+   "id": "v-emergency",
+   "kind": "vocab",
+   "title": "Emergencies and first aid",
+   "words": [
+    {
+     "id": "w-emergency",
+     "en": "emergency",
+     "es": "emergencia",
+     "example": "Call 911 only in an emergency.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-ambulance",
+     "en": "ambulance",
+     "es": "ambulancia",
+     "example": "The ambulance arrived in five minutes.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-paramedic",
+     "en": "paramedic",
+     "es": "paramédico",
+     "example": "The paramedic checked his heart and his breathing."
+    },
+    {
+     "id": "w-firefighter",
+     "en": "firefighter",
+     "es": "bombero/a",
+     "example": "The firefighters put out the fire in an hour.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-fire-extinguisher",
+     "en": "fire extinguisher",
+     "es": "extintor",
+     "example": "There is a fire extinguisher next to the kitchen door.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-smoke-alarm",
+     "en": "smoke alarm",
+     "es": "detector de humo",
+     "example": "The smoke alarm woke us up at night.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-first-aid-kit",
+     "en": "first aid kit",
+     "es": "botiquín de primeros auxilios",
+     "example": "Keep a first aid kit in your car.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-bandage",
+     "en": "bandage",
+     "es": "venda, vendaje",
+     "example": "She put a bandage on his hand."
+    },
+    {
+     "id": "w-burn",
+     "en": "burn",
+     "es": "quemadura; quemar(se)",
+     "example": "He has a burn on his arm from the hot oil.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-injury",
+     "en": "injury",
+     "es": "lesión, herida",
+     "example": "The worker had a serious head injury.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-bleed",
+     "en": "bleed",
+     "es": "sangrar",
+     "example": "The cut was deep, and it started to bleed.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-faint",
+     "en": "faint",
+     "es": "desmayarse",
+     "example": "Some people faint when they see blood."
+    },
+    {
+     "id": "w-choke",
+     "en": "choke",
+     "es": "atragantarse, ahogarse (con comida)",
+     "example": "The baby began to choke on a small toy."
+    },
+    {
+     "id": "w-sprain",
+     "en": "sprain",
+     "es": "torcedura; torcerse (un tobillo)",
+     "example": "I sprained my ankle when I slipped on the stairs."
+    }
+   ]
+  },
+  {
+   "id": "v-report",
+   "kind": "vocab",
+   "title": "Life skills: safety and the accident report",
+   "words": [
+    {
+     "id": "w-witness",
+     "en": "witness",
+     "es": "testigo",
+     "example": "A witness saw the car hit the bicycle.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-hazard",
+     "en": "hazard",
+     "es": "peligro, riesgo",
+     "example": "A wet floor is a hazard for everyone.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-slippery",
+     "en": "slippery",
+     "es": "resbaloso",
+     "example": "The floor was slippery after the rain."
+    },
+    {
+     "id": "w-wet-floor-sign",
+     "en": "wet floor sign",
+     "es": "letrero de piso mojado",
+     "example": "Please put a wet floor sign near the spill.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-safety-goggles",
+     "en": "safety goggles",
+     "es": "lentes de seguridad",
+     "example": "You must wear safety goggles in the workshop.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-hard-hat",
+     "en": "hard hat",
+     "es": "casco de seguridad",
+     "example": "Everyone on the construction site wears a hard hat.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-gloves",
+     "en": "gloves",
+     "es": "guantes",
+     "example": "Use gloves when you clean with strong chemicals.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-supervisor",
+     "en": "supervisor",
+     "es": "supervisor/a",
+     "example": "Tell your supervisor about any accident.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-incident",
+     "en": "incident",
+     "es": "incidente, suceso",
+     "example": "The company wrote a report about the incident.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-cause",
+     "en": "cause",
+     "es": "causa; causar",
+     "example": "The cause of the accident was a broken machine.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-location",
+     "en": "location",
+     "es": "lugar, ubicación",
+     "example": "Write the exact location of the accident.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-medical-attention",
+     "en": "medical attention",
+     "es": "atención médica",
+     "example": "He needed medical attention right away.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-signature",
+     "en": "signature",
+     "es": "firma",
+     "example": "Please write your signature at the bottom of the form.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-report-verb",
+     "en": "report an accident",
+     "es": "reportar un accidente",
+     "example": "You should report an accident to your supervisor immediately.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "e-emergency",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>911, what's your emergency?</strong> — what the operator says first.</li><li><strong>I need an ambulance. There's been an accident.</strong> — saying what you need.</li><li><strong>My father fell and he can't move his leg.</strong> — explaining what happened.</li><li><strong>It's at 24 Hidalgo Street, near the bakery.</strong> — giving the address and a landmark.</li><li><strong>Is he awake? Is he breathing?</strong> — questions the operator asks.</li><li><strong>Please stay on the line. Help is on the way.</strong> — what the operator says to calm you.</li><li><strong>Don't move him. Stay calm.</strong> — basic advice until help arrives.</li><li><strong>Watch out! Be careful! Look out!</strong> — warning someone about danger.</li><li><strong>Is everyone OK? Does anything hurt?</strong> — checking on people after an accident.</li><li><strong>I'd like to report an accident.</strong> — talking to a supervisor at work.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "can, could and be able to (1)",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-ability",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "When I was five, I ___ swim, but now I swim very well.",
+     "answers": [
+      "couldn't",
+      "could not",
+      "wasn't able to",
+      "was not able to"
+     ],
+     "explain": "General ability in the past, negative: couldn't or wasn't able to."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Yesterday the firefighters ___ able to save the whole house.",
+     "answers": [
+      "were"
+     ],
+     "explain": "One specific success in the past: were able to."
+    },
+    {
+     "id": "A3",
+     "type": "choice",
+     "prompt": "The fire started at night, but all the children ___ get out safely.",
+     "options": [
+      "could",
+      "were able to",
+      "can"
+     ],
+     "answer": 1,
+     "explain": "For one specific success in the past, use were able to."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "After the course, you ___ be able to give first aid.",
+     "answers": [
+      "will",
+      "'ll"
+     ],
+     "explain": "Future: will be able to."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "___ you call an ambulance, please? I can't find my phone.",
+     "options": [
+      "Can",
+      "Are",
+      "Do"
+     ],
+     "answer": 0,
+     "explain": "Can you...? is a request."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "She can to drive an ambulance.",
+     "answers": [
+      "She can drive an ambulance.",
+      "She is able to drive an ambulance."
+     ],
+     "explain": "After can, use the base verb without to."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "Last night I can't sleep because of the noise.",
+     "answers": [
+      "Last night I couldn't sleep because of the noise.",
+      "Last night I could not sleep because of the noise.",
+      "Last night I wasn't able to sleep because of the noise.",
+      "Last night I was not able to sleep because of the noise."
+     ],
+     "explain": "Past time: couldn't or wasn't able to."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "able",
+      "you",
+      "to",
+      "Were",
+      "call",
+      "911"
+     ],
+     "answers": [
+      "Were you able to call 911?"
+     ],
+     "explain": "Were + subject + able to + verb."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "can, could and be able to (2)",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-ability",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "Can you hear me? — No, I ___ hear you.",
+     "answers": [
+      "can't",
+      "cannot",
+      "can not"
+     ],
+     "explain": "Negative of can: can't."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "After the fall, he ___ move his leg. It was broken.",
+     "answers": [
+      "couldn't",
+      "could not",
+      "wasn't able to",
+      "was not able to"
+     ],
+     "explain": "Negative in the past: couldn't or wasn't able to."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "Our manager ___ able to come to the safety meeting today, so we have a new date.",
+     "options": [
+      "isn't",
+      "can't",
+      "doesn't"
+     ],
+     "answer": 0,
+     "explain": "Be able to uses be: isn't able to."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "Workers must be ___ to use a fire extinguisher.",
+     "answers": [
+      "able"
+     ],
+     "explain": "must be able to: after a modal, use be able to."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "I ___ speak English when I was ten, but I can now.",
+     "options": [
+      "couldn't",
+      "can't",
+      "won't"
+     ],
+     "answer": 0,
+     "explain": "Past general ability, negative: couldn't."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "I will can help you tomorrow.",
+     "answers": [
+      "I will be able to help you tomorrow.",
+      "I'll be able to help you tomorrow.",
+      "I can help you tomorrow."
+     ],
+     "explain": "Can has no future form. Use will be able to."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "She doesn't can find the first aid kit.",
+     "answers": [
+      "She can't find the first aid kit.",
+      "She cannot find the first aid kit.",
+      "She isn't able to find the first aid kit.",
+      "She is not able to find the first aid kit."
+     ],
+     "explain": "Can does not use doesn't. The negative is can't."
+    },
+    {
+     "id": "B8",
+     "type": "translate",
+     "prompt": "No pudimos abrir la puerta porque estaba bloqueada.",
+     "answers": [
+      "We couldn't open the door because it was blocked.",
+      "We could not open the door because it was blocked.",
+      "We weren't able to open the door because it was blocked.",
+      "We were not able to open the door because it was blocked."
+     ],
+     "explain": "Negative in the past: couldn't or weren't able to."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Past Continuous",
+   "instructions": "Complete, choose, correct or order.",
+   "topic": "g-past-cont",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "At 8 p.m. last night, I ___ dinner. (cook)",
+     "answers": [
+      "was cooking"
+     ],
+     "explain": "I + was + verb-ing."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "They ___ not wearing hard hats when the accident happened.",
+     "answers": [
+      "were"
+     ],
+     "explain": "With they, use were."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "What ___ you doing at ten o'clock?",
+     "answers": [
+      "were"
+     ],
+     "explain": "Wh- question: What were you doing?"
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "The workers ___ the machine when the alarm sounded.",
+     "options": [
+      "were cleaning",
+      "cleaned",
+      "was cleaning"
+     ],
+     "answer": 0,
+     "explain": "Plural subject + were + verb-ing."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "Why didn't you answer the phone? — I ___ a shower.",
+     "options": [
+      "was taking",
+      "took",
+      "am taking"
+     ],
+     "answer": 0,
+     "explain": "An action in progress in the past: was taking."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "We was waiting for the ambulance.",
+     "answers": [
+      "We were waiting for the ambulance."
+     ],
+     "explain": "With we, use were."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "What you were doing when the lights went out?",
+     "answers": [
+      "What were you doing when the lights went out?"
+     ],
+     "explain": "In questions, were goes before the subject."
+    },
+    {
+     "id": "C8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "was",
+      "The",
+      "child",
+      "playing",
+      "near",
+      "the",
+      "stairs"
+     ],
+     "answers": [
+      "The child was playing near the stairs."
+     ],
+     "explain": "Subject + was + verb-ing."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "when and while",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-when-while",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "I hurt my back ___ I was lifting a heavy box.",
+     "answers": [
+      "while",
+      "when"
+     ],
+     "explain": "While or when can come before the action in progress."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "While Tom ___ down the stairs, he slipped. (walk)",
+     "answers": [
+      "was walking"
+     ],
+     "explain": "The longer action uses the Past Continuous."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "The fire alarm ___ while we were having lunch. (ring)",
+     "answers": [
+      "rang"
+     ],
+     "explain": "The short interruption uses the Simple Past."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "I ___ a loud noise while I was sleeping.",
+     "options": [
+      "heard",
+      "was hearing",
+      "hear"
+     ],
+     "answer": 0,
+     "explain": "A short finished action: Simple Past."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "While she ___ the street, a bike hit her.",
+     "options": [
+      "crossed",
+      "was crossing",
+      "crosses"
+     ],
+     "answer": 1,
+     "explain": "While + Past Continuous."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "When the paramedics ___, the man was still conscious.",
+     "options": [
+      "arrived",
+      "were arriving",
+      "arrive"
+     ],
+     "answer": 0,
+     "explain": "When + Simple Past for a short event."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "She broke her arm while she played soccer.",
+     "answers": [
+      "She broke her arm while she was playing soccer.",
+      "She broke her arm when she was playing soccer."
+     ],
+     "explain": "The action in progress uses was playing."
+    },
+    {
+     "id": "D8",
+     "type": "translate",
+     "prompt": "Me caí mientras bajaba las escaleras.",
+     "answers": [
+      "I fell while I was going down the stairs.",
+      "I fell while I was walking down the stairs.",
+      "I fell while I was coming down the stairs.",
+      "I fell while I was going downstairs.",
+      "I fell when I was going down the stairs.",
+      "I fell when I was walking down the stairs.",
+      "While I was going down the stairs, I fell.",
+      "While I was walking down the stairs, I fell."
+     ],
+     "explain": "Simple Past (fell) + while + Past Continuous."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: emergencies and first aid",
+   "instructions": "Complete or choose the correct word.",
+   "topic": "v-emergency",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "A person who drives an ambulance and gives first aid is a ___.",
+     "answers": [
+      "paramedic"
+     ],
+     "explain": "A paramedic gives first aid in emergencies."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "You use a ___ to put out a small fire.",
+     "options": [
+      "fire extinguisher",
+      "bandage",
+      "smoke alarm"
+     ],
+     "answer": 0,
+     "explain": "A fire extinguisher puts out fires."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "The ___ makes a loud sound when there is smoke in the house.",
+     "answers": [
+      "smoke alarm"
+     ],
+     "explain": "A smoke alarm warns you about smoke."
+    },
+    {
+     "id": "E4",
+     "type": "choice",
+     "prompt": "He cut his hand with a knife, and it started to ___.",
+     "options": [
+      "bleed",
+      "faint",
+      "choke"
+     ],
+     "answer": 0,
+     "explain": "Bleed: blood comes out of a cut."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "You can find bandages and medicine in a first aid ___.",
+     "answers": [
+      "kit"
+     ],
+     "explain": "A first aid kit: a box with first aid supplies."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "If you feel very dizzy, you may ___.",
+     "options": [
+      "faint",
+      "bleed",
+      "burn"
+     ],
+     "answer": 0,
+     "explain": "Faint: to lose consciousness for a short time."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "He touched the hot pan and got a ___ on his hand.",
+     "answers": [
+      "burn"
+     ],
+     "explain": "A burn is an injury from heat or fire."
+    },
+    {
+     "id": "E8",
+     "type": "choice",
+     "prompt": "A ___ is an injury to a joint, for example when you twist your ankle.",
+     "options": [
+      "sprain",
+      "burn",
+      "bandage"
+     ],
+     "answer": 0,
+     "explain": "A sprain: an injury when a joint twists."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Vocabulary: safety at work and emergency phrases",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "v-report",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "The ___ saw the accident and gave the police his name.",
+     "answers": [
+      "witness"
+     ],
+     "explain": "A witness is a person who sees an event."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "A yellow sign says \"Wet floor.\" It warns people about a ___.",
+     "options": [
+      "hazard",
+      "signature",
+      "treatment"
+     ],
+     "answer": 0,
+     "explain": "A hazard is something dangerous."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "Workers wear safety ___ to protect their eyes.",
+     "answers": [
+      "goggles"
+     ],
+     "explain": "Safety goggles protect the eyes."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "Operator: \"What's your emergency?\" You: \"___\"",
+     "options": [
+      "My father fainted. Please send an ambulance.",
+      "I have a nice day.",
+      "I'm fine, thanks."
+     ],
+     "answer": 0,
+     "explain": "Say clearly what happened and what you need."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "Operator: \"Is he breathing?\" You: \"___\"",
+     "options": [
+      "Yes, he is, but he isn't awake.",
+      "Yes, I do.",
+      "No, I can't."
+     ],
+     "answer": 0,
+     "explain": "Answer with the verb be, as in the question."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "Please stay on the ___. Help is on the way.",
+     "answers": [
+      "line"
+     ],
+     "explain": "Stay on the line: do not hang up the phone."
+    },
+    {
+     "id": "F7",
+     "type": "fix",
+     "prompt": "Help is in the way.",
+     "answers": [
+      "Help is on the way."
+     ],
+     "explain": "The fixed expression is on the way."
+    },
+    {
+     "id": "F8",
+     "type": "translate",
+     "prompt": "Necesito una ambulancia en la calle Hidalgo.",
+     "answers": [
+      "I need an ambulance on Hidalgo Street.",
+      "I need an ambulance on Hidalgo street.",
+      "I need an ambulance at Hidalgo Street.",
+      "I need an ambulance on Calle Hidalgo."
+     ],
+     "explain": "I need an ambulance on + street name."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "is",
+      "on",
+      "way",
+      "Help",
+      "the"
+     ],
+     "answers": [
+      "Help is on the way."
+     ],
+     "explain": "Help is on the way."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "was",
+      "I",
+      "when",
+      "the",
+      "phone",
+      "rang",
+      "cooking"
+     ],
+     "answers": [
+      "I was cooking when the phone rang."
+     ],
+     "explain": "Past Continuous + when + Simple Past."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "We",
+      "open",
+      "couldn't",
+      "the",
+      "door"
+     ],
+     "answers": [
+      "We couldn't open the door."
+     ],
+     "explain": "Subject + couldn't + base verb."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "What",
+      "were",
+      "you",
+      "doing",
+      "when",
+      "it",
+      "happened"
+     ],
+     "answers": [
+      "What were you doing when it happened?"
+     ],
+     "explain": "What + were + subject + verb-ing?"
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "She",
+      "slipped",
+      "while",
+      "she",
+      "was",
+      "walking"
+     ],
+     "answers": [
+      "She slipped while she was walking."
+     ],
+     "explain": "Simple Past + while + Past Continuous."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "be",
+      "able",
+      "will",
+      "You",
+      "to",
+      "walk",
+      "soon"
+     ],
+     "answers": [
+      "You will be able to walk soon."
+     ],
+     "explain": "Future ability: will be able to."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "No pude llamar al 911.",
+     "answers": [
+      "I couldn't call 911.",
+      "I could not call 911.",
+      "I wasn't able to call 911.",
+      "I was not able to call 911."
+     ],
+     "explain": "Past negative: couldn't or wasn't able to."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Mi hermano se quemó la mano mientras cocinaba.",
+     "answers": [
+      "My brother burned his hand while he was cooking.",
+      "My brother burned his hand when he was cooking.",
+      "My brother burnt his hand while he was cooking.",
+      "My brother burnt his hand when he was cooking.",
+      "While he was cooking, my brother burned his hand.",
+      "While he was cooking, my brother burnt his hand."
+     ],
+     "explain": "Simple Past + while + Past Continuous."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "¿Qué hacías cuando sonó la alarma?",
+     "answers": [
+      "What were you doing when the alarm rang?",
+      "What were you doing when the alarm went off?",
+      "What were you doing when the alarm sounded?"
+     ],
+     "explain": "What were you doing when + Simple Past?"
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Los bomberos pudieron apagar el fuego.",
+     "answers": [
+      "The firefighters were able to put out the fire.",
+      "The firefighters were able to put the fire out.",
+      "The firefighters were able to stop the fire.",
+      "The firefighters were able to extinguish the fire."
+     ],
+     "explain": "One specific success: were able to."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Pronto podrás usar el brazo otra vez.",
+     "answers": [
+      "You will be able to use your arm again soon.",
+      "You'll be able to use your arm again soon.",
+      "Soon you will be able to use your arm again.",
+      "Soon you'll be able to use your arm again."
+     ],
+     "explain": "Future ability: will be able to."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Por favor, quédese en la línea. La ayuda ya viene en camino.",
+     "answers": [
+      "Please stay on the line. Help is on the way.",
+      "Please stay on the line. Help is coming."
+     ],
+     "explain": "Stay on the line. Help is on the way."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes 2 review items from earlier topics).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "She ___ call for help because her phone was broken.",
+     "options": [
+      "couldn't",
+      "can't",
+      "didn't can"
+     ],
+     "answer": 0,
+     "explain": "Past negative of can: couldn't."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "I was crossing the street when I ___ a loud noise. (hear)",
+     "answers": [
+      "heard"
+     ],
+     "explain": "A short event in the past: Simple Past."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "They was working when the lights went out.",
+     "answers": [
+      "They were working when the lights went out."
+     ],
+     "explain": "With they, use were."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Ella se desmayó mientras esperaba el autobús.",
+     "answers": [
+      "She fainted while she was waiting for the bus.",
+      "She fainted when she was waiting for the bus.",
+      "She passed out while she was waiting for the bus.",
+      "While she was waiting for the bus, she fainted."
+     ],
+     "explain": "Simple Past + while + Past Continuous."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "While I walked home, I was seeing a crash.",
+      "While I was walking home, I saw a crash.",
+      "While I was walking home, I was seeing a crash."
+     ],
+     "answer": 1,
+     "explain": "Long action: was walking. Short action: saw."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "Everyone in the office needs to know where the first aid ___ is.",
+     "answers": [
+      "kit"
+     ],
+     "explain": "First aid kit."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "Last weekend my cousin ___ his arm. (break) (review: Simple Past)",
+     "answers": [
+      "broke"
+     ],
+     "explain": "Break is irregular: broke."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "A helmet makes riding a bike ___ than riding without one. (safe) (review: comparatives)",
+     "answers": [
+      "safer"
+     ],
+     "explain": "Short adjective: safe + -r = safer."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Describe an accident you saw, had or heard about (120 to 160 words): where and when it happened, what people were doing, what happened next, who helped and how it ended. Use the Past Continuous with when / while, and could or was able to at least once. Opening: Last year, I saw an accident...",
+   "targets": [
+    "Past Continuous",
+    "when / while",
+    "could / was able to",
+    "emergency vocabulary"
+   ],
+   "checklist": [
+    "120 to 160 words",
+    "At least two sentences with was / were + verb-ing",
+    "At least two sentences with when or while",
+    "One sentence with couldn't, could or was / were able to",
+    "Simple Past for the events that interrupt",
+    "Emergency vocabulary (ambulance, injury, paramedic...)"
+   ],
+   "model": "Last winter, my cousin Luis had a small accident at home, and I was there. It was Sunday afternoon. I was making coffee in the kitchen while Luis was changing a light bulb in the living room. He was standing on a chair when it moved, and he fell. I heard a loud noise and ran to the living room. Luis was on the floor, and he couldn't move his left arm. He was awake, but he looked very pale. I called 911 and gave the address. The operator told me not to move him, so I put a pillow under his head and stayed with him. Ten minutes later, the paramedics arrived. They were able to take him to the hospital quickly. Luis had a fracture in his wrist, but he is fine now. After that day, we bought a ladder, and we never use chairs for that job again."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a short message (80 to 120 words) to your supervisor to report a safety hazard at work (a wet floor, a broken ladder, a blocked exit). Say what you were doing when you saw it, what you did, and what you need.",
+   "targets": [
+    "Past Continuous",
+    "Simple Past",
+    "safety vocabulary",
+    "polite requests"
+   ],
+   "checklist": [
+    "80 to 120 words",
+    "A greeting and a closing",
+    "One sentence with while or when + Past Continuous",
+    "One safety word (hazard, slippery, sign, goggles...)",
+    "A polite request with Can you...? or Could you...?"
+   ],
+   "model": "Hi Mr. Torres,\n\nI'm writing to report a safety problem in the warehouse. This morning, while I was moving boxes near the loading door, I saw oil on the floor. It was very slippery. Two coworkers were walking near it when I noticed it, so I put a yellow sign next to the spill and called the cleaning team. Nobody was hurt, but someone could fall easily. I wasn't able to clean it myself because I didn't have the right equipment.\n\nCan you please send a cleaner today? Also, I think we need more wet floor signs near the door. Thank you for your help.\n\nBest regards,\nAna"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Accidents at Home",
+   "intro": "Read the article about safety at home and answer.",
+   "paragraphs": [
+    "Many people think that home is the safest place in the world. In fact, a large number of accidents happen in the kitchen, in the bathroom and on the stairs. Most of them are small, but some are serious. The good news is that you can prevent many of them with simple habits.",
+    "Falls are the most common accident. A wet bathroom floor is very slippery, so it is a good idea to put a rubber mat next to the shower. Stairs are also dangerous when they are dark or when there are toys or shoes on them. Last year, a man in Guadalajara broke his wrist while he was carrying laundry down the stairs. He couldn't see the last step.",
+    "Fires and burns come next. Many kitchen fires start when someone leaves a pan on the stove and walks away. A woman in Puebla was talking on the phone when the oil in her pan caught fire. She did not use water. Instead, she covered the pan with a lid and turned off the stove. Because she knew what to do, she was able to stop the fire in a few seconds.",
+    "Children are also at risk. They are curious, and they can reach cleaning products, medicine and hot drinks if adults are not careful. Experts say that families should keep dangerous products on high shelves and use safety gates near the stairs.",
+    "Every home should have a smoke alarm on each floor, a fire extinguisher in the kitchen and a first aid kit. Check the batteries of your smoke alarms every six months. Make a list of emergency numbers and put it next to the phone. In Mexico, the number to call in an emergency is 911.",
+    "Finally, practice what to do. Talk with your family about two ways to leave the house in a fire. When everyone knows the plan, nobody has to panic while the emergency is happening. A few minutes of preparation today can save a life tomorrow."
+   ],
+   "glossary": [
+    {
+     "en": "prevent",
+     "def": "to stop something bad before it happens"
+    },
+    {
+     "en": "rubber mat",
+     "def": "a soft mat that keeps your feet from slipping"
+    },
+    {
+     "en": "wrist",
+     "def": "the part of the body between the hand and the arm"
+    },
+    {
+     "en": "lid",
+     "def": "the cover of a pan or a box"
+    },
+    {
+     "en": "curious",
+     "def": "wanting to learn or touch new things"
+    },
+    {
+     "en": "safety gate",
+     "def": "a small gate that stops children from reaching the stairs"
+    },
+    {
+     "en": "panic",
+     "def": "to feel so afraid that you cannot think clearly"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Most accidents in the home are serious.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "The text says that most of them are small."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "According to the article, what is the most common accident at home?",
+     "options": [
+      "Falls",
+      "Fires",
+      "Cuts from knives"
+     ],
+     "answer": 0,
+     "explain": "Falls are the most common accident."
+    },
+    {
+     "id": "R3",
+     "type": "gap",
+     "prompt": "The man in Guadalajara broke his ___ on the stairs.",
+     "answers": [
+      "wrist"
+     ],
+     "explain": "He broke his wrist while carrying laundry."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "What did the woman in Puebla do when the oil caught fire?",
+     "options": [
+      "She poured water on it",
+      "She covered the pan with a lid",
+      "She called her neighbors"
+     ],
+     "answer": 1,
+     "explain": "She covered the pan with a lid and turned off the stove."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "You should check the batteries of your smoke alarms every six months.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "The article gives this advice."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "Where should families keep dangerous products?",
+     "options": [
+      "On high shelves",
+      "Next to the phone",
+      "In the bathroom"
+     ],
+     "answer": 0,
+     "explain": "Families should keep dangerous products on high shelves."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "In Mexico, the emergency number is ___.",
+     "answers": [
+      "911"
+     ],
+     "explain": "The number to call in an emergency is 911."
+    },
+    {
+     "id": "R8",
+     "type": "translate",
+     "prompt": "Ella pudo apagar el fuego en unos segundos.",
+     "answers": [
+      "She was able to stop the fire in a few seconds.",
+      "She was able to put out the fire in a few seconds.",
+      "She was able to put the fire out in a few seconds.",
+      "She was able to stop the fire in seconds.",
+      "She was able to put out the fire in seconds."
+     ],
+     "explain": "One specific success in the past: was able to."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Calling 911",
+   "intro": "Listen to a woman calling the emergency number. You can repeat it.",
+   "lines": [
+    {
+     "who": "Operator",
+     "voice": "glassy",
+     "text": "911, what's your emergency?"
+    },
+    {
+     "who": "Rosa",
+     "voice": "airy",
+     "text": "Hello, my neighbor fell from a ladder. He's on the ground, and he can't move his leg."
+    },
+    {
+     "who": "Operator",
+     "voice": "glassy",
+     "text": "Okay, please stay calm. What's the address?"
+    },
+    {
+     "who": "Rosa",
+     "voice": "airy",
+     "text": "It's 24 Hidalgo Street, near the bakery."
+    },
+    {
+     "who": "Operator",
+     "voice": "glassy",
+     "text": "Is he awake? Is he breathing?"
+    },
+    {
+     "who": "Rosa",
+     "voice": "airy",
+     "text": "Yes, he's awake and breathing, but he's bleeding from his head."
+    },
+    {
+     "who": "Operator",
+     "voice": "glassy",
+     "text": "Don't move him. Take a clean cloth and press gently on the cut. An ambulance is on the way."
+    },
+    {
+     "who": "Rosa",
+     "voice": "airy",
+     "text": "Thank you. He was cleaning the windows when he fell."
+    },
+    {
+     "who": "Marcos",
+     "voice": "rounded",
+     "text": "My leg hurts a lot. I can't stand up."
+    },
+    {
+     "who": "Operator",
+     "voice": "glassy",
+     "text": "Sir, please don't try to stand. Stay still. Can you tell me your name?"
+    },
+    {
+     "who": "Marcos",
+     "voice": "rounded",
+     "text": "Marcos. Marcos Ruiz."
+    },
+    {
+     "who": "Operator",
+     "voice": "glassy",
+     "text": "Ma'am, please stay on the line. The ambulance will be there in about five minutes."
+    },
+    {
+     "who": "Rosa",
+     "voice": "airy",
+     "text": "Okay. I can hear the siren now!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "How did the man get hurt?",
+     "options": [
+      "He fell from a ladder",
+      "He burned his hand",
+      "He was in a car crash"
+     ],
+     "answer": 0,
+     "explain": "Rosa says her neighbor fell from a ladder."
+    },
+    {
+     "id": "L2",
+     "type": "gap",
+     "prompt": "The address is 24 ___ Street.",
+     "answers": [
+      "Hidalgo"
+     ],
+     "explain": "It's 24 Hidalgo Street."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What was the man doing when he fell?",
+     "options": [
+      "Painting the roof",
+      "Cleaning the windows",
+      "Fixing the door"
+     ],
+     "answer": 1,
+     "explain": "He was cleaning the windows when he fell."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What should Rosa do for the cut on his head?",
+     "options": [
+      "Press a clean cloth on it",
+      "Wash it with water",
+      "Give him medicine"
+     ],
+     "answer": 0,
+     "explain": "The operator says to press a clean cloth on the cut."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "Marcos can stand up.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "He says: I can't stand up."
+    },
+    {
+     "id": "L6",
+     "type": "gap",
+     "prompt": "The ambulance will arrive in about ___ minutes.",
+     "answers": [
+      "five",
+      "5"
+     ],
+     "explain": "The operator says about five minutes."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "What's your emergency?",
+     "answers": [
+      "What's your emergency?",
+      "What is your emergency?"
+     ],
+     "explain": "What the operator says first."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "He was cleaning the windows when he fell.",
+     "answers": [
+      "He was cleaning the windows when he fell."
+     ],
+     "explain": "Past Continuous + when + Simple Past."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Please don't move him.",
+     "answers": [
+      "Please don't move him.",
+      "Please do not move him."
+     ],
+     "explain": "A negative command."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "The ambulance will be there in five minutes.",
+     "answers": [
+      "The ambulance will be there in five minutes.",
+      "The ambulance will be there in 5 minutes."
+     ],
+     "explain": "Future with will."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Call the emergency number. Someone in your home has had an accident. Say what happened, where you are and how the person is.",
+     "questions": [
+      "What's your emergency?",
+      "What's the address?",
+      "Is the person awake? Is he or she breathing?",
+      "What happened?"
+     ],
+     "model": "Hello, I need an ambulance. My father fell in the kitchen, and he can't move his arm. We're at 12 Reforma Street, near the park. He's awake and he's breathing. He was cleaning the floor when he slipped.",
+     "checklist": [
+      "I need an ambulance",
+      "Address and landmark",
+      "can't + base verb",
+      "Past Continuous + when + Simple Past"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Tell your supervisor about a safety problem at work (a wet floor, a broken ladder, no goggles). Say what you were doing when you saw it.",
+     "questions": [
+      "What is the problem?",
+      "What were you doing when you saw it?",
+      "Is anyone hurt?",
+      "What do you need?"
+     ],
+     "model": "I'd like to report a hazard. While I was carrying boxes, I saw oil on the floor near the door. It was very slippery. Nobody is hurt, but someone could fall. I put a sign there. Could you send a cleaner, please?",
+     "checklist": [
+      "I'd like to report...",
+      "while + Past Continuous",
+      "Safety vocabulary",
+      "Could you...? request"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about an accident or a dangerous moment in your life. What were you doing when it happened? What happened next?",
+     "questions": [
+      "When did it happen?",
+      "What were you doing?",
+      "What happened?",
+      "Were you able to get help?"
+     ],
+     "model": "Two years ago, I was riding my bike to work when a dog ran into the street. I stopped quickly, but I fell and hurt my knee. A woman who was walking nearby called a friend, and I was able to get a bandage in a pharmacy. It was not serious, but now I always wear a helmet.",
+     "checklist": [
+      "was / were + verb-ing",
+      "when / while",
+      "could or was able to",
+      "Simple Past for events"
+     ]
+    }
+   ],
+   "repeat": [
+    "I need an ambulance. There's been an accident.",
+    "Please stay on the line. Help is on the way.",
+    "He was cleaning the windows when he fell.",
+    "We couldn't open the door.",
+    "Were you able to call 911?",
+    "While I was walking, I slipped."
+   ]
+  }
+ }
+}

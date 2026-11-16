@@ -1,0 +1,1710 @@
+{
+ "id": "u-c1-01",
+ "level": "C1",
+ "n": 1,
+ "title": "First impressions",
+ "goals": [
+  "Tell anecdotes accurately by combining past simple, past continuous, past perfect and past perfect continuous.",
+  "Talk about past habits and situations with used to and would, and tell when each one is possible.",
+  "Distinguish be used to (to be accustomed to) from get used to (to become accustomed to) and from used to + infinitive.",
+  "Describe people with nuance, using compound personality adjectives and modifiers (rather, a touch, not exactly).",
+  "Use collocations with impression (make, leave, create, give, be under the impression) and verbs such as strike and come across as.",
+  "Write and tell anecdotes and descriptions of people of 250 to 350 words, well structured and with narrative rhythm."
+ ],
+ "learn": [
+  {
+   "id": "g-narrative",
+   "kind": "grammar",
+   "title": "Narrative tenses and past perfect continuous",
+   "html": "<p>A good anecdote in English combines four tenses, each with a different role. The <strong>past simple</strong> moves the story forward (<em>I opened the door</em>); the <strong>past continuous</strong> paints the background or an action in progress (<em>it was raining</em>); the <strong>past perfect</strong> steps back to something already finished earlier (<em>she had left</em>); and the <strong>past perfect continuous</strong> steps back to an activity that had been going on up to that point (<em>she had been waiting</em>).</p><p><strong>Form:</strong> had been + verb-ing, the same for all persons. Negative: <em>hadn't been</em>. Question: <em>Had she been waiting?</em></p><table><thead><tr><th>Use</th><th>Example</th><th>Nuance</th></tr></thead><tbody><tr><td>Duration up to a point in the past</td><td>I <strong>had been waiting</strong> for an hour when she showed up.</td><td>Equivalent to “I had been waiting for an hour”.</td></tr><tr><td>Cause of a visible past situation</td><td>Her hands were covered in flour; she <strong>had been baking</strong>.</td><td>It explains what can be seen or felt.</td></tr><tr><td>Activity (process) vs. result</td><td>She <strong>had been painting</strong> the hall (was she still halfway through?) / She <strong>had painted</strong> the hall (finished).</td><td>The continuous focuses on the process; the simple focuses on the result or the quantity.</td></tr></tbody></table><p><strong>Depth and register.</strong> With <em>how long</em>, <em>for</em> and <em>since</em>, the continuous is preferred; with quantities (<em>three emails</em>) or results, the simple: <em>She had written three reports.</em> Stative verbs (<em>know, be, belong, understand</em>) do not usually take the continuous: <em>I had known him for years</em>, not <em>had been knowing</em>. <em>Had been wanting / meaning / hoping to</em> is also acceptable to stress the waiting. In Spanish we use the imperfect tense (“I had been waiting”, “I had been waiting for a while”), which is why Spanish speakers tend to say <em>was waiting for two hours</em>, which in English does not convey that the waiting had started earlier.</p><p>In elegant narrative, avoid overusing the past perfect: using it once is enough to fix the “earlier time”, and afterwards you can keep to the past simple if the order is already clear.</p>",
+   "watch": [
+    {
+     "wrong": "I was waiting for two hours when she finally arrived.",
+     "right": "I had been waiting for two hours when she finally arrived.",
+     "why": "The waiting started before the moment you mark: you need had been + -ing."
+    },
+    {
+     "wrong": "By then, she had been knowing the city for years.",
+     "right": "By then, she had known the city for years.",
+     "why": "Know is a stative verb: it is not used in the continuous."
+    },
+    {
+     "wrong": "When we got there, the guests already left.",
+     "right": "When we got there, the guests had already left.",
+     "why": "An action that happened before another action in the past requires the past perfect."
+    },
+    {
+     "wrong": "He had been writing three emails when I called.",
+     "right": "He had written three emails when I called.",
+     "why": "With a specific number or result, use the simple, not the continuous."
+    }
+   ]
+  },
+  {
+   "id": "g-habits",
+   "kind": "grammar",
+   "title": "Past habits: used to and would",
+   "html": "<p>Both refer to what was <strong>habitual in the past</strong> and no longer is, but they are not interchangeable.</p><table><thead><tr><th></th><th>used to + base</th><th>would + base</th></tr></thead><tbody><tr><td>Repeated habits</td><td>We <strong>used to</strong> swim every morning.</td><td>We <strong>would</strong> swim every morning.</td></tr><tr><td>States (be, have, like, live, know…)</td><td>I <strong>used to</strong> be shy. / She <strong>used to</strong> have long hair.</td><td>Not possible with stative verbs: <em>I would be shy</em> is incorrect.</td></tr><tr><td>Time frame</td><td>It does not need one.</td><td>It needs the past to be already established: <em>When I was a boy, we would…</em></td></tr><tr><td>Negative / question</td><td>I <strong>didn't use to</strong> like it. <strong>Did</strong> you <strong>use to</strong>…?</td><td>Unnatural in the negative; rare in questions.</td></tr></tbody></table><p><strong>Nuances.</strong> <em>Would</em> is more narrative and nostalgic: it creates scenes (<em>On Sundays my grandfather would put on his hat and walk us to the square</em>). <em>Used to</em> is neutral and works to contrast with the present (<em>He used to smoke; now he doesn't</em>). When <em>would</em> is stressed in speech, it also criticises an annoying habit: <em>He would leave his dirty cups everywhere.</em></p><p><strong>Limits.</strong> <em>Used to</em> describes what was repeated or permanent, not a closed period with an exact duration: we do not say <em>I used to live there for five years</em>, but <em>I lived there for five years</em>. It is not used for single actions either. In the past tense, use <em>use to</em> (without -d) after <em>did / didn't</em>.</p><p>Contrast with Spanish: the imperfect (“I lived”, “I used to go”) covers all these cases. English has no single equivalent of the imperfect; its meaning is shared between the past simple, used to, would and the past continuous.</p>",
+   "watch": [
+    {
+     "wrong": "When I was little I would have a bike with training wheels.",
+     "right": "When I was little I used to have a bike with training wheels.",
+     "why": "Have in the sense of possession is a state: it only accepts used to."
+    },
+    {
+     "wrong": "She didn't used to like coffee.",
+     "right": "She didn't use to like coffee.",
+     "why": "After did/didn't the verb goes in the base form: use to, without -d."
+    },
+    {
+     "wrong": "I used to live in Puebla for five years.",
+     "right": "I lived in Puebla for five years.",
+     "why": "A closed period with an exact duration requires the past simple."
+    },
+    {
+     "wrong": "In my twenties I would be very insecure.",
+     "right": "In my twenties I used to be very insecure.",
+     "why": "Be is a stative verb: would is not possible."
+    }
+   ]
+  },
+  {
+   "id": "g-used-to-be",
+   "kind": "grammar",
+   "title": "be used to, get used to and used to",
+   "html": "<p>Three structures that are almost identical in form and completely different in meaning.</p><table><thead><tr><th>Structure</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td><strong>used to</strong> + infinitive</td><td>Past habit or state that no longer exists</td><td>I <strong>used to</strong> get up at five.</td></tr><tr><td><strong>be used to</strong> + -ing / noun</td><td>To be accustomed to (current or past state)</td><td>I'<strong>m used to</strong> getting up at five.</td></tr><tr><td><strong>get used to</strong> + -ing / noun</td><td>To become accustomed to (process)</td><td>It took me weeks to <strong>get used to</strong> getting up at five.</td></tr></tbody></table><p><strong>Grammatical key:</strong> in <em>be/get used to</em>, the word <em>to</em> is a <strong>preposition</strong>, so what follows is a noun or a verb in <strong>-ing</strong>. In <em>used to</em> + base, by contrast, <em>to</em> is part of the infinitive. A useful test: if you can replace it with a noun (<em>I'm used to the noise</em>), it is the prepositional structure.</p><p><strong>Flexibility.</strong> <em>Be used to</em> and <em>get used to</em> can be conjugated in any tense: <em>I'll never get used to the noise; she has got (gotten) used to the cold; he wasn't used to being interrupted</em>. They can be intensified: <em>I'm very / quite / not at all used to…</em>; <em>I'm getting used to…</em> expresses a process in progress.</p><p><strong>Register.</strong> In formal contexts you will see <em>be accustomed to</em> / <em>become accustomed to</em> with the same meaning: <em>The staff are accustomed to working under pressure.</em></p>",
+   "watch": [
+    {
+     "wrong": "I'm not used to wake up so early.",
+     "right": "I'm not used to waking up so early.",
+     "why": "In be used to, to is a preposition: it is followed by -ing."
+    },
+    {
+     "wrong": "When I was a child, I was used to play in the street.",
+     "right": "When I was a child, I used to play in the street.",
+     "why": "For a finished past habit, use used to + base."
+    },
+    {
+     "wrong": "I'm getting used to drive on the left.",
+     "right": "I'm getting used to driving on the left.",
+     "why": "Get used to + -ing, just like be used to."
+    },
+    {
+     "wrong": "He isn't use to spicy food.",
+     "right": "He isn't used to spicy food.",
+     "why": "Be used to takes the participle used (with -d); it is not use to."
+    }
+   ]
+  },
+  {
+   "id": "g-nuance",
+   "kind": "grammar",
+   "title": "Describing people with nuance",
+   "html": "<p>At C1 level it is not enough to say <em>He is nice / She is difficult</em>: you are expected to <strong>grade, soften and qualify</strong> your descriptions, especially when criticising someone or talking about someone you have only just met.</p><table><thead><tr><th>Resource</th><th>Examples</th><th>Effect</th></tr></thead><tbody><tr><td>Softeners: <em>rather, fairly, somewhat, a touch, slightly, a bit</em></td><td>He's <strong>rather</strong> reserved. She's <strong>a touch</strong> too blunt.</td><td>They soften the statement; <em>rather</em> and <em>somewhat</em> are more formal than <em>a bit</em>.</td></tr><tr><td>Understatement: <em>not exactly, not the most</em> + adjective</td><td>He's <strong>not exactly</strong> punctual. She's <strong>not the most</strong> tactful person.</td><td>They criticise with irony and politeness.</td></tr><tr><td>Impression: <em>seem, come across as, strike me as, give the impression of</em></td><td>She <strong>comes across as</strong> confident. He <strong>struck me as</strong> a little aloof.</td><td>They separate appearance from reality.</td></tr><tr><td>Tendency: <em>tend to, the sort of person who</em></td><td>He <strong>tends to</strong> talk over people. She's <strong>the sort of person who</strong> remembers every birthday.</td><td>They generalise without being categorical.</td></tr></tbody></table><p><strong>Gradable and extreme adjectives.</strong> Gradable adjectives (<em>tired, good, interesting</em>) accept <em>very, rather, a bit</em>. Extreme or absolute adjectives (<em>exhausted, brilliant, fascinating, terrified</em>) already contain the intensity and are reinforced with <em>absolutely, utterly, completely, totally</em>, not with <em>very</em>: <em>absolutely exhausted</em>, but <em>very tired</em>.</p><p><strong>Syntax.</strong> After <em>come across as</em> and <em>strike me as</em> comes an adjective or a noun phrase, never an adverb. After <em>seem</em> comes an adjective or <em>to be</em>, never <em>being</em>. In Spanish one verb covers all of this; in English, <em>look</em> refers to appearance, while <em>seem / come across</em> refer to the overall impression.</p>",
+   "watch": [
+    {
+     "wrong": "He's very exhausted after the flight.",
+     "right": "He's absolutely exhausted after the flight.",
+     "why": "Exhausted is an extreme adjective: it is reinforced with absolutely/utterly, not with very."
+    },
+    {
+     "wrong": "She came across as arrogantly.",
+     "right": "She came across as arrogant.",
+     "why": "Come across as takes an adjective, not an adverb."
+    },
+    {
+     "wrong": "He seemed being a little nervous.",
+     "right": "He seemed (to be) a little nervous.",
+     "why": "Seem + adjective or seem + to be; never seem being."
+    },
+    {
+     "wrong": "She made me an impression of being very honest.",
+     "right": "She gave me the impression of being very honest.",
+     "why": "The collocation is give someone the impression of / make an impression on someone."
+    }
+   ]
+  },
+  {
+   "id": "v-personality",
+   "kind": "vocab",
+   "title": "Compound adjectives of personality",
+   "words": [
+    {
+     "id": "w-open-minded",
+     "en": "open-minded",
+     "es": "de mente abierta",
+     "example": "A good manager is open-minded and listens to unconventional ideas."
+    },
+    {
+     "id": "w-narrow-minded",
+     "en": "narrow-minded",
+     "es": "de mente cerrada, intolerante",
+     "example": "His narrow-minded attitude put off every new colleague."
+    },
+    {
+     "id": "w-quick-tempered",
+     "en": "quick-tempered",
+     "es": "de carácter irascible",
+     "example": "She's quick-tempered but she never holds a grudge."
+    },
+    {
+     "id": "w-easy-going",
+     "en": "easy-going",
+     "es": "tolerante, de trato fácil",
+     "example": "My flatmate is easy-going; nothing seems to bother him."
+    },
+    {
+     "id": "w-big-headed",
+     "en": "big-headed",
+     "es": "engreído, presumido",
+     "example": "He's brilliant, but he can come across as big-headed."
+    },
+    {
+     "id": "w-absent-minded",
+     "en": "absent-minded",
+     "es": "distraído, despistado",
+     "example": "She's so absent-minded that she once put the milk in the cupboard."
+    },
+    {
+     "id": "w-level-headed",
+     "en": "level-headed",
+     "es": "sensato, sereno",
+     "example": "Being level-headed, he stayed calm throughout the crisis."
+    },
+    {
+     "id": "w-thick-skinned",
+     "en": "thick-skinned",
+     "es": "de piel dura (poco sensible a las críticas)",
+     "example": "You need to be thick-skinned to work as a critic."
+    },
+    {
+     "id": "w-self-assured",
+     "en": "self-assured",
+     "es": "seguro de sí mismo",
+     "example": "She was remarkably self-assured for a first-time speaker."
+    },
+    {
+     "id": "w-kind-hearted",
+     "en": "kind-hearted",
+     "es": "de buen corazón",
+     "example": "A kind-hearted neighbour looked after our dog for weeks."
+    },
+    {
+     "id": "w-strong-willed",
+     "en": "strong-willed",
+     "es": "de voluntad firme, terco",
+     "example": "Strong-willed children often become determined adults."
+    },
+    {
+     "id": "w-two-faced",
+     "en": "two-faced",
+     "es": "hipócrita, falso",
+     "example": "I can't trust someone who is so two-faced."
+    },
+    {
+     "id": "w-tight-fisted",
+     "en": "tight-fisted",
+     "es": "tacaño",
+     "example": "He's too tight-fisted to leave a tip."
+    },
+    {
+     "id": "w-well-mannered",
+     "en": "well-mannered",
+     "es": "educado, de buenos modales",
+     "example": "The children were polite and well-mannered at the ceremony."
+    }
+   ]
+  },
+  {
+   "id": "v-impression",
+   "kind": "vocab",
+   "title": "Impressions and first meetings (collocations)",
+   "words": [
+    {
+     "id": "w-make-an-impression",
+     "en": "make a good / lasting impression (on sb)",
+     "es": "causar una buena / duradera impresión",
+     "example": "Her calm answers made a lasting impression on the panel.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-leave-an-impression",
+     "en": "leave a bad taste in sb's mouth",
+     "es": "dejar mal sabor de boca",
+     "example": "The rude waiter left a bad taste in our mouths.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-create-the-impression",
+     "en": "create / give the impression that…",
+     "es": "dar la impresión de que…",
+     "example": "He gives the impression that he never has time for anyone.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-under-the-impression",
+     "en": "be under the impression that…",
+     "es": "creer (erróneamente) que…",
+     "example": "I was under the impression that the meeting was on Friday.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-strike-as",
+     "en": "strike sb as + adjective / noun",
+     "es": "parecerle a alguien",
+     "example": "He struck me as a rather lonely man.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-come-across-as",
+     "en": "come across as",
+     "es": "dar la impresión de ser",
+     "example": "Under pressure, she comes across as aloof.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-hit-it-off",
+     "en": "hit it off (with sb)",
+     "es": "congeniar",
+     "example": "We hit it off at once and talked until midnight.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-warm-to",
+     "en": "warm to sb",
+     "es": "ir tomándole simpatía a alguien",
+     "example": "I didn't like him at first, but I gradually warmed to him.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-size-up",
+     "en": "size sb up",
+     "es": "evaluar a alguien de un vistazo",
+     "example": "She sized me up in about five seconds.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-judge-a-book",
+     "en": "don't judge a book by its cover",
+     "es": "las apariencias engañan",
+     "example": "He looks severe, but don't judge a book by its cover.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-break-the-ice",
+     "en": "break the ice",
+     "es": "romper el hielo",
+     "example": "A joke is a good way to break the ice.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-take-a-dislike",
+     "en": "take an instant dislike to sb",
+     "es": "caerle mal a alguien de inmediato",
+     "example": "My dog took an instant dislike to the postman.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "v-anecdote",
+   "kind": "vocab",
+   "title": "Telling an anecdote",
+   "words": [
+    {
+     "id": "w-out-of-the-blue",
+     "en": "out of the blue",
+     "es": "de repente, de la nada",
+     "example": "Out of the blue, an old friend called me.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-dawned-on-me",
+     "en": "it dawned on me that…",
+     "es": "me cayó el veinte de que…",
+     "example": "It suddenly dawned on me that I had left my wallet at home.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-make-matters-worse",
+     "en": "to make matters worse",
+     "es": "para colmo",
+     "example": "To make matters worse, it started to rain.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-as-it-turned-out",
+     "en": "as it turned out",
+     "es": "como resultó ser",
+     "example": "As it turned out, he lived two streets away.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-to-my-relief",
+     "en": "to my relief / surprise / dismay",
+     "es": "para mi alivio / sorpresa / consternación",
+     "example": "To my relief, the examiner was smiling.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-taken-aback",
+     "en": "be taken aback",
+     "es": "quedarse desconcertado",
+     "example": "I was taken aback by how blunt she was."
+    },
+    {
+     "id": "w-caught-off-guard",
+     "en": "be caught off guard",
+     "es": "agarrar desprevenido",
+     "example": "The question caught me completely off guard.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-strike-up",
+     "en": "strike up a conversation",
+     "es": "entablar una conversación",
+     "example": "I struck up a conversation with the man next to me.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-small-talk",
+     "en": "make small talk",
+     "es": "charlar de cosas triviales",
+     "example": "We made small talk about the weather.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-awkward-silence",
+     "en": "an awkward silence",
+     "es": "un silencio incómodo",
+     "example": "An awkward silence fell over the table.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-burst-into",
+     "en": "burst into laughter / tears",
+     "es": "echarse a reír / llorar",
+     "example": "She burst into laughter at the sight of us.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-stumble-across",
+     "en": "stumble across sth / sb",
+     "es": "toparse con",
+     "example": "I stumbled across an old photograph in a book.",
+     "cefr": "C1"
+    }
+   ]
+  },
+  {
+   "id": "e-anecdote",
+   "kind": "expressions",
+   "title": "Functions: telling anecdotes and describing with caution",
+   "html": "<ul><li><strong>Setting the scene:</strong> <em>It was a stifling afternoon in July, and I had been queuing for an hour…</em></li><li><strong>Moving the story on:</strong> <em>Out of the blue… / Just then… / Before I knew it… / The next thing I knew…</em></li><li><strong>Adding a twist:</strong> <em>As it turned out… / To my surprise… / Little did I realise…</em> (this last one is studied with inversion in unit 10).</li><li><strong>Showing your reaction:</strong> <em>I was taken aback. / It dawned on me that… / I couldn't help laughing.</em></li><li><strong>Hedging an opinion of a person:</strong> <em>He struck me as rather… / If I'm honest, she comes across as a touch… / I may be wrong, but…</em></li><li><strong>Correcting a first impression:</strong> <em>I couldn't have been more wrong. / I soon warmed to her. / Appearances can be deceptive.</em></li><li><strong>Wrapping up:</strong> <em>To cut a long story short… / The upshot was that… / Looking back, …</em></li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Narrative tenses and past perfect continuous",
+   "instructions": "Complete, choose or correct according to the narrative context.",
+   "topic": "g-narrative",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "By the time the bus finally came, we ___ (wait) for almost an hour.",
+     "answers": [
+      "had been waiting",
+      "'d been waiting"
+     ],
+     "explain": "Duration leading up to a past point: had been + -ing."
+    },
+    {
+     "id": "A2",
+     "type": "choice",
+     "prompt": "She ___ for hours before anyone noticed she was upset.",
+     "options": [
+      "was crying",
+      "had been crying",
+      "had cried"
+     ],
+     "answer": 1,
+     "explain": "Activity that had been going on before the moment it was noticed: had been crying."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "I couldn't believe it: I ___ (know) him for years and had never heard that story.",
+     "answers": [
+      "had known",
+      "'d known"
+     ],
+     "explain": "Know is a stative verb: past perfect simple."
+    },
+    {
+     "id": "A4",
+     "type": "fix",
+     "prompt": "We were driving for six hours when the engine finally died.",
+     "answers": [
+      "We had been driving for six hours when the engine finally died.",
+      "We'd been driving for six hours when the engine finally died."
+     ],
+     "explain": "Duration before the moment of the breakdown: had been driving."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "By noon she ___ three reports, so she took a break.",
+     "options": [
+      "had been writing",
+      "had written",
+      "was writing"
+     ],
+     "answer": 1,
+     "explain": "With a specific number (three reports), the past perfect simple is used."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "He looked exhausted. He ___ (run) in the rain and his clothes were soaked.",
+     "answers": [
+      "had been running",
+      "'d been running"
+     ],
+     "explain": "Earlier activity that explains what can be seen: had been running."
+    },
+    {
+     "id": "A7",
+     "type": "order",
+     "prompt": "Put the words in order to form a question.",
+     "words": [
+      "had",
+      "been",
+      "How",
+      "long",
+      "you",
+      "waiting",
+      "when",
+      "she",
+      "arrived"
+     ],
+     "answers": [
+      "How long had you been waiting when she arrived?"
+     ],
+     "explain": "How long + had + subject + been + -ing."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "used to and would",
+   "instructions": "Choose the correct form or correct the mistake.",
+   "topic": "g-habits",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "When I was a child, we ___ a small house by the sea.",
+     "options": [
+      "would have",
+      "used to have",
+      "were used to have"
+     ],
+     "answer": 1,
+     "explain": "Have in the sense of possession is a state: only used to."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "Every summer my grandfather ___ take us fishing at dawn.",
+     "answers": [
+      "would",
+      "used to"
+     ],
+     "explain": "Repeated habit with an established time frame: would or used to."
+    },
+    {
+     "id": "B3",
+     "type": "fix",
+     "prompt": "I would be very shy at school, but now I love public speaking.",
+     "answers": [
+      "I used to be very shy at school, but now I love public speaking."
+     ],
+     "explain": "Be is a state: would is not possible, so used to is used."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "She ___ like seafood, but now she eats it every week.",
+     "answers": [
+      "didn't use to",
+      "did not use to",
+      "never used to"
+     ],
+     "explain": "Negative in the past: didn't use to (without -d)."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "We used to live in Guadalajara for six years.",
+      "We lived in Guadalajara for six years.",
+      "We would live in Guadalajara for six years."
+     ],
+     "answer": 1,
+     "explain": "A closed period with an exact duration requires the past simple."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "Our neighbour used to playing the trumpet at midnight.",
+     "answers": [
+      "Our neighbour used to play the trumpet at midnight.",
+      "Our neighbour would play the trumpet at midnight."
+     ],
+     "explain": "Used to + base (or would + base for the habit)."
+    },
+    {
+     "id": "B7",
+     "type": "order",
+     "prompt": "Put the words in order to form a question.",
+     "words": [
+      "Did",
+      "you",
+      "use",
+      "to",
+      "walk",
+      "to",
+      "school"
+     ],
+     "answers": [
+      "Did you use to walk to school?"
+     ],
+     "explain": "Question in the past: Did + subject + use to + base."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "be used to, get used to",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-used-to-be",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "It took me months to get used to ___ (work) night shifts.",
+     "answers": [
+      "working"
+     ],
+     "explain": "To is a preposition: get used to + -ing."
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "Which sentence means 'I am accustomed to it'?",
+     "options": [
+      "I used to get up early.",
+      "I'm used to getting up early.",
+      "I get used to get up early."
+     ],
+     "answer": 1,
+     "explain": "Be used to + -ing expresses a state of habit."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "After ten years in Monterrey, he has finally ___ used to the heat.",
+     "answers": [
+      "got",
+      "gotten"
+     ],
+     "explain": "The process of becoming accustomed: has got/gotten used to."
+    },
+    {
+     "id": "C4",
+     "type": "fix",
+     "prompt": "I'm not used to wake up so early.",
+     "answers": [
+      "I'm not used to waking up so early.",
+      "I am not used to waking up so early."
+     ],
+     "explain": "Be used to + -ing."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "When I was a child, I was used to play in the street.",
+     "answers": [
+      "When I was a child, I used to play in the street."
+     ],
+     "explain": "Finished past habit: used to + base."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "Years ago I ___ driving on the left, but now it feels natural.",
+     "options": [
+      "wasn't used to",
+      "didn't use to",
+      "am used to"
+     ],
+     "answer": 0,
+     "explain": "State of not being accustomed in the past + -ing: wasn't used to driving."
+    },
+    {
+     "id": "C7",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "I",
+      "will",
+      "never",
+      "get",
+      "used",
+      "to",
+      "the",
+      "noise"
+     ],
+     "answers": [
+      "I will never get used to the noise.",
+      "I'll never get used to the noise."
+     ],
+     "explain": "Get used to + noun, with never before the verb."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Describing people with nuance",
+   "instructions": "Choose, complete or correct so that the description sounds natural and nuanced.",
+   "topic": "g-nuance",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "He's not ___ punctual: he has been late three times this week.",
+     "options": [
+      "exactly",
+      "very much",
+      "absolutely"
+     ],
+     "answer": 0,
+     "explain": "Not exactly + adjective is an ironic understatement."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "She came ___ as rather cold at first, but she turned out to be very warm.",
+     "answers": [
+      "across"
+     ],
+     "explain": "Come across as + adjective."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "The film was ___ brilliant; I've never seen anything like it.",
+     "options": [
+      "very",
+      "absolutely",
+      "fairly"
+     ],
+     "answer": 1,
+     "explain": "Brilliant is an extreme adjective: absolutely."
+    },
+    {
+     "id": "D4",
+     "type": "fix",
+     "prompt": "He's very exhausted after the flight.",
+     "answers": [
+      "He's absolutely exhausted after the flight.",
+      "He is absolutely exhausted after the flight.",
+      "He's utterly exhausted after the flight.",
+      "He is utterly exhausted after the flight.",
+      "He's completely exhausted after the flight.",
+      "He is completely exhausted after the flight.",
+      "He's totally exhausted after the flight.",
+      "He is totally exhausted after the flight.",
+      "He's exhausted after the flight.",
+      "He is exhausted after the flight.",
+      "He's very tired after the flight.",
+      "He is very tired after the flight.",
+      "He's really exhausted after the flight.",
+      "He is really exhausted after the flight."
+     ],
+     "explain": "Extreme adjectives do not combine with very."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "Her manner struck me ___ somewhat arrogant.",
+     "answers": [
+      "as"
+     ],
+     "explain": "Strike someone as + adjective."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "She seemed being a little nervous.",
+     "answers": [
+      "She seemed a little nervous.",
+      "She seemed to be a little nervous."
+     ],
+     "explain": "Seem + adjective or seem to be."
+    },
+    {
+     "id": "D7",
+     "type": "choice",
+     "prompt": "Which is the most tentative way to describe a colleague?",
+     "options": [
+      "He's lazy.",
+      "He tends to be a touch disorganised.",
+      "He is totally disorganised."
+     ],
+     "answer": 1,
+     "explain": "Tend to + a touch soften the criticism."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Personality compounds",
+   "instructions": "Complete with the appropriate compound adjective.",
+   "topic": "v-personality",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "He never changes his mind, even when the evidence is against him. He's incredibly strong-___.",
+     "answers": [
+      "willed"
+     ],
+     "explain": "Strong-willed: having a firm, determined character."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "Mara stays calm in a crisis and weighs up every option. She's very ___.",
+     "options": [
+      "level-headed",
+      "big-headed",
+      "absent-minded"
+     ],
+     "answer": 0,
+     "explain": "Level-headed: sensible and calm."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "Don't take his comments personally; he's so thick-___ that nothing bothers him.",
+     "answers": [
+      "skinned"
+     ],
+     "explain": "Thick-skinned: not sensitive to criticism."
+    },
+    {
+     "id": "E4",
+     "type": "choice",
+     "prompt": "He smiles at your face and criticises you behind your back. He's ___.",
+     "options": [
+      "two-faced",
+      "open-minded",
+      "easy-going"
+     ],
+     "answer": 0,
+     "explain": "Two-faced: hypocritical."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "She's so absent-___ that she once left her passport in a taxi.",
+     "answers": [
+      "minded"
+     ],
+     "explain": "Absent-minded: forgetful and distracted."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "My uncle won't even consider other points of view. He's so ___.",
+     "options": [
+      "narrow-minded",
+      "kind-hearted",
+      "well-mannered"
+     ],
+     "answer": 0,
+     "explain": "Narrow-minded: intolerant, closed to other views."
+    },
+    {
+     "id": "E7",
+     "type": "translate",
+     "prompt": "Mi jefa es muy segura de sí misma.",
+     "answers": [
+      "My boss is very self-assured.",
+      "My boss is really self-assured.",
+      "My boss is extremely self-assured.",
+      "My boss is so self-assured.",
+      "My boss is quite self-assured."
+     ],
+     "explain": "Self-assured: confident in oneself."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Impression collocations",
+   "instructions": "Complete or choose the correct collocation.",
+   "topic": "v-impression",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "Try to make a good ___ at the interview.",
+     "answers": [
+      "impression",
+      "first impression"
+     ],
+     "explain": "Make a good impression."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "I was ___ the impression that the meeting had been cancelled.",
+     "options": [
+      "under",
+      "in",
+      "on"
+     ],
+     "answer": 0,
+     "explain": "Be under the impression that: to believe something mistakenly."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "At first glance he seems arrogant, but don't judge a book by its ___.",
+     "answers": [
+      "cover"
+     ],
+     "explain": "Don't judge a book by its cover."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "We ___ immediately; within minutes we were laughing like old friends.",
+     "options": [
+      "hit it off",
+      "struck it up",
+      "warmed it off"
+     ],
+     "answer": 0,
+     "explain": "Hit it off: to get on well straight away."
+    },
+    {
+     "id": "F5",
+     "type": "fix",
+     "prompt": "She made me an impression of being very honest.",
+     "answers": [
+      "She gave me the impression of being very honest.",
+      "She gave me the impression that she was very honest.",
+      "She gave the impression of being very honest.",
+      "She made the impression of being very honest."
+     ],
+     "explain": "Give someone the impression of / that…"
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "It took me a while to ___ to him; at first I found him rather cold.",
+     "answers": [
+      "warm"
+     ],
+     "explain": "Warm to sb: to gradually come to like someone."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "To break the ___, she started making small talk about the weather.",
+     "answers": [
+      "ice"
+     ],
+     "explain": "Break the ice: to ease the initial awkwardness."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "She",
+      "had",
+      "been",
+      "working",
+      "there",
+      "for",
+      "ten",
+      "years",
+      "when",
+      "the",
+      "company",
+      "closed"
+     ],
+     "answers": [
+      "She had been working there for ten years when the company closed.",
+      "When the company closed, she had been working there for ten years."
+     ],
+     "explain": "Past perfect continuous + when + past simple."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "I'll",
+      "never",
+      "get",
+      "used",
+      "to",
+      "getting",
+      "up",
+      "at",
+      "five"
+     ],
+     "answers": [
+      "I'll never get used to getting up at five.",
+      "I will never get used to getting up at five."
+     ],
+     "explain": "Get used to + -ing."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "We",
+      "used",
+      "to",
+      "spend",
+      "every",
+      "summer",
+      "at",
+      "my",
+      "grandparents'",
+      "farm"
+     ],
+     "answers": [
+      "We used to spend every summer at my grandparents' farm."
+     ],
+     "explain": "Used to + base for a past habit."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "He",
+      "struck",
+      "me",
+      "as",
+      "a",
+      "rather",
+      "reserved",
+      "person"
+     ],
+     "answers": [
+      "He struck me as a rather reserved person."
+     ],
+     "explain": "Strike sb as + noun phrase; rather before a/an + adjective."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "By",
+      "the",
+      "time",
+      "he",
+      "called",
+      "I",
+      "had",
+      "been",
+      "waiting",
+      "for",
+      "two",
+      "hours"
+     ],
+     "answers": [
+      "By the time he called, I had been waiting for two hours.",
+      "By the time he called I had been waiting for two hours."
+     ],
+     "explain": "By the time + past simple, past perfect continuous."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a question.",
+     "words": [
+      "Did",
+      "you",
+      "use",
+      "to",
+      "be",
+      "quick-tempered",
+      "as",
+      "a",
+      "teenager"
+     ],
+     "answers": [
+      "Did you use to be quick-tempered as a teenager?"
+     ],
+     "explain": "Did + subject + use to + base."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English using the most natural structure.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Yo llevaba tres horas esperando cuando por fin llegó el autobús.",
+     "answers": [
+      "I had been waiting for three hours when the bus finally arrived.",
+      "I'd been waiting for three hours when the bus finally arrived.",
+      "I had been waiting for three hours when the bus finally came.",
+      "I'd been waiting for three hours when the bus finally came.",
+      "I had been waiting for three hours when the bus arrived at last.",
+      "When the bus finally arrived, I had been waiting for three hours.",
+      "When the bus finally came, I had been waiting for three hours."
+     ],
+     "explain": "Duration before a past moment: had been waiting."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "De niño, mi abuelo solía llevarme a pescar cada domingo.",
+     "answers": [
+      "When I was a child, my grandfather used to take me fishing every Sunday.",
+      "When I was a child, my grandfather would take me fishing every Sunday.",
+      "When I was a kid, my grandfather used to take me fishing every Sunday.",
+      "When I was a kid, my grandfather would take me fishing every Sunday.",
+      "As a child, my grandfather used to take me fishing every Sunday.",
+      "As a child, my grandfather would take me fishing every Sunday.",
+      "My grandfather used to take me fishing every Sunday when I was a child.",
+      "My grandfather would take me fishing every Sunday when I was a child."
+     ],
+     "explain": "Past habit: used to or would (with a time frame)."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Todavía no me acostumbro a vivir en una ciudad tan ruidosa.",
+     "answers": [
+      "I still haven't got used to living in such a noisy city.",
+      "I still haven't gotten used to living in such a noisy city.",
+      "I haven't got used to living in such a noisy city yet.",
+      "I haven't gotten used to living in such a noisy city yet.",
+      "I'm still not used to living in such a noisy city.",
+      "I am still not used to living in such a noisy city."
+     ],
+     "explain": "Get used to + -ing; the process is not yet complete."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Me dio la impresión de que mi nuevo jefe era una persona muy segura de sí misma.",
+     "answers": [
+      "I got the impression that my new boss was a very self-assured person.",
+      "I had the impression that my new boss was a very self-assured person.",
+      "I got the impression that my new boss was very self-assured.",
+      "I had the impression that my new boss was very self-assured.",
+      "I got the impression my new boss was a very self-assured person.",
+      "I got the impression my new boss was very self-assured."
+     ],
+     "explain": "Get / have the impression that…"
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Mi hermano no es exactamente la persona más paciente del mundo.",
+     "answers": [
+      "My brother isn't exactly the most patient person in the world.",
+      "My brother is not exactly the most patient person in the world.",
+      "My brother's not exactly the most patient person in the world.",
+      "My brother isn't exactly the most patient person in the world."
+     ],
+     "explain": "Not exactly + superlative: ironic understatement."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Cuando llegamos, ellos ya se habían ido.",
+     "answers": [
+      "When we arrived, they had already left.",
+      "When we got there, they had already left.",
+      "When we arrived, they'd already left.",
+      "When we got there, they'd already left.",
+      "When we arrived, they had left already.",
+      "When we got there, they had left already."
+     ],
+     "explain": "Earlier action before another past action: past perfect."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (the last two are B2 review).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "When I met her, she ___ in Berlin for two years.",
+     "options": [
+      "had been living",
+      "has been living",
+      "was lived"
+     ],
+     "answer": 0,
+     "explain": "Duration before a past moment: had been living."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "He ___ be so quick-tempered, but he's much calmer now.",
+     "answers": [
+      "used to"
+     ],
+     "explain": "Past state that no longer exists: used to."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "I'm getting used to eat spicy food.",
+     "answers": [
+      "I'm getting used to eating spicy food.",
+      "I am getting used to eating spicy food."
+     ],
+     "explain": "Get used to + -ing."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "At first glance she seemed shy, but she ___ as very confident once she started speaking.",
+     "options": [
+      "came across",
+      "looked across",
+      "came out"
+     ],
+     "answer": 0,
+     "explain": "Come across as: to give the impression of being."
+    },
+    {
+     "id": "M5",
+     "type": "gap",
+     "prompt": "They ___ (argue) when I walked in; you could cut the tension with a knife.",
+     "answers": [
+      "had been arguing",
+      "'d been arguing",
+      "were arguing"
+     ],
+     "explain": "Earlier or ongoing activity: had been arguing / were arguing."
+    },
+    {
+     "id": "M6",
+     "type": "translate",
+     "prompt": "Mi madre es muy abierta de mente.",
+     "answers": [
+      "My mother is very open-minded.",
+      "My mother's very open-minded.",
+      "My mum is very open-minded.",
+      "My mom is very open-minded.",
+      "My mother is really open-minded.",
+      "My mother is extremely open-minded."
+     ],
+     "explain": "Open-minded: receptive to new ideas."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "I'm used to speak in public.",
+      "I'm used to speaking in public.",
+      "I used to speaking in public."
+     ],
+     "answer": 1,
+     "explain": "Be used to + -ing."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "We hit it ___ right away and talked until midnight.",
+     "answers": [
+      "off"
+     ],
+     "explain": "Hit it off: to get on well."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "If I ___ (know) about the traffic, I would have left earlier. (B2 review)",
+     "answers": [
+      "had known",
+      "'d known"
+     ],
+     "explain": "Third conditional: if + past perfect."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "She asked me where I ___ (live). (B2 review)",
+     "answers": [
+      "lived",
+      "was living",
+      "live"
+     ],
+     "explain": "Reported speech: backshifting of the verb tense."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Describe a person who made a strong first impression on you and whose true character turned out to be different (or exactly as you expected). Write 250-350 words. Explain what you noticed at first, how you judged them, what changed your mind, and what you think now. Use at least four compound adjectives of personality and several hedging devices (rather, a touch, not exactly, tend to).",
+   "targets": [
+    "narrative tenses",
+    "past perfect continuous",
+    "used to / would",
+    "compound personality adjectives",
+    "come across as / strike me as / give the impression",
+    "softeners and understatement"
+   ],
+   "checklist": [
+    "250-350 words in 3-4 well-connected paragraphs",
+    "At least one correct use of had been + -ing",
+    "At least one past habit with used to or would (no would with stative verbs)",
+    "Four compound personality adjectives used well",
+    "Two or more softeners (rather, a touch, not exactly, tend to)",
+    "One collocation with impression and come across as / strike me as + adjective",
+    "A narrative connector (as it turned out, to my surprise) and a closing reflection"
+   ],
+   "model": "When I first met Elena, my university tutor, she struck me as rather cold and a touch intimidating. She had been working in the department for almost twenty years, and she carried herself with the kind of composure that tends to keep students at a distance. Her office was spotless, her emails were curt, and she made a point of never smiling during lectures. My first impression, I am embarrassed to say, was that she was a narrow-minded, hard-nosed academic with little patience for a nervous newcomer.\n\nI kept that opinion for the best part of a term. Whenever I handed in an essay, she would return it covered in red ink, and I used to dread the moment she called my name. In class she came across as sharp and not exactly approachable, and I assumed her comments were designed to expose our weaknesses rather than to help us.\n\nAs it turned out, I could hardly have been more mistaken. One evening I stayed late in the library, panicking over a deadline, and Elena, who had been marking papers in the next room for hours, came in and sat down beside me. She spent nearly an hour talking me through my argument and, to my surprise, she was warm, quick-witted and genuinely funny. I later learned that she had been quietly paying for a struggling student's textbooks for two years. Far from being cold, she was big-hearted and strong-willed, and her severity was simply her way of expecting the best from us.\n\nLooking back, the episode taught me to distrust the impression people give in the first five minutes. Reserve is often mistaken for hostility, and I now tend to withhold judgement until I have seen someone under pressure. Elena remains one of the most formative people I have ever met, and I am rather ashamed that it took me a whole term to realise it."
+  },
+  {
+   "id": "W2",
+   "prompt": "Tell the story of a time you moved to a new place, started a new job or joined a new group of people. Write 250-350 words. Describe what life was like before (used to / would), how long you had been preparing or waiting, how strange it felt at first, and how you gradually got used to it. Include at least one moment that caught you off guard.",
+   "targets": [
+    "full range of narrative tenses",
+    "be/get used to",
+    "used to and would",
+    "vocabulary for anecdotes",
+    "narrative order and pacing"
+   ],
+   "checklist": [
+    "250-350 words with a beginning, middle and end",
+    "Past perfect (continuous) for what happened before the start of the story",
+    "Be used to / get used to + -ing or noun, at least twice",
+    "Used to / would to contrast with the earlier life",
+    "Four expressions from the Telling an anecdote block (out of the blue, taken aback, to make matters worse...)",
+    "Avoid overusing the past perfect: return to the past simple when the order is already clear",
+    "A closing reflection (Looking back, ...)"
+   ],
+   "model": "Two years ago I moved from a small town in the north to Madrid to take up a position at an engineering firm. For months I had been preparing for the change: I had been saving money, studying the neighbourhoods and, if I am honest, convincing myself that nothing would really be different. Back home I used to walk to work in ten minutes, and on Sundays we would all gather at my grandmother's house for lunch. I was used to knowing everyone in the bakery by name.\n\nThe first few weeks were disorienting. I was not used to commuting for an hour on a crowded metro, and the noise kept me awake at night. Out of the blue, on my second Monday, my manager asked me to present our project to the entire board. I was completely taken aback; nobody had mentioned it, and I had barely finished unpacking my boxes. To make matters worse, my laptop crashed ten minutes before the meeting. As luck would have it, a colleague lent me hers, and, to my relief, the presentation went better than I had expected.\n\nLittle by little, things fell into place. I found a café where the owner began to greet me by name, I joined a climbing group, and I stopped counting the days until my next trip home. By the spring I had got used to living among strangers, and I even began to enjoy the anonymity. I no longer noticed the noise, and I had learned to treat the metro as thinking time.\n\nLooking back, what surprised me most was not how hard the beginning was, but how quickly the unfamiliar became ordinary. I still miss those Sunday lunches, but I have come to see that being a newcomer taught me to be more adaptable, and more patient with myself."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The Fifteen-Second Verdict",
+   "intro": "Read the opinion article and answer the questions.",
+   "paragraphs": [
+    "I have always prided myself on being a good judge of character. Walk me into a room, introduce me to a stranger, and within about fifteen seconds I will have decided whether he is trustworthy, whether she is secretly bored, and whether either of them is worth sitting next to at dinner. It is a habit I picked up years ago, and for a long time I would have defended it fiercely as a kind of instinct. Then, three years ago, a new colleague taught me otherwise.",
+    "Her name was Renata, and she joined our design team in the middle of a particularly chaotic quarter. When she walked in on her first morning, she barely made eye contact, answered my greeting with a single syllable and sat down without a word. By lunchtime I had written her off as cold, perhaps even a little arrogant. I remember telling a friend that she struck me as the sort of person who would never be a team player. Looking back, I am slightly embarrassed by how sure I was.",
+    "What I failed to notice was that she had been travelling for nearly twenty hours. She had flown in from Lisbon the night before, had been sleeping badly in a temporary flat, and was still getting used to a language she had only ever studied in books. Within a fortnight, the 'cold' colleague turned out to be quick-witted, generous with her time, and funny in a dry, understated way. She used to stay late to help the junior designers, and nobody had asked her to. By the end of the year she had become one of the people I trusted most.",
+    "Psychologists have a name for the mistake I made: the primacy effect. We give disproportionate weight to the first information we receive about someone, and we then interpret everything that follows in its light. A shy person who seems distant is read as unfriendly; a confident one who talks too much is read as big-headed. The cruel part is that the first impression is rarely a fair sample of a person. It captures how someone behaves on their worst day, in unfamiliar surroundings, under pressure, which are precisely the conditions in which most of us come across at our least impressive.",
+    "That does not mean first impressions are worthless. Research suggests that people can, in fact, pick up on a few things quickly, such as warmth and energy, though they are considerably worse at detecting honesty or reliability, which take time to reveal themselves. The practical lesson, I think, is to hold our first verdicts lightly. I now make a point of revising my opinion of anyone after a second and a third encounter, ideally in a different setting. Renata, who is now my closest friend at work, still teases me about the day I wrote her off before lunch. 'You'd made up your mind,' she says, 'before I'd even taken my coat off.' She is right, of course. She usually is. What strikes me most, in hindsight, is not that I misjudged her, but how little effort it would have taken to avoid it. A friendly question over coffee, or simply a willingness to wait a few days, would have saved us both a fortnight of needless awkwardness. These days, when someone strikes me as unfriendly or aloof, I try to ask myself a different question: what might this person be dealing with that I know nothing about?"
+   ],
+   "glossary": [
+    {
+     "en": "write sb off",
+     "def": "to dismiss someone as unimportant or hopeless"
+    },
+    {
+     "en": "fortnight",
+     "def": "a period of two weeks"
+    },
+    {
+     "en": "quick-witted",
+     "def": "able to think and respond quickly and cleverly"
+    },
+    {
+     "en": "dry (humour)",
+     "def": "humour that is subtle and ironic, delivered without showing emotion"
+    },
+    {
+     "en": "understated",
+     "def": "restrained or modest in style, without drawing attention"
+    },
+    {
+     "en": "disproportionate",
+     "def": "much too large or too great compared with what is reasonable"
+    },
+    {
+     "en": "tease",
+     "def": "to make fun of someone in a playful way"
+    },
+    {
+     "en": "make a point of -ing",
+     "def": "to make a deliberate effort to do something"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "The writer used to trust his snap judgements of people.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Says that for a long time they would have defended them as a kind of instinct."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Renata had flown in from Lisbon on the same morning she started work.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Had arrived the night before."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Why did Renata seem distant on her first day?",
+     "options": [
+      "She considered herself superior to the team.",
+      "She was exhausted and still adjusting to a new country and language.",
+      "She disliked the writer personally."
+     ],
+     "answer": 1,
+     "explain": "Had been traveling for about twenty hours and was still adjusting."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "According to the research mentioned, which qualities can people judge quickly?",
+     "options": [
+      "Warmth and energy",
+      "Honesty and reliability",
+      "Intelligence and humour"
+     ],
+     "answer": 0,
+     "explain": "Honestidad y fiabilidad necesitan tiempo."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "In the second paragraph, 'written her off' is closest in meaning to...",
+     "options": [
+      "dismissed her as unlikely to be worthwhile",
+      "praised her in writing",
+      "ignored her by mistake"
+     ],
+     "answer": 0,
+     "explain": "Write sb off: descartarla."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "The tendency to give too much weight to the first information we get is called the ___ effect.",
+     "answers": [
+      "primacy"
+     ],
+     "explain": "Primacy effect, mentioned in the fourth paragraph."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "The writer now revises his opinion after a second and a third ___.",
+     "answers": [
+      "encounter",
+      "encounters"
+     ],
+     "explain": "After a second and a third encounter."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Small Talk: the first-impression trap",
+   "intro": "Listen to the podcast excerpt. You can repeat it.",
+   "lines": [
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Welcome back to Small Talk, the show that picks apart the little moments that shape our lives. Today it's first impressions, and I'm joined by Priya, a recruiter, and Dan, who claims he's hopeless at them."
+    },
+    {
+     "who": "Dan",
+     "voice": "glassy",
+     "text": "Hopeless is putting it mildly. I once sat through an entire interview convinced the panel hated me, simply because nobody smiled."
+    },
+    {
+     "who": "Priya",
+     "voice": "airy",
+     "text": "Oh, that happens all the time. Interviewers are often just concentrating. I'd been sitting through back-to-back interviews since eight that morning, and by the afternoon I probably looked like a statue."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "So how did it go in the end, Dan?"
+    },
+    {
+     "who": "Dan",
+     "voice": "glassy",
+     "text": "Well, I got the job, funnily enough. It turned out the stern woman in the middle was the department head, and she used to interview people with a straight face on purpose, just to see how they'd cope."
+    },
+    {
+     "who": "Priya",
+     "voice": "airy",
+     "text": "That's a fairly common tactic. Personally, I'd never do it. It tells you more about how someone handles stress than whether they can do the job."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Priya, when a candidate walks in, what makes an impression on you straight away?"
+    },
+    {
+     "who": "Priya",
+     "voice": "airy",
+     "text": "Honestly? Not the firm handshake everyone goes on about. It's whether they listen. The ones who leave a lasting impression are the ones who pick up on what I've said and build on it."
+    },
+    {
+     "who": "Dan",
+     "voice": "glassy",
+     "text": "See, that's me. I tend to talk over people when I'm nervous, and I come across as a bit big-headed, even though I'm really just terrified."
+    },
+    {
+     "who": "Priya",
+     "voice": "airy",
+     "text": "And that's exactly why I always give people a second chance. Nerves can make a perfectly lovely person seem rather abrasive."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Dan, you moved to Edinburgh last year, didn't you? Have you got used to the weather yet?"
+    },
+    {
+     "who": "Dan",
+     "voice": "glassy",
+     "text": "Not remotely. I'm still not used to it getting dark at half past three. Back home I'd leave work in daylight all year round."
+    },
+    {
+     "who": "Priya",
+     "voice": "airy",
+     "text": "Give it time. I moved here from Mumbai ten years ago, and I'd been dreading the winters for months. Now I can't imagine living anywhere else."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "On that note, let's take a short break. When we come back: how to recover from a bad first impression."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Why did Dan think the interview panel disliked him?",
+     "options": [
+      "Nobody smiled.",
+      "They asked him difficult questions.",
+      "They arrived late."
+     ],
+     "answer": 0,
+     "explain": "Dice «nobody smiled»."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What did Dan discover about the stern woman in the middle?",
+     "options": [
+      "She was a former candidate.",
+      "She was the department head and kept a straight face on purpose.",
+      "She had been in a bad mood that day."
+     ],
+     "answer": 1,
+     "explain": "She used to interview people with a straight face on purpose."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What impresses Priya most in a candidate?",
+     "options": [
+      "A firm handshake",
+      "Listening and building on what she says",
+      "Confident eye contact"
+     ],
+     "answer": 1,
+     "explain": "Says it is not about the handshake but about listening."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "Priya thinks the straight-faced interview tactic is a good idea.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Dice «Personally, I'd never do it»."
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "Dan says he is still not used to it getting dark at half past ___.",
+     "answers": [
+      "three",
+      "3"
+     ],
+     "explain": "Half past three."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "How did Priya feel about the winters before she moved?",
+     "options": [
+      "She had been dreading them.",
+      "She had looked forward to them.",
+      "She had never thought about them."
+     ],
+     "answer": 0,
+     "explain": "I'd been dreading the winters for months."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Nerves can make a perfectly lovely person seem rather abrasive.",
+     "answers": [
+      "Nerves can make a perfectly lovely person seem rather abrasive."
+     ],
+     "explain": "Seem + adjetivo matizado con rather."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "I'm still not used to it getting dark at half past three.",
+     "answers": [
+      "I'm still not used to it getting dark at half past three.",
+      "I am still not used to it getting dark at half past three."
+     ],
+     "explain": "Be used to + it + -ing."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "She used to interview people with a straight face on purpose.",
+     "answers": [
+      "She used to interview people with a straight face on purpose."
+     ],
+     "explain": "Used to + base verb for a past habit."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "I'd been dreading the winters for months.",
+     "answers": [
+      "I'd been dreading the winters for months.",
+      "I had been dreading the winters for months."
+     ],
+     "explain": "Past perfect continuous with duration (for months)."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Describe a person who made a strong impression on you, first as you saw them at the beginning and then as you know them now.",
+     "questions": [
+      "Who is the person and where did you meet?",
+      "What was your first impression of them?",
+      "How did that impression change over time?",
+      "What kind of person are they, in your opinion?"
+     ],
+     "model": "The person I have in mind is my former supervisor, Elena. When we first met, she struck me as rather cold and a touch intimidating, mainly because she hardly smiled. I had been dreading working with her for weeks. As it turned out, she was simply very focused, and underneath she was kind-hearted and remarkably level-headed. I soon warmed to her, and she's now the person I trust most at work.",
+     "checklist": [
+      "Use struck me as / came across as + adjective",
+      "Include a softener (rather, a touch)",
+      "Use had been + -ing or the past perfect for what came earlier",
+      "Include two compound personality adjectives",
+      "Mark the change of opinion (as it turned out, I soon warmed to)"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Tell an anecdote about an awkward or surprising first meeting.",
+     "questions": [
+      "Where were you and what were you doing?",
+      "What happened out of the blue?",
+      "How did you react?",
+      "How did the story end?"
+     ],
+     "model": "A few years ago I was queuing for a coffee when a stranger started chatting to me as if we knew each other. I was completely taken aback, but I played along. Eventually it dawned on me that he had mistaken me for his cousin. To make matters worse, I had been about to correct him just as the barista called my name, and he realised. We both burst into laughter, and, to cut a long story short, we still meet for coffee.",
+     "checklist": [
+      "Past simple for the events and past continuous for the background",
+      "Past perfect for what came earlier",
+      "Two anecdote expressions (out of the blue, it dawned on me...)",
+      "Emotional reaction (taken aback, caught off guard)",
+      "Close with to cut a long story short or looking back"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Discuss how reliable first impressions are, and how people adapt to a new place or job.",
+     "questions": [
+      "Do you think first impressions are reliable? Why or why not?",
+      "When did you last have to get used to something new?",
+      "What helped you get used to it?",
+      "What did you use to find difficult that now feels natural?"
+     ],
+     "model": "In my view, first impressions are useful but far from infallible. They tell you how someone behaves under pressure, which is rarely their best. When I moved to a new city, I wasn't used to the pace of life, and it took me months to get used to commuting two hours a day. I used to find it exhausting; now I'm quite used to it, and I even use the time to read.",
+     "checklist": [
+      "Be used to / get used to + -ing or noun",
+      "Used to + base for a past habit",
+      "Nuanced opinion (far from, tend to, in my view)",
+      "Clear past–present contrast"
+     ]
+    }
+   ],
+   "repeat": [
+    "She struck me as rather reserved at first.",
+    "I had been waiting for nearly an hour.",
+    "It took me months to get used to the climate.",
+    "He's not exactly the most punctual person.",
+    "As it turned out, we had a lot in common.",
+    "Don't judge a book by its cover."
+   ]
+  }
+ }
+}

@@ -1,0 +1,1941 @@
+{
+ "id": "u-c2-07",
+ "level": "C2",
+ "n": 7,
+ "title": "The Letter and the Spirit",
+ "goals": [
+  "Express counterfactual conditions with formal precision: Were it not for, Had it not been for, But for, Should and Were to.",
+  "Master the complex passive structures used in legal and journalistic discourse (is alleged to have been, is being investigated, must be seen to be).",
+  "Express obligation, entitlement and responsibility with the exact preposition and modal (entitled to, liable for, bound by, notwithstanding).",
+  "Handle legal and ethical vocabulary: liability, precedent, accountable, impartial, whistleblower.",
+  "Negotiate and argue in formal contexts: setting conditions, conceding, rejecting and marking limits politely.",
+  "Write an argumentative text and a formal email with a mastery-level register and cohesion."
+ ],
+ "learn": [
+  {
+   "id": "g-formal-conditionals",
+   "kind": "grammar",
+   "title": "Formal conditionals: Were it not for, Had it not been for, But for",
+   "html": "<p>In formal register (legal writing, reports, speeches) a condition is often expressed <strong>without <em>if</em></strong>. These forms correspond to the Spanish “de no ser por…”, “de no haber sido por…” and “a no ser por…”, and all of them express a condition <strong>contrary to fact</strong>: something exists (or existed), so the hypothetical result does not happen.</p><table><thead><tr><th>Formula</th><th>Referencia</th><th>Ejemplo</th><th>Equivalent with if</th></tr></thead><tbody><tr><td><strong>Were it not for</strong> + noun</td><td>presente / general</td><td>Were it not for the audit, the fraud would continue.</td><td>If it weren't for the audit…</td></tr><tr><td><strong>Had it not been for</strong> + noun</td><td>past</td><td>Had it not been for her testimony, he would have been convicted.</td><td>If it hadn't been for her testimony…</td></tr><tr><td><strong>But for</strong> + noun</td><td>present or past (the main verb tells you which)</td><td>But for the appeal, he would be in prison. / But for the appeal, he would have served the full term.</td><td>If it weren't / hadn't been for…</td></tr></tbody></table><ul><li><strong>But for</strong> only takes a noun phrase (or a gerund with a subject: <em>But for there being a loophole…</em>, very formal); never a clause with a conjugated verb.</li><li>In inversion the negation is <strong>never contracted</strong>: <em>Were it not for</em>, not <em>Weren't it for</em>.</li><li>Other high-register conditional connectors: <strong>provided (that) / providing (that) / so long as / on condition that</strong> (restrictive, meaning “as long as”), <strong>unless</strong> (“unless”, = <em>if … not</em>), <strong>supposing / suppose / imagine (that)</strong> (hypothesis, often with a question in the main clause), <strong>in the event of / that</strong> (“in the event of”) and <strong>otherwise</strong> (“otherwise”).</li><li><strong>Unless</strong> already contains the negation: you do not say <em>unless … not</em>. It is also not usually used in past counterfactual conditions, where <em>if … not</em> is more natural.</li></ul>",
+   "watch": [
+    {
+     "wrong": "If it wouldn't be for your testimony, he'd be convicted.",
+     "right": "Were it not for your testimony, he would be convicted.",
+     "why": "Never use would in the if-clause; the inversion Were it not for (or If it weren't for) expresses the idea of “if it weren't for”."
+    },
+    {
+     "wrong": "Weren't it for the appeal, he would be in prison.",
+     "right": "Were it not for the appeal, he would be in prison.",
+     "why": "In formal inversion the negation is not contracted: Were it not for."
+    },
+    {
+     "wrong": "But for the witness lied, the case would have collapsed.",
+     "right": "But for the witness's lie, the case would have collapsed.",
+     "why": "But for requires a noun phrase, not a clause with a conjugated verb."
+    },
+    {
+     "wrong": "Unless you don't sign, the offer will expire.",
+     "right": "Unless you sign, the offer will expire.",
+     "why": "Unless already means if … not. In Spanish “a menos que no firmes” is fine, but in English the double negative is an error."
+    }
+   ]
+  },
+  {
+   "id": "g-inverted-conditionals",
+   "kind": "grammar",
+   "title": "Should, Were to and Had: inversion without if",
+   "html": "<p>The three auxiliaries can take the place of <em>if</em> and move in front of the subject. The result is more formal and more concise, typical of contracts, letters and official statements.</p><table><thead><tr><th>Estructura</th><th>Sentido</th><th>Ejemplo</th></tr></thead><tbody><tr><td><strong>Should</strong> + subject + base verb</td><td>a remote possibility; the main clause allows the imperative, will, may</td><td>Should you require further information, please contact our legal department.</td></tr><tr><td><strong>Were</strong> + subject + <strong>to</strong> + base verb</td><td>an improbable or tentative hypothesis (future)</td><td>Were the court to rule against us, we would appeal at once.</td></tr><tr><td><strong>Had</strong> + subject + past participle</td><td>an unreal past condition</td><td>Had we known about the clause, we would never have signed.</td></tr><tr><td><strong>Were</strong> + subject + adjective/noun</td><td>an unreal present condition with be</td><td>Were the penalty proportionate, nobody would object.</td></tr></tbody></table><p><strong>Negativas:</strong> the particle <em>not</em> goes after the subject: <em>Had they not disclosed the risks…</em>; <em>Should he not comply…</em>. Contraction (<em>Hadn't they…</em>) is possible, but informal and unnatural in this register.</p><p><strong>Matiz:</strong> <em>If you should need help</em> and <em>Should you need help</em> mean the same thing, but with <em>should</em> the speaker implies that the possibility is small and the offer is a courtesy. With <em>were to</em> it suggests that the situation is unlikely; <em>If the court rules against us</em> it presents it as a real possibility.</p>",
+   "watch": [
+    {
+     "wrong": "Should you will need assistance, call us.",
+     "right": "Should you need assistance, call us.",
+     "why": "After Should + subject comes the base verb, without will."
+    },
+    {
+     "wrong": "Were the court ruled against us, we would appeal.",
+     "right": "Were the court to rule against us, we would appeal.",
+     "why": "With future hypotheses: Were + subject + to + base verb."
+    },
+    {
+     "wrong": "Had we not knew the risks, we would have refused.",
+     "right": "Had we not known the risks, we would have refused.",
+     "why": "Had + subject + past participle (known)."
+    },
+    {
+     "wrong": "Hadn't they disclosed the risks, the deal would have failed.",
+     "right": "Had they not disclosed the risks, the deal would have failed.",
+     "why": "In formal inversion not goes after the subject; the contracted form sounds colloquial and odd."
+    }
+   ]
+  },
+  {
+   "id": "g-complex-passives",
+   "kind": "grammar",
+   "title": "Complex passives in legal and formal discourse",
+   "html": "<p>The passive is the central resource of formal English because it allows the agent to be <strong>omitted or backgrounded</strong> (when it is unknown, unimportant, or better left unnamed) and new information to be placed at the end. Beyond <em>was built by</em>, C2 requires mastery of these structures:</p><table><thead><tr><th>Estructura</th><th>Ejemplo</th><th>Nota</th></tr></thead><tbody><tr><td>Verb of opinion/rumour + <strong>to be / to have been</strong></td><td>The defendant is alleged to have forged the signature.</td><td>said, believed, thought, reported, alleged, known, understood, expected. <em>To have been</em> = an event prior to the moment of speaking.</td></tr><tr><td>Impersonal version with it</td><td>It is alleged that the company concealed the defects.</td><td>Same information; more distance.</td></tr><tr><td>Continuous passive</td><td>The documents are being examined. / The case was being heard when the verdict came.</td><td>Ongoing process; <em>is investigating</em> by <em>is being investigated</em> is a frequent mistake.</td></tr><tr><td>Modal + be / have been + past participle</td><td>Justice must not only be done but be seen to be done. / The clause ought to have been disclosed.</td><td>Obligation, deduction and criticism in the passive.</td></tr><tr><td>Passive gerund: being / having been + past participle</td><td>He denies having been informed of his rights. She feared being sued.</td><td>After prepositions and verbs such as deny, avoid, risk, resent.</td></tr><tr><td>Dos objetos</td><td>The claimant was awarded damages. / Damages were awarded to the claimant.</td><td>Both objects can become the subject; the first is the more natural choice.</td></tr><tr><td>get-passive</td><td>Two executives got fined. / He got sued for negligence.</td><td>Informal; it usually implies an adverse or unexpected event.</td></tr><tr><td>Causative have / get + object + past participle</td><td>We had the contract reviewed by an independent lawyer.</td><td>To arrange a service, or to suffer something: <em>She had her licence revoked.</em></td></tr></tbody></table><p><strong>Watch out with suggest, propose, recommend, insist:</strong> they do not take a personal subject + <em>to</em>. One says <em>It was suggested that he settle</em> or <em>It was recommended that the matter be referred to arbitration</em> (mandative subjunctive or <em>should</em>).</p>",
+   "watch": [
+    {
+     "wrong": "The suspect is said having fled the country.",
+     "right": "The suspect is said to have fled the country.",
+     "why": "After is said/believed/alleged comes to + infinitive (perfect if the event is earlier)."
+    },
+    {
+     "wrong": "The case is investigating by the police.",
+     "right": "The case is being investigated by the police.",
+     "why": "Ongoing process in the passive: is being + past participle."
+    },
+    {
+     "wrong": "He was suggested to settle out of court.",
+     "right": "It was suggested that he settle out of court.",
+     "why": "Suggest does not take person + to; use it + that-clause."
+    },
+    {
+     "wrong": "The director is believed that he forged the documents.",
+     "right": "The director is believed to have forged the documents.",
+     "why": "Or else: It is believed that the director forged…; the two structures are not mixed."
+    }
+   ]
+  },
+  {
+   "id": "g-formal-obligation",
+   "kind": "grammar",
+   "title": "Obligation, permission and responsibility in formal register",
+   "html": "<p>Contracts, regulations and rulings encode obligations and rights with very precise modal and prepositional vocabulary. A wrong preposition or modal can change the legal meaning.</p><table><thead><tr><th>Function</th><th>Expression</th><th>Ejemplo</th></tr></thead><tbody><tr><td>Obligation (contractual)</td><td><strong>shall</strong>, is/are to, be required / obliged / bound to</td><td>The tenant shall pay rent monthly. Applications are to be submitted in writing.</td></tr><tr><td>Prohibition</td><td><strong>must not / shall not / may not</strong>, be prohibited from</td><td>Tenants may not sublet the property without written consent.</td></tr><tr><td>Absence of obligation</td><td><strong>needn't / don't have to / is not required to</strong></td><td>You needn't resubmit the form.</td></tr><tr><td>Derecho</td><td><strong>be entitled to</strong> + noun / verb</td><td>The buyer is entitled to a full refund.</td></tr><tr><td>Responsabilidad</td><td><strong>be liable for</strong>, be responsible for, be accountable to (someone) for (something)</td><td>Directors can be held liable for losses caused by negligence.</td></tr><tr><td>Binding</td><td><strong>be bound by</strong>, be subject to</td><td>All parties are bound by the terms of the agreement.</td></tr><tr><td>Salvedad</td><td><strong>notwithstanding</strong>, subject to, save for, except as provided</td><td>Notwithstanding the foregoing, the supplier remains liable for latent defects.</td></tr></tbody></table><ul><li><strong>Shall</strong> in legal English does not express the future, but obligation or instruction (<em>The Company shall indemnify…</em>). In everyday English it survives mostly in <em>Shall we…?</em></li><li><strong>Mustn't</strong> prohibits; <strong>needn't</strong> / <strong>don't have to</strong> indicate that there is no obligation. The Spanish “no debes” has only one meaning, which is why the mistake <em>you don't must</em> is so common.</li><li><strong>Notwithstanding</strong> is a formal preposition/connector: <em>notwithstanding the delay</em>, or it can go after: <em>the delay notwithstanding</em>. Does not exist <em>notwithstanding of</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "Participants mustn't to disclose the terms.",
+     "right": "Participants mustn't disclose the terms.",
+     "why": "Modals do not take to."
+    },
+    {
+     "wrong": "The buyer is entitled of a refund.",
+     "right": "The buyer is entitled to a refund.",
+     "why": "Be entitled to."
+    },
+    {
+     "wrong": "The company is responsible of any damage.",
+     "right": "The company is responsible for any damage.",
+     "why": "Responsible/liable for: the preposition is for, not of."
+    },
+    {
+     "wrong": "You don't must disclose confidential data.",
+     "right": "You mustn't disclose confidential data.",
+     "why": "To prohibit: mustn't. “Don't have to” only expresses absence of obligation."
+    }
+   ]
+  },
+  {
+   "id": "v-law",
+   "kind": "vocab",
+   "title": "Law: the courtroom and the contract",
+   "words": [
+    {
+     "id": "w-liability",
+     "en": "liability",
+     "es": "responsabilidad legal (civil o penal); a menudo también «pasivo»",
+     "example": "The firm accepted no liability for the delay."
+    },
+    {
+     "id": "w-precedent",
+     "en": "precedent",
+     "es": "precedente judicial",
+     "example": "The ruling set a precedent for similar claims.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-claimant",
+     "en": "claimant / plaintiff",
+     "es": "demandante (claimant en el Reino Unido, plaintiff en EE. UU.)",
+     "example": "The claimant is seeking compensation for lost earnings."
+    },
+    {
+     "id": "w-defendant",
+     "en": "defendant",
+     "es": "demandado/a; acusado/a",
+     "example": "The defendant pleaded not guilty."
+    },
+    {
+     "id": "w-verdict",
+     "en": "verdict",
+     "es": "veredicto (del jurado)",
+     "example": "The jury returned a unanimous verdict.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-ruling",
+     "en": "ruling",
+     "es": "fallo, resolución judicial",
+     "example": "The ruling is expected on Friday.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-statute",
+     "en": "statute",
+     "es": "ley, norma con rango de ley",
+     "example": "The statute prohibits discrimination in hiring."
+    },
+    {
+     "id": "w-jurisdiction",
+     "en": "jurisdiction",
+     "es": "jurisdicción, competencia territorial",
+     "example": "The matter falls outside the court's jurisdiction.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-breach",
+     "en": "breach of contract",
+     "es": "incumplimiento de contrato",
+     "example": "Late delivery constitutes a breach of contract.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-damages",
+     "en": "damages",
+     "es": "indemnización por daños (plural; damage = daño material)",
+     "example": "She was awarded substantial damages.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-injunction",
+     "en": "injunction",
+     "es": "requerimiento judicial, medida cautelar",
+     "example": "The court granted an injunction to stop publication."
+    },
+    {
+     "id": "w-testimony",
+     "en": "testimony",
+     "es": "testimonio ante el tribunal",
+     "example": "His testimony was inconsistent.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-burden-of-proof",
+     "en": "burden of proof",
+     "es": "carga de la prueba",
+     "example": "In a criminal trial, the burden of proof lies with the prosecution.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-due-process",
+     "en": "due process",
+     "es": "debido proceso",
+     "example": "Denying him a hearing violated due process.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-settle-out-of-court",
+     "en": "settle out of court",
+     "es": "llegar a un acuerdo extrajudicial",
+     "example": "Both parties preferred to settle out of court.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-acquit-convict",
+     "en": "acquit / convict",
+     "es": "absolver / declarar culpable",
+     "example": "She was acquitted of all charges; he was convicted of fraud.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-loophole",
+     "en": "loophole",
+     "es": "laguna legal, resquicio",
+     "example": "Lawyers exploited a loophole in the tax code."
+    },
+    {
+     "id": "w-lodge-appeal",
+     "en": "lodge an appeal",
+     "es": "interponer un recurso",
+     "example": "They lodged an appeal against the sentence.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "v-ethics",
+   "kind": "vocab",
+   "title": "Ethics, integrity and fairness",
+   "words": [
+    {
+     "id": "w-accountable",
+     "en": "accountable (to sb) for sth",
+     "es": "responsable ante alguien, obligado a rendir cuentas",
+     "example": "Officials must be accountable to the public for how they spend taxpayers' money.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-accountability",
+     "en": "accountability",
+     "es": "rendición de cuentas",
+     "example": "The scandal revealed a lack of accountability at the top.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-impartial",
+     "en": "impartial",
+     "es": "imparcial",
+     "example": "A judge must remain impartial."
+    },
+    {
+     "id": "w-bias",
+     "en": "bias / biased",
+     "es": "sesgo / parcial, sesgado",
+     "example": "The report was criticised for its obvious bias.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-integrity",
+     "en": "integrity",
+     "es": "integridad",
+     "example": "Her integrity was never in question.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-conflict-of-interest",
+     "en": "conflict of interest",
+     "es": "conflicto de intereses",
+     "example": "He should have declared a conflict of interest.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-whistleblower",
+     "en": "whistleblower",
+     "es": "denunciante interno (de irregularidades)",
+     "example": "The whistleblower exposed years of falsified safety data."
+    },
+    {
+     "id": "w-transparency",
+     "en": "transparency",
+     "es": "transparencia",
+     "example": "Voters demand greater transparency in party funding.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-equity",
+     "en": "equity",
+     "es": "equidad (≠ equality: igualdad)",
+     "example": "Equity means giving people what they need, not the same for everyone.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-negligence",
+     "en": "negligence",
+     "es": "negligencia",
+     "example": "The hospital was found guilty of negligence."
+    },
+    {
+     "id": "w-culpable",
+     "en": "culpable",
+     "es": "culpable, censurable (más moral que penal)",
+     "example": "The company is culpable of ignoring repeated warnings."
+    },
+    {
+     "id": "w-deterrent",
+     "en": "deterrent",
+     "es": "elemento disuasorio",
+     "example": "Heavy fines act as a deterrent."
+    },
+    {
+     "id": "w-proportionate",
+     "en": "proportionate",
+     "es": "proporcionado",
+     "example": "The punishment was not proportionate to the offence."
+    },
+    {
+     "id": "w-uphold",
+     "en": "uphold",
+     "es": "confirmar (un fallo), defender (un principio)",
+     "example": "The appeal court upheld the original sentence.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-impunity",
+     "en": "impunity",
+     "es": "impunidad",
+     "example": "Corruption flourishes where officials act with impunity."
+    },
+    {
+     "id": "w-double-standard",
+     "en": "double standard",
+     "es": "doble rasero",
+     "example": "It is a double standard to punish small firms and excuse large ones.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-level-playing-field",
+     "en": "level playing field",
+     "es": "igualdad de condiciones",
+     "example": "Regulation should create a level playing field for competitors.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "v-negotiation",
+   "kind": "vocab",
+   "title": "Negotiating and arguing in formal contexts",
+   "words": [
+    {
+     "id": "w-concede-point",
+     "en": "concede a point",
+     "es": "conceder un punto, reconocer que el otro tiene razón en algo",
+     "example": "I'll concede that point, but the conclusion doesn't follow.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-reach-compromise",
+     "en": "reach a compromise",
+     "es": "llegar a un acuerdo transaccional",
+     "example": "After hours of talks, they reached a compromise.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-meet-halfway",
+     "en": "meet sb halfway",
+     "es": "llegar a un punto medio, ceder a cambio",
+     "example": "We are willing to meet you halfway on the deadline.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-bargaining-chip",
+     "en": "bargaining chip",
+     "es": "carta de negociación",
+     "example": "Early payment was their main bargaining chip.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-non-negotiable",
+     "en": "non-negotiable",
+     "es": "innegociable",
+     "example": "Safety standards are non-negotiable."
+    },
+    {
+     "id": "w-sticking-point",
+     "en": "sticking point",
+     "es": "punto de fricción, escollo",
+     "example": "Pay remains the main sticking point.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-table-proposal",
+     "en": "table a proposal",
+     "es": "presentar una propuesta (en EE. UU. suele significar «posponerla»: cuidado)",
+     "example": "The delegation tabled a proposal on Monday.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-hammer-out",
+     "en": "hammer out an agreement",
+     "es": "negociar con esfuerzo hasta cerrar un acuerdo",
+     "example": "They hammered out an agreement after a marathon session.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-give-ground",
+     "en": "give ground",
+     "es": "ceder terreno",
+     "example": "The union refused to give ground on redundancies.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-hold-out-for",
+     "en": "hold out for",
+     "es": "mantenerse firme esperando conseguir algo",
+     "example": "She held out for a better offer.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-go-back-on-word",
+     "en": "go back on your word",
+     "es": "faltar a la palabra dada",
+     "example": "He went back on his word at the last minute.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-take-firm-line",
+     "en": "take a firm line",
+     "es": "adoptar una postura firme",
+     "example": "The regulator has taken a firm line with offenders.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-binding",
+     "en": "binding / legally binding",
+     "es": "vinculante",
+     "example": "The arbitrator's decision is binding on both parties.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-subject-to-contract",
+     "en": "subject to contract",
+     "es": "sujeto a la firma de contrato",
+     "example": "The offer is accepted subject to contract.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-mediate",
+     "en": "mediate / arbitration",
+     "es": "mediar / arbitraje",
+     "example": "A neutral party mediated between the two sides."
+    },
+    {
+     "id": "w-reservations",
+     "en": "have reservations about",
+     "es": "tener reservas sobre",
+     "example": "We have reservations about the third clause.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "e-negotiating",
+   "kind": "expressions",
+   "title": "Formulas for negotiating and arguing precisely",
+   "html": "<ul><li><strong>I would be prepared to … provided that …</strong> — offering a conditional concession: <em>I would be prepared to extend the deadline, provided that payment is made in full.</em></li><li><strong>Were you to accept …, we would be willing to …</strong> — proposing an exchange tentatively and politely.</li><li><strong>Should this prove unacceptable, …</strong> — anticipating a refusal without dramatising it.</li><li><strong>We are not in a position to …</strong> — rejecting firmly and without aggression: <em>We are not in a position to waive the penalty.</em></li><li><strong>I take your point, but …</strong> / <strong>With respect, …</strong> — disagreeing politely; <em>with respect</em> often signals a strong disagreement.</li><li><strong>That said, …</strong> / <strong>Having said that, …</strong> — qualifying what has just been conceded.</li><li><strong>Let me put it differently.</strong> — rephrasing to avoid a misunderstanding.</li><li><strong>Subject to …</strong> / <strong>On the understanding that …</strong> — making an agreement conditional on a prior requirement.</li><li><strong>Without prejudice to …</strong> — “without prejudice to…”: not giving up a right while making a concession.</li><li><strong>In the interests of fairness, …</strong> — introducing a demand for fairness.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Were it not for / Had it not been for / But for",
+   "instructions": "Complete or correct with the appropriate formal conditional structure.",
+   "topic": "g-formal-conditionals",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "___ it not for the whistleblower, the fraud would still be undetected.",
+     "answers": [
+      "Were"
+     ],
+     "explain": "Present unreal condition without if: Were it not for."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "___ it not been for her testimony, he would have been convicted.",
+     "answers": [
+      "Had"
+     ],
+     "explain": "Unreal past condition: Had it not been for."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "___ for the lawyer's quick thinking, the deal would have collapsed.",
+     "answers": [
+      "But"
+     ],
+     "explain": "But for + noun: “were it not for”."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "___ the new evidence, the appeal would have failed.",
+     "options": [
+      "But for",
+      "But if",
+      "Unless"
+     ],
+     "answer": 0,
+     "explain": "But for + noun (the new evidence)."
+    },
+    {
+     "id": "A5",
+     "type": "fix",
+     "prompt": "If it wouldn't be for the contract, we couldn't sue.",
+     "answers": [
+      "Were it not for the contract, we couldn't sue.",
+      "Were it not for the contract, we could not sue.",
+      "If it weren't for the contract, we couldn't sue.",
+      "If it weren't for the contract, we could not sue.",
+      "But for the contract, we couldn't sue.",
+      "But for the contract, we could not sue."
+     ],
+     "explain": "Never would in the conditional clause; use Were it not for or If it weren't for."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "Weren't it for the appeal, he would be in prison now.",
+     "answers": [
+      "Were it not for the appeal, he would be in prison now.",
+      "If it weren't for the appeal, he would be in prison now.",
+      "But for the appeal, he would be in prison now."
+     ],
+     "explain": "In formal inversion the negation is not contracted: Were it not for."
+    },
+    {
+     "id": "A7",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Had",
+      "it",
+      "not",
+      "been",
+      "for",
+      "the",
+      "audit",
+      "the",
+      "fraud",
+      "would",
+      "have",
+      "gone",
+      "unnoticed"
+     ],
+     "answers": [
+      "Had it not been for the audit, the fraud would have gone unnoticed."
+     ],
+     "explain": "Had it not been for + noun, would have + past participle."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Should, Were to, Had and other connectors",
+   "instructions": "Choose, complete or correct. Pay attention to the formal register.",
+   "topic": "g-inverted-conditionals",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "___ you require further information, please contact our legal department.",
+     "answers": [
+      "Should"
+     ],
+     "explain": "Remote possibility and politeness: Should + subject + base verb."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "___ the court to rule against us, we would appeal at once.",
+     "answers": [
+      "Were"
+     ],
+     "explain": "Improbable future hypothesis: Were + subject + to + verb."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "___ we known about the clause, we would never have signed.",
+     "answers": [
+      "Had"
+     ],
+     "explain": "Unreal past condition: Had + subject + past participle."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "We will sign the agreement ___ the penalties are reduced.",
+     "options": [
+      "unless",
+      "provided that",
+      "supposing"
+     ],
+     "answer": 1,
+     "explain": "Provided that = “as long as”: restrictive condition."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "You will forfeit the deposit ___ you give 30 days' notice.",
+     "options": [
+      "unless",
+      "providing",
+      "in case of"
+     ],
+     "answer": 0,
+     "explain": "Unless = if … not: you will lose the deposit unless you give notice."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "Unless you don't pay by Friday, the contract will be terminated.",
+     "answers": [
+      "Unless you pay by Friday, the contract will be terminated.",
+      "Unless you pay by Friday, the contract will be cancelled.",
+      "If you don't pay by Friday, the contract will be terminated.",
+      "If you don't pay by Friday, the contract will be cancelled."
+     ],
+     "explain": "Unless already implies negation: it does not combine with don't."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "Should you will need assistance, call us.",
+     "answers": [
+      "Should you need assistance, call us.",
+      "Should you need assistance, please call us."
+     ],
+     "explain": "After Should + subject, base verb without will."
+    },
+    {
+     "id": "B8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Supposing",
+      "the",
+      "judge",
+      "rejected",
+      "your",
+      "argument",
+      "what",
+      "would",
+      "you",
+      "do"
+     ],
+     "answers": [
+      "Supposing the judge rejected your argument, what would you do?"
+     ],
+     "explain": "Supposing + past, would + base verb in the main clause."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Complex passives",
+   "instructions": "Complete, choose or correct using the appropriate passive structure.",
+   "topic": "g-complex-passives",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "The defendant is alleged ___ have forged the signature.",
+     "answers": [
+      "to"
+     ],
+     "explain": "Is alleged + to have + past participle."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "The documents are currently ___ examined by independent experts.",
+     "answers": [
+      "being"
+     ],
+     "explain": "Continuous passive: are being + past participle."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "He denies ___ been informed of his rights.",
+     "answers": [
+      "having"
+     ],
+     "explain": "Perfect passive gerund: having been + past participle."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "The minister is reported ___ the bill.",
+     "options": [
+      "to have blocked",
+      "having blocked",
+      "that blocked"
+     ],
+     "answer": 0,
+     "explain": "Is reported + to have + past participle (earlier event)."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "It is widely believed ___ the firm knew about the defect.",
+     "options": [
+      "that",
+      "to",
+      "for"
+     ],
+     "answer": 0,
+     "explain": "It is believed + that-clause."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "The suspect is believed having left the country.",
+     "answers": [
+      "The suspect is believed to have left the country."
+     ],
+     "explain": "Is believed + to have + past participle."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "The case is investigating by the authorities.",
+     "answers": [
+      "The case is being investigated by the authorities."
+     ],
+     "explain": "Continuous passive: is being investigated."
+    },
+    {
+     "id": "C8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Justice",
+      "must",
+      "not",
+      "only",
+      "be",
+      "done",
+      "but",
+      "be",
+      "seen",
+      "to",
+      "be",
+      "done"
+     ],
+     "answers": [
+      "Justice must not only be done but be seen to be done."
+     ],
+     "explain": "Modal + be + past participle, with parallel coordination."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Obligation, rights and responsibility",
+   "instructions": "Complete, choose or correct in formal register.",
+   "topic": "g-formal-obligation",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "Tenants ___ not sublet the property without written consent.",
+     "answers": [
+      "shall",
+      "may",
+      "must"
+     ],
+     "explain": "Contractual prohibition: shall not / may not / must not."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "The buyer is entitled ___ a full refund.",
+     "options": [
+      "to",
+      "of",
+      "for"
+     ],
+     "answer": 0,
+     "explain": "Be entitled to."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "Directors can be held liable ___ losses caused by negligence.",
+     "options": [
+      "for",
+      "of",
+      "to"
+     ],
+     "answer": 0,
+     "explain": "Liable for."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "You ___ resubmit the form; we already have a copy.",
+     "options": [
+      "mustn't",
+      "needn't",
+      "shan't"
+     ],
+     "answer": 1,
+     "explain": "Needn't = it is not necessary; mustn't = it is forbidden."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "All parties are ___ by the terms of the agreement.",
+     "answers": [
+      "bound"
+     ],
+     "explain": "Be bound by = be legally bound to."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "Participants mustn't to disclose the terms.",
+     "answers": [
+      "Participants mustn't disclose the terms.",
+      "Participants must not disclose the terms.",
+      "Participants shall not disclose the terms.",
+      "Participants may not disclose the terms."
+     ],
+     "explain": "Modals do not take to."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "The company is responsible of any damage.",
+     "answers": [
+      "The company is responsible for any damage.",
+      "The company is liable for any damage."
+     ],
+     "explain": "Responsible/liable for."
+    },
+    {
+     "id": "D8",
+     "type": "choice",
+     "prompt": "___ the foregoing, the supplier remains liable for defects.",
+     "options": [
+      "Notwithstanding",
+      "Despite of",
+      "Although"
+     ],
+     "answer": 0,
+     "explain": "Notwithstanding + noun phrase; despite takes no of."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Legal vocabulary",
+   "instructions": "Complete with the appropriate legal word.",
+   "topic": "v-law",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "The jury reached a unanimous ___ after two days.",
+     "answers": [
+      "verdict"
+     ],
+     "explain": "Verdict = the jury's decision."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "The firm denied ___ for the accident.",
+     "answers": [
+      "liability"
+     ],
+     "explain": "Deny liability = negar responsabilidad."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "The judge's decision sets an important ___ for future cases.",
+     "answers": [
+      "precedent"
+     ],
+     "explain": "Set a precedent."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "The court issued an ___ forbidding the company from selling the product.",
+     "answers": [
+      "injunction"
+     ],
+     "explain": "Injunction = medida cautelar."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "The ___ claims that the contract was breached.",
+     "answers": [
+      "claimant",
+      "plaintiff"
+     ],
+     "explain": "Claimant/plaintiff = parte demandante."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "Both parties preferred to ___ out of court.",
+     "answers": [
+      "settle"
+     ],
+     "explain": "Settle out of court."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "She was ___ of all charges after the jury deliberated.",
+     "answers": [
+      "acquitted"
+     ],
+     "explain": "Acquit = absolver."
+    },
+    {
+     "id": "E8",
+     "type": "gap",
+     "prompt": "He lodged an ___ against the sentence.",
+     "answers": [
+      "appeal"
+     ],
+     "explain": "Lodge an appeal."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Ethics and negotiation",
+   "instructions": "Complete, choose or correct.",
+   "topic": "v-ethics",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "A person who exposes wrongdoing inside an organisation is a ___.",
+     "options": [
+      "whistleblower",
+      "bystander",
+      "claimant"
+     ],
+     "answer": 0,
+     "explain": "Whistleblower = denunciante interno."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "A judge with a financial stake in a case has a ___ of interest.",
+     "answers": [
+      "conflict"
+     ],
+     "explain": "Conflict of interest."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "Officials must be ___ to the public for how they spend taxpayers' money.",
+     "answers": [
+      "accountable"
+     ],
+     "explain": "Accountable to sb for sth."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "Giving extra support to those who start at a disadvantage promotes ___.",
+     "options": [
+      "equity",
+      "uniformity",
+      "impunity"
+     ],
+     "answer": 0,
+     "explain": "Equity = fairness; not identical equality."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "After weeks of talks, both sides agreed to meet ___.",
+     "answers": [
+      "halfway"
+     ],
+     "explain": "Meet sb halfway."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "The pay structure remains the main sticking ___ in the negotiations.",
+     "answers": [
+      "point"
+     ],
+     "explain": "Sticking point = escollo."
+    },
+    {
+     "id": "F7",
+     "type": "fix",
+     "prompt": "The minister went back of his word.",
+     "answers": [
+      "The minister went back on his word."
+     ],
+     "explain": "Go back on your word."
+    },
+    {
+     "id": "F8",
+     "type": "choice",
+     "prompt": "Both sides must be willing to ___ a point if they hope to reach an agreement.",
+     "options": [
+      "concede",
+      "confess",
+      "convict"
+     ],
+     "answer": 0,
+     "explain": "Concede a point."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Were",
+      "it",
+      "not",
+      "for",
+      "the",
+      "evidence",
+      "the",
+      "case",
+      "would",
+      "collapse"
+     ],
+     "answers": [
+      "Were it not for the evidence, the case would collapse."
+     ],
+     "explain": "Were it not for + noun."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Should",
+      "you",
+      "wish",
+      "to",
+      "appeal",
+      "you",
+      "must",
+      "do",
+      "so",
+      "within",
+      "28",
+      "days"
+     ],
+     "answers": [
+      "Should you wish to appeal, you must do so within 28 days."
+     ],
+     "explain": "Should + subject + base verb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "He",
+      "is",
+      "alleged",
+      "to",
+      "have",
+      "concealed",
+      "the",
+      "documents"
+     ],
+     "answers": [
+      "He is alleged to have concealed the documents."
+     ],
+     "explain": "Is alleged + to have + past participle."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "The",
+      "contract",
+      "is",
+      "being",
+      "reviewed",
+      "by",
+      "our",
+      "lawyers"
+     ],
+     "answers": [
+      "The contract is being reviewed by our lawyers."
+     ],
+     "explain": "Continuous passive."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Had",
+      "they",
+      "disclosed",
+      "the",
+      "risks",
+      "the",
+      "investors",
+      "would",
+      "have",
+      "withdrawn"
+     ],
+     "answers": [
+      "Had they disclosed the risks, the investors would have withdrawn."
+     ],
+     "explain": "Had + subject + past participle."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "The",
+      "claimant",
+      "was",
+      "awarded",
+      "substantial",
+      "damages"
+     ],
+     "answers": [
+      "The claimant was awarded substantial damages."
+     ],
+     "explain": "Passive with two objects; damages is always plural."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English using the appropriate formal structure.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "De no ser por su testimonio, el acusado habría sido condenado.",
+     "answers": [
+      "Had it not been for his testimony, the defendant would have been convicted.",
+      "Had it not been for his testimony, the defendant would have been found guilty.",
+      "Had it not been for his testimony, the accused would have been convicted.",
+      "Had it not been for his testimony, the accused would have been found guilty.",
+      "But for his testimony, the defendant would have been convicted.",
+      "But for his testimony, the defendant would have been found guilty.",
+      "But for his testimony, the accused would have been convicted.",
+      "But for his testimony, the accused would have been found guilty.",
+      "If it hadn't been for his testimony, the defendant would have been convicted.",
+      "If it hadn't been for his testimony, the defendant would have been found guilty.",
+      "If it hadn't been for his testimony, the accused would have been convicted.",
+      "If it hadn't been for his testimony, the accused would have been found guilty.",
+      "If it had not been for his testimony, the defendant would have been convicted.",
+      "If it had not been for his testimony, the defendant would have been found guilty.",
+      "If it had not been for his testimony, the accused would have been convicted.",
+      "If it had not been for his testimony, the accused would have been found guilty."
+     ],
+     "explain": "Formal unreal past condition."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Se alega que la empresa ocultó los defectos del producto.",
+     "answers": [
+      "It is alleged that the company concealed the product's defects.",
+      "It is alleged that the company concealed the defects in the product.",
+      "It is alleged that the company hid the product's defects.",
+      "It is alleged that the company hid the defects in the product.",
+      "It is alleged that the company covered up the product's defects.",
+      "It is alleged that the company covered up the defects in the product.",
+      "It is alleged that the firm concealed the product's defects.",
+      "It is alleged that the firm concealed the defects in the product.",
+      "It is alleged that the firm hid the product's defects.",
+      "It is alleged that the firm hid the defects in the product.",
+      "It is alleged that the firm covered up the product's defects.",
+      "It is alleged that the firm covered up the defects in the product.",
+      "The company is alleged to have concealed the product's defects.",
+      "The company is alleged to have concealed the defects in the product.",
+      "The company is alleged to have hidden the product's defects.",
+      "The company is alleged to have hidden the defects in the product.",
+      "The company is alleged to have covered up the product's defects.",
+      "The company is alleged to have covered up the defects in the product.",
+      "The firm is alleged to have concealed the product's defects.",
+      "The firm is alleged to have concealed the defects in the product.",
+      "The firm is alleged to have hidden the product's defects.",
+      "The firm is alleged to have hidden the defects in the product.",
+      "The firm is alleged to have covered up the product's defects.",
+      "The firm is alleged to have covered up the defects in the product."
+     ],
+     "explain": "Impersonal passive or with to have + past participle."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Siempre y cuando se respeten los plazos, no habrá sanciones.",
+     "answers": [
+      "Provided that the deadlines are met, there will be no penalties.",
+      "Provided that the deadlines are met, there will be no sanctions.",
+      "Provided that the deadlines are observed, there will be no penalties.",
+      "Provided that the deadlines are observed, there will be no sanctions.",
+      "Provided that the deadlines are respected, there will be no penalties.",
+      "Provided that the deadlines are respected, there will be no sanctions.",
+      "Provided the deadlines are met, there will be no penalties.",
+      "Provided the deadlines are met, there will be no sanctions.",
+      "Provided the deadlines are observed, there will be no penalties.",
+      "Provided the deadlines are observed, there will be no sanctions.",
+      "Provided the deadlines are respected, there will be no penalties.",
+      "Provided the deadlines are respected, there will be no sanctions.",
+      "Providing that the deadlines are met, there will be no penalties.",
+      "Providing that the deadlines are met, there will be no sanctions.",
+      "Providing that the deadlines are observed, there will be no penalties.",
+      "Providing that the deadlines are observed, there will be no sanctions.",
+      "Providing that the deadlines are respected, there will be no penalties.",
+      "Providing that the deadlines are respected, there will be no sanctions.",
+      "As long as the deadlines are met, there will be no penalties.",
+      "As long as the deadlines are met, there will be no sanctions.",
+      "As long as the deadlines are observed, there will be no penalties.",
+      "As long as the deadlines are observed, there will be no sanctions.",
+      "As long as the deadlines are respected, there will be no penalties.",
+      "As long as the deadlines are respected, there will be no sanctions.",
+      "So long as the deadlines are met, there will be no penalties.",
+      "So long as the deadlines are met, there will be no sanctions.",
+      "So long as the deadlines are observed, there will be no penalties.",
+      "So long as the deadlines are observed, there will be no sanctions.",
+      "So long as the deadlines are respected, there will be no penalties.",
+      "So long as the deadlines are respected, there will be no sanctions."
+     ],
+     "explain": "Provided that / as long as + present; will in the main clause."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Si llegara a surgir algún conflicto, acudiremos al arbitraje.",
+     "answers": [
+      "Should a dispute arise, we will go to arbitration.",
+      "Should a dispute arise, we will turn to arbitration.",
+      "Should a dispute arise, we will resort to arbitration.",
+      "Should a dispute arise, we shall go to arbitration.",
+      "Should a dispute arise, we shall turn to arbitration.",
+      "Should a dispute arise, we shall resort to arbitration.",
+      "Should a conflict arise, we will go to arbitration.",
+      "Should a conflict arise, we will turn to arbitration.",
+      "Should a conflict arise, we will resort to arbitration.",
+      "Should a conflict arise, we shall go to arbitration.",
+      "Should a conflict arise, we shall turn to arbitration.",
+      "Should a conflict arise, we shall resort to arbitration.",
+      "Should any dispute arise, we will go to arbitration.",
+      "Should any dispute arise, we will turn to arbitration.",
+      "Should any dispute arise, we will resort to arbitration.",
+      "Should any dispute arise, we shall go to arbitration.",
+      "Should any dispute arise, we shall turn to arbitration.",
+      "Should any dispute arise, we shall resort to arbitration.",
+      "Should any conflict arise, we will go to arbitration.",
+      "Should any conflict arise, we will turn to arbitration.",
+      "Should any conflict arise, we will resort to arbitration.",
+      "Should any conflict arise, we shall go to arbitration.",
+      "Should any conflict arise, we shall turn to arbitration.",
+      "Should any conflict arise, we shall resort to arbitration.",
+      "Should a dispute arise, we'll go to arbitration.",
+      "Should a dispute arise, we'll turn to arbitration.",
+      "Should a dispute arise, we'll resort to arbitration.",
+      "Should a conflict arise, we'll go to arbitration.",
+      "Should a conflict arise, we'll turn to arbitration.",
+      "Should a conflict arise, we'll resort to arbitration.",
+      "Should any dispute arise, we'll go to arbitration.",
+      "Should any dispute arise, we'll turn to arbitration.",
+      "Should any dispute arise, we'll resort to arbitration.",
+      "Should any conflict arise, we'll go to arbitration.",
+      "Should any conflict arise, we'll turn to arbitration.",
+      "Should any conflict arise, we'll resort to arbitration."
+     ],
+     "explain": "Should + subject + base verb: remote possibility."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "El comité está siendo investigado por conflicto de intereses.",
+     "answers": [
+      "The committee is being investigated for a conflict of interest.",
+      "The committee is being investigated for conflicts of interest.",
+      "The committee is being investigated for conflict of interest."
+     ],
+     "explain": "Continuous passive + for."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Se espera que los tribunales actúen con imparcialidad.",
+     "answers": [
+      "The courts are expected to act impartially.",
+      "The courts are expected to act with impartiality.",
+      "Courts are expected to act impartially.",
+      "Courts are expected to act with impartiality."
+     ],
+     "explain": "Are expected + to + verb; impartially / with impartiality."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mixed practice",
+   "instructions": "Exercises covering all the topics in the unit. The last two review earlier units of the level (concessives and subjunctive).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "___ the loophole in the statute, the company would have been prosecuted.",
+     "options": [
+      "But for",
+      "Unless",
+      "Provided"
+     ],
+     "answer": 0,
+     "explain": "But for + noun: unreal condition."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "___ the board to approve the merger, shares would rise sharply.",
+     "answers": [
+      "Were"
+     ],
+     "explain": "Were + subject + to + verb: tentative hypothesis."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "The suspect is thought to be fleeing the country last week.",
+     "answers": [
+      "The suspect is thought to have fled the country last week.",
+      "The suspect is thought to have left the country last week."
+     ],
+     "explain": "Earlier event: to have + past participle, not to be + -ing."
+    },
+    {
+     "id": "M4",
+     "type": "gap",
+     "prompt": "The tenant is not ___ to pay for damage caused by normal wear and tear.",
+     "answers": [
+      "required",
+      "obliged",
+      "obligated",
+      "bound"
+     ],
+     "explain": "Be required / obliged to + verb."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "The union has said that safety standards are ___.",
+     "options": [
+      "non-negotiable",
+      "inconclusive",
+      "impartial"
+     ],
+     "answer": 0,
+     "explain": "Non-negotiable = innegociable."
+    },
+    {
+     "id": "M6",
+     "type": "translate",
+     "prompt": "Los demandantes recibieron una indemnización considerable.",
+     "answers": [
+      "The claimants were awarded substantial damages.",
+      "The claimants were awarded considerable damages.",
+      "The claimants were awarded significant damages.",
+      "The claimants were awarded large damages.",
+      "The plaintiffs were awarded substantial damages.",
+      "The plaintiffs were awarded considerable damages.",
+      "The plaintiffs were awarded significant damages.",
+      "The plaintiffs were awarded large damages.",
+      "The claimants received substantial damages.",
+      "The claimants received substantial compensation.",
+      "The claimants received considerable damages.",
+      "The claimants received considerable compensation.",
+      "The claimants received significant damages.",
+      "The claimants received significant compensation.",
+      "The claimants received large damages.",
+      "The claimants received large compensation.",
+      "The plaintiffs received substantial damages.",
+      "The plaintiffs received substantial compensation.",
+      "The plaintiffs received considerable damages.",
+      "The plaintiffs received considerable compensation.",
+      "The plaintiffs received significant damages.",
+      "The plaintiffs received significant compensation.",
+      "The plaintiffs received large damages.",
+      "The plaintiffs received large compensation."
+     ],
+     "explain": "Passive with two objects: damages (plural) / compensation."
+    },
+    {
+     "id": "M7",
+     "type": "fix",
+     "prompt": "You don't must reveal the source of the leak.",
+     "answers": [
+      "You mustn't reveal the source of the leak.",
+      "You must not reveal the source of the leak.",
+      "You needn't reveal the source of the leak.",
+      "You don't have to reveal the source of the leak."
+     ],
+     "explain": "Mustn't forbids; don't have to / needn't indicate absence of obligation."
+    },
+    {
+     "id": "M8",
+     "type": "choice",
+     "prompt": "Had the regulator acted sooner, the damage ___ avoided.",
+     "options": [
+      "would have been",
+      "would be",
+      "had been"
+     ],
+     "answer": 0,
+     "explain": "Unreal past conditional: would have been + past participle."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "Much as I ___ your concerns, I cannot support the proposal. (repaso Unidad 4)",
+     "answers": [
+      "sympathise",
+      "sympathize",
+      "understand",
+      "respect",
+      "appreciate",
+      "share"
+     ],
+     "explain": "Much as + present verb: emphatic concessive (“however much…”)."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "It is essential that every witness ___ the truth under oath. (repaso Unidad 4; tell)",
+     "answers": [
+      "tell"
+     ],
+     "explain": "Mandative subjunctive: that + subject + base verb, with no -s."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write an essay of 300 to 400 words: “Should the law prioritise fairness over consistency?” Present two positions, concede at least one point to the opposing view and argue for your own conclusion. Use at least two formal conditionals (Were it not for / Had … / Should … / But for), three complex passives (is alleged to have, is being, must be seen to be) and the legal and ethical vocabulary from the unit.",
+   "targets": [
+    "formal conditionals without if",
+    "complex passives",
+    "legal and ethical vocabulary",
+    "concession and rebuttal",
+    "cohesion and formal register"
+   ],
+   "checklist": [
+    "At least two correct formal conditionals (Were it not for / Had it not been for / Should you… / But for + noun)",
+    "Three complex passives (to have been, being + past participle, modal + be)",
+    "At least 6 words from the unit's vocabulary (liability, precedent, accountable, impartial…)",
+    "One point conceded to the opposing view (I concede that… / admittedly)",
+    "Clear structure: introduction, two positions, conclusion",
+    "Formal register with no colloquial contractions",
+    "Between 300 and 400 words"
+   ],
+   "model": "Should the law prioritise fairness over consistency? The question is as old as jurisprudence itself, and the answer is less obvious than either camp supposes.\n\nThe case for consistency is, at first sight, compelling. A legal system that treats like cases alike gives citizens predictability: they can plan their affairs, knowing that precedent will be respected and that no judge is free to decide according to personal preference. Were it not for this principle, the law would become arbitrary, and its authority would depend on the character of whoever happens to preside. Justice must not only be done but must be seen to be done, and it cannot be seen to be done if outcomes cannot be anticipated. Moreover, a judge who is alleged to have departed from established rules in order to reach a more congenial result is, rightly, held accountable.\n\nThe case for fairness is equally serious. Rules are written in general terms, yet cases are particular, and a rigid application of precedent can yield results that no reasonable person would call just. Had the courts of earlier centuries not been willing to soften harsh rules through equity, the law of contract would still be trapped in formalities that defeated the very bargains it was meant to protect. Fairness, on this view, is not the enemy of the law but its purpose, and consistency is merely its method.\n\nI concede that the second position carries risk. Admittedly, a judge who is permitted to override rules for the sake of fairness acquires considerable power, and the impartiality of the system may be compromised. It is also true that fairness is a contested value; what seems fair to a claimant may seem entirely unjust to a defendant.\n\nNevertheless, I conclude that fairness should prevail where the two genuinely conflict, provided that the departure is exceptional, openly reasoned and subject to appeal. Such decisions are being scrutinised more closely in modern systems, and they must be seen to be grounded in principle rather than sympathy. But for such safeguards, I would favour consistency without reservation. With them, the law can remain predictable in the ordinary case and humane in the extraordinary one. Liability should follow responsibility, not mere technicality."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a formal email of 300 to 400 words to the building manager on behalf of the neighbours: describe a dispute (noise, service charges, repairs), propose a solution and explain what will happen if it is not accepted. Use Provided that, Should…, Were … to and at least three negotiation formulas from the unit.",
+   "targets": [
+    "Should / Were to / Provided that",
+    "negotiation formulas",
+    "obligation and responsibility in formal register",
+    "formal passives"
+   ],
+   "checklist": [
+    "Formal greeting and sign-off",
+    "A conditional proposal with provided that or on condition that",
+    "One clause with Should… and another with Were … to",
+    "Three negotiation formulas (We are not in a position to…, I would be prepared to…, Without prejudice to…)",
+    "Correct prepositions (liable for, entitled to, bound by)",
+    "At least two formal passives",
+    "Between 300 and 400 words"
+   ],
+   "model": "Subject: Noise, service charges and repairs at Willow Court\n\nDear Mr Patel,\n\nI am writing on behalf of the residents of Willow Court regarding three matters that have remained unresolved for several months: excessive noise from the ground-floor unit, an increase in service charges, and outstanding repairs to the communal areas. We hope that they can be settled amicably.\n\nFirst, the noise. Since March, residents have been disturbed on most evenings by music from the commercial tenant, which continues well beyond the hours stipulated in the lease. Second, the service charges were raised by eighteen per cent in January without any itemised explanation. We are not in a position to accept an increase of this kind unless it is justified in writing. Third, the lift has been out of order for seven weeks, and the water damage in the stairwell has not been repaired, although both were reported in the spring.\n\nThe owners are bound by their obligations to maintain the common parts, and they may be held liable for the consequences of prolonged neglect. Residents are entitled to a quiet and safe environment, and several of us are considering whether we are obliged to withhold part of the charges.\n\nOur proposal is as follows. I would be prepared to recommend that residents continue to pay the current charges, provided that you agree to three conditions: the noise is to be curbed by 10 p.m.; an itemised account is supplied within thirty days; and a timetable for repairs is confirmed in writing. Should you wish to discuss any of these points, I would welcome a meeting at your earliest convenience. Were you to accept, we would regard the matter as closed, without prejudice to our right to raise any new issue.\n\nIf, however, no satisfactory reply is received by the end of the month, the residents will have no option but to refer the matter to the housing ombudsman, and the repairs will be reported to the local authority. We would much prefer to avoid that course.\n\nI look forward to hearing from you.\n\nYours sincerely,\n\nMaria Santos\nOn behalf of the residents of Willow Court"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Justice by algorithm?",
+   "intro": "Read the opinion article and answer. Notice how the author concedes and refutes.",
+   "paragraphs": [
+    "When a judge in a crowded courtroom decides how long a person should spend behind bars, the decision is supposed to rest on law, evidence and a measure of human judgment. Increasingly, however, it also rests on a number. In a growing number of jurisdictions, sentencing and bail hearings are informed by risk-assessment software that predicts, on the basis of a defendant's age, record and circumstances, how likely that person is to reoffend. Supporters regard these tools as a long-overdue corrective to the whims of individual judges; critics see in them a quiet revolution that has never been properly debated.",
+    "The case for the software is easily stated. Human beings are inconsistent. Studies of sentencing have repeatedly shown that two defendants convicted of near-identical offences can receive very different penalties, depending on the judge, the time of day or even the weather. Were it not for such arbitrariness, the argument goes, nobody would have thought of handing the task to a machine. An algorithm, by contrast, applies the same formula to everybody, and its reasoning can, in principle at least, be inspected, audited and corrected.",
+    "Yet the objection is equally serious. These models are trained on historical data, and historical data are the product of historical policing. If a neighbourhood has been patrolled heavily for decades, its residents will have been arrested more often, and a system that learns from those arrests will conclude that they are riskier. Bias is thus not eliminated but laundered: it re-enters the courtroom wearing the respectable clothing of mathematics. A widely cited investigation alleged that one popular tool wrongly labelled members of one ethnic group as high-risk far more often than others. The developers disputed the finding on technical grounds, and tellingly, statisticians have never fully settled the quarrel, because there are several mathematically incompatible definitions of fairness.",
+    "A second difficulty concerns transparency. Many of these systems are proprietary, and their makers argue that disclosing the formula would reveal trade secrets. But a defendant who is sentenced on the strength of a score he cannot examine is, in effect, denied the chance to rebut the case against him. Due process requires not merely that justice be done, but that it be seen to be done; a verdict that rests on a black box fails the second test, however accurate it may prove to be.",
+    "Defenders of the technology reply that nobody is proposing that machines should decide. The scores are advisory, they say, and the final word remains with the judge. This is reassuring only if judges actually behave that way. Research on automation bias suggests otherwise: people who are handed a confident-looking number tend to anchor on it, and departing from it requires a justification that deferring to it does not. Should a judge release a defendant whom the software rates as dangerous, and should that defendant go on to commit a crime, the judge will be held accountable in a way she would not have been had she followed the recommendation. The incentives, in other words, quietly push towards obedience.",
+    "What, then, should be done? A blanket ban seems unwise; some tools, carefully designed, may well outperform unaided intuition. But a number of safeguards are widely regarded as the minimum. Defendants should be entitled to know which factors were weighed, and to challenge them. Independent bodies should be empowered to audit the models regularly, and the results should be published. And, perhaps most importantly, there should be clarity about what the tools are for: to assist deliberation, not to replace it. Provided that those conditions are met, algorithmic assistance might well make courts fairer. Unless they are, we risk building a system that is efficient, consistent and, in the deepest sense, unaccountable."
+   ],
+   "glossary": [
+    {
+     "en": "bail hearing",
+     "def": "a court hearing to decide whether a person charged with a crime can be released while waiting for trial"
+    },
+    {
+     "en": "reoffend",
+     "def": "to commit another crime after having been punished for a previous one"
+    },
+    {
+     "en": "whim",
+     "def": "a sudden wish or idea that is not based on reason"
+    },
+    {
+     "en": "launder",
+     "def": "to hide where dishonest money or something else came from, so it looks clean"
+    },
+    {
+     "en": "proprietary",
+     "def": "owned by a company or person and protected by law, so others cannot copy it"
+    },
+    {
+     "en": "rebut",
+     "def": "to prove that something someone has said or claimed is wrong"
+    },
+    {
+     "en": "anchor on",
+     "def": "to hold on to a first piece of information and use it as a reference point"
+    },
+    {
+     "en": "deferring to",
+     "def": "accepting someone else's opinion or authority and doing what they want"
+    },
+    {
+     "en": "safeguard",
+     "def": "a protection or guarantee that stops something bad from happening"
+    },
+    {
+     "en": "outperform",
+     "def": "to do better than someone or something else"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "According to the first two paragraphs, supporters of risk-assessment software argue that it",
+     "options": [
+      "reduces inconsistency between judges",
+      "makes judges' work faster and cheaper",
+      "eliminates the need for evidence"
+     ],
+     "answer": 0,
+     "explain": "The argument is that judges are inconsistent and the algorithm applies the same formula to everyone."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "The author claims that the software removes bias from sentencing.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "The author argues that bias is not eliminated but is “laundered”."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "In the phrase «Bias is thus not eliminated but laundered», laundered most nearly means",
+     "options": [
+      "hidden behind an appearance of objectivity",
+      "corrected by statistical methods",
+      "openly acknowledged"
+     ],
+     "answer": 0,
+     "explain": "It reappears “dressed in the respectable clothing of mathematics”."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Why does the author consider secret formulas a problem for due process?",
+     "options": [
+      "Defendants cannot challenge a score they cannot examine",
+      "Judges are not trained to read formulas",
+      "Developers may sell the data"
+     ],
+     "answer": 0,
+     "explain": "Without access to the formula, the defendant cannot challenge the case against him."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "The text suggests that judges are likely to ignore the software's scores.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Research on automation bias indicates that people tend to anchor on the figure."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "A judge who releases a defendant rated as dangerous risks being held ___ if that person reoffends.",
+     "answers": [
+      "accountable",
+      "responsible"
+     ],
+     "explain": "Held accountable: “considered responsible”."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "The author's overall position is best described as",
+     "options": [
+      "conditionally open to the tools, if strict safeguards exist",
+      "firmly in favour of a total ban",
+      "enthusiastic about replacing judges"
+     ],
+     "answer": 0,
+     "explain": "It ends with provided that / unless: acceptance made conditional on guarantees."
+    }
+   ]
+  },
+  "listening": {
+   "title": "A mediation session",
+   "intro": "Listen to the mediation session between a tenant and her landlord. You can replay it.",
+   "lines": [
+    {
+     "who": "Helen (mediator)",
+     "voice": "buttery",
+     "text": "Good morning, both. Before we begin, let me remind you that this session is confidential, and that nothing said here can be used in court should the matter go that far."
+    },
+    {
+     "who": "Mr Brandt (landlord)",
+     "voice": "glassy",
+     "text": "Understood. Though I'll say at the outset that I think this is a waste of time. The lease is perfectly clear."
+    },
+    {
+     "who": "Ms Nair (tenant)",
+     "voice": "airy",
+     "text": "The lease is clear, Mr Brandt. What isn't clear is why my deposit was withheld when the damp was there before I moved in."
+    },
+    {
+     "who": "Mr Brandt (landlord)",
+     "voice": "glassy",
+     "text": "Because the damage was caused by condensation, which is the tenant's responsibility. Had you ventilated the flat properly, none of this would have happened."
+    },
+    {
+     "who": "Ms Nair (tenant)",
+     "voice": "airy",
+     "text": "I ventilated it every day. But for the broken extractor fan, which I reported in writing in October, there wouldn't have been any problem at all."
+    },
+    {
+     "who": "Helen (mediator)",
+     "voice": "buttery",
+     "text": "Mr Brandt, do you have a record of that report?"
+    },
+    {
+     "who": "Mr Brandt (landlord)",
+     "voice": "glassy",
+     "text": "I do. I'll admit it was received. I just didn't consider it urgent."
+    },
+    {
+     "who": "Helen (mediator)",
+     "voice": "buttery",
+     "text": "That's a significant point. Ms Nair, supposing the deposit were returned in part, what would be an acceptable figure?"
+    },
+    {
+     "who": "Ms Nair (tenant)",
+     "voice": "airy",
+     "text": "I'd be prepared to accept eighty per cent, provided that the landlord puts the repairs in writing and carries them out within a month."
+    },
+    {
+     "who": "Mr Brandt (landlord)",
+     "voice": "glassy",
+     "text": "Eighty is too much. Seventy, and I'll agree to the repairs, but I won't have a deadline imposed on me."
+    },
+    {
+     "who": "Helen (mediator)",
+     "voice": "buttery",
+     "text": "Might I suggest a compromise? Seventy-five per cent, and the repairs to be completed within six weeks, unless supplies are delayed."
+    },
+    {
+     "who": "Ms Nair (tenant)",
+     "voice": "airy",
+     "text": "Six weeks is a stretch, but I'm willing to meet you halfway, so long as the deadline is binding."
+    },
+    {
+     "who": "Mr Brandt (landlord)",
+     "voice": "glassy",
+     "text": "Fine. Should the work overrun, I'll cover the difference in rent for the extra days. But I won't go a penny further."
+    },
+    {
+     "who": "Helen (mediator)",
+     "voice": "buttery",
+     "text": "Then I think we have the outline of an agreement. I'll draft it, and you'll each have forty-eight hours to review it before signing."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Why does the mediator mention confidentiality at the start?",
+     "options": [
+      "Nothing said can be used in court",
+      "The landlord has asked for it",
+      "The session will be recorded"
+     ],
+     "answer": 0,
+     "explain": "«Nothing said here can be used in court»."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What does the tenant blame for the damp problem?",
+     "options": [
+      "A broken extractor fan",
+      "A leaking roof",
+      "Poor heating"
+     ],
+     "answer": 0,
+     "explain": "«But for the broken extractor fan…»."
+    },
+    {
+     "id": "L3",
+     "type": "gap",
+     "prompt": "Ms Nair is first prepared to accept ___ per cent of the deposit.",
+     "answers": [
+      "eighty",
+      "80"
+     ],
+     "explain": "«I'd be prepared to accept eighty per cent»."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What does Mr Brandt refuse to accept at first?",
+     "options": [
+      "A deadline imposed on him",
+      "Any repairs at all",
+      "Mediation itself"
+     ],
+     "answer": 0,
+     "explain": "«I won't have a deadline imposed on me»."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What final deadline is suggested for the repairs?",
+     "options": [
+      "Six weeks, unless supplies are delayed",
+      "One month, with no exceptions",
+      "Forty-eight hours"
+     ],
+     "answer": 0,
+     "explain": "The mediator proposes six weeks, unless materials are delayed."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "If the work overruns, the landlord says he will",
+     "options": [
+      "cover the difference in rent for the extra days",
+      "return the full deposit",
+      "go to court"
+     ],
+     "answer": 0,
+     "explain": "«Should the work overrun, I'll cover the difference in rent»."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Had you ventilated the flat properly, none of this would have happened.",
+     "answers": [
+      "Had you ventilated the flat properly, none of this would have happened."
+     ],
+     "explain": "Past inverted conditional: Had + subject + past participle."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "But for the broken extractor fan, there wouldn't have been any problem.",
+     "answers": [
+      "But for the broken extractor fan, there wouldn't have been any problem.",
+      "But for the broken extractor fan, there would not have been any problem."
+     ],
+     "explain": "But for + noun; wouldn't have been."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "I'd be prepared to accept eighty per cent, provided that the repairs are put in writing.",
+     "answers": [
+      "I'd be prepared to accept eighty per cent, provided that the repairs are put in writing.",
+      "I would be prepared to accept eighty per cent, provided that the repairs are put in writing.",
+      "I'd be prepared to accept eighty percent, provided that the repairs are put in writing.",
+      "I would be prepared to accept eighty percent, provided that the repairs are put in writing.",
+      "I'd be prepared to accept 80 per cent, provided that the repairs are put in writing.",
+      "I would be prepared to accept 80 per cent, provided that the repairs are put in writing."
+     ],
+     "explain": "Conditional concession with provided that."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Should the work overrun, I'll cover the difference in rent.",
+     "answers": [
+      "Should the work overrun, I'll cover the difference in rent.",
+      "Should the work overrun, I will cover the difference in rent."
+     ],
+     "explain": "Should + subject + base verb: remote possibility."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Role-play a negotiation: you are a tenant or a customer claiming a refund. Propose a conditional agreement, concede one point and set a firm limit.",
+     "questions": [
+      "What exactly is the problem, and what outcome are you seeking?",
+      "What would you be prepared to accept?",
+      "Under what conditions would you agree to a compromise?",
+      "Is there anything that is non-negotiable for you?"
+     ],
+     "model": "Thank you for meeting me. The problem is simple: the work was never completed, and I was charged in full. I would be prepared to accept a seventy per cent refund, provided that the company confirms the arrangement in writing. I concede that the delay was partly caused by the weather. That said, the deadline for repairs is non-negotiable. Should the firm fail to meet it, I would have to take the matter further.",
+     "checklist": [
+      "Formal conditional (provided that / Should / Were … to)",
+      "One concession (I concede that… / admittedly)",
+      "One firm limit (non-negotiable / We are not in a position to…)",
+      "Formal register and polite tone"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Argue for or against whistleblowers having absolute legal protection.",
+     "questions": [
+      "Should whistleblowers be legally protected in every case?",
+      "What could go wrong if protection is absolute?",
+      "Who should be accountable if the allegations turn out to be false?",
+      "How would you balance transparency and confidentiality?"
+     ],
+     "model": "In my view, whistleblowers deserve robust protection. Were it not for people willing to speak out, many scandals would never have come to light. However, I take the point that protection cannot be absolute: a person who knowingly makes false allegations should be held accountable. It is essential that every claim be examined by an impartial body, and the burden of proof should lie with whoever makes the accusation.",
+     "checklist": [
+      "Were it not for / Had it not been for",
+      "One complex passive (should be held, be examined)",
+      "Mandative subjunctive (It is essential that … be)",
+      "Ethical vocabulary (accountable, impartial, burden of proof)"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Tell a real or imagined story about a rule that, applied to the letter, produced an unfair result. Explain what you would have done.",
+     "questions": [
+      "Can you describe a rule that seemed unfair in practice?",
+      "Who was affected, and how?",
+      "What would have happened had the rule been applied differently?",
+      "What would you change, and why?"
+     ],
+     "model": "A few years ago, a colleague was fined for a late submission, although the system had crashed that morning. The rule was clear, but the outcome was disproportionate. Had the manager used a little discretion, the matter would have ended there. As it was, the employee was treated unfairly, and the company lost a loyal worker. I would have granted an exception on the understanding that evidence of the outage was provided.",
+     "checklist": [
+      "Inverted conditional (Had … would have)",
+      "Passives (was fined, was treated)",
+      "Vocabulary of fairness (disproportionate, fair, exception)",
+      "A proposal with on the understanding that"
+     ]
+    }
+   ],
+   "repeat": [
+    "Were it not for the audit, the fraud would have gone unnoticed.",
+    "Should you require further information, please contact us.",
+    "He is alleged to have concealed the documents.",
+    "I would be prepared to agree, provided that the terms are put in writing.",
+    "Justice must not only be done, but be seen to be done.",
+    "We are not in a position to waive the penalty."
+   ]
+  }
+ }
+}

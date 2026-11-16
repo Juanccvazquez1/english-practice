@@ -1,0 +1,1621 @@
+{
+ "id": "u-anglo-06",
+ "level": "B1",
+ "n": 6,
+ "title": "In the Workplace",
+ "goals": [
+  "Make polite requests and ask for permission with could, would, may and would you mind.",
+  "Report what people told or asked you to do with told me to / asked me to.",
+  "Give advice and talk about possibility and necessity with should, could, might, have to and must.",
+  "Handle a customer service call: apologize, ask for information and offer help.",
+  "Understand a workplace flyer: shifts, dress code, training and required or optional events.",
+  "Write an email to your supervisor with a clear and polite request."
+ ],
+ "learn": [
+  {
+   "id": "g-polite",
+   "kind": "grammar",
+   "title": "Polite requests and asking for permission",
+   "html": "<p>At work we often ask people to do something, or we ask if we can do something. <strong>Polite</strong> language is very important with customers and supervisors.</p><table><thead><tr><th>Use</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Ask someone to do something</td><td><strong>Could / Would / Can</strong> you + base verb?</td><td>Could you help me with this order, please?</td></tr><tr><td>Ask someone to do something (very polite)</td><td><strong>Would you mind</strong> + verb-ing?</td><td>Would you mind waiting a moment?</td></tr><tr><td>Ask for permission</td><td><strong>May / Could / Can</strong> I + base verb?</td><td>May I leave early today?</td></tr><tr><td>Ask for permission (polite)</td><td><strong>Do you mind if I</strong> + present? / <strong>Would you mind if I</strong> + past?</td><td>Do you mind if I open the window?</td></tr></tbody></table><ul><li><em>May</em> is the most formal. <em>Can</em> is the most informal. <em>Could</em> is in the middle.</li><li>To say <em>yes</em> to <em>Would you mind...?</em> or <em>Do you mind...?</em>, say <em>No, not at all</em> or <em>No, go ahead</em>.</li><li>Do not use <em>May you...?</em> to ask other people to do something.</li></ul>",
+   "watch": [
+    {
+     "wrong": "Would you mind to wait a moment?",
+     "right": "Would you mind waiting a moment?",
+     "why": "After Would you mind, use verb + -ing."
+    },
+    {
+     "wrong": "May you give me the invoice?",
+     "right": "Could you give me the invoice?",
+     "why": "May is for asking permission for yourself (May I...?), not for asking others."
+    },
+    {
+     "wrong": "Could you to repeat that?",
+     "right": "Could you repeat that?",
+     "why": "After could, use the base verb without to."
+    },
+    {
+     "wrong": "Do you mind if I opened the window?",
+     "right": "Do you mind if I open the window?",
+     "why": "After Do you mind if, use the present; with Would you mind if, use the past."
+    }
+   ]
+  },
+  {
+   "id": "g-reported",
+   "kind": "grammar",
+   "title": "Reported commands and requests: told me to / asked me to",
+   "html": "<p>We use <strong>told</strong> and <strong>asked</strong> to report what a person ordered or requested. Use <em>told</em> for commands and <em>asked</em> for polite requests.</p><table><thead><tr><th>What the person said</th><th>Reported</th></tr></thead><tbody><tr><td>\"Call the client.\"</td><td>My boss <strong>told me to call</strong> the client.</td></tr><tr><td>\"Could you send the report, please?\"</td><td>She <strong>asked me to send</strong> the report.</td></tr><tr><td>\"Don't be late.\"</td><td>He <strong>told me not to be</strong> late.</td></tr><tr><td>\"Please don't use your phone.\"</td><td>They <strong>asked us not to use</strong> our phones.</td></tr></tbody></table><ul><li>Structure: <em>told / asked + person + (not) to + base verb</em>.</li><li>The person is always necessary: <em>She told <strong>me</strong> to wait</em>, not <em>She told to wait</em>.</li><li>Pronouns and possessives can change: \"Send me your file\" becomes <em>She asked me to send her my file</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "The manager said me to close the store.",
+     "right": "The manager told me to close the store.",
+     "why": "Use told + person + to. Do not use said + person + to."
+    },
+    {
+     "wrong": "He told me don't use the printer.",
+     "right": "He told me not to use the printer.",
+     "why": "A negative command is reported with not to + base verb."
+    },
+    {
+     "wrong": "She asked me closing the door.",
+     "right": "She asked me to close the door.",
+     "why": "After asked me, use to + base verb."
+    },
+    {
+     "wrong": "My boss told that I call the client.",
+     "right": "My boss told me to call the client.",
+     "why": "You need a person (me) and to + verb."
+    }
+   ]
+  },
+  {
+   "id": "g-advice",
+   "kind": "grammar",
+   "title": "Advice, suggestions, possibility and necessity",
+   "html": "<p>Modal verbs help us give advice, make suggestions, talk about possibility, and say what is necessary at work. They are followed by the <strong>base verb</strong>.</p><table><thead><tr><th>Meaning</th><th>Modal</th><th>Example</th></tr></thead><tbody><tr><td>Advice</td><td><strong>should / shouldn't</strong></td><td>You should talk to your supervisor.</td></tr><tr><td>Suggestion</td><td><strong>could</strong></td><td>You could ask a colleague for help.</td></tr><tr><td>Possibility</td><td><strong>might / could</strong></td><td>The shipment might arrive tomorrow.</td></tr><tr><td>Necessity (rule)</td><td><strong>must / have to</strong></td><td>Employees must wear a badge.</td></tr><tr><td>Not necessary</td><td><strong>don't have to</strong></td><td>You don't have to come on Sunday.</td></tr><tr><td>Prohibited</td><td><strong>mustn't</strong></td><td>You mustn't smoke in the warehouse.</td></tr></tbody></table><ul><li><em>Must</em> and <em>have to</em> are similar, but <em>don't have to</em> and <em>mustn't</em> are very different.</li><li><em>Have to</em> changes: <em>She has to</em>, <em>Does he have to...?</em> <em>Must</em> never changes.</li></ul>",
+   "watch": [
+    {
+     "wrong": "She must to wear a uniform.",
+     "right": "She must wear a uniform.",
+     "why": "After must, use the base verb without to."
+    },
+    {
+     "wrong": "You don't must park here.",
+     "right": "You mustn't park here.",
+     "why": "The negative of must is mustn't (prohibited)."
+    },
+    {
+     "wrong": "He should to call the customer.",
+     "right": "He should call the customer.",
+     "why": "After should, use the base verb without to."
+    },
+    {
+     "wrong": "You mustn't come on Sunday. It's optional.",
+     "right": "You don't have to come on Sunday. It's optional.",
+     "why": "Mustn't means prohibited. Don't have to means it is not necessary."
+    }
+   ]
+  },
+  {
+   "id": "v-service",
+   "kind": "vocab",
+   "title": "Customer service and being a good employee",
+   "words": [
+    {
+     "id": "w-customer",
+     "en": "customer",
+     "es": "cliente",
+     "example": "The customer wants to speak with a manager.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-complaint",
+     "en": "complaint",
+     "es": "queja",
+     "example": "We received a complaint about the late delivery.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-refund",
+     "en": "refund",
+     "es": "reembolso",
+     "example": "You can get a full refund if you have the receipt.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-apologize",
+     "en": "apologize",
+     "es": "disculparse",
+     "example": "I want to apologize for the mistake.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-solve-problem",
+     "en": "solve a problem",
+     "es": "resolver un problema",
+     "example": "A good employee helps customers solve problems quickly.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-supervisor",
+     "en": "supervisor",
+     "es": "supervisor/a",
+     "example": "My supervisor gives me my schedule every Monday.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-colleague",
+     "en": "colleague",
+     "es": "colega de trabajo",
+     "example": "My colleague showed me how to use the new system.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-deadline",
+     "en": "deadline",
+     "es": "fecha límite",
+     "example": "The deadline for the report is Friday at noon.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-feedback",
+     "en": "feedback",
+     "es": "retroalimentación, comentarios",
+     "example": "I asked my boss for feedback on my presentation.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-criticism",
+     "en": "criticism",
+     "es": "crítica",
+     "example": "Good employees listen to criticism and learn from it.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-take-personally",
+     "en": "take it personally",
+     "es": "tomarlo como algo personal",
+     "example": "Don't take it personally. He is only trying to help.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-improve",
+     "en": "improve",
+     "es": "mejorar",
+     "example": "You can improve your English by reading every day.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-reliable",
+     "en": "reliable",
+     "es": "confiable, responsable",
+     "example": "She is reliable: she always finishes her work on time.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-teamwork",
+     "en": "teamwork",
+     "es": "trabajo en equipo",
+     "example": "Good teamwork makes the work easier for everyone."
+    }
+   ]
+  },
+  {
+   "id": "v-notice",
+   "kind": "vocab",
+   "title": "Life skills: a workplace flyer",
+   "words": [
+    {
+     "id": "w-flyer",
+     "en": "flyer",
+     "es": "volante, folleto",
+     "example": "There is a flyer about the party on the bulletin board."
+    },
+    {
+     "id": "w-bulletin-board",
+     "en": "bulletin board",
+     "es": "tablero de avisos",
+     "example": "Please read the notices on the bulletin board.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-announcement",
+     "en": "announcement",
+     "es": "anuncio, aviso",
+     "example": "The manager made an announcement about the new schedule.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-shift",
+     "en": "shift",
+     "es": "turno",
+     "example": "I work the morning shift, from 7 a.m. to 3 p.m.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-dress-code",
+     "en": "dress code",
+     "es": "código de vestimenta",
+     "example": "The dress code says we must wear a white shirt.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-break-room",
+     "en": "break room",
+     "es": "sala de descanso",
+     "example": "We eat lunch in the break room.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-overtime",
+     "en": "overtime",
+     "es": "horas extra",
+     "example": "Overtime is paid at a higher rate.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-training-session",
+     "en": "training session",
+     "es": "sesión de capacitación",
+     "example": "There is a training session on customer service on Tuesday.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-sign-up",
+     "en": "sign up",
+     "es": "inscribirse, apuntarse",
+     "example": "You have to sign up before Friday.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-required",
+     "en": "required",
+     "es": "obligatorio",
+     "example": "Safety training is required for all new employees.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-optional",
+     "en": "optional",
+     "es": "opcional",
+     "example": "The company picnic is optional."
+    },
+    {
+     "id": "w-attend",
+     "en": "attend",
+     "es": "asistir",
+     "example": "All employees must attend the meeting.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-reminder",
+     "en": "reminder",
+     "es": "recordatorio",
+     "example": "This is a reminder: the office closes early on Friday.",
+     "cefr": "C1"
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>How can I help you? / What seems to be the problem?</strong> — starting with a customer.</li><li><strong>I'm sorry for the trouble. / I apologize for the mistake.</strong> — apologizing.</li><li><strong>Could you hold for a moment, please?</strong> — asking a customer to wait.</li><li><strong>Let me see what I can do. / I'll solve it right away.</strong> — offering help.</li><li><strong>Would you mind telling me your order number?</strong> — asking for information politely.</li><li><strong>I understand how you feel.</strong> — showing you care.</li><li><strong>Thank you for telling me. I'll try to do better.</strong> — answering criticism.</li><li><strong>Can you give me an example?</strong> — asking for clear feedback.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Polite requests",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-polite",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "___ you help me with this order, please?",
+     "answers": [
+      "Could",
+      "Would",
+      "Can"
+     ],
+     "explain": "Could / Would / Can + you + base verb is a polite request."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Would you mind ___ the door? (close)",
+     "answers": [
+      "closing"
+     ],
+     "explain": "After Would you mind, use verb + -ing."
+    },
+    {
+     "id": "A3",
+     "type": "choice",
+     "prompt": "___ I use your phone, please?",
+     "options": [
+      "May",
+      "Would you",
+      "Mind"
+     ],
+     "answer": 0,
+     "explain": "May I...? asks for permission."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "Do you mind if I ___ the window?",
+     "options": [
+      "open",
+      "opening",
+      "to open"
+     ],
+     "answer": 0,
+     "explain": "After Do you mind if I, use the present simple."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "Do you mind if I ___ early today? (leave)",
+     "answers": [
+      "leave"
+     ],
+     "explain": "After if I, use the base form: leave."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "Would you mind to wait a moment?",
+     "answers": [
+      "Would you mind waiting a moment?"
+     ],
+     "explain": "Would you mind + verb-ing."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "May you give me the invoice?",
+     "answers": [
+      "Could you give me the invoice?",
+      "Would you give me the invoice?",
+      "Can you give me the invoice?"
+     ],
+     "explain": "To ask someone to do something, use Could / Would / Can you."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Could",
+      "you",
+      "send",
+      "me",
+      "the",
+      "schedule",
+      "please"
+     ],
+     "answers": [
+      "Could you send me the schedule please?",
+      "Could you send me the schedule, please?"
+     ],
+     "explain": "Could you + base verb + object."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Asking for permission",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-polite",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "___ I leave early today? I have a doctor's appointment.",
+     "answers": [
+      "May",
+      "Can",
+      "Could"
+     ],
+     "explain": "May / Can / Could I + base verb asks for permission."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "Would you mind if I ___ a break now?",
+     "options": [
+      "took",
+      "taking",
+      "to take"
+     ],
+     "answer": 0,
+     "explain": "After Would you mind if I, use the past: took."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "\"Would you mind helping me?\" Which answer means YES, I will help?",
+     "options": [
+      "No, not at all.",
+      "Yes, of course.",
+      "Yes, I do."
+     ],
+     "answer": 0,
+     "explain": "No, not at all means I don't mind, so I will help."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "\"Do you mind if I sit here?\" Which answer means it is OK?",
+     "options": [
+      "No, go ahead.",
+      "Yes, go ahead.",
+      "No, I don't sit."
+     ],
+     "answer": 0,
+     "explain": "No, go ahead means it is not a problem."
+    },
+    {
+     "id": "B5",
+     "type": "gap",
+     "prompt": "Would you mind ___ me your pen? (lend)",
+     "answers": [
+      "lending"
+     ],
+     "explain": "Would you mind + verb-ing."
+    },
+    {
+     "id": "B6",
+     "type": "gap",
+     "prompt": "Excuse me, ___ I borrow your stapler?",
+     "answers": [
+      "may",
+      "can",
+      "could"
+     ],
+     "explain": "May / Can / Could I borrow...?"
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "Do you mind to open the window?",
+     "answers": [
+      "Do you mind opening the window?",
+      "Would you mind opening the window?"
+     ],
+     "explain": "Do / Would you mind + verb-ing."
+    },
+    {
+     "id": "B8",
+     "type": "translate",
+     "prompt": "¿Puedo salir temprano hoy, por favor?",
+     "answers": [
+      "May I leave early today, please?",
+      "May I leave early today please?",
+      "May I leave early today?",
+      "Can I leave early today, please?",
+      "Can I leave early today please?",
+      "Can I leave early today?",
+      "Could I leave early today, please?",
+      "Could I leave early today please?",
+      "Could I leave early today?"
+     ],
+     "explain": "May / Can / Could I + base verb."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Told me to / asked me to",
+   "instructions": "Complete, choose, correct or order.",
+   "topic": "g-reported",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "\"Call the client.\" My boss told me ___ call the client.",
+     "answers": [
+      "to"
+     ],
+     "explain": "told + person + to + base verb."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "\"Please wait here.\" She asked me ___ wait there.",
+     "answers": [
+      "to"
+     ],
+     "explain": "asked + person + to + base verb."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "\"Don't touch the machine.\" He told me ___ to touch the machine.",
+     "answers": [
+      "not"
+     ],
+     "explain": "Negative: told + person + not to + verb."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "The manager asked me ___ the report.",
+     "options": [
+      "to finish",
+      "finish",
+      "finishing"
+     ],
+     "answer": 0,
+     "explain": "asked me + to + base verb."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "She ___ us to arrive at eight o'clock.",
+     "options": [
+      "told",
+      "said",
+      "spoke"
+     ],
+     "answer": 0,
+     "explain": "Use told + person + to."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "\"Send me the file,\" said Ana. Ana asked me to send ___ the file.",
+     "options": [
+      "her",
+      "me",
+      "him"
+     ],
+     "answer": 0,
+     "explain": "The person who spoke becomes her."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "The manager said me to close the store.",
+     "answers": [
+      "The manager told me to close the store.",
+      "The manager asked me to close the store."
+     ],
+     "explain": "Use told / asked + person + to."
+    },
+    {
+     "id": "C8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "told",
+      "me",
+      "not",
+      "to",
+      "He",
+      "be",
+      "late"
+     ],
+     "answers": [
+      "He told me not to be late."
+     ],
+     "explain": "told + person + not to + base verb."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Reporting what people said",
+   "instructions": "Correct, choose or translate.",
+   "topic": "g-reported",
+   "items": [
+    {
+     "id": "D1",
+     "type": "fix",
+     "prompt": "The customer asked me bring a manual.",
+     "answers": [
+      "The customer asked me to bring a manual."
+     ],
+     "explain": "asked me + to + base verb."
+    },
+    {
+     "id": "D2",
+     "type": "translate",
+     "prompt": "Mi jefe me pidió que enviara el informe.",
+     "answers": [
+      "My boss asked me to send the report.",
+      "My manager asked me to send the report.",
+      "My supervisor asked me to send the report."
+     ],
+     "explain": "asked + person + to + verb."
+    },
+    {
+     "id": "D3",
+     "type": "translate",
+     "prompt": "Ella me dijo que no hablara con el cliente.",
+     "answers": [
+      "She told me not to talk to the customer.",
+      "She told me not to talk to the client.",
+      "She told me not to talk with the customer.",
+      "She told me not to talk with the client.",
+      "She told me not to speak to the customer.",
+      "She told me not to speak to the client.",
+      "She told me not to speak with the customer.",
+      "She told me not to speak with the client."
+     ],
+     "explain": "told + person + not to + verb."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "\"Don't forget the meeting,\" she said. She told me ___ to forget the meeting.",
+     "answers": [
+      "not"
+     ],
+     "explain": "Negative: not to + base verb."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "He told me to wait.",
+      "He told me wait.",
+      "He told to me wait."
+     ],
+     "answer": 0,
+     "explain": "told + person + to + base verb."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "\"Could you help the customer?\" the manager asked us. The manager asked us ___ the customer.",
+     "options": [
+      "to help",
+      "help",
+      "helping"
+     ],
+     "answer": 0,
+     "explain": "asked + person + to + base verb."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "He told me don't use the printer.",
+     "answers": [
+      "He told me not to use the printer."
+     ],
+     "explain": "Negative commands: not to + base verb."
+    },
+    {
+     "id": "D8",
+     "type": "translate",
+     "prompt": "Nos dijeron que llegáramos temprano.",
+     "answers": [
+      "They told us to arrive early.",
+      "They told us to come early.",
+      "They told us to get here early.",
+      "They told us to be here early."
+     ],
+     "explain": "told + person + to + verb."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Advice, possibility and necessity",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-advice",
+   "items": [
+    {
+     "id": "E1",
+     "type": "choice",
+     "prompt": "You have a fever. You ___ stay home.",
+     "options": [
+      "should",
+      "must to",
+      "could to"
+     ],
+     "answer": 0,
+     "explain": "Should gives advice."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "Employees ___ wear a badge. It's the rule.",
+     "answers": [
+      "must",
+      "have to"
+     ],
+     "explain": "Rules: must / have to."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "You ___ come on Sunday. It's optional.",
+     "answers": [
+      "don't have to",
+      "do not have to"
+     ],
+     "explain": "Not necessary: don't have to."
+    },
+    {
+     "id": "E4",
+     "type": "choice",
+     "prompt": "You ___ smoke in the warehouse. It's dangerous and illegal.",
+     "options": [
+      "mustn't",
+      "don't have to",
+      "might"
+     ],
+     "answer": 0,
+     "explain": "Mustn't means prohibited."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "I'm not sure, but the shipment ___ arrive tomorrow.",
+     "options": [
+      "might",
+      "should to",
+      "must not"
+     ],
+     "answer": 0,
+     "explain": "Might shows possibility."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "If you have a problem, you ___ talk to your supervisor.",
+     "answers": [
+      "should",
+      "could"
+     ],
+     "explain": "Should / could give advice or a suggestion."
+    },
+    {
+     "id": "E7",
+     "type": "fix",
+     "prompt": "She must to wear a uniform.",
+     "answers": [
+      "She must wear a uniform.",
+      "She has to wear a uniform."
+     ],
+     "explain": "Must + base verb, without to."
+    },
+    {
+     "id": "E8",
+     "type": "translate",
+     "prompt": "No tienes que traer tu laptop.",
+     "answers": [
+      "You don't have to bring your laptop.",
+      "You don't have to bring your computer.",
+      "You do not have to bring your laptop.",
+      "You do not have to bring your computer.",
+      "You don't need to bring your laptop.",
+      "You don't need to bring your computer.",
+      "You do not need to bring your laptop.",
+      "You do not need to bring your computer."
+     ],
+     "explain": "Not necessary: don't have to."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Vocabulary and expressions",
+   "instructions": "Complete, choose or correct.",
+   "topic": "v-service",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "A person who buys products or services is a...",
+     "options": [
+      "customer",
+      "supervisor",
+      "colleague"
+     ],
+     "answer": 0,
+     "explain": "A customer buys things."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "A ___ is money you get back when you return a product.",
+     "answers": [
+      "refund"
+     ],
+     "explain": "Refund: money back."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "I want to ___ for the mistake.",
+     "answers": [
+      "apologize",
+      "apologise"
+     ],
+     "explain": "Apologize: say you are sorry."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "The person who is your boss at work is your...",
+     "options": [
+      "supervisor",
+      "customer",
+      "colleague"
+     ],
+     "answer": 0,
+     "explain": "A supervisor manages employees."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "Work you do after your normal hours is...",
+     "options": [
+      "overtime",
+      "a break",
+      "a shift"
+     ],
+     "answer": 0,
+     "explain": "Overtime: extra hours."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "You have to ___ up for the training session before Friday.",
+     "answers": [
+      "sign"
+     ],
+     "explain": "Sign up: put your name on a list."
+    },
+    {
+     "id": "F7",
+     "type": "choice",
+     "prompt": "What is a good thing to say to an unhappy customer?",
+     "options": [
+      "I'm sorry for the problem. Let me help you.",
+      "That's not my problem.",
+      "You should read the sign."
+     ],
+     "answer": 0,
+     "explain": "Apologize and offer help."
+    },
+    {
+     "id": "F8",
+     "type": "fix",
+     "prompt": "Could you to repeat that, please?",
+     "answers": [
+      "Could you repeat that, please?",
+      "Could you repeat that please?"
+     ],
+     "explain": "Could you + base verb."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Could",
+      "you",
+      "help",
+      "me",
+      "with",
+      "this",
+      "please"
+     ],
+     "answers": [
+      "Could you help me with this please?",
+      "Could you help me with this, please?"
+     ],
+     "explain": "Could you + base verb."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "asked",
+      "me",
+      "to",
+      "My",
+      "boss",
+      "stay",
+      "late"
+     ],
+     "answers": [
+      "My boss asked me to stay late."
+     ],
+     "explain": "asked + person + to + verb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "should",
+      "You",
+      "apologize",
+      "to",
+      "the",
+      "customer"
+     ],
+     "answers": [
+      "You should apologize to the customer."
+     ],
+     "explain": "should + base verb."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "mind",
+      "Would",
+      "closing",
+      "you",
+      "the",
+      "door"
+     ],
+     "answers": [
+      "Would you mind closing the door?"
+     ],
+     "explain": "Would you mind + verb-ing."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "told",
+      "us",
+      "not",
+      "She",
+      "to",
+      "park",
+      "here"
+     ],
+     "answers": [
+      "She told us not to park here."
+     ],
+     "explain": "told + person + not to + verb."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "have",
+      "to",
+      "wear",
+      "You",
+      "a",
+      "badge"
+     ],
+     "answers": [
+      "You have to wear a badge."
+     ],
+     "explain": "have to + base verb."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "¿Podría ayudarme con este pedido, por favor?",
+     "answers": [
+      "Could you help me with this order, please?",
+      "Could you help me with this order please?",
+      "Could you help me with this order?",
+      "Would you help me with this order, please?",
+      "Would you help me with this order please?",
+      "Would you help me with this order?",
+      "Can you help me with this order, please?",
+      "Can you help me with this order please?",
+      "Can you help me with this order?"
+     ],
+     "explain": "Could / Would / Can you + base verb."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿Le molesta si me siento aquí?",
+     "answers": [
+      "Do you mind if I sit here?",
+      "Would you mind if I sat here?"
+     ],
+     "explain": "Do you mind if I + present."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Mi jefe me dijo que llamara al cliente.",
+     "answers": [
+      "My boss told me to call the customer.",
+      "My boss told me to call the client.",
+      "My manager told me to call the customer.",
+      "My manager told me to call the client.",
+      "My supervisor told me to call the customer.",
+      "My supervisor told me to call the client."
+     ],
+     "explain": "told + person + to + verb."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Ella me pidió que no usara el teléfono.",
+     "answers": [
+      "She asked me not to use the phone.",
+      "She asked me not to use my phone.",
+      "She told me not to use the phone.",
+      "She told me not to use my phone."
+     ],
+     "explain": "asked / told + person + not to + verb."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Deberías hablar con tu supervisor.",
+     "answers": [
+      "You should talk to your supervisor.",
+      "You should talk with your supervisor.",
+      "You should speak to your supervisor.",
+      "You should speak with your supervisor."
+     ],
+     "explain": "Advice: should + base verb."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "No tienes que trabajar horas extra.",
+     "answers": [
+      "You don't have to work overtime.",
+      "You don't have to work extra hours.",
+      "You do not have to work overtime.",
+      "You do not have to work extra hours.",
+      "You don't need to work overtime.",
+      "You don't need to work extra hours.",
+      "You do not need to work overtime.",
+      "You do not need to work extra hours."
+     ],
+     "explain": "Not necessary: don't have to."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes 2 review items from earlier topics).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "___ you mind waiting a few minutes?",
+     "options": [
+      "Would",
+      "Could",
+      "May"
+     ],
+     "answer": 0,
+     "explain": "Would you mind + verb-ing."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "My boss told me not ___ be late.",
+     "answers": [
+      "to"
+     ],
+     "explain": "not to + base verb."
+    },
+    {
+     "id": "M3",
+     "type": "choice",
+     "prompt": "You ___ park here. It's a no-parking zone.",
+     "options": [
+      "mustn't",
+      "don't have to",
+      "might"
+     ],
+     "answer": 0,
+     "explain": "Mustn't means prohibited."
+    },
+    {
+     "id": "M4",
+     "type": "fix",
+     "prompt": "She asked me opening the window.",
+     "answers": [
+      "She asked me to open the window."
+     ],
+     "explain": "asked me + to + base verb."
+    },
+    {
+     "id": "M5",
+     "type": "translate",
+     "prompt": "Quiero un reembolso, por favor.",
+     "answers": [
+      "I want a refund, please.",
+      "I'd like a refund, please.",
+      "I would like a refund, please.",
+      "Can I have a refund, please?",
+      "Could I have a refund, please?",
+      "May I have a refund, please?"
+     ],
+     "explain": "Request with want / would like / can I have."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "We ___ finish the report by Friday. It's a strict deadline.",
+     "answers": [
+      "must",
+      "have to"
+     ],
+     "explain": "Necessity: must / have to."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "I ___ in this company for three years. (work) (review: present perfect)",
+     "answers": [
+      "have worked",
+      "'ve worked"
+     ],
+     "explain": "For + period of time: present perfect."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "This printer is ___ than the old one. (fast) (review: comparatives)",
+     "answers": [
+      "faster"
+     ],
+     "explain": "Short adjective + -er + than."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write an email to your supervisor (120 to 160 words). Ask politely for a change in your schedule or for permission to do something. Report at least one thing your supervisor told or asked you to do, and say what you could do in return. Opening: Dear Mr. Ramos, I am writing to ask...",
+   "targets": [
+    "polite requests and permission",
+    "told me to / asked me to",
+    "should / could / must"
+   ],
+   "checklist": [
+    "120 to 160 words",
+    "A polite request with Could you / Would you mind / May I",
+    "One sentence with told me to or asked me to",
+    "One modal for advice, possibility or necessity (could, should, must)",
+    "Verb after would you mind in -ing form",
+    "Formal greeting and closing"
+   ],
+   "model": "Subject: Request to change my schedule next week\n\nDear Mr. Ramos,\n\nI hope you are well. I am writing to ask about my schedule next week. My daughter has a school event on Wednesday afternoon, and I would like to attend it. Would you mind if I left at two o'clock that day? I could come in earlier on Wednesday morning, or I could work two extra hours on Thursday.\n\nLast week you told me to finish the monthly report by Friday, and I sent it on Thursday. You also asked me to train the new employee, and I have already started. I think I should finish both tasks on time, even with this change.\n\nCould you please tell me if this is possible? I must tell my family by Monday, so I would be grateful for your answer before then.\n\nThank you for your help.\n\nBest regards,\nElena Torres"
+  },
+  {
+   "id": "W2",
+   "prompt": "A customer is unhappy because of a late delivery. Write a short reply (80 to 120 words). Apologize, say what your supervisor told you to do, and give the customer advice. Use at least one polite request.",
+   "targets": [
+    "apologizing",
+    "reported commands",
+    "advice"
+   ],
+   "checklist": [
+    "80 to 120 words",
+    "An apology",
+    "told me to or asked me to + base verb",
+    "should / could for advice",
+    "A polite request with Would you mind...?"
+   ],
+   "model": "Hello Mr. Garcia,\n\nThank you for your message. I apologize for the late delivery. I understand how you feel. My supervisor told me to send your order today by express mail, and she asked me to give you a ten percent discount. You should receive the package by Thursday.\n\nIf it doesn't arrive, you could call me directly, and I will solve the problem right away. You don't have to pay anything extra. Would you mind sending me a photo of the box when it arrives?\n\nThank you for your patience.\n\nBest regards,\nLaura Mendez\nCustomer Service"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "How to handle criticism at work",
+   "intro": "Read the article and answer.",
+   "paragraphs": [
+    "Nobody likes to hear that their work is not perfect. However, criticism is a normal part of every job, and learning to handle it can help your career. Here is the story of Marta, a customer service agent in a call center in Guadalajara.",
+    "Last month, Marta's supervisor listened to some of her calls. After that, he asked her to come to his office. At first, Marta was very nervous. She thought, \"Maybe I'm in trouble.\" Then he said, \"You are very polite with customers, and they like you. But you should speak more slowly, and you could use simpler words. Would you mind practicing with a colleague this week?\"",
+    "Marta felt a little hurt. She wanted to say, \"I always do my best!\" But she took a deep breath and said, \"Thank you for telling me. I will try.\" Later that day, she asked her friend Luis to listen to her calls. He told her to smile when she spoke, because customers can hear it in your voice. He also told her not to use long sentences.",
+    "After two weeks, Marta's customers gave her better scores. Her supervisor told her that she had improved a lot. \"You might become a team leader one day,\" he said. Marta was surprised, but very happy. She understood that her supervisor was not attacking her. He was helping her to grow, and now she thanks him often.",
+    "Experts say there are some simple steps to handle criticism well. First, you should listen carefully and not interrupt. Second, you must stay calm, even if you disagree. You don't have to accept every comment, but you should think about it. Third, you could ask a question, for example, \"Can you give me an example?\" Finally, make a plan to improve and thank the person. Remember: criticism is not an attack. It is information that can help you grow."
+   ],
+   "glossary": [
+    {
+     "en": "criticism",
+     "def": "a comment about what is wrong or not good"
+    },
+    {
+     "en": "supervisor",
+     "def": "a person who manages other workers"
+    },
+    {
+     "en": "nervous",
+     "def": "a little afraid or worried"
+    },
+    {
+     "en": "hurt",
+     "def": "sad because of what someone said"
+    },
+    {
+     "en": "improve",
+     "def": "to become better"
+    },
+    {
+     "en": "interrupt",
+     "def": "to speak when another person is speaking"
+    },
+    {
+     "en": "disagree",
+     "def": "to have a different opinion"
+    },
+    {
+     "en": "attack",
+     "def": "words or actions to hurt someone"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Marta was relaxed when her supervisor called her to the office.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "She was very nervous at first."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "What did the supervisor like about Marta?",
+     "options": [
+      "She is polite with customers",
+      "She works late",
+      "She speaks very fast"
+     ],
+     "answer": 0,
+     "explain": "He said: You are very polite with customers."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What did the supervisor ask Marta to do?",
+     "options": [
+      "Practice with a colleague",
+      "Change jobs",
+      "Work extra hours"
+     ],
+     "answer": 0,
+     "explain": "He asked: Would you mind practicing with a colleague?"
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Luis told Marta to smile when she spoke.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "He told her to smile because customers can hear it."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Luis told Marta not to use long ___.",
+     "answers": [
+      "sentences"
+     ],
+     "explain": "He also told her not to use long sentences."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "What happened after two weeks?",
+     "options": [
+      "Customers gave Marta better scores",
+      "Marta lost her job",
+      "Marta changed supervisors"
+     ],
+     "answer": 0,
+     "explain": "Her customers gave her better scores."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "According to the experts, what should you do first?",
+     "options": [
+      "Listen carefully and not interrupt",
+      "Ask for an example",
+      "Make a plan"
+     ],
+     "answer": 0,
+     "explain": "First, you should listen carefully and not interrupt."
+    },
+    {
+     "id": "R8",
+     "type": "translate",
+     "prompt": "Deberías escuchar con atención.",
+     "answers": [
+      "You should listen carefully.",
+      "You should listen with attention."
+     ],
+     "explain": "should + base verb."
+    }
+   ]
+  },
+  "listening": {
+   "title": "A call about a broken machine",
+   "intro": "Listen to the phone call. You can repeat it.",
+   "lines": [
+    {
+     "who": "Dana",
+     "voice": "buttery",
+     "text": "Good afternoon, Fresh Home Store. This is Dana. How can I help you?"
+    },
+    {
+     "who": "Raul",
+     "voice": "rounded",
+     "text": "Hello. I bought a washing machine last week, and it doesn't work. I'm very upset."
+    },
+    {
+     "who": "Dana",
+     "voice": "buttery",
+     "text": "I'm sorry to hear that, sir. Would you mind telling me your order number?"
+    },
+    {
+     "who": "Raul",
+     "voice": "rounded",
+     "text": "Of course. It's four, seven, two, nine, one."
+    },
+    {
+     "who": "Dana",
+     "voice": "buttery",
+     "text": "Thank you. Could you hold for a moment, please? I need to check something."
+    },
+    {
+     "who": "Raul",
+     "voice": "rounded",
+     "text": "Sure, but please hurry. I have to leave for work in ten minutes."
+    },
+    {
+     "who": "Dana",
+     "voice": "buttery",
+     "text": "I see the problem. A technician should visit you, but the next free day is Friday. Would that be OK?"
+    },
+    {
+     "who": "Raul",
+     "voice": "rounded",
+     "text": "No, I can't wait until Friday. I want a refund."
+    },
+    {
+     "who": "Dana",
+     "voice": "buttery",
+     "text": "I understand. May I ask my supervisor? She told me to ask her about refunds."
+    },
+    {
+     "who": "Mrs. Lopez",
+     "voice": "glassy",
+     "text": "Hello, sir. This is Mrs. Lopez. I'm sorry for the trouble. We can send a new machine tomorrow, or you can have a full refund."
+    },
+    {
+     "who": "Raul",
+     "voice": "rounded",
+     "text": "A refund, please. You don't have to send another one."
+    },
+    {
+     "who": "Mrs. Lopez",
+     "voice": "glassy",
+     "text": "No problem. You must return the machine first. Dana will email you the instructions. Is there anything else?"
+    },
+    {
+     "who": "Raul",
+     "voice": "rounded",
+     "text": "No, that's all. Thank you for your help."
+    },
+    {
+     "who": "Dana",
+     "voice": "buttery",
+     "text": "Thank you for calling, sir. Have a nice day."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What is the problem?",
+     "options": [
+      "The washing machine doesn't work",
+      "The delivery is late",
+      "The price is too high"
+     ],
+     "answer": 0,
+     "explain": "He says the washing machine doesn't work."
+    },
+    {
+     "id": "L2",
+     "type": "gap",
+     "prompt": "The order number is 4, 7, 2, 9, ___.",
+     "answers": [
+      "1",
+      "one"
+     ],
+     "explain": "The last number is one."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "When is the next free day for the technician?",
+     "options": [
+      "Friday",
+      "Monday",
+      "Tomorrow"
+     ],
+     "answer": 0,
+     "explain": "The next free day is Friday."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "Why does Dana talk to her supervisor?",
+     "options": [
+      "Her supervisor told her to ask about refunds",
+      "The customer is rude",
+      "She doesn't know the store"
+     ],
+     "answer": 0,
+     "explain": "She told me to ask her about refunds."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What does Raul choose?",
+     "options": [
+      "A refund",
+      "A new machine",
+      "A technician visit"
+     ],
+     "answer": 0,
+     "explain": "He says: A refund, please."
+    },
+    {
+     "id": "L6",
+     "type": "gap",
+     "prompt": "Raul must ___ the machine first.",
+     "answers": [
+      "return"
+     ],
+     "explain": "You must return the machine first."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Would you mind telling me your order number?",
+     "answers": [
+      "Would you mind telling me your order number?"
+     ],
+     "explain": "Would you mind + verb-ing."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Could you hold for a moment, please?",
+     "answers": [
+      "Could you hold for a moment, please?",
+      "Could you hold for a moment please?"
+     ],
+     "explain": "Could you + base verb."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "You must return the machine first.",
+     "answers": [
+      "You must return the machine first."
+     ],
+     "explain": "must + base verb."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "I'm sorry for the trouble.",
+     "answers": [
+      "I'm sorry for the trouble.",
+      "I am sorry for the trouble."
+     ],
+     "explain": "A polite apology."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "You work in customer service. A customer calls with a problem. Greet the customer, apologize, ask politely for information and offer help.",
+     "questions": [
+      "How can I help you?",
+      "What seems to be the problem?",
+      "Would you mind telling me your name?",
+      "Could you hold for a moment, please?"
+     ],
+     "model": "Good morning. How can I help you? I'm sorry to hear that. Would you mind telling me your order number? Thank you. Could you hold for a moment, please? I understand how you feel. Let me see what I can do. I'll solve it right away.",
+     "checklist": [
+      "A polite greeting",
+      "An apology",
+      "Would you mind + verb-ing",
+      "Could you + base verb",
+      "An offer to help"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about being a good employee. Give advice with should and say what employees must or don't have to do.",
+     "questions": [
+      "What makes a good employee?",
+      "What should you do when you have a problem at work?",
+      "What must employees always do?",
+      "What don't employees have to do?"
+     ],
+     "model": "A good employee should be reliable and polite. You should arrive on time and finish your work before the deadline. If you have a problem, you could ask a colleague or talk to your supervisor. Employees must follow the safety rules. You don't have to work overtime, but you should help your team when it is necessary.",
+     "checklist": [
+      "should + base verb",
+      "must / have to",
+      "don't have to",
+      "Work vocabulary (reliable, deadline, supervisor)"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about your own experience at work or school: a time you received criticism or instructions. Say what people told or asked you to do.",
+     "questions": [
+      "Who told you what to do at work or school?",
+      "What did they ask you to do?",
+      "How did you feel?",
+      "What did you do after that?"
+     ],
+     "model": "Last year my supervisor asked me to change the way I made reports. She told me to use shorter sentences, and she told me not to use difficult words. At first I felt a little bad, but then I understood. I practiced every day, and now my reports are better.",
+     "checklist": [
+      "told me to / asked me to",
+      "told me not to",
+      "Past simple for the story",
+      "How you felt and what you did"
+     ]
+    }
+   ],
+   "repeat": [
+    "Could you help me with this order, please?",
+    "Would you mind waiting a moment?",
+    "May I leave early today?",
+    "My boss told me to call the client.",
+    "She asked me not to be late.",
+    "You should talk to your supervisor."
+   ]
+  }
+ }
+}

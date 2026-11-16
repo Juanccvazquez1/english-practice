@@ -1,0 +1,1794 @@
+{
+ "id": "u-c1-06",
+ "level": "C1",
+ "n": 6,
+ "title": "Turning points",
+ "goals": [
+  "Combine past and present with mixed conditionals to explain how a decision shapes current life.",
+  "Use inverted conditionals (Had I known…, Should you need…, Were it not for…) in formal register.",
+  "Express wishes and regrets with wish and if only, and distinguish wish from hope.",
+  "Talk about preferences, urgency and advice with would rather, it's (high) time and had better.",
+  "Expand vocabulary about decisions, regret and life changes (hindsight, crossroads, bite the bullet).",
+  "Reflect on and give advice about decisions with nuance, caution and a natural C1-level register."
+ ],
+ "learn": [
+  {
+   "id": "g-mixed-cond",
+   "kind": "grammar",
+   "title": "Mixed conditionals",
+   "html": "<p>The type 3 conditional looks at an unreal past with its past consequence (<em>If I had left, I would have missed it</em>). A <strong>mixed conditional</strong> combines type 3 and type 2 when <strong>the tense of the condition and that of the consequence do not match</strong>. They are the natural structure for talking about how a past decision shapes the present, or how a lasting trait explains a past event.</p>\n<table><thead><tr><th>Type</th><th>Condition (if)</th><th>Consequence</th><th>Example</th></tr></thead><tbody>\n<tr><td>Past → present</td><td>If + <strong>past perfect</strong></td><td><strong>would/could/might + base</strong></td><td>If I <strong>had accepted</strong> that offer, I <strong>would be living</strong> in Berlin now.</td></tr>\n<tr><td>Present → past</td><td>If + <strong>past simple</strong> (were)</td><td><strong>would/could/might + have + past participle</strong></td><td>If she <strong>weren't</strong> so cautious, she <strong>would have applied</strong> last year.</td></tr>\n</tbody></table>\n<p><strong>Points that make the difference:</strong></p>\n<ul>\n<li><strong>Time markers.</strong> They often appear as <em>now, today, still, these days</em> (present result) or <em>at the time, back then, last year</em> (past consequence). They help the reader see the mismatch.</li>\n<li><strong>Continuity.</strong> With a present result, the continuous or stative form is often used: <em>I would be sitting in an office now</em>, <em>we'd still be friends</em>.</li>\n<li><strong>Degree of certainty.</strong> <em>would</em> = an almost certain result; <em>could</em> = possibility or ability; <em>might</em> = uncertainty: <em>If I had studied law, I might be a judge by now.</em></li>\n<li><strong>Were / was.</strong> In careful register <em>were</em> is kept for all persons (<em>If I were more patient</em>); <em>was</em> appears in informal speech with <em>I/he/she/it</em>.</li>\n<li><strong>No would in the if-clause.</strong> You do not say <em>If I would have known</em> (a very common error, even among native speakers in speech). With <em>would</em> in the if-clause there is only a polite request or willingness (<em>If you would help me, I'd be grateful</em>).</li>\n<li><strong>Differences in meaning.</strong> Compare <em>If I had taken the job, I would be rich</em> (result today) with <em>If I had taken the job, I would have been rich</em> (I would have been rich at that time): the second says nothing about today.</li>\n</ul>\n<p><strong>Spanish vs. English:</strong> in Spanish the pluperfect subjunctive («si hubiera aceptado») is followed by a simple conditional («viviría») without any problem; the challenge in English is to <strong>choose</strong> the right verb form in each half, not to translate word by word.</p>",
+   "watch": [
+    {
+     "wrong": "If I would have studied medicine, I would be a doctor now.",
+     "right": "If I had studied medicine, I would be a doctor now.",
+     "why": "The if-clause does not take would: use past perfect."
+    },
+    {
+     "wrong": "If I had studied medicine, I would have been a doctor now.",
+     "right": "If I had studied medicine, I would be a doctor now.",
+     "why": "With now the result is present: would + base, not would have + past participle."
+    },
+    {
+     "wrong": "If she is not so cautious, she would have applied.",
+     "right": "If she weren't so cautious, she would have applied.",
+     "why": "A hypothetical present trait: past simple/were, not present simple."
+    },
+    {
+     "wrong": "If I didn't meet her, I wouldn't be living here now.",
+     "right": "If I hadn't met her, I wouldn't be living here now.",
+     "why": "The conditioning fact is in the past: past perfect."
+    }
+   ]
+  },
+  {
+   "id": "g-inverted-cond",
+   "kind": "grammar",
+   "title": "Inverted conditionals: Had I known…, Should you need…, Were I to…",
+   "html": "<p>In formal or literary register you can <strong>omit <em>if</em> and invert the subject and the auxiliary</strong>. The effect is more elegant and concise, typical of professional writing, public speaking and journalistic style. There are only three patterns, one for each type of condition:</p>\n<table><thead><tr><th>Type</th><th>With if</th><th>Inverted</th></tr></thead><tbody>\n<tr><td>Type 3 (unreal past)</td><td>If I had known, I would have called.</td><td><strong>Had I known</strong>, I would have called.</td></tr>\n<tr><td>Type 2 (unreal present/future)</td><td>If I were you, I would wait. / If I were to win…</td><td><strong>Were I you</strong>, I would wait. / <strong>Were I to win</strong>…</td></tr>\n<tr><td>Possible or polite future</td><td>If you should need help, call me.</td><td><strong>Should you need</strong> help, call me.</td></tr>\n</tbody></table>\n<p><strong>Rules and nuances:</strong></p>\n<ul>\n<li><strong>Negation.</strong> Negate with <em>not</em> after the subject and <strong>without contracting</strong> the auxiliary: <em>Had I not read the small print, I would have signed</em> (never <em>Hadn't I read</em>).</li>\n<li><strong>Should</strong> introduces an unlikely case or a formal instruction: <em>Should you require further assistance, please contact us.</em> The main verb takes the base form.</li>\n<li><strong>Were to</strong> adds a hypothetical or distant nuance: <em>Were the company to relocate, many employees would resign.</em> It equals <em>If the company were to relocate…</em> and is more tentative than <em>if the company relocated</em>.</li>\n<li><strong>Had it not been for / Were it not for</strong> (<em>if it had not been for</em>): <em>Had it not been for her advice, I would never have applied.</em> More neutral synonyms: <em>But for</em> and <em>Without</em> + noun.</li>\n<li><strong>When not to use it.</strong> In casual conversation it sounds affected or distant; it is normal in letters, reports, speeches and writing exams.</li>\n<li><strong>Combination with mixed conditionals.</strong> <em>Had I accepted the offer, I would be a manager now</em> (inversion + mixed): perfectly valid.</li>\n</ul>\n<p><strong>Spanish vs. English:</strong> Spanish does something similar with «de haber sabido…» and «de ser tú…»; the difference is that English requires the auxiliary (<em>had, were, should</em>) before the subject, and that inversion is obligatory.</p>",
+   "watch": [
+    {
+     "wrong": "Hadn't I read the small print, I would have signed.",
+     "right": "Had I not read the small print, I would have signed.",
+     "why": "In inversion there is no contraction: Had + subject + not."
+    },
+    {
+     "wrong": "Should you will need help, call me.",
+     "right": "Should you need help, call me.",
+     "why": "After Should + subject comes the base form, without will."
+    },
+    {
+     "wrong": "Had I would known, I would have called.",
+     "right": "Had I known, I would have called.",
+     "why": "Had + subject + past participle; do not add would in the condition."
+    },
+    {
+     "wrong": "Were I know the answer, I would tell you.",
+     "right": "Were I to know the answer, I would tell you. / If I knew the answer, I would tell you.",
+     "why": "With Were + subject you use to + infinitive (except with the verb be: Were I you…)."
+    }
+   ]
+  },
+  {
+   "id": "g-wish",
+   "kind": "grammar",
+   "title": "wish / if only: regret and wishes",
+   "html": "<p><em>Wish</em> and <em>if only</em> express that <strong>reality does not match what we would like</strong>. The verb form that follows steps back one stage in time, just as in unreal conditionals. <em>If only</em> is more emphatic and emotional than <em>wish</em>.</p>\n<table><thead><tr><th>Refers to…</th><th>Form</th><th>Example</th></tr></thead><tbody>\n<tr><td>Present (what is not so now)</td><td>wish + <strong>past simple</strong> (were)</td><td>I wish I <strong>had</strong> more time. / If only I <strong>were</strong> braver.</td></tr>\n<tr><td>Past (regret)</td><td>wish + <strong>past perfect</strong></td><td>I wish I <strong>had listened</strong> to my father. / If only I <strong>hadn't said</strong> that.</td></tr>\n<tr><td>Future / someone else's annoying habit</td><td>wish + <strong>would + base</strong></td><td>I wish you <strong>wouldn't</strong> leave your shoes there.</td></tr>\n<tr><td>Ability</td><td>wish + <strong>could</strong> (could have + past participle)</td><td>I wish I <strong>could</strong> help. / I wish I <strong>could have</strong> gone.</td></tr>\n</tbody></table>\n<p><strong>Key nuances:</strong></p>\n<ul>\n<li><strong>Wish + would</strong> expresses irritation or a wish for change in someone's <em>behaviour</em>, so it is <strong>not used with the same subject</strong>: one says <em>I wish I could stop</em>, not <em>I wish I would stop</em>. Nor with inanimate things that have no will: <em>I wish it would stop raining</em> is acceptable as a complaint, but <em>I wish the sun would be hotter</em> is not.</li>\n<li><strong>Wish vs. hope.</strong> <em>Hope</em> concerns something that may happen (<em>I hope she calls</em>); <em>wish</em> concerns something unreal or unlikely. With <em>hope</em> the verb tense does not step back.</li>\n<li><strong>If only</strong> takes the same forms: <em>If only I'd known!</em> / <em>If only he would listen!</em> It usually goes with an exclamation or a dramatic pause.</li>\n<li><strong>Wish + object + to + infinitive</strong> is formal and different: <em>I wish to speak to the manager</em> (= I would like to).</li>\n<li><strong>Would rather.</strong> If the wish is a preference rather than a lament, use <em>would rather</em> (see the next block).</li>\n</ul>\n<p><strong>For the TOEFL and writing:</strong> in formal texts, <em>I regret not having…</em> or <em>It is regrettable that…</em> sounds more sober than <em>I wish I had…</em>.</p>",
+   "watch": [
+    {
+     "wrong": "I wish I would have more patience.",
+     "right": "I wish I had more patience.",
+     "why": "Wish about a present state: wish + past simple; would is not used with the same subject."
+    },
+    {
+     "wrong": "I wish I would have listened to my father.",
+     "right": "I wish I had listened to my father.",
+     "why": "Past regret: wish + past perfect, not would have."
+    },
+    {
+     "wrong": "If only I would know then what I know now.",
+     "right": "If only I had known then what I know now.",
+     "why": "Unreal past: past perfect."
+    },
+    {
+     "wrong": "I wish I will pass the exam.",
+     "right": "I hope I pass the exam. / I hope I will pass the exam.",
+     "why": "Wish is not used with will; for something possible, use hope."
+    }
+   ]
+  },
+  {
+   "id": "g-rather-time",
+   "kind": "grammar",
+   "title": "would rather, it's (high) time, had better",
+   "html": "<p>Three structures for <strong>preferences, urgency and advice</strong> share one feature: when the subject of the second clause is another person, the verb goes into the past, but <strong>the meaning is present or future</strong>.</p>\n<table><thead><tr><th>Structure</th><th>Pattern</th><th>Example</th></tr></thead><tbody>\n<tr><td>would rather (same subject)</td><td>would rather + <strong>base</strong></td><td>I'd rather stay at home tonight.</td></tr>\n<tr><td>would rather (other subject, now/future)</td><td>would rather + subject + <strong>past simple</strong></td><td>I'd rather you <strong>didn't</strong> tell anyone.</td></tr>\n<tr><td>would rather (other subject, past)</td><td>would rather + subject + <strong>past perfect</strong></td><td>I'd rather you <strong>hadn't mentioned</strong> it.</td></tr>\n<tr><td>it's (high) time</td><td>it's time + subject + <strong>past simple</strong></td><td>It's high time we <strong>made</strong> a decision.</td></tr>\n<tr><td>had better</td><td>had better (not) + <strong>base</strong></td><td>You'd better <strong>check</strong> the contract.</td></tr>\n</tbody></table>\n<p><strong>Important points:</strong></p>\n<ul>\n<li><strong>Would rather… than.</strong> For comparison: <em>I'd rather resign than work for him</em> (base form on both sides, without <em>to</em>). With <em>prefer</em> one uses <em>to</em> or <em>rather than</em>: <em>I prefer walking to driving</em>.</li>\n<li><strong>Would rather not</strong> is a polite way to decline: <em>Would you like to join us? — I'd rather not, thanks.</em></li>\n<li><strong>It's time + to-infinitive vs. + subject + past.</strong> <em>It's time to go</em> (general) versus <em>It's time you went</em> (implies that we are already late); <em>high time</em> stresses the reproach.</li>\n<li><strong>Had better</strong> expresses advice with an implicit warning (<em>or there will be consequences</em>); it does not refer to the past despite <em>had</em>. In speech it reduces to <em>'d better</em>. Negative: <em>You'd better not be late.</em></li>\n<li><strong>Would sooner</strong> is a literary synonym of <em>would rather</em>: <em>I'd sooner walk than wait.</em></li>\n<li><strong>Register.</strong> <em>I would rather you did not</em> is a formal, polite request; <em>I'd rather you didn't</em> is the conversational version.</li>\n</ul>",
+   "watch": [
+    {
+     "wrong": "I'd rather to stay at home.",
+     "right": "I'd rather stay at home.",
+     "why": "After would rather comes the base form, without to."
+    },
+    {
+     "wrong": "It's time you to start looking for a new flat.",
+     "right": "It's time you started looking for a new flat.",
+     "why": "It's time + subject + past simple (present meaning)."
+    },
+    {
+     "wrong": "I'd rather you don't tell anyone.",
+     "right": "I'd rather you didn't tell anyone.",
+     "why": "With another subject, would rather requires past simple."
+    },
+    {
+     "wrong": "You had better to check the contract.",
+     "right": "You had better check the contract.",
+     "why": "Had better + base, without to."
+    }
+   ]
+  },
+  {
+   "id": "v-decisions",
+   "kind": "vocab",
+   "title": "Decisions and regret",
+   "words": [
+    {
+     "id": "w-turning-point",
+     "en": "turning point",
+     "es": "punto de inflexión",
+     "example": "Meeting her was the turning point of my career.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-crossroads",
+     "en": "crossroads",
+     "es": "encrucijada (literal y figurada)",
+     "example": "At 35 he found himself at a crossroads."
+    },
+    {
+     "id": "w-hindsight",
+     "en": "hindsight",
+     "es": "retrospectiva; con la perspectiva del tiempo",
+     "example": "With hindsight, I should have asked more questions."
+    },
+    {
+     "id": "w-regret",
+     "en": "regret (n./v.)",
+     "es": "arrepentimiento; lamentar",
+     "example": "I regret not having studied abroad.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-dilemma",
+     "en": "dilemma",
+     "es": "dilema",
+     "example": "She faced a painful dilemma between family and career.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-deliberate",
+     "en": "deliberate (v.)",
+     "es": "deliberar, reflexionar con detenimiento",
+     "example": "The jury deliberated for six hours.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-weigh-up",
+     "en": "weigh up (the pros and cons)",
+     "es": "sopesar (pros y contras)",
+     "example": "He weighed up the pros and cons before accepting.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-trade-off",
+     "en": "trade-off",
+     "es": "contrapartida, equilibrio entre dos cosas",
+     "example": "Higher pay came with a trade-off: longer hours."
+    },
+    {
+     "id": "w-leap-of-faith",
+     "en": "leap of faith",
+     "es": "salto de fe, apuesta sin garantías",
+     "example": "Quitting without a plan was a real leap of faith.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-gut-feeling",
+     "en": "gut feeling",
+     "es": "corazonada, intuición",
+     "example": "My gut feeling told me not to sign.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-two-minds",
+     "en": "be in two minds",
+     "es": "estar indeciso, dudar",
+     "example": "I'm in two minds about moving abroad.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-second-thoughts",
+     "en": "have second thoughts",
+     "es": "tener dudas, replantearse",
+     "example": "She is having second thoughts about the wedding.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-irreversible",
+     "en": "irreversible",
+     "es": "irreversible",
+     "example": "Some decisions are irreversible."
+    },
+    {
+     "id": "w-make-or-break",
+     "en": "make-or-break",
+     "es": "decisivo (puede salir muy bien o muy mal)",
+     "example": "This is a make-or-break moment for the company."
+    },
+    {
+     "id": "w-pros-cons",
+     "en": "pros and cons",
+     "es": "pros y contras",
+     "example": "Let's list the pros and cons of each option."
+    },
+    {
+     "id": "w-procrastinate",
+     "en": "procrastinate",
+     "es": "postergar, dejar para después",
+     "example": "I procrastinated for months before applying."
+    },
+    {
+     "id": "w-indecisive",
+     "en": "indecisive",
+     "es": "indeciso",
+     "example": "He's too indecisive to lead a team."
+    }
+   ]
+  },
+  {
+   "id": "v-life-change",
+   "kind": "vocab",
+   "title": "Life changes and career paths",
+   "words": [
+    {
+     "id": "w-resign",
+     "en": "resign",
+     "es": "renunciar, dimitir",
+     "example": "She resigned after ten years at the firm.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-relocate",
+     "en": "relocate",
+     "es": "mudarse (por trabajo), reubicar",
+     "example": "The company is relocating its head office to Querétaro."
+    },
+    {
+     "id": "w-sabbatical",
+     "en": "sabbatical",
+     "es": "año o periodo sabático",
+     "example": "He took a six-month sabbatical to write a novel."
+    },
+    {
+     "id": "w-retrain",
+     "en": "retrain",
+     "es": "reciclarse profesionalmente, formarse en otra área",
+     "example": "After the factory closed, he retrained as an electrician."
+    },
+    {
+     "id": "w-bite-the-bullet",
+     "en": "bite the bullet",
+     "es": "armarse de valor y afrontar algo difícil",
+     "example": "I decided to bite the bullet and ask for a transfer.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-fresh-start",
+     "en": "fresh start",
+     "es": "nuevo comienzo",
+     "example": "Moving to another country gave her a fresh start.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-comfort-zone",
+     "en": "comfort zone",
+     "es": "zona de confort",
+     "example": "Real growth begins outside your comfort zone.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-milestone",
+     "en": "milestone",
+     "es": "hito",
+     "example": "Graduating was a milestone in her life."
+    },
+    {
+     "id": "w-setback",
+     "en": "setback",
+     "es": "revés, contratiempo",
+     "example": "The project suffered a serious setback."
+    },
+    {
+     "id": "w-silver-lining",
+     "en": "silver lining",
+     "es": "lado positivo (de una mala situación)",
+     "example": "Every setback has a silver lining.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-blessing-in-disguise",
+     "en": "blessing in disguise",
+     "es": "una bendición disfrazada (algo malo que resulta bueno)",
+     "example": "Losing that job was a blessing in disguise.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-burn-bridges",
+     "en": "burn your bridges",
+     "es": "quemar las naves, cortar relaciones sin retorno",
+     "example": "Don't burn your bridges with your former employer.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-take-the-plunge",
+     "en": "take the plunge",
+     "es": "lanzarse, dar el paso",
+     "example": "After years of hesitating, they took the plunge and opened a café.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-cut-your-losses",
+     "en": "cut your losses",
+     "es": "cortar por lo sano, minimizar pérdidas",
+     "example": "He decided to cut his losses and sell the shop.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-fall-back-on",
+     "en": "fall back on",
+     "es": "recurrir a (un plan B)",
+     "example": "If it fails, I can always fall back on teaching.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-move-on",
+     "en": "move on",
+     "es": "pasar página, seguir adelante",
+     "example": "It's time to accept it and move on.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-regret",
+   "kind": "expressions",
+   "title": "Talking about decisions, regrets and alternatives",
+   "html": "<ul>\n<li><strong>Looking back, I think&hellip; / With hindsight,&hellip;</strong> — assess a past decision.</li>\n<li><strong>If I had it to do over again,&hellip;</strong> — «if I could do it all again…».</li>\n<li><strong>I should have + past participle / I shouldn't have + past participle</strong> — criticisms of oneself (softer than <em>I wish I had</em>).</li>\n<li><strong>What if&hellip;? / Suppose&hellip;</strong> — raise alternatives: <em>What if I had stayed?</em></li>\n<li><strong>On the one hand&hellip; on the other (hand)&hellip;</strong> — contrast options.</li>\n<li><strong>It could have been worse. / It's no use crying over spilt milk.</strong> — put a mistake into perspective.</li>\n<li><strong>I can't help wondering whether&hellip;</strong> — admit persistent doubts.</li>\n<li><strong>All things considered, I'd still&hellip; / I'd do it again.</strong> — close with an evaluation.</li>\n<li><strong>The die is cast.</strong> — the decision has been made and cannot be undone.</li>\n</ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Mixed conditionals",
+   "instructions": "Complete, choose or correct, respecting the shift in tenses.",
+   "topic": "g-mixed-cond",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "If I had accepted that offer in 2018, I ___ living in Berlin now.",
+     "answers": [
+      "would be",
+      "'d be",
+      "might be",
+      "could be"
+     ],
+     "explain": "Past → present: would + base."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "If she weren't so cautious, she ___ applied for the promotion last year.",
+     "answers": [
+      "would have",
+      "'d have",
+      "might have",
+      "could have"
+     ],
+     "explain": "Present → past: would have + past participle."
+    },
+    {
+     "id": "A3",
+     "type": "choice",
+     "prompt": "If we ___ the flat when it was cheap, we wouldn't be renting now.",
+     "options": [
+      "bought",
+      "had bought",
+      "would have bought"
+     ],
+     "answer": 1,
+     "explain": "The condition is in the past: past perfect."
+    },
+    {
+     "id": "A4",
+     "type": "fix",
+     "prompt": "If I would have studied medicine, I would be a doctor now.",
+     "answers": [
+      "If I had studied medicine, I would be a doctor now."
+     ],
+     "explain": "No would in the if-clause."
+    },
+    {
+     "id": "A5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "her,",
+      "be",
+      "met",
+      "now",
+      "hadn't",
+      "in",
+      "I",
+      "Madrid",
+      "wouldn't",
+      "living",
+      "If",
+      "I"
+     ],
+     "answers": [
+      "If I hadn't met her, I wouldn't be living in Madrid now."
+     ],
+     "explain": "Past perfect + would + base."
+    },
+    {
+     "id": "A6",
+     "type": "translate",
+     "prompt": "Si no hubiera aceptado ese trabajo, ahora no tendría estos amigos.",
+     "answers": [
+      "If I hadn't taken that job, I wouldn't have these friends now.",
+      "If I hadn't taken that job, I wouldn't have these friends today.",
+      "If I hadn't taken that job, I would not have these friends now.",
+      "If I hadn't taken that job, I would not have these friends today.",
+      "If I hadn't taken that position, I wouldn't have these friends now.",
+      "If I hadn't taken that position, I wouldn't have these friends today.",
+      "If I hadn't taken that position, I would not have these friends now.",
+      "If I hadn't taken that position, I would not have these friends today.",
+      "If I hadn't accepted that job, I wouldn't have these friends now.",
+      "If I hadn't accepted that job, I wouldn't have these friends today.",
+      "If I hadn't accepted that job, I would not have these friends now.",
+      "If I hadn't accepted that job, I would not have these friends today.",
+      "If I hadn't accepted that position, I wouldn't have these friends now.",
+      "If I hadn't accepted that position, I wouldn't have these friends today.",
+      "If I hadn't accepted that position, I would not have these friends now.",
+      "If I hadn't accepted that position, I would not have these friends today.",
+      "If I had not taken that job, I wouldn't have these friends now.",
+      "If I had not taken that job, I wouldn't have these friends today.",
+      "If I had not taken that job, I would not have these friends now.",
+      "If I had not taken that job, I would not have these friends today.",
+      "If I had not taken that position, I wouldn't have these friends now.",
+      "If I had not taken that position, I wouldn't have these friends today.",
+      "If I had not taken that position, I would not have these friends now.",
+      "If I had not taken that position, I would not have these friends today.",
+      "If I had not accepted that job, I wouldn't have these friends now.",
+      "If I had not accepted that job, I wouldn't have these friends today.",
+      "If I had not accepted that job, I would not have these friends now.",
+      "If I had not accepted that job, I would not have these friends today.",
+      "If I had not accepted that position, I wouldn't have these friends now.",
+      "If I had not accepted that position, I wouldn't have these friends today.",
+      "If I had not accepted that position, I would not have these friends now.",
+      "If I had not accepted that position, I would not have these friends today."
+     ],
+     "explain": "Mixed conditional: past → present."
+    },
+    {
+     "id": "A7",
+     "type": "choice",
+     "prompt": "Which sentence describes a present result of a past event?",
+     "options": [
+      "If she had saved more, she would have a deposit now.",
+      "If she saved more, she would have had a deposit.",
+      "If she has saved more, she would have a deposit now."
+     ],
+     "answer": 0,
+     "explain": "Past perfect + would + base."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Inverted conditional",
+   "instructions": "Complete or correct with Had, Were or Should.",
+   "topic": "g-inverted-cond",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "___ I known about the delay, I would have left earlier.",
+     "answers": [
+      "Had"
+     ],
+     "explain": "Type 3 inversion: Had + subject + past participle."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "___ you need any further information, please contact our office.",
+     "answers": [
+      "Should"
+     ],
+     "explain": "Should + subject + base."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "Were it not ___ my teacher's advice, I would never have applied.",
+     "answers": [
+      "for"
+     ],
+     "explain": "Were it not for + noun."
+    },
+    {
+     "id": "B4",
+     "type": "fix",
+     "prompt": "Hadn't I read the small print earlier, I would have signed the contract.",
+     "answers": [
+      "Had I not read the small print earlier, I would have signed the contract."
+     ],
+     "explain": "No contraction: Had I not…"
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "Rewrite «If you should need help, call me.»",
+     "options": [
+      "Should you need help, call me.",
+      "Do you need help, call me.",
+      "Would you need help, call me."
+     ],
+     "answer": 0,
+     "explain": "Should + subject + base."
+    },
+    {
+     "id": "B6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "train",
+      "have",
+      "we",
+      "earlier,",
+      "caught",
+      "left",
+      "we",
+      "would",
+      "the",
+      "Had"
+     ],
+     "answers": [
+      "Had we left earlier, we would have caught the train."
+     ],
+     "explain": "Had + subject + past participle."
+    },
+    {
+     "id": "B7",
+     "type": "translate",
+     "prompt": "De no haber sido por su ayuda, no habría terminado el proyecto.",
+     "answers": [
+      "Had it not been for her help, I would not have finished the project.",
+      "Had it not been for her help, I wouldn't have finished the project.",
+      "Had it not been for his help, I would not have finished the project.",
+      "Had it not been for his help, I wouldn't have finished the project.",
+      "Had it not been for their help, I would not have finished the project.",
+      "Had it not been for their help, I wouldn't have finished the project.",
+      "Had it not been for your help, I would not have finished the project.",
+      "Had it not been for your help, I wouldn't have finished the project.",
+      "But for her help, I would not have finished the project.",
+      "But for her help, I wouldn't have finished the project.",
+      "But for his help, I would not have finished the project.",
+      "But for his help, I wouldn't have finished the project.",
+      "But for their help, I would not have finished the project.",
+      "But for their help, I wouldn't have finished the project.",
+      "But for your help, I would not have finished the project.",
+      "But for your help, I wouldn't have finished the project.",
+      "Without her help, I would not have finished the project.",
+      "Without her help, I wouldn't have finished the project.",
+      "Without his help, I would not have finished the project.",
+      "Without his help, I wouldn't have finished the project.",
+      "Without their help, I would not have finished the project.",
+      "Without their help, I wouldn't have finished the project.",
+      "Without your help, I would not have finished the project.",
+      "Without your help, I wouldn't have finished the project."
+     ],
+     "explain": "Had it not been for + noun."
+    },
+    {
+     "id": "B8",
+     "type": "gap",
+     "prompt": "Were I ___ offer you the position, would you accept it?",
+     "answers": [
+      "to"
+     ],
+     "explain": "Were + subject + to + infinitive."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "wish / if only",
+   "instructions": "Complete or correct expressions of wish and regret.",
+   "topic": "g-wish",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "I wish I ___ more time to think it over.",
+     "answers": [
+      "had"
+     ],
+     "explain": "Unreal present: wish + past simple."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "If only I ___ taken that job in Toronto.",
+     "answers": [
+      "had",
+      "'d"
+     ],
+     "explain": "Unreal past: past perfect."
+    },
+    {
+     "id": "C3",
+     "type": "choice",
+     "prompt": "I wish my neighbours ___ so much noise.",
+     "options": [
+      "wouldn't make",
+      "won't make",
+      "don't make"
+     ],
+     "answer": 0,
+     "explain": "Wish + would to complain about someone else's behaviour."
+    },
+    {
+     "id": "C4",
+     "type": "fix",
+     "prompt": "I wish I would have more patience.",
+     "answers": [
+      "I wish I had more patience."
+     ],
+     "explain": "Same subject: wish + past simple, not would."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "She wishes she ___ the exam last month, but she didn't.",
+     "options": [
+      "passed",
+      "had passed",
+      "would pass"
+     ],
+     "answer": 1,
+     "explain": "Past regret: past perfect."
+    },
+    {
+     "id": "C6",
+     "type": "translate",
+     "prompt": "Ojalá hubiera escuchado a mi padre.",
+     "answers": [
+      "I wish I had listened to my father.",
+      "I wish I 'd listened to my father.",
+      "If only I had listened to my father.",
+      "If only I 'd listened to my father."
+     ],
+     "explain": "Unreal past: past perfect."
+    },
+    {
+     "id": "C7",
+     "type": "gap",
+     "prompt": "I wish you ___ leave your shoes in the hallway.",
+     "answers": [
+      "wouldn't"
+     ],
+     "explain": "Wish + would for someone else's annoying habit."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "would rather, it's time, had better",
+   "instructions": "Complete or correct the preference and urgency structures.",
+   "topic": "g-rather-time",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "I'd rather you ___ tell anyone about my plans.",
+     "answers": [
+      "didn't",
+      "did not"
+     ],
+     "explain": "Would rather + other subject + past simple."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "It's high time we ___ a decision.",
+     "answers": [
+      "made"
+     ],
+     "explain": "It's time + subject + past simple."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "I'd rather ___ than stay in a job I hate.",
+     "options": [
+      "resign",
+      "to resign",
+      "resigning"
+     ],
+     "answer": 0,
+     "explain": "Would rather + base."
+    },
+    {
+     "id": "D4",
+     "type": "fix",
+     "prompt": "It's time you to start looking for a new flat.",
+     "answers": [
+      "It's time you started looking for a new flat.",
+      "It's time you looked for a new flat.",
+      "It is time you started looking for a new flat.",
+      "It is time you looked for a new flat."
+     ],
+     "explain": "It's time + subject + past."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "I'd rather you ___ come to the meeting yesterday.",
+     "options": [
+      "didn't",
+      "hadn't",
+      "wouldn't"
+     ],
+     "answer": 1,
+     "explain": "Past reference: would rather + past perfect."
+    },
+    {
+     "id": "D6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "you",
+      "I",
+      "than",
+      "the",
+      "truth",
+      "rather",
+      "now",
+      "later",
+      "would",
+      "me",
+      "told"
+     ],
+     "answers": [
+      "I would rather you told me the truth now than later."
+     ],
+     "explain": "Would rather + subject + past simple."
+    },
+    {
+     "id": "D7",
+     "type": "translate",
+     "prompt": "Ya es hora de que dejes de postergar esta decisión.",
+     "answers": [
+      "It's high time you stopped putting off this decision.",
+      "It's high time you stopped postponing this decision.",
+      "It's high time you stopped procrastinating about this decision.",
+      "It's high time you quit putting off this decision.",
+      "It's high time you quit postponing this decision.",
+      "It's high time you quit procrastinating about this decision.",
+      "It's time you stopped putting off this decision.",
+      "It's time you stopped postponing this decision.",
+      "It's time you stopped procrastinating about this decision.",
+      "It's time you quit putting off this decision.",
+      "It's time you quit postponing this decision.",
+      "It's time you quit procrastinating about this decision.",
+      "It is high time you stopped putting off this decision.",
+      "It is high time you stopped postponing this decision.",
+      "It is high time you stopped procrastinating about this decision.",
+      "It is high time you quit putting off this decision.",
+      "It is high time you quit postponing this decision.",
+      "It is high time you quit procrastinating about this decision.",
+      "It is time you stopped putting off this decision.",
+      "It is time you stopped postponing this decision.",
+      "It is time you stopped procrastinating about this decision.",
+      "It is time you quit putting off this decision.",
+      "It is time you quit postponing this decision.",
+      "It is time you quit procrastinating about this decision."
+     ],
+     "explain": "It's high time + past simple."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Decisions and regret",
+   "instructions": "Complete with decision vocabulary.",
+   "topic": "v-decisions",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "With the benefit of ___, I would have chosen a different degree.",
+     "answers": [
+      "hindsight"
+     ],
+     "explain": "Hindsight = looking back on something with the benefit of experience."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "I'm in ___ minds about moving abroad: part of me wants to, part of me doesn't.",
+     "options": [
+      "two",
+      "both",
+      "double"
+     ],
+     "answer": 0,
+     "explain": "Be in two minds = to be undecided."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "Leaving my job without a plan was a real ___ of faith.",
+     "answers": [
+      "leap"
+     ],
+     "explain": "Leap of faith = a risky step taken without guarantees."
+    },
+    {
+     "id": "E4",
+     "type": "fix",
+     "prompt": "I'm having second thought about the contract.",
+     "answers": [
+      "I'm having second thoughts about the contract."
+     ],
+     "explain": "Second thoughts is always plural."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "A decision that cannot be undone is ___.",
+     "options": [
+      "irreversible",
+      "indecisive",
+      "deliberate"
+     ],
+     "answer": 0,
+     "explain": "Irreversible = cannot be reversed or undone."
+    },
+    {
+     "id": "E6",
+     "type": "translate",
+     "prompt": "Tuve que sopesar los pros y los contras antes de decidir.",
+     "answers": [
+      "I had to weigh up the pros and cons before deciding.",
+      "I had to weigh up the pros and cons before making a decision.",
+      "I had to weigh up the pros and cons before I decided.",
+      "I had to weigh the pros and cons before deciding.",
+      "I had to weigh the pros and cons before making a decision.",
+      "I had to weigh the pros and cons before I decided."
+     ],
+     "explain": "Weigh up the pros and cons."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "Meeting her was the ___ point of my career.",
+     "answers": [
+      "turning"
+     ],
+     "explain": "Turning point = a moment when things change direction."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Life changes",
+   "instructions": "Complete with change and career vocabulary.",
+   "topic": "v-life-change",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "After years in banking, she decided to ___ as a nurse.",
+     "answers": [
+      "retrain"
+     ],
+     "explain": "Retrain = to learn new skills for a different job."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "Losing that job turned out to be a ___ in disguise.",
+     "options": [
+      "blessing",
+      "bargain",
+      "burden"
+     ],
+     "answer": 0,
+     "explain": "A blessing in disguise = something bad that turns out well."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "I finally decided to bite the ___ and ask for a transfer.",
+     "answers": [
+      "bullet"
+     ],
+     "explain": "Bite the bullet = to face a difficult situation with courage."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "Don't ___ your bridges with your old employer; you might need a reference.",
+     "options": [
+      "burn",
+      "break",
+      "cross"
+     ],
+     "answer": 0,
+     "explain": "Burn your bridges = to end relationships so that there is no going back."
+    },
+    {
+     "id": "F5",
+     "type": "fix",
+     "prompt": "After the divorce, she needed a fresh begin.",
+     "answers": [
+      "After the divorce, she needed a fresh start."
+     ],
+     "explain": "Fresh start (noun)."
+    },
+    {
+     "id": "F6",
+     "type": "translate",
+     "prompt": "Salir de tu zona de confort es difícil, pero vale la pena.",
+     "answers": [
+      "Stepping out of your comfort zone is difficult, but it's worth it.",
+      "Stepping out of your comfort zone is difficult, but it is worth it.",
+      "Stepping out of your comfort zone is hard, but it's worth it.",
+      "Stepping out of your comfort zone is hard, but it is worth it.",
+      "Getting out of your comfort zone is difficult, but it's worth it.",
+      "Getting out of your comfort zone is difficult, but it is worth it.",
+      "Getting out of your comfort zone is hard, but it's worth it.",
+      "Getting out of your comfort zone is hard, but it is worth it."
+     ],
+     "explain": "Comfort zone = the familiar situation where one feels safe."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "Every setback has a silver ___ if you look hard enough.",
+     "answers": [
+      "lining"
+     ],
+     "explain": "Silver lining = a positive aspect of a bad situation."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "now",
+      "I",
+      "listened",
+      "I",
+      "instincts,",
+      "my",
+      "would",
+      "be",
+      "had",
+      "If",
+      "happier",
+      "to"
+     ],
+     "answers": [
+      "If I had listened to my instincts, I would be happier now."
+     ],
+     "explain": "Mixed: past perfect + would + base."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "she",
+      "she",
+      "declined",
+      "the",
+      "Had",
+      "offer",
+      "known",
+      "the",
+      "would",
+      "risks,",
+      "have"
+     ],
+     "answers": [
+      "Had she known the risks, she would have declined the offer."
+     ],
+     "explain": "Inverted conditional."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "time",
+      "my",
+      "had",
+      "spent",
+      "with",
+      "wish",
+      "grandparents",
+      "I",
+      "I",
+      "more"
+     ],
+     "answers": [
+      "I wish I had spent more time with my grandparents."
+     ],
+     "explain": "Wish + past perfect."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "about",
+      "made",
+      "It's",
+      "a",
+      "we",
+      "decision",
+      "the",
+      "house",
+      "time",
+      "high"
+     ],
+     "answers": [
+      "It's high time we made a decision about the house."
+     ],
+     "explain": "It's high time + past simple."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "please",
+      "you",
+      "know",
+      "mind,",
+      "let",
+      "your",
+      "Should",
+      "change",
+      "us"
+     ],
+     "answers": [
+      "Should you change your mind, please let us know."
+     ],
+     "explain": "Should + subject + base."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "would",
+      "it",
+      "hadn't",
+      "you",
+      "the",
+      "mentioned",
+      "board",
+      "rather",
+      "I",
+      "to"
+     ],
+     "answers": [
+      "I would rather you hadn't mentioned it to the board."
+     ],
+     "explain": "Would rather + past perfect."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate using conditionals, wish and would rather.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Si hubiera estudiado derecho, ahora sería abogado.",
+     "answers": [
+      "If I had studied law, I would be a lawyer now.",
+      "If I had studied law, I would be a solicitor now.",
+      "If I had studied law, I would be a attorney now.",
+      "If I had studied law, I'd be a lawyer now.",
+      "If I had studied law, I'd be a solicitor now.",
+      "If I had studied law, I'd be a attorney now.",
+      "If I'd studied law, I would be a lawyer now.",
+      "If I'd studied law, I would be a solicitor now.",
+      "If I'd studied law, I would be a attorney now.",
+      "If I'd studied law, I'd be a lawyer now.",
+      "If I'd studied law, I'd be a solicitor now.",
+      "If I'd studied law, I'd be a attorney now."
+     ],
+     "explain": "Mixed conditional."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "De haber sabido lo difícil que sería, no lo habría intentado.",
+     "answers": [
+      "Had I known how difficult it would be, I wouldn't have tried it.",
+      "Had I known how difficult it would be, I wouldn't have tried.",
+      "Had I known how difficult it would be, I would not have tried it.",
+      "Had I known how difficult it would be, I would not have tried.",
+      "Had I known how hard it would be, I wouldn't have tried it.",
+      "Had I known how hard it would be, I wouldn't have tried.",
+      "Had I known how hard it would be, I would not have tried it.",
+      "Had I known how hard it would be, I would not have tried.",
+      "If I had known how difficult it would be, I wouldn't have tried it.",
+      "If I had known how difficult it would be, I wouldn't have tried.",
+      "If I had known how difficult it would be, I would not have tried it.",
+      "If I had known how difficult it would be, I would not have tried.",
+      "If I had known how hard it would be, I wouldn't have tried it.",
+      "If I had known how hard it would be, I wouldn't have tried.",
+      "If I had known how hard it would be, I would not have tried it.",
+      "If I had known how hard it would be, I would not have tried."
+     ],
+     "explain": "Inversion or if + past perfect."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Ojalá la gente dejara de tirar basura en la calle.",
+     "answers": [
+      "I wish people would stop throwing rubbish in the street.",
+      "I wish people would stop throwing rubbish in the streets.",
+      "I wish people would stop throwing rubbish on the street.",
+      "I wish people would stop throwing rubbish on the streets.",
+      "I wish people would stop throwing litter in the street.",
+      "I wish people would stop throwing litter in the streets.",
+      "I wish people would stop throwing litter on the street.",
+      "I wish people would stop throwing litter on the streets.",
+      "I wish people would stop throwing trash in the street.",
+      "I wish people would stop throwing trash in the streets.",
+      "I wish people would stop throwing trash on the street.",
+      "I wish people would stop throwing trash on the streets.",
+      "I wish people would stop dropping rubbish in the street.",
+      "I wish people would stop dropping rubbish in the streets.",
+      "I wish people would stop dropping rubbish on the street.",
+      "I wish people would stop dropping rubbish on the streets.",
+      "I wish people would stop dropping litter in the street.",
+      "I wish people would stop dropping litter in the streets.",
+      "I wish people would stop dropping litter on the street.",
+      "I wish people would stop dropping litter on the streets.",
+      "I wish people would stop dropping trash in the street.",
+      "I wish people would stop dropping trash in the streets.",
+      "I wish people would stop dropping trash on the street.",
+      "I wish people would stop dropping trash on the streets."
+     ],
+     "explain": "Wish + would."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Prefiero que me lo digas ahora.",
+     "answers": [
+      "I'd rather you told me now.",
+      "I'd rather you let me know now.",
+      "I would rather you told me now.",
+      "I would rather you let me know now."
+     ],
+     "explain": "Would rather + subject + past simple."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Si no fuera tan tímido, me habría presentado al puesto.",
+     "answers": [
+      "If I weren't so shy, I would have applied for the job.",
+      "If I weren't so shy, I would have applied for the position.",
+      "If I weren't so shy, I 'd have applied for the job.",
+      "If I weren't so shy, I 'd have applied for the position.",
+      "If I were not so shy, I would have applied for the job.",
+      "If I were not so shy, I would have applied for the position.",
+      "If I were not so shy, I 'd have applied for the job.",
+      "If I were not so shy, I 'd have applied for the position.",
+      "If I wasn't so shy, I would have applied for the job.",
+      "If I wasn't so shy, I would have applied for the position.",
+      "If I wasn't so shy, I 'd have applied for the job.",
+      "If I wasn't so shy, I 'd have applied for the position."
+     ],
+     "explain": "Present → past."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Si llegas a necesitar algo, avísame.",
+     "answers": [
+      "Should you need anything, let me know.",
+      "Should you need anything, tell me.",
+      "Should you need anything, call me.",
+      "If you should need anything, let me know.",
+      "If you should need anything, tell me.",
+      "If you should need anything, call me.",
+      "If you need anything, let me know.",
+      "If you need anything, tell me.",
+      "If you need anything, call me."
+     ],
+     "explain": "Should + subject + base."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed review of the unit",
+   "instructions": "Mix of everything covered, plus two items from earlier units.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "If I ___ so stubborn back then, we would still be together.",
+     "options": [
+      "hadn't been",
+      "weren't",
+      "wouldn't have been"
+     ],
+     "answer": 0,
+     "explain": "Past → present: past perfect in the if-clause."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "___ I realised then what I know now, I would have stayed.",
+     "answers": [
+      "Had"
+     ],
+     "explain": "Inverted conditional."
+    },
+    {
+     "id": "M3",
+     "type": "choice",
+     "prompt": "I wish I ___ the courage to quit last year.",
+     "options": [
+      "had had",
+      "would have",
+      "had"
+     ],
+     "answer": 0,
+     "explain": "Past regret: had had."
+    },
+    {
+     "id": "M4",
+     "type": "gap",
+     "prompt": "It's time you ___ up your mind.",
+     "answers": [
+      "made"
+     ],
+     "explain": "It's time + past simple."
+    },
+    {
+     "id": "M5",
+     "type": "fix",
+     "prompt": "If only I would know then what I know now.",
+     "answers": [
+      "If only I had known then what I know now."
+     ],
+     "explain": "Past perfect for an unreal past."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "She decided to cut her ___ and sell the shop before it lost more money.",
+     "answers": [
+      "losses"
+     ],
+     "explain": "Cut your losses."
+    },
+    {
+     "id": "M7",
+     "type": "translate",
+     "prompt": "(Review: clefts) What I regret most is not having travelled more.",
+     "answers": [
+      "What I regret most is not having travelled more.",
+      "What I regret most is not having traveled more.",
+      "What I regret most is that I didn't travelled more.",
+      "What I regret most is that I didn't traveled more."
+     ],
+     "explain": "What I regret most is + focus."
+    },
+    {
+     "id": "M8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "conversation,",
+      "for",
+      "been",
+      "Had",
+      "that",
+      "would",
+      "not",
+      "it",
+      "stayed",
+      "have",
+      "in",
+      "I",
+      "León"
+     ],
+     "answers": [
+      "Had it not been for that conversation, I would have stayed in León."
+     ],
+     "explain": "Had it not been for + noun."
+    },
+    {
+     "id": "M9",
+     "type": "choice",
+     "prompt": "(Review: reporting verbs) She accused her manager ___ her ideas.",
+     "options": [
+      "of stealing",
+      "to steal",
+      "for stealing"
+     ],
+     "answer": 0,
+     "explain": "Accuse sb of + gerund."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "At the time I was in two ___ about the job offer.",
+     "answers": [
+      "minds"
+     ],
+     "explain": "Be in two minds."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a reflection of 270 to 330 words about a turning point in your life (a decision you made or avoided). Say what happened, what your life would be like if you had decided otherwise, and what you have learnt. Use at least one mixed conditional, one inverted conditional (Had I…), an expression with wish or if only, and vocabulary such as crossroads, hindsight, trade-off or leap of faith.",
+   "targets": [
+    "mixed conditionals",
+    "inverted conditionals",
+    "wish / if only",
+    "decision vocabulary"
+   ],
+   "checklist": [
+    "A mixed conditional with the correct tense shift",
+    "An inverted conditional without contraction (Had I not…)",
+    "At least one sentence with wish or if only",
+    "Three decision vocabulary words used accurately",
+    "A reflective tone with nuance (admittedly, in hindsight)",
+    "Organised paragraphs: context, decision, consequences, learning",
+    "Between 270 and 330 words"
+   ],
+   "model": "At twenty-eight, I found myself at a crossroads. A software company in Toronto offered me a position with a generous salary, and all I had to do was say yes. Instead, I turned it down. My mother had recently been ill, my relationship was still fragile, and the idea of leaving everything behind felt like too great a leap of faith. I told myself that the decision was purely rational although, admittedly, fear played a larger part than I was willing to acknowledge.\n\nIn hindsight, it was a decision with real trade-offs. If I had accepted the offer, I would be living in a very different city now, probably earning twice as much and speaking with a slightly different accent. I might not have my current job, which I love, and I would almost certainly not be sharing a flat with the person I married three years later. Had I not stayed, I would never have met her at a friend's wedding, a thought that still unsettles me.\n\nEven so, I sometimes wish I had been braver. I wish I had at least gone for six months, and if only I had asked myself what I wanted rather than what I feared losing. Careers can be rebuilt, but chances to live abroad are less common than we imagine, and I have never entirely shaken the feeling of a door left closed.\n\nWhat have I learnt? Mainly that no decision is purely rational, and that regret, in moderation, is a useful teacher. Had I been given the chance again, I might well have chosen differently, yet I doubt I would have been happier. Perhaps the real lesson is that a good life can be built on either side of a crossroads, provided we commit fully to the path we take."
+  },
+  {
+   "id": "W2",
+   "prompt": "A friend is torn between keeping a stable job and leaving it to start a project of their own. Write them an advice letter of 260 to 320 words. Weigh up the pros and cons, tell a case or a personal experience, and use Should you…, It's (high) time you…, I'd rather you… and a structure with had better. End with your recommendation and a warm but honest tone.",
+   "targets": [
+    "would rather",
+    "it's time",
+    "had better",
+    "Should + inversion",
+    "life-change vocabulary"
+   ],
+   "checklist": [
+    "Appropriate greeting and closing for a personal letter",
+    "At least one inversion with Should or Had",
+    "It's (high) time you + past",
+    "I'd rather you + past simple or past perfect",
+    "Vocabulary: comfort zone, setback, fall back on, take the plunge",
+    "Contrast linkers (on the other hand, that said)",
+    "Between 260 and 320 words"
+   ],
+   "model": "Dear Carlos,\n\nI was glad to hear from you, although I could tell from your message how torn you feel. Let me try to help you think it through, as someone who has been there.\n\nOn the one hand, your current job offers security, a decent salary and colleagues you like. On the other, you have told me for two years that you feel stuck, and that is not something to ignore. It's high time you decided whether staying is a choice or just a habit. Frankly, I'd rather you made the decision deliberately than drifted into it.\n\nLet me tell you about my cousin Laia. She left a stable post at a bank to open a small bakery. The first year was hard: she had to fall back on her savings, and she suffered a major setback when her oven broke down in December. Yet she never regretted taking the plunge, because she had prepared. Before leaving, she had saved eight months of expenses and tested her recipes at weekend markets. Had she gone in blindly, she would probably have failed.\n\nThat, I think, is the point. You had better not resign until you have a financial cushion and some evidence that people will pay for your idea. Should you find that the demand is real, the risk will look much smaller. Should it not, you will have lost little, and you will still have your job. Leaving your comfort zone need not mean burning your bridges: could you start the project in the evenings first?\n\nThat said, I'd rather you didn't wait for perfect conditions, because they rarely come. If I were you, I would set a deadline of six months and then decide.\n\nWhatever you choose, I'll support you. Just be honest with yourself about what you really want.\n\nWith love,\n\nMarta"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The road not taken, and the one I took",
+   "intro": "Read this personal essay about a decision and its consequences, then answer the questions.",
+   "paragraphs": [
+    "Everyone has a version of the same story. Somewhere in the past there is a Tuesday afternoon, an unremarkable room, a document waiting for a signature, and a decision that felt small at the time. Only years later, with the benefit of hindsight, do we recognise it as a crossroads. If I had not answered that email in the spring of 2016, I would still be running quarterly reports for a logistics firm in Monterrey. Instead, I am writing this from a rented attic in Oaxaca, with a half-finished manuscript and an uncertain income.",
+    "The email was an invitation to apply for a three-month fellowship at a small publishing house. I almost ignored it. My salary was good, my manager liked me, and I had just taken out a mortgage. Had I sat down and weighed up every pros-and-cons list I had ever drawn, the sensible column would have won by a mile. What tipped the balance was not courage; it was a gut feeling I could not justify to anyone, least of all to my mother, who asked, quite reasonably, whether I had lost my mind.",
+    "Psychologists who study regret have long observed an asymmetry. In the short run, people tend to feel worse about actions that went wrong than about opportunities they let pass. Over decades, the pattern reverses: it is the road not taken that haunts us. I am cautious about generalising from a handful of studies, and I know that regret is also shaped by temperament; some people are simply more prone to brooding than others. Still, the idea rings true. The people I interviewed for this piece rarely said, 'I wish I hadn't tried.' They said, 'I wish I had tried sooner.'",
+    "Take Marta, a civil engineer who retrained as a pastry chef at forty-one. She describes the first year as the hardest of her life. 'I would rather have kept my pension,' she admitted, laughing, 'but I'd rather not have kept it at the price of my curiosity.' Or Joaquín, who turned down a transfer to Chicago and still wonders, a decade later, what his life would be like if he had gone. He is not unhappy; he just cannot stop running the alternative film in his head. 'Should I ever get a second chance,' he told me, 'I would take the plunge without thinking twice.'",
+    "What these stories share is not a moral, however tempting one might be. Leaping is not always wise. Some leaps end badly, and anyone who tells you otherwise is selling a book, preferably their own. My fellowship led to nothing for eight months, and I came close, more than once, to cutting my losses and crawling back to my old desk. It was a modest commission, almost an afterthought, that kept me going. Without it, I would probably have given up.",
+    "If there is a lesson, it is a modest one. Decisions are rarely as binary as we imagine; most of them can be tested, staged or reversed at some cost. The real discipline lies in telling apart the choices that are genuinely irreversible from those that merely feel that way. And once the choice is made, it is worth resisting the urge to rewrite it. It is time we stopped treating hindsight as wisdom: it is merely information we did not have when it mattered. I do sometimes wish I had saved more money, and I wish my mother had been less right about the winter heating bills. But I have never wished I had stayed."
+   ],
+   "glossary": [
+    {
+     "en": "tip the balance",
+     "def": "to be the factor that decides an outcome."
+    },
+    {
+     "en": "least of all",
+     "def": "and certainly not; used to introduce the least likely person to react."
+    },
+    {
+     "en": "asymmetry",
+     "def": "a difference or imbalance between two things."
+    },
+    {
+     "en": "brooding",
+     "def": "thinking anxiously and repeatedly about something."
+    },
+    {
+     "en": "rings true",
+     "def": "sounds believable or convincing."
+    },
+    {
+     "en": "fellowship",
+     "def": "a paid period of study or research, often given to a promising professional."
+    },
+    {
+     "en": "commission",
+     "def": "a piece of work that someone has been paid to produce."
+    },
+    {
+     "en": "afterthought",
+     "def": "something added or considered late, as a secondary matter."
+    },
+    {
+     "en": "binary",
+     "def": "involving only two options or possibilities."
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "What does the writer say tipped the balance when he got the email?",
+     "options": [
+      "A sensible list of pros and cons",
+      "A gut feeling he could not justify",
+      "His mother's encouragement",
+      "A higher salary"
+     ],
+     "answer": 1,
+     "explain": "«It was a gut feeling I could not justify to anyone»."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "The writer's mother was supportive from the start.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "She asked whether she had lost her mind."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "According to the text, how does regret change over time?",
+     "options": [
+      "It fades for everything",
+      "Short-term regret is about actions that went wrong; long-term regret is about opportunities missed",
+      "People always regret acting",
+      "It never changes"
+     ],
+     "answer": 1,
+     "explain": "Asymmetry: short term, a failed action; long term, a path not taken."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Why does Joaquín still feel unsettled?",
+     "options": [
+      "His transfer to Chicago failed",
+      "He keeps imagining the life he might have had if he had gone",
+      "He lost his job",
+      "He regrets retraining"
+     ],
+     "answer": 1,
+     "explain": "«He cannot stop running the alternative film in his head»."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "The writer believes every leap of faith pays off.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Says some leaps end badly."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "According to the writer, hindsight is merely ___ we did not have when it mattered.",
+     "answers": [
+      "information"
+     ],
+     "explain": "«It is merely information we did not have when it mattered»."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "What kept the writer going when the fellowship led nowhere?",
+     "options": [
+      "A modest commission",
+      "A promotion",
+      "His mother's loan",
+      "A new mortgage"
+     ],
+     "answer": 0,
+     "explain": "«It was a modest commission… that kept me going»."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Second Thoughts: a radio call-in",
+   "intro": "Listen to a radio programme in which a caller asks for advice about a decision. You can play it again.",
+   "lines": [
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Welcome back to Second Thoughts. Our next caller is Elena, who says she's at a crossroads. Elena, what's going on?"
+    },
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "Hi. Well, I've been offered a job in Vancouver, and I can't decide whether to take it. I'm honestly in two minds."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "What's holding you back?"
+    },
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "Mostly my parents. If I moved, I wouldn't see them for months at a time. I wish I could split myself in two."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "That's a common dilemma. Let me ask you this. Had you been offered the job ten years ago, would you have hesitated?"
+    },
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "Honestly, no. I'd have been on the next plane. But I'd rather not repeat my brother's mistake. He moved abroad and regrets it."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Interesting. So are you afraid of regretting the move, or of regretting staying?"
+    },
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "Both, I suppose. It's high time I made a decision, but every time I do, I have second thoughts."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Let's bring in our guest, Dr. Ruiz, a psychologist who has written about regret."
+    },
+    {
+     "who": "Dr. Ruiz",
+     "voice": "glassy",
+     "text": "Thanks. Elena, one thing I'd suggest is to separate what is reversible from what isn't. Should you take the job and hate it, you could come back. A year abroad isn't a life sentence."
+    },
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "That's true. I hadn't thought of it as a trial."
+    },
+    {
+     "who": "Dr. Ruiz",
+     "voice": "glassy",
+     "text": "Exactly. And if you stay, ask yourself what you'd be doing in five years that you wouldn't be doing if you'd gone. If the answer excites you, that's a sign."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Elena, we'll have to leave it there. Any final thoughts?"
+    },
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "Just that I'd rather decide with a clear head than wait until someone decides for me. Thank you both."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What is Elena's dilemma?",
+     "options": [
+      "Whether to take a job in Vancouver given that her parents live far away",
+      "Whether to retrain as a psychologist",
+      "Whether to buy a flat",
+      "Whether to leave her brother's company"
+     ],
+     "answer": 0,
+     "explain": "They have an offer in Vancouver; their parents are far away."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Ten years ago Elena would have hesitated over the job.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Dice: «I'd have been on the next plane»."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Why does she not want to repeat her brother's mistake?",
+     "options": [
+      "He moved abroad and regrets it",
+      "He stayed and regrets it",
+      "He lost his job",
+      "He never travelled"
+     ],
+     "answer": 0,
+     "explain": "Su hermano se fue al extranjero y se arrepiente."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What does Dr. Ruiz suggest?",
+     "options": [
+      "Take the job immediately",
+      "Separate reversible choices from irreversible ones",
+      "Ask her brother for advice",
+      "Wait another year"
+     ],
+     "answer": 1,
+     "explain": "Distinguir lo reversible de lo irreversible."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What does Elena conclude at the end?",
+     "options": [
+      "She will refuse the job",
+      "She prefers to decide calmly rather than let others decide for her",
+      "She will ask her parents to decide",
+      "She wants more time to forget about it"
+     ],
+     "answer": 1,
+     "explain": "«I'd rather decide with a clear head than wait until someone decides for me»."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "If I moved, I wouldn't see them for months at a time.",
+     "answers": [
+      "If I moved, I wouldn't see them for months at a time."
+     ],
+     "explain": "Condicional tipo 2."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Had you been offered the job ten years ago, would you have hesitated?",
+     "answers": [
+      "Had you been offered the job ten years ago, would you have hesitated?"
+     ],
+     "explain": "Condicional invertido, tipo 3."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "It's high time I made a decision, but every time I do, I have second thoughts.",
+     "answers": [
+      "It's high time I made a decision, but every time I do, I have second thoughts."
+     ],
+     "explain": "It's high time + past simple."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "I'd rather decide with a clear head than wait until someone decides for me.",
+     "answers": [
+      "I'd rather decide with a clear head than wait until someone decides for me."
+     ],
+     "explain": "would rather + base + than + base."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about an important decision you made and how your life would have been if you had decided otherwise. Use a mixed conditional and decision vocabulary.",
+     "questions": [
+      "What was the most important decision you have made?",
+      "What alternatives did you consider?",
+      "How would your life be different if you had chosen otherwise?",
+      "Do you regret anything about it?"
+     ],
+     "model": "The most important decision I made was moving to Guadalajara for my master's. At the time I was in two minds, because it meant leaving my family and a stable job. If I hadn't gone, I would probably still be working in the same office, and I wouldn't have met my partner. Looking back, it was definitely a leap of faith, but I don't regret it. Had I stayed, I would always have wondered what might have happened.",
+     "checklist": [
+      "A mixed conditional (If I hadn't…, I would…)",
+      "An inverted conditional (Had I stayed…)",
+      "Vocabulary: be in two minds, leap of faith, looking back",
+      "A marker of personal reflection"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about something you wish you had done differently (wish / if only) and something you wish other people would stop doing.",
+     "questions": [
+      "What do you wish you had done differently?",
+      "What do you wish you had known earlier?",
+      "Is there anything that people do that you wish they wouldn't?"
+     ],
+     "model": "I wish I had started learning English earlier. If only I had taken it seriously at university, I would be fluent by now. I also wish people wouldn't use their phones in cinemas; it really spoils the experience. That said, I try not to dwell on regrets: what's done is done.",
+     "checklist": [
+      "I wish + past perfect",
+      "If only + past perfect",
+      "I wish + would",
+      "An expression to put things in perspective (what's done is done)"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Advise a friend who is torn between two job options. Weigh up the pros and cons and give a recommendation using would rather, it's time or had better.",
+     "questions": [
+      "What are the advantages of each option?",
+      "What are the risks?",
+      "What would you do in his position?",
+      "What would you advise him to do?"
+     ],
+     "model": "Honestly, if I were you, I'd take the new job. On the one hand, the salary is lower, but it's a real chance to grow. It's high time you stepped out of your comfort zone. I'd rather you tried and failed than never tried at all. Should it not work out, you could always fall back on your old company. You'd better decide soon, though: offers like this don't last.",
+     "checklist": [
+      "If I were you",
+      "It's (high) time you + past",
+      "I'd rather you + past",
+      "Should + inversion",
+      "Vocabulary: comfort zone, fall back on"
+     ]
+    }
+   ],
+   "repeat": [
+    "If I had accepted that offer, I would be living in Berlin now.",
+    "Had I known, I would have called you.",
+    "I wish I had listened to my father.",
+    "It's high time we made a decision.",
+    "I'd rather you didn't tell anyone.",
+    "Should you change your mind, please let us know."
+   ]
+  }
+ }
+}

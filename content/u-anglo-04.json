@@ -1,0 +1,1547 @@
+{
+ "id": "u-anglo-04",
+ "level": "B1",
+ "n": 4,
+ "title": "Money Matters",
+ "goals": [
+  "Compare prices, products and stores with comparatives (cheaper than, more expensive than, as ... as).",
+  "Say if something is too expensive or if you have enough money with too and enough.",
+  "Use someone, anything, nobody and other indefinite pronouns correctly.",
+  "Talk about a budget: income, expenses and savings.",
+  "Shop smart: ask about prices, discounts, receipts and returns.",
+  "Read a pay stub and understand gross pay, net pay and deductions.",
+  "Write a short recommendation of a product or a store."
+ ],
+ "learn": [
+  {
+   "id": "g-comparatives",
+   "kind": "grammar",
+   "title": "Comparatives",
+   "html": "<p>We use <strong>comparatives</strong> to say how two things or people are different. We usually use <strong>than</strong> after the comparative.</p><table><thead><tr><th>Type of adjective</th><th>Rule</th><th>Example</th></tr></thead><tbody><tr><td>Short (one syllable)</td><td>adjective + <strong>-er</strong></td><td>This phone is <strong>cheaper than</strong> that one.</td></tr><tr><td>Ends in -y</td><td>-y becomes <strong>-ier</strong></td><td>Online shopping is <strong>easier than</strong> going to the mall.</td></tr><tr><td>Long (two or more syllables)</td><td><strong>more</strong> + adjective</td><td>This laptop is <strong>more expensive than</strong> my old one.</td></tr><tr><td>Irregular</td><td>good - <strong>better</strong>; bad - <strong>worse</strong>; far - <strong>farther</strong></td><td>The prices here are <strong>better than</strong> the prices there.</td></tr><tr><td>Same level</td><td><strong>as + adjective + as</strong></td><td>My phone is <strong>as expensive as</strong> yours.</td></tr><tr><td>Less</td><td><strong>less</strong> + adjective / <strong>less</strong> + uncountable noun</td><td>I spend <strong>less</strong> money than my brother.</td></tr></tbody></table><ul><li>Use <em>much</em> or <em>a lot</em> before a comparative to make it stronger: <em>much cheaper</em>, <em>a lot more expensive</em>.</li><li>With short adjectives that end in one vowel and one consonant, double the last letter: <em>big - bigger</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "This bag is more cheap than that one.",
+     "right": "This bag is cheaper than that one.",
+     "why": "Short adjectives take -er. Do not use more with them."
+    },
+    {
+     "wrong": "The bus is cheaper that the taxi.",
+     "right": "The bus is cheaper than the taxi.",
+     "why": "After a comparative, use than, not that."
+    },
+    {
+     "wrong": "This TV is gooder than my old one.",
+     "right": "This TV is better than my old one.",
+     "why": "Good has an irregular comparative: better."
+    },
+    {
+     "wrong": "She earns more as her sister.",
+     "right": "She earns more than her sister.",
+     "why": "Use than after more. Use as only in as ... as."
+    }
+   ]
+  },
+  {
+   "id": "g-too-enough",
+   "kind": "grammar",
+   "title": "too and enough",
+   "html": "<p><strong>Too</strong> means more than we want or need. <strong>Enough</strong> means the right amount. Their position in the sentence is different.</p><table><thead><tr><th>Structure</th><th>Example</th><th>Meaning</th></tr></thead><tbody><tr><td><strong>too</strong> + adjective</td><td>The jacket is <strong>too</strong> expensive.</td><td>It costs more than I can pay.</td></tr><tr><td><strong>too much</strong> + uncountable noun</td><td>I spend <strong>too much</strong> money on food.</td><td>More money than is good.</td></tr><tr><td><strong>too many</strong> + plural noun</td><td>There are <strong>too many</strong> people in the store.</td><td>More people than we want.</td></tr><tr><td>adjective + <strong>enough</strong></td><td>The shoes are big <strong>enough</strong>.</td><td>The size is right.</td></tr><tr><td><strong>enough</strong> + noun</td><td>I don't have <strong>enough</strong> money.</td><td>I need more money.</td></tr><tr><td>too / enough + <strong>for</strong> + person</td><td>It is too small <strong>for me</strong>.</td><td>It does not fit me.</td></tr><tr><td>too / enough + <strong>to</strong> + verb</td><td>I'm not rich enough <strong>to buy</strong> a house.</td><td>I can't buy it.</td></tr></tbody></table><p><em>Too</em> is negative: it shows a problem. <em>Very</em> is only a strong word: <em>This phone is very good</em> (no problem) but <em>This phone is too expensive</em> (problem).</p>",
+   "watch": [
+    {
+     "wrong": "The bag isn't enough big.",
+     "right": "The bag isn't big enough.",
+     "why": "With an adjective, enough goes after the adjective."
+    },
+    {
+     "wrong": "I spend too many money on clothes.",
+     "right": "I spend too much money on clothes.",
+     "why": "Money is uncountable: too much, not too many."
+    },
+    {
+     "wrong": "I don't have enough of money.",
+     "right": "I don't have enough money.",
+     "why": "Do not use of between enough and a noun."
+    },
+    {
+     "wrong": "This phone is very expensive to buy it.",
+     "right": "This phone is too expensive to buy.",
+     "why": "Use too + adjective + to + verb. Do not repeat the object."
+    }
+   ]
+  },
+  {
+   "id": "g-indefinite",
+   "kind": "grammar",
+   "title": "Indefinite pronouns: someone, anything, nobody",
+   "html": "<p>We use <strong>indefinite pronouns</strong> when we don't say exactly which person, thing or place.</p><table><thead><tr><th></th><th>Some-</th><th>Any-</th><th>No-</th><th>Every-</th></tr></thead><tbody><tr><td>People</td><td>someone / somebody</td><td>anyone / anybody</td><td>no one / nobody</td><td>everyone / everybody</td></tr><tr><td>Things</td><td>something</td><td>anything</td><td>nothing</td><td>everything</td></tr><tr><td>Places</td><td>somewhere</td><td>anywhere</td><td>nowhere</td><td>everywhere</td></tr></tbody></table><ul><li><strong>some-</strong> in positive sentences and in offers: <em>Someone called you.</em> <em>Would you like something to drink?</em></li><li><strong>any-</strong> in questions and negative sentences: <em>Is there anything cheaper?</em> <em>I don't have anything.</em></li><li><strong>no-</strong> already has a negative meaning. Use it with a positive verb: <em>Nobody knows the price.</em></li><li>These pronouns are singular, so the verb is singular: <em>Everybody is here.</em></li><li>Add an adjective after the pronoun: <em>something cheaper</em>, <em>anything interesting</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I don't have nothing in my wallet.",
+     "right": "I don't have anything in my wallet. / I have nothing in my wallet.",
+     "why": "Use only one negative in a sentence."
+    },
+    {
+     "wrong": "Nobody don't know the price.",
+     "right": "Nobody knows the price.",
+     "why": "Nobody is already negative and takes a singular verb."
+    },
+    {
+     "wrong": "Everybody are happy with the discount.",
+     "right": "Everybody is happy with the discount.",
+     "why": "Everybody is singular: is."
+    },
+    {
+     "wrong": "Is there anything cheap than this?",
+     "right": "Is there anything cheaper than this?",
+     "why": "To compare, use the comparative after the pronoun."
+    }
+   ]
+  },
+  {
+   "id": "v-money",
+   "kind": "vocab",
+   "title": "Budget and smart shopping",
+   "words": [
+    {
+     "id": "w-budget",
+     "en": "budget",
+     "es": "presupuesto",
+     "example": "We made a budget for the month.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-income",
+     "en": "income",
+     "es": "ingreso",
+     "example": "Her income is higher than last year.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-expense",
+     "en": "expense",
+     "es": "gasto",
+     "example": "Rent is our biggest expense.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-savings",
+     "en": "savings",
+     "es": "ahorros",
+     "example": "He keeps his savings in a bank account.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-spend",
+     "en": "spend",
+     "es": "gastar",
+     "example": "I spend too much money on coffee.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-afford",
+     "en": "afford",
+     "es": "poder pagar, permitirse",
+     "example": "We can't afford a new car this year.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-discount",
+     "en": "discount",
+     "es": "descuento",
+     "example": "The store gives a 20 percent discount on Fridays.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-bargain",
+     "en": "bargain",
+     "es": "ganga",
+     "example": "These shoes were a real bargain.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-cash",
+     "en": "cash",
+     "es": "efectivo",
+     "example": "Do you pay in cash or by card?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-debit-card",
+     "en": "debit card",
+     "es": "tarjeta de débito",
+     "example": "I paid with my debit card.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-receipt",
+     "en": "receipt",
+     "es": "recibo, ticket de compra",
+     "example": "Keep the receipt if you want to return it.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-refund",
+     "en": "refund",
+     "es": "reembolso",
+     "example": "The store gave me a refund for the broken lamp.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-warranty",
+     "en": "warranty",
+     "es": "garantía",
+     "example": "This laptop has a one-year warranty."
+    },
+    {
+     "id": "w-delivery-cost",
+     "en": "delivery cost",
+     "es": "costo de envío",
+     "example": "The delivery cost is not included in the price.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "v-paystub",
+   "kind": "vocab",
+   "title": "Life skills: the pay stub",
+   "words": [
+    {
+     "id": "w-pay-stub",
+     "en": "pay stub",
+     "es": "recibo de nómina",
+     "example": "My pay stub shows my salary and my deductions.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-gross-pay",
+     "en": "gross pay",
+     "es": "sueldo bruto",
+     "example": "Gross pay is the money before taxes.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-net-pay",
+     "en": "net pay",
+     "es": "sueldo neto",
+     "example": "My net pay is the money I take home.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-deduction",
+     "en": "deduction",
+     "es": "deducción, descuento de nómina",
+     "example": "There is a deduction for health insurance."
+    },
+    {
+     "id": "w-tax",
+     "en": "tax",
+     "es": "impuesto",
+     "example": "The company takes the tax from my pay.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-overtime",
+     "en": "overtime",
+     "es": "horas extra",
+     "example": "He gets extra money for overtime.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-hourly-rate",
+     "en": "hourly rate",
+     "es": "pago por hora",
+     "example": "Her hourly rate is 90 pesos.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-salary",
+     "en": "salary",
+     "es": "sueldo, salario",
+     "example": "His salary is paid every two weeks.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-pay-period",
+     "en": "pay period",
+     "es": "periodo de pago",
+     "example": "The pay period is from the 1st to the 15th.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-bonus",
+     "en": "bonus",
+     "es": "bono",
+     "example": "We got a bonus in December.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-direct-deposit",
+     "en": "direct deposit",
+     "es": "depósito directo",
+     "example": "My salary arrives by direct deposit.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-year-to-date",
+     "en": "year to date",
+     "es": "acumulado del año",
+     "example": "The year to date total shows all my pay this year.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-money-talk",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>Let's make a budget. / We need to spend less.</strong> — planning money with someone.</li><li><strong>What is our monthly income? / How much is our rent?</strong> — talking about numbers in a budget.</li><li><strong>Can we afford it? / It's too expensive for us.</strong> — deciding if you can buy something.</li><li><strong>Is that enough? / That's not enough.</strong> — checking an amount.</li><li><strong>How much does this cost? / How much is it?</strong> — asking a price.</li><li><strong>Is there a discount? / Do you have anything cheaper?</strong> — looking for a better price.</li><li><strong>Can I pay by card? / Can I have the receipt, please?</strong> — paying in a store.</li><li><strong>I'd like to return this. / Can I get a refund?</strong> — returning a product.</li><li><strong>I recommend it. / It's worth the money.</strong> — recommending a product or a store.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Comparatives",
+   "instructions": "Complete, choose, correct or order.",
+   "topic": "g-comparatives",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "This phone is ___ than that one. (cheap)",
+     "answers": [
+      "cheaper"
+     ],
+     "explain": "Short adjective: add -er."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Prices online are usually ___ than prices in stores. (low)",
+     "answers": [
+      "lower"
+     ],
+     "explain": "Low is short: lower."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "The red jacket is ___ than the black one. (expensive)",
+     "answers": [
+      "more expensive"
+     ],
+     "explain": "Long adjective: more + adjective."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "The new supermarket is ___ than the old one. (good)",
+     "answers": [
+      "better"
+     ],
+     "explain": "Good is irregular: better."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "My new laptop is ___ my old one.",
+     "options": [
+      "faster than",
+      "more fast than",
+      "fast than"
+     ],
+     "answer": 0,
+     "explain": "Fast is short: faster than."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "This bag is more cheap than that one.",
+     "answers": [
+      "This bag is cheaper than that one."
+     ],
+     "explain": "Cheap takes -er, not more."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "The bus is more slow that the metro.",
+     "answers": [
+      "The bus is slower than the metro."
+     ],
+     "explain": "Slow takes -er, and we use than."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "The",
+      "market",
+      "is",
+      "cheaper",
+      "than",
+      "the",
+      "supermarket"
+     ],
+     "answers": [
+      "The market is cheaper than the supermarket."
+     ],
+     "explain": "Subject + be + comparative + than."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "More comparatives",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-comparatives",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "My phone is not as expensive ___ yours.",
+     "answers": [
+      "as"
+     ],
+     "explain": "Not as ... as compares two equal things."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "Your bill is ___ than mine. (bad)",
+     "answers": [
+      "worse"
+     ],
+     "explain": "Bad is irregular: worse."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "Shopping online is ___ convenient than going to the mall.",
+     "answers": [
+      "more"
+     ],
+     "explain": "Convenient is long: more convenient."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "I spend ___ money than my brother.",
+     "options": [
+      "less",
+      "fewer",
+      "least"
+     ],
+     "answer": 0,
+     "explain": "Money is uncountable: less money."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "Clothes are ___ in January because of the sales.",
+     "options": [
+      "cheaper",
+      "more cheap",
+      "cheapest"
+     ],
+     "answer": 0,
+     "explain": "Cheap + -er = cheaper."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "She earns more that her sister.",
+     "answers": [
+      "She earns more than her sister."
+     ],
+     "explain": "Use than after more."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "This TV is gooder than that one.",
+     "answers": [
+      "This TV is better than that one."
+     ],
+     "explain": "Good becomes better."
+    },
+    {
+     "id": "B8",
+     "type": "translate",
+     "prompt": "Este celular es más barato que el tuyo.",
+     "answers": [
+      "This phone is cheaper than yours.",
+      "This cell phone is cheaper than yours.",
+      "This cellphone is cheaper than yours.",
+      "This mobile phone is cheaper than yours.",
+      "This mobile is cheaper than yours."
+     ],
+     "explain": "Cheaper than + yours."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "too and enough",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-too-enough",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "The jacket is ___ expensive. I can't buy it.",
+     "answers": [
+      "too"
+     ],
+     "explain": "Too + adjective shows a problem."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "I don't have ___ money for a new car.",
+     "answers": [
+      "enough"
+     ],
+     "explain": "Enough goes before a noun."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "There are too ___ people in the store today.",
+     "answers": [
+      "many"
+     ],
+     "explain": "People is plural and countable: too many."
+    },
+    {
+     "id": "C4",
+     "type": "translate",
+     "prompt": "Es demasiado caro para mí.",
+     "answers": [
+      "It's too expensive for me.",
+      "It is too expensive for me.",
+      "That's too expensive for me.",
+      "That is too expensive for me.",
+      "This is too expensive for me.",
+      "This's too expensive for me."
+     ],
+     "explain": "Too + adjective + for + person."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "This phone is ___ expensive for my budget.",
+     "options": [
+      "too",
+      "enough",
+      "very much"
+     ],
+     "answer": 0,
+     "explain": "Too shows it is more than my budget allows."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "Is 500 pesos ___ for the tickets?",
+     "options": [
+      "enough",
+      "too",
+      "enough of"
+     ],
+     "answer": 0,
+     "explain": "Enough alone means a sufficient amount."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "The bag isn't enough big.",
+     "answers": [
+      "The bag isn't big enough.",
+      "The bag is not big enough."
+     ],
+     "explain": "Enough goes after the adjective."
+    },
+    {
+     "id": "C8",
+     "type": "fix",
+     "prompt": "She spends too many money on clothes.",
+     "answers": [
+      "She spends too much money on clothes."
+     ],
+     "explain": "Money is uncountable: too much."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Indefinite pronouns",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-indefinite",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "I want to buy a gift, but I don't have ___ in mind.",
+     "answers": [
+      "anything"
+     ],
+     "explain": "Negative sentence: anything."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "___ called about your refund, but they didn't leave a name.",
+     "answers": [
+      "Someone",
+      "Somebody"
+     ],
+     "explain": "Positive sentence: someone / somebody."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "My wallet is empty. There is ___ in it.",
+     "answers": [
+      "nothing"
+     ],
+     "explain": "Nothing = not anything, with a positive verb."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "Is there ___ cheaper than this?",
+     "answers": [
+      "anything",
+      "something"
+     ],
+     "explain": "Questions usually use anything."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "Nobody ___ to pay full price.",
+     "options": [
+      "wants",
+      "want",
+      "don't want"
+     ],
+     "answer": 0,
+     "explain": "Nobody is singular: wants."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "I didn't buy ___ at the sale.",
+     "options": [
+      "anything",
+      "nothing",
+      "something"
+     ],
+     "answer": 0,
+     "explain": "Negative verb + anything."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "I don't have nothing in my budget for gifts.",
+     "answers": [
+      "I don't have anything in my budget for gifts.",
+      "I have nothing in my budget for gifts."
+     ],
+     "explain": "Do not use two negatives."
+    },
+    {
+     "id": "D8",
+     "type": "fix",
+     "prompt": "Everybody are happy with the new discount.",
+     "answers": [
+      "Everybody is happy with the new discount."
+     ],
+     "explain": "Everybody is singular: is."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: budget and shopping",
+   "instructions": "Complete or choose the correct word.",
+   "topic": "v-money",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "The money you earn every month is your ___.",
+     "answers": [
+      "income"
+     ],
+     "explain": "Income is money that comes in."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "A lower price than normal is a...",
+     "options": [
+      "discount",
+      "warranty",
+      "receipt"
+     ],
+     "answer": 0,
+     "explain": "A discount lowers the price."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "Keep your ___ in case you need to return the product.",
+     "answers": [
+      "receipt"
+     ],
+     "explain": "A receipt shows that you bought it."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "I can't ___ a new phone. It costs too much.",
+     "answers": [
+      "afford"
+     ],
+     "explain": "Afford = have enough money to buy."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "A promise that the company will fix a broken product is a...",
+     "options": [
+      "warranty",
+      "bonus",
+      "budget"
+     ],
+     "answer": 0,
+     "explain": "A warranty protects you after you buy."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "Money that you keep for the future is your ___.",
+     "answers": [
+      "savings"
+     ],
+     "explain": "Savings is always plural."
+    },
+    {
+     "id": "E7",
+     "type": "choice",
+     "prompt": "When a store gives your money back, you get a...",
+     "options": [
+      "refund",
+      "bargain",
+      "expense"
+     ],
+     "answer": 0,
+     "explain": "A refund is money returned to you."
+    },
+    {
+     "id": "E8",
+     "type": "gap",
+     "prompt": "A plan that shows your income and expenses is a ___.",
+     "answers": [
+      "budget"
+     ],
+     "explain": "A budget plans how to use money."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Pay stub and useful expressions",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "v-paystub",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "Your pay before taxes is your ___ pay.",
+     "options": [
+      "gross",
+      "net",
+      "direct"
+     ],
+     "answer": 0,
+     "explain": "Gross pay is before deductions."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "Your ___ pay is the money you take home after deductions.",
+     "answers": [
+      "net"
+     ],
+     "explain": "Net pay is after deductions."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "Extra hours at work are paid as...",
+     "options": [
+      "overtime",
+      "a refund",
+      "savings"
+     ],
+     "answer": 0,
+     "explain": "Overtime = hours over the normal schedule."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "My salary arrives in my bank account by ___ deposit.",
+     "answers": [
+      "direct"
+     ],
+     "explain": "Direct deposit goes straight to the bank."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "Which question is correct to ask about a price?",
+     "options": [
+      "How much does this cost?",
+      "How much cost this?",
+      "How many costs this?"
+     ],
+     "answer": 0,
+     "explain": "Use How much + does + subject + cost?"
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "This jacket has a small mark. Could you give me a ___?",
+     "answers": [
+      "discount"
+     ],
+     "explain": "Ask for a discount when there is a problem."
+    },
+    {
+     "id": "F7",
+     "type": "fix",
+     "prompt": "How much cost this bag?",
+     "answers": [
+      "How much does this bag cost?"
+     ],
+     "explain": "Questions need does before the subject."
+    },
+    {
+     "id": "F8",
+     "type": "translate",
+     "prompt": "¿Puedo pagar con tarjeta?",
+     "answers": [
+      "Can I pay by card?",
+      "Can I pay with a card?",
+      "Can I pay with my card?",
+      "Can I pay with card?",
+      "Can I pay by credit card?",
+      "Can I pay with a credit card?",
+      "Can I pay with a debit card?"
+     ],
+     "explain": "Can I pay by / with card?"
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "than",
+      "Is",
+      "cheaper",
+      "phone",
+      "this",
+      "that",
+      "one"
+     ],
+     "answers": [
+      "Is this phone cheaper than that one?"
+     ],
+     "explain": "Be + subject + comparative + than."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "for",
+      "It",
+      "too",
+      "is",
+      "expensive",
+      "me"
+     ],
+     "answers": [
+      "It is too expensive for me."
+     ],
+     "explain": "Too + adjective + for + person."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "enough",
+      "I",
+      "for",
+      "have",
+      "money",
+      "don't",
+      "rent",
+      "the"
+     ],
+     "answers": [
+      "I don't have enough money for the rent."
+     ],
+     "explain": "Enough goes before the noun."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "anything",
+      "Is",
+      "cheaper",
+      "there",
+      "in",
+      "store",
+      "this"
+     ],
+     "answers": [
+      "Is there anything cheaper in this store?"
+     ],
+     "explain": "Anything + comparative in a question."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "is",
+      "than",
+      "Her",
+      "salary",
+      "mine",
+      "higher"
+     ],
+     "answers": [
+      "Her salary is higher than mine."
+     ],
+     "explain": "Subject + be + comparative + than."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "a",
+      "Someone",
+      "bag",
+      "left",
+      "near",
+      "cash",
+      "the",
+      "register"
+     ],
+     "answers": [
+      "Someone left a bag near the cash register."
+     ],
+     "explain": "Someone is the subject of a positive sentence."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Mi sueldo es más alto que el año pasado.",
+     "answers": [
+      "My salary is higher than last year.",
+      "My salary is higher than it was last year.",
+      "My pay is higher than last year.",
+      "My pay is higher than it was last year."
+     ],
+     "explain": "High + -er = higher."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Este abrigo es demasiado grande para mí.",
+     "answers": [
+      "This coat is too big for me.",
+      "This jacket is too big for me.",
+      "This coat is too large for me.",
+      "This jacket is too large for me."
+     ],
+     "explain": "Too + adjective + for me."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "No tengo suficiente dinero para el viaje.",
+     "answers": [
+      "I don't have enough money for the trip.",
+      "I do not have enough money for the trip.",
+      "I haven't got enough money for the trip.",
+      "I don't have enough money for the journey.",
+      "I don't have enough money for the travel."
+     ],
+     "explain": "Enough goes before money."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Nadie quiere pagar el precio completo.",
+     "answers": [
+      "Nobody wants to pay the full price.",
+      "No one wants to pay the full price.",
+      "Nobody wants to pay full price.",
+      "No one wants to pay full price."
+     ],
+     "explain": "Nobody + singular verb."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "¿Hay algo más barato?",
+     "answers": [
+      "Is there anything cheaper?",
+      "Is there something cheaper?",
+      "Do you have anything cheaper?",
+      "Do you have something cheaper?"
+     ],
+     "explain": "Anything + comparative."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Yo ahorro más dinero que mi hermano.",
+     "answers": [
+      "I save more money than my brother.",
+      "I save more than my brother.",
+      "I save more money than my brother does."
+     ],
+     "explain": "More + noun + than."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes 2 review items from earlier topics).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Online shopping is ___ shopping at the mall.",
+     "options": [
+      "more convenient than",
+      "convenienter than",
+      "most convenient than"
+     ],
+     "answer": 0,
+     "explain": "Long adjective: more + adjective + than."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "I can't buy it. It's ___ expensive.",
+     "answers": [
+      "too"
+     ],
+     "explain": "Too shows a problem."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "Nobody don't know the price.",
+     "answers": [
+      "Nobody knows the price.",
+      "No one knows the price."
+     ],
+     "explain": "Nobody is negative and singular."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Mi sueldo neto es menor que mi sueldo bruto.",
+     "answers": [
+      "My net pay is lower than my gross pay.",
+      "My net salary is lower than my gross salary.",
+      "My net pay is less than my gross pay.",
+      "My net salary is less than my gross salary."
+     ],
+     "explain": "Net pay is lower than gross pay."
+    },
+    {
+     "id": "M5",
+     "type": "gap",
+     "prompt": "Is this jacket warm ___ for winter?",
+     "answers": [
+      "enough"
+     ],
+     "explain": "Adjective + enough."
+    },
+    {
+     "id": "M6",
+     "type": "choice",
+     "prompt": "I'd like to return this. Here is my ___.",
+     "options": [
+      "receipt",
+      "bonus",
+      "salary"
+     ],
+     "answer": 0,
+     "explain": "You need the receipt to return something."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "Yesterday I ___ a great bargain at the market. (find) (review: simple past)",
+     "answers": [
+      "found"
+     ],
+     "explain": "Find is irregular: found."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "Right now Lucia ___ her bills online. (pay) (review: present continuous)",
+     "answers": [
+      "is paying",
+      "'s paying"
+     ],
+     "explain": "Right now: is + verb-ing."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a recommendation of a product or a store (120 to 160 words). Say what it is, why it is good, how it compares with other options (cheaper than, better than), what is not perfect (too..., not ... enough), and who you recommend it to. Opening: I want to recommend...",
+   "targets": [
+    "comparatives",
+    "too / enough",
+    "indefinite pronouns",
+    "recommendation"
+   ],
+   "checklist": [
+    "120 to 160 words",
+    "At least two comparatives with than",
+    "One sentence with too and one with enough",
+    "One indefinite pronoun (nobody, anything, someone...)",
+    "A clear recommendation at the end",
+    "Money and shopping vocabulary (price, discount, budget...)"
+   ],
+   "model": "I want to recommend Casa Verde, a small grocery store near my house in Guadalajara. It is not the biggest store in the neighborhood, but it is better than the supermarket for fresh food. The fruit and vegetables are fresher, and the prices are lower than in the big stores. Nobody there is rude: the owner always says hello and helps you find what you need. The store is small, so it is too crowded on Saturdays, and I usually go on weekday mornings. There is also something special: you can ask for a discount if you buy a lot of vegetables. I think it is the cheapest place for healthy food in my area. Is there anything I don't like? The store closes early, at 7 p.m., which is not late enough for people who work. Overall, I strongly recommend it, especially for families who want to save money."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a short message to a friend (80 to 120 words). You want to buy something (a phone, a bike, a laptop) and you need advice. Compare two options, say what is too expensive or not good enough, and ask a question with anything or someone.",
+   "targets": [
+    "comparatives",
+    "too / enough",
+    "asking for advice"
+   ],
+   "checklist": [
+    "80 to 120 words",
+    "Two options compared with a comparative",
+    "One sentence with too and one with enough",
+    "A question with anything, someone or anyone",
+    "A polite ending"
+   ],
+   "model": "Hi Sofia! I'm looking for a new phone, and I need your advice. My budget is not very high, so I can't buy something too expensive. I saw two models online. The first one is cheaper, but its camera isn't good enough for photos. The second one is more expensive and has a better battery. Does anyone you know have the second model? Is there anything I should check before I buy it? Please tell me what you think. Maybe we can go to the store together on Saturday and compare the prices. Thanks! Marco"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Smart Shopping for a New Laptop",
+   "intro": "Read about Marta's laptop and answer.",
+   "paragraphs": [
+    "Last month, Marta decided to buy a new laptop for her studies. Her old computer was too slow, and it didn't have enough memory for her programs. She didn't have a lot of money, so she made a budget first. She wrote down her income and her fixed expenses, and she saw that she could spend about 9,000 pesos.",
+    "Marta started shopping online. At first, everything looked cheap and exciting. One laptop was cheaper than the others, but the reviews were bad: people said the battery was too weak and the screen was darker than in the photos. Another laptop was more expensive, but it was faster and lighter. It cost 11,500 pesos, which was too much for her budget.",
+    "Then Marta asked her cousin Ivan for help. \"Nobody should buy the first thing they see,\" he said. \"Compare prices in three different stores. Look for a discount, but also check the delivery cost and the warranty.\" Marta found something interesting: a store near her home sold the same laptop as the website, and it was 800 pesos cheaper because of a weekend sale.",
+    "She also learned that the best price is not always the best deal. A very cheap laptop with no warranty can be more expensive in the end if it breaks after six months. Marta read the return policy carefully. She wanted to be sure that someone could help her if there was a problem.",
+    "Finally, she bought a laptop for 8,700 pesos. It is not the newest model, but it is fast enough for her classes, and it is lighter than her old one. She paid with her debit card, kept the receipt, and put it in a folder. Now she is saving a little money every month, and she has an emergency fund. \"Smart shopping takes more time,\" she says, \"but it is much cheaper than a mistake.\""
+   ],
+   "glossary": [
+    {
+     "en": "memory",
+     "def": "the part of a computer that stores information for programs"
+    },
+    {
+     "en": "fixed expenses",
+     "def": "money you must pay every month, such as rent"
+    },
+    {
+     "en": "review",
+     "def": "an opinion about a product written by a customer"
+    },
+    {
+     "en": "weak",
+     "def": "not strong"
+    },
+    {
+     "en": "return policy",
+     "def": "the store's rules for giving a product back"
+    },
+    {
+     "en": "emergency fund",
+     "def": "money saved for unexpected problems"
+    },
+    {
+     "en": "deal",
+     "def": "an agreement about price; a good or bad purchase"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Marta's old computer was too slow.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "The text says her old computer was too slow."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Why didn't Marta buy the cheapest laptop?",
+     "options": [
+      "The reviews were bad",
+      "It was too heavy",
+      "The store was far away"
+     ],
+     "answer": 0,
+     "explain": "People said the battery was weak and the screen was dark."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "The faster, lighter laptop cost 11,500 pesos. What was the problem?",
+     "options": [
+      "It was too expensive for her budget",
+      "It was not fast enough",
+      "It had no battery"
+     ],
+     "answer": 0,
+     "explain": "It was too much for her budget of about 9,000 pesos."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "The store near her home sold the laptop ___ pesos cheaper than the website.",
+     "answers": [
+      "800"
+     ],
+     "explain": "The store was 800 pesos cheaper."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "Ivan says you should buy the first thing you see.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "He says nobody should buy the first thing they see."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "How much did Marta pay for her laptop?",
+     "options": [
+      "8,700 pesos",
+      "9,000 pesos",
+      "11,500 pesos"
+     ],
+     "answer": 0,
+     "explain": "She bought it for 8,700 pesos."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "After she paid, Marta kept the ___ in a folder.",
+     "answers": [
+      "receipt"
+     ],
+     "explain": "She kept the receipt."
+    },
+    {
+     "id": "R8",
+     "type": "translate",
+     "prompt": "Es más barato comparar precios.",
+     "answers": [
+      "It is cheaper to compare prices.",
+      "It's cheaper to compare prices.",
+      "Comparing prices is cheaper.",
+      "It is cheaper to compare the prices.",
+      "It's cheaper to compare the prices."
+     ],
+     "explain": "Cheaper + to + verb."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Making a family budget",
+   "intro": "Listen to a couple who make a budget. You can repeat it.",
+   "lines": [
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Luis, we need to make a budget. We spend more money every month."
+    },
+    {
+     "who": "Luis",
+     "voice": "buttery",
+     "text": "You're right. Our rent is higher than last year, and food is more expensive too."
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Let's write down our income first. I earn 14,000 pesos, and you earn 12,500."
+    },
+    {
+     "who": "Luis",
+     "voice": "buttery",
+     "text": "So we have 26,500 pesos a month. Now the fixed expenses: rent, electricity, internet and the bus."
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Rent is 9,000. Electricity is not very high, only 600. Internet is 500."
+    },
+    {
+     "who": "Luis",
+     "voice": "buttery",
+     "text": "What about entertainment? Streaming, restaurants, movies. We spend too much there."
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "I agree. Nobody needs three streaming accounts. We can cancel two of them."
+    },
+    {
+     "who": "Luis",
+     "voice": "buttery",
+     "text": "Good idea. And I want to save something every month. Is 3,000 pesos enough?"
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "It's not enough for a vacation, but it's a good start. Let's try 4,000."
+    },
+    {
+     "who": "Luis",
+     "voice": "buttery",
+     "text": "Okay. Is there anything else we forgot?"
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Yes, the gym. Nobody goes there anymore. It's too expensive for what we use."
+    },
+    {
+     "who": "Luis",
+     "voice": "buttery",
+     "text": "Then we can cancel it too. Let's put everything in a spreadsheet tonight."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What do Nora and Luis want to make?",
+     "options": [
+      "A budget",
+      "A shopping list",
+      "A vacation plan"
+     ],
+     "answer": 0,
+     "explain": "Nora says: we need to make a budget."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "How much does Nora earn?",
+     "options": [
+      "14,000 pesos",
+      "12,500 pesos",
+      "26,500 pesos"
+     ],
+     "answer": 0,
+     "explain": "Nora earns 14,000; Luis earns 12,500."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Where do they spend too much money?",
+     "options": [
+      "On entertainment",
+      "On electricity",
+      "On the bus"
+     ],
+     "answer": 0,
+     "explain": "Luis says they spend too much on entertainment."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "They want to cancel ___ streaming accounts.",
+     "answers": [
+      "two",
+      "2"
+     ],
+     "explain": "Nora says: We can cancel two of them."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "How much do they decide to try to save every month?",
+     "options": [
+      "4,000 pesos",
+      "3,000 pesos",
+      "600 pesos"
+     ],
+     "answer": 0,
+     "explain": "Nora says: Let's try 4,000."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "They decide to keep the gym.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "They decide to cancel the gym too."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Our rent is higher than last year.",
+     "answers": [
+      "Our rent is higher than last year."
+     ],
+     "explain": "Higher than: comparative of high."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Nobody needs three streaming accounts.",
+     "answers": [
+      "Nobody needs three streaming accounts."
+     ],
+     "explain": "Nobody + singular verb."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Is that enough money for a vacation?",
+     "answers": [
+      "Is that enough money for a vacation?"
+     ],
+     "explain": "Enough goes before the noun."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "The gym is too expensive for what we use.",
+     "answers": [
+      "The gym is too expensive for what we use."
+     ],
+     "explain": "Too + adjective shows a problem."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about a monthly budget: your income, your main expenses and how much you want to save.",
+     "questions": [
+      "What is your biggest expense every month?",
+      "Do you spend more or less than you earn?",
+      "Is there anything you want to spend less on?",
+      "How much do you want to save?"
+     ],
+     "model": "My biggest expense is rent. It is higher than my food and transport together. I earn enough money to pay my bills, but I don't save a lot. I spend too much on restaurants, so I want to cook at home more. Nobody in my house likes to cook, but it is cheaper. I want to save 2,000 pesos every month.",
+     "checklist": [
+      "Income and expenses vocabulary",
+      "At least one comparative with than",
+      "too or enough",
+      "An indefinite pronoun (nobody, anything...)"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Give advice about smart shopping: how to find a good price and avoid problems.",
+     "questions": [
+      "Where do you look for the best prices?",
+      "Do you compare prices before you buy?",
+      "What do you check before you pay?",
+      "Is there anything you never buy online?"
+     ],
+     "model": "I always compare prices in two or three stores. Online prices are usually lower than prices in shops, but the delivery cost can be too high. I check the warranty and the return policy. I ask for a discount when something has a small problem. I keep the receipt, because someone can ask for it later.",
+     "checklist": [
+      "Comparative sentences",
+      "Shopping vocabulary (discount, warranty, receipt)",
+      "Advice with always, usually or I check",
+      "Clear and simple order of ideas"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about your own experience with money: something you bought that was a good or a bad idea.",
+     "questions": [
+      "What was the last important thing you bought?",
+      "Was it a bargain or too expensive?",
+      "Is it better than your old one?",
+      "Would you buy it again?"
+     ],
+     "model": "The last important thing I bought was a bike. It was a bargain because the store had a discount. It is lighter and faster than my old bike. At first I thought it was too expensive, but now I use it every day. I would buy it again. Nobody in my family has a better bike!",
+     "checklist": [
+      "Past simple for the purchase",
+      "Comparatives (lighter than, faster than)",
+      "too / enough or a pronoun",
+      "An opinion at the end"
+     ]
+    }
+   ],
+   "repeat": [
+    "Is there anything cheaper than this?",
+    "This phone is too expensive for me.",
+    "I don't have enough money for the rent.",
+    "Online prices are lower than prices in stores.",
+    "Can I pay by card, please?",
+    "Nobody wants to pay full price."
+   ]
+  }
+ }
+}

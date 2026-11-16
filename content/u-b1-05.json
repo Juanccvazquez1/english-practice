@@ -1,0 +1,1676 @@
+{
+ "id": "u-b1-05",
+ "level": "B1",
+ "n": 5,
+ "title": "Personality plus",
+ "goals": [
+  "Describe a person using personality adjectives and their opposites (reliable / unreliable, patient / impatient).",
+  "Say how someone does things using adverbs of manner (carefully, quietly, well, fast).",
+  "Tell adjectives and adverbs apart, and use adjectives after be, feel, get and sound.",
+  "Add emphasis with intensifiers: pretty, extremely, absolutely, not … at all.",
+  "Talk about annoying habits with always + present continuous, and point out the good side with at least.",
+  "Write a profile of a person you admire."
+ ],
+ "learn": [
+  {
+   "id": "g-adj-adv",
+   "kind": "grammar",
+   "title": "Adjective or adverb of manner",
+   "html": "<p>An <strong>adjective</strong> describes a noun (<em>a careful driver</em>). An <strong>adverb of manner</strong> describes a verb and says <em>how</em> something is done (<em>drives carefully</em>). In Spanish, adverbs usually end in <em>-mente</em>; in English, they end in <em>-ly</em>.</p><table><thead><tr><th>Rule</th><th>Adjective → Adverb</th></tr></thead><tbody><tr><td>Regular: + -ly</td><td>patient → patiently, careful → carefully, quiet → quietly, serious → seriously</td></tr><tr><td>Ends in -y: y → i + -ly</td><td>easy → easily, noisy → noisily</td></tr><tr><td>Ends in -ic: + -ally</td><td>automatic → automatically</td></tr><tr><td>Irregular</td><td>good → <strong>well</strong></td></tr><tr><td>Same as the adjective</td><td>fast → fast, hard → hard, late → late</td></tr></tbody></table><p>Position: the adverb goes after the verb or its object: <em>She drives carefully. He speaks English very fast.</em></p><p><strong>Watch out:</strong> <em>hardly</em> and <em>lately</em> exist, but they do NOT mean “hard” or “late”: <em>hardly</em> = almost not; <em>lately</em> = recently.</p>",
+   "watch": [
+    {
+     "wrong": "She drives very careful.",
+     "right": "She drives very carefully.",
+     "why": "A verb is described with an adverb, not an adjective."
+    },
+    {
+     "wrong": "He sings very good.",
+     "right": "He sings very well.",
+     "why": "The adverb of good is well."
+    },
+    {
+     "wrong": "They worked hardly all week.",
+     "right": "They worked hard all week.",
+     "why": "Hardly means “almost not”; hard is both an adjective and an adverb."
+    },
+    {
+     "wrong": "He drives fastly.",
+     "right": "He drives fast.",
+     "why": "Fast has no -ly."
+    }
+   ]
+  },
+  {
+   "id": "g-linking",
+   "kind": "grammar",
+   "title": "be, feel, get, sound + adjective",
+   "html": "<p>After verbs of state or perception (<strong>be, feel, get, sound, look, seem, smell, taste</strong>) you use an <strong>adjective</strong>, not an adverb. They describe the person or thing, not the action.</p><table><thead><tr><th>Incorrect</th><th>Correct</th></tr></thead><tbody><tr><td>I feel safely with her.</td><td>I feel <strong>safe</strong> with her.</td></tr><tr><td>He gets recklessly sometimes.</td><td>He gets <strong>reckless</strong> sometimes.</td></tr><tr><td>His voice sounds terribly.</td><td>His voice sounds <strong>terrible</strong>.</td></tr></tbody></table><p><strong>Exception:</strong> when <em>feel</em> means “to have an opinion”, you use an adverb: <em>I feel strongly about it</em> (I have strong views about it).</p>",
+   "watch": [
+    {
+     "wrong": "The soup tastes deliciously.",
+     "right": "The soup tastes delicious.",
+     "why": "Taste describes the soup: adjective."
+    },
+    {
+     "wrong": "She seems very happily.",
+     "right": "She seems very happy.",
+     "why": "Seem + adjective."
+    },
+    {
+     "wrong": "I feel strong about this issue.",
+     "right": "I feel strongly about this issue.",
+     "why": "Feel = to have an opinion: adverb strongly."
+    }
+   ]
+  },
+  {
+   "id": "g-intens",
+   "kind": "grammar",
+   "title": "Intensifiers: very, really, absolutely…",
+   "html": "<p>They go <strong>before</strong> an adjective or adverb to change its strength.</p><table><thead><tr><th>Function</th><th>Words</th><th>Example</th></tr></thead><tbody><tr><td>Stronger</td><td>very, really, extremely, incredibly, so</td><td>She's extremely generous. We get along very well.</td></tr><tr><td>“More than a little”</td><td>pretty, fairly</td><td>He's pretty easygoing.</td></tr><tr><td>100 %</td><td>completely, totally</td><td>He's completely honest.</td></tr><tr><td>With adjectives that are already strong (wonderful, fantastic, terrible)</td><td>absolutely, really (NOT very)</td><td>She's absolutely wonderful.</td></tr><tr><td>Strong negative</td><td>(not) … at all, after the adjective</td><td>She's not selfish at all.</td></tr></tbody></table>",
+   "watch": [
+    {
+     "wrong": "She's very wonderful.",
+     "right": "She's absolutely wonderful.",
+     "why": "Wonderful is already strong: don't use very."
+    },
+    {
+     "wrong": "He's not at all selfish very.",
+     "right": "He's not selfish at all.",
+     "why": "At all goes after the adjective."
+    },
+    {
+     "wrong": "We get along absolutely well.",
+     "right": "We get along very well.",
+     "why": "Well is a normal adverb: it goes with very, really or incredibly."
+    }
+   ]
+  },
+  {
+   "id": "g-prefix",
+   "kind": "grammar",
+   "title": "Prefixes for the opposite: un-, in-, dis-",
+   "html": "<p>A prefix goes at the start of a word and turns it into its opposite. Each adjective uses its own prefix, so you have to learn them.</p><table><thead><tr><th>Prefix</th><th>Adjective → Opposite</th></tr></thead><tbody><tr><td><strong>un-</strong></td><td>friendly → unfriendly, reliable → unreliable, happy → unhappy</td></tr><tr><td><strong>im- / in-</strong></td><td>patient → impatient, considerate → inconsiderate</td></tr><tr><td><strong>dis-</strong></td><td>honest → dishonest, organized → disorganized</td></tr></tbody></table><p>Before <em>p</em> use <em>im-</em> (impatient), not <em>in-</em>.</p>",
+   "watch": [
+    {
+     "wrong": "My boss is unpatient.",
+     "right": "My boss is impatient.",
+     "why": "Patient uses im-."
+    },
+    {
+     "wrong": "He is undishonest.",
+     "right": "He is dishonest.",
+     "why": "You don't combine two prefixes."
+    },
+    {
+     "wrong": "She is not organized, she is unorganized.",
+     "right": "She is disorganized.",
+     "why": "Organized → disorganized."
+    }
+   ]
+  },
+  {
+   "id": "g-always",
+   "kind": "grammar",
+   "title": "always + present continuous: annoying habits",
+   "html": "<p>With <strong>always + present continuous</strong> (be + verb-ing) you talk about something someone does very often, usually an annoying habit. It can also be a funny or special habit.</p><table><thead><tr><th>Use</th><th>Example</th></tr></thead><tbody><tr><td>Annoying habit</td><td>My roommate is always borrowing my things.</td></tr><tr><td>Habit in the past</td><td>He was always talking about people behind their backs.</td></tr><tr><td>Nice habit</td><td>She's always smiling.</td></tr></tbody></table><p><strong>Position:</strong> always goes <em>after be</em> and before the verb-ing. Compare: <em>He always borrows my pen</em> (a neutral fact) with <em>He's always borrowing my pen</em> (it bothers me).</p><p>To point out the good side of something, use <strong>at least</strong>: <em>He's always late. Well, at least he's honest.</em></p>",
+   "watch": [
+    {
+     "wrong": "She always is complaining.",
+     "right": "She is always complaining.",
+     "why": "Always goes after be."
+    },
+    {
+     "wrong": "He's always to borrow my car.",
+     "right": "He's always borrowing my car.",
+     "why": "After always + be, use a verb with -ing."
+    },
+    {
+     "wrong": "At last he's pleasant.",
+     "right": "At least he's pleasant.",
+     "why": "At last means “finally”; at least means “at least”."
+    }
+   ]
+  },
+  {
+   "id": "v-manner",
+   "kind": "vocab",
+   "title": "Manner adverbs (how things are done)",
+   "words": [
+    {
+     "id": "w-badly",
+     "en": "badly",
+     "es": "mal",
+     "example": "He drives badly in the rain.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-carefully",
+     "en": "carefully",
+     "es": "con cuidado",
+     "example": "Please carry the glasses carefully.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-differently",
+     "en": "differently",
+     "es": "de manera diferente",
+     "example": "My brother thinks differently from me.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-easily",
+     "en": "easily",
+     "es": "fácilmente",
+     "example": "She learns languages easily.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-fast",
+     "en": "fast",
+     "es": "rápido (adjetivo y adverbio)",
+     "example": "My cousin runs very fast.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-hard",
+     "en": "hard",
+     "es": "mucho, con esfuerzo",
+     "example": "He studies hard before every exam.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-immediately",
+     "en": "immediately",
+     "es": "de inmediato",
+     "example": "Call me immediately if there's a problem.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-late",
+     "en": "late",
+     "es": "tarde",
+     "example": "The train arrived late again.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-nicely",
+     "en": "nicely",
+     "es": "amablemente, bien",
+     "example": "She always speaks nicely to customers."
+    },
+    {
+     "id": "w-on-time",
+     "en": "on time",
+     "es": "a tiempo, puntual",
+     "example": "Our boss always starts meetings on time.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-patiently",
+     "en": "patiently",
+     "es": "con paciencia",
+     "example": "I wait patiently in long lines."
+    },
+    {
+     "id": "w-properly",
+     "en": "properly",
+     "es": "correctamente, como se debe",
+     "example": "You must wear your seat belt properly.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-quickly",
+     "en": "quickly",
+     "es": "rápidamente",
+     "example": "Answer quickly; we have little time.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-quietly",
+     "en": "quietly",
+     "es": "en voz baja, sin hacer ruido",
+     "example": "The children are playing quietly.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-recklessly",
+     "en": "recklessly",
+     "es": "de forma imprudente",
+     "example": "Some taxi drivers drive recklessly."
+    },
+    {
+     "id": "w-seriously",
+     "en": "seriously",
+     "es": "en serio",
+     "example": "She takes her job very seriously.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "v-character",
+   "kind": "vocab",
+   "title": "Personality and character (adjectives)",
+   "words": [
+    {
+     "id": "w-outgoing",
+     "en": "outgoing",
+     "es": "sociable, extrovertido/a",
+     "example": "Ana is outgoing and makes friends easily."
+    },
+    {
+     "id": "w-shy",
+     "en": "shy",
+     "es": "tímido/a",
+     "example": "I'm shy when I meet new people.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-polite",
+     "en": "polite",
+     "es": "educado/a, cortés",
+     "example": "Polite people say please and thank you.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-rude",
+     "en": "rude",
+     "es": "grosero/a",
+     "example": "It's rude to interrupt people.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-considerate",
+     "en": "considerate",
+     "es": "considerado/a, atento/a",
+     "example": "He's considerate: he turns the music down at night."
+    },
+    {
+     "id": "w-creative",
+     "en": "creative",
+     "es": "creativo/a",
+     "example": "She's creative and designs her own clothes.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-down-to-earth",
+     "en": "down-to-earth",
+     "es": "sencillo/a, con los pies en la tierra",
+     "example": "Our director is famous but very down-to-earth."
+    },
+    {
+     "id": "w-easygoing",
+     "en": "easygoing",
+     "es": "tranquilo/a, de trato fácil",
+     "example": "My uncle is easygoing and never gets upset."
+    },
+    {
+     "id": "w-helpful",
+     "en": "helpful",
+     "es": "servicial, útil",
+     "example": "The staff at the hotel were very helpful.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-laid-back",
+     "en": "laid-back",
+     "es": "relajado/a, despreocupado/a",
+     "example": "He's laid-back about deadlines."
+    },
+    {
+     "id": "w-practical",
+     "en": "practical",
+     "es": "práctico/a",
+     "example": "A practical person buys useful things.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-arrogant",
+     "en": "arrogant",
+     "es": "arrogante",
+     "example": "He's arrogant and thinks he's better than everyone."
+    },
+    {
+     "id": "w-competitive",
+     "en": "competitive",
+     "es": "competitivo/a",
+     "example": "My sister is competitive, even in board games.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-selfish",
+     "en": "selfish",
+     "es": "egoísta",
+     "example": "A selfish person never shares."
+    },
+    {
+     "id": "w-humble",
+     "en": "humble",
+     "es": "humilde",
+     "example": "Although she's a champion, she's very humble.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-introverted",
+     "en": "introverted",
+     "es": "introvertido/a",
+     "example": "Introverted people often prefer quiet evenings."
+    }
+   ]
+  },
+  {
+   "id": "v-phrases",
+   "kind": "vocab",
+   "title": "Verbs and phrases about character and habits",
+   "words": [
+    {
+     "id": "w-balance",
+     "en": "balance work and play",
+     "es": "equilibrar trabajo y diversión",
+     "example": "It's hard to balance work and play in December.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-drive-recklessly",
+     "en": "drive recklessly",
+     "es": "manejar de forma imprudente",
+     "example": "Don't drive recklessly on the highway.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-feel-strongly",
+     "en": "feel strongly about something",
+     "es": "tener opiniones firmes sobre algo",
+     "example": "I feel strongly about animal rights.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-get-impatient",
+     "en": "get impatient",
+     "es": "impacientarse",
+     "example": "I get impatient when the internet is slow.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-honk",
+     "en": "honk your horn",
+     "es": "tocar el claxon",
+     "example": "He honks his horn at every red light.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-interrupt",
+     "en": "interrupt people",
+     "es": "interrumpir a la gente",
+     "example": "Please don't interrupt people when they speak.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-slow-down",
+     "en": "slow down",
+     "es": "reducir la velocidad, ir más despacio",
+     "example": "Slow down! The road is wet.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-take-seriously",
+     "en": "take (work / school) seriously",
+     "es": "tomarse en serio (el trabajo / la escuela)",
+     "example": "He takes school seriously.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-count-on",
+     "en": "count on someone",
+     "es": "contar con alguien",
+     "example": "You can count on me.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-trust",
+     "en": "trust someone",
+     "es": "confiar en alguien",
+     "example": "I trust my best friend completely.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-tell-truth",
+     "en": "tell the truth",
+     "es": "decir la verdad",
+     "example": "A good friend tells the truth.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-admire",
+     "en": "admire someone",
+     "es": "admirar a alguien",
+     "example": "I admire my grandmother because she never gives up.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-sense-humor",
+     "en": "have a great sense of humor",
+     "es": "tener un gran sentido del humor",
+     "example": "Leo has a great sense of humor.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-borrow",
+     "en": "borrow something",
+     "es": "pedir prestado algo",
+     "example": "Can I borrow your charger?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-behind-backs",
+     "en": "talk about people behind their backs",
+     "es": "hablar mal de la gente a sus espaldas",
+     "example": "Don't talk about people behind their backs.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions for describing someone",
+   "html": "<ul><li><strong>She's incredibly talented.</strong> — praise with an intensifier.</li><li><strong>He's pretty easygoing.</strong> — “quite” easygoing.</li><li><strong>She's not selfish at all.</strong> — strong negative.</li><li><strong>You can count on him.</strong> — you can rely on him.</li><li><strong>He's always wasting time. Well, at least he's pleasant.</strong> — complaint + positive side.</li><li><strong>I can be pretty shy.</strong> — I can be + adjective: “sometimes I am”.</li><li><strong>We get along very well.</strong> — we get on very well.</li><li><strong>I feel strongly about it.</strong> — I have a firm opinion.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Adjective or adverb",
+   "instructions": "Choose the correct form.",
+   "topic": "g-adj-adv",
+   "items": [
+    {
+     "id": "A1",
+     "type": "choice",
+     "prompt": "She is a ___ driver.",
+     "options": [
+      "careful",
+      "carefully",
+      "carefulness"
+     ],
+     "answer": 0,
+     "explain": "Before a noun (driver), use an adjective."
+    },
+    {
+     "id": "A2",
+     "type": "choice",
+     "prompt": "She drives ___.",
+     "options": [
+      "careful",
+      "carefully",
+      "carefuly"
+     ],
+     "answer": 1,
+     "explain": "It describes the verb drives: adverb carefully."
+    },
+    {
+     "id": "A3",
+     "type": "choice",
+     "prompt": "My boss speaks very ___ and I can't follow him.",
+     "options": [
+      "quick",
+      "quickly",
+      "quicker"
+     ],
+     "answer": 1,
+     "explain": "It describes speaks: quickly."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "He's a ___ runner.",
+     "options": [
+      "fast",
+      "fastly",
+      "hardly"
+     ],
+     "answer": 0,
+     "explain": "Fast is an adjective (a fast runner) and has no -ly form."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "My cousin doesn't sing very ___.",
+     "options": [
+      "good",
+      "well",
+      "goodly"
+     ],
+     "answer": 1,
+     "explain": "The adverb of good is well."
+    },
+    {
+     "id": "A6",
+     "type": "choice",
+     "prompt": "They worked ___ all week, so they are tired.",
+     "options": [
+      "hard",
+      "hardly",
+      "hardy"
+     ],
+     "answer": 0,
+     "explain": "Hard (with effort) has no -ly; hardly = almost not."
+    },
+    {
+     "id": "A7",
+     "type": "choice",
+     "prompt": "The bus arrived ___, so we missed the movie.",
+     "options": [
+      "late",
+      "lately",
+      "lateness"
+     ],
+     "answer": 0,
+     "explain": "Late is an adverb and an adjective; lately = recently."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Form the adverb",
+   "instructions": "Write the adverb that matches the adjective in brackets.",
+   "topic": "g-adj-adv",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "She solved the problem ___. (easy)",
+     "answers": [
+      "easily"
+     ],
+     "explain": "Ends in -y: y → i + -ly."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "I wait ___ in long lines. (patient)",
+     "answers": [
+      "patiently"
+     ],
+     "explain": "Regular: patient + -ly."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "The door opens ___. (automatic)",
+     "answers": [
+      "automatically"
+     ],
+     "explain": "Ends in -ic: + -ally."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "He drives ___ on the highway. (reckless)",
+     "answers": [
+      "recklessly"
+     ],
+     "explain": "Regular: reckless + -ly."
+    },
+    {
+     "id": "B5",
+     "type": "gap",
+     "prompt": "Please fill out the form ___. (proper)",
+     "answers": [
+      "properly"
+     ],
+     "explain": "Regular: proper + -ly."
+    },
+    {
+     "id": "B6",
+     "type": "gap",
+     "prompt": "She takes her studies ___. (serious)",
+     "answers": [
+      "seriously"
+     ],
+     "explain": "Regular: serious + -ly."
+    },
+    {
+     "id": "B7",
+     "type": "gap",
+     "prompt": "My sister thinks ___ from me. (different)",
+     "answers": [
+      "differently"
+     ],
+     "explain": "Regular: different + -ly."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "be, feel, get, sound + adjective",
+   "instructions": "Choose or correct: adjective or adverb?",
+   "topic": "g-linking",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "I feel ___ when my sister drives.",
+     "options": [
+      "safe",
+      "safely"
+     ],
+     "answer": 0,
+     "explain": "Feel + adjective: safe."
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "His voice sounds ___.",
+     "options": [
+      "terrible",
+      "terribly"
+     ],
+     "answer": 0,
+     "explain": "Sound + adjective."
+    },
+    {
+     "id": "C3",
+     "type": "choice",
+     "prompt": "My brother gets ___ in traffic.",
+     "options": [
+      "impatient",
+      "impatiently"
+     ],
+     "answer": 0,
+     "explain": "Get + adjective."
+    },
+    {
+     "id": "C4",
+     "type": "fix",
+     "prompt": "She seems very happily today.",
+     "answers": [
+      "She seems very happy today.",
+      "She seems really happy today."
+     ],
+     "explain": "Seem + adjective, not adverb."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "The soup tastes deliciously.",
+     "answers": [
+      "The soup tastes delicious."
+     ],
+     "explain": "Taste + adjective."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "I feel ___ about protecting the environment.",
+     "options": [
+      "strong",
+      "strongly"
+     ],
+     "answer": 1,
+     "explain": "Feel = to have an opinion: adverb strongly."
+    },
+    {
+     "id": "C7",
+     "type": "gap",
+     "prompt": "That cake looks ___! (delicious)",
+     "answers": [
+      "delicious"
+     ],
+     "explain": "Look + adjective."
+    },
+    {
+     "id": "C8",
+     "type": "fix",
+     "prompt": "He gets angrily when he waits.",
+     "answers": [
+      "He gets angry when he waits."
+     ],
+     "explain": "Get + adjective."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Intensifiers",
+   "instructions": "Choose or correct with the right intensifier.",
+   "topic": "g-intens",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "She's absolutely ___.",
+     "options": [
+      "wonderful",
+      "nice",
+      "tall"
+     ],
+     "answer": 0,
+     "explain": "Absolutely goes with adjectives that are already strong, like wonderful."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "He tells the truth 100% of the time: he's ___ honest.",
+     "options": [
+      "completely",
+      "fairly",
+      "at all"
+     ],
+     "answer": 0,
+     "explain": "Completely = 100 %."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "She isn't selfish at ___.",
+     "answers": [
+      "all"
+     ],
+     "explain": "Not … at all = not at all."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "My boss is ___ easygoing: he's calm most of the time.",
+     "options": [
+      "pretty",
+      "totally",
+      "not at all"
+     ],
+     "answer": 0,
+     "explain": "Pretty = “quite”."
+    },
+    {
+     "id": "D5",
+     "type": "fix",
+     "prompt": "She's very wonderful.",
+     "answers": [
+      "She's absolutely wonderful.",
+      "She is absolutely wonderful.",
+      "She's really wonderful.",
+      "She is really wonderful."
+     ],
+     "explain": "With strong adjectives: absolutely or really, not very."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "We get along ___ well.",
+     "options": [
+      "very",
+      "absolutely",
+      "at all"
+     ],
+     "answer": 0,
+     "explain": "Well is a normal adverb: very well."
+    },
+    {
+     "id": "D7",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "She's very fantastic.",
+      "She's really fantastic.",
+      "She's fantastic very."
+     ],
+     "answer": 1,
+     "explain": "Fantastic is strong: really, not very."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Prefixes: the opposite",
+   "instructions": "Write the opposite of the adjective in brackets.",
+   "topic": "g-prefix",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "My brother is ___ in traffic. (patient)",
+     "answers": [
+      "impatient"
+     ],
+     "explain": "patient → impatient."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "The bus is ___; it's always late. (reliable)",
+     "answers": [
+      "unreliable"
+     ],
+     "explain": "reliable → unreliable."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "Don't trust a ___ salesman. (honest)",
+     "answers": [
+      "dishonest"
+     ],
+     "explain": "honest → dishonest."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "My desk is a mess. I'm so ___. (organized)",
+     "answers": [
+      "disorganized"
+     ],
+     "explain": "organized → disorganized."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "The waiter was ___ and never smiled. (friendly)",
+     "answers": [
+      "unfriendly"
+     ],
+     "explain": "friendly → unfriendly."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "Playing loud music at night is ___. (considerate)",
+     "answers": [
+      "inconsiderate"
+     ],
+     "explain": "considerate → inconsiderate."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "Why is he so ___ today? He's crying. (happy)",
+     "answers": [
+      "unhappy"
+     ],
+     "explain": "happy → unhappy."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "always + present continuous",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-always",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "My roommate is always ___ my things. (borrow)",
+     "answers": [
+      "borrowing"
+     ],
+     "explain": "Always + be + verb-ing."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "She ___ always smiling.",
+     "options": [
+      "is",
+      "does",
+      "has"
+     ],
+     "answer": 0,
+     "explain": "Always + present continuous: is + -ing."
+    },
+    {
+     "id": "F3",
+     "type": "fix",
+     "prompt": "She always is complaining.",
+     "answers": [
+      "She is always complaining.",
+      "She's always complaining."
+     ],
+     "explain": "Always goes after be."
+    },
+    {
+     "id": "F4",
+     "type": "fix",
+     "prompt": "My boss is always interrupt people.",
+     "answers": [
+      "My boss is always interrupting people."
+     ],
+     "explain": "After be: verb + -ing."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "A: He's always standing around. B: Well, ___ he's pleasant.",
+     "options": [
+      "at least",
+      "at all",
+      "at last"
+     ],
+     "answer": 0,
+     "explain": "At least = the good thing is that…"
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "She ___ always trying hard to help us.",
+     "answers": [
+      "is",
+      "'s"
+     ],
+     "explain": "Present continuous: is + -ing."
+    },
+    {
+     "id": "F7",
+     "type": "choice",
+     "prompt": "Which sentence shows an annoying habit?",
+     "options": [
+      "He always borrows my pen.",
+      "He's always borrowing my pen.",
+      "He borrowed my pen."
+     ],
+     "answer": 1,
+     "explain": "Always + present continuous expresses annoyance."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to make a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "always",
+      "is",
+      "my",
+      "interrupting",
+      "brother",
+      "people"
+     ],
+     "answers": [
+      "My brother is always interrupting people."
+     ],
+     "explain": "Always after be + verb-ing."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "very",
+      "drives",
+      "She",
+      "carefully"
+     ],
+     "answers": [
+      "She drives very carefully."
+     ],
+     "explain": "Verb + manner adverb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "incredibly",
+      "talented",
+      "He's"
+     ],
+     "answers": [
+      "He's incredibly talented.",
+      "He is incredibly talented."
+     ],
+     "explain": "Intensifier before the adjective."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "at",
+      "selfish",
+      "isn't",
+      "She",
+      "all"
+     ],
+     "answers": [
+      "She isn't selfish at all.",
+      "She's not selfish at all."
+     ],
+     "explain": "At all goes after the adjective."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "very",
+      "He",
+      "sing",
+      "doesn't",
+      "well"
+     ],
+     "answers": [
+      "He doesn't sing very well."
+     ],
+     "explain": "Well is the adverb of good."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "with",
+      "I",
+      "her",
+      "safe",
+      "feel"
+     ],
+     "answers": [
+      "I feel safe with her."
+     ],
+     "explain": "Feel + adjective."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Ella maneja con mucho cuidado.",
+     "answers": [
+      "She drives very carefully.",
+      "She drives really carefully.",
+      "She drives carefully."
+     ],
+     "explain": "Manner adverb: carefully."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Mi hermano siempre está tomando mis cosas.",
+     "answers": [
+      "My brother is always borrowing my things.",
+      "My brother is always taking my things.",
+      "My brother's always borrowing my things.",
+      "My brother's always taking my things."
+     ],
+     "explain": "Always + present continuous: annoying habit."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Él es totalmente confiable.",
+     "answers": [
+      "He is totally reliable.",
+      "He's totally reliable.",
+      "He is completely reliable.",
+      "He's completely reliable."
+     ],
+     "explain": "Totally / completely = 100 %."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Ella no es egoísta para nada.",
+     "answers": [
+      "She isn't selfish at all.",
+      "She's not selfish at all.",
+      "She is not selfish at all."
+     ],
+     "explain": "Not … at all after the adjective."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Mi jefe es muy impaciente.",
+     "answers": [
+      "My boss is very impatient.",
+      "My boss is really impatient.",
+      "My boss is extremely impatient."
+     ],
+     "explain": "patient → impatient."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Él habla inglés muy rápido.",
+     "answers": [
+      "He speaks English very fast.",
+      "He speaks English really fast.",
+      "He speaks English very quickly.",
+      "He speaks English really quickly."
+     ],
+     "explain": "Fast is an adverb with no -ly; quickly also works."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on all the topics in the unit (includes a review of the simple present and simple past).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "He's a ___ driver.",
+     "options": [
+      "careful",
+      "carefully"
+     ],
+     "answer": 0,
+     "explain": "Before a noun: adjective."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "She plays the violin ___. (beautiful)",
+     "answers": [
+      "beautifully"
+     ],
+     "explain": "Beautiful + -ly."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "He's very selfishly.",
+     "answers": [
+      "He's very selfish.",
+      "He is very selfish."
+     ],
+     "explain": "Be + adjective."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "She's ___ wonderful.",
+     "options": [
+      "absolutely",
+      "very",
+      "fairly"
+     ],
+     "answer": 0,
+     "explain": "Wonderful is strong: absolutely."
+    },
+    {
+     "id": "M5",
+     "type": "gap",
+     "prompt": "He never waits for anyone. He's very ___. (patient)",
+     "answers": [
+      "impatient"
+     ],
+     "explain": "patient → impatient."
+    },
+    {
+     "id": "M6",
+     "type": "fix",
+     "prompt": "My roommate always is borrowing my laptop.",
+     "answers": [
+      "My roommate is always borrowing my laptop.",
+      "My roommate's always borrowing my laptop."
+     ],
+     "explain": "Always goes after be."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "A: He's always late. B: Well, ___ he's honest.",
+     "options": [
+      "at least",
+      "at all",
+      "at last"
+     ],
+     "answer": 0,
+     "explain": "At least points out the positive side."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "The test was easy, so I finished it ___. (easy)",
+     "answers": [
+      "easily"
+     ],
+     "explain": "y → i + -ly."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "___ your sister work on Saturdays? — Yes, she does. (review)",
+     "answers": [
+      "Does"
+     ],
+     "explain": "Simple present with she: does."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "Yesterday we ___ a movie about racing. (watch) (review)",
+     "answers": [
+      "watched"
+     ],
+     "explain": "Regular simple past: watched."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a text of 120 to 180 words about a person you admire (a relative, friend or boss). Describe their personality with intensifiers (incredibly, really, totally, not … at all), say how they do things with adverbs of manner (carefully, patiently, well), and mention one of their habits with always + present continuous. Opening example: I really admire my aunt Rosa because she's incredibly generous…",
+   "targets": [
+    "personality adjectives",
+    "intensifiers",
+    "adverbs of manner",
+    "always + present continuous",
+    "prefixes un- / im- / dis-"
+   ],
+   "checklist": [
+    "120–180 words",
+    "At least 4 personality adjectives, two of them with an intensifier (not … at all after the adjective)",
+    "At least 3 adverbs of manner after the verb",
+    "Be / feel / get + adjective (not adverb)",
+    "One habit with always + be + verb-ing",
+    "One opposite with a prefix (impatient, dishonest…)",
+    "Use of at least to point out a positive side"
+   ],
+   "model": "I really admire my aunt Rosa because she's incredibly generous. She always helps people who need something, and she does it quietly, without asking for anything. She's also totally honest, and she's not selfish at all. When my cousin lost his job, she listened to him patiently and gave him money to pay his rent.\n\nMy aunt works carefully and speaks politely to everyone. She cooks really well, too! She feels calm in difficult situations. Of course, nobody is perfect. She's always losing her keys, and she's always calling me late at night to ask where they are! She can be a bit impatient when she is hungry, but at least she is never rude.\n\nShe is not boring at all. She gets excited about new ideas, and she dances happily at every party. I hope I can be as kind as she is when I'm older. At least I'm learning from the best teacher I know."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a message of 120 to 150 words to a roommate or coworker. Kindly tell them two things about their habits that bother you (always + present continuous) and two good things about them. Use “at least” at least once. Opening example: Hi Paco, I want to talk about a few things…",
+   "targets": [
+    "always + present continuous",
+    "at least",
+    "adverbs of manner",
+    "intensifiers"
+   ],
+   "checklist": [
+    "120–150 words",
+    "Two annoying habits with always + be + verb-ing",
+    "Two positive qualities with an intensifier",
+    "at least to point out the positive side",
+    "One adverb of manner (quietly, carefully, on time)",
+    "Friendly and polite tone"
+   ],
+   "model": "Hi Paco,\n\nI want to talk about a few things, and I hope you won't be upset. You're a great roommate, and I'm really glad we live together. First, you're incredibly kind, and you always help me with my shopping. Also, you're really funny, so the apartment is never boring.\n\nBut there are two small problems. You're always leaving your dirty dishes in the sink, and you're always playing music loudly late at night. I get tired in the morning because I can't sleep well. Could you please wash your dishes and use headphones after ten o'clock?\n\nAt least you are never rude when I ask for something, so I think we can solve this easily. You also keep the bathroom clean and always pay the rent on time. Let's talk over lunch on Saturday. Thanks for listening!\n\nBest,\nAlex"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Two roommates, two styles",
+   "intro": "Read the text about two roommates and answer the questions.",
+   "paragraphs": [
+    "When I moved to Guadalajara for my first job, I was nervous about sharing an apartment. My new roommates, Dani and Paco, are very different, and in a few months I learned a lot about them. Now I want to tell you about our strange but happy home.",
+    "Dani is incredibly organized. She wakes up early, makes a list every morning and takes her work seriously. She's totally reliable: if she says she'll pay the bill on Friday, she pays it on Friday. She also drives very carefully, so I always feel safe in her car. Her only problem is that she's always telling me to clean the kitchen!",
+    "Paco is a completely different person. He's extremely easygoing and a really talented musician. He plays the guitar beautifully, and he has a great sense of humor. But he's pretty disorganized. He's always losing his keys, and he's always borrowing my headphones. He gets impatient in traffic and drives a little recklessly, so I don't ride with him very often. At least he's generous: last week he cooked dinner for the whole building.",
+    "At first I thought they were impossible to live with. Now I think the opposite. Dani teaches me to plan my time properly, and Paco shows me how to balance work and play. They aren't perfect, of course. Nobody is. Dani can be a little arrogant when she's right, and Paco is sometimes inconsiderate when he practices at midnight. But they're honest people, and I trust them both.",
+    "Last Sunday we had breakfast together for the first time in weeks. Dani talked quickly about her week, Paco listened patiently, and I laughed quietly in the corner of the kitchen. I realized something important: a good home isn't about having the same personality. It's about respecting people who think and act differently, and about saying thank you more often."
+   ],
+   "glossary": [
+    {
+     "en": "roommate",
+     "def": "a person you share a home with"
+    },
+    {
+     "en": "bill",
+     "def": "a paper that shows how much money you have to pay"
+    },
+    {
+     "en": "headphones",
+     "def": "a device you wear over your ears to listen to music"
+    },
+    {
+     "en": "impossible",
+     "def": "not possible; cannot happen or be done"
+    },
+    {
+     "en": "balance",
+     "def": "to make two things equal or in good proportion"
+    },
+    {
+     "en": "perfect",
+     "def": "with no mistakes; the best possible"
+    },
+    {
+     "en": "respect",
+     "def": "to admire someone and treat them with care"
+    },
+    {
+     "en": "building",
+     "def": "a structure with walls and a roof where people live or work"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Dani is disorganized.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "The text says that Dani is incredibly organized."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Paco plays the guitar beautifully.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "It is in the second paragraph, about Paco."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Why doesn't the narrator ride often with Paco?",
+     "options": [
+      "He drives a little recklessly.",
+      "He is always late.",
+      "He drives very slowly."
+     ],
+     "answer": 0,
+     "explain": "Paco gets impatient in traffic and drives a little recklessly."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "What does «At least he's generous» mean?",
+     "options": [
+      "The good thing is that he's generous.",
+      "He's generous only sometimes.",
+      "He is not generous at all."
+     ],
+     "answer": 0,
+     "explain": "\"At least\" points out the positive side."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Dani takes her work ___.",
+     "answers": [
+      "seriously"
+     ],
+     "explain": "Take (work) seriously."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Paco is always ___ the narrator's headphones.",
+     "answers": [
+      "borrowing"
+     ],
+     "explain": "Always + present continuous: an annoying habit."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "Which adjective describes Dani when she's right?",
+     "options": [
+      "arrogant",
+      "shy",
+      "unfriendly"
+     ],
+     "answer": 0,
+     "explain": "Dani can be a little arrogant when she's right."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Who is going to drive?",
+   "intro": "Listen to the conversation between two friends. You can replay it.",
+   "lines": [
+    {
+     "who": "Mia",
+     "voice": "glassy",
+     "text": "Leo, we need a driver for the trip to Puebla. Should we ask Marco?"
+    },
+    {
+     "who": "Leo",
+     "voice": "rounded",
+     "text": "Marco? No way. He drives really fast, and he's always honking his horn."
+    },
+    {
+     "who": "Mia",
+     "voice": "glassy",
+     "text": "Really? I thought he was careful."
+    },
+    {
+     "who": "Leo",
+     "voice": "rounded",
+     "text": "He's a nice guy, but he gets impatient in traffic. What about Sofía?"
+    },
+    {
+     "who": "Mia",
+     "voice": "glassy",
+     "text": "Sofía drives very carefully, and she's totally reliable."
+    },
+    {
+     "who": "Leo",
+     "voice": "rounded",
+     "text": "True. But she's always talking on the phone while she drives."
+    },
+    {
+     "who": "Mia",
+     "voice": "glassy",
+     "text": "Seriously? That's not safe at all."
+    },
+    {
+     "who": "Leo",
+     "voice": "rounded",
+     "text": "I know. At least she's honest about it, and she always listens when we tell her to stop."
+    },
+    {
+     "who": "Mia",
+     "voice": "glassy",
+     "text": "Then let's ask her to drive slowly and keep the phone in her bag."
+    },
+    {
+     "who": "Leo",
+     "voice": "rounded",
+     "text": "Good idea. I'll text her now. She's incredibly generous, so she'll probably say yes."
+    },
+    {
+     "who": "Mia",
+     "voice": "glassy",
+     "text": "Perfect. I feel much better now."
+    },
+    {
+     "who": "Leo",
+     "voice": "rounded",
+     "text": "Me too. This trip is going to be wonderful."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Why doesn't Leo want Marco as the driver?",
+     "options": [
+      "He drives fast and honks his horn.",
+      "He is rude.",
+      "He is always late."
+     ],
+     "answer": 0,
+     "explain": "He drives really fast, and he's always honking his horn."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Mia thinks Sofía drives carefully.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Sofía drives very carefully."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What is Sofía's bad habit?",
+     "options": [
+      "She talks on the phone while she drives.",
+      "She drives too slowly.",
+      "She forgets the map."
+     ],
+     "answer": 0,
+     "explain": "She's always talking on the phone while she drives."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "Marco gets ___ in traffic.",
+     "answers": [
+      "impatient"
+     ],
+     "explain": "He gets impatient in traffic."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What good quality does Leo mention about Sofía with «at least»?",
+     "options": [
+      "She's honest.",
+      "She's shy.",
+      "She's competitive."
+     ],
+     "answer": 0,
+     "explain": "At least she's honest about it."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "Where are they going?",
+     "options": [
+      "Puebla",
+      "Cancún",
+      "Oaxaca"
+     ],
+     "answer": 0,
+     "explain": "The trip to Puebla."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "He drives really fast, and he's always honking his horn.",
+     "answers": [
+      "He drives really fast, and he's always honking his horn.",
+      "He drives really fast and he's always honking his horn.",
+      "He drives really fast, and he is always honking his horn."
+     ],
+     "explain": "Always + present continuous: an annoying habit."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Sofía drives very carefully, and she's totally reliable.",
+     "answers": [
+      "Sofía drives very carefully, and she's totally reliable.",
+      "Sofia drives very carefully, and she's totally reliable.",
+      "Sofía drives very carefully, and she is totally reliable."
+     ],
+     "explain": "Adverbio de modo + intensificador."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "She's always talking on the phone while she drives.",
+     "answers": [
+      "She's always talking on the phone while she drives.",
+      "She is always talking on the phone while she drives."
+     ],
+     "explain": "Always goes after be."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "At least she's honest about it.",
+     "answers": [
+      "At least she's honest about it.",
+      "At least she is honest about it."
+     ],
+     "explain": "At least = lo bueno es que…"
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Describe how you drive (or how someone you know drives) and how you feel in the car.",
+     "questions": [
+      "Do you drive? How do you drive?",
+      "How do you feel when someone drives fast?",
+      "Do you get impatient in traffic?",
+      "Who drives the most carefully in your family?"
+     ],
+     "model": "I drive carefully, but I get impatient in traffic. My brother drives very fast, and I don't feel safe with him. My mom drives slowly, but she's always checking her phone, and that's not safe at all.",
+     "checklist": [
+      "Adverb of manner after the verb",
+      "feel / get + adjective",
+      "Intensifier (very, really, not … at all)",
+      "always + present continuous"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about the personality of your best friend or a coworker.",
+     "questions": [
+      "What is your best friend like?",
+      "Is he or she reliable? Why?",
+      "What is one thing he or she is always doing?",
+      "What is something you admire about him or her?"
+     ],
+     "model": "My best friend Laura is incredibly generous and really funny. She's totally reliable: I can count on her. She's always telling jokes, and sometimes she's a little disorganized, but at least she's honest. I admire her because she takes her job seriously.",
+     "checklist": [
+      "Adjectives with an intensifier",
+      "An opposite with a prefix (disorganized)",
+      "always + -ing",
+      "at least"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Compare two people with very different personalities (for example, two relatives).",
+     "questions": [
+      "Who is more outgoing?",
+      "Who talks more quietly?",
+      "How does each person solve problems?",
+      "Which person are you more like?"
+     ],
+     "model": "My father is quiet and down-to-earth. He speaks slowly and he listens patiently. My uncle is completely different: he's outgoing and he talks very quickly. I'm more like my father, but I can be pretty competitive.",
+     "checklist": [
+      "Adjective before the noun / adverb after the verb",
+      "differently / completely",
+      "pretty / very",
+      "Contrast with but"
+     ]
+    }
+   ],
+   "repeat": [
+    "She drives very carefully.",
+    "He's incredibly talented.",
+    "She isn't selfish at all.",
+    "He's always borrowing my things.",
+    "Well, at least he's honest.",
+    "I feel safe with her."
+   ]
+  }
+ }
+}

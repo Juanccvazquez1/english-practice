@@ -1,0 +1,1473 @@
+{
+ "id": "b2-u08",
+ "level": "A1",
+ "n": 8,
+ "title": "Shopping around",
+ "goals": [
+  "Name clothes and describe what you are wearing.",
+  "Point at things that are near or far with this, that, these, those.",
+  "Understand prices and numbers in shopping conversations.",
+  "Describe gadgets with adjectives such as compact, versatile, powerful.",
+  "Compare two things with comparative adjectives (cheaper than, more expensive than).",
+  "Join ideas with and, but, or and write a short recommendation for a product."
+ ],
+ "learn": [
+  {
+   "id": "v-clothes",
+   "kind": "vocab",
+   "title": "Clothes and accessories",
+   "words": [
+    {
+     "id": "w-jacket",
+     "en": "jacket",
+     "es": "chaqueta, saco",
+     "example": "Elena wears a dark jacket.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-skirt",
+     "en": "skirt",
+     "es": "falda",
+     "example": "She has a black skirt.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-suit",
+     "en": "suit",
+     "es": "traje",
+     "example": "My brother wears a suit to work.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-shoes",
+     "en": "shoes",
+     "es": "zapatos",
+     "example": "These shoes are comfortable.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-t-shirt",
+     "en": "T-shirt",
+     "es": "playera, camiseta",
+     "example": "I like this red T-shirt.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-shirt",
+     "en": "shirt",
+     "es": "camisa",
+     "example": "Fabio wears a striped shirt.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-jeans",
+     "en": "jeans",
+     "es": "jeans, pantalón de mezclilla",
+     "example": "These jeans are new.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-sneakers",
+     "en": "sneakers",
+     "es": "tenis, zapatillas deportivas",
+     "example": "My sneakers are red.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-sweater-sweatshirt",
+     "en": "sweater / sweatshirt",
+     "es": "suéter / sudadera",
+     "example": "It's cold, so I wear a sweater.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-underwear-socks",
+     "en": "underwear / socks",
+     "es": "ropa interior / calcetines",
+     "example": "I need new socks.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-boots",
+     "en": "boots",
+     "es": "botas",
+     "example": "Those boots are in a box.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-dress",
+     "en": "dress",
+     "es": "vestido",
+     "example": "That long dress is beautiful.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pants",
+     "en": "pants",
+     "es": "pantalón",
+     "example": "These pants are too big.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-shorts",
+     "en": "shorts",
+     "es": "pantalones cortos, shorts",
+     "example": "Shorts are good for summer.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-purse",
+     "en": "purse",
+     "es": "bolsa (de mujer), monedero",
+     "example": "Her purse is small."
+    },
+    {
+     "id": "w-tie",
+     "en": "tie",
+     "es": "corbata",
+     "example": "He wears a tie with the suit.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "g-demonstratives",
+   "kind": "grammar",
+   "title": "this, that, these, those",
+   "html": "<p>We use them to point at things. They depend on the <strong>distance</strong> (near or far from the speaker) and on the <strong>number</strong> (one or more than one).</p><table><thead><tr><th></th><th>Near the speaker</th><th>Far from the speaker</th></tr></thead><tbody><tr><td>Singular</td><td><strong>this</strong> T-shirt</td><td><strong>that</strong> T-shirt</td></tr><tr><td>Plural</td><td><strong>these</strong> shorts / jeans</td><td><strong>those</strong> shorts / jeans</td></tr></tbody></table><ul><li><em>Jeans, pants, shorts, shoes, socks</em> are plural: <em>these jeans</em>, not <em>this jeans</em>. For one item: <em>a pair of jeans</em>.</li><li>They can be used alone: <em>I like this. Those are nice.</em></li><li><em>This is…</em> and <em>That's…</em> are used to introduce things: <em>This is my new phone.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "I like this jeans.",
+     "right": "I like these jeans.",
+     "why": "Jeans is plural: these."
+    },
+    {
+     "wrong": "Those shirt is nice.",
+     "right": "That shirt is nice.",
+     "why": "The demonstrative agrees in number with the noun."
+    },
+    {
+     "wrong": "Is this boots yours?",
+     "right": "Are these boots yours?",
+     "why": "Boots is plural: Are these…?"
+    }
+   ]
+  },
+  {
+   "id": "s-prices",
+   "kind": "strategy",
+   "title": "Listening: numbers and prices",
+   "html": "<p>When you hear prices, listen to the numbers and how they are said.</p><table><thead><tr><th>Written</th><th>Said as</th></tr></thead><tbody><tr><td>$49.95</td><td>forty-nine ninety-five</td></tr><tr><td>$112</td><td>a hundred and twelve dollars</td></tr><tr><td>$3.50</td><td>three fifty</td></tr><tr><td>$250</td><td>two hundred (and) fifty dollars</td></tr><tr><td>$1000</td><td>one thousand dollars</td></tr></tbody></table><p>Be careful with similar pairs: <em>thirteen / thirty</em>, <em>fourteen / forty</em> (the stress falls on different syllables).</p>"
+  },
+  {
+   "id": "v-gadgets",
+   "kind": "vocab",
+   "title": "Gadgets and things to buy",
+   "words": [
+    {
+     "id": "w-smartphone",
+     "en": "smartphone",
+     "es": "teléfono inteligente",
+     "example": "My new smartphone is small.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-laptop-desktop",
+     "en": "laptop / desktop computer",
+     "es": "portátil / computadora de escritorio",
+     "example": "A desktop computer is more powerful than a laptop.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-e-reader",
+     "en": "e-reader",
+     "es": "lector electrónico",
+     "example": "This e-reader is easy to use."
+    },
+    {
+     "id": "w-mp3-cd-player",
+     "en": "MP3 player / CD player",
+     "es": "reproductor de MP3 / de CD",
+     "example": "An MP3 player is more up-to-date than a CD player.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-digital-film-camera",
+     "en": "digital camera / film camera",
+     "es": "cámara digital / de rollo",
+     "example": "A digital camera is more compact.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-tablet",
+     "en": "tablet",
+     "es": "tableta",
+     "example": "A tablet is useful for travel.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-fridge",
+     "en": "fridge",
+     "es": "refrigerador",
+     "example": "The fridge costs $250."
+    },
+    {
+     "id": "w-flat-screen-tv",
+     "en": "flat-screen TV",
+     "es": "televisor de pantalla plana",
+     "example": "The flat-screen TV costs $550.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pearl-necklace",
+     "en": "pearl necklace",
+     "es": "collar de perlas",
+     "example": "A pearl necklace can cost $1000."
+    },
+    {
+     "id": "w-charger-headphones",
+     "en": "charger / headphones",
+     "es": "cargador / audífonos",
+     "example": "It comes with a charger."
+    },
+    {
+     "id": "w-text-message-phone-call",
+     "en": "text message / phone call",
+     "es": "mensaje de texto / llamada",
+     "example": "Text messages are cheaper than phone calls.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-memory-software",
+     "en": "memory capacity / software",
+     "es": "capacidad de memoria / software",
+     "example": "I don't like the software restrictions.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "v-gadget-adj",
+   "kind": "vocab",
+   "title": "Adjectives for describing gadgets",
+   "words": [
+    {
+     "id": "w-expensive-cheap",
+     "en": "expensive / cheap",
+     "es": "caro / barato",
+     "example": "The shoes are expensive; the T-shirts are cheap.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-compact",
+     "en": "compact",
+     "es": "compacto, pequeño y práctico",
+     "example": "A compact camera fits in my pocket."
+    },
+    {
+     "id": "w-versatile",
+     "en": "versatile",
+     "es": "versátil, hace varias cosas",
+     "example": "A laptop is very versatile."
+    },
+    {
+     "id": "w-powerful",
+     "en": "powerful",
+     "es": "potente",
+     "example": "Desktop computers are powerful.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-user-friendly",
+     "en": "user-friendly",
+     "es": "fácil de usar",
+     "example": "This phone is user-friendly."
+    },
+    {
+     "id": "w-up-to-date",
+     "en": "up-to-date",
+     "es": "actualizado",
+     "example": "The games aren't up-to-date."
+    },
+    {
+     "id": "w-attractive",
+     "en": "attractive",
+     "es": "atractivo, de buen aspecto",
+     "example": "The red phone is attractive.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-comfortable",
+     "en": "comfortable",
+     "es": "cómodo",
+     "example": "My new chair is less comfortable than my old one.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-heavy",
+     "en": "heavy",
+     "es": "pesado",
+     "example": "The headphones are heavy.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-casual-practical-famous",
+     "en": "casual / practical / famous",
+     "es": "informal / práctico / famoso",
+     "example": "Sneakers are more practical than boots.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "g-comparatives",
+   "kind": "grammar",
+   "title": "Comparative adjectives",
+   "html": "<p>We use them to compare two things or people: <em>A is more ___ than B</em>. They do not change for singular or plural.</p><p><strong>Form:</strong> noun + be + comparative + <strong>than</strong> + noun.</p><table><thead><tr><th>Rule</th><th>Adjective → Comparative</th></tr></thead><tbody><tr><td>One syllable: + -er</td><td>small → smaller, cheap → cheaper, old → older, slow → slower</td></tr><tr><td>Ends in -e: + -r</td><td>nice → nicer, large → larger</td></tr><tr><td>Consonant-vowel-consonant: double the consonant</td><td>big → bigger, hot → hotter</td></tr><tr><td>Two syllables ending in -y: y → -ier</td><td>happy → happier, pretty → prettier, easy → easier, heavy → heavier</td></tr><tr><td>Long adjectives: more / less + adjective</td><td>more compact, more up-to-date, less user-friendly, more expensive</td></tr><tr><td><strong>Irregular</strong></td><td>good → <strong>better</strong>, bad → <strong>worse</strong></td></tr></tbody></table><ul><li><em>Less</em> is the opposite of <em>more</em>: <em>less expensive</em> = not as expensive.</li><li>With <em>than</em>, we can use possessives: <em>His desk is smaller than yours.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "This computer is more better than that one.",
+     "right": "This computer is better than that one.",
+     "why": "Better is already comparative: do not add more."
+    },
+    {
+     "wrong": "My phone is more cheap than yours.",
+     "right": "My phone is cheaper than yours.",
+     "why": "Short adjective: cheap + -er."
+    },
+    {
+     "wrong": "Laptops are heavier that tablets.",
+     "right": "Laptops are heavier than tablets.",
+     "why": "The comparison word is than, not that."
+    },
+    {
+     "wrong": "My room is more big.",
+     "right": "My room is bigger.",
+     "why": "Big is short: double the g and add -er."
+    }
+   ]
+  },
+  {
+   "id": "g-compound",
+   "kind": "grammar",
+   "title": "Compound sentences: and, but, or",
+   "html": "<p>We use them to join two ideas into one sentence.</p><table><thead><tr><th>Word</th><th>Function</th><th>Example</th></tr></thead><tbody><tr><td><strong>and</strong></td><td>adds a similar idea</td><td>The laptop is versatile <strong>and</strong> powerful.</td></tr><tr><td><strong>but</strong></td><td>contrasts</td><td>It's not compact, <strong>but</strong> it's easy to use.</td></tr><tr><td><strong>or</strong></td><td>gives a choice</td><td>You can call <strong>or</strong> send a text message.</td></tr></tbody></table><p>We put a comma before <em>but</em> when it joins two full sentences. Each sentence needs a subject: <em>…but <strong>it is</strong> a little expensive.</em></p>",
+   "watch": [
+    {
+     "wrong": "…but is a little expensive.",
+     "right": "…but it is a little expensive.",
+     "why": "Each sentence needs a subject (it)."
+    },
+    {
+     "wrong": "…because is very stylish.",
+     "right": "…because it is very stylish.",
+     "why": "The subject it is missing after because."
+    }
+   ]
+  },
+  {
+   "id": "v-shopping",
+   "kind": "vocab",
+   "title": "Shopping and reviews",
+   "words": [
+    {
+     "id": "w-review",
+     "en": "review",
+     "es": "reseña",
+     "example": "Dieter wrote a good review.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-comes-with",
+     "en": "It comes with…",
+     "es": "Viene con…",
+     "example": "It comes with a charger.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-you-can-choose",
+     "en": "You can choose a … or a …",
+     "es": "Puedes elegir un … o un …",
+     "example": "You can choose a black or a grey phone.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-recommend",
+     "en": "recommend",
+     "es": "recomendar",
+     "example": "I'd definitely recommend it!",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-wrong-size",
+     "en": "wrong size",
+     "es": "talla equivocada",
+     "example": "Sometimes I get the wrong size online.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-save-money",
+     "en": "save money",
+     "es": "ahorrar dinero",
+     "example": "I save money when I shop online.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-hurry",
+     "en": "hurry",
+     "es": "apresurarse",
+     "example": "I don't like to hurry when I shop.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>It comes with a charger.</strong> — say what a product includes.</li><li><strong>You can choose a … or a …</strong> — give options.</li><li><strong>I like …, but I don't like … because …</strong> — a review with pros and cons.</li><li><strong>I don't know about …</strong> — say you are not sure about something in the product.</li><li><strong>I'd definitely recommend it!</strong> — end a positive review.</li><li><strong>Which one is cheaper / better?</strong> — compare two options when you shop.</li><li><strong>This one is more expensive than that one.</strong> — compare in the store.</li><li><strong>I like these jeans. / I don't like that color.</strong> — give your opinion about clothes.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "this, that, these, those",
+   "instructions": "Complete with this, that, these or those depending on the situation.",
+   "topic": "g-demonstratives",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "(You are holding a shirt.) I like ___ shirt.",
+     "answers": [
+      "this"
+     ],
+     "explain": "Singular and near: this."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "(You point at jeans on the other side of the store.) How much are ___ jeans?",
+     "answers": [
+      "those"
+     ],
+     "explain": "Plural and far: those."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "(You are holding some socks.) ___ socks are cheap.",
+     "answers": [
+      "These"
+     ],
+     "explain": "Plural and near: these."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "(You point at a tie far away.) Is ___ tie expensive?",
+     "answers": [
+      "that"
+     ],
+     "explain": "Singular and far: that."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "(You are wearing shoes.) ___ shoes are comfortable.",
+     "answers": [
+      "These"
+     ],
+     "explain": "Plural and near: these."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "(You point at a dress on a mannequin far away.) ___ dress is beautiful.",
+     "answers": [
+      "That"
+     ],
+     "explain": "Singular and far: that."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "(You point at boots in the window.) Can I see ___ boots?",
+     "answers": [
+      "those"
+     ],
+     "explain": "Plural and far: those."
+    },
+    {
+     "id": "A8",
+     "type": "gap",
+     "prompt": "(You are holding a purse.) ___ purse is too big.",
+     "answers": [
+      "This"
+     ],
+     "explain": "Singular and near: this."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Write the comparative",
+   "instructions": "Write the comparative of the adjective in brackets (↑ = more, ↓ = less).",
+   "topic": "g-comparatives",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "The T-shirt is ___ than the sweater. (cheap)",
+     "answers": [
+      "cheaper"
+     ],
+     "explain": "One syllable: cheap + -er."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "My room is ___ than my sister's room. (big)",
+     "answers": [
+      "bigger"
+     ],
+     "explain": "Consonant-vowel-consonant: double the g."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "This app is ___ to use than that one. (easy)",
+     "answers": [
+      "easier"
+     ],
+     "explain": "Ends in -y: easy → easier."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "A laptop is ___ than a tablet. (expensive ↑)",
+     "answers": [
+      "more expensive"
+     ],
+     "explain": "Long adjective: more + adjective."
+    },
+    {
+     "id": "B5",
+     "type": "gap",
+     "prompt": "Sneakers are ___ than boots. (practical ↑)",
+     "answers": [
+      "more practical"
+     ],
+     "explain": "Long adjective: more + adjective."
+    },
+    {
+     "id": "B6",
+     "type": "gap",
+     "prompt": "My new phone is ___ than my old one. (good)",
+     "answers": [
+      "better"
+     ],
+     "explain": "Good is irregular: better."
+    },
+    {
+     "id": "B7",
+     "type": "gap",
+     "prompt": "A laptop is ___ than an e-reader. (heavy)",
+     "answers": [
+      "heavier"
+     ],
+     "explain": "Ends in -y: heavy → heavier."
+    },
+    {
+     "id": "B8",
+     "type": "gap",
+     "prompt": "Desktop computers are ___ than laptops. (compact ↓)",
+     "answers": [
+      "less compact"
+     ],
+     "explain": "less + adjective means 'not as ...'."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Which word is it?",
+   "instructions": "Write the word that matches the description.",
+   "topic": "v-clothes",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "You wear it around your neck with a shirt. It's a ___.",
+     "answers": [
+      "tie"
+     ],
+     "explain": "A tie is worn with a shirt: tie."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "You wear them on your feet inside your shoes. They're ___.",
+     "answers": [
+      "socks"
+     ],
+     "explain": "They are worn inside shoes: socks."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "Many women carry money and keys in it. It's a ___.",
+     "answers": [
+      "purse",
+      "handbag",
+      "bag"
+     ],
+     "explain": "A bag that women carry: purse."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "Short trousers for hot weather. They're ___.",
+     "answers": [
+      "shorts"
+     ],
+     "explain": "Short trousers: shorts (plural)."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "Not expensive. It's ___.",
+     "answers": [
+      "cheap",
+      "inexpensive"
+     ],
+     "explain": "Not expensive: cheap."
+    },
+    {
+     "id": "C6",
+     "type": "gap",
+     "prompt": "It can do many different things. It's ___.",
+     "answers": [
+      "versatile"
+     ],
+     "explain": "It does many things: versatile."
+    },
+    {
+     "id": "C7",
+     "type": "gap",
+     "prompt": "Small and easy to carry. It's ___.",
+     "answers": [
+      "compact"
+     ],
+     "explain": "Small and practical: compact."
+    },
+    {
+     "id": "C8",
+     "type": "gap",
+     "prompt": "Very easy to use. It's ___.",
+     "answers": [
+      "user-friendly"
+     ],
+     "explain": "Easy to use: user-friendly."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Find the mistake",
+   "instructions": "Each sentence has one mistake. Write the corrected sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "D1",
+     "type": "fix",
+     "prompt": "I like this jeans.",
+     "answers": [
+      "I like these jeans."
+     ],
+     "explain": "Jeans is plural: these."
+    },
+    {
+     "id": "D2",
+     "type": "fix",
+     "prompt": "This computer is more better than that one.",
+     "answers": [
+      "This computer is better than that one."
+     ],
+     "explain": "Better is already comparative: no more."
+    },
+    {
+     "id": "D3",
+     "type": "fix",
+     "prompt": "My phone is more cheap than your phone.",
+     "answers": [
+      "My phone is cheaper than your phone."
+     ],
+     "explain": "Short adjective: cheap + -er."
+    },
+    {
+     "id": "D4",
+     "type": "fix",
+     "prompt": "The shoes are biger than my old ones.",
+     "answers": [
+      "The shoes are bigger than my old ones."
+     ],
+     "explain": "Big doubles the g: bigger."
+    },
+    {
+     "id": "D5",
+     "type": "fix",
+     "prompt": "Those shirt is nice.",
+     "answers": [
+      "That shirt is nice.",
+      "Those shirts are nice."
+     ],
+     "explain": "The demonstrative agrees in number with the noun."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "The blue dress is prettier that the red one.",
+     "answers": [
+      "The blue dress is prettier than the red one."
+     ],
+     "explain": "In comparisons we use than, not that."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Join with and, but or or",
+   "instructions": "Complete with and, but or or.",
+   "topic": "g-compound",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "The tablet is light ___ powerful.",
+     "answers": [
+      "and"
+     ],
+     "explain": "Adds two qualities: and."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "This phone is attractive, ___ it isn't cheap.",
+     "answers": [
+      "but"
+     ],
+     "explain": "Contrast: but."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "You can pay with cash ___ with a card.",
+     "answers": [
+      "or"
+     ],
+     "explain": "Two options: or."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "I like the jacket, ___ the color is too bright.",
+     "answers": [
+      "but"
+     ],
+     "explain": "Contrast: but."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Review of earlier lessons",
+   "instructions": "Review of How old, possessives and the negative present simple.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "___ old is your brother? — He's twenty.",
+     "answers": [
+      "How"
+     ],
+     "explain": "For age: How old…?"
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "Whose jacket is that? — It's ___. (Pedro)",
+     "answers": [
+      "Pedro's",
+      "his"
+     ],
+     "explain": "Possessive: Pedro's (or his)."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "Ana ___ (wear) a suit every day. (negative)",
+     "answers": [
+      "doesn't wear",
+      "does not wear"
+     ],
+     "explain": "Third person negative: doesn't + base verb."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to make a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "jeans",
+      "I",
+      "these",
+      "like"
+     ],
+     "answers": [
+      "I like these jeans."
+     ],
+     "explain": "Jeans is plural: these."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "How",
+      "are",
+      "much",
+      "those",
+      "shoes"
+     ],
+     "answers": [
+      "How much are those shoes?"
+     ],
+     "explain": "How much + are + plural subject."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Text",
+      "messages",
+      "are",
+      "cheaper",
+      "than",
+      "phone",
+      "calls"
+     ],
+     "answers": [
+      "Text messages are cheaper than phone calls."
+     ],
+     "explain": "Short comparative + than."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "is",
+      "better",
+      "My",
+      "new",
+      "than",
+      "phone",
+      "my",
+      "old",
+      "one"
+     ],
+     "answers": [
+      "My new phone is better than my old one."
+     ],
+     "explain": "Better is the irregular comparative of good."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "A",
+      "laptop",
+      "is",
+      "more",
+      "expensive",
+      "than",
+      "a",
+      "tablet"
+     ],
+     "answers": [
+      "A laptop is more expensive than a tablet."
+     ],
+     "explain": "Long adjective: more + adjective + than."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "comes",
+      "with",
+      "It",
+      "a",
+      "charger"
+     ],
+     "answers": [
+      "It comes with a charger."
+     ],
+     "explain": "It comes with… says what the product includes."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Me gustan estos jeans.",
+     "answers": [
+      "I like these jeans."
+     ],
+     "explain": "Jeans is plural: these."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿Cuánto cuesta esa camisa?",
+     "answers": [
+      "How much is that shirt?",
+      "How much does that shirt cost?",
+      "How much is that shirt?"
+     ],
+     "explain": "How much + is + that + singular noun."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Los mensajes de texto son más baratos que las llamadas.",
+     "answers": [
+      "Text messages are cheaper than phone calls.",
+      "Text messages are cheaper than calls.",
+      "Text messages are cheaper than the phone calls."
+     ],
+     "explain": "Cheap + -er + than."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Mi teléfono nuevo es mejor que el viejo.",
+     "answers": [
+      "My new phone is better than my old one.",
+      "My new phone is better than the old one.",
+      "My new phone is better than my old phone.",
+      "My new phone is better than the old phone."
+     ],
+     "explain": "Good → better (irregular), followed by than."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Esta computadora es más potente que esa.",
+     "answers": [
+      "This computer is more powerful than that one.",
+      "This computer is more powerful than that.",
+      "This laptop is more powerful than that one.",
+      "This laptop is more powerful than that."
+     ],
+     "explain": "Powerful is long: more powerful than."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Viene con un cargador, pero es un poco caro.",
+     "answers": [
+      "It comes with a charger, but it is a little expensive.",
+      "It comes with a charger, but it's a little expensive.",
+      "It comes with a charger, but it is a bit expensive.",
+      "It comes with a charger, but it's a bit expensive."
+     ],
+     "explain": "Each sentence has a subject (it); but contrasts."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed practice",
+   "instructions": "Exercises on different topics from the unit (includes review of Unit 5 and Unit 6).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "This computer is ___ than that one.",
+     "options": [
+      "more better",
+      "better",
+      "gooder"
+     ],
+     "answer": 1,
+     "explain": "Good → better; never more better."
+    },
+    {
+     "id": "M2",
+     "type": "choice",
+     "prompt": "Laptops are ___ than tablets.",
+     "options": [
+      "more heavy",
+      "heavier",
+      "more heavier"
+     ],
+     "answer": 1,
+     "explain": "Heavy ends in -y: heavier."
+    },
+    {
+     "id": "M3",
+     "type": "gap",
+     "prompt": "A laptop is ___ versatile than a camera. (↑)",
+     "answers": [
+      "more"
+     ],
+     "explain": "Long adjective: more + adjective."
+    },
+    {
+     "id": "M4",
+     "type": "fix",
+     "prompt": "I like that shoes.",
+     "answers": [
+      "I like those shoes.",
+      "I like that shoe."
+     ],
+     "explain": "Shoes is plural: those."
+    },
+    {
+     "id": "M5",
+     "type": "translate",
+     "prompt": "Estas botas son más cómodas que esos zapatos.",
+     "answers": [
+      "These boots are more comfortable than those shoes.",
+      "These boots are more comfortable than those."
+     ],
+     "explain": "Boots → these; shoes → those; comfortable → more comfortable."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "My phone is cheap, ___ it is not very powerful.",
+     "answers": [
+      "but"
+     ],
+     "explain": "Contrast: but."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "___ forget your purse! (don't forget) (review of Unit 5)",
+     "answers": [
+      "Don't",
+      "Do not"
+     ],
+     "explain": "Negative imperative: Don't + base verb."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "Look! Maria ___ (try) on a dress. (review of Unit 6)",
+     "answers": [
+      "is trying",
+      "'s trying"
+     ],
+     "explain": "Right now: present continuous, is + verb-ing."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Choose a product you use (phone, computer, headphones…) and write a recommendation of 5 to 7 sentences: It is … and …; I like …, but …; I don't like … because …; It comes with …; I'd definitely recommend it. Include at least one comparative (It is cheaper than…).",
+   "targets": [
+    "adjectives for gadgets",
+    "comparatives with than",
+    "and / but / or",
+    "subject is required (it is)",
+    "spelling"
+   ],
+   "checklist": [
+    "A subject in each sentence (it is…, not is…)",
+    "At least one correct comparative with than",
+    "Better / worse when you compare with good / bad (never more better)",
+    "more / less only with long adjectives",
+    "and, but, or used correctly",
+    "It comes with… and I'd definitely recommend it",
+    "Spelling: design, awesome, expensive",
+    "Between 5 and 7 sentences"
+   ],
+   "model": "I use my phone every day. It is small and light, and the design is awesome. It isn't expensive, and it is cheaper than my old phone. I like the camera because it is better than my old camera. I don't like the screen because it is small. It comes with a case and a charger. I'd definitely recommend it."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a 6-line dialogue in a clothing store: ask about one item nearby and another far away (this / those), compare two, and decide which one you buy.",
+   "targets": [
+    "this / that / these / those",
+    "comparatives",
+    "price questions"
+   ],
+   "checklist": [
+    "6 lines, customer and salesperson",
+    "this / these for near things; that / those for far things",
+    "Agreement in number (these jeans, that shirt)",
+    "One comparative (This one is cheaper than that one.)",
+    "How much is / are…? to ask the price",
+    "Final decision (I'll take this one.)"
+   ],
+   "model": "Customer: Excuse me, how much is this shirt?\nSalesperson: It's 250 pesos.\nCustomer: And how much are those jeans on the wall?\nSalesperson: They're 450 pesos. These blue jeans here are 400 pesos.\nCustomer: This shirt is cheaper than that red shirt. I'll take this one.\nSalesperson: Great choice! Do you want a bag?"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Two phones, two opinions",
+   "intro": "Read the two reviews and answer.",
+   "paragraphs": [
+    "Which phone is better for you: the Zeta One or the Nova Mini? Two customers give their opinions.",
+    "Laura: I love my Zeta One. It is bigger than my old phone, and the screen is beautiful. It is more powerful than the Nova Mini, so the games are faster. It comes with a charger and headphones. But it is heavier and more expensive. It costs $450. I'd definitely recommend it for people who play games.",
+    "Mateo: I prefer the Nova Mini. It is smaller and lighter than the Zeta One, so it is more compact and fits in my pocket. It is also cheaper: only $280. It is easy to use and the battery is good. I don't like the camera because it is not very good. You can choose a black or a white phone. It is a good choice for students who need a simple phone.",
+    "Our opinion: both phones are good. The Zeta One is better for games. The Nova Mini is better if you want to save money."
+   ],
+   "glossary": [
+    {
+     "en": "review",
+     "def": "a written opinion about a product"
+    },
+    {
+     "en": "customer",
+     "def": "a person who buys things"
+    },
+    {
+     "en": "screen",
+     "def": "the part of a phone you look at"
+    },
+    {
+     "en": "charger",
+     "def": "what you plug in to charge a phone"
+    },
+    {
+     "en": "battery",
+     "def": "the part that gives power to a phone"
+    },
+    {
+     "en": "pocket",
+     "def": "a small space in clothes to keep things"
+    },
+    {
+     "en": "fits in",
+     "def": "can go inside"
+    },
+    {
+     "en": "lighter",
+     "def": "not as heavy"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "The Zeta One is cheaper than the Nova Mini.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Zeta One: $450; Nova Mini: $280. The Nova Mini is cheaper."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "The Nova Mini fits in Mateo's pocket.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Mateo says it is compact and fits in his pocket."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "How much is the Nova Mini?",
+     "options": [
+      "$250",
+      "$280",
+      "$450"
+     ],
+     "answer": 1,
+     "explain": "Dice «only $280»."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Which phone is heavier?",
+     "options": [
+      "The Zeta One",
+      "The Nova Mini",
+      "They are the same"
+     ],
+     "answer": 0,
+     "explain": "Laura: «it is heavier and more expensive»."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "The Zeta One is more ___ than the Nova Mini.",
+     "answers": [
+      "powerful"
+     ],
+     "explain": "Adjetivo largo: more + adjetivo + than."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Mateo doesn't like the ___.",
+     "answers": [
+      "camera"
+     ],
+     "explain": "Dice: «I don't like the camera»."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Buying sneakers",
+   "intro": "Listen to the conversation in the store. You can repeat it.",
+   "lines": [
+    {
+     "who": "Assistant",
+     "voice": "glassy",
+     "text": "Good morning. Can I help you?"
+    },
+    {
+     "who": "Customer",
+     "voice": "rounded",
+     "text": "Yes, please. I'm looking for sneakers. How much are these white sneakers?"
+    },
+    {
+     "who": "Assistant",
+     "voice": "glassy",
+     "text": "Those are sixty-five dollars."
+    },
+    {
+     "who": "Customer",
+     "voice": "rounded",
+     "text": "Hmm, that's a lot. And what about those black ones over there?"
+    },
+    {
+     "who": "Assistant",
+     "voice": "glassy",
+     "text": "The black ones are fifty-four ninety-five. They're cheaper than the white ones, but the white ones are more comfortable."
+    },
+    {
+     "who": "Customer",
+     "voice": "rounded",
+     "text": "Can I try the black ones? I'm a size nine."
+    },
+    {
+     "who": "Assistant",
+     "voice": "glassy",
+     "text": "Of course. Here you are. How are they?"
+    },
+    {
+     "who": "Customer",
+     "voice": "rounded",
+     "text": "They're a little big. Do you have a smaller size?"
+    },
+    {
+     "who": "Assistant",
+     "voice": "glassy",
+     "text": "Yes, here is a size eight. Today you get a free pair of socks too."
+    },
+    {
+     "who": "Customer",
+     "voice": "rounded",
+     "text": "Great, they're perfect. I'll take the black ones, please. Can I pay by card?"
+    },
+    {
+     "who": "Assistant",
+     "voice": "glassy",
+     "text": "Yes, of course. That's fifty-four ninety-five, please."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What does the customer want to buy?",
+     "options": [
+      "Sneakers",
+      "Boots",
+      "A jacket"
+     ],
+     "answer": 0,
+     "explain": "I'm looking for sneakers."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "How much are the white sneakers?",
+     "options": [
+      "$65",
+      "$45",
+      "$85"
+     ],
+     "answer": 0,
+     "explain": "Sixty-five dollars = $65."
+    },
+    {
+     "id": "L3",
+     "type": "gap",
+     "prompt": "The black sneakers are ___ than the white ones.",
+     "answers": [
+      "cheaper"
+     ],
+     "explain": "One syllable: cheap → cheaper."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What size does the customer buy?",
+     "options": [
+      "Size nine",
+      "Size eight",
+      "Size ten"
+     ],
+     "answer": 1,
+     "explain": "Size nine es grande; compra la talla ocho."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "How does the customer want to pay?",
+     "options": [
+      "By card",
+      "In cash",
+      "By phone"
+     ],
+     "answer": 0,
+     "explain": "Can I pay by card?"
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "How much are these white sneakers?",
+     "answers": [
+      "How much are these white sneakers?"
+     ],
+     "explain": "Sneakers es plural: How much are + these."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "The black ones are cheaper than the white ones.",
+     "answers": [
+      "The black ones are cheaper than the white ones."
+     ],
+     "explain": "Comparativo + than."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Do you have a smaller size?",
+     "answers": [
+      "Do you have a smaller size?"
+     ],
+     "explain": "smaller = small + -er."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "I'll take the black ones, please.",
+     "answers": [
+      "I'll take the black ones, please.",
+      "I will take the black ones, please."
+     ],
+     "explain": "I'll = I will."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "You are in a clothing store. Answer the salesperson and compare two items.",
+     "questions": [
+      "Hello. Can I help you?",
+      "What are you looking for?",
+      "Do you like this jacket or that jacket?",
+      "Which one do you want?"
+     ],
+     "model": "Yes, please. I'm looking for a jacket. I like that black jacket, but it is expensive. This blue jacket is cheaper than that one. I'll take this one.",
+     "checklist": [
+      "this / that depending on distance",
+      "Comparative with than (cheaper than)",
+      "but to contrast",
+      "it is (subject required)"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Compare two gadgets you use (phone, computer, tablet).",
+     "questions": [
+      "Do you have a smartphone or a laptop?",
+      "Which one is more useful?",
+      "Which one is cheaper?",
+      "Is it easy to use?"
+     ],
+     "model": "I have a smartphone and a laptop. My laptop is more powerful than my phone, but my phone is more compact. The laptop is more expensive than the phone. My phone is easy to use.",
+     "checklist": [
+      "-er than with short adjectives",
+      "more + long adjective + than",
+      "No more better (use better)",
+      "Use than, not that"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Recommend a product you have.",
+     "questions": [
+      "What product do you recommend?",
+      "Why do you like it?",
+      "Does it have any problem?",
+      "How much is it?"
+     ],
+     "model": "I recommend my headphones. I like them because they are comfortable and cheap. They come with a bag. I don't like the color because it is boring, but I'd definitely recommend them.",
+     "checklist": [
+      "because + subject + verb (it is)",
+      "but to contrast",
+      "It comes with / They come with",
+      "I'd definitely recommend it"
+     ]
+    }
+   ],
+   "repeat": [
+    "How much are these jeans?",
+    "I like that jacket, but it's expensive.",
+    "This phone is cheaper than that one.",
+    "Do you have a smaller size?",
+    "It comes with a charger.",
+    "I'd definitely recommend it!"
+   ]
+  }
+ }
+}

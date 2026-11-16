@@ -1,0 +1,1806 @@
+{
+ "id": "u-b2-08",
+ "level": "B2",
+ "n": 8,
+ "title": "Looks That Work",
+ "goals": [
+  "Compare people, things and actions with (not) as ... as, using adjectives, adverbs and nouns.",
+  "Choose between as many, as much, as little and as few depending on the type of noun.",
+  "Form and understand negative questions to give opinions, make suggestions and show surprise.",
+  "Describe clothing, materials, patterns and colors, and shop with confidence.",
+  "Summarize what another person says and use Now to follow up in a conversation.",
+  "Write with good punctuation: commas in lists, dashes and exclamation marks."
+ ],
+ "learn": [
+  {
+   "id": "g-as-adj-adv",
+   "kind": "grammar",
+   "title": "Comparisons with (not) as ... as: adjectives and adverbs",
+   "html": "<p>Use <strong>as + adjective/adverb + as</strong> to say that two things are equal, and <strong>not as ... as</strong> to say that one is less than the other.</p><table><thead><tr><th>Structure</th><th>Example</th><th>Meaning</th></tr></thead><tbody><tr><td>as + adjective + as</td><td>The pants are just as comfortable as my jeans.</td><td>They are equally comfortable.</td></tr><tr><td>not as + adjective + as</td><td>The pants are not as comfortable as my jeans.</td><td>The pants are less comfortable.</td></tr><tr><td>as + adverb + as</td><td>I tried as hard as I could.</td><td>I made my maximum effort.</td></tr><tr><td>not as + adverb + as</td><td>He doesn't run as fast as his brother.</td><td>He runs more slowly.</td></tr></tbody></table><ul><li>To add emphasis: <em>just as, exactly as</em>. To soften or firmly deny: <em>not quite as, not nearly as</em>.</li><li>After the second <em>as</em> you can use a pronoun (<em>as me</em>) or a pronoun with a verb (<em>as I do</em>).</li><li>You can avoid the comparative: <em>A isn't as big as B</em> means the same as <em>B is bigger than A</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "This sweater is not so warm than that one.",
+     "right": "This sweater is not as warm as that one.",
+     "why": "The structure is as ... as; never use than with this pattern."
+    },
+    {
+     "wrong": "My jeans are not as new that yours.",
+     "right": "My jeans are not as new as yours.",
+     "why": "The second term of the comparison takes as."
+    },
+    {
+     "wrong": "He sings as good as his brother.",
+     "right": "He sings as well as his brother.",
+     "why": "With a verb we use the adverb (well), not the adjective (good)."
+    },
+    {
+     "wrong": "She is as tall like her mother.",
+     "right": "She is as tall as her mother.",
+     "why": "Don't use like in this structure: as ... as."
+    }
+   ]
+  },
+  {
+   "id": "g-as-quantity",
+   "kind": "grammar",
+   "title": "as + much / many / little / few + noun + as",
+   "html": "<p>To compare <strong>quantities</strong> with a noun, use <strong>as + determiner + noun + as</strong>. The choice depends on whether the noun is countable or uncountable.</p><table><thead><tr><th>Type</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Countable (plural)</td><td>as many / as few + noun + as</td><td>She doesn't wear as many bright colors as she should.</td></tr><tr><td>Uncountable</td><td>as much / as little + noun + as</td><td>She spends as little time as possible on her makeup.</td></tr><tr><td>Verb + quantity</td><td>verb + as much as</td><td>I don't like short hair as much as long hair.</td></tr><tr><td>Maximum</td><td>as ... as possible / as ... as you can</td><td>Take as much time as you need.</td></tr></tbody></table><p>In Spanish we use <em>tanto/a/os/as ... como</em>, which changes with gender and number. In English only one thing matters: whether the noun is countable (<em>many</em>) or uncountable (<em>much</em>).</p>",
+   "watch": [
+    {
+     "wrong": "I don't have as much shoes as my sister.",
+     "right": "I don't have as many shoes as my sister.",
+     "why": "Shoes is countable: as many."
+    },
+    {
+     "wrong": "She spends as many time as possible at the mirror.",
+     "right": "She spends as much time as possible at the mirror.",
+     "why": "Time is uncountable: as much."
+    },
+    {
+     "wrong": "I don't spend as much money than you.",
+     "right": "I don't spend as much money as you.",
+     "why": "It closes with as, not with than."
+    },
+    {
+     "wrong": "There are not as much stores here as downtown.",
+     "right": "There are not as many stores here as downtown.",
+     "why": "Stores is countable: as many."
+    }
+   ]
+  },
+  {
+   "id": "g-neg-questions",
+   "kind": "grammar",
+   "title": "Negative questions",
+   "html": "<p>Negative questions start with a negative auxiliary verb: <em>Isn't ...? Don't you ...? Doesn't she ...?</em> In English they are not used to ask for neutral information: they express an <strong>attitude</strong>.</p><table><thead><tr><th>Use</th><th>Example</th><th>What you mean</th></tr></thead><tbody><tr><td>Giving an opinion</td><td>Isn't this jacket great? / Don't you think it's great?</td><td>I think it's great and I hope you agree.</td></tr><tr><td>Suggesting an idea</td><td>It'd look good, don't you think?</td><td>I propose something and I want your agreement.</td></tr><tr><td>Showing surprise</td><td>Isn't it on sale? / Doesn't she like it?</td><td>I expected a yes, and I'm surprised it's not.</td></tr></tbody></table><ul><li>Form: <strong>negative auxiliary + subject + verb</strong>. With <em>be</em>: <em>Aren't they expensive?</em> With the simple present: <em>Don't you like it?</em></li><li>The answer is based on reality, not on the question: <em>Isn't it nice? — Yes, it is. / No, it isn't.</em></li><li><em>Don't you think ...?</em> at the end of a sentence softens an opinion.</li></ul>",
+   "watch": [
+    {
+     "wrong": "Don't it look good on me?",
+     "right": "Doesn't it look good on me?",
+     "why": "With it we use doesn't, not don't."
+    },
+    {
+     "wrong": "Doesn't he likes the blue shirt?",
+     "right": "Doesn't he like the blue shirt?",
+     "why": "After doesn't, the verb goes in its base form."
+    },
+    {
+     "wrong": "Isn't she like it?",
+     "right": "Doesn't she like it?",
+     "why": "With a regular verb we use the auxiliary do/does, not be."
+    },
+    {
+     "wrong": "Aren't you think it's expensive?",
+     "right": "Don't you think it's expensive?",
+     "why": "Think is a regular verb: Don't you think ...?"
+    }
+   ]
+  },
+  {
+   "id": "g-punctuation",
+   "kind": "grammar",
+   "title": "Punctuation in writing: commas, dashes and exclamation marks",
+   "html": "<p>Good punctuation makes a text about fashion, tips or recommendations read naturally.</p><table><thead><tr><th>Mark</th><th>Use</th><th>Example</th></tr></thead><tbody><tr><td>Comma (,)</td><td>Separates a list of three or more items</td><td>Get rid of stained, torn, or out-of-style clothing.</td></tr><tr><td>No comma</td><td>Not used in a list of only two items</td><td>Get rid of torn or out-of-style clothing.</td></tr><tr><td>Dash (–)</td><td>Adds or explains something more</td><td>Silk may feel nice, but be careful – shiny fabrics can make you look heavier.</td></tr><tr><td>Exclamation mark (!)</td><td>Adds emphasis</td><td>Developing your own style is not as hard as you might think!</td></tr></tbody></table><ul><li>The comma before the last <em>and</em> (serial comma) is optional in English; be consistent throughout the text.</li><li>Don't overuse exclamation marks: one per paragraph is usually enough.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I bought a shirt a skirt a belt and a scarf.",
+     "right": "I bought a shirt, a skirt, a belt, and a scarf.",
+     "why": "In a list of three or more items, separate them with commas."
+    },
+    {
+     "wrong": "I love silk, and cotton.",
+     "right": "I love silk and cotton.",
+     "why": "With only two items, no comma is used."
+    },
+    {
+     "wrong": "Be careful, shiny fabrics can make you look heavier.",
+     "right": "Be careful – shiny fabrics can make you look heavier.",
+     "why": "The dash introduces an explanation; a single comma would join the two ideas badly."
+    }
+   ]
+  },
+  {
+   "id": "v-clothes-styles",
+   "kind": "vocab",
+   "title": "Clothes and styles",
+   "words": [
+    {
+     "id": "w-scarf-pl-scarves",
+     "en": "scarf (pl. scarves)",
+     "es": "bufanda",
+     "example": "She wore a long wool scarf."
+    },
+    {
+     "id": "w-turtleneck",
+     "en": "turtleneck",
+     "es": "suéter de cuello alto",
+     "example": "A turtleneck keeps me warm in winter."
+    },
+    {
+     "id": "w-v-neck",
+     "en": "V-neck",
+     "es": "suéter o camiseta de cuello en V",
+     "example": "He prefers V-necks to round necks."
+    },
+    {
+     "id": "w-sneakers",
+     "en": "sneakers",
+     "es": "tenis",
+     "example": "I wear sneakers to the office on Fridays.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-baggy",
+     "en": "baggy",
+     "es": "holgado/a",
+     "example": "Baggy jeans were popular in the nineties."
+    },
+    {
+     "id": "w-boot-cut",
+     "en": "boot-cut",
+     "es": "corte bota (pantalón)",
+     "example": "These boot-cut jeans fit over boots."
+    },
+    {
+     "id": "w-fitted",
+     "en": "fitted",
+     "es": "ajustado/a (al cuerpo)",
+     "example": "She wore a fitted black jacket."
+    },
+    {
+     "id": "w-flared",
+     "en": "flared",
+     "es": "acampanado/a",
+     "example": "Flared pants are back in fashion."
+    },
+    {
+     "id": "w-long-sleeved",
+     "en": "long-sleeved",
+     "es": "de manga larga",
+     "example": "I need a long-sleeved shirt for the trip."
+    },
+    {
+     "id": "w-short-sleeved",
+     "en": "short-sleeved",
+     "es": "de manga corta",
+     "example": "It's hot, so I'll wear a short-sleeved shirt."
+    },
+    {
+     "id": "w-skinny",
+     "en": "skinny",
+     "es": "pitillo, muy ajustado/a",
+     "example": "He never wears skinny jeans."
+    },
+    {
+     "id": "w-tight",
+     "en": "tight",
+     "es": "apretado/a",
+     "example": "These shoes are too tight.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-stylish",
+     "en": "stylish",
+     "es": "elegante, con estilo",
+     "example": "Your new coat is very stylish."
+    },
+    {
+     "id": "w-scruffy",
+     "en": "scruffy",
+     "es": "desaliñado/a",
+     "example": "He looked scruffy after the long trip."
+    }
+   ]
+  },
+  {
+   "id": "v-materials-colors",
+   "kind": "vocab",
+   "title": "Materials, patterns and colors",
+   "words": [
+    {
+     "id": "w-cashmere",
+     "en": "cashmere",
+     "es": "cachemira",
+     "example": "This cashmere sweater is soft and expensive."
+    },
+    {
+     "id": "w-cotton",
+     "en": "cotton",
+     "es": "algodón",
+     "example": "Cotton is good for hot weather.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-denim",
+     "en": "denim",
+     "es": "mezclilla",
+     "example": "I have a denim jacket from college."
+    },
+    {
+     "id": "w-leather",
+     "en": "leather",
+     "es": "piel, cuero",
+     "example": "She bought a leather bag in León.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-polyester",
+     "en": "polyester",
+     "es": "poliéster",
+     "example": "Polyester dries quickly."
+    },
+    {
+     "id": "w-silk",
+     "en": "silk",
+     "es": "seda",
+     "example": "Silk can feel nice, but it wrinkles.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-suede",
+     "en": "suede",
+     "es": "gamuza",
+     "example": "Suede shoes don't like the rain."
+    },
+    {
+     "id": "w-wool",
+     "en": "wool",
+     "es": "lana",
+     "example": "A wool coat is perfect for cold nights.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-floral-print",
+     "en": "floral-print",
+     "es": "estampado de flores",
+     "example": "She wore a floral-print dress."
+    },
+    {
+     "id": "w-plaid",
+     "en": "plaid",
+     "es": "a cuadros (tipo escocés)",
+     "example": "He has a plaid shirt for every season."
+    },
+    {
+     "id": "w-polka-dot",
+     "en": "polka-dot",
+     "es": "de lunares",
+     "example": "The polka-dot scarf is my favorite."
+    },
+    {
+     "id": "w-striped",
+     "en": "striped",
+     "es": "a rayas",
+     "example": "I love your striped sweater.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-solid-color",
+     "en": "solid color",
+     "es": "color liso",
+     "example": "Solid colors are easier to combine.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-navy-blue",
+     "en": "navy blue",
+     "es": "azul marino",
+     "example": "Navy blue goes with everything.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-turquoise",
+     "en": "turquoise",
+     "es": "turquesa",
+     "example": "The sea was a bright turquoise."
+    },
+    {
+     "id": "w-neon-green",
+     "en": "neon green",
+     "es": "verde neón",
+     "example": "He wore neon green sneakers.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pastel-colors",
+     "en": "pastel colors",
+     "es": "colores pastel",
+     "example": "Pastel colors look good in spring.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-bright-colors",
+     "en": "bright colors",
+     "es": "colores brillantes",
+     "example": "Bright colors make me feel happy.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "v-shopping-appearance",
+   "kind": "vocab",
+   "title": "Shopping and appearance",
+   "words": [
+    {
+     "id": "w-care-about-your-appearance",
+     "en": "care about your appearance",
+     "es": "preocuparse por la apariencia",
+     "example": "Some people care a lot about their appearance.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-give-a-friend-a-makeover",
+     "en": "give a friend a makeover",
+     "es": "hacerle una transformación de imagen a un amigo",
+     "example": "I gave my friend a makeover last weekend.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pay-attention-to-how-you-look",
+     "en": "pay attention to (how you look)",
+     "es": "prestar atención a (cómo te ves)",
+     "example": "She pays attention to how she looks.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-wear-makeup",
+     "en": "wear makeup",
+     "es": "usar maquillaje",
+     "example": "He doesn't wear makeup, but she does.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-make-a-good-choice",
+     "en": "make a good choice",
+     "es": "tomar una buena decisión",
+     "example": "You made a good choice with that jacket.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-spend-money-on-yourself",
+     "en": "spend money on yourself",
+     "es": "gastar dinero en ti",
+     "example": "It's OK to spend money on yourself sometimes.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fit",
+     "en": "fit",
+     "es": "quedar (de talla)",
+     "example": "These pants fit me perfectly.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-have-a-huge-selection-of",
+     "en": "have a huge selection of",
+     "es": "tener una gran variedad de",
+     "example": "The store has a huge selection of boots.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-look-around-before-you-decide",
+     "en": "look around before you decide",
+     "es": "mirar antes de decidir",
+     "example": "Look around before you decide, and compare prices.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-try-a-jacket-on",
+     "en": "try (a jacket) on",
+     "es": "probarse (una chamarra)",
+     "example": "Can I try this jacket on?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-choosy",
+     "en": "choosy",
+     "es": "exigente, quisquilloso/a",
+     "example": "I'm choosy about the shoes I buy."
+    },
+    {
+     "id": "w-plain",
+     "en": "plain",
+     "es": "sencillo/a",
+     "example": "She prefers plain clothes without patterns.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-full-price",
+     "en": "full price",
+     "es": "precio completo",
+     "example": "I never buy anything at full price.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-sale-rack",
+     "en": "sale rack",
+     "es": "sección de ofertas",
+     "example": "I found this sweater on the sale rack.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-luxury",
+     "en": "luxury",
+     "es": "lujo",
+     "example": "A silk scarf is a small luxury.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-comfort",
+     "en": "comfort",
+     "es": "comodidad",
+     "example": "For me, comfort matters more than fashion.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "v-tastes-interests",
+   "kind": "vocab",
+   "title": "Tastes and interests",
+   "words": [
+    {
+     "id": "w-have-broad-tastes-in-music-food-books",
+     "en": "have broad tastes in music / food / books",
+     "es": "tener gustos muy variados",
+     "example": "She has broad tastes in music.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-have-similar-tastes-in-clothes",
+     "en": "have similar tastes (in clothes)",
+     "es": "tener gustos parecidos (en ropa)",
+     "example": "We have similar tastes in clothes.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-have-a-big-collection-of-books",
+     "en": "have a big collection of books",
+     "es": "tener una gran colección de libros",
+     "example": "My uncle has a big collection of books.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-a-background-in-design",
+     "en": "a background in design",
+     "es": "formación en diseño",
+     "example": "He has a background in design.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-science-fiction-sci-fi",
+     "en": "science fiction (sci-fi)",
+     "es": "ciencia ficción",
+     "example": "I love sci-fi movies.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-song-lyrics",
+     "en": "song lyrics",
+     "es": "letra de canciones",
+     "example": "She writes down song lyrics in a notebook.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-e-reader",
+     "en": "e-reader",
+     "es": "lector electrónico",
+     "example": "I read on my e-reader during trips."
+    },
+    {
+     "id": "w-tablet",
+     "en": "tablet",
+     "es": "tableta",
+     "example": "My son draws on a tablet.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-see-the-sights",
+     "en": "see the sights",
+     "es": "conocer los lugares turísticos",
+     "example": "We spent a week seeing the sights in Rome.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-do-all-the-tourist-things",
+     "en": "do all the tourist things",
+     "es": "hacer todo lo turístico",
+     "example": "On our first day we did all the tourist things.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-explore",
+     "en": "explore",
+     "es": "explorar",
+     "example": "I want to explore the old town.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-put-some-thought-into-something",
+     "en": "put some thought into something",
+     "es": "pensar bien en algo",
+     "example": "He put some thought into the gift.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "e-conversation",
+   "kind": "expressions",
+   "title": "Functions: summarizing, following up and giving opinions",
+   "html": "<ul><li><strong>She seems to have a lot of different interests.</strong> — summarize what someone said, to show you are following the conversation.</li><li><strong>So she's a real book lover.</strong> — summarize in your own words.</li><li><strong>Now, doesn't she travel a lot?</strong> — use <em>Now</em> to introduce a follow-up question and shift to another aspect of the topic.</li><li><strong>Overall, I think ...</strong> — give a general opinion at the end.</li><li><strong>Isn't it great? / Don't you think so?</strong> — ask for agreement.</li><li><strong>It's just right. / It's not quite my style.</strong> — give an opinion about a garment.</li><li><strong>Do you have it in a bigger size?</strong> — ask for a different size.</li><li><strong>I'm just looking around, thanks.</strong> — respond to the salesperson.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Comparisons with as ... as",
+   "instructions": "Complete, choose or correct according to the comparison.",
+   "topic": "g-as-adj-adv",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "These boots are just ___ comfortable as my sneakers. (they're the same)",
+     "answers": [
+      "as"
+     ],
+     "explain": "Just as ... as = exactly as."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "This jacket isn't ___ expensive as that one. (that one costs more)",
+     "answers": [
+      "as"
+     ],
+     "explain": "Not as ... as = less than."
+    },
+    {
+     "id": "A3",
+     "type": "choice",
+     "prompt": "My jeans are not as new ___ yours.",
+     "options": [
+      "than",
+      "as",
+      "that"
+     ],
+     "answer": 1,
+     "explain": "Ends with as."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "He doesn't run as ___ as his brother. (fast)",
+     "answers": [
+      "fast"
+     ],
+     "explain": "Fast is both an adjective and an adverb."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "Which means the same as: \"The silk shirt isn't as comfortable as the cotton shirt\"?",
+     "options": [
+      "Cotton is more comfortable than silk.",
+      "Silk is more comfortable than cotton.",
+      "They are equally comfortable."
+     ],
+     "answer": 0,
+     "explain": "Not as comfortable = less comfortable."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "This sweater is not so warm than that one.",
+     "answers": [
+      "This sweater is not as warm as that one.",
+      "This sweater isn't as warm as that one.",
+      "This sweater is not so warm as that one.",
+      "This sweater isn't so warm as that one."
+     ],
+     "explain": "Not as / so ... as, without than."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "I tried as hard ___ I could to find the right style.",
+     "answers": [
+      "as"
+     ],
+     "explain": "As + adverb + as."
+    },
+    {
+     "id": "A8",
+     "type": "gap",
+     "prompt": "Online shopping is just as convenient ___ going to the mall.",
+     "answers": [
+      "as"
+     ],
+     "explain": "Just as ... as."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "as many / as much / as little",
+   "instructions": "Complete, choose or correct according to the quantity.",
+   "topic": "g-as-quantity",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "She doesn't wear as ___ bright colors as she should. (many / much)",
+     "answers": [
+      "many"
+     ],
+     "explain": "Colors is countable: as many."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "I spend as ___ money on clothes as my brother does. (many / much)",
+     "answers": [
+      "much"
+     ],
+     "explain": "Money is uncountable: as much."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "He spends as ___ time as possible on his hair.",
+     "options": [
+      "little",
+      "few",
+      "fewer"
+     ],
+     "answer": 0,
+     "explain": "Time is uncountable: as little time."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "There aren't as ___ shops here as downtown.",
+     "options": [
+      "much",
+      "many",
+      "more"
+     ],
+     "answer": 1,
+     "explain": "Shops is countable: as many."
+    },
+    {
+     "id": "B5",
+     "type": "gap",
+     "prompt": "Take as ___ time as you need to decide.",
+     "answers": [
+      "much"
+     ],
+     "explain": "Time is uncountable: as much."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "I don't have as much shoes as my sister.",
+     "answers": [
+      "I don't have as many shoes as my sister.",
+      "I do not have as many shoes as my sister."
+     ],
+     "explain": "Shoes is countable: as many."
+    },
+    {
+     "id": "B7",
+     "type": "translate",
+     "prompt": "No gasto tanto dinero en ropa como tú.",
+     "answers": [
+      "I don't spend as much money on clothes as you do.",
+      "I don't spend as much money on clothes as you.",
+      "I do not spend as much money on clothes as you do.",
+      "I do not spend as much money on clothes as you."
+     ],
+     "explain": "As much + uncountable + as."
+    },
+    {
+     "id": "B8",
+     "type": "gap",
+     "prompt": "She likes jeans as ___ as dresses. (she likes both the same)",
+     "answers": [
+      "much"
+     ],
+     "explain": "Verb + as much as."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Negative questions",
+   "instructions": "Choose or complete the appropriate negative question.",
+   "topic": "g-neg-questions",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "___ this jacket great? I love it.",
+     "options": [
+      "Is",
+      "Isn't",
+      "Does"
+     ],
+     "answer": 1,
+     "explain": "Asks for agreement with your opinion: Isn't ...?"
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "___ you think it's a little expensive?",
+     "answers": [
+      "Don't"
+     ],
+     "explain": "Don't you think ...? softens an opinion."
+    },
+    {
+     "id": "C3",
+     "type": "choice",
+     "prompt": "\"Doesn't she like the blue scarf?\" (you thought she loved it) What is the use?",
+     "options": [
+      "Showing surprise",
+      "Asking for directions",
+      "Giving an order"
+     ],
+     "answer": 0,
+     "explain": "You expected a yes, and you're surprised."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "___ they have it in a bigger size? I thought they did.",
+     "answers": [
+      "Don't"
+     ],
+     "explain": "Surprise with they + have: Don't they ...?"
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "Don't it look good on me?",
+     "answers": [
+      "Doesn't it look good on me?"
+     ],
+     "explain": "With it: doesn't."
+    },
+    {
+     "id": "C6",
+     "type": "gap",
+     "prompt": "___ you coming to the sale tomorrow? Everybody is going!",
+     "answers": [
+      "Aren't"
+     ],
+     "explain": "Be + negative: Aren't you ...?"
+    },
+    {
+     "id": "C7",
+     "type": "choice",
+     "prompt": "Which question suggests an idea?",
+     "options": [
+      "What time does the store open?",
+      "It'd look good, don't you think?",
+      "How much is it?"
+     ],
+     "answer": 1,
+     "explain": "Don't you think? seeks agreement with your proposal."
+    },
+    {
+     "id": "C8",
+     "type": "choice",
+     "prompt": "\"Isn't it beautiful?\" — \"___, it is.\"",
+     "options": [
+      "Yes",
+      "No",
+      "Not"
+     ],
+     "answer": 0,
+     "explain": "The answer follows reality: it is beautiful, so Yes."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Punctuation",
+   "instructions": "Choose or correct the punctuation.",
+   "topic": "g-punctuation",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "Which sentence is punctuated correctly?",
+     "options": [
+      "I bought a shirt, a skirt, a belt, and a scarf.",
+      "I bought a shirt a skirt a belt and a scarf.",
+      "I bought, a shirt a skirt a belt and a scarf."
+     ],
+     "answer": 0,
+     "explain": "List of four items: commas between them (the comma before and is optional)."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "Which sentence is punctuated correctly?",
+     "options": [
+      "I love silk, and cotton.",
+      "I love silk and cotton.",
+      "I love, silk and cotton."
+     ],
+     "answer": 1,
+     "explain": "With only two items, no comma."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "Which sentence uses the dash correctly?",
+     "options": [
+      "Be careful – shiny fabrics can make you look heavier.",
+      "Be – careful shiny fabrics can make you look heavier.",
+      "Be careful shiny – fabrics can make you look heavier."
+     ],
+     "answer": 0,
+     "explain": "The dash adds or explains something."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "Where do the commas go? \"Get rid of torn stained or out-of-style clothes.\"",
+     "options": [
+      "After torn and after stained",
+      "After get and after rid",
+      "No commas are needed"
+     ],
+     "answer": 0,
+     "explain": "List of three: torn, stained, or out-of-style."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "Which sentence needs NO comma?",
+     "options": [
+      "I like red, blue, and green.",
+      "I like red and blue.",
+      "I like red, blue, green, and pink."
+     ],
+     "answer": 1,
+     "explain": "Two items: no comma."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "Which sentence is punctuated correctly?",
+     "options": [
+      "I packed jeans sneakers a jacket and two scarves.",
+      "I packed jeans, sneakers, a jacket, and two scarves.",
+      "I packed, jeans, sneakers, a jacket and, two scarves."
+     ],
+     "answer": 1,
+     "explain": "List of four items: commas between them."
+    },
+    {
+     "id": "D7",
+     "type": "choice",
+     "prompt": "Why do we use a dash in writing?",
+     "options": [
+      "To add or explain more about something",
+      "To end a question",
+      "To list three items"
+     ],
+     "answer": 0,
+     "explain": "The dash adds or explains."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Unit vocabulary",
+   "instructions": "Choose or complete with the correct word.",
+   "topic": "v-clothes-styles",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "A shirt with small round dots is a ___ shirt.",
+     "answers": [
+      "polka-dot",
+      "polka dot"
+     ],
+     "explain": "Polka-dot = with a dot pattern."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "Jeans are usually made of ___.",
+     "answers": [
+      "denim"
+     ],
+     "explain": "Denim = the fabric jeans are made of."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "A very soft, expensive wool is called ___.",
+     "options": [
+      "cotton",
+      "cashmere",
+      "polyester"
+     ],
+     "answer": 1,
+     "explain": "Cashmere = a very soft, fine wool."
+    },
+    {
+     "id": "E4",
+     "type": "choice",
+     "prompt": "A ___ sweater has a high collar around the neck.",
+     "options": [
+      "turtleneck",
+      "V-neck",
+      "sleeveless"
+     ],
+     "answer": 0,
+     "explain": "Turtleneck = a high collar."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "I can't wear these shoes; they don't fit. They're too ___.",
+     "answers": [
+      "tight"
+     ],
+     "explain": "Tight = too small, fitting closely."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "Can I ___ this jacket on, please?",
+     "options": [
+      "try",
+      "test",
+      "use"
+     ],
+     "answer": 0,
+     "explain": "Try on = to put on a garment to see if it fits."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "The store has a huge ___ of boots. (many choices)",
+     "answers": [
+      "selection"
+     ],
+     "explain": "A huge selection of = a wide variety of."
+    },
+    {
+     "id": "E8",
+     "type": "choice",
+     "prompt": "Someone who takes a long time to pick things is ___.",
+     "options": [
+      "choosy",
+      "scruffy",
+      "available"
+     ],
+     "answer": 0,
+     "explain": "Choosy = hard to please."
+    },
+    {
+     "id": "E9",
+     "type": "gap",
+     "prompt": "Why pay full ___? The sale rack is over there.",
+     "answers": [
+      "price"
+     ],
+     "explain": "Full price = the normal price, without a discount."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Summarize and follow up",
+   "instructions": "Choose or complete the best reaction in the conversation.",
+   "topic": "e-conversation",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "A: My sister likes to read, cook, and sew. B: ___",
+     "options": [
+      "She seems to have a lot of different interests.",
+      "She seems to be tired.",
+      "Good luck with that."
+     ],
+     "answer": 0,
+     "explain": "Summarizes what was said."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "A: She doesn't really need anything. B: ___, doesn't she travel a lot?",
+     "answers": [
+      "Now"
+     ],
+     "explain": "Now introduces a follow-up question."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "A: He has a big collection of sci-fi novels. B: He ___ to be a real fan. (seem)",
+     "answers": [
+      "seems"
+     ],
+     "explain": "He + seems to."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "A: Pablo likes hiking, camping, and fishing. B: So he's ___.",
+     "options": [
+      "an outdoor person",
+      "a shopping addict",
+      "an artist"
+     ],
+     "answer": 0,
+     "explain": "A logical summary of what was said."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "What is the purpose of Now in conversation?",
+     "options": [
+      "To introduce a follow-up question and move on",
+      "To end the conversation",
+      "To disagree politely"
+     ],
+     "answer": 0,
+     "explain": "Now opens another aspect of the topic."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "___, I think the second jacket is a better choice. (general opinion)",
+     "answers": [
+      "Overall"
+     ],
+     "explain": "Overall, I think ... = in general, I think ..."
+    },
+    {
+     "id": "F7",
+     "type": "fix",
+     "prompt": "She seem to have a simple style.",
+     "answers": [
+      "She seems to have a simple style."
+     ],
+     "explain": "Third person singular: seems."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "The",
+      "pants",
+      "are",
+      "just",
+      "as",
+      "comfortable",
+      "as",
+      "my",
+      "jeans"
+     ],
+     "answers": [
+      "The pants are just as comfortable as my jeans."
+     ],
+     "explain": "Just as + adjective + as."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "She",
+      "doesn't",
+      "wear",
+      "as",
+      "many",
+      "bright",
+      "colors",
+      "as",
+      "she",
+      "should"
+     ],
+     "answers": [
+      "She doesn't wear as many bright colors as she should."
+     ],
+     "explain": "As many + countable + as."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Isn't",
+      "this",
+      "jacket",
+      "great"
+     ],
+     "answers": [
+      "Isn't this jacket great?"
+     ],
+     "explain": "Negative question to ask for agreement."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Aren't",
+      "they",
+      "a",
+      "little",
+      "expensive"
+     ],
+     "answers": [
+      "Aren't they a little expensive?"
+     ],
+     "explain": "Aren't + subject + adjective."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I",
+      "tried",
+      "as",
+      "hard",
+      "as",
+      "I",
+      "could"
+     ],
+     "answers": [
+      "I tried as hard as I could."
+     ],
+     "explain": "As + adverb + as."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Now",
+      "doesn't",
+      "she",
+      "travel",
+      "a",
+      "lot"
+     ],
+     "answers": [
+      "Now, doesn't she travel a lot?",
+      "Now doesn't she travel a lot?"
+     ],
+     "explain": "Now + follow-up question."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Estos pantalones no son tan cómodos como mis jeans.",
+     "answers": [
+      "These pants aren't as comfortable as my jeans.",
+      "These pants are not as comfortable as my jeans.",
+      "These trousers aren't as comfortable as my jeans.",
+      "These trousers are not as comfortable as my jeans."
+     ],
+     "explain": "Not as + adjective + as."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Ella gasta tanto dinero en ropa como yo.",
+     "answers": [
+      "She spends as much money on clothes as I do.",
+      "She spends as much money on clothes as me.",
+      "She spends as much money on clothes as I."
+     ],
+     "explain": "As much + uncountable + as."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "¿No es bonita esta bufanda?",
+     "answers": [
+      "Isn't this scarf beautiful?",
+      "Isn't this scarf pretty?",
+      "Isn't this scarf nice?",
+      "Isn't this scarf lovely?"
+     ],
+     "explain": "Negative question with be."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "¿No te gusta el color azul?",
+     "answers": [
+      "Don't you like the color blue?",
+      "Don't you like blue?",
+      "Don't you like the blue color?",
+      "Don't you like the color blue"
+     ],
+     "explain": "Negative question with do."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Ella pasa el menor tiempo posible frente al espejo.",
+     "answers": [
+      "She spends as little time as possible in front of the mirror.",
+      "She spends as little time as possible at the mirror."
+     ],
+     "explain": "As little + uncountable + as possible."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Ella parece tener muchos intereses diferentes.",
+     "answers": [
+      "She seems to have a lot of different interests.",
+      "She seems to have many different interests.",
+      "She seems to have lots of different interests."
+     ],
+     "explain": "Seems to + verb."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed practice",
+   "instructions": "Exercises covering all the topics in the unit (including review of the previous unit).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "That coat isn't ___ warm as this one.",
+     "options": [
+      "as",
+      "than",
+      "like"
+     ],
+     "answer": 0,
+     "explain": "Not as ... as."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "She spends as ___ money on makeup as I do.",
+     "answers": [
+      "much"
+     ],
+     "explain": "Money is uncountable: as much."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "Doesn't he likes the blue shirt?",
+     "answers": [
+      "Doesn't he like the blue shirt?"
+     ],
+     "explain": "After doesn't, base form."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "___ you think it's too tight?",
+     "options": [
+      "Don't",
+      "Not",
+      "Aren't"
+     ],
+     "answer": 0,
+     "explain": "Don't you think ...?"
+    },
+    {
+     "id": "M5",
+     "type": "translate",
+     "prompt": "Compré una camisa, una falda y un cinturón.",
+     "answers": [
+      "I bought a shirt, a skirt, and a belt.",
+      "I bought a shirt, a skirt and a belt."
+     ],
+     "explain": "List of three: commas."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "A: She likes jazz, rock, and salsa. B: She ___ to have broad tastes in music.",
+     "answers": [
+      "seems"
+     ],
+     "explain": "She seems to ..."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "Which word describes a pattern?",
+     "options": [
+      "striped",
+      "suede",
+      "baggy"
+     ],
+     "answer": 0,
+     "explain": "Striped = with stripes."
+    },
+    {
+     "id": "M8",
+     "type": "fix",
+     "prompt": "He sings as good as his brother.",
+     "answers": [
+      "He sings as well as his brother."
+     ],
+     "explain": "With the verb sings: use the adverb well."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "She finished ___ (try) on jackets and chose the black one. (review: verb + -ing)",
+     "answers": [
+      "trying"
+     ],
+     "explain": "Finish + -ing."
+    },
+    {
+     "id": "M10",
+     "type": "choice",
+     "prompt": "I ___ for a new jacket these days, but I haven't found one yet. (review: simple and continuous)",
+     "options": [
+      "look",
+      "am looking",
+      "looked"
+     ],
+     "answer": 1,
+     "explain": "These days signals something temporary: present continuous."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a blog-style article of 180 to 250 words titled \"How to develop your own style\", with tips for a friend. Use at least three comparisons with as ... as, a well-punctuated list of three or more items, a dash and an exclamation mark. Possible opening: Developing your own style is not as hard as you might think!",
+   "targets": [
+    "as ... as with adjectives, adverbs and nouns",
+    "punctuation: commas, em dash, exclamation mark",
+    "clothes, materials and colors vocabulary",
+    "structure of advice"
+   ],
+   "checklist": [
+    "Between 180 and 250 words",
+    "At least three comparisons with (not) as ... as",
+    "At least one with as many / as much / as little",
+    "Lists of three or more with commas; lists of two without a comma",
+    "A dash and an exclamation mark for emphasis",
+    "Unit vocabulary (materials, colors, styles)",
+    "Introduction, three or more tips and a closing"
+   ],
+   "model": "How to develop your own style\n\nDeveloping your own style is not as hard as you might think! You do not need a lot of money or a famous designer. You only need to know yourself and to be brave.\n\nFirst, look at your wardrobe. Choose the clothes you love and think about why you love them. Your favorite jeans may be as comfortable as pajamas, and a simple cotton shirt can look as elegant as a silk blouse. Pay attention to materials, colors and patterns: cotton, leather and wool each give a different feeling, and red, black and blue are easy to combine.\n\nSecond, do not be afraid to experiment. Wear a bright scarf with a plain jacket, or try boots with a long skirt. You do not need as many clothes as you think. In fact, a small wardrobe with as few items as ten or fifteen pieces can be just as useful as a huge one. Quality is as important as quantity.\n\nThird, copy ideas, but never copy people. Look at magazines, shop windows and friends — and then make the look yours! Your style should be as personal as your handwriting.\n\nFinally, be patient. It takes time to find your style, but the more you try, the easier it gets. Have fun, and remember: the best outfit is the one that makes you feel as confident as you really are."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a 180 to 250-word email to a friend recommending a gift for their sister's birthday. Summarize her tastes (She seems to have ...), compare two options (as ... as), use at least two negative questions (Isn't it ...? Doesn't she ...?) and give your final opinion with Overall, I think ...",
+   "targets": [
+    "summarizing with seems to",
+    "negative questions",
+    "comparisons with as ... as",
+    "Now and Overall"
+   ],
+   "checklist": [
+    "Between 180 and 250 words",
+    "A summary of her tastes using seems to have",
+    "Two options compared with as ... as",
+    "At least two well-formed negative questions",
+    "Now for a follow-up question",
+    "Overall, I think ... to close",
+    "Email greeting and sign-off"
+   ],
+   "model": "Hi Nuria,\n\nThanks for asking me about a gift for your sister's birthday. I think I can help! She seems to have a lot of interests: she seems to love reading, and she seems to be interested in cooking, too. She doesn't like fancy jewelry, does she? And isn't she always carrying a tote bag with her?\n\nI have two ideas. The first one is a cookbook with recipes from different regions of Mexico. It is as beautiful as an art book, and it is not as expensive as a kitchen gadget. The second option is a leather bag. It is as practical as a backpack, but it is not as cheap as a book. Isn't it better to give something she will use every day? Doesn't she say that she needs a new bag?\n\nNow, one question: what is your budget? If you want to spend as little as possible, the book is the better choice. If you can spend more, the bag will last for ten years, and it is as stylish as many designer bags.\n\nOverall, I think the cookbook is the best option, because it is as personal as a handwritten letter, and you can add a note inside. Let me know what you decide!\n\nBest wishes,\nPaola"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "A Makeover for Renata",
+   "intro": "Read the text about an afternoon of shopping and answer the questions.",
+   "paragraphs": [
+    "Last spring my friend Renata asked me to give her a makeover. She is a talented architect, but she never cared about her appearance. She wore the same baggy gray sweater almost every day, and her jeans were scruffy and out of shape. \"I don't have as much time as other people,\" she told me, \"and shopping isn't as fun as it looks.\" I didn't agree, but I decided to help her anyway.",
+    "We started on Saturday morning at a big department store that has a huge selection of clothes. Renata tried on a long-sleeved navy blue turtleneck, a pair of dark denim jeans, and a wool coat. At first she was choosy about everything. \"Isn't this coat a little expensive?\" she asked. \"It is,\" I said, \"but it's as warm as two sweaters, and it will last for years. Don't you think that's worth it?\" She laughed and finally agreed to buy it, because it was on the sale rack, so she didn't have to pay full price.",
+    "The biggest surprise was color. Renata thought she looked best in gray and black, but I put a deep blue scarf around her neck, and she was thrilled. \"Doesn't it look great?\" the saleswoman said. It really did. We also learned that bright colors were not as hard to wear as she imagined. A solid color shirt with a floral-print scarf worked beautifully, and she didn't spend as much money as she feared.",
+    "Here are the three rules we learned. First, try everything on before you decide, because sizes are never the same in every store. Second, look around before you buy: the first shop is not always the best one. Third, choose clothes that fit your daily life. A beautiful silk blouse isn't practical if you ride a bike to work every day.",
+    "By the afternoon we were tired, but happy. We had lunch, and Renata said, \"I always thought fashion was only about looks, but now I think comfort matters just as much.\" I agreed. A good outfit isn't only about being stylish; it's also about feeling like yourself. She still wears sneakers to work, but now she chooses a fitted jacket and a nice belt, and her colleagues keep telling her how different she looks.",
+    "Last week she called me. \"Overall, I think shopping isn't as boring as I used to believe,\" she said. \"Now, aren't you free this Saturday? I want to look for a leather bag.\" Of course I'm free. After all, a good makeover isn't about changing who you are. It's about spending a little time and a little money on yourself, so that you can walk out of the house feeling just a bit more confident."
+   ],
+   "glossary": [
+    {
+     "en": "makeover",
+     "def": "a change in someone's look, such as new clothes or a new hairstyle"
+    },
+    {
+     "en": "scruffy",
+     "def": "untidy, dirty or poorly dressed"
+    },
+    {
+     "en": "choosy",
+     "def": "hard to please; takes a long time to choose"
+    },
+    {
+     "en": "sale rack",
+     "def": "section of a store with discounted items"
+    },
+    {
+     "en": "full price",
+     "def": "the normal price, without a discount"
+    },
+    {
+     "en": "thrilled",
+     "def": "very excited and happy about something"
+    },
+    {
+     "en": "fitted",
+     "def": "shaped to fit closely around the body"
+    },
+    {
+     "en": "colleague",
+     "def": "a person you work with"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Renata always cared a lot about her appearance.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "The text says they never cared about their appearance."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Why did Renata finally buy the wool coat?",
+     "options": [
+      "She loved the color.",
+      "It was on the sale rack, so it was not full price.",
+      "The saleswoman gave it to her."
+     ],
+     "answer": 1,
+     "explain": "It was on the sale rack, so she didn't pay full price."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What color did Renata love on herself?",
+     "options": [
+      "Gray",
+      "Deep blue",
+      "Neon green"
+     ],
+     "answer": 1,
+     "explain": "They got excited about the deep blue scarf."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "A solid color shirt with a ___ scarf worked beautifully.",
+     "answers": [
+      "floral-print",
+      "floral print"
+     ],
+     "explain": "Floral-print = estampado de flores."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "According to the writer, a good makeover is about ___.",
+     "options": [
+      "changing who you are",
+      "feeling a little more confident",
+      "buying expensive clothes"
+     ],
+     "answer": 1,
+     "explain": "It's about feeling a little more confident."
+    },
+    {
+     "id": "R6",
+     "type": "translate",
+     "prompt": "No gastó tanto dinero como temía.",
+     "answers": [
+      "She didn't spend as much money as she feared.",
+      "She did not spend as much money as she feared.",
+      "She didn't spend as much money as she was afraid of."
+     ],
+     "explain": "Not as much + incontable + as."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "Which is NOT one of the three rules?",
+     "options": [
+      "Try everything on.",
+      "Look around before you buy.",
+      "Buy only luxury brands."
+     ],
+     "answer": 2,
+     "explain": "The three rules: try everything on, look before you buy, choose clothes for your daily life."
+    }
+   ]
+  },
+  "listening": {
+   "title": "A gift for my sister",
+   "intro": "Listen to the conversation in a store. You can repeat it.",
+   "lines": [
+    {
+     "who": "Clara",
+     "voice": "glassy",
+     "text": "Dani, thanks for coming with me. I need to find a birthday gift for my sister."
+    },
+    {
+     "who": "Dani",
+     "voice": "rounded",
+     "text": "No problem. What's she like? Tell me a bit about her."
+    },
+    {
+     "who": "Clara",
+     "voice": "glassy",
+     "text": "Well, she likes to read, she loves cooking, and she travels a lot."
+    },
+    {
+     "who": "Dani",
+     "voice": "rounded",
+     "text": "She seems to have a lot of different interests."
+    },
+    {
+     "who": "Clara",
+     "voice": "glassy",
+     "text": "Exactly. That's why it's so hard. She doesn't really need anything."
+    },
+    {
+     "who": "Dani",
+     "voice": "rounded",
+     "text": "Now, doesn't she wear scarves? Isn't this one gorgeous? It's navy blue, and it's pure silk."
+    },
+    {
+     "who": "Clara",
+     "voice": "glassy",
+     "text": "It's beautiful, but isn't it a little expensive? It's seventy dollars."
+    },
+    {
+     "who": "Dani",
+     "voice": "rounded",
+     "text": "Yes, but this other one is cotton, and it's striped. It's not as expensive, and it's just as colorful."
+    },
+    {
+     "who": "Clara",
+     "voice": "glassy",
+     "text": "True. It's not as soft as silk, but she doesn't like shiny fabrics anyway."
+    },
+    {
+     "who": "Dani",
+     "voice": "rounded",
+     "text": "Then you have your answer. Don't you think the striped one looks great?"
+    },
+    {
+     "who": "Clara",
+     "voice": "glassy",
+     "text": "Yes! And it's on the sale rack, so I don't have to pay full price."
+    },
+    {
+     "who": "Dani",
+     "voice": "rounded",
+     "text": "Perfect. Overall, I think you made a good choice."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What does Clara need to buy?",
+     "options": [
+      "A birthday gift",
+      "A winter coat",
+      "A suitcase"
+     ],
+     "answer": 0,
+     "explain": "Needs a birthday present."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What does Dani say about Clara's sister?",
+     "options": [
+      "She seems to have a lot of different interests.",
+      "She seems to be very tired.",
+      "She seems to dislike gifts."
+     ],
+     "answer": 0,
+     "explain": "Dani resume lo que Clara dijo."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "How much is the silk scarf?",
+     "options": [
+      "Fifty dollars",
+      "Seventy dollars",
+      "Ninety dollars"
+     ],
+     "answer": 1,
+     "explain": "It's seventy dollars."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "The cotton scarf is not as ___ as the silk one.",
+     "answers": [
+      "expensive"
+     ],
+     "explain": "It's not as expensive."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "Why is the cotton scarf a good choice?",
+     "options": [
+      "It's cheaper, on sale, and not shiny.",
+      "It's the most expensive one.",
+      "It's pure silk."
+     ],
+     "answer": 0,
+     "explain": "It is cheaper, it is on sale, and it isn't shiny."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "She seems to have a lot of different interests.",
+     "answers": [
+      "She seems to have a lot of different interests."
+     ],
+     "explain": "Seems + to + verb to summarize."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Isn't it a little expensive?",
+     "answers": [
+      "Isn't it a little expensive?",
+      "Is not it a little expensive?"
+     ],
+     "explain": "Negative question: Isn't + subject + adjective."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "It's not as soft as silk.",
+     "answers": [
+      "It's not as soft as silk.",
+      "It is not as soft as silk."
+     ],
+     "explain": "Not as + adjetivo + as."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Now, doesn't she wear scarves?",
+     "answers": [
+      "Now, doesn't she wear scarves?",
+      "Now doesn't she wear scarves?"
+     ],
+     "explain": "Now introduces a follow-up question."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Compare two things you know well: two stores, two styles or two garments.",
+     "questions": [
+      "Which two things are you comparing?",
+      "Which one is more comfortable or cheaper?",
+      "Does one have as many choices as the other?",
+      "Overall, which one do you prefer?"
+     ],
+     "model": "I'm comparing two stores. The first one isn't as expensive as the second one, but it doesn't have as many colors. The sales assistants are just as friendly in both. Overall, I prefer the first store.",
+     "checklist": [
+      "not as + adjective + as",
+      "as many / as much + noun + as",
+      "just as ... as",
+      "Overall, I think ..."
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about your personal style and your shopping habits.",
+     "questions": [
+      "How would you describe your style?",
+      "What do you pay attention to when you buy clothes?",
+      "Do you look around before you decide?",
+      "How much do you spend on clothes?"
+     ],
+     "model": "My style is simple and comfortable. I pay attention to the fit and the material. I always look around before I decide, and I never pay full price. I try to spend as little money as possible.",
+     "checklist": [
+      "Vocabulary for clothing and materials",
+      "look around before you decide / full price",
+      "as little ... as possible",
+      "Complete sentences with a subject"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Role-play a conversation: your partner describes a relative and you summarize and ask a follow-up question.",
+     "questions": [
+      "Tell me about someone in your family.",
+      "What does he or she like?",
+      "Does he or she travel a lot?",
+      "What do you think is a good gift?"
+     ],
+     "model": "So your brother likes music, sports, and cooking. He seems to have a lot of different interests. Now, doesn't he play the guitar? Isn't that a great gift idea? Overall, I think a music gift is a good choice.",
+     "checklist": [
+      "Summarize using seems to",
+      "Now + follow-up question",
+      "A negative question",
+      "Overall, I think ..."
+     ]
+    }
+   ],
+   "repeat": [
+    "The pants are just as comfortable as my jeans.",
+    "She doesn't wear as many bright colors as she should.",
+    "Isn't this jacket great?",
+    "Don't you think it's a little expensive?",
+    "Now, doesn't she travel a lot?",
+    "Overall, I think it's a good choice."
+   ]
+  }
+ }
+}

@@ -1,0 +1,1595 @@
+{
+ "id": "u-anglo-09",
+ "level": "B1",
+ "n": 9,
+ "title": "In the Community",
+ "goals": [
+  "Talk about possible future situations and their results with if + present, will.",
+  "Ask for information politely with noun clauses: Do you know where...? Can you tell me what time...?",
+  "Give your opinion with I think that... and I don't know how much...",
+  "Say when things will happen with when, before, after and as soon as + present.",
+  "Understand a transport service alert and talk about getting to work.",
+  "Describe a community problem and suggest solutions in writing."
+ ],
+ "learn": [
+  {
+   "id": "g-future-conditional",
+   "kind": "grammar",
+   "title": "Future real conditional: if + present, will",
+   "html": "<p>Use the <strong>future real conditional</strong> to talk about a <strong>possible situation</strong> in the future and its <strong>result</strong>. The <em>if</em> clause says the condition. The main clause says what will happen.</p><table><thead><tr><th>if clause (present)</th><th>result clause (will + base verb)</th></tr></thead><tbody><tr><td><strong>If</strong> it rains on Saturday,</td><td>we <strong>will move</strong> the festival indoors.</td></tr><tr><td><strong>If</strong> more neighbors help,</td><td>the clean-up <strong>will finish</strong> early.</td></tr><tr><td><strong>If</strong> you <strong>don't</strong> register,</td><td>you <strong>won't</strong> get a ticket.</td></tr></tbody></table><ul><li>The two parts can change places: <em>We will cancel the event if it rains.</em> With the <em>if</em> clause first, we use a comma.</li><li>Questions: <em>What will you do if the bus is late?</em></li><li>In the <em>if</em> clause we use the simple present, even if the meaning is about the future.</li></ul>",
+   "watch": [
+    {
+     "wrong": "If it will rain, we will cancel the picnic.",
+     "right": "If it rains, we will cancel the picnic.",
+     "why": "Do not use will in the if clause. Use the simple present."
+    },
+    {
+     "wrong": "If you come early, you would get a good seat.",
+     "right": "If you come early, you will get a good seat.",
+     "why": "For a possible future situation, use will in the result clause."
+    },
+    {
+     "wrong": "If she doesn't come, we not will start.",
+     "right": "If she doesn't come, we won't start.",
+     "why": "The negative of will is won't (will not)."
+    },
+    {
+     "wrong": "We will help you if you will ask us.",
+     "right": "We will help you if you ask us.",
+     "why": "No will after if, even when the if clause comes second."
+    }
+   ]
+  },
+  {
+   "id": "g-noun-clauses",
+   "kind": "grammar",
+   "title": "Noun clauses: I think that... / Do you know where...?",
+   "html": "<p>A <strong>noun clause</strong> is a small sentence inside a bigger sentence. We use it after phrases such as <em>I think</em>, <em>I know</em>, <em>I don't know</em>, <em>Do you know...?</em> and <em>Can you tell me...?</em></p><table><thead><tr><th>Direct question</th><th>Noun clause</th></tr></thead><tbody><tr><td>Where is the community center?</td><td>Do you know <strong>where the community center is</strong>?</td></tr><tr><td>What time does the meeting start?</td><td>I don't know <strong>what time the meeting starts</strong>.</td></tr><tr><td>How much does the ticket cost?</td><td>Can you tell me <strong>how much the ticket costs</strong>?</td></tr></tbody></table><ul><li>In a noun clause the word order is like a statement: <strong>subject + verb</strong>. We do not use <em>do / does / did</em> and we do not put the verb before the subject.</li><li>After <em>I think</em>, <em>I believe</em> and <em>I know</em>, we can use <strong>that</strong>: <em>I think that the garden is a great idea.</em> In conversation, <em>that</em> is often left out.</li><li>For yes/no questions use <em>if</em>: <em>Do you know if the library is open?</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "Do you know where is the post office?",
+     "right": "Do you know where the post office is?",
+     "why": "In a noun clause the subject goes before the verb."
+    },
+    {
+     "wrong": "I don't know what time does the event start.",
+     "right": "I don't know what time the event starts.",
+     "why": "No does in a noun clause. Use the verb with -s."
+    },
+    {
+     "wrong": "Can you tell me how much costs the ticket?",
+     "right": "Can you tell me how much the ticket costs?",
+     "why": "Use subject + verb: the ticket costs."
+    },
+    {
+     "wrong": "Do you know if is the library open?",
+     "right": "Do you know if the library is open?",
+     "why": "After if, the order is subject + verb as well."
+    }
+   ]
+  },
+  {
+   "id": "g-future-time",
+   "kind": "grammar",
+   "title": "Future time clauses: when, before, after, as soon as",
+   "html": "<p>A <strong>future time clause</strong> tells <strong>when</strong> something will happen. It starts with <em>when</em>, <em>before</em>, <em>after</em>, <em>as soon as</em> or <em>until</em>. The time clause uses the <strong>simple present</strong>. The main clause uses <strong>will</strong> (or be going to).</p><table><thead><tr><th>Time clause (present)</th><th>Main clause (future)</th></tr></thead><tbody><tr><td><strong>When</strong> the bus arrives,</td><td>we will go to the market.</td></tr><tr><td><strong>Before</strong> I leave home,</td><td>I will check the service alert.</td></tr><tr><td><strong>After</strong> the festival ends,</td><td>the volunteers will clean the park.</td></tr><tr><td><strong>As soon as</strong> I get to work,</td><td>I will call you.</td></tr></tbody></table><ul><li>The clauses can change places: <em>I will call you as soon as I get to work.</em> Use a comma only when the time clause is first.</li><li><em>As soon as</em> means \"immediately after\".</li><li>Never use <em>will</em> directly after <em>when, before, after, as soon as</em> or <em>until</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "When I will arrive, I will call you.",
+     "right": "When I arrive, I will call you.",
+     "why": "Use the simple present in the time clause, not will."
+    },
+    {
+     "wrong": "I will send the message as soon as I will get home.",
+     "right": "I will send the message as soon as I get home.",
+     "why": "No will after as soon as."
+    },
+    {
+     "wrong": "After the meeting will finish, we will have lunch.",
+     "right": "After the meeting finishes, we will have lunch.",
+     "why": "Time clause: simple present with the -s for he / she / it."
+    },
+    {
+     "wrong": "Before we leave, we call a taxi. (a future plan)",
+     "right": "Before we leave, we will call a taxi.",
+     "why": "The main clause needs will for a future action."
+    }
+   ]
+  },
+  {
+   "id": "v-community",
+   "kind": "vocab",
+   "title": "Community and events",
+   "words": [
+    {
+     "id": "w-neighborhood",
+     "en": "neighborhood",
+     "es": "barrio, colonia",
+     "example": "I like my neighborhood because it is quiet and friendly."
+    },
+    {
+     "id": "w-neighbor",
+     "en": "neighbor",
+     "es": "vecino/a",
+     "example": "My neighbor helps me carry the heavy bags."
+    },
+    {
+     "id": "w-volunteer",
+     "en": "volunteer",
+     "es": "voluntario/a; ofrecerse como voluntario",
+     "example": "We need ten volunteers for the clean-up day."
+    },
+    {
+     "id": "w-fundraiser",
+     "en": "fundraiser",
+     "es": "evento para recaudar fondos",
+     "example": "The school is organizing a fundraiser to buy new books."
+    },
+    {
+     "id": "w-flyer",
+     "en": "flyer",
+     "es": "volante, folleto",
+     "example": "I saw a flyer about the festival on the bus."
+    },
+    {
+     "id": "w-festival",
+     "en": "festival",
+     "es": "festival",
+     "example": "The food festival is on Saturday in the main square."
+    },
+    {
+     "id": "w-community-center",
+     "en": "community center",
+     "es": "centro comunitario",
+     "example": "The community center offers free English classes."
+    },
+    {
+     "id": "w-clean-up-day",
+     "en": "clean-up day",
+     "es": "jornada de limpieza",
+     "example": "On clean-up day, we pick up trash in the park."
+    },
+    {
+     "id": "w-garden-plot",
+     "en": "garden plot",
+     "es": "parcela de cultivo",
+     "example": "Each family has a small garden plot."
+    },
+    {
+     "id": "w-compost",
+     "en": "compost",
+     "es": "composta",
+     "example": "We make compost with vegetable waste."
+    },
+    {
+     "id": "w-donate",
+     "en": "donate",
+     "es": "donar",
+     "example": "Please donate clothes that you don't use."
+    },
+    {
+     "id": "w-organize",
+     "en": "organize",
+     "es": "organizar",
+     "example": "She organizes a book club every month."
+    },
+    {
+     "id": "w-raffle",
+     "en": "raffle",
+     "es": "rifa, sorteo",
+     "example": "You can win a bicycle in the raffle."
+    },
+    {
+     "id": "w-local",
+     "en": "local",
+     "es": "local, del lugar",
+     "example": "I buy fruit from a local farmer."
+    }
+   ]
+  },
+  {
+   "id": "v-transport",
+   "kind": "vocab",
+   "title": "Getting to work and service alerts",
+   "words": [
+    {
+     "id": "w-service-alert",
+     "en": "service alert",
+     "es": "aviso de servicio",
+     "example": "The service alert says that Line 2 has a delay."
+    },
+    {
+     "id": "w-delay",
+     "en": "delay",
+     "es": "retraso; retrasar",
+     "example": "There is a ten-minute delay on the metro."
+    },
+    {
+     "id": "w-detour",
+     "en": "detour",
+     "es": "desvío",
+     "example": "Buses will take a detour because the street is closed."
+    },
+    {
+     "id": "w-route",
+     "en": "route",
+     "es": "ruta, recorrido",
+     "example": "Which route goes to the hospital?"
+    },
+    {
+     "id": "w-schedule",
+     "en": "schedule",
+     "es": "horario",
+     "example": "Check the bus schedule before you leave."
+    },
+    {
+     "id": "w-commuter",
+     "en": "commuter",
+     "es": "persona que viaja a diario al trabajo",
+     "example": "Thousands of commuters use this station every morning."
+    },
+    {
+     "id": "w-rush-hour",
+     "en": "rush hour",
+     "es": "hora pico",
+     "example": "I avoid the metro during rush hour."
+    },
+    {
+     "id": "w-fare",
+     "en": "fare",
+     "es": "tarifa, pasaje",
+     "example": "The fare is twelve pesos for one trip."
+    },
+    {
+     "id": "w-out-of-service",
+     "en": "out of service",
+     "es": "fuera de servicio",
+     "example": "This train is out of service."
+    },
+    {
+     "id": "w-shuttle-bus",
+     "en": "shuttle bus",
+     "es": "autobús de enlace",
+     "example": "A free shuttle bus will take you to the next station."
+    },
+    {
+     "id": "w-platform",
+     "en": "platform",
+     "es": "andén",
+     "example": "The train leaves from platform 3."
+    },
+    {
+     "id": "w-due-to",
+     "en": "due to",
+     "es": "debido a",
+     "example": "Trains are late due to heavy rain."
+    },
+    {
+     "id": "w-resume",
+     "en": "resume",
+     "es": "reanudar",
+     "example": "Normal service will resume at 6:00 p.m."
+    },
+    {
+     "id": "w-inconvenience",
+     "en": "inconvenience",
+     "es": "molestia, inconveniente",
+     "example": "We are sorry for the inconvenience."
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>Are you going to the festival on Saturday?</strong> — asking about a community event.</li><li><strong>I'd love to come! / Sorry, I can't make it.</strong> — accepting or declining an invitation.</li><li><strong>Can I help? / We need more volunteers.</strong> — offering and asking for help.</li><li><strong>Do you know what time it starts? / Could you tell me where it is?</strong> — asking politely for information.</li><li><strong>How do you get to work? — I usually take the bus.</strong> — talking about transport.</li><li><strong>Do you know which bus goes downtown?</strong> — asking for directions at a stop.</li><li><strong>I'll be late. There's a delay on the metro.</strong> — explaining why you are late.</li></ul><p>A short service alert looks like this: <em>Attention, passengers: Line 2 is out of service between Central and Park stations due to a technical problem. Shuttle buses are available. Normal service will resume as soon as the repairs are finished. We apologize for the inconvenience.</em></p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Future real conditional",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-future-conditional",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "If it rains tomorrow, the festival ___ in the community center. (be)",
+     "answers": [
+      "will be",
+      "'ll be"
+     ],
+     "explain": "Result clause: will + base verb."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "If you ___ early, you will get a good seat. (arrive)",
+     "answers": [
+      "arrive"
+     ],
+     "explain": "The if clause uses the simple present."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "We will clean the park if enough people ___. (come)",
+     "answers": [
+      "come"
+     ],
+     "explain": "Plural subject: come, with no will after if."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "If I ___ time, I will join the garden group.",
+     "options": [
+      "have",
+      "will have",
+      "would have"
+     ],
+     "answer": 0,
+     "explain": "Simple present in the if clause."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "What will you do if the bus ___ late?",
+     "options": [
+      "is",
+      "will be",
+      "would be"
+     ],
+     "answer": 0,
+     "explain": "After if, use the simple present."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "If she will call me, I will tell her the news.",
+     "answers": [
+      "If she calls me, I will tell her the news.",
+      "If she calls me, I'll tell her the news."
+     ],
+     "explain": "No will in the if clause."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "The neighbors will be happy if the city will build a park.",
+     "answers": [
+      "The neighbors will be happy if the city builds a park.",
+      "The neighbours will be happy if the city builds a park."
+     ],
+     "explain": "Use builds (simple present) after if."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "will",
+      "We",
+      "early",
+      "finish",
+      "if",
+      "you",
+      "help"
+     ],
+     "answers": [
+      "We will finish early if you help."
+     ],
+     "explain": "Result + if + condition."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Noun clauses: statements",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-noun-clauses",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "I think ___ the library closes at six.",
+     "answers": [
+      "that"
+     ],
+     "explain": "I think that + a clause."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "I don't know where the community center ___.",
+     "answers": [
+      "is"
+     ],
+     "explain": "Subject + verb: the center is."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "Do you know what time the meeting ___?",
+     "answers": [
+      "starts",
+      "begins"
+     ],
+     "explain": "No does in a noun clause: the meeting starts."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "Can you tell me ___ the bus stop is?",
+     "options": [
+      "where",
+      "where is",
+      "where does"
+     ],
+     "answer": 0,
+     "explain": "The verb goes after the subject: where the bus stop is."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "I don't know ___.",
+     "options": [
+      "how much the ticket costs",
+      "how much does the ticket cost",
+      "how much costs the ticket"
+     ],
+     "answer": 0,
+     "explain": "Statement word order in a noun clause."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "Do you know where is the post office?",
+     "answers": [
+      "Do you know where the post office is?"
+     ],
+     "explain": "Subject before verb in the noun clause."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "I don't know what time does the event start.",
+     "answers": [
+      "I don't know what time the event starts."
+     ],
+     "explain": "No does; the verb takes -s."
+    },
+    {
+     "id": "B8",
+     "type": "translate",
+     "prompt": "No sé dónde está el centro comunitario.",
+     "answers": [
+      "I don't know where the community center is.",
+      "I don't know where the community centre is."
+     ],
+     "explain": "Where + subject + is."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Noun clauses: polite questions",
+   "instructions": "Order, complete or translate.",
+   "topic": "g-noun-clauses",
+   "items": [
+    {
+     "id": "C1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "you",
+      "Do",
+      "where",
+      "know",
+      "the",
+      "park",
+      "is"
+     ],
+     "answers": [
+      "Do you know where the park is?"
+     ],
+     "explain": "Do you know + where + subject + verb?"
+    },
+    {
+     "id": "C2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Can",
+      "you",
+      "tell",
+      "me",
+      "when",
+      "the",
+      "festival",
+      "starts"
+     ],
+     "answers": [
+      "Can you tell me when the festival starts?"
+     ],
+     "explain": "Can you tell me + noun clause?"
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "Could you tell me how much the tickets ___? (cost)",
+     "answers": [
+      "cost"
+     ],
+     "explain": "Plural subject: tickets cost."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "Do you know if the library ___ on Sundays? (open)",
+     "answers": [
+      "opens",
+      "is open"
+     ],
+     "explain": "Use if for a yes/no question; keep statement order."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "I think ___ the garden is a great idea.",
+     "options": [
+      "that",
+      "what",
+      "where"
+     ],
+     "answer": 0,
+     "explain": "I think that + clause."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "Do you know ___ she lives?",
+     "options": [
+      "where",
+      "where does",
+      "where is"
+     ],
+     "answer": 0,
+     "explain": "Where she lives: subject + verb, no does."
+    },
+    {
+     "id": "C7",
+     "type": "translate",
+     "prompt": "¿Sabes a qué hora empieza la reunión?",
+     "answers": [
+      "Do you know what time the meeting starts?",
+      "Do you know what time the meeting begins?"
+     ],
+     "explain": "What time + subject + verb."
+    },
+    {
+     "id": "C8",
+     "type": "translate",
+     "prompt": "Creo que los vecinos van a ayudar.",
+     "answers": [
+      "I think  the neighbors will help.",
+      "I think  the neighbors are going to help.",
+      "I think  the neighbors will help us.",
+      "I think  the neighbors are going to help us.",
+      "I think  the neighbours will help.",
+      "I think  the neighbours are going to help.",
+      "I think  the neighbours will help us.",
+      "I think  the neighbours are going to help us.",
+      "I think that the neighbors will help.",
+      "I think that the neighbors are going to help.",
+      "I think that the neighbors will help us.",
+      "I think that the neighbors are going to help us.",
+      "I think that the neighbours will help.",
+      "I think that the neighbours are going to help.",
+      "I think that the neighbours will help us.",
+      "I think that the neighbours are going to help us."
+     ],
+     "explain": "I think (that) + clause."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Future time clauses",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-future-time",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "I will call you as soon as I ___ home. (get)",
+     "answers": [
+      "get"
+     ],
+     "explain": "Simple present after as soon as."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "When the bus ___, we will go to the market. (arrive)",
+     "answers": [
+      "arrives"
+     ],
+     "explain": "He / she / it: arrives."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "Before you ___ the house, please turn off the lights. (leave)",
+     "answers": [
+      "leave"
+     ],
+     "explain": "Simple present after before."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "After the festival ___, we will clean the park. (end)",
+     "answers": [
+      "ends"
+     ],
+     "explain": "The festival ends: add -s."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "She will send the report when she ___ to the office.",
+     "options": [
+      "gets",
+      "will get",
+      "got"
+     ],
+     "answer": 0,
+     "explain": "Simple present after when."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "As soon as the rain ___, we will start the game.",
+     "options": [
+      "stops",
+      "will stop",
+      "stopped"
+     ],
+     "answer": 0,
+     "explain": "Simple present after as soon as."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "When I will arrive, I will send you a message.",
+     "answers": [
+      "When I arrive, I will send you a message.",
+      "When I arrive, I'll send you a message."
+     ],
+     "explain": "No will in the time clause."
+    },
+    {
+     "id": "D8",
+     "type": "translate",
+     "prompt": "En cuanto termine mi trabajo, iré al jardín.",
+     "answers": [
+      "As soon as I finish work, I will go to the garden.",
+      "As soon as I finish work, I'll go to the garden.",
+      "As soon as I finish my work, I will go to the garden.",
+      "As soon as I finish my work, I'll go to the garden.",
+      "I will go to the garden as soon as I finish work.",
+      "I will go to the garden as soon as I finish my work.",
+      "I'll go to the garden as soon as I finish work.",
+      "I'll go to the garden as soon as I finish my work."
+     ],
+     "explain": "As soon as + present, will + verb."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: community",
+   "instructions": "Complete or choose the correct word.",
+   "topic": "v-community",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "A person who works without pay to help others is a ___.",
+     "answers": [
+      "volunteer"
+     ],
+     "explain": "Volunteer: someone who helps without pay."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "An event to collect money for a good cause is a...",
+     "options": [
+      "fundraiser",
+      "detour",
+      "platform"
+     ],
+     "answer": 0,
+     "explain": "A fundraiser collects money."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "The people who live near you are your ___.",
+     "answers": [
+      "neighbors",
+      "neighbours"
+     ],
+     "explain": "Neighbors live close to you."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "A ___ is a small paper with information about an event.",
+     "answers": [
+      "flyer"
+     ],
+     "explain": "A flyer gives information about an event."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "Food waste can become ___ that helps plants grow.",
+     "options": [
+      "compost",
+      "a fare",
+      "a raffle"
+     ],
+     "answer": 0,
+     "explain": "Compost helps plants grow."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "To give money or things to people who need them is to ___.",
+     "answers": [
+      "donate"
+     ],
+     "explain": "Donate: give to help."
+    },
+    {
+     "id": "E7",
+     "type": "choice",
+     "prompt": "A building where people meet for classes and events is a...",
+     "options": [
+      "community center",
+      "shuttle bus",
+      "garden plot"
+     ],
+     "answer": 0,
+     "explain": "A community center holds classes and events."
+    },
+    {
+     "id": "E8",
+     "type": "fix",
+     "prompt": "The neighbors will donates food for the festival.",
+     "answers": [
+      "The neighbors will donate food for the festival.",
+      "The neighbours will donate food for the festival."
+     ],
+     "explain": "After will, use the base verb."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Vocabulary: transport and expressions",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "v-transport",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "The bus is late. The service alert talks about a...",
+     "options": [
+      "delay",
+      "fare",
+      "raffle"
+     ],
+     "answer": 0,
+     "explain": "A delay is a late arrival."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "The street is closed, so the bus will take a ___.",
+     "answers": [
+      "detour"
+     ],
+     "explain": "A detour is a different route."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "You pay a ___ to use the bus or the metro.",
+     "answers": [
+      "fare"
+     ],
+     "explain": "The fare is the price of a trip."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "Rush hour is the time when...",
+     "options": [
+      "many people travel to or from work",
+      "the buses are free",
+      "the stations are closed"
+     ],
+     "answer": 0,
+     "explain": "Rush hour is the busiest time of day."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "People who travel to work every day are ___.",
+     "answers": [
+      "commuters"
+     ],
+     "explain": "Commuters travel to work every day."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "\"The train is out of service.\" This means...",
+     "options": [
+      "it is not running",
+      "it is very fast",
+      "it is full of people"
+     ],
+     "answer": 0,
+     "explain": "Out of service means not working."
+    },
+    {
+     "id": "F7",
+     "type": "fix",
+     "prompt": "Excuse me, do you know which bus does go downtown?",
+     "answers": [
+      "Excuse me, do you know which bus goes downtown?"
+     ],
+     "explain": "No does in a noun clause."
+    },
+    {
+     "id": "F8",
+     "type": "translate",
+     "prompt": "Hay retrasos debido a la lluvia.",
+     "answers": [
+      "There are delays due to the rain.",
+      "There are delays due to rain.",
+      "There are delays because of the rain.",
+      "There are delays because of rain."
+     ],
+     "explain": "Due to + noun."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "will",
+      "We",
+      "home",
+      "stay",
+      "if",
+      "it",
+      "rains"
+     ],
+     "answers": [
+      "We will stay home if it rains."
+     ],
+     "explain": "Result + if + present."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "you",
+      "Do",
+      "know",
+      "where",
+      "the",
+      "bus",
+      "stop",
+      "is"
+     ],
+     "answers": [
+      "Do you know where the bus stop is?"
+     ],
+     "explain": "Noun clause: where + subject + verb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "will",
+      "I",
+      "call",
+      "you",
+      "as",
+      "soon",
+      "as",
+      "I",
+      "arrive"
+     ],
+     "answers": [
+      "I will call you as soon as I arrive."
+     ],
+     "explain": "As soon as + simple present."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I",
+      "think",
+      "that",
+      "the",
+      "meeting",
+      "starts",
+      "at",
+      "seven"
+     ],
+     "answers": [
+      "I think that the meeting starts at seven."
+     ],
+     "explain": "I think that + clause."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "will",
+      "We",
+      "clean",
+      "the",
+      "room",
+      "before",
+      "we",
+      "leave"
+     ],
+     "answers": [
+      "We will clean the room before we leave."
+     ],
+     "explain": "Before + simple present."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Can",
+      "you",
+      "tell",
+      "me",
+      "how",
+      "much",
+      "the",
+      "ticket",
+      "costs"
+     ],
+     "answers": [
+      "Can you tell me how much the ticket costs?"
+     ],
+     "explain": "Polite question with a noun clause."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Si llueve, cancelaremos el festival.",
+     "answers": [
+      "If it rains, we will cancel the festival.",
+      "If it rains, we'll cancel the festival.",
+      "We will cancel the festival if it rains.",
+      "We'll cancel the festival if it rains."
+     ],
+     "explain": "If + present, will + verb."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿Sabes dónde está la parada del autobús?",
+     "answers": [
+      "Do you know where the bus stop is?"
+     ],
+     "explain": "Do you know where + subject + verb?"
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Llamaré a los vecinos antes de que empiece la reunión.",
+     "answers": [
+      "I will call the neighbors before the meeting starts.",
+      "I will call the neighbors before the meeting begins.",
+      "I will call the neighbours before the meeting starts.",
+      "I will call the neighbours before the meeting begins.",
+      "I'll call the neighbors before the meeting starts.",
+      "I'll call the neighbors before the meeting begins.",
+      "I'll call the neighbours before the meeting starts.",
+      "I'll call the neighbours before the meeting begins."
+     ],
+     "explain": "Before + simple present."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Creo que el jardín comunitario es una gran idea.",
+     "answers": [
+      "I think  the community garden is a great idea.",
+      "I think that the community garden is a great idea."
+     ],
+     "explain": "I think (that) + clause."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "En cuanto llegue el autobús, nos iremos al trabajo.",
+     "answers": [
+      "As soon as the bus arrives, we will go to work.",
+      "As soon as the bus arrives, we'll go to work.",
+      "As soon as the bus arrives, we will leave for work.",
+      "As soon as the bus arrives, we'll leave for work."
+     ],
+     "explain": "As soon as + simple present."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "¿Puede decirme cuánto cuesta el boleto?",
+     "answers": [
+      "Can you tell me how much the  ticket costs?",
+      "Can you tell me how much the bus  ticket costs?",
+      "Could you tell me how much the  ticket costs?",
+      "Could you tell me how much the bus  ticket costs?"
+     ],
+     "explain": "Polite noun clause: how much the ticket costs."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes 2 review items from earlier topics).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "If the weather ___ good, we will have the picnic.",
+     "options": [
+      "is",
+      "will be",
+      "would be"
+     ],
+     "answer": 0,
+     "explain": "Simple present in the if clause."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Do you know where the volunteers ___? (meet)",
+     "answers": [
+      "meet"
+     ],
+     "explain": "Noun clause: subject + verb, no do."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "We will go home when the festival will end.",
+     "answers": [
+      "We will go home when the festival ends.",
+      "We'll go home when the festival ends."
+     ],
+     "explain": "Simple present in the time clause."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "A message from the bus company about a delay is a service ___.",
+     "options": [
+      "alert",
+      "fare",
+      "plot"
+     ],
+     "answer": 0,
+     "explain": "A service alert gives news about transport."
+    },
+    {
+     "id": "M5",
+     "type": "gap",
+     "prompt": "Please show your ticket as soon as you ___ the bus. (get on)",
+     "answers": [
+      "get on"
+     ],
+     "explain": "Simple present after as soon as."
+    },
+    {
+     "id": "M6",
+     "type": "choice",
+     "prompt": "I think ___ the festival is a great idea.",
+     "options": [
+      "that",
+      "where",
+      "if"
+     ],
+     "answer": 0,
+     "explain": "I think that + clause."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "This is the ___ apartment in the building. (cheap) (review: superlatives)",
+     "answers": [
+      "cheapest"
+     ],
+     "explain": "Short adjective: the + adjective + -est."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "If you heat ice, it ___. (melt) (review: present real conditional)",
+     "answers": [
+      "melts"
+     ],
+     "explain": "General truth: if + present, present."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a problem-solution essay (120 to 160 words) about a problem in your neighborhood or city (for example trash, traffic, noise or a lack of parks). Describe the problem, give two solutions, and say what will happen if people follow them. Use at least two if + will sentences and one time clause. Opening: One big problem in my neighborhood is...",
+   "targets": [
+    "future real conditional",
+    "noun clauses",
+    "future time clauses",
+    "community vocabulary"
+   ],
+   "checklist": [
+    "120 to 160 words",
+    "A clear problem and two solutions",
+    "At least two sentences with if + present, will",
+    "One sentence with when, before, after or as soon as + present",
+    "One noun clause (I think that... / I don't know where...)",
+    "No will after if or when"
+   ],
+   "model": "One big problem in my neighborhood is trash in the streets. After the Sunday market, there are bags, bottles and boxes everywhere. I think that this problem makes people feel unhappy about the place where they live. It also attracts rats and bad smells.\n\nThere are two simple solutions. First, the city can put more trash cans near the market. If there are more trash cans, people will use them. Second, neighbors can organize a clean-up day every month. When volunteers work together, the work will be easy and fast. Children can also join, and they will learn to take care of the community.\n\nIf we do these things, the neighborhood will be cleaner and safer. As soon as people see a clean street, they will want to keep it clean. I don't know how much it will cost, but I am sure that it is worth the effort."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a short message (80 to 120 words) to your neighbors to invite them to a community event (a meeting, a clean-up day or a small festival). Say what, when and where. Ask for volunteers, and say what will happen if it rains. Use one polite question with Do you know... or Could you tell me...",
+   "targets": [
+    "future real conditional",
+    "noun clauses",
+    "community events"
+   ],
+   "checklist": [
+    "80 to 120 words",
+    "Event, day, time and place",
+    "A request for volunteers",
+    "One if + will sentence about the weather",
+    "One polite question with a noun clause",
+    "A friendly opening and closing"
+   ],
+   "model": "Hello, neighbors!\n\nWe are organizing a clean-up day in our park this Saturday at nine in the morning. We will meet next to the main gate. We need volunteers, so please bring gloves and a bag if you can. If it rains, we will do it next Saturday instead. We will have water and fruit for everyone.\n\nDo you know someone who wants to help? Please tell your friends and family. Could you tell me how many people will come? I would like to buy enough food. Please reply to this message as soon as you can.\n\nThank you for helping our neighborhood!\n\nLaura"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "A Garden for Everyone",
+   "intro": "Read the text about a community garden and answer.",
+   "paragraphs": [
+    "Three years ago, the empty lot behind the Hidalgo Street market was full of trash. The neighbors complained about the smell and the rats, but nobody knew what to do. Then a retired teacher, Mrs. Lupita Ramos, said, \"If we clean this place, we can grow vegetables here.\" At first, many people laughed at the idea.",
+    "Only six people came to help on the first Saturday. They collected bags of trash, moved heavy stones and asked the city for permission to use the land. The city agreed, but it gave them one rule: if the neighbors take care of the garden, they can keep it. Today more than sixty families work there, and the lot is full of green plants.",
+    "Each family has a small plot and pays 100 pesos a year for water and tools. They grow tomatoes, chiles, beans and herbs. They also make compost from food waste, so they don't need to buy expensive fertilizer. Every Saturday morning, a group of volunteers teaches children how to plant seeds and why healthy food is important.",
+    "The garden has changed more than the neighborhood's food. People who never spoke before now share tools, recipes and stories. An older man, Mr. Ortiz, says that he always knows where to find fresh vegetables, and he also knows who needs help. When someone is sick, the others water that person's plot. Teenagers come too, and many of them say that the garden is the best place to relax after school.",
+    "There are problems, too. Last summer there was not enough rain, and the water bill was very high. Mrs. Ramos thinks that the garden needs a rain tank. The group is organizing a fundraiser: as soon as they collect 20,000 pesos, they will buy the tank. They will hold a small festival next month, and after the festival ends, they will count the money. \"If everyone brings a friend, we will reach our goal,\" she says with a smile."
+   ],
+   "glossary": [
+    {
+     "en": "lot",
+     "def": "an empty piece of land"
+    },
+    {
+     "en": "plot",
+     "def": "a small piece of land for growing plants"
+    },
+    {
+     "en": "herbs",
+     "def": "plants used to give flavor to food"
+    },
+    {
+     "en": "fertilizer",
+     "def": "something you put in the soil to help plants grow"
+    },
+    {
+     "en": "water bill",
+     "def": "the paper that shows how much you must pay for water"
+    },
+    {
+     "en": "tank",
+     "def": "a big container for water"
+    },
+    {
+     "en": "goal",
+     "def": "something you want to achieve"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "At first, a lot of people helped to clean the lot.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Only six people came on the first Saturday."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "What rule did the city give the neighbors?",
+     "options": [
+      "If they take care of the garden, they can keep it",
+      "They must pay a high price every month",
+      "They can only grow flowers"
+     ],
+     "answer": 0,
+     "explain": "The city said the neighbors can keep the garden if they take care of it."
+    },
+    {
+     "id": "R3",
+     "type": "gap",
+     "prompt": "Each family pays ___ pesos a year for water and tools.",
+     "answers": [
+      "100",
+      "one hundred"
+     ],
+     "explain": "Each family pays 100 pesos a year."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "What do volunteers teach the children on Saturday mornings?",
+     "options": [
+      "How to plant seeds",
+      "How to cook dinner",
+      "How to fix tools"
+     ],
+     "answer": 0,
+     "explain": "They teach children how to plant seeds."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "When someone in the garden is sick, the others water that person's plot.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "The text says the others water the plot of a sick person."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "Why was the water bill high last summer?",
+     "options": [
+      "There was not enough rain",
+      "There were too many visitors",
+      "The tank was broken"
+     ],
+     "answer": 0,
+     "explain": "There was not enough rain, so they needed more water."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "As soon as the group collects 20,000 pesos, it will buy a rain ___.",
+     "answers": [
+      "tank"
+     ],
+     "explain": "The money is for a rain tank."
+    },
+    {
+     "id": "R8",
+     "type": "translate",
+     "prompt": "Si todos traen a un amigo, lograremos nuestra meta.",
+     "answers": [
+      "If everyone brings a friend, we will reach our goal.",
+      "If everyone brings a friend, we'll reach our goal.",
+      "If everybody brings a friend, we will reach our goal.",
+      "If everybody brings a friend, we'll reach our goal.",
+      "We will reach our goal if everyone brings a friend.",
+      "We'll reach our goal if everyone brings a friend."
+     ],
+     "explain": "If + present, will + verb."
+    }
+   ]
+  },
+  "listening": {
+   "title": "The neighborhood festival",
+   "intro": "Listen to the conversation between two neighbors and an organizer. You can repeat it.",
+   "lines": [
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Hi, Pedro! Did you see the flyer about the neighborhood festival?"
+    },
+    {
+     "who": "Pedro",
+     "voice": "buttery",
+     "text": "Yes, I did. I think that it's on Saturday, but I don't know what time it starts."
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "It starts at ten. If the weather is good, they will hold it in the park."
+    },
+    {
+     "who": "Pedro",
+     "voice": "buttery",
+     "text": "And what will they do if it rains?"
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "They will move it to the community center. Do you know where the center is?"
+    },
+    {
+     "who": "Pedro",
+     "voice": "buttery",
+     "text": "Yes, I know where it is. It's next to the library. They need volunteers, right?"
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Yes, they do. Are you free on Saturday?"
+    },
+    {
+     "who": "Pedro",
+     "voice": "buttery",
+     "text": "I work until noon. As soon as I finish, I'll come and help."
+    },
+    {
+     "who": "Mrs. Vega",
+     "voice": "glassy",
+     "text": "Excuse me, are you talking about the festival? I'm organizing the food tables."
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Yes! Can we help you, Mrs. Vega?"
+    },
+    {
+     "who": "Mrs. Vega",
+     "voice": "glassy",
+     "text": "Of course. If you bring a homemade dish, you will get a free T-shirt."
+    },
+    {
+     "who": "Pedro",
+     "voice": "buttery",
+     "text": "That sounds great. What kind of dish should we bring?"
+    },
+    {
+     "who": "Mrs. Vega",
+     "voice": "glassy",
+     "text": "Anything you like. Before you come, please write your name on the list at the center."
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "We'll do it today. Thanks, Mrs. Vega!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What day is the festival?",
+     "options": [
+      "Saturday",
+      "Sunday",
+      "Friday"
+     ],
+     "answer": 0,
+     "explain": "Pedro says it is on Saturday."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What will happen if it rains?",
+     "options": [
+      "They will move it to the community center",
+      "They will cancel it",
+      "They will do it next week"
+     ],
+     "answer": 0,
+     "explain": "If it rains, they will move it to the community center."
+    },
+    {
+     "id": "L3",
+     "type": "gap",
+     "prompt": "The festival starts at ___ in the morning.",
+     "answers": [
+      "ten",
+      "10",
+      "10:00",
+      "ten o'clock"
+     ],
+     "explain": "Nora says it starts at ten."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "When will Pedro come to help?",
+     "options": [
+      "As soon as he finishes work",
+      "Before he goes to work",
+      "After the festival ends"
+     ],
+     "answer": 0,
+     "explain": "Pedro works until noon and will come when he finishes."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What will people get if they bring a homemade dish?",
+     "options": [
+      "A free T-shirt",
+      "A free ticket",
+      "A free book"
+     ],
+     "answer": 0,
+     "explain": "Mrs. Vega says they will get a free T-shirt."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "Where must they write their names?",
+     "options": [
+      "On the list at the community center",
+      "On the flyer",
+      "On the food tables"
+     ],
+     "answer": 0,
+     "explain": "Mrs. Vega asks them to write their names on the list at the center."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "If it rains, they will move the festival to the community center.",
+     "answers": [
+      "If it rains, they will move the festival to the community center.",
+      "If it rains, they'll move the festival to the community center."
+     ],
+     "explain": "If + present, will + verb."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Do you know where the center is?",
+     "answers": [
+      "Do you know where the center is?"
+     ],
+     "explain": "Noun clause: where + subject + verb."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "As soon as I finish work, I'll come and help.",
+     "answers": [
+      "As soon as I finish work, I'll come and help.",
+      "As soon as I finish work, I will come and help."
+     ],
+     "explain": "As soon as + simple present."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Please write your name on the list before you come.",
+     "answers": [
+      "Please write your name on the list before you come."
+     ],
+     "explain": "Before + simple present."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Invite a friend to a community event. Say what it is, when and where it is, and what will happen if it rains.",
+     "questions": [
+      "Are you going to the festival on Saturday?",
+      "Do you know what time it starts?",
+      "What will you do if it rains?",
+      "Can you help as a volunteer?"
+     ],
+     "model": "Are you going to the neighborhood festival on Saturday? It starts at ten in the park. If it rains, they will move it to the community center. I think that it will be fun, and they need volunteers. If you come, I will introduce you to my neighbors.",
+     "checklist": [
+      "Event, day, time and place",
+      "One if + will sentence",
+      "One noun clause (I think that... / Do you know...?)",
+      "Invitation or offer of help"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Ask for transport information at a bus stop, and explain how you get to work or school.",
+     "questions": [
+      "How do you get to work or school?",
+      "Do you know which bus goes downtown?",
+      "Could you tell me how much the fare is?",
+      "What will you do when the bus is late?"
+     ],
+     "model": "Excuse me, do you know which bus goes downtown? Could you tell me how much the fare is? I usually take the bus to work. It takes forty minutes during rush hour. When the bus is late, I will take the metro. As soon as I get to work, I will call my family.",
+     "checklist": [
+      "Polite question with a noun clause",
+      "Transport vocabulary (fare, rush hour, delay)",
+      "One time clause with when or as soon as",
+      "Answer about your own trip"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about your community: what you like, what the problems are, and what will happen if people help.",
+     "questions": [
+      "What do you like about your neighborhood?",
+      "What is a problem in your community?",
+      "What can neighbors do to solve it?",
+      "If more people help, what will happen?"
+     ],
+     "model": "I like my neighborhood because people are friendly. One problem is trash in the park. I think that neighbors can organize a clean-up day. If more people help, the park will be cleaner. When the park is clean, children will play there again.",
+     "checklist": [
+      "Opinion with I think that",
+      "A problem and a solution",
+      "If + present, will",
+      "Community vocabulary"
+     ]
+    }
+   ],
+   "repeat": [
+    "If it rains, we will move the festival indoors.",
+    "Do you know where the community center is?",
+    "I think that the garden is a great idea.",
+    "As soon as I get to work, I will call you.",
+    "Could you tell me how much the fare is?",
+    "Normal service will resume as soon as possible."
+   ]
+  }
+ }
+}

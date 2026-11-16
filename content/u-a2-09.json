@@ -1,0 +1,1663 @@
+{
+ "id": "u-a2-09",
+ "level": "A2",
+ "n": 9,
+ "title": "When I was a kid",
+ "goals": [
+  "Say where and when you were born and grew up, using was / were born.",
+  "Talk about your childhood with the past simple: positive sentences, negative sentences and questions.",
+  "Put events in time with ago, for, from… to, until, when, in and last.",
+  "Talk about how many people or things with all, most, a few, some, none (of).",
+  "Name school subjects and talk about your life as a student.",
+  "Correct yourself when you speak with Well, Actually, No, wait and I mean, and contrast with except (for) and apart from."
+ ],
+ "learn": [
+  {
+   "id": "g-be-born",
+   "kind": "grammar",
+   "title": "was / were born",
+   "html": "<p>To say where or when you were born, we use the past of <em>be</em> with <em>born</em>. You do not use a special verb for «born»: say <strong>I was born</strong>.</p><table><thead><tr><th>Subject</th><th>Positive</th><th>Negative</th></tr></thead><tbody><tr><td>I / he / she / it</td><td>I <strong>was born</strong> in Puebla.</td><td>She <strong>wasn't born</strong> in Mexico.</td></tr><tr><td>you / we / they</td><td>My parents <strong>were born</strong> in Oaxaca.</td><td>We <strong>weren't born</strong> in 1990.</td></tr></tbody></table><table><thead><tr><th>Question</th><th>Short answer</th></tr></thead><tbody><tr><td><strong>Were</strong> you born in Mexico City?</td><td>Yes, I <strong>was</strong>. / No, I <strong>wasn't</strong>.</td></tr><tr><td><strong>Was</strong> your sister born here?</td><td>Yes, she <strong>was</strong>. / No, she <strong>wasn't</strong>.</td></tr><tr><td><strong>Where</strong> were you born?</td><td>I was born in Toluca.</td></tr><tr><td><strong>When</strong> was he born?</td><td>He was born in 1987.</td></tr></tbody></table><p>With places, use <em>in</em> (in Puebla). With years, also use <em>in</em> (in 1995). With a full date, use <em>on</em>: <em>on May 5th</em>.</p>",
+   "watch": [
+    {
+     "wrong": "I born in Puebla.",
+     "right": "I was born in Puebla.",
+     "why": "Born always comes after was / were."
+    },
+    {
+     "wrong": "Where did you born?",
+     "right": "Where were you born?",
+     "why": "In a question with born, use was / were, not did."
+    },
+    {
+     "wrong": "My parents was born in Oaxaca.",
+     "right": "My parents were born in Oaxaca.",
+     "why": "Plural subject: were."
+    },
+    {
+     "wrong": "I am born in 1995.",
+     "right": "I was born in 1995.",
+     "why": "Birth is in the past: use was."
+    }
+   ]
+  },
+  {
+   "id": "g-past-simple",
+   "kind": "grammar",
+   "title": "Past simple (review): regular and irregular verbs",
+   "html": "<p>We use the past simple for actions that finished in the past. The form is <strong>the same for all subjects</strong> (I lived, she lived, they lived).</p><table><thead><tr><th>Type</th><th>Rule</th><th>Examples</th></tr></thead><tbody><tr><td>Regular verbs</td><td>+ -ed (if the verb ends in e, add only + d)</td><td>live → lived, move → moved, play → played</td></tr><tr><td>Consonant + y</td><td>y → i + -ed</td><td>study → studied, cry → cried</td></tr><tr><td>One syllable CVC</td><td>double the consonant</td><td>stop → stopped</td></tr><tr><td>Irregular verbs</td><td>they change; you must memorize them</td><td>go → went, grow up → grew up, leave → left, come → came, speak → spoke, have → had, get → got, take → took</td></tr></tbody></table><table><thead><tr><th>Negative</th><th>Question</th><th>Short answer</th></tr></thead><tbody><tr><td>I <strong>didn't</strong> live there long.</td><td><strong>Did</strong> you live there long?</td><td>Yes, I <strong>did</strong>. / No, I <strong>didn't</strong>.</td></tr><tr><td>We <strong>didn't leave</strong> until 1997.</td><td>Where <strong>did</strong> you <strong>grow</strong> up?</td><td>I grew up in Monterrey.</td></tr></tbody></table><p>With <em>didn't</em> and <em>did</em>, the verb goes back to its base form: <em>I didn't go</em>, <em>Did you go?</em></p>",
+   "watch": [
+    {
+     "wrong": "I didn't went to kindergarten.",
+     "right": "I didn't go to kindergarten.",
+     "why": "After didn't, use the base form."
+    },
+    {
+     "wrong": "Did you moved to another city?",
+     "right": "Did you move to another city?",
+     "why": "After did, use the base form."
+    },
+    {
+     "wrong": "She studyed biology.",
+     "right": "She studied biology.",
+     "why": "Consonant + y → ied."
+    },
+    {
+     "wrong": "Where you grew up?",
+     "right": "Where did you grow up?",
+     "why": "In questions with normal verbs, you need did."
+    }
+   ]
+  },
+  {
+   "id": "g-time-exp",
+   "kind": "grammar",
+   "title": "Time expressions: ago, for, from… to, until, when",
+   "html": "<p>These words place an action in the past.</p><table><thead><tr><th>Word</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td><strong>last</strong> + year / month / week / day</td><td>the previous one</td><td>She moved here <em>last May</em>.</td></tr><tr><td><strong>in</strong> + month / year</td><td>in</td><td>I started school <em>in 2005</em>.</td></tr><tr><td><strong>for</strong> + period</td><td>during</td><td>We lived there <em>for six years</em>.</td></tr><tr><td>period + <strong>ago</strong></td><td>ago (before now)</td><td>I came here <em>three years ago</em>.</td></tr><tr><td><strong>from… to</strong></td><td>from… to (start and end)</td><td>He studied there <em>from 1995 to 2001</em>.</td></tr><tr><td><strong>until</strong> + year / sentence</td><td>until</td><td>We stayed <em>until 1997</em>. I lived there <em>until I was six</em>.</td></tr><tr><td><strong>when</strong> + sentence</td><td>when</td><td>I moved <em>when I was ten</em>.</td></tr><tr><td><strong>then</strong></td><td>then, after that</td><td>We left Puebla. <em>Then</em> we came to Mexico City.</td></tr></tbody></table><p>We read years in two parts: 1988 = <em>nineteen eighty-eight</em>; 2007 = <em>two thousand (and) seven</em>; 2015 = <em>twenty fifteen</em>.</p>",
+   "watch": [
+    {
+     "wrong": "I lived there since three years.",
+     "right": "I lived there for three years.",
+     "why": "A length of time in the past uses for."
+    },
+    {
+     "wrong": "I moved here before three years.",
+     "right": "I moved here three years ago.",
+     "why": "«Ago» comes after the time period: three years ago."
+    },
+    {
+     "wrong": "We moved in last year.",
+     "right": "We moved last year.",
+     "why": "Do not use in with last."
+    },
+    {
+     "wrong": "I lived there until five years old.",
+     "right": "I lived there until I was five.",
+     "why": "Until + full sentence: subject + was."
+    }
+   ]
+  },
+  {
+   "id": "g-determiners",
+   "kind": "grammar",
+   "title": "all, most, some, a few, no / none (of)",
+   "html": "<p>These words say <strong>how many</strong>. They change depending on whether you speak in general or about specific people.</p><table><thead><tr><th>Meaning</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>General (people in general)</td><td>word + noun, <strong>no of</strong></td><td><strong>Most</strong> people study English. <strong>A few</strong> students take Latin. <strong>No</strong> students like exams.</td></tr><tr><td>Specific (the / my / these)</td><td>word + <strong>of</strong> + the / my…</td><td><strong>Most of</strong> my friends know French. <strong>None of</strong> my classmates failed.</td></tr><tr><td>With a pronoun</td><td>word + of + <strong>them / us</strong></td><td><strong>All of them</strong> passed. <strong>Some of us</strong> went.</td></tr></tbody></table><ul><li>Order from most to least: all (everyone) &gt; most (the majority) &gt; a lot of / some (many) &gt; a few (a small number) &gt; none / no (nobody).</li><li>Before a noun, use <em>no</em>. Alone or before <em>of</em>, use <em>none</em>: <em>No students came. None of the students came.</em></li><li><em>A lot of</em> always takes of: <em>A lot of people speak English.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "Most of people in my town drive.",
+     "right": "Most people in my town drive.",
+     "why": "In a general sense, do not use of."
+    },
+    {
+     "wrong": "No of my friends came.",
+     "right": "None of my friends came.",
+     "why": "Before of, use none, not «no of»."
+    },
+    {
+     "wrong": "All of they study English.",
+     "right": "All of them study English.",
+     "why": "After of, use the object pronoun: them."
+    },
+    {
+     "wrong": "Some my classmates are bilingual.",
+     "right": "Some of my classmates are bilingual.",
+     "why": "With my / the, you need of."
+    }
+   ]
+  },
+  {
+   "id": "v-childhood",
+   "kind": "vocab",
+   "title": "Childhood and life events",
+   "words": [
+    {
+     "id": "w-childhood",
+     "en": "childhood",
+     "es": "infancia",
+     "example": "I had a happy childhood.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-grow-up",
+     "en": "grow up",
+     "es": "crecer, criarse",
+     "example": "I grew up in a small town.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-be-born",
+     "en": "be born",
+     "es": "nacer",
+     "example": "My mother was born in 1968.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-close-friend",
+     "en": "close friend",
+     "es": "amigo/a cercano/a",
+     "example": "My first close friend lived next door.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-bilingual",
+     "en": "bilingual",
+     "es": "bilingüe",
+     "example": "Our children are bilingual."
+    },
+    {
+     "id": "w-get-into-trouble",
+     "en": "get into trouble",
+     "es": "meterse en problemas",
+     "example": "I got into trouble for talking in class.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-move-city",
+     "en": "move to another city",
+     "es": "mudarse a otra ciudad",
+     "example": "We moved to another city when I was nine.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-move-country",
+     "en": "move to another country",
+     "es": "mudarse a otro país",
+     "example": "Her family moved to another country in 2010.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-learn-swim",
+     "en": "learn to swim",
+     "es": "aprender a nadar",
+     "example": "I learned to swim at the age of seven.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-first-day",
+     "en": "first day of school",
+     "es": "primer día de escuela",
+     "example": "I cried on my first day of school.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-kindergarten",
+     "en": "kindergarten",
+     "es": "preescolar",
+     "example": "I didn't like kindergarten.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-miss-bus",
+     "en": "miss the bus",
+     "es": "perder el autobús",
+     "example": "I missed the bus and walked home.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-ride-bike",
+     "en": "ride a bike",
+     "es": "andar en bicicleta",
+     "example": "I rode a bike to school.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-memories",
+     "en": "have memories of",
+     "es": "tener recuerdos de",
+     "example": "I have happy memories of my grandmother's house.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "v-subjects",
+   "kind": "vocab",
+   "title": "School subjects",
+   "words": [
+    {
+     "id": "w-algebra",
+     "en": "algebra",
+     "es": "álgebra",
+     "example": "I didn't like algebra."
+    },
+    {
+     "id": "w-art",
+     "en": "art",
+     "es": "arte, dibujo",
+     "example": "We painted a lot in art.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-band",
+     "en": "band",
+     "es": "banda (música)",
+     "example": "He played the trumpet in the school band.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-biology",
+     "en": "biology",
+     "es": "biología",
+     "example": "In biology we studied plants.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-calculus",
+     "en": "calculus",
+     "es": "cálculo",
+     "example": "Calculus was very hard for me."
+    },
+    {
+     "id": "w-chemistry",
+     "en": "chemistry",
+     "es": "química",
+     "example": "We did experiments in chemistry.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-choir",
+     "en": "choir",
+     "es": "coro",
+     "example": "She sang in the choir.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-computer-studies",
+     "en": "computer studies",
+     "es": "informática",
+     "example": "We learned to use spreadsheets in computer studies.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-drama",
+     "en": "drama",
+     "es": "teatro",
+     "example": "I was in a play in drama class.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-economics",
+     "en": "economics",
+     "es": "economía",
+     "example": "My sister majored in economics.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-geography",
+     "en": "geography",
+     "es": "geografía",
+     "example": "In geography we learned the capitals.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-geometry",
+     "en": "geometry",
+     "es": "geometría",
+     "example": "Geometry has triangles and circles."
+    },
+    {
+     "id": "w-gymnastics",
+     "en": "gymnastics",
+     "es": "gimnasia",
+     "example": "She was on the gymnastics team."
+    },
+    {
+     "id": "w-history",
+     "en": "history",
+     "es": "historia",
+     "example": "History was my favorite class.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-literature",
+     "en": "literature",
+     "es": "literatura",
+     "example": "We read a novel in literature.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-physics",
+     "en": "physics",
+     "es": "física",
+     "example": "I failed physics.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-pe",
+     "en": "P.E. (physical education)",
+     "es": "educación física",
+     "example": "We played soccer in P.E."
+    }
+   ]
+  },
+  {
+   "id": "v-school-life",
+   "kind": "vocab",
+   "title": "School and learning",
+   "words": [
+    {
+     "id": "w-take-subject",
+     "en": "take (a subject)",
+     "es": "cursar, llevar (una materia)",
+     "example": "I took French for three years.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-drop-course",
+     "en": "drop a course",
+     "es": "dejar una materia",
+     "example": "He dropped the course because it was too hard.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-get-into-uni",
+     "en": "get into university",
+     "es": "ser admitido en la universidad",
+     "example": "She got into university in 2012.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-major-in",
+     "en": "major in (biology)",
+     "es": "especializarse en",
+     "example": "I majored in economics.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-graduate",
+     "en": "graduate",
+     "es": "graduarse",
+     "example": "They graduated in 2015.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-quit-school",
+     "en": "quit (school)",
+     "es": "dejar (la escuela)",
+     "example": "He quit school at sixteen.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-get-along",
+     "en": "get along with (someone)",
+     "es": "llevarse bien con",
+     "example": "I got along with all my classmates.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-required",
+     "en": "required",
+     "es": "obligatorio",
+     "example": "English is a required subject.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-useful",
+     "en": "useful",
+     "es": "útil",
+     "example": "Math is useful in many jobs.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-foreign-language",
+     "en": "foreign language",
+     "es": "idioma extranjero",
+     "example": "I studied a foreign language at school.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-fail-exam",
+     "en": "fail an exam",
+     "es": "reprobar un examen",
+     "example": "I failed the physics exam.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-get-grade",
+     "en": "get an A / a good grade",
+     "es": "sacar 10 / buena calificación",
+     "example": "She got an A in history.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "e-correct",
+   "kind": "expressions",
+   "title": "Correcting yourself and contrasting",
+   "html": "<p>When you remember something, sometimes you make a mistake. In English you correct yourself with these expressions:</p><ul><li><strong>Well, …</strong> — to start remembering: <em>Well, I remember my first day.</em></li><li><strong>Actually, …</strong> — to correct or make something more exact: <em>I was five. Actually, I was six.</em></li><li><strong>No, wait. …</strong> — you realize you made a mistake: <em>It was 1999… no, wait, it was 2000.</em></li><li><strong>I mean, …</strong> — to correct a word or a name: <em>My teacher, I mean, my coach, called my mom.</em></li></ul><p>To connect ideas that contrast, use <strong>except (for)</strong> or <strong>apart from</strong> (except, other than):</p><ul><li>We agreed on most things <strong>except (for)</strong> the car. = … <strong>apart from</strong> the car.</li><li>I didn't like my classes <strong>except for</strong> art.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "was / were born",
+   "instructions": "Complete or correct with was / were born.",
+   "topic": "g-be-born",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "I ___ born in Guadalajara.",
+     "answers": [
+      "was"
+     ],
+     "explain": "With I: was."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "My parents ___ born in a small town.",
+     "answers": [
+      "were"
+     ],
+     "explain": "Plural subject: were."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "___ you born in Mexico City?",
+     "answers": [
+      "Were"
+     ],
+     "explain": "Question with you: Were + subject + born."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "Where ___ your sister born?",
+     "answers": [
+      "was"
+     ],
+     "explain": "Singular subject: was."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "My brother ___ born in Chicago; he was born in Tijuana.",
+     "answers": [
+      "wasn't",
+      "was not"
+     ],
+     "explain": "Negative: wasn't born."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "Were your grandparents born here? — No, they ___.",
+     "answers": [
+      "weren't",
+      "were not"
+     ],
+     "explain": "Negative short answer: No, they weren't."
+    },
+    {
+     "id": "A7",
+     "type": "choice",
+     "prompt": "When ___ your mother born?",
+     "options": [
+      "did",
+      "was",
+      "were"
+     ],
+     "answer": 1,
+     "explain": "Mother is singular: was."
+    },
+    {
+     "id": "A8",
+     "type": "fix",
+     "prompt": "Where did you born?",
+     "answers": [
+      "Where were you born?"
+     ],
+     "explain": "With born, use was / were, not did."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Past simple: regular, irregular and questions",
+   "instructions": "Choose or complete with the correct past simple form.",
+   "topic": "g-past-simple",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "We ___ (move) to Monterrey in 2010.",
+     "answers": [
+      "moved"
+     ],
+     "explain": "Regular verb ending in e: + d."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "I ___ (go) to a public school.",
+     "answers": [
+      "went"
+     ],
+     "explain": "Go is irregular: went."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "She didn't ___ (like) math at school.",
+     "answers": [
+      "like"
+     ],
+     "explain": "After didn't, use the base form."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "___ you play soccer when you were a kid?",
+     "answers": [
+      "Did"
+     ],
+     "explain": "Past question: Did + subject + base form."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "Did you ___ a bike as a child?",
+     "options": [
+      "rode",
+      "ride",
+      "riding"
+     ],
+     "answer": 1,
+     "explain": "After did, use the base form: ride."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "I didn't went to kindergarten.",
+     "answers": [
+      "I didn't go to kindergarten.",
+      "I did not go to kindergarten."
+     ],
+     "explain": "After didn't, use the base form."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "Did your parents lived in Puebla?",
+     "answers": [
+      "Did your parents live in Puebla?"
+     ],
+     "explain": "After did, use the base form."
+    },
+    {
+     "id": "B8",
+     "type": "gap",
+     "prompt": "How long ___ you live there?",
+     "answers": [
+      "did"
+     ],
+     "explain": "Information question: wh- + did + subject + base form."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Time expressions",
+   "instructions": "Complete with ago, for, from, to, until, when, in, then or last.",
+   "topic": "g-time-exp",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "I moved here three years ___.",
+     "answers": [
+      "ago"
+     ],
+     "explain": "Period + ago = that many years/days before now."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "We lived in Toluca ___ ten years.",
+     "answers": [
+      "for"
+     ],
+     "explain": "A length of time: for."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "She studied in Spain from 2015 ___ 2018.",
+     "answers": [
+      "to"
+     ],
+     "explain": "from… to shows the start and the end."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "He lived with his grandparents ___ he was twelve.",
+     "answers": [
+      "until"
+     ],
+     "explain": "Until I was twelve: until + sentence."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "I started school ___ 2001.",
+     "options": [
+      "in",
+      "ago",
+      "for"
+     ],
+     "answer": 0,
+     "explain": "With a year: in."
+    },
+    {
+     "id": "C6",
+     "type": "gap",
+     "prompt": "I was five years old ___ I started school.",
+     "answers": [
+      "when"
+     ],
+     "explain": "When + sentence: when."
+    },
+    {
+     "id": "C7",
+     "type": "choice",
+     "prompt": "My family moved here ___ year.",
+     "options": [
+      "last",
+      "in last",
+      "ago"
+     ],
+     "answer": 0,
+     "explain": "Last year, no in."
+    },
+    {
+     "id": "C8",
+     "type": "gap",
+     "prompt": "First I studied. ___ I worked in a store.",
+     "answers": [
+      "Then"
+     ],
+     "explain": "Then introduces the next action."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "all, most, some, a few, none",
+   "instructions": "Choose or complete with the correct quantity expression.",
+   "topic": "g-determiners",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "___ people in my town drive a car.",
+     "options": [
+      "Most of",
+      "Most",
+      "Most the"
+     ],
+     "answer": 1,
+     "explain": "General: most, no of."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "___ my classmates took English.",
+     "options": [
+      "Most of",
+      "Most",
+      "Most the"
+     ],
+     "answer": 0,
+     "explain": "With my, you need of."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "___ my friends failed the exam. Everybody passed!",
+     "options": [
+      "None of",
+      "No",
+      "None"
+     ],
+     "answer": 0,
+     "explain": "Before my + of: none of."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "___ students study Latin in my country.",
+     "options": [
+      "None of",
+      "No",
+      "None"
+     ],
+     "answer": 1,
+     "explain": "Before a noun: no."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "A few ___ the students got an A.",
+     "answers": [
+      "of"
+     ],
+     "explain": "Specific (the students): a few of."
+    },
+    {
+     "id": "D6",
+     "type": "gap",
+     "prompt": "Most of ___ took the bus. (nosotros)",
+     "answers": [
+      "us"
+     ],
+     "explain": "After of, use an object pronoun: us."
+    },
+    {
+     "id": "D7",
+     "type": "gap",
+     "prompt": "My cousins are bilingual. All of ___ speak Spanish and English.",
+     "answers": [
+      "them"
+     ],
+     "explain": "Object pronoun: them."
+    },
+    {
+     "id": "D8",
+     "type": "fix",
+     "prompt": "Most of people in my town are friendly.",
+     "answers": [
+      "Most people in my town are friendly."
+     ],
+     "explain": "In a general sense, do not use of."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: subjects and school",
+   "instructions": "Complete with the word that fits.",
+   "topic": "v-subjects",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "In ___ class we paint and draw.",
+     "answers": [
+      "art"
+     ],
+     "explain": "Painting and drawing: art."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "She sings in the school ___.",
+     "answers": [
+      "choir"
+     ],
+     "explain": "A group that sings: choir."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "In ___ we study plants and animals.",
+     "answers": [
+      "biology"
+     ],
+     "explain": "Plants and animals: biology."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "In ___ we learn about Mexico's past.",
+     "answers": [
+      "history"
+     ],
+     "explain": "The past: history."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "My brother wants to ___ in economics at university. (especializarse)",
+     "answers": [
+      "major"
+     ],
+     "explain": "major in = to specialize in."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "I ___ the course because it was too hard. (dejar)",
+     "answers": [
+      "dropped"
+     ],
+     "explain": "Past of drop a course: dropped."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "She studied hard and got ___ university.",
+     "answers": [
+      "into"
+     ],
+     "explain": "get into university."
+    },
+    {
+     "id": "E8",
+     "type": "gap",
+     "prompt": "We played soccer in P.E., or physical ___.",
+     "answers": [
+      "education"
+     ],
+     "explain": "P.E. = physical education."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Correcting yourself and contrasting",
+   "instructions": "Choose or complete with the right expression.",
+   "topic": "e-correct",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "\"I started school at six. ___, I was five.\"",
+     "options": [
+      "Actually,",
+      "Also,",
+      "Then,"
+     ],
+     "answer": 0,
+     "explain": "Actually corrects a fact."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "\"My teacher, ___, my coach, called my mom.\"",
+     "options": [
+      "I mean",
+      "I say",
+      "I think"
+     ],
+     "answer": 0,
+     "explain": "I mean corrects a word."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "I liked all my subjects ___ for chemistry.",
+     "answers": [
+      "except"
+     ],
+     "explain": "except for = all of it, but not this part."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "We agreed on most things, apart ___ the music.",
+     "answers": [
+      "from"
+     ],
+     "explain": "apart from = other than this."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "\"It was in 2009. Uh, ___... it was 2010.\"",
+     "options": [
+      "no, wait",
+      "because",
+      "except"
+     ],
+     "answer": 0,
+     "explain": "No, wait introduces the correction."
+    },
+    {
+     "id": "F6",
+     "type": "translate",
+     "prompt": "Me gustaron todas mis materias excepto la física.",
+     "answers": [
+      "I liked all my subjects except for physics.",
+      "I liked all my subjects except physics.",
+      "I liked all my subjects apart from physics.",
+      "I liked all my classes except for physics.",
+      "I liked all my classes except physics.",
+      "I liked all my classes apart from physics.",
+      "I liked all the subjects except for physics.",
+      "I liked all the subjects except physics."
+     ],
+     "explain": "Except (for) / apart from + what is excluded."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to make a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Where",
+      "were",
+      "you",
+      "born"
+     ],
+     "answers": [
+      "Where were you born?"
+     ],
+     "explain": "Wh- + were + subject + born."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "I",
+      "didn't",
+      "go",
+      "to",
+      "school",
+      "until",
+      "I",
+      "was",
+      "six"
+     ],
+     "answers": [
+      "I didn't go to school until I was six."
+     ],
+     "explain": "Didn't + base form; until + sentence."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Most",
+      "of",
+      "my",
+      "friends",
+      "studied",
+      "English"
+     ],
+     "answers": [
+      "Most of my friends studied English."
+     ],
+     "explain": "Most of + my + noun."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Did",
+      "you",
+      "grow",
+      "up",
+      "in",
+      "a",
+      "small",
+      "town"
+     ],
+     "answers": [
+      "Did you grow up in a small town?"
+     ],
+     "explain": "Did + subject + base verb."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "We",
+      "moved",
+      "to",
+      "another",
+      "city",
+      "three",
+      "years",
+      "ago"
+     ],
+     "answers": [
+      "We moved to another city three years ago."
+     ],
+     "explain": "Period + ago at the end."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "A",
+      "few",
+      "of",
+      "the",
+      "students",
+      "got",
+      "an",
+      "A"
+     ],
+     "answers": [
+      "A few of the students got an A."
+     ],
+     "explain": "A few of + the + noun."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Nací en Puebla en 1995.",
+     "answers": [
+      "I was born in Puebla in 1995.",
+      "I was born in 1995 in Puebla."
+     ],
+     "explain": "Was born + in + place / year."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿Dónde crecieron tus padres?",
+     "answers": [
+      "Where did your parents grow up?"
+     ],
+     "explain": "Where + did + subject + grow up."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Vivimos en Querétaro durante cinco años.",
+     "answers": [
+      "We lived in Queretaro for five years.",
+      "We lived in Querétaro for five years."
+     ],
+     "explain": "For + length of time."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "No fui a la escuela hasta los seis años.",
+     "answers": [
+      "I didn't go to school until I was six.",
+      "I didn't go to school until I was six years old.",
+      "I did not go to school until I was six.",
+      "I did not go to school until I was six years old."
+     ],
+     "explain": "Until + sentence: until I was six."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "La mayoría de mis amigos estudió inglés.",
+     "answers": [
+      "Most of my friends studied English.",
+      "Most of my friends learned English."
+     ],
+     "explain": "Most of + my + noun."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Me gustaban todas las materias excepto la física.",
+     "answers": [
+      "I liked all my subjects except for physics.",
+      "I liked all my subjects except physics.",
+      "I liked all my subjects apart from physics.",
+      "I liked all the subjects except for physics.",
+      "I liked all the subjects except physics.",
+      "I liked all the subjects apart from physics.",
+      "I liked every subject except for physics.",
+      "I liked every subject except physics.",
+      "I liked every subject apart from physics."
+     ],
+     "explain": "Except (for) / apart from."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on several topics from this unit (the last two review earlier units of this level).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "She ___ born in Oaxaca.",
+     "options": [
+      "is",
+      "was",
+      "were"
+     ],
+     "answer": 1,
+     "explain": "Birth in the past, singular: was."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Where ___ you grow up?",
+     "answers": [
+      "did"
+     ],
+     "explain": "Past question: did + subject + base form."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "My parents was born in Chiapas.",
+     "answers": [
+      "My parents were born in Chiapas."
+     ],
+     "explain": "Plural subject: were."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "I met my best friend two years ___.",
+     "options": [
+      "ago",
+      "for",
+      "until"
+     ],
+     "answer": 0,
+     "explain": "Two years ago: two years ago."
+    },
+    {
+     "id": "M5",
+     "type": "gap",
+     "prompt": "___ of the students passed; everybody failed. (ninguno)",
+     "answers": [
+      "None"
+     ],
+     "explain": "None of + the + noun."
+    },
+    {
+     "id": "M6",
+     "type": "translate",
+     "prompt": "¿Naciste en la Ciudad de México?",
+     "answers": [
+      "Were you born in Mexico City?"
+     ],
+     "explain": "Were + you + born + in."
+    },
+    {
+     "id": "M7",
+     "type": "fix",
+     "prompt": "She studyed biology for three years.",
+     "answers": [
+      "She studied biology for three years."
+     ],
+     "explain": "Consonant + y → ied."
+    },
+    {
+     "id": "M8",
+     "type": "choice",
+     "prompt": "A group of people who sing together is a ___.",
+     "options": [
+      "band",
+      "choir",
+      "drama"
+     ],
+     "answer": 1,
+     "explain": "A group that sings: choir."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "He ___ (not / like) spicy food. (review: present simple)",
+     "answers": [
+      "doesn't like",
+      "does not like"
+     ],
+     "explain": "Simple present with he: doesn't + base form."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "I can ___ the guitar, but I can't sing. (review: can)",
+     "answers": [
+      "play"
+     ],
+     "explain": "Can + base verb; play with instruments."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write 7 to 9 sentences (60–100 words) about your childhood: where you were born, where you grew up, a move or a change (with ago, for or until), which school subjects you liked, and one sentence with most of / a few of / none of.",
+   "targets": [
+    "was born",
+    "simple past",
+    "time expressions",
+    "determiners with of"
+   ],
+   "checklist": [
+    "I was born in… (with was)",
+    "At least three past verbs (one irregular)",
+    "A time expression: ago, for, until or from… to",
+    "One sentence with most of / a few of / none of + the or my",
+    "didn't + base form if you use a negative",
+    "Between 60 and 100 words"
+   ],
+   "model": "I was born in Guadalajara in 1990. I grew up in a small house near the center. Twenty years ago, we moved to Mexico City, and I lived there for ten years. I studied at a public school until I was eighteen. I liked math and art, but I didn't like history. Most of my teachers were kind. A few of my classmates were my best friends. None of my cousins lived near us. Now I live in Puebla."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a mini interview of 5 to 6 lines (60–100 words): one person asks about the other's childhood (with Where were you born? and Did you…?) and the other person corrects themselves once with Actually or No, wait.",
+   "targets": [
+    "past questions",
+    "was / were born",
+    "correcting yourself when speaking"
+   ],
+   "checklist": [
+    "One question with was / were born",
+    "One question with did + subject + base verb",
+    "One correction with Actually or No, wait",
+    "Short answers: Yes, I did. / No, I wasn't.",
+    "Between 60 and 100 words in total"
+   ],
+   "model": "A: Where were you born?\nB: I was born in Monterrey. Actually, I was born in Saltillo, but we moved to Monterrey when I was two.\nA: Did you like your school there?\nB: Yes, I did. I had many friends, and I played soccer every day.\nA: Were you a good student?\nB: No, I wasn't, but I loved my teachers. No, wait, I loved only my art teacher!"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Between two countries",
+   "intro": "Read Daniela's text and answer the questions.",
+   "paragraphs": [
+    "My name is Daniela, and I'm twenty-six. I was born in Los Angeles in 1999, but my parents are from Zacatecas. They moved to California in 1995 because there was more work there. My father worked in a restaurant for ten years, and my mother cleaned offices at night. We spoke Spanish at home, so I grew up bilingual. I still remember the smell of my grandmother's kitchen in Zacatecas.",
+    "When I was eight, we moved to Guadalajara. I didn't want to leave my close friends, and I cried on the plane. At first, school was difficult. I didn't understand some words in Spanish class, and I got into trouble once because I talked in English! But after a few months, I made new friends. Most of my classmates were kind, and all of them wanted to practice English with me.",
+    "My favorite subjects were art and choir. I didn't like algebra, but I loved drama. I stayed in Guadalajara until I was eighteen. Then I went to university in Monterrey, where I majored in economics. I got along with everybody there, except for one roommate. Last year I got a job in Mexico City. My boss asks me, \"Where are you from?\" and I say, \"Well, actually, I'm from two places!\""
+   ],
+   "glossary": [
+    {
+     "en": "bilingual",
+     "def": "able to speak two languages well"
+    },
+    {
+     "en": "cleaned",
+     "def": "made clean (past of clean)"
+    },
+    {
+     "en": "cried",
+     "def": "had tears on your face because you were sad (past of cry)"
+    },
+    {
+     "en": "get into trouble",
+     "def": "to have problems because you did something wrong"
+    },
+    {
+     "en": "made new friends",
+     "def": "started to be friends with new people"
+    },
+    {
+     "en": "majored in",
+     "def": "studied one subject mainly at university"
+    },
+    {
+     "en": "got along with",
+     "def": "had a good relationship with someone"
+    },
+    {
+     "en": "roommate",
+     "def": "person who shares a room or apartment with you"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Daniela was born in Zacatecas.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "She was born in Los Angeles; her parents are from Zacatecas."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Why did her parents move to California?",
+     "options": [
+      "There was more work there",
+      "They wanted to study",
+      "Their family lived there"
+     ],
+     "answer": 0,
+     "explain": "They moved because there was more work."
+    },
+    {
+     "id": "R3",
+     "type": "gap",
+     "prompt": "Her father worked in a restaurant for ___ years.",
+     "answers": [
+      "ten",
+      "10"
+     ],
+     "explain": "For ten years."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "How old was Daniela when they moved to Guadalajara?",
+     "options": [
+      "Six",
+      "Eight",
+      "Eighteen"
+     ],
+     "answer": 1,
+     "explain": "When I was eight, we moved to Guadalajara."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "Most of her classmates in Guadalajara were kind.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Most of my classmates were kind."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "Where did she study economics?",
+     "options": [
+      "In Guadalajara",
+      "In Los Angeles",
+      "In Monterrey"
+     ],
+     "answer": 2,
+     "explain": "She went to university in Monterrey and majored in economics."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "She stayed in Guadalajara until she was ___.",
+     "answers": [
+      "eighteen",
+      "18"
+     ],
+     "explain": "Until I was eighteen."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Old school photos",
+   "intro": "Listen to the conversation between Ben and Marisol. You can repeat it.",
+   "lines": [
+    {
+     "who": "Ben",
+     "voice": "glassy",
+     "text": "Is this you in the photo, Marisol?"
+    },
+    {
+     "who": "Marisol",
+     "voice": "airy",
+     "text": "Yes, it is! That's my first day of school. I was five. No, wait... I was six."
+    },
+    {
+     "who": "Ben",
+     "voice": "glassy",
+     "text": "Where were you born?"
+    },
+    {
+     "who": "Marisol",
+     "voice": "airy",
+     "text": "I was born in Veracruz, but we moved to Mexico City when I was two."
+    },
+    {
+     "who": "Ben",
+     "voice": "glassy",
+     "text": "Did you like your school?"
+    },
+    {
+     "who": "Marisol",
+     "voice": "airy",
+     "text": "Yes, I did. I had two close friends, Paty and Ana. We played together for ten years."
+    },
+    {
+     "who": "Ben",
+     "voice": "glassy",
+     "text": "What was your favorite class?"
+    },
+    {
+     "who": "Marisol",
+     "voice": "airy",
+     "text": "Art! Most of my classes were boring, but I loved art. I didn't like math at all."
+    },
+    {
+     "who": "Ben",
+     "voice": "glassy",
+     "text": "Do you talk to Paty and Ana now?"
+    },
+    {
+     "who": "Marisol",
+     "voice": "airy",
+     "text": "Paty, yes. We talk every week. Ana moved to Canada three years ago, so I don't see her much."
+    },
+    {
+     "who": "Ben",
+     "voice": "glassy",
+     "text": "That's sad. Did you learn English at school?"
+    },
+    {
+     "who": "Marisol",
+     "voice": "airy",
+     "text": "Only a few of us took English, but I studied it until I was eighteen."
+    },
+    {
+     "who": "Ben",
+     "voice": "glassy",
+     "text": "Wow, that's a long time!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "How old was Marisol on her first day of school?",
+     "options": [
+      "Five",
+      "Six",
+      "Eight"
+     ],
+     "answer": 1,
+     "explain": "It is corrected: «I was five. No, wait... I was six»."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Where was Marisol born?",
+     "options": [
+      "In Mexico City",
+      "In Veracruz",
+      "In Canada"
+     ],
+     "answer": 1,
+     "explain": "I was born in Veracruz."
+    },
+    {
+     "id": "L3",
+     "type": "gap",
+     "prompt": "Marisol played with her close friends for ___ years.",
+     "answers": [
+      "ten",
+      "10"
+     ],
+     "explain": "We played together for ten years."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What was her favorite class?",
+     "options": [
+      "Art",
+      "Math",
+      "History"
+     ],
+     "answer": 0,
+     "explain": "Art! I loved art."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "Where did Ana move?",
+     "options": [
+      "To Veracruz",
+      "To Mexico City",
+      "To Canada"
+     ],
+     "answer": 2,
+     "explain": "Ana moved to Canada three years ago."
+    },
+    {
+     "id": "L6",
+     "type": "gap",
+     "prompt": "Marisol studied English until she was ___.",
+     "answers": [
+      "eighteen",
+      "18"
+     ],
+     "explain": "Until I was eighteen."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "I was born in Veracruz, but we moved to Mexico City.",
+     "answers": [
+      "I was born in Veracruz, but we moved to Mexico City."
+     ],
+     "explain": "was born + place; moved is a regular past verb."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "We played together for ten years.",
+     "answers": [
+      "We played together for ten years."
+     ],
+     "explain": "For + length of time."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Ana moved to Canada three years ago.",
+     "answers": [
+      "Ana moved to Canada three years ago."
+     ],
+     "explain": "Period + ago = that many years/days before now."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Only a few of us took English.",
+     "answers": [
+      "Only a few of us took English."
+     ],
+     "explain": "A few of + object pronoun (us)."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about where you were born and where you grew up.",
+     "questions": [
+      "Where were you born?",
+      "Where did you grow up?",
+      "Did you move to another city or country?",
+      "How long did you live there?"
+     ],
+     "model": "I was born in Puebla in 1990. I grew up there, and I lived in the same house for twelve years. Then we moved to Mexico City. I didn't like the city at first, but I made new friends.",
+     "checklist": [
+      "was born + place",
+      "Past verbs (grew up, moved)",
+      "for / ago / until",
+      "didn't + base form"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Tell how your school days were: subjects, friends and memories.",
+     "questions": [
+      "What was your favorite subject?",
+      "Did you have a close friend at school?",
+      "Did you get into trouble?",
+      "What did you study until you were eighteen?"
+     ],
+     "model": "My favorite subject was history. I had two close friends, and we played soccer every day. Most of my teachers were nice, but none of them liked noisy students. I didn't get into trouble often.",
+     "checklist": [
+      "Past simple",
+      "Most of / none of + my or the",
+      "Complete answers",
+      "Pronunciation of -ed endings"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Tell a memory and correct yourself once with Actually or No, wait.",
+     "questions": [
+      "Do you remember your first day of school?",
+      "How old were you?",
+      "Who was your teacher?",
+      "What happened?"
+     ],
+     "model": "Well, I remember my first day of school. I was five. Actually, I was six. My teacher, I mean, my teacher's assistant, gave me a toy. I cried, but then I made a friend.",
+     "checklist": [
+      "Well / Actually / No, wait / I mean",
+      "Age with was",
+      "Past simple",
+      "A natural correction"
+     ]
+    }
+   ],
+   "repeat": [
+    "Where were you born?",
+    "I was born in Puebla in 1995.",
+    "We lived there for ten years.",
+    "I didn't go to school until I was six.",
+    "Most of my friends studied English.",
+    "Well, actually, it was five years ago."
+   ]
+  }
+ }
+}

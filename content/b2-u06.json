@@ -1,0 +1,1635 @@
+{
+ "id": "b2-u06",
+ "level": "A1",
+ "n": 6,
+ "title": "Different strokes",
+ "goals": [
+  "Describe lifestyles with adjectives (exciting, stressful, relaxing, unhealthy, boring, green).",
+  "Say what is happening now or in this period with the present continuous.",
+  "Know when to use the present continuous and when to use the present simple, and which verbs do not go in the continuous.",
+  "Understand and say numbers: ages, times, phone numbers, years, dates and amounts of money.",
+  "Talk about green habits (save water, reuse bags, turn off the lights).",
+  "Make simple sentences (subject + verb + object) and write a paragraph about World Environment Day."
+ ],
+ "learn": [
+  {
+   "id": "v-lifestyle",
+   "kind": "vocab",
+   "title": "Lifestyle adjectives",
+   "words": [
+    {
+     "id": "w-exciting",
+     "en": "exciting",
+     "es": "emocionante",
+     "example": "A trip to a new country is exciting.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-stressful",
+     "en": "stressful",
+     "es": "estresante",
+     "example": "My job is stressful in December."
+    },
+    {
+     "id": "w-relaxing",
+     "en": "relaxing",
+     "es": "relajante",
+     "example": "Reading by the sea is relaxing.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-unhealthy",
+     "en": "unhealthy",
+     "es": "poco saludable",
+     "example": "Eating fast food every day is unhealthy."
+    },
+    {
+     "id": "w-boring",
+     "en": "boring",
+     "es": "aburrido",
+     "example": "Waiting at the bank is boring.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-green",
+     "en": "green",
+     "es": "ecológico, verde",
+     "example": "A green lifestyle protects the planet.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-present-progressive",
+   "kind": "grammar",
+   "title": "Present continuous",
+   "html": "<p>We use the <em>present continuous</em> to talk about what is <strong>happening right now</strong> or <strong>in this period</strong>. Form: subject + <em>be</em> (am / is / are) + verb with <em>-ing</em>.</p><table><thead><tr><th>Affirmative</th><th>Negative</th><th>Question</th><th>Short answer</th></tr></thead><tbody><tr><td>I am working. (I'm)</td><td>I'm not working.</td><td>Am I working?</td><td>Yes, I am. / No, I'm not.</td></tr><tr><td>He/She/It is working.</td><td>He/She/It isn't working.</td><td>Is he working?</td><td>Yes, he is. / No, he isn't.</td></tr><tr><td>You/We/They are working.</td><td>You/We/They aren't working.</td><td>Are they working?</td><td>Yes, we are. / No, we aren't.</td></tr></tbody></table><p>Question words: <strong>Wh- + be + subject + verb-ing</strong> (<em>What are you doing? Where is he working?</em>).</p><table><thead><tr><th>Spelling of -ing</th><th>Examples</th></tr></thead><tbody><tr><td>Normal: add -ing</td><td>wait → waiting, play → playing, study → studying</td></tr><tr><td>Ends in -e: drop the e</td><td>take → taking, write → writing, live → living</td></tr><tr><td>One syllable, consonant-vowel-consonant: double the consonant</td><td>run → running, swim → swimming, stop → stopping</td></tr></tbody></table><p>Time expressions: <em>now, right now, at the moment, today, this week, this semester, these days</em>.</p>",
+   "watch": [
+    {
+     "wrong": "The boy is play with a dog.",
+     "right": "The boy is playing with a dog.",
+     "why": "We need the -ing form."
+    },
+    {
+     "wrong": "I studying now.",
+     "right": "I am studying now.",
+     "why": "The verb be is required."
+    },
+    {
+     "wrong": "Are you working? Yes, I'm.",
+     "right": "Are you working? Yes, I am.",
+     "why": "The short affirmative answer is not contracted."
+    },
+    {
+     "wrong": "She is runing.",
+     "right": "She is running.",
+     "why": "The consonant is doubled: running."
+    }
+   ]
+  },
+  {
+   "id": "v-numbers",
+   "kind": "vocab",
+   "title": "Numbers and personal information (listening)",
+   "words": [
+    {
+     "id": "w-credit-card-statement",
+     "en": "credit card statement",
+     "es": "estado de cuenta de la tarjeta",
+     "example": "He is calling the bank about his credit card statement.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-account-number",
+     "en": "account number",
+     "es": "número de cuenta",
+     "example": "What is your account number?",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-id-number",
+     "en": "ID number",
+     "es": "número de identificación",
+     "example": "My ID number is on my card.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-amount",
+     "en": "amount",
+     "es": "cantidad, importe",
+     "example": "What is the amount on the statement?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-charge",
+     "en": "charge",
+     "es": "cargo",
+     "example": "There is a charge and I don't know what it is for.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-date-of-birth",
+     "en": "date of birth",
+     "es": "fecha de nacimiento",
+     "example": "My date of birth is 04/17/1993.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-dates-from",
+     "en": "This building dates from …",
+     "es": "Este edificio es de …",
+     "example": "This building dates from 1949.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "s-numbers",
+   "kind": "strategy",
+   "title": "How numbers are said",
+   "html": "<table><thead><tr><th>Type</th><th>Written as</th><th>Said as</th></tr></thead><tbody><tr><td>Age</td><td>29</td><td>I'm twenty-nine.</td></tr><tr><td>Time</td><td>4:05</td><td>four oh five</td></tr><tr><td>Phone number</td><td>555 4313237</td><td>each digit separately: five five five, four three one…</td></tr><tr><td>Year</td><td>1949</td><td>nineteen forty-nine</td></tr><tr><td>Date (US: month / day / year)</td><td>04/17/1993</td><td>April seventeenth, nineteen ninety-three</td></tr></tbody></table>"
+  },
+  {
+   "id": "v-green",
+   "kind": "vocab",
+   "title": "Green lifestyle",
+   "words": [
+    {
+     "id": "w-buy-organic",
+     "en": "buy organic vegetables",
+     "es": "comprar verduras orgánicas",
+     "example": "I buy organic vegetables at the market.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-clean-up-trash",
+     "en": "clean up trash",
+     "es": "recoger la basura",
+     "example": "We clean up trash in the park.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-reuse-bags",
+     "en": "reuse plastic bags",
+     "es": "reutilizar bolsas de plástico",
+     "example": "Don't throw away your bags: reuse them.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-save-water",
+     "en": "save water",
+     "es": "ahorrar agua",
+     "example": "Save water by fixing leaks.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-share-a-ride",
+     "en": "share a ride / get a ride",
+     "es": "compartir el coche / ir con alguien",
+     "example": "I share a ride to work with a friend.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-turn-off-lights",
+     "en": "turn off the lights",
+     "es": "apagar las luces",
+     "example": "Turn off the lights when you leave.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-turn-down-heating",
+     "en": "turn down the heating",
+     "es": "bajar la calefacción",
+     "example": "Someone is turning down the central heating.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-recycle",
+     "en": "recycle bottles and paper",
+     "es": "reciclar botellas y papel",
+     "example": "We recycle bottles and paper.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-buy-local-food",
+     "en": "buy local food",
+     "es": "comprar comida local",
+     "example": "The supermarket is selling local food.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-reusable-bags",
+     "en": "use reusable bags",
+     "es": "usar bolsas reutilizables",
+     "example": "Please use reusable bags.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-collect-rainwater",
+     "en": "collect rainwater",
+     "es": "recoger agua de lluvia",
+     "example": "We collect rainwater for the garden.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-cold-wash",
+     "en": "do a cold clothes wash",
+     "es": "lavar la ropa con agua fría",
+     "example": "Do a cold clothes wash to save energy.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fix-leaks",
+     "en": "fix water leaks",
+     "es": "arreglar fugas de agua",
+     "example": "Fix water leaks at home.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-public-transportation",
+     "en": "take public transportation",
+     "es": "usar transporte público",
+     "example": "I take public transportation.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-ride-a-bike",
+     "en": "ride a bike / walk",
+     "es": "ir en bici / caminar",
+     "example": "Many people ride bikes today.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-plant-trees",
+     "en": "plant trees",
+     "es": "plantar árboles",
+     "example": "We are planting trees in the park.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pick-up-trash",
+     "en": "pick up trash",
+     "es": "recoger basura",
+     "example": "The team is picking up trash.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-organic",
+     "en": "organic",
+     "es": "orgánico",
+     "example": "Buy organic food.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "g-simple-vs-progressive",
+   "kind": "grammar",
+   "title": "Present continuous vs. present simple",
+   "html": "<table><thead><tr><th>Present simple</th><th>Present continuous</th></tr></thead><tbody><tr><td>Habits, routines, things that are always true or permanent</td><td>What is happening now or in this period</td></tr><tr><td>I usually work for two months every summer.</td><td>I'm working at the park at the moment.</td></tr><tr><td>Raoul usually plays squash three times a week.</td><td>Albert is working very hard on his project today.</td></tr><tr><td>What do you do? (what is your job?)</td><td>What are you doing? (what are you doing now?)</td></tr></tbody></table><ul><li>Clues for the simple: <em>every day, usually, always, often, three times a week</em>.</li><li>Clues for the continuous: <em>now, right now, at the moment, today, this week</em>.</li></ul><p><strong>State verbs: we do not use them in the continuous.</strong> They express feelings (<em>like, love, hate, need</em>), thoughts (<em>know, think, want, understand, mean</em>), senses (<em>see, hear, smell, taste</em>) and possession (<em>belong, have</em> = own).</p><p><em>I love my job. / She doesn't know Ben.</em> But <em>have</em> as an activity can use the continuous: <em>They are having a picnic.</em></p>",
+   "watch": [
+    {
+     "wrong": "I'm loving you. / I'm wanting a coffee.",
+     "right": "I love you. / I want a coffee.",
+     "why": "State verbs do not go in the continuous."
+    },
+    {
+     "wrong": "She isn't knowing Ben.",
+     "right": "She doesn't know Ben.",
+     "why": "Know is a state verb: present simple."
+    },
+    {
+     "wrong": "Raoul is usually playing squash.",
+     "right": "Raoul usually plays squash.",
+     "why": "We use the present simple with usually."
+    },
+    {
+     "wrong": "What do you do now? (ahora mismo)",
+     "right": "What are you doing now?",
+     "why": "For what is happening now: present continuous."
+    }
+   ]
+  },
+  {
+   "id": "g-simple-sentences",
+   "kind": "grammar",
+   "title": "Simple sentences: subject + verb + object",
+   "html": "<p>English has an almost fixed order: <strong>subject + verb + object</strong>. If one part is missing, the sentence is incomplete.</p><table><thead><tr><th>Subject</th><th>Verb</th><th>Object</th></tr></thead><tbody><tr><td>Joanna</td><td>eats</td><td>organic food</td></tr><tr><td>Ryan</td><td>recycles</td><td>bottles and jars</td></tr><tr><td>Martha and Leo</td><td>waste</td><td>a lot of water</td></tr></tbody></table><p>Adverbs (<em>usually, always, often</em>) go between the subject and the verb: <em>I usually ride a bike.</em></p>",
+   "watch": [
+    {
+     "wrong": "Eats organic food.",
+     "right": "She eats organic food.",
+     "why": "The subject is required."
+    },
+    {
+     "wrong": "I always the computer turn off.",
+     "right": "I always turn off the computer.",
+     "why": "Order: subject + adverb + verb + object."
+    },
+    {
+     "wrong": "Some cars use too much.",
+     "right": "Some cars use too much gas.",
+     "why": "The object is missing: what do they use?"
+    }
+   ]
+  },
+  {
+   "id": "v-environment",
+   "kind": "vocab",
+   "title": "Environment and video",
+   "words": [
+    {
+     "id": "w-world-environment-day",
+     "en": "World Environment Day",
+     "es": "Día Mundial del Medio Ambiente",
+     "example": "World Environment Day is on June 5th.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-annual-event",
+     "en": "annual event",
+     "es": "evento anual",
+     "example": "It is an annual event.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-promote",
+     "en": "to promote",
+     "es": "promover",
+     "example": "Countries promote positive actions.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-no-car-day",
+     "en": "No Car Day",
+     "es": "día sin coche",
+     "example": "Today is a No Car Day in my city.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-carbon-footprint",
+     "en": "carbon footprint",
+     "es": "huella de carbono",
+     "example": "Your carbon footprint shows your effect on the environment.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-climate-change",
+     "en": "climate change",
+     "es": "cambio climático",
+     "example": "Climate change is a global problem.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-coral-reefs",
+     "en": "coral reefs",
+     "es": "arrecifes de coral",
+     "example": "Coral reefs are in the ocean."
+    },
+    {
+     "id": "w-ice-caps",
+     "en": "ice caps",
+     "es": "casquetes polares",
+     "example": "You find ice caps near the Arctic and the Antarctic.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-rainforests",
+     "en": "rainforests",
+     "es": "selvas tropicales",
+     "example": "You find rainforests near the equator."
+    },
+    {
+     "id": "w-danger",
+     "en": "danger",
+     "es": "peligro",
+     "example": "The planet is in danger.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-human-activity",
+     "en": "human activity",
+     "es": "actividad humana",
+     "example": "Human activity changes the climate.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-energy",
+     "en": "energy",
+     "es": "energía",
+     "example": "The world's demand for energy is high.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-environment",
+     "en": "environment",
+     "es": "medio ambiente",
+     "example": "Think about the environment.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-generations",
+     "en": "generations",
+     "es": "generaciones",
+     "example": "Protect the earth for future generations.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-protect",
+     "en": "to protect",
+     "es": "proteger",
+     "example": "Be green and protect the earth.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>What are you doing to help?</strong> — ask what someone does for a cause.</li><li><strong>What are you doing these days? — I'm studying at college.</strong> — ask about someone's current period.</li><li><strong>At the moment, … / Right now, …</strong> — talk about what is happening now.</li><li><strong>Can I call you later? I'm eating dinner.</strong> — say that you are busy.</li><li><strong>How green are you?</strong> — title of the unit quiz.</li><li><strong>Can I get a ride with you?</strong> — ask for a lift.</li><li><strong>Good luck!</strong> — wish someone luck.</li><li><strong>Not too bad. / Well done!</strong> — answers about how you are, or a congratulation.</li><li><strong>Don't waste water / electricity.</strong> — green tips with the imperative.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Write the -ing form",
+   "instructions": "Write the -ing form of each verb.",
+   "topic": "g-present-progressive",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "make → ___",
+     "answers": [
+      "making"
+     ],
+     "explain": "Ends in -e: drop the e."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "sit → ___",
+     "answers": [
+      "sitting"
+     ],
+     "explain": "Consonant-vowel-consonant: double the t."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "play → ___",
+     "answers": [
+      "playing"
+     ],
+     "explain": "Normal: add -ing."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "dance → ___",
+     "answers": [
+      "dancing"
+     ],
+     "explain": "Ends in -e: drop the e."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "stop → ___",
+     "answers": [
+      "stopping"
+     ],
+     "explain": "Consonant-vowel-consonant: double the p."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "cook → ___",
+     "answers": [
+      "cooking"
+     ],
+     "explain": "Normal: add -ing."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "shop → ___",
+     "answers": [
+      "shopping"
+     ],
+     "explain": "Consonant-vowel-consonant: double the p."
+    },
+    {
+     "id": "A8",
+     "type": "gap",
+     "prompt": "ride → ___",
+     "answers": [
+      "riding"
+     ],
+     "explain": "Ends in -e: drop the e."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Present continuous: complete",
+   "instructions": "Use the present continuous of the verb in brackets.",
+   "topic": "g-present-progressive",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "Look! Daniel ___ (ride) his bike in the park.",
+     "answers": [
+      "is riding",
+      "'s riding",
+      "s riding"
+     ],
+     "explain": "Daniel = he: is + riding."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "My parents ___ (not / watch) TV right now.",
+     "answers": [
+      "aren't watching",
+      "are not watching"
+     ],
+     "explain": "Negative with they: aren't + -ing."
+    },
+    {
+     "id": "B3",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Are",
+      "you",
+      "listening",
+      "to",
+      "me"
+     ],
+     "answers": [
+      "Are you listening to me?"
+     ],
+     "explain": "Question: be + subject + verb-ing."
+    },
+    {
+     "id": "B4",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "What",
+      "are",
+      "the",
+      "children",
+      "doing"
+     ],
+     "answers": [
+      "What are the children doing?"
+     ],
+     "explain": "Wh- + be + subject + verb-ing."
+    },
+    {
+     "id": "B5",
+     "type": "gap",
+     "prompt": "Sara is cooking dinner and her brother ___ (set) the table.",
+     "answers": [
+      "is setting",
+      "'s setting",
+      "s setting"
+     ],
+     "explain": "Her brother = he: is setting."
+    },
+    {
+     "id": "B6",
+     "type": "gap",
+     "prompt": "I ___ (not / work) today; I'm at home.",
+     "answers": [
+      "am not working",
+      "'m not working",
+      "m not working"
+     ],
+     "explain": "Negative with I: am not + -ing."
+    },
+    {
+     "id": "B7",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Where",
+      "are",
+      "they",
+      "going"
+     ],
+     "answers": [
+      "Where are they going?"
+     ],
+     "explain": "Wh- + be + subject + verb-ing."
+    },
+    {
+     "id": "B8",
+     "type": "gap",
+     "prompt": "Is Lucía studying in the library today? — No, ___. She's at home.",
+     "answers": [
+      "she isn't",
+      "she's not",
+      "she is not",
+      "shes not"
+     ],
+     "explain": "Short negative answer: she isn't."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Present simple or continuous",
+   "instructions": "Choose the correct option.",
+   "topic": "g-simple-vs-progressive",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "Mario ___ basketball every Saturday.",
+     "options": [
+      "plays",
+      "is playing"
+     ],
+     "answer": 0,
+     "explain": "Every Saturday = habit: present simple."
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "Be quiet! The baby ___.",
+     "options": [
+      "sleeps",
+      "is sleeping"
+     ],
+     "answer": 1,
+     "explain": "Right now: present continuous."
+    },
+    {
+     "id": "C3",
+     "type": "choice",
+     "prompt": "I ___ this word.",
+     "options": [
+      "don't understand",
+      "am not understanding"
+     ],
+     "answer": 0,
+     "explain": "Understand is a state verb: simple."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "They ___ the bus to work.",
+     "options": [
+      "are usually taking",
+      "usually take"
+     ],
+     "answer": 1,
+     "explain": "Usually = habit: present simple."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "This week we ___ with my aunt in Oaxaca.",
+     "options": [
+      "stay",
+      "are staying"
+     ],
+     "answer": 1,
+     "explain": "This week = a period of time: continuous."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "___ some coffee?",
+     "options": [
+      "Are you wanting",
+      "Do you want"
+     ],
+     "answer": 1,
+     "explain": "Want is a state verb: simple."
+    },
+    {
+     "id": "C7",
+     "type": "choice",
+     "prompt": "I ___ English is fun.",
+     "options": [
+      "think",
+      "am thinking"
+     ],
+     "answer": 0,
+     "explain": "Think (opinion) is a state verb: simple."
+    },
+    {
+     "id": "C8",
+     "type": "choice",
+     "prompt": "Look! It ___.",
+     "options": [
+      "rains",
+      "is raining"
+     ],
+     "answer": 1,
+     "explain": "Look! = right now: continuous."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Find the mistake",
+   "instructions": "Write the corrected sentence (or fill in the gap in item 5).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "D1",
+     "type": "fix",
+     "prompt": "The children is playing in the yard.",
+     "answers": [
+      "The children are playing in the yard."
+     ],
+     "explain": "Children is plural: are."
+    },
+    {
+     "id": "D2",
+     "type": "fix",
+     "prompt": "I'm liking this song.",
+     "answers": [
+      "I like this song.",
+      "I love this song."
+     ],
+     "explain": "Like is a state verb: simple."
+    },
+    {
+     "id": "D3",
+     "type": "fix",
+     "prompt": "She working at the moment.",
+     "answers": [
+      "She is working at the moment.",
+      "She's working at the moment."
+     ],
+     "explain": "The verb be is missing."
+    },
+    {
+     "id": "D4",
+     "type": "fix",
+     "prompt": "What you are doing?",
+     "answers": [
+      "What are you doing?"
+     ],
+     "explain": "Wh- + be + subject."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "Are you studying now? — Yes, I ___.",
+     "answers": [
+      "am"
+     ],
+     "explain": "The short affirmative answer is not contracted."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "My brother is usually playing soccer on Sundays.",
+     "answers": [
+      "My brother usually plays soccer on Sundays."
+     ],
+     "explain": "With usually: present simple."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Review of earlier lessons",
+   "instructions": "Review exercises: dates, have/has and questions.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "My birthday is on October ___.",
+     "answers": [
+      "twenty-second",
+      "twenty second",
+      "22nd"
+     ],
+     "explain": "Dates use ordinal numbers: twenty-second."
+    },
+    {
+     "id": "E2",
+     "type": "fix",
+     "prompt": "My cousin have a new bike, but I has an old one.",
+     "answers": [
+      "My cousin has a new bike, but I have an old one."
+     ],
+     "explain": "He/she → has; I → have."
+    },
+    {
+     "id": "E3",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "do",
+      "free",
+      "time",
+      "what",
+      "you",
+      "in",
+      "your",
+      "do"
+     ],
+     "answers": [
+      "What do you do in your free time?"
+     ],
+     "explain": "Wh- + do + subject + verb."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Numbers: write how they are said",
+   "instructions": "Write in words how each number is said.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "1987 (year) → ___",
+     "answers": [
+      "nineteen eighty-seven",
+      "nineteen eighty seven"
+     ],
+     "explain": "Years are said in two pairs: nineteen eighty-seven."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "6:15 (time) → ___",
+     "answers": [
+      "six fifteen",
+      "a quarter past six",
+      "quarter past six"
+     ],
+     "explain": "Time: six fifteen."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "555 0192 (phone number) → ___",
+     "answers": [
+      "five five five zero one nine two",
+      "five five five oh one nine two"
+     ],
+     "explain": "Phone numbers: say each digit separately; 0 = zero or oh."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "03/09/2001 (US format) → ___",
+     "answers": [
+      "March ninth two thousand one",
+      "March ninth two thousand and one",
+      "March ninth twenty oh one",
+      "March the ninth two thousand one"
+     ],
+     "explain": "US format: month/day/year, with an ordinal number."
+    }
+   ]
+  },
+  {
+   "id": "G",
+   "title": "Subject, verb or object",
+   "instructions": "Say what job the underlined part does.",
+   "topic": "g-simple-sentences",
+   "items": [
+    {
+     "id": "G1",
+     "type": "choice",
+     "prompt": "Carlos recycles paper. What is \"Carlos\"?",
+     "options": [
+      "Subject",
+      "Verb",
+      "Object"
+     ],
+     "answer": 0,
+     "explain": "Carlos does the action: subject."
+    },
+    {
+     "id": "G2",
+     "type": "choice",
+     "prompt": "We save water. What is \"save\"?",
+     "options": [
+      "Subject",
+      "Verb",
+      "Object"
+     ],
+     "answer": 1,
+     "explain": "Save is the action: verb."
+    },
+    {
+     "id": "G3",
+     "type": "choice",
+     "prompt": "The neighbors reuse plastic bags. What is \"plastic bags\"?",
+     "options": [
+      "Subject",
+      "Verb",
+      "Object"
+     ],
+     "answer": 2,
+     "explain": "It receives the action: object."
+    },
+    {
+     "id": "G4",
+     "type": "choice",
+     "prompt": "My sister turns off the lights. What is \"My sister\"?",
+     "options": [
+      "Subject",
+      "Verb",
+      "Object"
+     ],
+     "answer": 0,
+     "explain": "Who does the action: subject."
+    },
+    {
+     "id": "G5",
+     "type": "choice",
+     "prompt": "Ana always brings a reusable cup. What is \"brings\"?",
+     "options": [
+      "Subject",
+      "Verb",
+      "Object"
+     ],
+     "answer": 1,
+     "explain": "Brings is the action: verb."
+    },
+    {
+     "id": "G6",
+     "type": "choice",
+     "prompt": "I buy organic eggs. What is \"organic eggs\"?",
+     "options": [
+      "Subject",
+      "Verb",
+      "Object"
+     ],
+     "answer": 2,
+     "explain": "What is bought: object."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to make a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "She",
+      "is",
+      "not",
+      "working",
+      "today"
+     ],
+     "answers": [
+      "She is not working today."
+     ],
+     "explain": "Negative of the present continuous: is not + -ing."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "What",
+      "are",
+      "you",
+      "doing",
+      "right",
+      "now"
+     ],
+     "answers": [
+      "What are you doing right now?"
+     ],
+     "explain": "Wh- + be + subject + verb-ing."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "I",
+      "usually",
+      "share",
+      "a",
+      "ride",
+      "to",
+      "work"
+     ],
+     "answers": [
+      "I usually share a ride to work."
+     ],
+     "explain": "The adverb goes between the subject and the verb."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "The",
+      "students",
+      "are",
+      "planting",
+      "trees",
+      "in",
+      "the",
+      "park"
+     ],
+     "answers": [
+      "The students are planting trees in the park."
+     ],
+     "explain": "Subject + are + verb-ing + object."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Is",
+      "he",
+      "riding",
+      "his",
+      "bike",
+      "today"
+     ],
+     "answers": [
+      "Is he riding his bike today?"
+     ],
+     "explain": "Question: be + subject + verb-ing."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "doesn't",
+      "He",
+      "know",
+      "Ben"
+     ],
+     "answers": [
+      "He doesn't know Ben."
+     ],
+     "explain": "Know is a state verb: doesn't + base verb."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Estoy comiendo ahora mismo.",
+     "answers": [
+      "I'm eating right now.",
+      "I am eating right now.",
+      "I'm eating now.",
+      "I am eating now."
+     ],
+     "explain": "Right now: present continuous."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿Qué estás haciendo?",
+     "answers": [
+      "What are you doing?",
+      "What are you doing now?",
+      "What are you doing right now?"
+     ],
+     "explain": "Wh- + be + subject + verb-ing."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Mi hermana normalmente va en bici al trabajo.",
+     "answers": [
+      "My sister usually rides a bike to work.",
+      "My sister usually rides her bike to work.",
+      "My sister usually bikes to work.",
+      "My sister usually cycles to work."
+     ],
+     "explain": "Usually = habit: present simple."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "No entiendo esta palabra.",
+     "answers": [
+      "I don't understand this word.",
+      "I do not understand this word."
+     ],
+     "explain": "Understand is a state verb."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Hoy mis amigos están plantando árboles.",
+     "answers": [
+      "Today my friends are planting trees.",
+      "My friends are planting trees today."
+     ],
+     "explain": "Today / now: present continuous."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Apaga las luces, por favor.",
+     "answers": [
+      "Turn off the lights, please.",
+      "Please turn off the lights.",
+      "Turn the lights off, please.",
+      "Please turn the lights off."
+     ],
+     "explain": "Imperative + please."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed practice",
+   "instructions": "Exercises on different topics from the unit (includes present simple vs. continuous and review of earlier lessons).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Ana usually walks to school, but today she ___ the bus.",
+     "options": [
+      "takes",
+      "is taking",
+      "take"
+     ],
+     "answer": 1,
+     "explain": "Today = now / this period: present continuous."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "I ___ (not / like) fast food. It's unhealthy.",
+     "answers": [
+      "don't like",
+      "do not like"
+     ],
+     "explain": "Like is a state verb: present simple."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "Raoul is usually playing squash on Fridays.",
+     "answers": [
+      "Raoul usually plays squash on Fridays."
+     ],
+     "explain": "With usually: present simple."
+    },
+    {
+     "id": "M4",
+     "type": "gap",
+     "prompt": "Be quiet! The baby ___ (sleep).",
+     "answers": [
+      "is sleeping",
+      "'s sleeping",
+      "s sleeping"
+     ],
+     "explain": "Right now: present continuous."
+    },
+    {
+     "id": "M5",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Where",
+      "is",
+      "she",
+      "working",
+      "these",
+      "days"
+     ],
+     "answers": [
+      "Where is she working these days?"
+     ],
+     "explain": "These days: present continuous."
+    },
+    {
+     "id": "M6",
+     "type": "fix",
+     "prompt": "I'm wanting a coffee.",
+     "answers": [
+      "I want a coffee.",
+      "I would like a coffee.",
+      "I'd like a coffee."
+     ],
+     "explain": "Want is a state verb: it does not go in the continuous."
+    },
+    {
+     "id": "M7",
+     "type": "fix",
+     "prompt": "She doesn't has a sister.",
+     "answers": [
+      "She doesn't have a sister.",
+      "She does not have a sister."
+     ],
+     "explain": "Review of earlier lessons: after doesn't, use have."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "These keys belong to me. They're ___.",
+     "answers": [
+      "mine"
+     ],
+     "explain": "Review of earlier lessons: without a noun, use the pronoun mine."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "H1",
+   "prompt": "Write 6 sentences about what is happening now around you (your family, your city, your home). Use at least three verbs in the present continuous and right now or at the moment.",
+   "targets": [
+    "present continuous",
+    "-ing",
+    "right now / at the moment"
+   ],
+   "checklist": [
+    "be (am/is/are) in each continuous sentence",
+    "-ing spelled correctly (making, running…)",
+    "At least three verbs in the present continuous",
+    "right now or at the moment",
+    "State verbs (like, want, know) in the present simple",
+    "6 sentences with a subject"
+   ],
+   "model": "My mom is cooking dinner right now. My brother is watching TV in the living room. I'm writing these sentences at the moment. It is raining in my city right now. My dad isn't working today. I like this quiet evening."
+  },
+  {
+   "id": "H2",
+   "prompt": "Write a paragraph of 6 to 8 sentences about what you do for the environment. Include habits with the present simple (I usually…, We always…), something happening today with the present continuous (Today my friends are…), and a tip with Don't…. Check that each sentence has a subject, verb and object.",
+   "targets": [
+    "present simple vs continuous",
+    "subject + verb + object",
+    "negative imperative",
+    "green habits"
+   ],
+   "checklist": [
+    "Habits with the present simple (I usually recycle…)",
+    "Something from today with the present continuous",
+    "Adverbs between the subject and the verb",
+    "A tip with Don't + verb without to",
+    "Each sentence with subject, verb and object",
+    "Between 6 and 8 sentences"
+   ],
+   "model": "I usually recycle plastic bottles. We always turn off the lights at night. I never use plastic bags at the store. My family often takes the bus to work. Today my friends are cleaning the park. They are picking up trash right now. Don't throw trash on the street."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "A different week",
+   "intro": "Read Lucía's email and answer.",
+   "paragraphs": [
+    "Hi Pablo! How are you? I'm writing this email from my apartment in Guadalajara. It's Saturday morning and I'm drinking coffee on the balcony. It's a relaxing morning!",
+    "This week is different. I usually work in an office downtown, but this week I'm working at home because the office is closed. My boss is in Oaxaca. She's visiting her family. My office is usually busy and noisy, so working at home is nice.",
+    "My neighbors are very green. They always recycle bottles and paper, and they ride bikes to work. Today they're cleaning up trash in the park with some friends. My brother Luis is stressed. He usually plays soccer on Saturdays, but today he's studying for an exam. He doesn't like it!",
+    "I want to be more green too. I take the bus now, and I turn off the lights when I leave. Call me this afternoon. I'm not busy!",
+    "Lucía"
+   ],
+   "glossary": [
+    {
+     "en": "balcony",
+     "def": "a small outside area on a building, with a rail"
+    },
+    {
+     "en": "boss",
+     "def": "the person in charge of your work"
+    },
+    {
+     "en": "neighbor",
+     "def": "a person who lives near you"
+    },
+    {
+     "en": "recycle",
+     "def": "to use old things again to make new ones"
+    },
+    {
+     "en": "clean up trash",
+     "def": "to pick up trash and make a place clean"
+    },
+    {
+     "en": "stressed",
+     "def": "worried and tired"
+    },
+    {
+     "en": "exam",
+     "def": "a test at school or college"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "True or False: Lucía is at the office now.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Dice: 'I'm working at home'."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "True or False: Lucía usually works in an office.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Dice: 'I usually work in an office downtown'."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Where is Lucía's boss this week?",
+     "options": [
+      "At the office",
+      "In Oaxaca",
+      "In Guadalajara"
+     ],
+     "answer": 1,
+     "explain": "Dice: 'My boss is in Oaxaca'."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "What are the neighbors doing today?",
+     "options": [
+      "Riding bikes to work",
+      "Playing soccer",
+      "Cleaning up trash in the park"
+     ],
+     "answer": 2,
+     "explain": "Dice: 'Today they're cleaning up trash in the park'."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Luis usually ___ soccer on Saturdays.",
+     "answers": [
+      "plays"
+     ],
+     "explain": "'Usually' → presente simple; he → plays."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Today Luis ___ for an exam.",
+     "answers": [
+      "is studying",
+      "'s studying"
+     ],
+     "explain": "'Today' → presente continuo: is + studying."
+    }
+   ]
+  },
+  "listening": {
+   "title": "A phone call on Saturday",
+   "intro": "Listen to the phone call. You can repeat it.",
+   "lines": [
+    {
+     "who": "Ana",
+     "voice": "glassy",
+     "text": "Hi, Diego! It's Ana. Are you busy?"
+    },
+    {
+     "who": "Diego",
+     "voice": "rounded",
+     "text": "Hi, Ana! Not really. I'm making lunch right now."
+    },
+    {
+     "who": "Ana",
+     "voice": "glassy",
+     "text": "What are you making?"
+    },
+    {
+     "who": "Diego",
+     "voice": "rounded",
+     "text": "Chicken soup. My mom is visiting this week, and she's helping me."
+    },
+    {
+     "who": "Ana",
+     "voice": "glassy",
+     "text": "That's nice. Normally you eat lunch at the office, right?"
+    },
+    {
+     "who": "Diego",
+     "voice": "rounded",
+     "text": "Yes, I usually eat at the office, but not today. Today I'm working at home."
+    },
+    {
+     "who": "Ana",
+     "voice": "glassy",
+     "text": "I'm at the park with my sister. We're riding bikes."
+    },
+    {
+     "who": "Diego",
+     "voice": "rounded",
+     "text": "Wow! Do you ride bikes every weekend?"
+    },
+    {
+     "who": "Ana",
+     "voice": "glassy",
+     "text": "No, I usually go to the gym on Saturdays. Today is different. Can you come to the park at four?"
+    },
+    {
+     "who": "Diego",
+     "voice": "rounded",
+     "text": "Sure. I'm finishing the soup first. See you later!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What is Diego making?",
+     "options": [
+      "A salad",
+      "Chicken soup",
+      "Coffee"
+     ],
+     "answer": 1,
+     "explain": "Dice: 'Chicken soup'."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Who is helping Diego?",
+     "options": [
+      "His mom",
+      "His sister",
+      "His boss"
+     ],
+     "answer": 0,
+     "explain": "Dice: 'My mom... she's helping me'."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Where does Diego usually eat lunch?",
+     "options": [
+      "At home",
+      "At the park",
+      "At the office"
+     ],
+     "answer": 2,
+     "explain": "Dice: 'I usually eat at the office'."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What are Ana and her sister doing?",
+     "options": [
+      "Going to the gym",
+      "Riding bikes",
+      "Making lunch"
+     ],
+     "answer": 1,
+     "explain": "Dice: 'We're riding bikes'."
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "Ana usually goes to the ___ on Saturdays.",
+     "answers": [
+      "gym"
+     ],
+     "explain": "Dice: 'I usually go to the gym on Saturdays'."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "D11",
+     "type": "dictation",
+     "text": "Not really. I'm making lunch right now.",
+     "answers": [
+      "Not really. I'm making lunch right now.",
+      "Not really. I am making lunch right now."
+     ],
+     "explain": "Right now → presente continuo."
+    },
+    {
+     "id": "D12",
+     "type": "dictation",
+     "text": "My mom is visiting this week, and she's helping me.",
+     "answers": [
+      "My mom is visiting this week, and she's helping me.",
+      "My mom is visiting this week, and she is helping me.",
+      "My mom is visiting this week and she's helping me.",
+      "My mom is visiting this week and she is helping me."
+     ],
+     "explain": "This week → presente continuo."
+    },
+    {
+     "id": "D13",
+     "type": "dictation",
+     "text": "I usually eat at the office, but not today.",
+     "answers": [
+      "I usually eat at the office, but not today."
+     ],
+     "explain": "Usually → presente simple."
+    },
+    {
+     "id": "D14",
+     "type": "dictation",
+     "text": "I'm at the park with my sister.",
+     "answers": [
+      "I'm at the park with my sister.",
+      "I am at the park with my sister."
+     ],
+     "explain": "I'm = I am."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about what you usually do and what you are doing right now.",
+     "questions": [
+      "What do you usually do on Saturdays?",
+      "What are you doing right now?",
+      "Where are you?",
+      "Who is with you?"
+     ],
+     "model": "I usually go to the market on Saturdays. Right now I'm at home. I'm studying English and my sister is watching TV.",
+     "checklist": [
+      "Present simple with usually",
+      "Present continuous with right now (be + -ing)",
+      "Use be in each continuous sentence",
+      "A subject in each sentence"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Tell what is different in your week.",
+     "questions": [
+      "What do you usually do in the morning?",
+      "What is different this week?",
+      "What are you studying or working on these days?",
+      "Is it stressful or relaxing?"
+     ],
+     "model": "I usually work in the morning. This week is different. I'm working at home, and I'm studying English at night. It's stressful, but it's exciting.",
+     "checklist": [
+      "Contrast usually with this week",
+      "Use adjectives (stressful, relaxing, exciting)",
+      "State verbs in the present simple (like, want)",
+      "-ing spelling: working, studying"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about what you do for the environment.",
+     "questions": [
+      "Do you recycle?",
+      "How do you go to work or school?",
+      "What do you do to save water?",
+      "What are people doing in your city to help the planet?"
+     ],
+     "model": "Yes, I recycle bottles and paper. I take the bus to work. I always turn off the lights. Today my neighbors are planting trees in the park. Don't waste water!",
+     "checklist": [
+      "Habits with the present simple",
+      "Something from today with the present continuous",
+      "A tip with Don't",
+      "Order: subject + verb + object"
+     ]
+    }
+   ],
+   "repeat": [
+    "What are you doing right now?",
+    "I'm making lunch.",
+    "I usually eat at the office.",
+    "Can I call you later?",
+    "My mom is visiting this week.",
+    "Turn off the lights, please."
+   ]
+  }
+ }
+}

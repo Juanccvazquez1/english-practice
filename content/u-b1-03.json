@@ -1,0 +1,1668 @@
+{
+ "id": "u-b1-03",
+ "level": "B1",
+ "n": 3,
+ "title": "Who do you look like?",
+ "goals": [
+  "Describe a person's appearance: height, hair, eyes and features such as a beard, freckles or glasses.",
+  "Ask and say who someone looks like with What does he look like? and Who does she look like?",
+  "Use have and have got to describe appearance and ask How tall...? and What color...?",
+  "Identify one person among several with wearing, standing, with and in.",
+  "When you can't remember a name or a word, buy time with What do you call it? and Do you mean...?",
+  "Talk about fashion: what is in style and what is dated or old-fashioned."
+ ],
+ "learn": [
+  {
+   "id": "g-look-like",
+   "kind": "grammar",
+   "title": "look like / look alike / take after",
+   "html": "<p>To talk about <strong>appearance</strong> we use <em>look like</em>. Note: in English, <em>look like</em> works for two different questions.</p><table><thead><tr><th>Question</th><th>Answer</th><th>Meaning</th></tr></thead><tbody><tr><td><strong>What does</strong> Hayley <strong>look like</strong>?</td><td>She's tall and thin.</td><td>What is she physically like?</td></tr><tr><td><strong>Who does</strong> she <strong>look like</strong>?</td><td>She looks like her father.</td><td>Who does she resemble?</td></tr><tr><td><strong>Do</strong> Hayley and Heather <strong>look alike</strong>?</td><td>No, they look totally different.</td><td>Do they resemble each other?</td></tr></tbody></table><ul><li>With <em>he / she / it</em> the question uses <em>does</em> and the verb goes back to the base form: <em>What does he look like?</em></li><li><em>look like</em> + person or noun; <em>look alike</em> is used alone, without an object: <em>The twins look alike.</em></li><li><em>take after</em> + family member is used for similarities of character or inherited features: <em>She takes after her mother.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "What does she looks like?",
+     "right": "What does she look like?",
+     "why": "After does, the verb goes in the base form."
+    },
+    {
+     "wrong": "How is your sister? (to ask for a physical description)",
+     "right": "What does your sister look like?",
+     "why": "How is...? asks about health or condition; to ask about appearance use What ... look like?"
+    },
+    {
+     "wrong": "My brother and I look like.",
+     "right": "My brother and I look alike.",
+     "why": "Without an object, the correct form is look alike."
+    },
+    {
+     "wrong": "She is looking like her father.",
+     "right": "She looks like her father.",
+     "why": "Look like is a state verb: simple present, not continuous."
+    }
+   ]
+  },
+  {
+   "id": "g-have-got",
+   "kind": "grammar",
+   "title": "have and have got to describe people",
+   "html": "<p>To describe appearance you can use <strong>have</strong> or <strong>have got</strong>; they mean the same. <em>Have got</em> is very common in speech and is contracted: <em>I've got</em>, <em>she's got</em>.</p><table><thead><tr><th>Form</th><th>With have</th><th>With have got</th></tr></thead><tbody><tr><td>Positive</td><td>She <strong>has</strong> straight hair.</td><td>She<strong>'s got</strong> straight hair.</td></tr><tr><td>Yes/no question</td><td><strong>Does</strong> she <strong>have</strong> curly hair?</td><td>(have is preferred with do/does)</td></tr><tr><td>Question with Who</td><td>Who has curly hair?</td><td>Who<strong>'s got</strong> curly hair?</td></tr><tr><td>Short answer</td><td>I do.</td><td>I do. I<strong>'ve got</strong> curly hair.</td></tr></tbody></table><ul><li><em>She's got</em> means <em>she has got</em>, not <em>she is got</em>.</li><li>Don't mix them: <em>Does she have...?</em> (not <em>Does she has...?</em>).</li><li>To describe physical features, use <em>has long hair</em>, with no article.</li></ul>",
+   "watch": [
+    {
+     "wrong": "Does she has curly hair?",
+     "right": "Does she have curly hair?",
+     "why": "After does, have goes in the base form."
+    },
+    {
+     "wrong": "He have a beard.",
+     "right": "He has a beard.",
+     "why": "With he / she / it, use has."
+    },
+    {
+     "wrong": "Does she have got freckles?",
+     "right": "Does she have freckles?",
+     "why": "Do / does is not used together with have got."
+    },
+    {
+     "wrong": "She has the hair long.",
+     "right": "She has long hair.",
+     "why": "The adjective goes before the noun and without an article."
+    }
+   ]
+  },
+  {
+   "id": "g-height-color",
+   "kind": "grammar",
+   "title": "How tall...? and What color...?",
+   "html": "<p>To ask about <strong>height</strong> we use <em>How tall</em>; for the <strong>color</strong> of hair or eyes, <em>What color</em>. Both use the verb <strong>be</strong>.</p><table><thead><tr><th>Question</th><th>Answer</th></tr></thead><tbody><tr><td><strong>How tall</strong> is her father?</td><td>He's six foot seven. / He's over two meters tall.</td></tr><tr><td><strong>What color</strong> is Hayley's hair?</td><td>It's blond.</td></tr><tr><td><strong>What color</strong> are Hayley's eyes?</td><td>They're blue.</td></tr></tbody></table><p>The verb agrees with what is described: <em>hair</em> is singular (<em>is</em>) and <em>eyes</em> is plural (<em>are</em>). For height, use <em>tall</em>, not <em>high</em>, when talking about people.</p>",
+   "watch": [
+    {
+     "wrong": "How much tall is he?",
+     "right": "How tall is he?",
+     "why": "The question is How tall...?, without much."
+    },
+    {
+     "wrong": "What color has her eyes?",
+     "right": "What color are her eyes?",
+     "why": "Use be: What color are...?"
+    },
+    {
+     "wrong": "He is high.",
+     "right": "He is tall.",
+     "why": "For people, use tall, not high."
+    },
+    {
+     "wrong": "What color is her eyes?",
+     "right": "What color are her eyes?",
+     "why": "Eyes is plural: are."
+    }
+   ]
+  },
+  {
+   "id": "g-identify",
+   "kind": "grammar",
+   "title": "Identifying people: -ing, with, in",
+   "html": "<p>To say <strong>which person</strong> someone is (when you can see them), use short phrases after <em>the man / the woman / the guy / the one</em>.</p><table><thead><tr><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>verb + -ing (what they are doing or wearing)</td><td>She's the woman <strong>standing</strong> by the table. / the woman <strong>wearing</strong> black pants.</td></tr><tr><td>by / next to + place</td><td>She's the one <strong>by</strong> the table.</td></tr><tr><td>with + feature or clothing</td><td>She's the one <strong>with</strong> long hair. / The guy <strong>with</strong> the yellow pants.</td></tr><tr><td>in + clothing</td><td>Who's the guy <strong>in</strong> the blue shirt?</td></tr></tbody></table><p>The -ing form doesn't need <em>who is</em>: <em>the man talking to Rosa</em> (= the man who is talking to Rosa). For clothing, <em>wearing</em>, <em>with</em> and <em>in</em> can all be used.</p>",
+   "watch": [
+    {
+     "wrong": "She's the girl wear the green dress.",
+     "right": "She's the girl wearing the green dress.",
+     "why": "After the noun, use -ing: wearing."
+    },
+    {
+     "wrong": "He's the boy who talking to Rosa.",
+     "right": "He's the boy talking to Rosa.",
+     "why": "Either use who is talking or just talking; never who + -ing."
+    },
+    {
+     "wrong": "The one in glasses is Jason.",
+     "right": "The one with glasses is Jason.",
+     "why": "With glasses (a feature) use with; in is for clothing."
+    },
+    {
+     "wrong": "The guy with blue shirt is my brother.",
+     "right": "The guy in the blue shirt is my brother.",
+     "why": "For clothing: in the... or wearing the..."
+    }
+   ]
+  },
+  {
+   "id": "v-appearance",
+   "kind": "vocab",
+   "title": "Appearance and family traits",
+   "words": [
+    {
+     "id": "w-tall",
+     "en": "tall",
+     "es": "alto/a",
+     "example": "My father is tall: he's over 1.90 meters.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-short",
+     "en": "short",
+     "es": "bajo/a de estatura; corto/a",
+     "example": "She's short, but she has long hair.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-thin",
+     "en": "thin",
+     "es": "delgado/a",
+     "example": "He's thin because he runs every day.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-skinny",
+     "en": "skinny",
+     "es": "flaco/a, muy delgado/a",
+     "example": "My little cousin is skinny."
+    },
+    {
+     "id": "w-heavy",
+     "en": "heavy",
+     "es": "robusto/a, pesado/a (de peso; suena más suave que fat)",
+     "example": "He's a little heavy, but he's very athletic.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-muscular",
+     "en": "muscular",
+     "es": "musculoso/a",
+     "example": "My brother lifts weights and he's very muscular."
+    },
+    {
+     "id": "w-tiny",
+     "en": "tiny",
+     "es": "diminuto/a, muy pequeño/a",
+     "example": "Their baby is tiny.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-bald",
+     "en": "bald",
+     "es": "calvo/a",
+     "example": "My uncle is bald, but he has a mustache."
+    },
+    {
+     "id": "w-blond-hair",
+     "en": "blond hair",
+     "es": "pelo rubio",
+     "example": "Hayley has blond hair and blue eyes.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-dark-hair",
+     "en": "dark hair",
+     "es": "pelo oscuro",
+     "example": "Most of my family has dark hair.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-curly-hair",
+     "en": "curly hair",
+     "es": "pelo rizado",
+     "example": "She has curly hair, but her sister has straight hair.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-identical-twins",
+     "en": "identical twins",
+     "es": "gemelos idénticos",
+     "example": "Mario and Pablo are identical twins.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-model",
+     "en": "model",
+     "es": "modelo (persona)",
+     "example": "My cousin is a model; she's very tall.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-take-after",
+     "en": "take after (someone)",
+     "es": "salir a, parecerse (a un familiar)",
+     "example": "I take after my mother: we're both patient.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-features",
+   "kind": "vocab",
+   "title": "Features, hairstyles and accessories",
+   "words": [
+    {
+     "id": "w-beard",
+     "en": "beard",
+     "es": "barba",
+     "example": "My grandfather has a long white beard."
+    },
+    {
+     "id": "w-mustache",
+     "en": "mustache",
+     "es": "bigote",
+     "example": "Max has a mustache."
+    },
+    {
+     "id": "w-goatee",
+     "en": "goatee",
+     "es": "barba de candado, perilla",
+     "example": "He has a funny little goatee."
+    },
+    {
+     "id": "w-shaved-head",
+     "en": "have a shaved head",
+     "es": "traer la cabeza rapada",
+     "example": "My cousin has a shaved head.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-freckles",
+     "en": "freckles",
+     "es": "pecas (casi siempre en plural)",
+     "example": "She has freckles on her nose."
+    },
+    {
+     "id": "w-pierced-ears",
+     "en": "pierced ears",
+     "es": "orejas perforadas, aretes puestos",
+     "example": "My sister has pierced ears.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-long-fingernails",
+     "en": "long fingernails",
+     "es": "uñas largas",
+     "example": "She has long fingernails, so she can't type fast.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-ponytail",
+     "en": "ponytail",
+     "es": "cola de caballo",
+     "example": "She wears a ponytail to work."
+    },
+    {
+     "id": "w-spiked-hair",
+     "en": "spiked hair",
+     "es": "pelo de puntas, pelo parado",
+     "example": "The singer has spiked hair.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-braids",
+     "en": "braids",
+     "es": "trenzas (plural)",
+     "example": "The girl wears her hair in braids."
+    },
+    {
+     "id": "w-cornrows",
+     "en": "cornrows",
+     "es": "trenzas pegadas al cuero cabelludo (plural)",
+     "example": "He wears his hair in cornrows."
+    },
+    {
+     "id": "w-braces",
+     "en": "braces",
+     "es": "brackets, frenos (plural)",
+     "example": "My little brother wears braces."
+    },
+    {
+     "id": "w-wig",
+     "en": "wig",
+     "es": "peluca",
+     "example": "She wears a wig because she likes to change her style."
+    },
+    {
+     "id": "w-glasses",
+     "en": "wear glasses",
+     "es": "usar lentes",
+     "example": "My teacher wears glasses.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-fashion",
+   "kind": "vocab",
+   "title": "Fashion and changing styles",
+   "words": [
+    {
+     "id": "w-fashionable",
+     "en": "fashionable",
+     "es": "de moda, a la moda",
+     "example": "Short hair is fashionable this year.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-trendy",
+     "en": "trendy",
+     "es": "moderno/a, de tendencia",
+     "example": "Those sneakers are very trendy."
+    },
+    {
+     "id": "w-in-style",
+     "en": "in style / in fashion",
+     "es": "de moda",
+     "example": "Big sunglasses are in style.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-out-of-style",
+     "en": "out of style / going out of style",
+     "es": "pasado de moda / dejando de estar de moda",
+     "example": "Long hair is going out of style for men.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-dated",
+     "en": "dated",
+     "es": "anticuado/a, que ya pasó de moda",
+     "example": "Shoulder pads are dated.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-old-fashioned",
+     "en": "old-fashioned",
+     "es": "pasado de moda, a la antigua",
+     "example": "My grandmother's dress is old-fashioned.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-popular",
+     "en": "popular",
+     "es": "popular",
+     "example": "Glasses with thick frames are becoming popular.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-baggy-pants",
+     "en": "baggy pants",
+     "es": "pantalones holgados (plural)",
+     "example": "He always wore baggy pants with big pockets.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-cargo-pants",
+     "en": "cargo pants",
+     "es": "pantalones cargo (plural)",
+     "example": "Cargo pants have a lot of pockets.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-skinny-jeans",
+     "en": "skinny jeans",
+     "es": "jeans entubados (plural)",
+     "example": "Skinny jeans are not comfortable for me.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-high-heels",
+     "en": "high heels",
+     "es": "tacones altos (plural)",
+     "example": "High heels are dated for some people.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-shoulder-pads",
+     "en": "shoulder pads",
+     "es": "hombreras",
+     "example": "Shoulder pads were popular in the 1980s.",
+     "cefr": "C1"
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>What does he look like? / Who does he look like?</strong> — asking for a description or a resemblance.</li><li><strong>They look totally different. / They look exactly alike.</strong> — comparing two people.</li><li><strong>Which one is your roommate? — The one with glasses.</strong> — identifying someone.</li><li><strong>Oh, what's his name? / Do you remember that guy?</strong> — buying time when you can't remember a name.</li><li><strong>What do you call it? / What do you call those?</strong> — asking for a word you can't remember.</li><li><strong>Do you mean a goatee? / You mean Max!</strong> — suggesting or confirming what is being talked about.</li><li><strong>Short hair is in. / Long hair is out.</strong> — talking about fashion informally.</li><li><strong>It's fashionable for women to wear... / High heels are dated.</strong> — talking about fashion more formally.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "look like, look alike, take after",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-look-like",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "What does your sister ___ like?",
+     "answers": [
+      "look"
+     ],
+     "explain": "Appearance question: What does + subject + look like?"
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Who does he ___ like? — He looks like his mother.",
+     "answers": [
+      "look"
+     ],
+     "explain": "After does, the verb goes in the base form: look."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "Do Hayley and Heather look ___?",
+     "answers": [
+      "alike"
+     ],
+     "explain": "To compare two people, use look alike (no object)."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "She ___ after her grandmother: they are both very generous.",
+     "answers": [
+      "takes"
+     ],
+     "explain": "Take after with she: takes (add -s)."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "Mario and Pablo are identical twins. They look ___.",
+     "options": [
+      "alike",
+      "like",
+      "likes"
+     ],
+     "answer": 0,
+     "explain": "Without an object: look alike."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "What does your brother looks like?",
+     "answers": [
+      "What does your brother look like?"
+     ],
+     "explain": "After does, look goes in the base form."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "She is looking like her father.",
+     "answers": [
+      "She looks like her father.",
+      "She takes after her father."
+     ],
+     "explain": "Look like goes in the simple present."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "does",
+      "look",
+      "your",
+      "like",
+      "What",
+      "cousin"
+     ],
+     "answers": [
+      "What does your cousin look like?"
+     ],
+     "explain": "What + does + subject + look like?"
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "have and have got",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-have-got",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "She ___ curly hair.",
+     "answers": [
+      "has",
+      "'s got",
+      "has got"
+     ],
+     "explain": "With she: has / 's got."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "___ your father have a beard? — Yes, he does.",
+     "answers": [
+      "Does"
+     ],
+     "explain": "With he, the question uses Does."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "I've ___ two brothers and one sister.",
+     "answers": [
+      "got"
+     ],
+     "explain": "I've got = I have got."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "Who's got long hair? — I ___.",
+     "answers": [
+      "do"
+     ],
+     "explain": "Short answer with do: I do."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "Does he ___ a mustache?",
+     "options": [
+      "have",
+      "has",
+      "got"
+     ],
+     "answer": 0,
+     "explain": "After does, have goes in the base form."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "Does she has freckles?",
+     "answers": [
+      "Does she have freckles?"
+     ],
+     "explain": "Does + subject + have (base form)."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "He have a shaved head.",
+     "answers": [
+      "He has a shaved head.",
+      "He's got a shaved head.",
+      "He has got a shaved head."
+     ],
+     "explain": "With he: has / 's got."
+    },
+    {
+     "id": "B8",
+     "type": "translate",
+     "prompt": "Mi hermana tiene el pelo largo y rizado.",
+     "answers": [
+      "My sister has long, curly hair.",
+      "My sister has long curly hair.",
+      "My sister's got long, curly hair.",
+      "My sister's got long curly hair.",
+      "My sister has got long, curly hair.",
+      "My sister has got long curly hair."
+     ],
+     "explain": "have / have got + adjectives before the noun."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Height and color",
+   "instructions": "Complete, choose, order or translate.",
+   "topic": "g-height-color",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "___ tall is your brother? — He's 1.80 meters.",
+     "answers": [
+      "How"
+     ],
+     "explain": "Height: How tall...?"
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "What ___ is her hair? — It's dark.",
+     "answers": [
+      "color",
+      "colour"
+     ],
+     "explain": "What color is...?"
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "What color ___ his eyes? — They're brown.",
+     "answers": [
+      "are"
+     ],
+     "explain": "Eyes is plural: are."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "How tall ___ your father?",
+     "options": [
+      "is",
+      "does",
+      "has"
+     ],
+     "answer": 0,
+     "explain": "How tall + be."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "___ color are her eyes?",
+     "options": [
+      "What",
+      "Which",
+      "How"
+     ],
+     "answer": 0,
+     "explain": "What color...?"
+    },
+    {
+     "id": "C6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "color",
+      "is",
+      "What",
+      "hair",
+      "your",
+      "teacher's"
+     ],
+     "answers": [
+      "What color is your teacher's hair?"
+     ],
+     "explain": "What color + be + noun."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "How much tall is he?",
+     "answers": [
+      "How tall is he?"
+     ],
+     "explain": "How tall, without much."
+    },
+    {
+     "id": "C8",
+     "type": "translate",
+     "prompt": "¿De qué color son sus ojos?",
+     "answers": [
+      "What color are his eyes?",
+      "What color are her eyes?",
+      "What colour are his eyes?",
+      "What colour are her eyes?"
+     ],
+     "explain": "Eyes is plural: are."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Identifying people",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-identify",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "She's the woman ___ by the window. (stand)",
+     "answers": [
+      "standing"
+     ],
+     "explain": "Noun + verb with -ing."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "He's the guy ___ a red jacket. (wear)",
+     "answers": [
+      "wearing"
+     ],
+     "explain": "For clothing: wearing."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "The one ___ glasses is my teacher.",
+     "answers": [
+      "with"
+     ],
+     "explain": "Physical features or glasses: with."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "Who's the man ___ the blue shirt?",
+     "answers": [
+      "in"
+     ],
+     "explain": "For clothing: in the + garment."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "Which one is Rosa? — She's the one ___ long hair.",
+     "options": [
+      "with",
+      "wearing",
+      "standing"
+     ],
+     "answer": 0,
+     "explain": "Physical feature: with."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "He's the boy ___ to the teacher.",
+     "options": [
+      "talk",
+      "talking",
+      "talks"
+     ],
+     "answer": 1,
+     "explain": "Use -ing to say what someone is doing."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "She's the girl wear the green dress.",
+     "answers": [
+      "She's the girl wearing the green dress.",
+      "She's the girl in the green dress.",
+      "She's the girl with the green dress.",
+      "She is the girl wearing the green dress.",
+      "She is the girl in the green dress.",
+      "She is the girl with the green dress."
+     ],
+     "explain": "After the noun: wearing / in / with."
+    },
+    {
+     "id": "D8",
+     "type": "translate",
+     "prompt": "El hombre que habla con Ana es mi hermano.",
+     "answers": [
+      "The man talking to Ana is my brother.",
+      "The man talking with Ana is my brother.",
+      "The guy talking to Ana is my brother.",
+      "The guy talking with Ana is my brother."
+     ],
+     "explain": "The man + verb with -ing."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: appearance",
+   "instructions": "Complete or choose the correct word.",
+   "topic": "v-features",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "A man with no hair on his head is ___.",
+     "answers": [
+      "bald"
+     ],
+     "explain": "No hair: bald."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "A very thin person is...",
+     "options": [
+      "skinny",
+      "muscular",
+      "heavy"
+     ],
+     "answer": 0,
+     "explain": "Very thin: skinny."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "My uncle has a ___ on his chin: a small, pointed beard.",
+     "answers": [
+      "goatee"
+     ],
+     "explain": "A small, pointed beard: goatee."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "She has little brown spots on her nose: ___.",
+     "answers": [
+      "freckles"
+     ],
+     "explain": "Freckles."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "My brother wears ___ on his teeth.",
+     "answers": [
+      "braces"
+     ],
+     "explain": "Braces: the metal brackets on the teeth."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "Hair tied at the back of the head is a...",
+     "options": [
+      "ponytail",
+      "wig",
+      "beard"
+     ],
+     "answer": 0,
+     "explain": "Ponytail: hair tied at the back of the head."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "Hair that is not straight is ___ hair.",
+     "answers": [
+      "curly"
+     ],
+     "explain": "Curly: curly."
+    },
+    {
+     "id": "E8",
+     "type": "choice",
+     "prompt": "Fake hair that you put on your head is a...",
+     "options": [
+      "wig",
+      "braid",
+      "mustache"
+     ],
+     "answer": 0,
+     "explain": "Wig: fake hair you put on your head."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Fashion and strategies",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "v-fashion",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "\"Long hair is going out of style.\" In other words, long hair is...",
+     "options": [
+      "trendy",
+      "dated",
+      "in"
+     ],
+     "answer": 1,
+     "explain": "Out of style = dated."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "Short hair is ___ style right now.",
+     "options": [
+      "in",
+      "on",
+      "at"
+     ],
+     "answer": 0,
+     "explain": "In style: fashionable."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "Do you remember that guy? Oh, what's ___ name?",
+     "answers": [
+      "his"
+     ],
+     "explain": "What's his name? to buy time."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "He wore those baggy pants with pockets. What do you ___ them?",
+     "answers": [
+      "call"
+     ],
+     "explain": "What do you call them?"
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "A: He had a funny little beard. B: ___ a goatee?",
+     "options": [
+      "Do you mean",
+      "Are you mean",
+      "You do mean"
+     ],
+     "answer": 0,
+     "explain": "Do you mean...? suggests a word."
+    },
+    {
+     "id": "F6",
+     "type": "fix",
+     "prompt": "What you call those pants with a lot of pockets?",
+     "answers": [
+      "What do you call those pants with a lot of pockets?"
+     ],
+     "explain": "What do you call...? with do."
+    },
+    {
+     "id": "F7",
+     "type": "translate",
+     "prompt": "Los pantalones holgados ya no están de moda.",
+     "answers": [
+      "Baggy pants are out of style.",
+      "Baggy pants are going out of style.",
+      "Baggy pants are dated.",
+      "Baggy pants are old-fashioned.",
+      "Baggy pants are out of fashion."
+     ],
+     "explain": "Out of style / dated: no longer fashionable."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "looks",
+      "like",
+      "She",
+      "her",
+      "mother"
+     ],
+     "answers": [
+      "She looks like her mother."
+     ],
+     "explain": "Look + like: she looks like..."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "tall",
+      "is",
+      "How",
+      "your",
+      "brother"
+     ],
+     "answers": [
+      "How tall is your brother?"
+     ],
+     "explain": "How tall + be + subject."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "has",
+      "He",
+      "a",
+      "beard",
+      "long"
+     ],
+     "answers": [
+      "He has a long beard."
+     ],
+     "explain": "The adjective goes before the noun."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "the",
+      "one",
+      "with",
+      "the",
+      "glasses",
+      "She's"
+     ],
+     "answers": [
+      "She's the one with the glasses."
+     ],
+     "explain": "The one with + feature."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "you",
+      "do",
+      "What",
+      "call",
+      "them"
+     ],
+     "answers": [
+      "What do you call them?"
+     ],
+     "explain": "What do you call...?"
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Do",
+      "Hayley",
+      "and",
+      "Heather",
+      "alike",
+      "look"
+     ],
+     "answers": [
+      "Do Hayley and Heather look alike?"
+     ],
+     "explain": "Do + subject + look alike?"
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "¿Cómo es tu hermano físicamente?",
+     "answers": [
+      "What does your brother look like?"
+     ],
+     "explain": "What does ... look like?"
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Ella se parece a su papá.",
+     "answers": [
+      "She looks like her father.",
+      "She looks like her dad.",
+      "She takes after her father.",
+      "She takes after her dad."
+     ],
+     "explain": "Look like / take after."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Mis primos son gemelos idénticos.",
+     "answers": [
+      "My cousins are identical twins."
+     ],
+     "explain": "Identical twins."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "¿Quién es el chico de la camisa azul?",
+     "answers": [
+      "Who's the guy in the blue shirt?",
+      "Who is the guy in the blue shirt?",
+      "Who's the boy in the blue shirt?",
+      "Who is the boy in the blue shirt?",
+      "Who's the guy wearing the blue shirt?",
+      "Who is the guy wearing the blue shirt?",
+      "Who's the boy wearing the blue shirt?",
+      "Who is the boy wearing the blue shirt?"
+     ],
+     "explain": "In / wearing + clothing."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Mi abuelo es calvo y tiene bigote.",
+     "answers": [
+      "My grandfather is bald and has a mustache.",
+      "My grandfather is bald and he has a mustache.",
+      "My grandfather is bald and he's got a mustache.",
+      "My grandfather is bald and has got a mustache.",
+      "My grandpa is bald and has a mustache.",
+      "My grandpa is bald and he has a mustache.",
+      "My grandpa is bald and he's got a mustache.",
+      "My grandfather is bald and has a moustache.",
+      "My grandpa is bald and has a moustache."
+     ],
+     "explain": "Be + bald; has / has got + a mustache."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "¿Cómo se llama eso? (no recuerdo la palabra)",
+     "answers": [
+      "What do you call that?",
+      "What do you call it?"
+     ],
+     "explain": "What do you call that / it?"
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes 2 review items from earlier topics).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "What does she ___ like?",
+     "options": [
+      "look",
+      "looks",
+      "looking"
+     ],
+     "answer": 0,
+     "explain": "After does: base form."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Who's the woman ___ to Carlos? (talk)",
+     "answers": [
+      "talking"
+     ],
+     "explain": "Noun + -ing."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "My sister have long hair.",
+     "answers": [
+      "My sister has long hair.",
+      "My sister's got long hair.",
+      "My sister has got long hair."
+     ],
+     "explain": "With she: has / 's got."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Ella tiene pecas en la nariz.",
+     "answers": [
+      "She has freckles on her nose.",
+      "She's got freckles on her nose.",
+      "She has got freckles on her nose."
+     ],
+     "explain": "Have / have got; freckles in the plural."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "Those pants are ___. Nobody wears them now.",
+     "options": [
+      "dated",
+      "trendy",
+      "popular"
+     ],
+     "answer": 0,
+     "explain": "Nobody wears them now: dated."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "___ you remember that guy? What's his name?",
+     "answers": [
+      "Do"
+     ],
+     "explain": "Present simple question with you: Do."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "Right now my brother ___ a blue hat. (wear) (review: present continuous)",
+     "answers": [
+      "is wearing",
+      "'s wearing"
+     ],
+     "explain": "Right now: is + verb-ing."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "Lucy ___ spicy food. (not like) (review: present simple)",
+     "answers": [
+      "doesn't like",
+      "does not like"
+     ],
+     "explain": "Negative with she: doesn't + base verb."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Describe two people in your family (120 to 180 words): what they look like (height, hair, eyes, features), who they look like, and how they usually dress. Use look like, have / have got, and at least two sentences with with, in or -ing. Opening: My sister is tall and thin. She looks like...",
+   "targets": [
+    "look like / take after",
+    "have / have got",
+    "How tall / What color",
+    "with / in / -ing to identify people"
+   ],
+   "checklist": [
+    "120 to 180 words",
+    "At least one sentence with look like or take after",
+    "has / 's got with he / she (not \"does has\")",
+    "Adjective before the noun (long curly hair)",
+    "Two sentences with with, in or -ing",
+    "Appearance vocabulary (bald, freckles, glasses...)"
+   ],
+   "model": "My sister is tall and thin. She looks like my mother because they both have long curly black hair and big brown eyes. She has got a lot of freckles on her nose, and she wears glasses. People say she takes after my mom in personality too, because she is kind and patient. She usually dresses in jeans and a white T-shirt, but on weekends she likes wearing colorful skirts.\n\nMy uncle Jorge is very different. He is short and a little heavy, and he is bald, so he often wears a baseball cap. He has a gray beard and a friendly smile. I think he looks like my grandfather, but my dad says that he takes after my grandmother because they are both funny. The man with the big laugh in our family photos is always Jorge! He doesn't like formal clothes. He usually wears a shirt with short sleeves and comfortable pants. Last Christmas, I saw him in a red sweater with a reindeer, and everybody was laughing. He has got a great sense of humor."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a text of 120 to 180 words about a group photo (a party, a wedding or school): identify four people with phrases like the man wearing..., the one with... Add a short conversation where you can't remember a name (What's his name? / Do you mean...?). End by saying which clothes or hairstyles are in style or out of style today.",
+   "targets": [
+    "identifying people",
+    "strategy: remembering names",
+    "fashion and styles"
+   ],
+   "checklist": [
+    "120 to 180 words",
+    "Four people identified (wearing / with / in / by)",
+    "A question with What do you call...? or Do you mean...?",
+    "Two fashion expressions (in style, out of style, dated, trendy)",
+    "Verbs in the correct form (has, looks, is wearing)"
+   ],
+   "model": "This is a photo from my cousin's wedding last June. The man wearing the gray suit is my uncle Ramon. Next to him, the woman in the long green dress is my aunt Elena. The girl with the red ribbon in her hair is my little cousin Sofia, and the boy holding the cake is her brother, Diego. At the back, my grandmother is wearing a purple hat.\n\nAt the party, I was talking to my friend Pablo when I saw a tall man by the door.\n\"Who is that man? What's his name?\" I asked.\n\"Do you mean the one with the beard?\" Pablo said.\n\"Yes! I can't remember his name.\"\n\"Oh, that's Esteban, the bride's friend.\"\n\"Thanks! My memory is terrible.\"\n\nLooking at the photo today, I laugh at some of the clothes. My uncle's wide tie is out of style now, and the big hair on some of the women looks dated. Nowadays, simple suits and short hairstyles are in style, and people think they are very trendy."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The Twins at the Wedding",
+   "intro": "Read Lena's email about a family wedding and answer.",
+   "paragraphs": [
+    "Hi Carla! Last Saturday I went to my cousin Ana's wedding in Puebla, and I want to tell you about it. It was a big family party, and I met a lot of relatives for the first time.",
+    "First, I saw the groom's twin brothers. They are identical twins, so they look exactly alike! Both of them are tall and muscular, and they have short dark hair. At first I couldn't tell them apart. Then my aunt Rosa helped me. She said, \"Daniel is the one with a small goatee. Pablo is the one wearing the gray tie.\" After that, it was easy.",
+    "Then I met the bride's grandfather. He is bald, and he has a long white mustache. He is very funny. He says that he takes after his own mother, because she was also short and very talkative. Everybody loves him. Ana, the bride, looks like her mother: they both have curly hair and brown eyes, but Ana is taller. Her mother told me that Ana was a tiny baby with no hair at all!",
+    "I also talked to a young woman wearing a long green dress. Her hair was in a ponytail, and she had pierced ears and big silver earrings. She was very friendly. We talked about clothes. She said that short dresses are going out of style, but long dresses are becoming fashionable. I don't agree. I think skinny jeans and sneakers are always trendy, and nobody at the wedding wore baggy pants!",
+    "At the end of the party, I tried to remember the name of the photographer. I said, \"Who's the man with the long fingernails and the camera? Oh, what's his name?\" My uncle laughed and said, \"Do you mean Mr. Ortega?\" Yes! That was it. He took more than three hundred pictures. I'm sending you the best one. Call me soon, and tell me about your trip! Lena"
+   ],
+   "glossary": [
+    {
+     "en": "groom",
+     "def": "the man who is getting married"
+    },
+    {
+     "en": "bride",
+     "def": "the woman who is getting married"
+    },
+    {
+     "en": "tell apart",
+     "def": "to see the difference between two people who look alike"
+    },
+    {
+     "en": "tie",
+     "def": "a long piece of cloth worn around the neck with a shirt"
+    },
+    {
+     "en": "talkative",
+     "def": "someone who likes to talk a lot"
+    },
+    {
+     "en": "earrings",
+     "def": "jewelry worn on the ears"
+    },
+    {
+     "en": "relatives",
+     "def": "family members"
+    },
+    {
+     "en": "tiny",
+     "def": "very small"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Lena already knew most of the relatives at the wedding.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Mentions meeting many relatives for the first time."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Daniel and Pablo are identical twins.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "They are identical twins, so they look exactly alike."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "How did Lena tell the twins apart?",
+     "options": [
+      "Daniel has a small goatee; Pablo wears a gray tie",
+      "Daniel is taller than Pablo",
+      "Pablo has a mustache"
+     ],
+     "answer": 0,
+     "explain": "Rosa le dijo que Daniel tiene un goatee y Pablo lleva la corbata gris."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Who does Ana look like?",
+     "options": [
+      "Her father",
+      "Her mother",
+      "Her grandfather"
+     ],
+     "answer": 1,
+     "explain": "Ana looks like her mother."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "The bride's grandfather is bald and has a long white ___.",
+     "answers": [
+      "mustache",
+      "moustache"
+     ],
+     "explain": "Says he has a long white mustache."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "What does the young woman in the green dress say about fashion?",
+     "options": [
+      "Long dresses are becoming fashionable",
+      "Skinny jeans are dated",
+      "Short dresses are becoming popular"
+     ],
+     "answer": 0,
+     "explain": "Short dresses are going out of style; long dresses are becoming fashionable."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "The photographer is Mr. ___.",
+     "answers": [
+      "Ortega"
+     ],
+     "explain": "His uncle says: Do you mean Mr. Ortega?"
+    },
+    {
+     "id": "R8",
+     "type": "translate",
+     "prompt": "Ella se parece a su mamá.",
+     "answers": [
+      "She looks like her mother.",
+      "She looks like her mom.",
+      "She takes after her mother.",
+      "She takes after her mom."
+     ],
+     "explain": "Look like / take after + persona."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Who's that guy?",
+   "intro": "Listen to the conversation between two friends at a party. You can repeat it.",
+   "lines": [
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "Hey, Dan! Over here! I can't believe you're here."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Hi, Mia! Wow, I love your new hairstyle. You have a ponytail now!"
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "Thanks! Hey, do you see that guy over there? The one wearing the red shirt?"
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "The tall one with glasses? Yes. Who is he?"
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "I don't remember his name! He was in our class last year. He had a funny little beard. What do you call that?"
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Do you mean a goatee? Oh, I know. You mean Max!"
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "Yes, Max! But now he doesn't have a goatee. He has short spiked hair."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "He looks different. He's not skinny anymore. He's very muscular."
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "And who is the woman talking to him? She has long curly hair."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "That's his sister, Lucy. They look alike, don't they? They have the same dark eyes."
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "Yes, she looks just like him! Do you want to say hello?"
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Sure. Let's go. By the way, what color are Max's eyes? I always forget."
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "They're brown, like his sister's. Come on!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What does Mia have now?",
+     "options": [
+      "A ponytail",
+      "Braids",
+      "A wig"
+     ],
+     "answer": 0,
+     "explain": "Dan dice: You have a ponytail now."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Max is wearing...",
+     "options": [
+      "A red shirt",
+      "A gray tie",
+      "A blue jacket"
+     ],
+     "answer": 0,
+     "explain": "The one wearing the red shirt."
+    },
+    {
+     "id": "L3",
+     "type": "gap",
+     "prompt": "Mia forgets the name of the guy with the funny little beard; Dan says it's a ___.",
+     "answers": [
+      "goatee"
+     ],
+     "explain": "Do you mean a goatee?"
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "How is Max now?",
+     "options": [
+      "Muscular, with short spiked hair",
+      "Skinny, with a goatee",
+      "Bald, with a mustache"
+     ],
+     "answer": 0,
+     "explain": "Now he has short spiked hair and he is very muscular."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "Lucy and Max look alike.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "They look alike; they have the same dark eyes."
+    },
+    {
+     "id": "L6",
+     "type": "gap",
+     "prompt": "Max's eyes are ___.",
+     "answers": [
+      "brown"
+     ],
+     "explain": "They're brown, like his sister's."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Do you see that guy wearing the red shirt?",
+     "answers": [
+      "Do you see that guy wearing the red shirt?"
+     ],
+     "explain": "Guy + verb in -ing to identify someone."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "What do you call that?",
+     "answers": [
+      "What do you call that?"
+     ],
+     "explain": "What do you call...? to ask for a word you forgot."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "She has long curly hair.",
+     "answers": [
+      "She has long curly hair.",
+      "She's got long curly hair."
+     ],
+     "explain": "Has / 's got + adjetivos + sustantivo."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "They look alike, don't they?",
+     "answers": [
+      "They look alike, don't they?"
+     ],
+     "explain": "Look alike sin objeto."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Describe a person in your family: what they look like and who you look like.",
+     "questions": [
+      "Who is in your family?",
+      "What does your mother or father look like?",
+      "How tall is he or she?",
+      "Who do you look like?"
+     ],
+     "model": "My father is tall and muscular. He has short dark hair and brown eyes. He has a small mustache. He's about one meter ninety. I look like my mother, but I take after my father: we are both very patient.",
+     "checklist": [
+      "What does he look like? / look like",
+      "has / 's got + features",
+      "How tall / What color",
+      "take after for similarities"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Identify a person in a photo or in an imaginary room (clothing, features, place).",
+     "questions": [
+      "Which one is your friend?",
+      "Who's the person wearing glasses?",
+      "Who is standing by the door?",
+      "What is she wearing?"
+     ],
+     "model": "My friend is the woman wearing a green dress. She's the one with long curly hair. The man in the blue shirt is her brother. The guy standing by the door is my teacher.",
+     "checklist": [
+      "wearing / standing + place",
+      "with + feature",
+      "in + clothing",
+      "the one / the woman / the guy"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about fashion: what is in style and what is out of style. If you forget a word, use the strategies.",
+     "questions": [
+      "What clothes are in style right now?",
+      "What is going out of style?",
+      "What do you call those pants with big pockets?",
+      "Do you like trendy clothes?"
+     ],
+     "model": "Right now sneakers and big sunglasses are in style. Skinny jeans are going out of style, I think. Baggy pants are trendy again. I like comfortable clothes. Oh, what do you call those shirts with short sleeves and buttons? Do you mean polo shirts? Yes!",
+     "checklist": [
+      "in style / out of style / dated",
+      "What do you call...? / Do you mean...?",
+      "Clothing with the right name",
+      "Opinion with I think / I like"
+     ]
+    }
+   ],
+   "repeat": [
+    "What does your sister look like?",
+    "She looks just like her father.",
+    "Do you remember that guy? Oh, what's his name?",
+    "He's the man wearing the gray tie.",
+    "Do you mean a goatee?",
+    "Long hair is going out of style."
+   ]
+  }
+ }
+}

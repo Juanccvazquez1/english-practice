@@ -1,0 +1,2003 @@
+{
+ "id": "u-c2-02",
+ "level": "C2",
+ "n": 2,
+ "title": "The art of storytelling",
+ "goals": [
+  "Front places, participles and adjectives with inversion (In the doorway stood a man; Hidden beneath the floor lay…) to control where the reader's eye lands.",
+  "Use literary emphatic fronting: Gone are the days…, Such was the…, So quiet was…, Not a word did he say.",
+  "Omit what is recoverable (ellipsis after auxiliaries, to and in coordination) to build rhythm without losing clarity.",
+  "Substitute with so, not, do so, one/ones and the former/the latter, and know when they sound natural or overly formal.",
+  "Choose verbs of movement, looking and speech with precision, and atmospheric adjectives with narrative weight.",
+  "Narrate an anecdote with style (narrative markers, rhythm, suspense) and rewrite a flat text to improve it."
+ ],
+ "learn": [
+  {
+   "id": "g-fronting-loc",
+   "kind": "grammar",
+   "title": "Fronting of place and of participles with inversion",
+   "html": "<p>In narrative, a place adverbial or a participle is placed at the beginning to \"move the camera\": first the scene, and at the end the important thing. When the verb expresses position, movement or existence, the subject and the verb are <strong>inverted</strong> (without <em>do</em>).</p><table><thead><tr><th>Device</th><th>Standard order</th><th>With fronting</th></tr></thead><tbody><tr><td>Place + verb of position</td><td>A man stood in the doorway.</td><td><strong>In the doorway stood</strong> a man.</td></tr><tr><td>Place + movement</td><td>A cart rolled down the hill.</td><td><strong>Down the hill rolled</strong> a cart.</td></tr><tr><td>Past participle / adjective + be</td><td>A bundle of letters was hidden beneath the floorboards.</td><td><strong>Hidden beneath the floorboards was</strong> a bundle of letters.</td></tr><tr><td>Present participle</td><td>A lone cyclist was standing in the rain.</td><td><strong>Standing in the rain was</strong> a lone cyclist.</td></tr><tr><td>here / there / now / then</td><td>The bus comes here.</td><td><strong>Here comes</strong> the bus. (but with a pronoun: <em>Here it comes!</em>)</td></tr></tbody></table><ul><li><strong>Only with intransitive verbs</strong> of position, movement or appearance (<em>stand, lie, sit, hang, come, go, walk, rise, appear, follow, be</em>). It does not work with transitive verbs.</li><li><strong>With a subject pronoun there is NO inversion:</strong> <em>In the corner she sat</em>, not <em>In the corner sat she</em>.</li><li><strong>Do not add <em>do</em>:</strong> inversion after a fronted place uses the lexical verb (<em>Into the room walked a stranger</em>), which is different from the auxiliary inversion in the next block.</li><li><strong>End of sentence = focus:</strong> the new and important element (the subject) is left at the end, where the reader receives it with the most weight.</li><li><strong>Register:</strong> literary and journalistic; in conversation it sounds theatrical, except <em>Here we go</em>, <em>There goes…</em> and <em>Here comes…</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "On the top shelf sat she, quietly reading.",
+     "right": "On the top shelf she sat, quietly reading.",
+     "why": "With a subject pronoun there is no inversion."
+    },
+    {
+     "wrong": "Into the room did walk a stranger.",
+     "right": "Into the room walked a stranger.",
+     "why": "Fronted place inverts the lexical verb, with no do."
+    },
+    {
+     "wrong": "Sat on the bench an old man.",
+     "right": "On the bench sat an old man.",
+     "why": "What is fronted is the place adverbial, not the verb alone."
+    },
+    {
+     "wrong": "Hidden under the bed found she the letter.",
+     "right": "Hidden under the bed was the letter.",
+     "why": "With a transitive verb it is not fronted this way; use be + past participle, with the subject at the end."
+    }
+   ]
+  },
+  {
+   "id": "g-fronting-emph",
+   "kind": "grammar",
+   "title": "Emphatic fronting: Gone are the days…, Such was…, So…was…",
+   "html": "<p>Besides place, the <strong>complement or the adjective</strong> can be fronted to give solemnity, emphasis or cadence. It almost always requires subject-verb inversion.</p><table><thead><tr><th>Pattern</th><th>Example</th><th>Note</th></tr></thead><tbody><tr><td><strong>Gone / Long gone are</strong> the days when…</td><td><em>Gone are the days when children played in the street until dark.</em></td><td>Nostalgia or the end of an era. It agrees with the noun: <em>Gone is the era…</em></td></tr><tr><td><strong>Such was</strong> + noun + that…</td><td><em>Such was the force of the blast that every window shattered.</em></td><td>= so great was… that.</td></tr><tr><td><strong>So</strong> + adjective + <strong>was/were</strong> + subject + that…</td><td><em>So quiet was the street that every footstep echoed.</em></td><td>Adjective + be + subject + that.</td></tr><tr><td><strong>Not a / Not one / Not once</strong> + auxiliary + subject</td><td><em>Not a word did she say all evening.</em></td><td>Fronted negative: auxiliary before the subject.</td></tr><tr><td><strong>Only then / Only after / Only when</strong> + auxiliary + subject</td><td><em>Only then did he realise what she meant.</em></td><td>Restrictive: inversion in the main clause.</td></tr><tr><td><strong>Hardly / No sooner</strong> had… when / than</td><td><em>Hardly had we left when it began to rain.</em></td><td>C1 review: inversion with negative adverbs.</td></tr><tr><td>Adjective of evaluation + be</td><td><em>Fortunate are those who never have to choose.</em></td><td>Proverbial or oratorical tone.</td></tr></tbody></table><ul><li><strong>Mind the order:</strong> <em>So terrible was the storm that…</em> (adjective, verb, subject), not <em>So terrible the storm was that…</em>.</li><li><strong>Such was the</strong> + abstract noun (<em>force, shock, silence</em>); you do not say <em>Such a beautiful was…</em>.</li><li>Do not overuse these: two or three fronted structures in a text add style; six in one paragraph sound like pastiche.</li></ul>",
+   "watch": [
+    {
+     "wrong": "So terrible the storm was that the ferry never left.",
+     "right": "So terrible was the storm that the ferry never left.",
+     "why": "After So + a fronted adjective, the verb and the subject are inverted."
+    },
+    {
+     "wrong": "Gone the days are when he could just walk out.",
+     "right": "Gone are the days when he could just walk out.",
+     "why": "Gone + are + subject: inverts the verb."
+    },
+    {
+     "wrong": "Not a word she said all evening.",
+     "right": "Not a word did she say all evening.",
+     "why": "A fronted negative complement requires an auxiliary before the subject."
+    }
+   ]
+  },
+  {
+   "id": "g-ellipsis",
+   "kind": "grammar",
+   "title": "Ellipsis: saying less to say more",
+   "html": "<p>Ellipsis omits what the listener can already recover. It is not carelessness: it gives rhythm, avoids heaviness and, in narrative, leaves gaps for the reader to fill.</p><table><thead><tr><th>Context</th><th>With repetition</th><th>With ellipsis</th></tr></thead><tbody><tr><td>Subject in coordination</td><td>Tom opened the drawer and Tom took out a letter.</td><td>Tom opened the drawer and took out a letter.</td></tr><tr><td>After an auxiliary</td><td>She has finished her report, but I haven't finished yet.</td><td>She has finished her report, but I <strong>haven't</strong> yet.</td></tr><tr><td>After to</td><td>He asked me to join, but I didn't want to join.</td><td>He asked me to join, but I didn't want <strong>to</strong>.</td></tr><tr><td>Gapping (repeated verb)</td><td>Some guests arrived early, others arrived late.</td><td>Some guests arrived early, others <strong>late</strong>.</td></tr><tr><td>Answers</td><td>— Will you come? — I will come.</td><td>— Will you come? — I will. / I'd love to.</td></tr><tr><td>Indirect questions (sluicing)</td><td>He's leaving, but I don't know why he's leaving.</td><td>He's leaving, but I don't know <strong>why</strong>.</td></tr><tr><td>Telegraphic / diary style</td><td>I went out. I saw nothing.</td><td>Went out. Saw nothing.</td></tr></tbody></table><ul><li><strong>Golden rule:</strong> you can omit whatever is identical and recoverable; the auxiliary (or <em>to</em>) stays as an \"anchor\".</li><li><strong>Right auxiliary:</strong> if the original sentence had no auxiliary, use <em>do/does/did</em> (<em>I like it, and so does she</em>); do not invent auxiliaries that are not there.</li><li><strong>Narrative:</strong> <em>She wanted to say something. She didn't.</em> The omitted verb carries more weight than a written one.</li><li><strong>Not valid if it creates ambiguity.</strong> If the reader is unsure what was omitted, repeat it.</li></ul>",
+   "watch": [
+    {
+     "wrong": "She said she'd call, but she didn't to.",
+     "right": "She said she'd call, but she didn't.",
+     "why": "After an auxiliary the verb is omitted; to appears only when it replaces an infinitive (I didn't want to)."
+    },
+    {
+     "wrong": "I'd love to come, but I can't to.",
+     "right": "I'd love to come, but I can't.",
+     "why": "Can is a modal: it is not followed by to."
+    },
+    {
+     "wrong": "I've never been to Oaxaca, but my sister has been it.",
+     "right": "I've never been to Oaxaca, but my sister has.",
+     "why": "Everything that can be recovered after the auxiliary is elided (e.g. 'has been to Oaxaca')."
+    }
+   ]
+  },
+  {
+   "id": "g-substitution",
+   "kind": "grammar",
+   "title": "Substitution: so, not, do so, one/ones, the former/the latter",
+   "html": "<p>Substitution replaces a fragment with a \"stand-in\" word. It maintains cohesion and avoids heavy repetition.</p><table><thead><tr><th>Device</th><th>Use</th><th>Example</th></tr></thead><tbody><tr><td><strong>so / not</strong> after verbs of opinion</td><td>I think / hope / suppose / believe / expect / suspect / guess / am afraid <strong>so</strong>. Negative: <em>I hope / suspect / am afraid <strong>not</strong></em>; with think and believe: <em>I don't think so</em> or <em>I think not</em> (more formal).</td><td>— Is she coming? — I'm afraid <strong>so</strong>.</td></tr><tr><td><strong>if so / if not</strong></td><td>They replace a whole clause.</td><td>If so, we'll leave; if not, we'll wait.</td></tr><tr><td><strong>do so</strong></td><td>Replaces a verb + complement; more formal than <em>do it</em>.</td><td>She told him to leave and he <strong>did so</strong> without a word.</td></tr><tr><td><strong>one / ones</strong></td><td>Replace a <strong>countable</strong> noun; they work with adjectives and with <em>this/that/which/the</em>.</td><td>I lost my umbrella, so I bought a new <strong>one</strong>. These boots are tight; have you got bigger <strong>ones</strong>?</td></tr><tr><td><strong>the former / the latter</strong></td><td>The first / the second of two elements mentioned.</td><td>Of tea and coffee, I prefer the latter.</td></tr><tr><td><strong>so do I / neither do I</strong></td><td>Agreement with inversion.</td><td>— I love it. — So do I.</td></tr><tr><td><strong>the same / likewise</strong></td><td>Replace an action or quality already mentioned.</td><td>He apologised, and she did the same.</td></tr></tbody></table><ul><li><strong>One/ones do not replace uncountable nouns</strong> (<em>I prefer the red wine</em>, not <em>the red one</em> if you are talking about wine in general), nor do they follow a possessive without an adjective (<em>my one</em> is wrong; <em>mine</em> is right).</li><li><strong>With a bare comparative adjective,</strong> English requires the substitute: <em>bigger ones</em>, not <em>bigger</em>.</li><li><strong>So/not never take it:</strong> <em>I hope so</em>, not <em>I hope it</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "— Is she coming? — I hope it.",
+     "right": "— Is she coming? — I hope so.",
+     "why": "After hope, suppose, think…, the short answer uses so / not, not it."
+    },
+    {
+     "wrong": "These shoes are too tight; do you have bigger?",
+     "right": "These shoes are too tight; do you have bigger ones?",
+     "why": "With a comparative adjective and no noun, you must use ones."
+    },
+    {
+     "wrong": "Can I borrow yours one?",
+     "right": "Can I borrow yours?",
+     "why": "Possessive pronouns already replace the noun; one is redundant."
+    }
+   ]
+  },
+  {
+   "id": "v-verbs",
+   "kind": "vocab",
+   "title": "Verbs of looking, movement and speech",
+   "words": [
+    {
+     "id": "w-glimpse",
+     "en": "glimpse (v./n.)",
+     "es": "vislumbrar; vistazo fugaz",
+     "example": "I only caught a glimpse of her face before the train pulled away.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-peer",
+     "en": "peer (at/into)",
+     "es": "mirar con esfuerzo o curiosidad, entornando los ojos",
+     "example": "He peered into the gloom, trying to make out a shape.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-squint",
+     "en": "squint (at)",
+     "es": "entrecerrar los ojos (por luz fuerte o mala vista)",
+     "example": "She squinted at the faded handwriting."
+    },
+    {
+     "id": "w-gaze",
+     "en": "gaze (at)",
+     "es": "contemplar con la mirada fija (admiración, ensueño)",
+     "example": "They gazed at the horizon in silence.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-glare",
+     "en": "glare (at)",
+     "es": "mirar con hostilidad, fulminar con la mirada",
+     "example": "He glared at the waiter and said nothing."
+    },
+    {
+     "id": "w-scrutinise",
+     "en": "scrutinise",
+     "es": "escrutar, examinar con detalle y desconfianza",
+     "example": "The inspector scrutinised every page of the contract."
+    },
+    {
+     "id": "w-stagger",
+     "en": "stagger",
+     "es": "tambalearse, andar con paso inseguro",
+     "example": "He staggered out of the bar at three in the morning."
+    },
+    {
+     "id": "w-trudge",
+     "en": "trudge",
+     "es": "caminar con esfuerzo y pesadez (lodo, cansancio, desgano)",
+     "example": "They trudged up the muddy track in the rain."
+    },
+    {
+     "id": "w-saunter",
+     "en": "saunter",
+     "es": "pasear sin prisa y con aire despreocupado",
+     "example": "He sauntered down the street with his hands in his pockets."
+    },
+    {
+     "id": "w-scuttle",
+     "en": "scuttle",
+     "es": "correr a pasitos rápidos (como un insecto, con prisa o miedo)",
+     "example": "The children scuttled back to their desks when the head appeared."
+    },
+    {
+     "id": "w-hurtle",
+     "en": "hurtle",
+     "es": "lanzarse a gran velocidad, a menudo sin control",
+     "example": "A lorry came hurtling round the corner."
+    },
+    {
+     "id": "w-slink",
+     "en": "slink (slunk)",
+     "es": "escabullirse, moverse con sigilo y vergüenza",
+     "example": "She slunk out of the meeting before anyone could ask her a question."
+    },
+    {
+     "id": "w-murmur",
+     "en": "murmur",
+     "es": "murmurar, decir en voz baja y suave",
+     "example": "'Goodnight,' she murmured."
+    },
+    {
+     "id": "w-mutter",
+     "en": "mutter",
+     "es": "mascullar, hablar entre dientes (por irritación o timidez)",
+     "example": "He muttered something under his breath."
+    },
+    {
+     "id": "w-snap",
+     "en": "snap",
+     "es": "contestar con brusquedad",
+     "example": "'Mind your own business!' she snapped.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-stammer",
+     "en": "stammer",
+     "es": "tartamudear (por nervios o turbación)",
+     "example": "He stammered his way through the first line."
+    },
+    {
+     "id": "w-blurt",
+     "en": "blurt out",
+     "es": "soltar sin pensar, espetar",
+     "example": "I blurted out the whole story before she had finished asking.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rasp",
+     "en": "rasp",
+     "es": "decir con voz ronca o áspera",
+     "example": "'Get out,' he rasped."
+    }
+   ]
+  },
+  {
+   "id": "v-atmosphere",
+   "kind": "vocab",
+   "title": "Atmospheric and descriptive adjectives",
+   "words": [
+    {
+     "id": "w-eerie",
+     "en": "eerie",
+     "es": "inquietante, misterioso (silencio, luz)",
+     "example": "An eerie light hung over the marshes."
+    },
+    {
+     "id": "w-ominous",
+     "en": "ominous",
+     "es": "ominoso, de mal agüero",
+     "example": "An ominous calm settled over the village before the storm."
+    },
+    {
+     "id": "w-foreboding",
+     "en": "foreboding (n.)",
+     "es": "presentimiento (de que algo malo va a ocurrir)",
+     "example": "A sense of foreboding came over him as he opened the door."
+    },
+    {
+     "id": "w-dilapidated",
+     "en": "dilapidated",
+     "es": "ruinoso, desvencijado (edificios, objetos)",
+     "example": "The dilapidated mansion had broken windows and a sagging roof."
+    },
+    {
+     "id": "w-ramshackle",
+     "en": "ramshackle",
+     "es": "destartalado, mal construido y a punto de caerse",
+     "example": "A ramshackle shed leaned against the wall."
+    },
+    {
+     "id": "w-cavernous",
+     "en": "cavernous",
+     "es": "inmenso y vacío, como una cueva",
+     "example": "Their footsteps echoed in the cavernous hall."
+    },
+    {
+     "id": "w-dishevelled",
+     "en": "dishevelled",
+     "es": "desaliñado, despeinado y desordenado",
+     "example": "He arrived dishevelled, his shirt half untucked."
+    },
+    {
+     "id": "w-wistful",
+     "en": "wistful",
+     "es": "nostálgico, con un deseo triste y suave",
+     "example": "She gave a wistful smile, remembering summers long gone."
+    },
+    {
+     "id": "w-sullen",
+     "en": "sullen",
+     "es": "hosco, malhumorado y callado",
+     "example": "A sullen teenager slumped at the back of the class."
+    },
+    {
+     "id": "w-languid",
+     "en": "languid",
+     "es": "lánguido, lento y relajado",
+     "example": "The languid afternoon drifted by."
+    },
+    {
+     "id": "w-bleak",
+     "en": "bleak",
+     "es": "desolado, sombrío, sin esperanza",
+     "example": "The bleak moorland stretched out in every direction."
+    },
+    {
+     "id": "w-stifling",
+     "en": "stifling",
+     "es": "sofocante, opresivo (calor, ambiente)",
+     "example": "The stifling heat pressed down on everyone in the room."
+    },
+    {
+     "id": "w-hushed",
+     "en": "hushed",
+     "es": "silenciado, hablado en voz baja",
+     "example": "A hushed silence fell over the library."
+    },
+    {
+     "id": "w-fleeting",
+     "en": "fleeting",
+     "es": "fugaz, pasajero",
+     "example": "She caught a fleeting glimpse of him in the crowd.",
+     "cefr": "C1"
+    }
+   ]
+  },
+  {
+   "id": "e-narrative",
+   "kind": "expressions",
+   "title": "Narrative markers and rhythm control",
+   "html": "<ul><li><strong>Long story short / To cut a long story short</strong> — to make a long story short: jumps to the outcome.</li><li><strong>Fast-forward to…</strong> — skipping ahead to…: jumps in time.</li><li><strong>Little did I know…</strong> — \"what I did not know…\": creates suspense (inversion with a negative adverb).</li><li><strong>Out of nowhere / Out of the blue</strong> — suddenly, without warning.</li><li><strong>The next thing I knew…</strong> — and then, suddenly…: speeds things up.</li><li><strong>As luck would have it</strong> — as chance would have it (good or bad).</li><li><strong>There I was, -ing…</strong> — \"there I was…\": the scene of an oral anecdote.</li><li><strong>Come to think of it / Mind you</strong> — on reflection / mind you, though: adds a nuance or a twist.</li><li><strong>In the nick of time</strong> — just in time.</li><li><strong>To make matters worse</strong> — to top it all.</li><li><strong>dine out on a story</strong> — to live off telling an anecdote (boasting about it at dinner parties).</li></ul><p><strong>Rhythm:</strong> alternate long sentences that build up with short sentences that cut sharply; keep the most important element for the end of the sentence; use fronting to set the scene and ellipsis to speed things up. Read aloud: if you breathe where you should not, rewrite.</p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Fronting of place and participles",
+   "instructions": "Choose, complete or correct to achieve the narrative effect with the correct inversion.",
+   "topic": "g-fronting-loc",
+   "items": [
+    {
+     "id": "A1",
+     "type": "choice",
+     "prompt": "Down the hill ___, loaded with barrels.",
+     "options": [
+      "the cart rolled",
+      "rolled the cart",
+      "did the cart roll"
+     ],
+     "answer": 1,
+     "explain": "Place + verb of movement + nominal subject."
+    },
+    {
+     "id": "A2",
+     "type": "choice",
+     "prompt": "Here ___ — right on time.",
+     "options": [
+      "comes it",
+      "it comes",
+      "does it come"
+     ],
+     "answer": 1,
+     "explain": "With a subject pronoun there is no inversion."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "In the doorway ___ a tall figure, his face hidden in shadow.",
+     "answers": [
+      "stood",
+      "loomed",
+      "appeared",
+      "waited",
+      "paused",
+      "lurked"
+     ],
+     "explain": "Place + verb of position + subject."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "Hidden beneath the floorboards ___ a bundle of old letters.",
+     "answers": [
+      "was",
+      "lay",
+      "sat",
+      "rested"
+     ],
+     "explain": "Fronted participle + be + subject."
+    },
+    {
+     "id": "A5",
+     "type": "fix",
+     "prompt": "On the top shelf sat she, quietly reading.",
+     "answers": [
+      "On the top shelf she sat, quietly reading."
+     ],
+     "explain": "With a subject pronoun there is no inversion."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "Into the room did walk a stranger.",
+     "answers": [
+      "Into the room walked a stranger."
+     ],
+     "explain": "No do: the lexical verb is inverted."
+    },
+    {
+     "id": "A7",
+     "type": "translate",
+     "prompt": "Al fondo del pasillo había una puerta entreabierta.",
+     "answers": [
+      "At the end of the corridor stood a half-open door.",
+      "At the end of the corridor stood a door ajar.",
+      "At the end of the corridor stood a half-opened door.",
+      "At the end of the corridor was a half-open door.",
+      "At the end of the corridor was a door ajar.",
+      "At the end of the corridor was a half-opened door.",
+      "At the end of the hallway stood a half-open door.",
+      "At the end of the hallway stood a door ajar.",
+      "At the end of the hallway stood a half-opened door.",
+      "At the end of the hallway was a half-open door.",
+      "At the end of the hallway was a door ajar.",
+      "At the end of the hallway was a half-opened door.",
+      "At the end of the passage stood a half-open door.",
+      "At the end of the passage stood a door ajar.",
+      "At the end of the passage stood a half-opened door.",
+      "At the end of the passage was a half-open door.",
+      "At the end of the passage was a door ajar.",
+      "At the end of the passage was a half-opened door.",
+      "At the far end of the corridor stood a half-open door.",
+      "At the far end of the corridor stood a door ajar.",
+      "At the far end of the corridor stood a half-opened door.",
+      "At the far end of the corridor was a half-open door.",
+      "At the far end of the corridor was a door ajar.",
+      "At the far end of the corridor was a half-opened door.",
+      "At the far end of the hallway stood a half-open door.",
+      "At the far end of the hallway stood a door ajar.",
+      "At the far end of the hallway stood a half-opened door.",
+      "At the far end of the hallway was a half-open door.",
+      "At the far end of the hallway was a door ajar.",
+      "At the far end of the hallway was a half-opened door.",
+      "At the far end of the passage stood a half-open door.",
+      "At the far end of the passage stood a door ajar.",
+      "At the far end of the passage stood a half-opened door.",
+      "At the far end of the passage was a half-open door.",
+      "At the far end of the passage was a door ajar.",
+      "At the far end of the passage was a half-opened door."
+     ],
+     "explain": "Fronted place + verb, with the subject at the end."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "Beside",
+      "dog",
+      "old",
+      "the",
+      "fireplace",
+      "grey",
+      "an",
+      "slept"
+     ],
+     "answers": [
+      "Beside the fireplace slept an old grey dog."
+     ],
+     "explain": "Place + verb + subject: the focus is left at the end."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Emphatic fronting",
+   "instructions": "Complete or correct with the correct order and form.",
+   "topic": "g-fronting-emph",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "___ the days when children played in the street until dark.",
+     "options": [
+      "Gone are",
+      "Gone is",
+      "Are gone"
+     ],
+     "answer": 0,
+     "explain": "Gone are + plural subject."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "So ___ was the silence that we could hear the clock.",
+     "options": [
+      "deafening",
+      "deafeningly",
+      "deafen"
+     ],
+     "answer": 0,
+     "explain": "So + adjective + was + subject + that…"
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "___ was the force of the blast that every window in the street shattered.",
+     "answers": [
+      "Such"
+     ],
+     "explain": "Such was + abstract noun + that…"
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "Not a word ___ she say all evening.",
+     "answers": [
+      "did"
+     ],
+     "explain": "Fronted negative: auxiliary before the subject."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "Only after the guests had left ___ her husband the truth.",
+     "options": [
+      "she told",
+      "did she tell",
+      "she did tell"
+     ],
+     "answer": 1,
+     "explain": "Only after… requires inversion in the main clause."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "So terrible the storm was that the ferry never left.",
+     "answers": [
+      "So terrible was the storm that the ferry never left."
+     ],
+     "explain": "So + adjective + was + subject."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "Gone the days are when he could simply walk out.",
+     "answers": [
+      "Gone are the days when he could simply walk out."
+     ],
+     "explain": "Gone + are + subject."
+    },
+    {
+     "id": "B8",
+     "type": "translate",
+     "prompt": "Tan fuerte fue la tormenta que nadie pudo dormir.",
+     "answers": [
+      "So strong was the storm that nobody could sleep.",
+      "So strong was the storm that no one could sleep.",
+      "So strong was the storm that nobody was able to sleep.",
+      "So strong was the storm that no one was able to sleep.",
+      "So fierce was the storm that nobody could sleep.",
+      "So fierce was the storm that no one could sleep.",
+      "So fierce was the storm that nobody was able to sleep.",
+      "So fierce was the storm that no one was able to sleep.",
+      "So violent was the storm that nobody could sleep.",
+      "So violent was the storm that no one could sleep.",
+      "So violent was the storm that nobody was able to sleep.",
+      "So violent was the storm that no one was able to sleep.",
+      "So severe was the storm that nobody could sleep.",
+      "So severe was the storm that no one could sleep.",
+      "So severe was the storm that nobody was able to sleep.",
+      "So severe was the storm that no one was able to sleep.",
+      "Such was the strength of the storm that nobody could sleep.",
+      "Such was the strength of the storm that no one could sleep.",
+      "Such was the strength of the storm that nobody was able to sleep.",
+      "Such was the strength of the storm that no one was able to sleep.",
+      "Such was the force of the storm that nobody could sleep.",
+      "Such was the force of the storm that no one could sleep.",
+      "Such was the force of the storm that nobody was able to sleep.",
+      "Such was the force of the storm that no one was able to sleep.",
+      "Such was the violence of the storm that nobody could sleep.",
+      "Such was the violence of the storm that no one could sleep.",
+      "Such was the violence of the storm that nobody was able to sleep.",
+      "Such was the violence of the storm that no one was able to sleep.",
+      "Such was the fury of the storm that nobody could sleep.",
+      "Such was the fury of the storm that no one could sleep.",
+      "Such was the fury of the storm that nobody was able to sleep.",
+      "Such was the fury of the storm that no one was able to sleep.",
+      "Such was the ferocity of the storm that nobody could sleep.",
+      "Such was the ferocity of the storm that no one could sleep.",
+      "Such was the ferocity of the storm that nobody was able to sleep.",
+      "Such was the ferocity of the storm that no one was able to sleep.",
+      "Such was the sheer strength of the storm that nobody could sleep.",
+      "Such was the sheer strength of the storm that no one could sleep.",
+      "Such was the sheer strength of the storm that nobody was able to sleep.",
+      "Such was the sheer strength of the storm that no one was able to sleep.",
+      "Such was the sheer force of the storm that nobody could sleep.",
+      "Such was the sheer force of the storm that no one could sleep.",
+      "Such was the sheer force of the storm that nobody was able to sleep.",
+      "Such was the sheer force of the storm that no one was able to sleep.",
+      "Such was the sheer violence of the storm that nobody could sleep.",
+      "Such was the sheer violence of the storm that no one could sleep.",
+      "Such was the sheer violence of the storm that nobody was able to sleep.",
+      "Such was the sheer violence of the storm that no one was able to sleep.",
+      "Such was the sheer fury of the storm that nobody could sleep.",
+      "Such was the sheer fury of the storm that no one could sleep.",
+      "Such was the sheer fury of the storm that nobody was able to sleep.",
+      "Such was the sheer fury of the storm that no one was able to sleep.",
+      "Such was the sheer ferocity of the storm that nobody could sleep.",
+      "Such was the sheer ferocity of the storm that no one could sleep.",
+      "Such was the sheer ferocity of the storm that nobody was able to sleep.",
+      "Such was the sheer ferocity of the storm that no one was able to sleep."
+     ],
+     "explain": "So + adjective + was + subject + that / Such was + noun + of… + that."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Ellipsis",
+   "instructions": "Choose or write the natural elliptical version.",
+   "topic": "g-ellipsis",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "Are you going to the party? — I'd like ___, but I have to work.",
+     "answers": [
+      "to"
+     ],
+     "explain": "After to, the recoverable infinitive is omitted."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "She has finished her report, but I ___ yet.",
+     "answers": [
+      "haven't",
+      "have not"
+     ],
+     "explain": "Auxiliary as anchor: I haven't (yet)."
+    },
+    {
+     "id": "C3",
+     "type": "choice",
+     "prompt": "Which is the most economical and natural?",
+     "options": [
+      "Tom opened the drawer and took out a letter.",
+      "Tom opened the drawer and he took out a letter.",
+      "Tom opened the drawer and took out it a letter."
+     ],
+     "answer": 0,
+     "explain": "Shared subject in coordination: the second one is omitted."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "He said he would phone, and he ___.",
+     "options": [
+      "did",
+      "did it so",
+      "phoned it"
+     ],
+     "answer": 0,
+     "explain": "Auxiliary replaces the verb: he did."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "He asked me to join the project, but I didn't want to join.",
+     "answers": [
+      "He asked me to join the project, but I didn't want to."
+     ],
+     "explain": "After to, the repeated verb is omitted."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "Some of the guests arrived early, others arrived late, and a few arrived not at all.",
+     "answers": [
+      "Some of the guests arrived early, others late, and a few not at all.",
+      "Some of the guests arrived early, others late, and a few never."
+     ],
+     "explain": "Gapping: the repeated verb is omitted."
+    },
+    {
+     "id": "C7",
+     "type": "translate",
+     "prompt": "Me encantaría ir, pero no puedo.",
+     "answers": [
+      "I'd love to, but I can't.",
+      "I'd love to, but I cannot.",
+      "I would love to, but I can't.",
+      "I would love to, but I cannot.",
+      "I'd love to go, but I can't.",
+      "I'd love to go, but I cannot.",
+      "I would love to go, but I can't.",
+      "I would love to go, but I cannot.",
+      "I'd like to, but I can't.",
+      "I'd like to, but I cannot.",
+      "I would like to, but I can't.",
+      "I would like to, but I cannot."
+     ],
+     "explain": "I'd love to (go omitted) and can't (go omitted)."
+    },
+    {
+     "id": "C8",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "something",
+      "wanted",
+      "He",
+      "to",
+      "but",
+      "couldn't",
+      "say"
+     ],
+     "answers": [
+      "He wanted to say something but couldn't."
+     ],
+     "explain": "Ellipsis after a modal: couldn't (say it)."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Substitution",
+   "instructions": "Complete or correct with the appropriate substitute.",
+   "topic": "g-substitution",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "— Will it rain tomorrow? — I hope ___; the match is at nine.",
+     "options": [
+      "not",
+      "no",
+      "it not"
+     ],
+     "answer": 0,
+     "explain": "I hope not."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "— Is she coming? — I'm afraid ___. She's got flu.",
+     "options": [
+      "so",
+      "it",
+      "that"
+     ],
+     "answer": 0,
+     "explain": "I'm afraid so."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "I lost my umbrella, so I bought a new ___.",
+     "answers": [
+      "one"
+     ],
+     "explain": "One replaces a singular countable noun."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "These boots are too tight. Do you have any bigger ___?",
+     "answers": [
+      "ones"
+     ],
+     "explain": "Ones replaces a plural countable noun."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "She told him to leave, and he did ___ without a word.",
+     "answers": [
+      "so"
+     ],
+     "explain": "Did so = did that (more formal register)."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "— Has the shop closed? — I don't think ___.",
+     "options": [
+      "so",
+      "it",
+      "that so"
+     ],
+     "answer": 0,
+     "explain": "I don't think so."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "Will he resign? I suppose it.",
+     "answers": [
+      "Will he resign? I suppose so.",
+      "Will he resign? I guess so.",
+      "Will he resign? I think so.",
+      "Will he resign? I expect so.",
+      "Will he resign? I imagine so.",
+      "Will he resign? I suspect so."
+     ],
+     "explain": "After suppose / guess / think, use so, not it."
+    },
+    {
+     "id": "D8",
+     "type": "translate",
+     "prompt": "Si es así, tendremos que cancelar; si no, seguiremos adelante.",
+     "answers": [
+      "If so, we'll have to cancel; if not, we'll carry on.",
+      "If so, we'll have to cancel; if not, we will carry on.",
+      "If so, we'll have to cancel; if not, we'll go ahead.",
+      "If so, we'll have to cancel; if not, we will go ahead.",
+      "If so, we'll have to cancel; if not, we'll proceed.",
+      "If so, we'll have to cancel; if not, we'll press on.",
+      "If so, we'll have to cancel; if it isn't, we'll carry on.",
+      "If so, we'll have to cancel; if it isn't, we will carry on.",
+      "If so, we'll have to cancel; if it isn't, we'll go ahead.",
+      "If so, we'll have to cancel; if it isn't, we will go ahead.",
+      "If so, we'll have to cancel; if it isn't, we'll proceed.",
+      "If so, we'll have to cancel; if it isn't, we'll press on.",
+      "If so, we'll have to cancel; if it's not, we'll carry on.",
+      "If so, we'll have to cancel; if it's not, we will carry on.",
+      "If so, we'll have to cancel; if it's not, we'll go ahead.",
+      "If so, we'll have to cancel; if it's not, we will go ahead.",
+      "If so, we'll have to cancel; if it's not, we'll proceed.",
+      "If so, we'll have to cancel; if it's not, we'll press on.",
+      "If so, we will have to cancel; if not, we'll carry on.",
+      "If so, we will have to cancel; if not, we will carry on.",
+      "If so, we will have to cancel; if not, we'll go ahead.",
+      "If so, we will have to cancel; if not, we will go ahead.",
+      "If so, we will have to cancel; if not, we'll proceed.",
+      "If so, we will have to cancel; if not, we'll press on.",
+      "If so, we will have to cancel; if it isn't, we'll carry on.",
+      "If so, we will have to cancel; if it isn't, we will carry on.",
+      "If so, we will have to cancel; if it isn't, we'll go ahead.",
+      "If so, we will have to cancel; if it isn't, we will go ahead.",
+      "If so, we will have to cancel; if it isn't, we'll proceed.",
+      "If so, we will have to cancel; if it isn't, we'll press on.",
+      "If so, we will have to cancel; if it's not, we'll carry on.",
+      "If so, we will have to cancel; if it's not, we will carry on.",
+      "If so, we will have to cancel; if it's not, we'll go ahead.",
+      "If so, we will have to cancel; if it's not, we will go ahead.",
+      "If so, we will have to cancel; if it's not, we'll proceed.",
+      "If so, we will have to cancel; if it's not, we'll press on.",
+      "If that's the case, we'll have to cancel; if not, we'll carry on.",
+      "If that's the case, we'll have to cancel; if not, we will carry on.",
+      "If that's the case, we'll have to cancel; if not, we'll go ahead.",
+      "If that's the case, we'll have to cancel; if not, we will go ahead.",
+      "If that's the case, we'll have to cancel; if not, we'll proceed.",
+      "If that's the case, we'll have to cancel; if not, we'll press on.",
+      "If that's the case, we'll have to cancel; if it isn't, we'll carry on.",
+      "If that's the case, we'll have to cancel; if it isn't, we will carry on.",
+      "If that's the case, we'll have to cancel; if it isn't, we'll go ahead.",
+      "If that's the case, we'll have to cancel; if it isn't, we will go ahead.",
+      "If that's the case, we'll have to cancel; if it isn't, we'll proceed.",
+      "If that's the case, we'll have to cancel; if it isn't, we'll press on.",
+      "If that's the case, we'll have to cancel; if it's not, we'll carry on.",
+      "If that's the case, we'll have to cancel; if it's not, we will carry on.",
+      "If that's the case, we'll have to cancel; if it's not, we'll go ahead.",
+      "If that's the case, we'll have to cancel; if it's not, we will go ahead.",
+      "If that's the case, we'll have to cancel; if it's not, we'll proceed.",
+      "If that's the case, we'll have to cancel; if it's not, we'll press on.",
+      "If that's the case, we will have to cancel; if not, we'll carry on.",
+      "If that's the case, we will have to cancel; if not, we will carry on.",
+      "If that's the case, we will have to cancel; if not, we'll go ahead.",
+      "If that's the case, we will have to cancel; if not, we will go ahead.",
+      "If that's the case, we will have to cancel; if not, we'll proceed.",
+      "If that's the case, we will have to cancel; if not, we'll press on.",
+      "If that's the case, we will have to cancel; if it isn't, we'll carry on.",
+      "If that's the case, we will have to cancel; if it isn't, we will carry on.",
+      "If that's the case, we will have to cancel; if it isn't, we'll go ahead.",
+      "If that's the case, we will have to cancel; if it isn't, we will go ahead.",
+      "If that's the case, we will have to cancel; if it isn't, we'll proceed.",
+      "If that's the case, we will have to cancel; if it isn't, we'll press on.",
+      "If that's the case, we will have to cancel; if it's not, we'll carry on.",
+      "If that's the case, we will have to cancel; if it's not, we will carry on.",
+      "If that's the case, we will have to cancel; if it's not, we'll go ahead.",
+      "If that's the case, we will have to cancel; if it's not, we will go ahead.",
+      "If that's the case, we will have to cancel; if it's not, we'll proceed.",
+      "If that's the case, we will have to cancel; if it's not, we'll press on."
+     ],
+     "explain": "If so / if not replace a whole clause."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Verbs of looking, movement and speech",
+   "instructions": "Choose or write the verb with the correct nuance.",
+   "topic": "v-verbs",
+   "items": [
+    {
+     "id": "E1",
+     "type": "choice",
+     "prompt": "He ___ at the page, trying to make out the faded handwriting.",
+     "options": [
+      "squinted",
+      "staggered",
+      "muttered"
+     ],
+     "answer": 0,
+     "explain": "Visual effort: squinted."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "Exhausted, the hikers ___ up the muddy track in the rain.",
+     "options": [
+      "trudged",
+      "sauntered",
+      "hurtled"
+     ],
+     "answer": 0,
+     "explain": "Walking with effort: trudged."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "He ___ down the street with his hands in his pockets, in no hurry at all.",
+     "options": [
+      "sauntered",
+      "scuttled",
+      "staggered"
+     ],
+     "answer": 0,
+     "explain": "Carefree stroll: sauntered."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "I only caught a ___ of her face before the train pulled away.",
+     "answers": [
+      "glimpse"
+     ],
+     "explain": "A fleeting glance: glimpse."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "\"Mind your own business!\" she ___, irritated by the question.",
+     "options": [
+      "snapped",
+      "murmured",
+      "stammered"
+     ],
+     "answer": 0,
+     "explain": "Abrupt reply: snapped."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "Nervous in front of the whole class, he ___ his way through the first line.",
+     "answers": [
+      "stammered",
+      "stuttered"
+     ],
+     "explain": "Nervous when speaking: stammered."
+    },
+    {
+     "id": "E7",
+     "type": "fix",
+     "prompt": "She peered the envelope for a long time before opening it.",
+     "answers": [
+      "She peered at the envelope for a long time before opening it.",
+      "She scrutinised the envelope for a long time before opening it.",
+      "She scrutinized the envelope for a long time before opening it."
+     ],
+     "explain": "Peer takes at / into; scrutinise is transitive."
+    },
+    {
+     "id": "E8",
+     "type": "translate",
+     "prompt": "Ella se escabulló de la fiesta sin despedirse.",
+     "answers": [
+      "She slunk out of the party without saying goodbye.",
+      "She slunk out of the party without saying good-bye.",
+      "She slunk out of the party without saying goodbye to anyone.",
+      "She slunk away from the party without saying goodbye.",
+      "She slunk away from the party without saying good-bye.",
+      "She slunk away from the party without saying goodbye to anyone.",
+      "She scuttled out of the party without saying goodbye.",
+      "She scuttled out of the party without saying good-bye.",
+      "She scuttled out of the party without saying goodbye to anyone.",
+      "She scuttled away from the party without saying goodbye.",
+      "She scuttled away from the party without saying good-bye.",
+      "She scuttled away from the party without saying goodbye to anyone."
+     ],
+     "explain": "Slink = to slip away stealthily."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Atmospheric adjectives",
+   "instructions": "Choose or write the adjective that creates the appropriate atmosphere.",
+   "topic": "v-atmosphere",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "The ___ mansion had broken windows and a roof that sagged in the middle.",
+     "options": [
+      "dilapidated",
+      "radiant",
+      "hushed"
+     ],
+     "answer": 0,
+     "explain": "Falling into ruin: dilapidated."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "There was a ___ silence in the library; even the clock seemed to whisper.",
+     "options": [
+      "hushed",
+      "cavernous",
+      "ramshackle"
+     ],
+     "answer": 0,
+     "explain": "Low, subdued silence: hushed."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "An ___ calm settled over the village just before the storm broke.",
+     "options": [
+      "ominous",
+      "wistful",
+      "languid"
+     ],
+     "answer": 0,
+     "explain": "Of bad omen: ominous."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "She gave a ___ smile, remembering summers that would never return.",
+     "answers": [
+      "wistful"
+     ],
+     "explain": "Nostalgic: wistful."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "The ___ heat of the afternoon pressed down on everyone in the room.",
+     "answers": [
+      "stifling",
+      "oppressive"
+     ],
+     "explain": "Suffocating heat: stifling."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "His hair was matted and his shirt untucked; he looked thoroughly ___.",
+     "options": [
+      "dishevelled",
+      "radiant",
+      "tranquil"
+     ],
+     "answer": 0,
+     "explain": "Scruffy and untidy: dishevelled."
+    },
+    {
+     "id": "F7",
+     "type": "translate",
+     "prompt": "Una sensación de mal presagio lo invadió.",
+     "answers": [
+      "A sense of foreboding came over him.",
+      "A sense of foreboding washed over him.",
+      "A sense of foreboding overcame him.",
+      "A sense of foreboding swept over him.",
+      "A sense of foreboding crept over him.",
+      "A feeling of foreboding came over him.",
+      "A feeling of foreboding washed over him.",
+      "A feeling of foreboding overcame him.",
+      "A feeling of foreboding swept over him.",
+      "A feeling of foreboding crept over him."
+     ],
+     "explain": "Foreboding = an ominous sense that something bad is about to happen."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Order the sentences",
+   "instructions": "Put the words in order to form a correct sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "hand",
+      "wrote",
+      "days",
+      "are",
+      "we",
+      "letters",
+      "by",
+      "the",
+      "Gone",
+      "when"
+     ],
+     "answers": [
+      "Gone are the days when we wrote letters by hand."
+     ],
+     "explain": "Gone are + plural subject."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "back",
+      "house",
+      "Not",
+      "at",
+      "did",
+      "once",
+      "she",
+      "look",
+      "the"
+     ],
+     "answers": [
+      "Not once did she look back at the house."
+     ],
+     "explain": "Fronted negative + auxiliary + subject."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "lay",
+      "box",
+      "stairs",
+      "wooden",
+      "Beneath",
+      "a",
+      "the",
+      "small"
+     ],
+     "answers": [
+      "Beneath the stairs lay a small wooden box."
+     ],
+     "explain": "Place + verb + subject."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "and",
+      "to",
+      "so",
+      "leave",
+      "did",
+      "She",
+      "he",
+      "him",
+      "asked"
+     ],
+     "answers": [
+      "She asked him to leave and he did so."
+     ],
+     "explain": "Did so replaces leave."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "muttered",
+      "sign",
+      "breath",
+      "his",
+      "and",
+      "He",
+      "the",
+      "squinted",
+      "at",
+      "under",
+      "something"
+     ],
+     "answers": [
+      "He squinted at the sign and muttered something under his breath."
+     ],
+     "explain": "Subject ellipsis in coordination."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "that",
+      "echoed",
+      "the",
+      "was",
+      "quiet",
+      "every",
+      "street",
+      "So",
+      "footstep"
+     ],
+     "answers": [
+      "So quiet was the street that every footstep echoed."
+     ],
+     "explain": "So + adjective + was + subject + that."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Ya quedaron atrás los días en que nadie cerraba la puerta con llave.",
+     "answers": [
+      "Gone are the days when nobody locked the door.",
+      "Gone are the days when nobody locked their door.",
+      "Gone are the days when nobody locked their doors.",
+      "Gone are the days when nobody locked the doors.",
+      "Gone are the days when no one locked the door.",
+      "Gone are the days when no one locked their door.",
+      "Gone are the days when no one locked their doors.",
+      "Gone are the days when no one locked the doors.",
+      "Long gone are the days when nobody locked the door.",
+      "Long gone are the days when nobody locked their door.",
+      "Long gone are the days when nobody locked their doors.",
+      "Long gone are the days when nobody locked the doors.",
+      "Long gone are the days when no one locked the door.",
+      "Long gone are the days when no one locked their door.",
+      "Long gone are the days when no one locked their doors.",
+      "Long gone are the days when no one locked the doors."
+     ],
+     "explain": "Gone are the days when…"
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Apenas habíamos salido cuando empezó a llover.",
+     "answers": [
+      "Hardly had we left when it began to rain.",
+      "Hardly had we left when it started to rain.",
+      "Hardly had we left when it started raining.",
+      "Hardly had we left when it began raining.",
+      "No sooner had we left than it began to rain.",
+      "No sooner had we left than it started to rain.",
+      "No sooner had we left than it started raining.",
+      "No sooner had we left than it began raining."
+     ],
+     "explain": "Hardly… when / No sooner… than, with inversion."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Nunca había visto un cielo tan oscuro.",
+     "answers": [
+      "Never had I seen such a dark sky.",
+      "Never had I seen a sky so dark.",
+      "Never had I seen such a black sky.",
+      "Never had I seen a sky as dark as that.",
+      "Never before had I seen such a dark sky.",
+      "Never before had I seen a sky so dark.",
+      "Never before had I seen such a black sky.",
+      "Never before had I seen a sky as dark as that."
+     ],
+     "explain": "Never + had + subject."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Perdí mi cartera, así que tuve que comprar una nueva.",
+     "answers": [
+      "I lost my wallet, so I had to buy a new one.",
+      "I lost my wallet, so I had to buy another one.",
+      "I lost my wallet, so I had to buy a replacement.",
+      "I lost my wallet, so I had to get a new one.",
+      "I lost my wallet, so I had to get another one.",
+      "I lost my wallet, so I had to get a replacement.",
+      "I lost my wallet, and I had to buy a new one.",
+      "I lost my wallet, and I had to buy another one.",
+      "I lost my wallet, and I had to buy a replacement.",
+      "I lost my wallet, and I had to get a new one.",
+      "I lost my wallet, and I had to get another one.",
+      "I lost my wallet, and I had to get a replacement.",
+      "I lost my purse, so I had to buy a new one.",
+      "I lost my purse, so I had to buy another one.",
+      "I lost my purse, so I had to buy a replacement.",
+      "I lost my purse, so I had to get a new one.",
+      "I lost my purse, so I had to get another one.",
+      "I lost my purse, so I had to get a replacement.",
+      "I lost my purse, and I had to buy a new one.",
+      "I lost my purse, and I had to buy another one.",
+      "I lost my purse, and I had to buy a replacement.",
+      "I lost my purse, and I had to get a new one.",
+      "I lost my purse, and I had to get another one.",
+      "I lost my purse, and I had to get a replacement."
+     ],
+     "explain": "One replaces the noun."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Murmuró algo y salió a toda prisa.",
+     "answers": [
+      "He murmured something and hurried out.",
+      "He murmured something and rushed out.",
+      "He murmured something and dashed out.",
+      "He muttered something and hurried out.",
+      "He muttered something and rushed out.",
+      "He muttered something and dashed out.",
+      "He mumbled something and hurried out.",
+      "He mumbled something and rushed out.",
+      "He mumbled something and dashed out.",
+      "She murmured something and hurried out.",
+      "She murmured something and rushed out.",
+      "She murmured something and dashed out.",
+      "She muttered something and hurried out.",
+      "She muttered something and rushed out.",
+      "She muttered something and dashed out.",
+      "She mumbled something and hurried out.",
+      "She mumbled something and rushed out.",
+      "She mumbled something and dashed out."
+     ],
+     "explain": "Ellipsis of the subject in coordination; speech verb with nuance."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Había algo siniestro en aquella casa en ruinas, aunque no sabría decir qué.",
+     "answers": [
+      "There was something sinister about that dilapidated house, though I couldn't say what.",
+      "There was something sinister about that dilapidated house, though I couldn't tell you what.",
+      "There was something sinister about that dilapidated house, though I couldn't say exactly what.",
+      "There was something sinister about that dilapidated house, although I couldn't say what.",
+      "There was something sinister about that dilapidated house, although I couldn't tell you what.",
+      "There was something sinister about that dilapidated house, although I couldn't say exactly what.",
+      "There was something sinister about that ramshackle house, though I couldn't say what.",
+      "There was something sinister about that ramshackle house, though I couldn't tell you what.",
+      "There was something sinister about that ramshackle house, though I couldn't say exactly what.",
+      "There was something sinister about that ramshackle house, although I couldn't say what.",
+      "There was something sinister about that ramshackle house, although I couldn't tell you what.",
+      "There was something sinister about that ramshackle house, although I couldn't say exactly what.",
+      "There was something sinister about that ruined house, though I couldn't say what.",
+      "There was something sinister about that ruined house, though I couldn't tell you what.",
+      "There was something sinister about that ruined house, though I couldn't say exactly what.",
+      "There was something sinister about that ruined house, although I couldn't say what.",
+      "There was something sinister about that ruined house, although I couldn't tell you what.",
+      "There was something sinister about that ruined house, although I couldn't say exactly what.",
+      "There was something sinister about the dilapidated house, though I couldn't say what.",
+      "There was something sinister about the dilapidated house, though I couldn't tell you what.",
+      "There was something sinister about the dilapidated house, though I couldn't say exactly what.",
+      "There was something sinister about the dilapidated house, although I couldn't say what.",
+      "There was something sinister about the dilapidated house, although I couldn't tell you what.",
+      "There was something sinister about the dilapidated house, although I couldn't say exactly what.",
+      "There was something sinister about the ramshackle house, though I couldn't say what.",
+      "There was something sinister about the ramshackle house, though I couldn't tell you what.",
+      "There was something sinister about the ramshackle house, though I couldn't say exactly what.",
+      "There was something sinister about the ramshackle house, although I couldn't say what.",
+      "There was something sinister about the ramshackle house, although I couldn't tell you what.",
+      "There was something sinister about the ramshackle house, although I couldn't say exactly what.",
+      "There was something sinister about the ruined house, though I couldn't say what.",
+      "There was something sinister about the ruined house, though I couldn't tell you what.",
+      "There was something sinister about the ruined house, though I couldn't say exactly what.",
+      "There was something sinister about the ruined house, although I couldn't say what.",
+      "There was something sinister about the ruined house, although I couldn't tell you what.",
+      "There was something sinister about the ruined house, although I couldn't say exactly what.",
+      "There was something sinister in that dilapidated house, though I couldn't say what.",
+      "There was something sinister in that dilapidated house, though I couldn't tell you what.",
+      "There was something sinister in that dilapidated house, though I couldn't say exactly what.",
+      "There was something sinister in that dilapidated house, although I couldn't say what.",
+      "There was something sinister in that dilapidated house, although I couldn't tell you what.",
+      "There was something sinister in that dilapidated house, although I couldn't say exactly what.",
+      "There was something sinister in that ramshackle house, though I couldn't say what.",
+      "There was something sinister in that ramshackle house, though I couldn't tell you what.",
+      "There was something sinister in that ramshackle house, though I couldn't say exactly what.",
+      "There was something sinister in that ramshackle house, although I couldn't say what.",
+      "There was something sinister in that ramshackle house, although I couldn't tell you what.",
+      "There was something sinister in that ramshackle house, although I couldn't say exactly what.",
+      "There was something sinister in that ruined house, though I couldn't say what.",
+      "There was something sinister in that ruined house, though I couldn't tell you what.",
+      "There was something sinister in that ruined house, though I couldn't say exactly what.",
+      "There was something sinister in that ruined house, although I couldn't say what.",
+      "There was something sinister in that ruined house, although I couldn't tell you what.",
+      "There was something sinister in that ruined house, although I couldn't say exactly what.",
+      "There was something sinister in the dilapidated house, though I couldn't say what.",
+      "There was something sinister in the dilapidated house, though I couldn't tell you what.",
+      "There was something sinister in the dilapidated house, though I couldn't say exactly what.",
+      "There was something sinister in the dilapidated house, although I couldn't say what.",
+      "There was something sinister in the dilapidated house, although I couldn't tell you what.",
+      "There was something sinister in the dilapidated house, although I couldn't say exactly what.",
+      "There was something sinister in the ramshackle house, though I couldn't say what.",
+      "There was something sinister in the ramshackle house, though I couldn't tell you what.",
+      "There was something sinister in the ramshackle house, though I couldn't say exactly what.",
+      "There was something sinister in the ramshackle house, although I couldn't say what.",
+      "There was something sinister in the ramshackle house, although I couldn't tell you what.",
+      "There was something sinister in the ramshackle house, although I couldn't say exactly what.",
+      "There was something sinister in the ruined house, though I couldn't say what.",
+      "There was something sinister in the ruined house, though I couldn't tell you what.",
+      "There was something sinister in the ruined house, though I couldn't say exactly what.",
+      "There was something sinister in the ruined house, although I couldn't say what.",
+      "There was something sinister in the ruined house, although I couldn't tell you what.",
+      "There was something sinister in the ruined house, although I couldn't say exactly what."
+     ],
+     "explain": "Sluicing: I couldn't say what (the rest of the clause is omitted)."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on the topics of the unit. The last two review the previous unit (needn't have, might well, stance adverbs).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Hanging above the fireplace ___ a portrait of the founder.",
+     "options": [
+      "was",
+      "were",
+      "it was"
+     ],
+     "answer": 0,
+     "explain": "Fronting: it is inverted and agrees with the singular subject."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Only then ___ he realise what she had meant.",
+     "answers": [
+      "did"
+     ],
+     "explain": "Only then + auxiliary + subject."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "I don't like these gloves; show me the other.",
+     "answers": [
+      "I don't like these gloves; show me the other ones.",
+      "I don't like these gloves; show me the others."
+     ],
+     "explain": "With a countable plural: the other ones / the others."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "Alone in the square, the man ___ at the window of the empty shop.",
+     "options": [
+      "peered",
+      "gasped",
+      "staggered"
+     ],
+     "answer": 0,
+     "explain": "Peer at = to look at intently."
+    },
+    {
+     "id": "M5",
+     "type": "gap",
+     "prompt": "\"I'm not afraid,\" he ___, though his voice shook.",
+     "answers": [
+      "stammered",
+      "murmured",
+      "muttered",
+      "faltered"
+     ],
+     "explain": "Speech verb that reflects tension."
+    },
+    {
+     "id": "M6",
+     "type": "translate",
+     "prompt": "En un rincón de la habitación yacía un viejo violín.",
+     "answers": [
+      "In a corner of the room lay an old violin.",
+      "In a corner of the room lay an old fiddle.",
+      "In a corner of the room was an old violin.",
+      "In a corner of the room was an old fiddle.",
+      "In a corner of the room stood an old violin.",
+      "In a corner of the room stood an old fiddle.",
+      "In one corner of the room lay an old violin.",
+      "In one corner of the room lay an old fiddle.",
+      "In one corner of the room was an old violin.",
+      "In one corner of the room was an old fiddle.",
+      "In one corner of the room stood an old violin.",
+      "In one corner of the room stood an old fiddle.",
+      "In the corner of the room lay an old violin.",
+      "In the corner of the room lay an old fiddle.",
+      "In the corner of the room was an old violin.",
+      "In the corner of the room was an old fiddle.",
+      "In the corner of the room stood an old violin.",
+      "In the corner of the room stood an old fiddle."
+     ],
+     "explain": "Fronted place + verb + subject."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "___ the fear in his eyes that nobody dared to speak.",
+     "options": [
+      "Such was",
+      "So was",
+      "Such were"
+     ],
+     "answer": 0,
+     "explain": "Such was + noun + that…"
+    },
+    {
+     "id": "M8",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "he",
+      "said",
+      "He",
+      "he",
+      "call",
+      "would",
+      "and",
+      "did"
+     ],
+     "answers": [
+      "He said he would call and he did."
+     ],
+     "explain": "Did replaces call."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "She ___ well be telling the truth, but I'm not convinced.",
+     "answers": [
+      "may",
+      "might",
+      "could"
+     ],
+     "explain": "Review of the previous unit: may / might / could well."
+    },
+    {
+     "id": "M10",
+     "type": "choice",
+     "prompt": "The minister resigned, ___ for health reasons, though few believe that.",
+     "options": [
+      "ostensibly",
+      "undeniably",
+      "unquestionably"
+     ],
+     "answer": 0,
+     "explain": "Review of the previous unit: ostensibly = the doubtful official reason."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write the opening of a story of 300 to 400 words (third person, past tense) that begins in medias res. Use at least three fronted structures (one with place and inversion, one with Such/So… was, one with Not/Only…), three ellipses and two substitutions (so, one, did so). Include five verbs or adjectives from the unit (squint, slink, murmur, ominous, dilapidated…). Alternate long and short sentences.",
+   "targets": [
+    "fronting with inversion",
+    "Such was / So … was",
+    "ellipsis",
+    "substitution (so, one, did so)",
+    "narrative vocabulary",
+    "rhythm"
+   ],
+   "checklist": [
+    "300–400 words, past-tense narrative with an opening hook",
+    "One fronted place with correct inversion (In the doorway stood…, with no inverted pronoun)",
+    "A Such was… or So + adjective + was + subject + that… structure",
+    "A negative fronting (Not a word did…; Only then did…)",
+    "Three ellipses (shared subject, auxiliary, to) without ambiguity",
+    "At least one substitution with so / one / did so",
+    "Five well-used words from the unit's vocabulary",
+    "Varied rhythm: at least one very short sentence that breaks the rhythm"
+   ],
+   "model": "The first shot shattered the window above her head, and Mara ran.\n\nShe did not stop to look back. Down the alley she pelted, past the bins and the bicycles chained to rusting railings, until the street opened into a courtyard she had never seen. Ahead of her loomed a dilapidated warehouse, its roof sagging, its windows black. She slipped inside.\n\nDark. Silence. Somewhere above her, a pipe dripped.\n\nIn the far corner stood a man in a long grey coat, perfectly still. Mara squinted through the gloom and recognised him at once, and wished she had not. He was Aldous Crane, her father's old partner, and he had been dead for six years. Or so the newspapers had said.\n\n\"You're late,\" he murmured. He sounded neither angry nor surprised.\n\nSuch was her shock that she could not answer. Her mind, usually quick, had simply emptied itself. Not a word did she manage to say; she merely stared, one hand gripping the doorframe, the other clutching the satchel she had stolen that morning. Outside, footsteps crunched on gravel, slowly, deliberately, with an ominous patience that suggested their owner was in no hurry at all.\n\n\"They followed you,\" said Crane. \"I told you they would.\"\n\n\"You told me nothing.\"\n\n\"Didn't I? Then I meant to.\" He smiled thinly. \"Give me the satchel.\"\n\nShe hesitated. Only then did it occur to her that she had no idea whose side he was on, and perhaps never had. Her father had trusted him; her father was dead, too. If Crane wanted the satchel, it was because it held something worth killing for, and she thought she knew what. She had suspected so since dawn.\n\nThe door creaked. Crane raised one finger to his lips and began to slink backwards into the shadows, beckoning her to do the same. She did so, heart hammering.\n\nA torch beam swept the floor. It paused. Then it swung, very slowly, towards her."
+  },
+  {
+   "id": "W2",
+   "prompt": "Rewrite the following flat passage as a text of 300 to 400 words that develops it and improves its rhythm and effect. Passage: «It was a hot afternoon. A woman came into the café. She sat at a table. She looked at the menu. A waiter came. She said she wanted a coffee. He brought it. She drank it. Then she left. She left a letter on the table.» Keep the facts, but add atmosphere, fronting, ellipsis, substitutions and a suspenseful closing. At the end, in two or three sentences in English, explain what changes you made and why.",
+   "targets": [
+    "rewriting to improve rhythm",
+    "fronting",
+    "ellipsis and substitution",
+    "descriptive vocabulary",
+    "narrative markers"
+   ],
+   "checklist": [
+    "300–400 words, including the final 2–3 comment sentences",
+    "The passage's facts are kept (café, table, menu, waiter, coffee, departure, letter)",
+    "At least two fronted structures with correct inversion",
+    "Ellipsis and substitution to avoid repetition",
+    "At least three atmospheric adjectives or verbs with nuance (stagger, glimpse, eerie…)",
+    "One narrative marker (Little did she know, out of nowhere, the next thing…)",
+    "Variation in sentence length and a closing that leaves the letter in suspense",
+    "The final commentary clearly explains the style decisions"
+   ],
+   "model": "That afternoon the heat pressed down on the city like a heavy hand. Inside the café, the ceiling fans turned lazily, stirring nothing but dust, and an eerie quiet hung over the empty tables.\n\nInto this drowsy stillness walked a woman in a long coat, far too thick for the weather. Not once did she glance at the other customers. She chose a table by the window, sat down with her back to the wall and picked up the menu, though her eyes never seemed to read it. Her fingers trembled; the card rattled faintly against the glass.\n\nA waiter appeared, young, bored and polishing a glass he had clearly polished already. She murmured that she would like a coffee, black, and he nodded, promising to bring one at once. Neither spoke further. Out on the street, a tram clanged and was gone.\n\nThe coffee arrived, dark and steaming, and she drank it slowly, as though each mouthful might be her last. Only when the cup was empty did she move. Rising abruptly, she dropped a few coins beside the saucer and, with a last glimpse over her shoulder at the door, slipped out into the glare.\n\nLittle did the waiter know what lay beneath the saucer. A letter, sealed and unstamped, with a single word written on the envelope. He lifted it, frowned and turned it over. It was addressed to him.\n\nCommentary: I opened with an image of heat to build atmosphere, and I used fronted structures such as \"Into this drowsy stillness walked a woman\" and \"Not once did she glance\" to vary the rhythm. I replaced repeated subjects with ellipsis and substitutions (\"bring one\", \"Neither spoke further\"), and I kept sentences short in the tense moments. Finally, I moved the letter to the end so that the passage closes in suspense."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The Fire Was Never the Point",
+   "intro": "Read this essay on the art of storytelling and answer the questions. Notice how the text itself uses the structures it describes.",
+   "paragraphs": [
+    "Gone are the days when stories were told around a fire, and with them, we are told, has gone the art. I am not convinced. What has changed is the audience, not the craft; and the craft, I have come to believe, rests on a handful of unglamorous decisions that any teller, whether novelist, barrister or uncle at a wedding, makes in every sentence, consciously or otherwise.",
+    "The first is where to stand. Consider two openings. \"It was a cold night, and a man was standing in the doorway.\" And: \"In the doorway stood a man.\" The facts are identical; the effect is not. The first leaves you outside, listening to a report. The second puts you in the room, your eye sweeping from the scene to the figure, and it delays the one thing you most want to know until the very end of the sentence. That is what fronting does: it rearranges the order in which the reader meets the world. Nobody would call it complicated. Few writers, though, use it often enough, or sparingly enough.",
+    "The second decision is what to leave out. A good storyteller trusts the reader to fill the gaps. \"She wanted to say something. She didn't.\" The second sentence is only two words long, and the missing verb does more work than the verb itself would have done. Ellipsis is not laziness; it is rhythm. The sentence that stops early makes us lean in. Writers of detective fiction have known this for a century: the clue is never explained, merely left lying there, like a glove on a stair.",
+    "Compare the old man who tells the same wedding anecdote at every family gathering. He leaves nothing out. \"And then I opened the door, and I looked inside, and I saw that the room was empty, and I thought that someone had taken the paintings, and I was very upset.\" There is nothing wrong with the story. Everything is wrong with the telling. Every \"and I\" is a small tax on our patience. Cut it to \"I opened the door. The room was empty. The paintings were gone,\" and the same material acquires the sound of an event.",
+    "Substitution does a related job. A story that says \"the red car\" four times in one paragraph starts to sound like an instruction manual; one that says \"the red one\", or lets \"it\" do the work, keeps the camera moving. Likewise the humble \"so\". \"Would she come back? Nobody thought so.\" The two-word reply closes the question without ceremony and carries, in its flatness, a verdict.",
+    "Then there is the matter of vocabulary, and here a warning is in order. It is tempting to believe that richer words make richer stories. Often they do the opposite. \"He walked slowly\" is not improved by \"he sauntered\" unless the sauntering is the point; the verb must earn its place. But when it does, when a woman \"slinks\" out of a party, a man \"peers\" at a letter he would rather not read, a house is \"dilapidated\" rather than merely old, the reader sees something no adjective-and-adverb combination could supply. The word is doing a small piece of characterisation. It is also doing it quietly, which is the only way characterisation survives.",
+    "Such is the paradox of style: the best sentences feel inevitable, and yet they are the product of dozens of small choices that might have gone the other way. Never have I written a paragraph that I could not improve by reading it aloud. Only then does one hear the pulse, the long sentence that gathers speed and the short one that stops it dead. Rhythm is, in the end, a form of honesty about how events feel: sometimes they drift, and sometimes they hit.",
+    "So, to the writer who fears the fire has gone out, I would say only this. The fire was never the point. Somebody sat near it and decided what to say first, what to hold back, and when to stop. Those decisions are still ours to make, and no software has yet made them for us, at least not with any conviction. Nobody has yet persuaded a room to fall silent with an average."
+   ],
+   "glossary": [
+    {
+     "en": "unglamorous",
+     "def": "unglamorous, drab"
+    },
+    {
+     "en": "barrister",
+     "def": "a litigating lawyer; a barrister who argues cases in court (UK)"
+    },
+    {
+     "en": "to sweep (the eye)",
+     "def": "to scan, to run one's eyes over"
+    },
+    {
+     "en": "bloated",
+     "def": "swollen, bulging"
+    },
+    {
+     "en": "flatness",
+     "def": "flat tone; lack of emphasis"
+    },
+    {
+     "en": "pastiche",
+     "def": "pastiche; an overblown imitation"
+    },
+    {
+     "en": "to earn its place",
+     "def": "to earn one's place; to justify oneself"
+    },
+    {
+     "en": "pulse",
+     "def": "pulse, rhythm"
+    },
+    {
+     "en": "to stop (it) dead",
+     "def": "to stop it dead, abruptly"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "According to the author, the art of storytelling has disappeared along with the fireside tradition.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Says \"I am not convinced\": the audience changed, not the craft."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "What is the effect of \"In the doorway stood a man\" compared with the plainer version?",
+     "options": [
+      "It puts the reader in the scene and delays the key information to the end of the sentence",
+      "It makes the sentence shorter and more factual",
+      "It changes the facts so the man is already inside"
+     ],
+     "answer": 0,
+     "explain": "Fronting changes the order in which the reader encounters the world and leaves the focus at the end."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Why does the author say ellipsis is \"not laziness\"?",
+     "options": [
+      "Because it creates rhythm and makes the reader lean in",
+      "Because it saves ink in publishing",
+      "Because it is required in detective stories"
+     ],
+     "answer": 0,
+     "explain": "«Ellipsis is not laziness; it is rhythm»."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "What does the author imply about the old man's wedding anecdote?",
+     "options": [
+      "The content is fine but the telling is bloated with repetition",
+      "The story is untrue",
+      "The audience dislikes weddings"
+     ],
+     "answer": 0,
+     "explain": "«Nothing is wrong with the story. Everything is wrong with the telling»."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "What is the author's warning about richer vocabulary?",
+     "options": [
+      "Fancy words only help when they earn their place",
+      "Rich words should be avoided entirely",
+      "Adverbs are better than verbs"
+     ],
+     "answer": 0,
+     "explain": "«The verb must earn its place»."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "The author says every \"and I\" is a small ___ on our patience.",
+     "answers": [
+      "tax"
+     ],
+     "explain": "«A small tax on our patience»."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "The author recommends reading a paragraph ___ to improve it.",
+     "answers": [
+      "aloud",
+      "out loud"
+     ],
+     "explain": "«Reading it aloud»."
+    },
+    {
+     "id": "R8",
+     "type": "choice",
+     "prompt": "Which best captures the author's final message?",
+     "options": [
+      "Storytelling still depends on a writer's deliberate choices about order, omission and rhythm",
+      "Technology has made writers lazy",
+      "Only fire-side tales count as real stories"
+     ],
+     "answer": 0,
+     "explain": "Cierra defendiendo las decisiones humanas de estilo."
+    }
+   ]
+  },
+  "listening": {
+   "title": "The best man",
+   "intro": "Listen to Sam telling an anecdote to his friends. He speaks fast, uses idioms and follows the rhythm of a real conversation. You can repeat it.",
+   "lines": [
+    {
+     "who": "Jo",
+     "voice": "airy",
+     "text": "Go on then, Sam, tell Nadia about the wedding. I've heard it twice and I'm still not sure I believe it."
+    },
+    {
+     "who": "Sam",
+     "voice": "buttery",
+     "text": "Right, so, picture the scene. Ten minutes before the ceremony, and there I am in the car park, suit on, no ring."
+    },
+    {
+     "who": "Nadia",
+     "voice": "glassy",
+     "text": "No ring? Whose ring?"
+    },
+    {
+     "who": "Sam",
+     "voice": "buttery",
+     "text": "The groom's, obviously. I was the best man. I'd put it in my jacket pocket, and the jacket was, as luck would have it, still hanging in my flat, forty minutes away."
+    },
+    {
+     "who": "Nadia",
+     "voice": "glassy",
+     "text": "You're joking. What did you do?"
+    },
+    {
+     "who": "Sam",
+     "voice": "buttery",
+     "text": "Well, I did what any sensible person would do. I panicked. Out of nowhere, this little old lady comes up and says, \"Are you all right, love?\" and I blurted out the whole thing."
+    },
+    {
+     "who": "Jo",
+     "voice": "airy",
+     "text": "And this is where it gets ridiculous."
+    },
+    {
+     "who": "Sam",
+     "voice": "buttery",
+     "text": "Hang on, let me tell it. Long story short, she took off her own wedding ring, fifty years she'd worn it, mind you, and said, \"Borrow mine. Just don't lose it.\""
+    },
+    {
+     "who": "Nadia",
+     "voice": "glassy",
+     "text": "No way. And did you?"
+    },
+    {
+     "who": "Sam",
+     "voice": "buttery",
+     "text": "Did I what? Lose it? Not a chance. Not a word did I say all through the ceremony. I held that ring like a live grenade."
+    },
+    {
+     "who": "Jo",
+     "voice": "airy",
+     "text": "Only afterwards did he realise the old lady was the groom's grandmother."
+    },
+    {
+     "who": "Sam",
+     "voice": "buttery",
+     "text": "Which, to be fair, I didn't know. Little did I know she'd been sizing me up the whole time."
+    },
+    {
+     "who": "Nadia",
+     "voice": "glassy",
+     "text": "Sizing you up? Was she?"
+    },
+    {
+     "who": "Sam",
+     "voice": "buttery",
+     "text": "I'd like to think so. Anyway, she gave me a wink at the reception, and, well, I've been dining out on it ever since."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Why was Sam worried before the ceremony?",
+     "options": [
+      "He didn't have the ring",
+      "He was late for the ceremony",
+      "He had lost his suit"
+     ],
+     "answer": 0,
+     "explain": "\"Suit on, no ring\": they did not have the ring."
+    },
+    {
+     "id": "L2",
+     "type": "gap",
+     "prompt": "Sam's jacket, with the ring in the pocket, was ___ minutes away.",
+     "answers": [
+      "forty",
+      "40"
+     ],
+     "explain": "«Forty minutes away»."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Who lent Sam a ring?",
+     "options": [
+      "A stranger who turned out to be the groom's grandmother",
+      "The groom's brother",
+      "The bride"
+     ],
+     "answer": 0,
+     "explain": "An older woman who turned out later to be the groom's grandmother."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "How did Sam behave during the ceremony?",
+     "options": [
+      "He stayed silent",
+      "He made a speech",
+      "He told jokes"
+     ],
+     "answer": 0,
+     "explain": "«Not a word did I say all through the ceremony»."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What does \"dining out on it\" mean here?",
+     "options": [
+      "Telling the story to entertain others and enjoying the attention",
+      "Eating at the reception",
+      "Paying for dinner with the ring"
+     ],
+     "answer": 0,
+     "explain": "Dine out on a story = to get mileage out of telling an anecdote."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "Sam knew who the old lady was at the time.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Says \"I didn't know\": they found out later."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Not a word did I say all through the ceremony.",
+     "answers": [
+      "Not a word did I say all through the ceremony."
+     ],
+     "explain": "Negative fronting: Not a word + did + subject."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Long story short, she took off her own wedding ring.",
+     "answers": [
+      "Long story short, she took off her own wedding ring."
+     ],
+     "explain": "Marcador narrativo Long story short."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Only afterwards did he realise the old lady was the groom's grandmother.",
+     "answers": [
+      "Only afterwards did he realise the old lady was the groom's grandmother.",
+      "Only afterwards did he realize the old lady was the groom's grandmother."
+     ],
+     "explain": "Only afterwards + did + sujeto."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Little did I know she'd been sizing me up the whole time.",
+     "answers": [
+      "Little did I know she'd been sizing me up the whole time.",
+      "Little did I know she had been sizing me up the whole time."
+     ],
+     "explain": "Little did I know…: suspense with inversion."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Tell a real or invented anecdote (a mix-up, a trip, a stroke of luck) using narrative markers and at least one fronted structure.",
+     "questions": [
+      "What's the funniest or strangest thing that has ever happened to you while travelling?",
+      "How did it start?",
+      "How did it end?"
+     ],
+     "model": "Picture the scene: it's midnight, I'm on a platform in a town I've never heard of, and the last train has gone. Out of nowhere, a man comes up and says, \"You'll want the bus.\" Long story short, I ended up sharing a taxi with a retired brass band. Not a word of English did the driver speak, yet we sang the whole way. Little did I know I'd be invited to the concert the following night.",
+     "checklist": [
+      "A clear opening scene (Picture the scene…)",
+      "A jump marker (Long story short / Fast-forward to…)",
+      "A fronted structure with inversion (Not a word… did…)",
+      "A closing with suspense or a twist (Little did I know…)"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Describe a place with atmosphere (an old house, an empty station, a market) using unit adjectives and place fronting.",
+     "questions": [
+      "What is a place you remember vividly?",
+      "What did it look and sound like?",
+      "How did it make you feel?"
+     ],
+     "model": "I remember a dilapidated cinema in my hometown. Above the entrance hung a broken neon sign, and inside, the cavernous hall smelled of dust. Stifling heat in summer; a hushed, almost eerie silence in winter. A sense of foreboding came over me whenever I walked down the aisle, yet I loved it. So quiet was the place that you could hear the projector breathe.",
+     "checklist": [
+      "Two atmospheric adjectives (dilapidated, hushed, eerie…)",
+      "A place fronting with inversion (Above the entrance hung…)",
+      "A So + adj + was… structure",
+      "A personal feeling at the end"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "In two minutes, explain what makes a story good, and then retell it more briefly using ellipsis and substitution.",
+     "questions": [
+      "What makes a story good?",
+      "Can you retell one in four sentences?",
+      "What would you cut?"
+     ],
+     "model": "A good story knows what to leave out. Take the one about my uncle's lost dog. He looked everywhere. Found nothing. Then, two weeks later, the dog turned up at the door, thinner but unrepentant. I'd cut the long search; the search is the bit nobody remembers. Would you tell it that way? I would, and I'm sure most good storytellers do too.",
+     "checklist": [
+      "Ellipsis of subject or auxiliary (Found nothing; I would)",
+      "A substitution (one, so, did so)",
+      "An opinion on what to cut",
+      "Rhythm: short sentences after a long one"
+     ]
+    }
+   ],
+   "repeat": [
+    "In the doorway stood a tall figure.",
+    "Gone are the days when we wrote letters.",
+    "Not a word did she say all evening.",
+    "I'd love to, but I can't.",
+    "So quiet was the street that every footstep echoed.",
+    "Little did I know what was waiting inside."
+   ]
+  }
+ }
+}

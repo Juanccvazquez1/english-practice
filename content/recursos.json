@@ -1,0 +1,156 @@
+{
+ "note": "Free online resources by level. PDFs, exams and audio files you have downloaded are in your Resources folder on OneDrive (see 00-catalogo.md).",
+ "sections": [
+  {
+   "title": "For your level now (A1–A2)",
+   "items": [
+    {
+     "name": "British Council LearnEnglish",
+     "url": "https://learnenglish.britishcouncil.org/",
+     "level": "A1–C1",
+     "what": "Lessons on the four skills and grammar, with exercises."
+    },
+    {
+     "name": "Learn English with Bob the Canadian",
+     "url": "https://www.youtube.com/@bobthecanadian",
+     "level": "A1–B1",
+     "what": "Videos in slow, clear English."
+    },
+    {
+     "name": "ELLLO",
+     "url": "https://www.elllo.org/",
+     "level": "A1–C1",
+     "what": "Short audio clips with transcripts and quizzes. Use them for dictation."
+    },
+    {
+     "name": "Breaking News English",
+     "url": "https://breakingnewsenglish.com/",
+     "level": "A1–B2",
+     "what": "The same news story at 7 levels."
+    },
+    {
+     "name": "VOA Learning English",
+     "url": "https://learningenglish.voanews.com/",
+     "level": "A2–B2",
+     "what": "News in slow English, with audio and text."
+    }
+   ]
+  },
+  {
+   "title": "Intermediate (B1)",
+   "items": [
+    {
+     "name": "BBC 6 Minute English",
+     "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english",
+     "level": "B1–B2",
+     "what": "A 6-minute podcast with a script and vocabulary."
+    },
+    {
+     "name": "English with Lucy",
+     "url": "https://www.youtube.com/@EnglishwithLucy",
+     "level": "A2–C1",
+     "what": "Very well-organised grammar and vocabulary."
+    },
+    {
+     "name": "Perfect English Grammar",
+     "url": "https://www.perfect-english-grammar.com/",
+     "level": "A1–C1",
+     "what": "Simple explanations and exercises for each verb tense."
+    },
+    {
+     "name": "Randall's ESL Cyber Listening Lab",
+     "url": "https://www.esl-lab.com/",
+     "level": "A2–C1",
+     "what": "Listening practice by difficulty, with questions."
+    },
+    {
+     "name": "Easy English",
+     "url": "https://www.youtube.com/@EasyEnglish",
+     "level": "A2–B2",
+     "what": "Real interviews on the street, with subtitles."
+    }
+   ]
+  },
+  {
+   "title": "Pronunciation",
+   "items": [
+    {
+     "name": "YouGlish",
+     "url": "https://youglish.com/",
+     "level": "B1–C1",
+     "what": "Listen to any word in real videos."
+    },
+    {
+     "name": "Rachel's English",
+     "url": "https://www.youtube.com/@RachelsEnglish",
+     "level": "A2–C1",
+     "what": "Pronunciation of American English."
+    },
+    {
+     "name": "Cambridge Dictionary",
+     "url": "https://dictionary.cambridge.org/",
+     "level": "A1–C2",
+     "what": "Dictionary with UK/US audio and an English–Spanish version."
+    }
+   ]
+  },
+  {
+   "title": "Advanced and TOEFL (2026 format)",
+   "items": [
+    {
+     "name": "ETS · Official TOEFL iBT Test Prep",
+     "url": "https://www.ets.org/toefl/test-takers/ibt/prepare.html",
+     "level": "B2–C1",
+     "what": "Official page with free practice."
+    },
+    {
+     "name": "Sample the TOEFL iBT Test",
+     "url": "https://www.ets.org/toefl/test-takers/ibt/prepare/sample-test.html",
+     "level": "B2–C1",
+     "what": "A 40-minute test to see the new format."
+    },
+    {
+     "name": "TOEFL TestReady",
+     "url": "https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html",
+     "level": "B1–C1",
+     "what": "Official daily practice with automatic scoring."
+    },
+    {
+     "name": "engVid",
+     "url": "https://www.youtube.com/@engvid",
+     "level": "A2–C1",
+     "what": "Classes on many topics, including TOEFL."
+    },
+    {
+     "name": "TED-Ed",
+     "url": "https://www.youtube.com/@TEDEd",
+     "level": "B2–C1",
+     "what": "Short videos on academic topics."
+    }
+   ]
+  },
+  {
+   "title": "Conversation",
+   "items": [
+    {
+     "name": "Tandem",
+     "url": "https://tandem.net/",
+     "level": "A2–C1",
+     "what": "Free exchange with native speakers who are learning Spanish."
+    },
+    {
+     "name": "HelloTalk",
+     "url": "https://www.hellotalk.com/",
+     "level": "A2–C1",
+     "what": "Chat with native speakers who correct your messages."
+    },
+    {
+     "name": "italki",
+     "url": "https://www.italki.com/",
+     "level": "A2–C1",
+     "what": "Low-cost classes with tutors."
+    }
+   ]
+  }
+ ]
+}

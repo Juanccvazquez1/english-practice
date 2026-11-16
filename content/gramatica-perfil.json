@@ -1,0 +1,1033 @@
+{
+ "attribution": "CEFR-J Grammar Profile (Tono Lab, TUFS)",
+ "levels": {
+  "A1": [
+   {
+    "id": "g1",
+    "en": "I am",
+    "en_short": "Talking about yourself: who you are or how you feel now.",
+    "example": "I am a student."
+   },
+   {
+    "id": "g1-1",
+    "en": "I am not",
+    "en_short": "Saying what you are not, or where you are not.",
+    "example": "I am not tired."
+   },
+   {
+    "id": "g2-2",
+    "en": "Are you ...?",
+    "en_short": "Asking about someone's name, job or how they feel.",
+    "example": "Are you ready?"
+   },
+   {
+    "id": "g3",
+    "en": "He/she is",
+    "en_short": "Talking about one person (he or she): who they are or how they feel.",
+    "example": "She is my sister."
+   },
+   {
+    "id": "g4",
+    "en": "We are",
+    "en_short": "Talking about yourself and other people: who we are or how we are.",
+    "example": "We are friends."
+   },
+   {
+    "id": "g5",
+    "en": "They are",
+    "en_short": "Talking about other people (they): who they are or how they feel.",
+    "example": "They are at home."
+   },
+   {
+    "id": "g6",
+    "en": "Possessive adjectives: my/our/your/her/their",
+    "en_short": "Words that show who owns something: my, our, your, her, their.",
+    "example": "Our house is near your school."
+   },
+   {
+    "id": "g7",
+    "en": "Object pronouns: me/us/him/her/them",
+    "en_short": "Words used after a verb or preposition: me, us, him, her, them.",
+    "example": "She helps us every day."
+   },
+   {
+    "id": "g8",
+    "en": "This/That is",
+    "en_short": "Pointing at things near or far: this is, that is.",
+    "example": "That is my car."
+   },
+   {
+    "id": "g10",
+    "en": "It is",
+    "en_short": "Talking about things, places or times: it is.",
+    "example": "It is cold today."
+   },
+   {
+    "id": "g13",
+    "en": "Indefinite articles: a/an",
+    "en_short": "Using a or an before a singular, countable noun: a book, an apple.",
+    "example": "I have a dog and an umbrella."
+   },
+   {
+    "id": "g14",
+    "en": "Definite article: the",
+    "en_short": "Using the for a specific thing that both people know about.",
+    "example": "The sun is hot."
+   },
+   {
+    "id": "g15",
+    "en": "Determiners: some/any",
+    "en_short": "Using some and any with plural or uncountable nouns.",
+    "example": "Do you have any money? I have some."
+   },
+   {
+    "id": "g16",
+    "en": "Determiner: no",
+    "en_short": "Saying there is not any of something.",
+    "example": "There is no milk."
+   },
+   {
+    "id": "g21",
+    "en": "Prepositions",
+    "en_short": "Words that connect a noun to other words: in, on, at, to, for.",
+    "example": "The cat is under the table."
+   },
+   {
+    "id": "g24",
+    "en": "Indefinite pronouns: nobody/anything...",
+    "en_short": "Words for people or things that are not specific: nobody, anything.",
+    "example": "Nobody knows the answer."
+   },
+   {
+    "id": "g32",
+    "en": "Adverbs of frequency",
+    "en_short": "Words that show how often something happens: always, often, sometimes.",
+    "example": "I usually walk to work."
+   },
+   {
+    "id": "g33",
+    "en": "Intensifiers: really/so/too/very...",
+    "en_short": "Words that make an adjective or adverb stronger: really, so, very.",
+    "example": "It is very hot."
+   },
+   {
+    "id": "g35",
+    "en": "Adverb of negation: never",
+    "en_short": "Showing that something never happens.",
+    "example": "She never eats meat."
+   },
+   {
+    "id": "g38",
+    "en": "Comparative: -er",
+    "en_short": "Comparing two things by adding -er to a short adjective.",
+    "example": "My brother is taller than me."
+   },
+   {
+    "id": "g40",
+    "en": "Superlative: -est",
+    "en_short": "Saying something is the biggest or best with -est.",
+    "example": "She is the tallest girl in class."
+   },
+   {
+    "id": "g55",
+    "en": "Phrasal verbs (verb + particle)",
+    "en_short": "Phrasal verbs: a verb plus a particle, such as 'get up' or 'turn on'.",
+    "example": "Please sit down."
+   },
+   {
+    "id": "g57",
+    "en": "Phrasal verbs (verb + particle + preposition)",
+    "en_short": "Phrasal verbs with a verb, a particle and a preposition, such as 'look forward to'.",
+    "example": "I look forward to the trip."
+   },
+   {
+    "id": "g58",
+    "en": "Present simple of be: affirmative",
+    "en_short": "The verb be in positive sentences: I am, you are, he is.",
+    "example": "He is at school."
+   },
+   {
+    "id": "g58-1",
+    "en": "Present simple of be: negative",
+    "en_short": "The verb be in negative sentences: I am not, we are not.",
+    "example": "They are not here."
+   },
+   {
+    "id": "g58-2",
+    "en": "Present simple of be: question",
+    "en_short": "Questions with the verb be: Are you...? Is she...?",
+    "example": "Is she a teacher?"
+   },
+   {
+    "id": "g59",
+    "en": "Present simple (lexical verbs): affirmative",
+    "en_short": "Positive sentences with simple present verbs: I work, we live.",
+    "example": "I work in a bank."
+   },
+   {
+    "id": "g59-1",
+    "en": "Present simple (lexical verbs): negative",
+    "en_short": "Negative sentences with simple present verbs: I do not work.",
+    "example": "I don't like coffee."
+   },
+   {
+    "id": "g59-2",
+    "en": "Present simple (lexical verbs): question",
+    "en_short": "Questions with simple present verbs: Do you work? Does she like?",
+    "example": "Do you speak English?"
+   },
+   {
+    "id": "g60",
+    "en": "Present simple, 3rd person singular: affirmative",
+    "en_short": "Positive sentences with he, she or it: she works, it costs.",
+    "example": "She works hard."
+   },
+   {
+    "id": "g61",
+    "en": "Present continuous: affirmative",
+    "en_short": "Actions happening now: I am reading, they are playing.",
+    "example": "I am reading a book."
+   },
+   {
+    "id": "g64",
+    "en": "Past simple of be: affirmative",
+    "en_short": "Positive sentences with was or were: I was, they were.",
+    "example": "It was a good day."
+   },
+   {
+    "id": "g65",
+    "en": "Past simple (lexical verbs): affirmative",
+    "en_short": "Positive sentences with simple past verbs: I walked, she visited.",
+    "example": "We visited my aunt yesterday."
+   },
+   {
+    "id": "g73",
+    "en": "Passive: present",
+    "en_short": "Passive sentences for the present: The room is cleaned every day.",
+    "example": "English is spoken here."
+   },
+   {
+    "id": "g88",
+    "en": "To-infinitive: to do",
+    "en_short": "The infinitive with to: to do, to go.",
+    "example": "I want to go home."
+   },
+   {
+    "id": "g101",
+    "en": "Verb + to-infinitive",
+    "en_short": "A verb followed by to and an infinitive: I want to go.",
+    "example": "I decided to leave."
+   },
+   {
+    "id": "g103",
+    "en": "Verb + object + to-infinitive",
+    "en_short": "A verb with an object and to plus an infinitive: I want you to help.",
+    "example": "She wants me to help."
+   },
+   {
+    "id": "g105",
+    "en": "-ing form (gerund)",
+    "en_short": "The -ing form used as a noun: Swimming is fun.",
+    "example": "Swimming is fun."
+   },
+   {
+    "id": "g110",
+    "en": "Preposition + -ing",
+    "en_short": "A preposition followed by an -ing form: before leaving, after eating.",
+    "example": "Thanks for helping me."
+   },
+   {
+    "id": "g112",
+    "en": "Verb + -ing",
+    "en_short": "Verbs followed by an -ing form: I enjoy reading.",
+    "example": "I enjoy cooking."
+   },
+   {
+    "id": "g117",
+    "en": "Imperative: affirmative",
+    "en_short": "Positive commands: Sit down. Open the door.",
+    "example": "Open the door."
+   },
+   {
+    "id": "g120",
+    "en": "Let's + verb",
+    "en_short": "Let's plus a verb to suggest doing something: Let's go.",
+    "example": "Let's go to the park."
+   },
+   {
+    "id": "g123",
+    "en": "can: affirmative",
+    "en_short": "Positive sentences with can, to say you are able to do something.",
+    "example": "I can swim."
+   },
+   {
+    "id": "g123-2",
+    "en": "can: question",
+    "en_short": "Questions with can: Can you swim?",
+    "example": "Can you help me?"
+   },
+   {
+    "id": "g146",
+    "en": "there + be",
+    "en_short": "There is and there are, to say that something exists.",
+    "example": "There is a cat on the roof."
+   },
+   {
+    "id": "g150",
+    "en": "Coordinating conjunctions",
+    "en_short": "Joining words like and, but and or to link ideas.",
+    "example": "I like tea but she likes coffee."
+   },
+   {
+    "id": "g155",
+    "en": "Adverbial clause: when",
+    "en_short": "Using when to talk about the time of an action: when I arrive.",
+    "example": "Call me when you arrive."
+   },
+   {
+    "id": "g161",
+    "en": "Subordinate clauses: because/before/although/while...",
+    "en_short": "Connecting words that add extra ideas: because, before, although, while.",
+    "example": "I stayed home because I was sick."
+   },
+   {
+    "id": "g162",
+    "en": "hope/know/think + clause (without that)",
+    "en_short": "Verbs like hope, know and think followed by a clause, without that.",
+    "example": "I think you are right."
+   },
+   {
+    "id": "g169",
+    "en": "Post-modifying present participle",
+    "en_short": "A present participle after a noun: the boy running.",
+    "example": "The man standing there is my uncle."
+   },
+   {
+    "id": "g170",
+    "en": "Pre-modifying past participle",
+    "en_short": "A past participle before a noun: the broken window.",
+    "example": "a broken window"
+   },
+   {
+    "id": "g171",
+    "en": "Post-modifying past participle",
+    "en_short": "A past participle after a noun: the book written by...",
+    "example": "The book written by him is famous."
+   },
+   {
+    "id": "g172",
+    "en": "Relative pronoun (subject): who",
+    "en_short": "Relative pronoun 'who' for people as the subject: the man who lives here.",
+    "example": "The woman who lives next door is a nurse."
+   },
+   {
+    "id": "g174",
+    "en": "Relative pronoun (subject): that",
+    "en_short": "Relative pronoun 'that' as the subject: the book that is on the table.",
+    "example": "The girl that called you is my friend."
+   },
+   {
+    "id": "g179",
+    "en": "Omitted object relative pronoun",
+    "en_short": "Relative pronoun left out when it is the object: the book I read.",
+    "example": "The movie we watched was funny."
+   },
+   {
+    "id": "g189",
+    "en": "Preposition stranding",
+    "en_short": "A preposition at the end of a sentence: Who are you talking to?",
+    "example": "Who are you talking to?"
+   },
+   {
+    "id": "g196",
+    "en": "Sentence pattern: subject + verb + object (affirmative)",
+    "en_short": "The basic sentence pattern: subject + verb + object.",
+    "example": "I like music."
+   },
+   {
+    "id": "g196-2",
+    "en": "Sentence pattern: subject + verb + object (question)",
+    "en_short": "Questions with the basic pattern: Do you like pizza?",
+    "example": "Do you like music?"
+   },
+   {
+    "id": "g235",
+    "en": "Wh- question: Why ...?",
+    "en_short": "Questions with 'Why': Why are you late?",
+    "example": "Why are you late?"
+   },
+   {
+    "id": "g239",
+    "en": "Wh- question: What ...?",
+    "en_short": "Questions with 'What': What is this?",
+    "example": "What is your name?"
+   },
+   {
+    "id": "g245",
+    "en": "Wh- question: Where ...?",
+    "en_short": "Questions with 'Where': Where do you live?",
+    "example": "Where do you live?"
+   },
+   {
+    "id": "g246",
+    "en": "Wh- question: How ...?",
+    "en_short": "Questions with 'How': How are you?",
+    "example": "How are you?"
+   },
+   {
+    "id": "g247",
+    "en": "Wh- question: How + adjective/adverb ...?",
+    "en_short": "Questions with 'How' and an adjective or adverb: How old is he? How often?",
+    "example": "How old are you?"
+   }
+  ],
+  "A2": [
+   {
+    "id": "g11",
+    "en": "This/That + noun",
+    "en_short": "This and that before a noun: this book, that car.",
+    "example": "This book is interesting."
+   },
+   {
+    "id": "g17",
+    "en": "Determiner: another",
+    "en_short": "Another for one more: another cup of tea.",
+    "example": "Can I have another cup?"
+   },
+   {
+    "id": "g18",
+    "en": "Much + uncountable noun",
+    "en_short": "Much with uncountable nouns: much time, much money.",
+    "example": "We don't have much time."
+   },
+   {
+    "id": "g25",
+    "en": "Pro-word: ones",
+    "en_short": "Ones replaces a plural noun: the red ones.",
+    "example": "I like the red ones."
+   },
+   {
+    "id": "g39",
+    "en": "Comparative: more + adjective/adverb",
+    "en_short": "Comparing with more and an adjective or adverb: more interesting.",
+    "example": "This film is more interesting."
+   },
+   {
+    "id": "g41",
+    "en": "Superlative: most + adjective/adverb",
+    "en_short": "Saying the most with most and an adjective or adverb: the most expensive.",
+    "example": "It is the most expensive hotel."
+   },
+   {
+    "id": "g56",
+    "en": "Phrasal verbs (verb + object + particle)",
+    "en_short": "Phrasal verbs with an object in the middle or at the end: turn it off.",
+    "example": "Turn the light off."
+   },
+   {
+    "id": "g62",
+    "en": "Present perfect: affirmative",
+    "en_short": "The present perfect in positive sentences: I have finished.",
+    "example": "I have finished my homework."
+   },
+   {
+    "id": "g64-1",
+    "en": "Past simple of be: negative",
+    "en_short": "Negative sentences with was or were: I was not at home.",
+    "example": "They weren't at home."
+   },
+   {
+    "id": "g65-1",
+    "en": "Past simple (lexical verbs): negative",
+    "en_short": "Negative sentences with simple past verbs: I did not go.",
+    "example": "I didn't see him."
+   },
+   {
+    "id": "g65-2",
+    "en": "Past simple (lexical verbs): question",
+    "en_short": "Questions with simple past verbs: Did you see it?",
+    "example": "Did you enjoy the movie?"
+   },
+   {
+    "id": "g66",
+    "en": "Past continuous: affirmative",
+    "en_short": "Actions in progress in the past: I was sleeping.",
+    "example": "I was cooking when you called."
+   },
+   {
+    "id": "g69",
+    "en": "Future with will: affirmative",
+    "en_short": "Future with will in positive sentences: I will call you.",
+    "example": "I will call you tomorrow."
+   },
+   {
+    "id": "g76",
+    "en": "Passive: past",
+    "en_short": "Passive sentences for the past: The letter was sent.",
+    "example": "The letter was sent yesterday."
+   },
+   {
+    "id": "g114",
+    "en": "Verb + object + -ing",
+    "en_short": "A verb followed by an object and an -ing form: I saw him running.",
+    "example": "I saw him crossing the street."
+   },
+   {
+    "id": "g122",
+    "en": "be going to",
+    "en_short": "Talking about plans and future intentions: I am going to travel.",
+    "example": "I am going to study tonight."
+   },
+   {
+    "id": "g127",
+    "en": "have to: affirmative",
+    "en_short": "Positive sentences with have to, for something necessary: I have to work.",
+    "example": "I have to work tomorrow."
+   },
+   {
+    "id": "g136",
+    "en": "need (to): affirmative",
+    "en_short": "Positive sentences with need to, for something you must do: I need to go.",
+    "example": "I need to rest."
+   },
+   {
+    "id": "g139",
+    "en": "should: affirmative",
+    "en_short": "Positive sentences with should, for advice: You should rest.",
+    "example": "You should see a doctor."
+   },
+   {
+    "id": "g141",
+    "en": "will (modal): affirmative",
+    "en_short": "Positive sentences with will, for predictions and decisions.",
+    "example": "I will help you."
+   },
+   {
+    "id": "g142",
+    "en": "would: affirmative",
+    "en_short": "Positive sentences with would, for polite requests and imagined situations.",
+    "example": "I would like some tea."
+   },
+   {
+    "id": "g152",
+    "en": "Verb + that-clause",
+    "en_short": "Verbs followed by a clause with that: I think that you are right.",
+    "example": "He said that he was tired."
+   },
+   {
+    "id": "g156",
+    "en": "Adverbial clause: if",
+    "en_short": "Clauses with if for real or possible conditions: If it rains, we stay home.",
+    "example": "If it rains, we will stay."
+   },
+   {
+    "id": "g157",
+    "en": "Adverbial clause: as",
+    "en_short": "Clauses with as, meaning while or because.",
+    "example": "As I was leaving, it started to rain."
+   },
+   {
+    "id": "g168",
+    "en": "Pre-modifying present participle",
+    "en_short": "A present participle before a noun: the sleeping cat.",
+    "example": "a sleeping baby"
+   },
+   {
+    "id": "g183",
+    "en": "Compound relative pronoun: what",
+    "en_short": "The compound relative 'what', meaning the thing that: What I need is time.",
+    "example": "I understand what you mean."
+   },
+   {
+    "id": "g185",
+    "en": "Relative adverbs (with antecedent): where/when/why",
+    "en_short": "Relative adverbs for places, times and reasons: where, when, why.",
+    "example": "This is the place where we met."
+   },
+   {
+    "id": "g196-1",
+    "en": "Sentence pattern: subject + verb + object (negative)",
+    "en_short": "Negative sentences with the basic pattern: I do not like it.",
+    "example": "I don't like music."
+   },
+   {
+    "id": "g200",
+    "en": "Indirect speech: say/explain/report",
+    "en_short": "Reporting what someone said: He said that..., She explained...",
+    "example": "She said she was busy."
+   },
+   {
+    "id": "g202",
+    "en": "Indirect question: know/wonder/understand...",
+    "en_short": "Indirect questions with know, wonder or understand: Do you know where it is?",
+    "example": "I know where he is."
+   },
+   {
+    "id": "g206",
+    "en": "have/let/make + object + infinitive",
+    "en_short": "Verbs like have, let and make followed by an object and a base verb.",
+    "example": "My mother let me go."
+   },
+   {
+    "id": "g249",
+    "en": "Functional question: Can you ...?",
+    "en_short": "Polite questions with can: Can you help me?",
+    "example": "Can you open the window?"
+   }
+  ],
+  "B1": [
+   {
+    "id": "g2",
+    "en": "You are",
+    "en_short": "You are and you are not, with the verb be.",
+    "example": "You are very kind."
+   },
+   {
+    "id": "g12",
+    "en": "These/Those + noun",
+    "en_short": "These and those before a noun: these shoes, those houses.",
+    "example": "Those shoes are new."
+   },
+   {
+    "id": "g22",
+    "en": "Possessive pronouns: mine/yours/ours...",
+    "en_short": "Possessive pronouns: mine, yours, ours, theirs.",
+    "example": "This bag is mine."
+   },
+   {
+    "id": "g23",
+    "en": "Reflexive pronouns",
+    "en_short": "Reflexive pronouns: myself, yourself, himself, themselves.",
+    "example": "He cut himself."
+   },
+   {
+    "id": "g27",
+    "en": "Reciprocal pronoun: each other",
+    "en_short": "Each other, used when two or more people do the same thing to one another.",
+    "example": "They love each other."
+   },
+   {
+    "id": "g29",
+    "en": "Pronoun: others",
+    "en_short": "Others, used for other people or things.",
+    "example": "Some like tea; others like coffee."
+   },
+   {
+    "id": "g31",
+    "en": "-thing + adjective",
+    "en_short": "Adjectives after words ending in -thing: something new, nothing important.",
+    "example": "I want something cold."
+   },
+   {
+    "id": "g34",
+    "en": "Attitude adverbs: fortunately/unfortunately...",
+    "en_short": "Adverbs showing the speaker's attitude: fortunately, unfortunately.",
+    "example": "Fortunately, nobody was hurt."
+   },
+   {
+    "id": "g51",
+    "en": "Intensified comparatives: a lot/far/even/still",
+    "en_short": "Stronger comparatives with a lot, far, even or still: much better, far better.",
+    "example": "This one is much cheaper."
+   },
+   {
+    "id": "g60-1",
+    "en": "Present simple, 3rd person singular: negative",
+    "en_short": "Negative sentences with he, she or it: she does not work.",
+    "example": "He doesn't live here."
+   },
+   {
+    "id": "g61-1",
+    "en": "Present continuous: negative",
+    "en_short": "Negative sentences with actions in progress: I am not working.",
+    "example": "We are not waiting."
+   },
+   {
+    "id": "g62-1",
+    "en": "Present perfect: negative",
+    "en_short": "Negative sentences with the present perfect: I have not finished.",
+    "example": "She hasn't called me."
+   },
+   {
+    "id": "g67",
+    "en": "Past perfect: affirmative",
+    "en_short": "The past perfect in positive sentences: I had finished.",
+    "example": "She had left before I arrived."
+   },
+   {
+    "id": "g69-1",
+    "en": "Future with will: negative",
+    "en_short": "Negative sentences with will: I will not go.",
+    "example": "It won't rain tonight."
+   },
+   {
+    "id": "g82",
+    "en": "Passive with modal verbs",
+    "en_short": "Passive sentences with modal verbs: It can be done.",
+    "example": "This must be done today."
+   },
+   {
+    "id": "g87",
+    "en": "get + past participle",
+    "en_short": "Get plus a past participle, often for changes or things happening: get married.",
+    "example": "He got hurt in the game."
+   },
+   {
+    "id": "g89",
+    "en": "To-infinitive: not to do",
+    "en_short": "The negative infinitive: not to do, not to go.",
+    "example": "He told me not to wait."
+   },
+   {
+    "id": "g93",
+    "en": "To-infinitive with its own subject: for + noun + to do",
+    "en_short": "An infinitive with its own subject: for him to decide.",
+    "example": "It is easy for children to learn."
+   },
+   {
+    "id": "g99",
+    "en": "be + to-infinitive",
+    "en_short": "Be + to + infinitive for official plans or instructions: You are to wait here.",
+    "example": "We are to meet at six."
+   },
+   {
+    "id": "g117-1",
+    "en": "Imperative: negative",
+    "en_short": "Negative commands: Do not touch that.",
+    "example": "Don't touch that."
+   },
+   {
+    "id": "g121",
+    "en": "be able to",
+    "en_short": "Saying you have the skill or ability to do something: I am able to swim.",
+    "example": "She is able to swim."
+   },
+   {
+    "id": "g124",
+    "en": "could: affirmative",
+    "en_short": "Could, for ability in the past or polite requests: I could swim.",
+    "example": "I could run fast when I was young."
+   },
+   {
+    "id": "g124-1",
+    "en": "could: negative",
+    "en_short": "Negative sentences with could: I could not swim.",
+    "example": "I couldn't open the door."
+   },
+   {
+    "id": "g129",
+    "en": "may",
+    "en_short": "May, for possibility or permission: It may rain.",
+    "example": "It may rain later."
+   },
+   {
+    "id": "g132",
+    "en": "might: affirmative",
+    "en_short": "Might, for a possible but uncertain result: It might rain.",
+    "example": "He might be late."
+   },
+   {
+    "id": "g135",
+    "en": "must",
+    "en_short": "Must, for strong obligation or deduction: You must wear a seatbelt.",
+    "example": "You must wear a seat belt."
+   },
+   {
+    "id": "g136-1",
+    "en": "need (to): negative",
+    "en_short": "Negative sentences with need to: I do not need to go.",
+    "example": "You needn't worry."
+   },
+   {
+    "id": "g139-1",
+    "en": "should: negative",
+    "en_short": "Negative sentences with should: You should not do that.",
+    "example": "You shouldn't eat so fast."
+   },
+   {
+    "id": "g140",
+    "en": "used to",
+    "en_short": "Used to, for past habits or situations no longer true: I used to play.",
+    "example": "I used to play football."
+   },
+   {
+    "id": "g141-1",
+    "en": "will (modal): negative",
+    "en_short": "Negative sentences with will: I will not forget.",
+    "example": "He won't tell anyone."
+   },
+   {
+    "id": "g149",
+    "en": "here is/are",
+    "en_short": "Here is and here are, to point at something: Here is the bus.",
+    "example": "Here is your key."
+   },
+   {
+    "id": "g153",
+    "en": "know/wonder + wh-clause",
+    "en_short": "Asking about information with a clause that starts with a wh- word: I know where he is.",
+    "example": "I wonder where she lives."
+   },
+   {
+    "id": "g167",
+    "en": "wh- + to-infinitive",
+    "en_short": "Wh- words followed by to and an infinitive: I don't know what to do.",
+    "example": "I don't know what to do."
+   },
+   {
+    "id": "g181",
+    "en": "Non-restrictive relative clause",
+    "en_short": "Clauses that add extra information, set off by commas: My brother, who lives in Paris, ...",
+    "example": "My brother, who lives in Lima, is a doctor."
+   },
+   {
+    "id": "g186",
+    "en": "Relative adverbs without antecedent",
+    "en_short": "Adverbs that start a clause without a noun before them: where, when, why.",
+    "example": "I know when she arrives."
+   },
+   {
+    "id": "g194",
+    "en": "Sentence pattern: subject + verb",
+    "en_short": "The basic sentence pattern with a verb and no object: The sun rises.",
+    "example": "The baby cried."
+   },
+   {
+    "id": "g201",
+    "en": "Indirect speech: tell",
+    "en_short": "Reporting what someone told you: She told me that...",
+    "example": "He told me he was leaving."
+   },
+   {
+    "id": "g203",
+    "en": "Indirect question: ask/remind/show/teach/tell",
+    "en_short": "Indirect questions with ask, remind, show, teach or tell: Ask him where he lives.",
+    "example": "She asked me what time it was."
+   },
+   {
+    "id": "g209",
+    "en": "ask/tell + object + to-infinitive",
+    "en_short": "Ask or tell plus an object and to plus an infinitive: I asked him to come.",
+    "example": "He told me to wait."
+   },
+   {
+    "id": "g213",
+    "en": "Participial construction (present participle)",
+    "en_short": "Participle clauses, such as 'Walking home, I saw...'",
+    "example": "Walking home, I met a friend."
+   },
+   {
+    "id": "g215",
+    "en": "Second conditional",
+    "en_short": "The second conditional for imagined or unlikely situations: If I had money, I would travel.",
+    "example": "If I had money, I would travel."
+   }
+  ],
+  "B2": [
+   {
+    "id": "g10-1",
+    "en": "It is not",
+    "en_short": "It is not, or it is not there.",
+    "example": "It is not far from here."
+   },
+   {
+    "id": "g26",
+    "en": "Indefinite pronoun: none",
+    "en_short": "Pronoun meaning none of something: None of them came.",
+    "example": "None of them came."
+   },
+   {
+    "id": "g37",
+    "en": "Comparison of equality: as ... as",
+    "en_short": "Saying two things are equal with as ... as: as big as.",
+    "example": "He is as tall as his father."
+   },
+   {
+    "id": "g42",
+    "en": "Comparative/superlative of inferiority",
+    "en_short": "Comparing with less and least, to say something is smaller in amount or degree.",
+    "example": "This route is less crowded."
+   },
+   {
+    "id": "g43",
+    "en": "Adjective/adverb + enough",
+    "en_short": "Enough after an adjective or adverb: good enough, quickly enough.",
+    "example": "He is old enough to drive."
+   },
+   {
+    "id": "g46",
+    "en": "such (a/an) + adjective + noun",
+    "en_short": "Such before an adjective and noun: such a nice day.",
+    "example": "It was such a long day."
+   },
+   {
+    "id": "g53",
+    "en": "Emphatic do/does",
+    "en_short": "Emphatic do and does, to stress a verb: I do like it.",
+    "example": "I do like your idea."
+   },
+   {
+    "id": "g63",
+    "en": "Present perfect continuous: affirmative",
+    "en_short": "Actions that started in the past and are still going on: I have been working.",
+    "example": "I have been studying all day."
+   },
+   {
+    "id": "g70",
+    "en": "Future continuous / future forms",
+    "en_short": "Other ways to talk about the future: will be doing, going to, about to.",
+    "example": "This time tomorrow I will be flying."
+   },
+   {
+    "id": "g73-1",
+    "en": "Passive: present, negative",
+    "en_short": "Passive present negative sentences: The door is not locked.",
+    "example": "The shop is not opened on Sundays."
+   },
+   {
+    "id": "g75",
+    "en": "Passive: present perfect",
+    "en_short": "Passive present perfect sentences: The work has been finished.",
+    "example": "The window has been broken."
+   },
+   {
+    "id": "g79",
+    "en": "Passive: future",
+    "en_short": "Passive future sentences: It will be sent tomorrow.",
+    "example": "The work will be finished soon."
+   },
+   {
+    "id": "g85",
+    "en": "Indirect object as subject of passive",
+    "en_short": "Making the indirect object the subject of a passive: He was given a prize.",
+    "example": "She was given a present."
+   },
+   {
+    "id": "g91",
+    "en": "To-infinitive passive: to be done",
+    "en_short": "The passive infinitive: to be done, to be seen.",
+    "example": "She wants to be invited."
+   },
+   {
+    "id": "g95",
+    "en": "in order to do",
+    "en_short": "In order to plus an infinitive, to show purpose: in order to pass.",
+    "example": "I study in order to pass."
+   },
+   {
+    "id": "g106",
+    "en": "not + -ing",
+    "en_short": "Not followed by an -ing form: not knowing what to say.",
+    "example": "Not knowing the answer is normal."
+   },
+   {
+    "id": "g108",
+    "en": "being + past participle",
+    "en_short": "Being plus a past participle, for passive states: being watched.",
+    "example": "I hate being told what to do."
+   },
+   {
+    "id": "g127-1",
+    "en": "have to: negative",
+    "en_short": "Negative have to, to say something is not necessary: I do not have to go.",
+    "example": "You don't have to come."
+   },
+   {
+    "id": "g132-1",
+    "en": "might: negative",
+    "en_short": "Negative might: It might not work.",
+    "example": "She might not come."
+   },
+   {
+    "id": "g142-1",
+    "en": "would: negative",
+    "en_short": "Negative would: I would not do that.",
+    "example": "She wouldn't say why."
+   },
+   {
+    "id": "g144",
+    "en": "Modal + continuous",
+    "en_short": "Modal plus a continuous form, for guesses about now: He must be working.",
+    "example": "He must be sleeping."
+   },
+   {
+    "id": "g145",
+    "en": "Modal + perfect: affirmative",
+    "en_short": "Modal plus a perfect form, for past guesses: She might have forgotten.",
+    "example": "She must have left."
+   },
+   {
+    "id": "g145-1",
+    "en": "Modal + perfect: negative",
+    "en_short": "Negative modal plus a perfect form: He could not have known.",
+    "example": "He can't have seen us."
+   },
+   {
+    "id": "g154",
+    "en": "whether",
+    "en_short": "Whether, meaning if, in indirect questions: I wonder whether it is true.",
+    "example": "I don't know whether he will come."
+   },
+   {
+    "id": "g160",
+    "en": "Adverbial clause: so that",
+    "en_short": "So that, to show purpose: I left early so that I could catch the train.",
+    "example": "I spoke slowly so that he could understand."
+   },
+   {
+    "id": "g173",
+    "en": "Relative pronoun (subject): which",
+    "en_short": "The relative pronoun 'which' as the subject: the car, which is old.",
+    "example": "The bus which goes downtown is late."
+   },
+   {
+    "id": "g175",
+    "en": "Relative pronoun (object): who",
+    "en_short": "The relative pronoun 'who' as the object: the man who I met.",
+    "example": "The man who I met was nice."
+   },
+   {
+    "id": "g176",
+    "en": "Relative pronoun (object): whom",
+    "en_short": "The relative pronoun 'whom' as the object, in formal English: the man whom I met.",
+    "example": "The person whom I called was away."
+   },
+   {
+    "id": "g177",
+    "en": "Relative pronoun (object): which",
+    "en_short": "The relative pronoun 'which' as the object: the book which I read.",
+    "example": "The book which I read was long."
+   },
+   {
+    "id": "g178",
+    "en": "Relative pronoun (object): that",
+    "en_short": "The relative pronoun 'that' as the object: the book that I read.",
+    "example": "The film that we saw was great."
+   },
+   {
+    "id": "g184",
+    "en": "Preposition + relative pronoun",
+    "en_short": "A preposition before a relative pronoun: the house in which I was born.",
+    "example": "The house in which I was born is old."
+   },
+   {
+    "id": "g188",
+    "en": "wh-ever words",
+    "en_short": "Words with -ever, meaning any: whoever, whatever, wherever.",
+    "example": "Whoever calls, tell them I'm out."
+   },
+   {
+    "id": "g207",
+    "en": "have/get + object + past participle",
+    "en_short": "Have or get plus an object and a past participle: I had my car repaired.",
+    "example": "I had my hair cut."
+   },
+   {
+    "id": "g237",
+    "en": "Wh- question: Who ...?",
+    "en_short": "Asking who did something: Who called you?",
+    "example": "Who is that man?"
+   }
+  ]
+ }
+}

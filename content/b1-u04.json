@@ -1,0 +1,1617 @@
+{
+ "id": "b1-u04",
+ "level": "A1",
+ "n": 4,
+ "title": "Day in, day out",
+ "goals": [
+  "Say and understand the time (It's a quarter after six).",
+  "Talk about how often you do something (I rarely have free time, twice a week).",
+  "Say when you do something with on / at / in (on Fridays, at 6 p.m., in the morning).",
+  "Order actions in your routine with before, after, until.",
+  "Describe your day in a short paragraph using complete sentences (subject + verb).",
+  "Understand descriptions of jobs and routines (a roadie, a TV journalist)."
+ ],
+ "learn": [
+  {
+   "id": "v-time",
+   "kind": "vocab",
+   "title": "Telling the time: vocabulary",
+   "words": [
+    {
+     "id": "w-oclock",
+     "en": "o'clock",
+     "es": "en punto",
+     "example": "It's nine o'clock."
+    },
+    {
+     "id": "w-twenty-after",
+     "en": "(twenty) after (eight)",
+     "es": "(ocho) y veinte",
+     "example": "It's twenty after eight.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-quarter-after",
+     "en": "a quarter after (six)",
+     "es": "(seis) y cuarto",
+     "example": "It's a quarter after six.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-five-thirty",
+     "en": "(five) thirty / half past (five)",
+     "es": "(cinco) y media",
+     "example": "It's five thirty.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-quarter-to",
+     "en": "a quarter to (twelve)",
+     "es": "(doce) menos cuarto",
+     "example": "It's a quarter to twelve.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-am-pm",
+     "en": "a.m. / p.m.",
+     "es": "de la mañana / de la tarde-noche",
+     "example": "I get up at 6 a.m."
+    },
+    {
+     "id": "w-noon-midnight",
+     "en": "noon / midnight",
+     "es": "mediodía / medianoche",
+     "example": "We eat at noon.",
+     "cefr": "C1"
+    }
+   ]
+  },
+  {
+   "id": "g-time",
+   "kind": "grammar",
+   "title": "Saying the time",
+   "html": "<p>To ask and say what time it is, there are two ways: with numbers (<em>six fifteen</em>) and with words (<em>a quarter after six</em>). The answer always starts with <strong>It's</strong>.</p><table><thead><tr><th>Question</th><th>Answer</th><th>Variation</th></tr></thead><tbody><tr><td>What time is it?</td><td>It's nine o'clock.</td><td>It's nine.</td></tr><tr><td>Excuse me, what time is it?</td><td>It's a quarter after six.</td><td>It's six fifteen.</td></tr><tr><td>—</td><td>It's twenty after eight.</td><td>It's eight twenty.</td></tr><tr><td>—</td><td>It's five thirty.</td><td>It's half past five.</td></tr></tbody></table><ul><li>For \"at six o'clock\", use <strong>at</strong>: <em>The class starts at six.</em></li><li>American English uses <em>after</em> (British English uses <em>past</em>): <em>ten after seven = ten past seven</em>.</li><li>For the minutes before the hour, use <em>to</em>: <em>a quarter to twelve</em> (11:45).</li></ul>",
+   "watch": [
+    {
+     "wrong": "Is five o'clock.",
+     "right": "It's five o'clock.",
+     "why": "Telling the time uses It's (subject it)."
+    },
+    {
+     "wrong": "I get up in the six.",
+     "right": "I get up at six.",
+     "why": "Use at with clock times, with no article."
+    }
+   ]
+  },
+  {
+   "id": "v-frequency",
+   "kind": "vocab",
+   "title": "Frequency (from most to least)",
+   "words": [
+    {
+     "id": "w-always",
+     "en": "always (100%)",
+     "es": "siempre",
+     "example": "We are always at home in the evening.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-usually",
+     "en": "usually",
+     "es": "normalmente",
+     "example": "I usually work on new projects.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-often",
+     "en": "often",
+     "es": "seguido, con frecuencia",
+     "example": "My brother is often online.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-sometimes",
+     "en": "sometimes",
+     "es": "a veces",
+     "example": "I sometimes watch TV.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rarely",
+     "en": "rarely",
+     "es": "casi nunca",
+     "example": "Yolanda rarely watches TV.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-never",
+     "en": "never (0%)",
+     "es": "nunca",
+     "example": "Hector never has free time.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-once-a-week",
+     "en": "once a week",
+     "es": "una vez por semana",
+     "example": "I see Jake once a week.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-twice-a-week",
+     "en": "twice a week",
+     "es": "dos veces por semana",
+     "example": "They go to the movies twice a week.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-three-times-a-week",
+     "en": "three times a week",
+     "es": "tres veces por semana",
+     "example": "Clare drives to work three times a week.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-every-day",
+     "en": "every day",
+     "es": "todos los días",
+     "example": "Matt goes swimming every day.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-frequency",
+   "kind": "grammar",
+   "title": "Frequency adverbs and adverb phrases",
+   "html": "<p>Used to say how often you do something. From most to least: <em>always, usually, often, sometimes, rarely, never</em>.</p><table><thead><tr><th>Situation</th><th>Adverb position</th><th>Example</th></tr></thead><tbody><tr><td>Verb <em>be</em></td><td>after <em>be</em></td><td>He is never late. / We are always at home.</td></tr><tr><td>Other verbs</td><td>before the verb</td><td>Yolanda rarely watches TV.</td></tr><tr><td>Frases (<em>once a week, three times a week, every day</em>)</td><td>at the end of the sentence</td><td>Clare drives to work three times a week.</td></tr></tbody></table><p>Useful equivalents: <em>every day</em> ≈ <em>always</em>; <em>once a year</em> ≈ <em>rarely</em>; <em>about once a month</em> ≈ <em>sometimes</em>; <em>doesn't … on Sundays</em> ≈ <em>never</em>.</p>",
+   "watch": [
+    {
+     "wrong": "He never is late.",
+     "right": "He is never late.",
+     "why": "With be, the adverb goes after be."
+    },
+    {
+     "wrong": "Always I eat with my friends.",
+     "right": "I always eat with my friends.",
+     "why": "The adverb goes before the verb, not at the beginning."
+    },
+    {
+     "wrong": "I go always to the gym.",
+     "right": "I always go to the gym.",
+     "why": "The adverb goes before the main verb."
+    }
+   ]
+  },
+  {
+   "id": "v-days",
+   "kind": "vocab",
+   "title": "Days and parts of the day",
+   "words": [
+    {
+     "id": "w-mondays",
+     "en": "Mondays, Tuesdays…",
+     "es": "los lunes, los martes…",
+     "example": "On Mondays, I stay home.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-weekdays",
+     "en": "weekdays",
+     "es": "días entre semana",
+     "example": "Pete goes to school on weekdays."
+    },
+    {
+     "id": "w-the-weekend",
+     "en": "the weekend",
+     "es": "el fin de semana",
+     "example": "They go out on the weekend.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-in-the-morning",
+     "en": "in the morning / afternoon / evening",
+     "es": "por la mañana / tarde / noche (temprano)",
+     "example": "I read the newspaper in the morning.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-at-night",
+     "en": "at night",
+     "es": "de noche",
+     "example": "On Friday nights, I go to the movies.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-prepositions",
+   "kind": "grammar",
+   "title": "Time prepositions: on / at / in",
+   "html": "<p>Used to say <em>when</em> something happens.</p><table><thead><tr><th>Preposition</th><th>Used with</th><th>Examples</th></tr></thead><tbody><tr><td><strong>on</strong></td><td>days, and <em>weekdays / the weekend</em> (American English)</td><td>on Wednesday, on Fridays, on weekdays, on the weekend</td></tr><tr><td><strong>at</strong></td><td>clock times, <em>noon, midnight, night</em></td><td>at four o'clock, at midnight, at night</td></tr><tr><td><strong>in</strong></td><td>parts of the day</td><td>in the morning, in the afternoon, in the evening</td></tr></tbody></table><p>British English also says <em>at the weekend</em>.</p>",
+   "watch": [
+    {
+     "wrong": "in Monday",
+     "right": "on Monday",
+     "why": "Days → on."
+    },
+    {
+     "wrong": "at the night",
+     "right": "at night",
+     "why": "at night has no the."
+    },
+    {
+     "wrong": "on the morning",
+     "right": "in the morning",
+     "why": "Parts of the day → in."
+    },
+    {
+     "wrong": "in six o'clock",
+     "right": "at six o'clock",
+     "why": "Clock times → at."
+    }
+   ]
+  },
+  {
+   "id": "v-routine",
+   "kind": "vocab",
+   "title": "Daily routine",
+   "words": [
+    {
+     "id": "w-get-up",
+     "en": "get up",
+     "es": "levantarse",
+     "example": "Mateo gets up at 6 a.m.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-take-a-shower",
+     "en": "take a shower",
+     "es": "bañarse (ducharse)",
+     "example": "He takes a shower before breakfast.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-read-the-newspaper",
+     "en": "read the newspaper",
+     "es": "leer el periódico",
+     "example": "He reads the newspaper after breakfast.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-to-work",
+     "en": "go to work / go back to the office",
+     "es": "ir al trabajo / volver a la oficina",
+     "example": "He goes back to the office.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-lunch-break",
+     "en": "lunch break",
+     "es": "hora de la comida (descanso)",
+     "example": "He goes to the park for his lunch break.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-finish-work",
+     "en": "finish work",
+     "es": "terminar el trabajo",
+     "example": "Mateo finishes work at six o'clock.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-have-dinner",
+     "en": "have dinner",
+     "es": "cenar",
+     "example": "After work, he has dinner.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-to-bed",
+     "en": "go to bed",
+     "es": "irse a la cama",
+     "example": "He goes to bed at 10.30 p.m.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-staff-meeting",
+     "en": "staff meeting",
+     "es": "junta de personal",
+     "example": "I have a staff meeting for an hour.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-answer-emails",
+     "en": "answer emails",
+     "es": "contestar correos",
+     "example": "I answer emails until 12 p.m.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-swimming",
+     "en": "go swimming / bowling / dancing / shopping",
+     "es": "ir a nadar / al boliche / a bailar / de compras",
+     "example": "On Saturdays, I go shopping.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-work-out",
+     "en": "work out in the gym",
+     "es": "hacer ejercicio en el gimnasio",
+     "example": "On Tuesdays, I work out in the gym.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-ride-my-bike",
+     "en": "ride my bike",
+     "es": "andar en bicicleta",
+     "example": "On Sundays, I ride my bike.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-clauses",
+   "kind": "grammar",
+   "title": "Clauses with before, after, until",
+   "html": "<p>Used to put two actions in order in time. Each word is followed by a <strong>full clause</strong> (subject + verb).</p><table><thead><tr><th>Word</th><th>Meaning</th><th>Example</th><th>Order of events</th></tr></thead><tbody><tr><td><strong>before</strong></td><td>before that happens</td><td>I have a shower before I go swimming.</td><td>1) shower, 2) swim</td></tr><tr><td><strong>after</strong></td><td>after that happens</td><td>The bus comes after the train leaves.</td><td>1) the train leaves, 2) the bus arrives</td></tr><tr><td><strong>until</strong></td><td>until that happens</td><td>I study until my class starts.</td><td>I study for the whole time before class starts</td></tr></tbody></table><ul><li>The clause can go at the start (with a comma) or at the end (no comma): <em>Before she cooks, Jen washes her hands.</em> / <em>Jen washes her hands before she cooks.</em></li><li>To join two sentences: <em>I cook. Then my wife washes the dishes.</em> → <em>After I cook, my wife washes the dishes.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "He takes a shower after has breakfast.",
+     "right": "He takes a shower after he has breakfast.",
+     "why": "After after, before or until, use subject + verb."
+    },
+    {
+     "wrong": "I study until to ten o'clock.",
+     "right": "I study until ten o'clock.",
+     "why": "until does not take to."
+    }
+   ]
+  },
+  {
+   "id": "g-subject-verb",
+   "kind": "grammar",
+   "title": "Writing: every sentence needs a subject and a verb",
+   "html": "<p>In English the subject is almost never left out, even when it seems obvious (for example, \"He arrives at eight\", not \"Arrives at eight\").</p><table><thead><tr><th>Subject</th><th>Verb</th><th>Example</th></tr></thead><tbody><tr><td>name / pronoun (<em>Toshihiko, He, We</em>)</td><td><em>starts, is, go, buy</em></td><td>Toshihiko starts work at seven thirty.</td></tr><tr><td><em>It</em> (time, weather)</td><td><em>is</em></td><td>It is sunny today. / It's five o'clock.</td></tr></tbody></table><p>Example of a full paragraph: <em>After work, he goes to his English class. Before he goes home, he goes to a café. After dinner, he does his homework until it is time to go to sleep.</em></p>",
+   "watch": [
+    {
+     "wrong": "Is sunny today.",
+     "right": "It is sunny today.",
+     "why": "The subject it is missing."
+    },
+    {
+     "wrong": "After work, goes to class.",
+     "right": "After work, he goes to class.",
+     "why": "The subject is missing after the opening phrase."
+    },
+    {
+     "wrong": "I go to home.",
+     "right": "I go home.",
+     "why": "home takes no to with movement verbs."
+    }
+   ]
+  },
+  {
+   "id": "v-downtime",
+   "kind": "vocab",
+   "title": "Down time (free time and sayings)",
+   "words": [
+    {
+     "id": "w-sociable",
+     "en": "sociable",
+     "es": "sociable",
+     "example": "A sociable person likes meeting people."
+    },
+    {
+     "id": "w-boring",
+     "en": "boring",
+     "es": "aburrido",
+     "example": "This book is boring.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-loyal",
+     "en": "loyal",
+     "es": "leal",
+     "example": "A loyal fan supports his team.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-go-for-a-walk",
+     "en": "go for a walk",
+     "es": "salir a caminar",
+     "example": "I go for a walk with my dog.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-online",
+     "en": "online",
+     "es": "en línea",
+     "example": "I read the news online.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-time-waits",
+     "en": "Time waits for no man.",
+     "es": "El tiempo no espera a nadie.",
+     "example": "Hurry up! Time waits for no man.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-time-flies",
+     "en": "Time flies when you are having fun.",
+     "es": "El tiempo vuela cuando te diviertes.",
+     "example": "Is it ten already? Time flies when you are having fun.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-early-bird",
+     "en": "The early bird catches the worm.",
+     "es": "Al que madruga, Dios lo ayuda (equivalente).",
+     "example": "I get up at five. The early bird catches the worm.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "v-video",
+   "kind": "vocab",
+   "title": "Video: jobs and concert tours",
+   "words": [
+    {
+     "id": "w-roadie",
+     "en": "roadie",
+     "es": "técnico de gira",
+     "example": "Mike is a roadie."
+    },
+    {
+     "id": "w-stage",
+     "en": "stage",
+     "es": "escenario",
+     "example": "They set up the stage.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-tour",
+     "en": "tour",
+     "es": "gira",
+     "example": "Bands go on tour.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-shift",
+     "en": "shift",
+     "es": "turno",
+     "example": "A night shift is hard.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-equipment",
+     "en": "equipment / instruments",
+     "es": "equipo / instrumentos",
+     "example": "He unloads the equipment.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-soundcheck",
+     "en": "soundcheck",
+     "es": "prueba de sonido",
+     "example": "They do a soundcheck."
+    },
+    {
+     "id": "w-journalist",
+     "en": "journalist / channel / report",
+     "es": "periodista / canal / reportar",
+     "example": "She reports on news and politics.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-tough",
+     "en": "tough / difficult / important",
+     "es": "duro / difícil / importante",
+     "example": "His job is tough.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-sightseeing",
+     "en": "sightseeing",
+     "es": "turismo, visitar lugares",
+     "example": "He does some sightseeing."
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>Excuse me, what time is it?</strong> — to ask a stranger for the time.</li><li><strong>It's time to go home!</strong> — to say that it's time to leave.</li><li><strong>I rarely have free time.</strong> — to say that you are very busy.</li><li><strong>Then, … / After that, …</strong> — to link activities when you talk about your day.</li><li><strong>At 12 p.m., I … until 5 p.m.</strong> — to describe a block of time.</li><li><strong>Time flies when you are having fun.</strong> — to say that time went by fast.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Complete with on, at or in",
+   "instructions": "Write on, at or in.",
+   "topic": "g-prepositions",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "My English class is ___ Tuesdays.",
+     "answers": [
+      "on"
+     ],
+     "explain": "Days of the week → on."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Lucía wakes up ___ 6:30 a.m.",
+     "answers": [
+      "at"
+     ],
+     "explain": "Clock times → at."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "We visit my grandparents ___ the weekend.",
+     "answers": [
+      "on",
+      "at"
+     ],
+     "explain": "In American English: on the weekend (British English also allows at the weekend)."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "The market is very busy ___ the morning.",
+     "answers": [
+      "in"
+     ],
+     "explain": "Parts of the day → in."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "I never drink coffee ___ night.",
+     "answers": [
+      "at"
+     ],
+     "explain": "at night, no the."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "Fernando plays soccer ___ Sundays.",
+     "answers": [
+      "on"
+     ],
+     "explain": "Days → on."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "My brother studies ___ the afternoon.",
+     "answers": [
+      "in"
+     ],
+     "explain": "Parts of the day → in."
+    },
+    {
+     "id": "A8",
+     "type": "gap",
+     "prompt": "The restaurant closes ___ midnight.",
+     "answers": [
+      "at"
+     ],
+     "explain": "midnight → at."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Position of frequency adverbs",
+   "instructions": "Write the full sentence with the adverb (or phrase) in the correct position.",
+   "topic": "g-frequency",
+   "items": [
+    {
+     "id": "B1",
+     "type": "fix",
+     "prompt": "Rosa is on time. (always)",
+     "answers": [
+      "Rosa is always on time.",
+      "Rosa's always on time."
+     ],
+     "explain": "With be, the adverb goes after be."
+    },
+    {
+     "id": "B2",
+     "type": "fix",
+     "prompt": "I drink soda. (never)",
+     "answers": [
+      "I never drink soda."
+     ],
+     "explain": "With other verbs, the adverb goes before the verb."
+    },
+    {
+     "id": "B3",
+     "type": "fix",
+     "prompt": "We have lunch at two. (usually)",
+     "answers": [
+      "We usually have lunch at two.",
+      "Usually we have lunch at two.",
+      "Usually, we have lunch at two."
+     ],
+     "explain": "Before the verb (it can also go at the start)."
+    },
+    {
+     "id": "B4",
+     "type": "fix",
+     "prompt": "Pablo is tired on Mondays. (sometimes)",
+     "answers": [
+      "Pablo is sometimes tired on Mondays.",
+      "Pablo's sometimes tired on Mondays.",
+      "Sometimes Pablo is tired on Mondays.",
+      "Sometimes, Pablo is tired on Mondays.",
+      "Pablo is tired on Mondays sometimes.",
+      "Pablo is tired sometimes on Mondays."
+     ],
+     "explain": "With be, after be; sometimes can also go at the start."
+    },
+    {
+     "id": "B5",
+     "type": "fix",
+     "prompt": "They watch the news. (rarely)",
+     "answers": [
+      "They rarely watch the news.",
+      "They watch the news rarely."
+     ],
+     "explain": "Before the main verb."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "My sister takes the metro. (often)",
+     "answers": [
+      "My sister often takes the metro.",
+      "Often my sister takes the metro.",
+      "Often, my sister takes the metro.",
+      "My sister takes the metro often."
+     ],
+     "explain": "Before the main verb."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "I call my parents every Sunday. (rewrite with once a week)",
+     "answers": [
+      "I call my parents once a week.",
+      "Once a week I call my parents.",
+      "Once a week, I call my parents."
+     ],
+     "explain": "Frequency phrases go at the end (or at the start)."
+    },
+    {
+     "id": "B8",
+     "type": "fix",
+     "prompt": "Diego never is late for class.",
+     "answers": [
+      "Diego is never late for class.",
+      "Diego's never late for class."
+     ],
+     "explain": "With be, the adverb goes after be."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Join with before, after, until",
+   "instructions": "Join the two sentences with the word shown.",
+   "topic": "g-clauses",
+   "items": [
+    {
+     "id": "C1",
+     "type": "fix",
+     "prompt": "I eat breakfast. Then I brush my teeth. (after)",
+     "answers": [
+      "After I eat breakfast, I brush my teeth.",
+      "I brush my teeth after I eat breakfast.",
+      "I brush my teeth after eating breakfast.",
+      "After eating breakfast, I brush my teeth."
+     ],
+     "explain": "after + clause: the action with after happens first."
+    },
+    {
+     "id": "C2",
+     "type": "fix",
+     "prompt": "Ana studies. Then her friends arrive. (until)",
+     "answers": [
+      "Ana studies until her friends arrive.",
+      "Until her friends arrive, Ana studies."
+     ],
+     "explain": "until + clause: until."
+    },
+    {
+     "id": "C3",
+     "type": "fix",
+     "prompt": "We watch TV. Then we go to bed. (before)",
+     "answers": [
+      "We watch TV before we go to bed.",
+      "Before we go to bed, we watch TV.",
+      "We watch TV before going to bed.",
+      "Before going to bed, we watch TV."
+     ],
+     "explain": "before + clause: the action with before happens later."
+    },
+    {
+     "id": "C4",
+     "type": "fix",
+     "prompt": "Mario washes the car. Then he has lunch. (after)",
+     "answers": [
+      "After Mario washes the car, he has lunch.",
+      "After he washes the car, Mario has lunch.",
+      "Mario has lunch after he washes the car.",
+      "After washing the car, Mario has lunch.",
+      "Mario has lunch after washing the car."
+     ],
+     "explain": "after introduces the action that happens first."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "I wait at the bus stop. Then the bus comes. (until)",
+     "answers": [
+      "I wait at the bus stop until the bus comes.",
+      "Until the bus comes, I wait at the bus stop.",
+      "I wait at the bus stop until the bus arrives.",
+      "Until the bus arrives, I wait at the bus stop."
+     ],
+     "explain": "until + full clause."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "Before Sara goes to work, she takes the kids to school. What does Sara do first?",
+     "options": [
+      "She takes the kids to school.",
+      "She goes to work."
+     ],
+     "answer": 0,
+     "explain": "before introduces the action that happens later: first she takes the kids to school."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Write the time in words",
+   "instructions": "Complete with the time in words (any correct form is fine).",
+   "topic": "g-time",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "7:10 → It's ___.",
+     "answers": [
+      "ten after seven",
+      "ten past seven",
+      "seven ten",
+      "ten minutes after seven",
+      "ten minutes past seven"
+     ],
+     "explain": "7:10 = ten after seven (or seven ten)."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "6:15 → It's ___.",
+     "answers": [
+      "a quarter after six",
+      "quarter after six",
+      "a quarter past six",
+      "quarter past six",
+      "six fifteen",
+      "fifteen after six",
+      "fifteen past six"
+     ],
+     "explain": "6:15 = a quarter after six (or six fifteen)."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "9:30 → It's ___.",
+     "answers": [
+      "nine thirty",
+      "half past nine",
+      "half after nine",
+      "thirty after nine",
+      "thirty past nine"
+     ],
+     "explain": "9:30 = nine thirty (or half past nine)."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "12:00 (noon) → It's ___.",
+     "answers": [
+      "twelve o'clock",
+      "twelve oclock",
+      "noon",
+      "twelve noon",
+      "twelve",
+      "twelve pm",
+      "twelve p.m."
+     ],
+     "explain": "12:00 = noon or twelve o'clock."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "5:20 → It's ___.",
+     "answers": [
+      "twenty after five",
+      "twenty past five",
+      "five twenty",
+      "twenty minutes after five",
+      "twenty minutes past five"
+     ],
+     "explain": "5:20 = twenty after five (or five twenty)."
+    },
+    {
+     "id": "D6",
+     "type": "gap",
+     "prompt": "11:45 → It's ___.",
+     "answers": [
+      "eleven forty-five",
+      "eleven forty five",
+      "a quarter to twelve",
+      "quarter to twelve",
+      "a quarter of twelve",
+      "quarter of twelve",
+      "fifteen to twelve",
+      "fifteen of twelve"
+     ],
+     "explain": "11:45 = eleven forty-five or a quarter to twelve."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the words in order",
+   "instructions": "Put the words in order to form the sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "gets",
+      "Tom",
+      "up",
+      "usually",
+      "at",
+      "seven"
+     ],
+     "answers": [
+      "Tom usually gets up at seven.",
+      "Usually Tom gets up at seven."
+     ],
+     "explain": "With other verbs, the adverb goes before the verb."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "is",
+      "never",
+      "Laura",
+      "late",
+      "for",
+      "work"
+     ],
+     "answers": [
+      "Laura is never late for work.",
+      "Laura's never late for work."
+     ],
+     "explain": "With be, the adverb goes after be."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "we",
+      "the",
+      "on",
+      "play",
+      "weekend",
+      "soccer"
+     ],
+     "answers": [
+      "We play soccer on the weekend.",
+      "On the weekend we play soccer.",
+      "On the weekend, we play soccer."
+     ],
+     "explain": "on the weekend: days and the weekend take on."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "before",
+      "I",
+      "I",
+      "have",
+      "go",
+      "to",
+      "work",
+      "breakfast"
+     ],
+     "answers": [
+      "I have breakfast before I go to work.",
+      "Before I go to work, I have breakfast."
+     ],
+     "explain": "before + subject + verb."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "Maria",
+      "until",
+      "reads",
+      "midnight",
+      "often"
+     ],
+     "answers": [
+      "Maria often reads until midnight.",
+      "Often Maria reads until midnight.",
+      "Maria reads until midnight often."
+     ],
+     "explain": "The adverb goes before the main verb."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a question.",
+     "words": [
+      "is",
+      "what",
+      "it",
+      "time"
+     ],
+     "answers": [
+      "What time is it?"
+     ],
+     "explain": "Question about the time: What time is it?"
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Siempre me levanto a las seis y media.",
+     "answers": [
+      "I always get up at six thirty.",
+      "I always get up at half past six.",
+      "I always get up at 6:30.",
+      "I always get up at six thirty a.m.",
+      "I always get up at 6:30 a.m."
+     ],
+     "explain": "Adverb before the verb; time with at."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Mi hermano nunca llega tarde.",
+     "answers": [
+      "My brother is never late.",
+      "My brother's never late.",
+      "My brother never arrives late.",
+      "My brother never gets there late."
+     ],
+     "explain": "With be, never goes after be; with other verbs, before."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Voy al gimnasio dos veces por semana.",
+     "answers": [
+      "I go to the gym twice a week.",
+      "Twice a week I go to the gym.",
+      "Twice a week, I go to the gym."
+     ],
+     "explain": "twice a week goes at the end (or at the start)."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Estudio hasta que llega mi mamá.",
+     "answers": [
+      "I study until my mom arrives.",
+      "I study until my mom comes.",
+      "I study until my mom gets home.",
+      "I study until my mom arrives home.",
+      "I study until my mom comes home.",
+      "I study until my mom gets here.",
+      "I study until my mom arrives here.",
+      "I study until my mom comes here.",
+      "I study until my mother arrives.",
+      "I study until my mother comes.",
+      "I study until my mother gets home.",
+      "I study until my mother arrives home.",
+      "I study until my mother comes home.",
+      "I study until my mother gets here.",
+      "I study until my mother arrives here.",
+      "I study until my mother comes here.",
+      "I study until my mum arrives.",
+      "I study until my mum comes.",
+      "I study until my mum gets home.",
+      "I study until my mum arrives home.",
+      "I study until my mum comes home.",
+      "I study until my mum gets here.",
+      "I study until my mum arrives here.",
+      "I study until my mum comes here.",
+      "I study until my mommy arrives.",
+      "I study until my mommy comes.",
+      "I study until my mommy gets home.",
+      "I study until my mommy arrives home.",
+      "I study until my mommy comes home.",
+      "I study until my mommy gets here.",
+      "I study until my mommy arrives here.",
+      "I study until my mommy comes here.",
+      "Until my mom arrives, I study.",
+      "Until my mom comes, I study.",
+      "Until my mom gets home, I study.",
+      "Until my mom arrives home, I study.",
+      "Until my mom comes home, I study.",
+      "Until my mom gets here, I study.",
+      "Until my mom arrives here, I study.",
+      "Until my mom comes here, I study.",
+      "Until my mother arrives, I study.",
+      "Until my mother comes, I study.",
+      "Until my mother gets home, I study.",
+      "Until my mother arrives home, I study.",
+      "Until my mother comes home, I study.",
+      "Until my mother gets here, I study.",
+      "Until my mother arrives here, I study.",
+      "Until my mother comes here, I study.",
+      "Until my mum arrives, I study.",
+      "Until my mum comes, I study.",
+      "Until my mum gets home, I study.",
+      "Until my mum arrives home, I study.",
+      "Until my mum comes home, I study.",
+      "Until my mum gets here, I study.",
+      "Until my mum arrives here, I study.",
+      "Until my mum comes here, I study.",
+      "Until my mommy arrives, I study.",
+      "Until my mommy comes, I study.",
+      "Until my mommy gets home, I study.",
+      "Until my mommy arrives home, I study.",
+      "Until my mommy comes home, I study.",
+      "Until my mommy gets here, I study.",
+      "Until my mommy arrives here, I study.",
+      "Until my mommy comes here, I study."
+     ],
+     "explain": "until + subject + verb."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Después de que mi papá cena, ve la tele.",
+     "answers": [
+      "After my dad has dinner, he watches TV.",
+      "After my dad has dinner, he watches television.",
+      "After my father has dinner, he watches TV.",
+      "After my father has dinner, he watches television.",
+      "After my dad eats dinner, he watches TV.",
+      "After my dad eats dinner, he watches television.",
+      "After my father eats dinner, he watches TV.",
+      "After my father eats dinner, he watches television.",
+      "My dad watches TV after he has dinner.",
+      "My dad watches television after he has dinner.",
+      "My father watches TV after he has dinner.",
+      "My father watches television after he has dinner.",
+      "My dad watches TV after he eats dinner.",
+      "My dad watches television after he eats dinner.",
+      "My father watches TV after he eats dinner.",
+      "My father watches television after he eats dinner.",
+      "After he has dinner, my dad watches TV.",
+      "After he has dinner, my dad watches television.",
+      "After he has dinner, my father watches TV.",
+      "After he has dinner, my father watches television.",
+      "After he eats dinner, my dad watches TV.",
+      "After he eats dinner, my dad watches television.",
+      "After he eats dinner, my father watches TV.",
+      "After he eats dinner, my father watches television."
+     ],
+     "explain": "after + subject + verb; the other clause also needs a subject."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Son las cuatro y cuarto.",
+     "answers": [
+      "It's a quarter after four.",
+      "It is a quarter after four.",
+      "It's a quarter past four.",
+      "It is a quarter past four.",
+      "It's four fifteen.",
+      "It is four fifteen.",
+      "It's quarter after four.",
+      "It's quarter past four.",
+      "It's fifteen after four.",
+      "It's fifteen past four."
+     ],
+     "explain": "Time is said with It's + a quarter after/past four."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises of different types and topics; includes a review of the simple present from Unit 3.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Clare ___ to work three times a week.",
+     "options": [
+      "drive",
+      "drives",
+      "driving"
+     ],
+     "answer": 1,
+     "explain": "Simple present, she → verb + s (review Unit 3)."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Does she work on Saturdays? — No, she ___.",
+     "answers": [
+      "doesn't",
+      "does not"
+     ],
+     "explain": "Negative short answer with does (review Unit 3)."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "I go always to the gym.",
+     "answers": [
+      "I always go to the gym."
+     ],
+     "explain": "The adverb goes before the main verb."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Mi hermana trabaja los sábados.",
+     "answers": [
+      "My sister works on Saturdays.",
+      "My sister works Saturdays.",
+      "My sister works on Saturday.",
+      "My sister works on saturdays."
+     ],
+     "explain": "Simple present with she + s; days → on."
+    },
+    {
+     "id": "M5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "she",
+      "reads",
+      "before",
+      "she",
+      "goes",
+      "to",
+      "bed"
+     ],
+     "answers": [
+      "She reads before she goes to bed.",
+      "Before she goes to bed, she reads."
+     ],
+     "explain": "before + subject + verb (with she → goes)."
+    },
+    {
+     "id": "M6",
+     "type": "choice",
+     "prompt": "My English class is ___ the afternoon.",
+     "options": [
+      "on",
+      "at",
+      "in"
+     ],
+     "answer": 2,
+     "explain": "Parts of the day → in."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "4:45 → It's a quarter ___ five.",
+     "answers": [
+      "to",
+      "of"
+     ],
+     "explain": "For the last minutes before the hour, use to: a quarter to five."
+    },
+    {
+     "id": "M8",
+     "type": "fix",
+     "prompt": "He takes a shower after has breakfast.",
+     "answers": [
+      "He takes a shower after he has breakfast.",
+      "He takes a shower after having breakfast."
+     ],
+     "explain": "after needs subject + verb: after he has breakfast."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "F1",
+   "prompt": "Write 6 to 8 sentences about your work or study day. Include: two times (at … o'clock), three frequency adverbs (one with be), one sentence with before, one with after and one with until. Use Then or After that to link ideas. Starter: I usually get up at six thirty. Before I have breakfast, I …",
+   "targets": [
+    "time with at",
+    "frequency adverbs",
+    "before / after / until + clause",
+    "subject and verb in each sentence"
+   ],
+   "checklist": [
+    "6 to 8 sentences",
+    "Two times with at (at six o'clock)",
+    "Three frequency adverbs, one with be (I am never late)",
+    "Adverb after be and before other verbs",
+    "One sentence with before, one with after and one with until, each with subject + verb",
+    "Correct on / at / in (on Mondays, at night, in the morning)",
+    "Subject in each sentence; I go home (no to)",
+    "Then or After that to link ideas"
+   ],
+   "model": "I usually get up at six thirty. Before I have breakfast, I take a shower. Then I go to work. I am never late, and I start work at eight o'clock. I sometimes have lunch with my friends. I work until the office closes. After I finish work, I go home. On Mondays, I go to the gym in the evening."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "A busy day in Guadalajara",
+   "intro": "Read Valeria's text and answer.",
+   "paragraphs": [
+    "Hi! I'm Valeria and I work in a bank in Guadalajara. My day is busy. I always get up at six fifteen. Before I have breakfast, I take a shower. I take the bus to work and I start at eight o'clock. In the morning, I answer emails until noon. I usually have my lunch break at one o'clock, and I sometimes go for a walk in the park. I finish work at five thirty.",
+    "On Tuesdays and Thursdays, I work out in the gym. On Fridays, I go dancing with my friends. On the weekend, I rarely get up early. I often ride my bike on Sunday mornings. I never go to bed late. After I have dinner, I watch TV until ten o'clock. Then I go to bed. My life is busy, but I love it!"
+   ],
+   "glossary": [
+    {
+     "en": "bank",
+     "def": "a place where you keep money"
+    },
+    {
+     "en": "busy",
+     "def": "having a lot to do"
+    },
+    {
+     "en": "answer emails",
+     "def": "reply to messages you get by email"
+    },
+    {
+     "en": "lunch break",
+     "def": "the time you stop working to eat"
+    },
+    {
+     "en": "gym",
+     "def": "a place where people exercise"
+    },
+    {
+     "en": "early",
+     "def": "before the usual time"
+    },
+    {
+     "en": "late",
+     "def": "after the expected time"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Valeria always gets up at six fifteen.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Dice: 'I always get up at six fifteen'."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "What does Valeria do before breakfast?",
+     "options": [
+      "She takes a shower.",
+      "She answers emails.",
+      "She goes dancing."
+     ],
+     "answer": 0,
+     "explain": "Before I have breakfast, I take a shower."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Valeria answers emails in the afternoon.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Answers emails in the morning, until noon."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "When does Valeria work out?",
+     "options": [
+      "On Mondays and Wednesdays",
+      "On Tuesdays and Thursdays",
+      "On the weekend"
+     ],
+     "answer": 1,
+     "explain": "On Tuesdays and Thursdays, I work out in the gym."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "After dinner, Valeria watches TV ___ ten o'clock.",
+     "answers": [
+      "until"
+     ],
+     "explain": "Until = hasta (que)."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Valeria ___ goes to bed late.",
+     "answers": [
+      "never"
+     ],
+     "explain": "Dice: 'I never go to bed late'."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Is the bus late?",
+   "intro": "Listen to the conversation. You can repeat it.",
+   "lines": [
+    {
+     "who": "Luis",
+     "voice": "rounded",
+     "text": "Excuse me, Ana. What time is it?"
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "It's a quarter after eight. Why?"
+    },
+    {
+     "who": "Luis",
+     "voice": "rounded",
+     "text": "My English class starts at nine. I usually take the bus, but it's always late."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Do you have class every day?"
+    },
+    {
+     "who": "Luis",
+     "voice": "rounded",
+     "text": "No, I have class three times a week. On Mondays, Wednesdays and Fridays."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "I go to the gym on Tuesdays. I work out until seven thirty in the evening."
+    },
+    {
+     "who": "Luis",
+     "voice": "rounded",
+     "text": "Wow! Do you go on weekends too?"
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Rarely. On Saturdays, I sleep until ten. Then I have breakfast and go for a walk."
+    },
+    {
+     "who": "Luis",
+     "voice": "rounded",
+     "text": "That sounds nice. I never get up late."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "It's time to go! Your bus comes at eight thirty."
+    },
+    {
+     "who": "Luis",
+     "voice": "rounded",
+     "text": "Thanks, Ana! Bye!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What time is it at the beginning?",
+     "options": [
+      "A quarter after eight",
+      "Eight thirty",
+      "A quarter after nine"
+     ],
+     "answer": 0,
+     "explain": "It's a quarter after eight = 8:15."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "How often does Luis have English class?",
+     "options": [
+      "Every day",
+      "Three times a week",
+      "Once a week"
+     ],
+     "answer": 1,
+     "explain": "I have class three times a week."
+    },
+    {
+     "id": "L3",
+     "type": "gap",
+     "prompt": "Ana works out until seven ___ in the evening.",
+     "answers": [
+      "thirty",
+      "30"
+     ],
+     "explain": "Seven thirty = 7:30."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "When does Ana go to the gym?",
+     "options": [
+      "On Tuesdays",
+      "On Fridays",
+      "On Saturdays"
+     ],
+     "answer": 0,
+     "explain": "I go to the gym on Tuesdays."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "How often does Ana go to the gym on weekends?",
+     "options": [
+      "Always",
+      "Rarely",
+      "Never"
+     ],
+     "answer": 1,
+     "explain": "Ana says: 'Rarely'."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "prompt": "Escucha y escribe lo que oyes.",
+     "text": "It's a quarter after eight.",
+     "answers": [
+      "It's a quarter after eight.",
+      "It is a quarter after eight."
+     ],
+     "explain": "It's + hora."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "prompt": "Escucha y escribe lo que oyes.",
+     "text": "I have class three times a week.",
+     "answers": [
+      "I have class three times a week."
+     ],
+     "explain": "Frequency phrase at the end of the sentence."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "prompt": "Escucha y escribe lo que oyes.",
+     "text": "I work out until seven thirty.",
+     "answers": [
+      "I work out until seven thirty."
+     ],
+     "explain": "Until + hora."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "prompt": "Escucha y escribe lo que oyes.",
+     "text": "On Saturdays, I sleep until ten.",
+     "answers": [
+      "On Saturdays, I sleep until ten."
+     ],
+     "explain": "On + days."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Tell about your morning: what time you get up and what you do before you leave.",
+     "questions": [
+      "What time do you get up?",
+      "What do you do before breakfast?",
+      "What time do you leave home?",
+      "Do you always have breakfast?"
+     ],
+     "model": "I usually get up at six thirty. Before I have breakfast, I take a shower. I leave home at seven fifteen. I always have breakfast.",
+     "checklist": [
+      "Time with at (at six thirty)",
+      "Adverb before the verb (usually get up)",
+      "One sentence with before + subject + verb"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about how often you do free time activities.",
+     "questions": [
+      "How often do you work out?",
+      "What do you do on Saturdays?",
+      "Do you ever go to bed late?",
+      "What do you do on the weekend?"
+     ],
+     "model": "I work out twice a week. On Saturdays, I go shopping with my mother. I sometimes go to bed late. On Sundays, I rarely get up early.",
+     "checklist": [
+      "Frequency phrase at the end (twice a week)",
+      "On + day",
+      "Adverb with be or other verbs in the correct place"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Describe how your day ends: from work or school to going to sleep.",
+     "questions": [
+      "What time do you finish work or school?",
+      "What do you do after you finish?",
+      "What do you do until dinner?",
+      "What time do you go to bed?"
+     ],
+     "model": "I finish work at six o'clock. After I finish, I go home. I watch TV until dinner. Then I go to bed at ten thirty.",
+     "checklist": [
+      "After / until + subject + verb",
+      "Subject in each sentence",
+      "Then to link ideas"
+     ]
+    }
+   ],
+   "repeat": [
+    "Excuse me, what time is it?",
+    "It's a quarter after six.",
+    "I always get up at six thirty.",
+    "I go to the gym three times a week.",
+    "After I have dinner, I watch TV until ten.",
+    "On Saturdays, I rarely get up early."
+   ]
+  }
+ }
+}

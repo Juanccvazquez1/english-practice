@@ -1,0 +1,1877 @@
+{
+ "id": "u-c2-01",
+ "level": "C2",
+ "n": 1,
+ "title": "Shades of meaning",
+ "goals": [
+  "Distinguish precisely between needn't have, didn't need to and didn't have to: what each one implies about what actually happened.",
+  "Grade possibility and certainty with might well, may as well, could do worse than, is bound to and can't possibly.",
+  "Mark your stance with adverbs such as admittedly, ostensibly, allegedly, arguably, patently and tellingly.",
+  "Choose the exact reporting verb (claim, assert, contend, maintain, allege, purport) according to how far you commit to what is said.",
+  "Read and handle connotation: thrifty / frugal / stingy, assertive / pushy, childlike / childish.",
+  "Write and speak with a calibrated degree of certainty, without sounding either evasive or dogmatic."
+ ],
+ "learn": [
+  {
+   "id": "g-neednt",
+   "kind": "grammar",
+   "title": "needn't have + past participle vs. didn't need to vs. didn't have to",
+   "html": "<p>In Spanish, a single phrase can cover two very different situations: that you <em>came</em> (and it was in vain), or that you <em>did not come</em> because it was not necessary. English separates them, and that separation is a mark of command of the language.</p><table><thead><tr><th>Form</th><th>What it says</th><th>What it implies about what happened</th></tr></thead><tbody><tr><td><strong>She needn't have come.</strong></td><td>It was not necessary for her to come.</td><td><strong>She came.</strong> Unnecessary effort, often with a tone of regret or gentle reproach.</td></tr><tr><td><strong>She didn't need to come.</strong></td><td>She had no need to come.</td><td>Neutral: she may or may not have come. Context decides (<em>…so she stayed home</em> / <em>…but she did</em>).</td></tr><tr><td><strong>She didn't have to come.</strong></td><td>She was not obliged to come.</td><td>Equally neutral; it stresses the <em>absence of external obligation</em> rather than the absence of need.</td></tr><tr><td><strong>She needn't come.</strong></td><td>She doesn't need to come (now).</td><td>Present or future; mainly British English and a somewhat formal register. In American English: <em>She doesn't need to come.</em></td></tr></tbody></table><ul><li><strong>Social connotation:</strong> <em>You needn't have!</em> is the classic reply to an expensive gift: thanks with a smile that means \"you shouldn't have\". <em>You didn't need to!</em> is plainer and less warm.</li><li><em>Needn't</em> is a modal: no <em>-s</em>, no <em>to</em>, no <em>do</em>. It appears mainly in negatives and rhetorical questions (<em>Need I say more?</em>), and with <em>only</em> or <em>hardly</em> (<em>You need only ask.</em>).</li><li><strong>Do not confuse it with <em>mustn't</em>:</strong> <em>You needn't go</em> = it is not necessary; <em>You mustn't go</em> = it is forbidden.</li><li>To express the negative without ambiguity: <em>There was no need for her to come</em> / <em>It wasn't necessary for her to come.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "You needn't to worry about the deadline.",
+     "right": "You needn't worry about the deadline.",
+     "why": "Needn't is a modal: it is followed by the base verb, without to."
+    },
+    {
+     "wrong": "We needn't took an umbrella; it never rained.",
+     "right": "We needn't have taken an umbrella; it never rained.",
+     "why": "For something already done that turned out to be pointless, use needn't have + past participle."
+    },
+    {
+     "wrong": "He needn't have come, so he stayed in bed.",
+     "right": "He didn't need to come, so he stayed in bed.",
+     "why": "Needn't have implies that it DID happen; if she didn't come, use didn't need to."
+    }
+   ]
+  },
+  {
+   "id": "g-modal-nuance",
+   "kind": "grammar",
+   "title": "might well, may as well and could do worse than: three very different nuances",
+   "html": "<p>These expressions look closely related, but they express almost opposite things. Confusing them is a typical error of advanced users who \"know all the words\".</p><table><thead><tr><th>Structure</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td><strong>may / might / could well</strong> + base</td><td><strong>It is quite likely</strong> (it raises the probability above plain may/might).</td><td>She <em>might well</em> resign. = She very well may resign; I wouldn't be surprised.</td></tr><tr><td><strong>may / might well have</strong> + past participle</td><td>It is very possible that it happened.</td><td>The mistake <em>may well have</em> been deliberate.</td></tr><tr><td><strong>may / might as well</strong> + base</td><td><strong>There is no reason not to do it</strong>; a tone of resignation or indifference (\"we may as well…\", \"since…\").</td><td>The film's started. We <em>might as well</em> go in.</td></tr><tr><td><strong>might as well have</strong> + past participle</td><td>What we did was in vain; it makes no difference whether we did it or not.</td><td>We <em>might as well have</em> stayed at home.</td></tr><tr><td><strong>could do worse than</strong> + -ing</td><td>It would be a good idea (a mild understatement).</td><td>You <em>could do worse than</em> ask her.</td></tr><tr><td><strong>might / may just</strong> + base</td><td>There is a small but real possibility.</td><td>It <em>might just</em> work.</td></tr></tbody></table><ul><li><em>May well</em> is more formal; <em>might well</em> and <em>could well</em> are more common in speech. All three share the sense of \"probable\".</li><li><em>May / might as well</em> almost always goes with an action verb and almost never expresses probability. It never takes <em>to</em>.</li><li><strong>Elegant concession:</strong> <em>It may well be true, but it doesn't follow that…</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "It may as well rain later, so take an umbrella.",
+     "right": "It may well rain later, so take an umbrella.",
+     "why": "To say that something is probable, use may well; may as well means \"there is no reason not to\"."
+    },
+    {
+     "wrong": "You might as well to ask her yourself.",
+     "right": "You might as well ask her yourself.",
+     "why": "It is a modal construction: base verb, without to."
+    },
+    {
+     "wrong": "She might well to win the prize.",
+     "right": "She might well win the prize.",
+     "why": "Might well + base verb."
+    }
+   ]
+  },
+  {
+   "id": "g-stance",
+   "kind": "grammar",
+   "title": "Stance adverbs: admittedly, ostensibly, arguably…",
+   "html": "<p><strong>Stance adverbs</strong> do not modify a verb: they modify the whole sentence and reveal what the speaker thinks about what they are saying. They usually go at the beginning (followed by a comma), before the main verb, or at the end. Each one carries its own \"raised eyebrow\".</p><table><thead><tr><th>Function</th><th>Adverbs</th><th>Key nuance</th></tr></thead><tbody><tr><td>Concession</td><td><strong>admittedly</strong>, granted, to be fair</td><td><em>Admittedly</em> = I acknowledge a weak point in my own position before going on to argue.</td></tr><tr><td>Appearance vs. reality</td><td><strong>ostensibly</strong>, supposedly, allegedly, purportedly, seemingly, nominally</td><td><em>Ostensibly</em>: the official reason, which I suspect is false. <em>Allegedly</em>: someone claims it, without proof (very common in the press and in law). <em>Supposedly</em>: \"it is supposed to be\", more colloquial and sceptical.</td></tr><tr><td>Emphatic certainty</td><td><strong>undeniably</strong>, unquestionably, indisputably, patently, manifestly</td><td><em>Patently</em> = obviously (and often with disapproval): <em>patently absurd</em>.</td></tr><tr><td>Possibility / caution</td><td><strong>arguably</strong>, conceivably, plausibly, presumably</td><td><em>Arguably</em> = it can be argued that… (it does not mean \"probably\"). <em>Presumably</em> = I suppose.</td></tr><tr><td>Speaker's attitude</td><td>understandably, predictably, regrettably, mercifully, curiously, tellingly, ironically, frankly</td><td><em>Tellingly</em> = which is very revealing.</td></tr></tbody></table><ul><li><strong>False friend:</strong> <em>eventually</em> means \"in the end\", over time. It does not mean the Spanish <em>eventualmente</em>, which corresponds to <em>possibly, conceivably</em>.</li><li><em>Actually</em> does not mean \"actualmente\" (that is <em>currently</em>); <em>evidently</em> and <em>apparently</em> have two readings (obviously / seemingly): check the context.</li><li>Can be combined with <em>enough</em>: <em>Curiously enough, …</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "Eventually the minister is lying, but we can't prove it.",
+     "right": "Conceivably the minister is lying, but we can't prove it.",
+     "why": "Eventually means \"in the end\"; the Spanish eventualmente corresponds to conceivably / possibly."
+    },
+    {
+     "wrong": "Arguably, the report is one hundred percent correct.",
+     "right": "Undeniably, the report is correct.",
+     "why": "Arguably expresses caution (it can be argued that…); it does not combine with total certainty."
+    },
+    {
+     "wrong": "Admittedly, my plan is flawless.",
+     "right": "Admittedly, my plan isn't flawless.",
+     "why": "Admittedly introduces a concession, a weak point; it is not a compliment."
+    }
+   ]
+  },
+  {
+   "id": "g-certainty",
+   "kind": "grammar",
+   "title": "The certainty scale: from is bound to to can't possibly",
+   "html": "<p>A competent speaker does not choose between \"yes\" and \"no\": they place their judgement on a scale. Here are the main steps, with an approximate probability.</p><table><thead><tr><th>Degree</th><th>Expressions</th><th>Example</th></tr></thead><tbody><tr><td>~100 %</td><td>is bound to / is sure to / is certain to; there's no doubt that…; stands to reason</td><td>She's <em>bound to</em> win.</td></tr><tr><td>~85 %</td><td>will probably / is likely to / in all likelihood</td><td>It's <em>likely to</em> rain.</td></tr><tr><td>~70 %</td><td>should / ought to (neutral or positive expectation)</td><td>That <em>should</em> be enough.</td></tr><tr><td>~60 %</td><td>may / might / could <strong>well</strong></td><td>He <em>might well</em> refuse.</td></tr><tr><td>~40 %</td><td>may / might / could; conceivably</td><td>It <em>could</em> be a fault in the wiring.</td></tr><tr><td>~20 %</td><td>might just; just possibly; there's an outside chance</td><td>It <em>might just</em> work.</td></tr><tr><td>~5 %</td><td>is unlikely to; is highly improbable; hardly likely</td><td>It's <em>highly improbable</em> that…</td></tr><tr><td>~0 %</td><td>can't / couldn't possibly; no way</td><td>He <em>can't possibly</em> know.</td></tr></tbody></table><ul><li><strong>Negative deduction:</strong> <em>can't</em> (or <em>couldn't</em>), never <em>mustn't</em>: <em>He can't be at home — I just saw him.</em></li><li><em>Likely</em> is an adjective and works with <em>is likely to</em> or <em>it's likely that</em>; <em>probable</em> only with <em>it's probable that</em>. There is no <em>probable to</em>.</li><li><em>Be liable to</em> = to be prone to (almost always something negative): <em>The path is liable to flood.</em> With a different meaning: to be legally liable.</li></ul>",
+   "watch": [
+    {
+     "wrong": "It's probable to snow tonight.",
+     "right": "It's likely to snow tonight.",
+     "why": "Probable does not take to + verb; use likely to or probable that."
+    },
+    {
+     "wrong": "He must not be at the office; I saw him leave.",
+     "right": "He can't be at the office; I saw him leave.",
+     "why": "Negative deduction is expressed with can't, not mustn't (which means prohibition)."
+    },
+    {
+     "wrong": "Hardly nobody noticed the error.",
+     "right": "Hardly anybody noticed the error.",
+     "why": "Hardly is already negative: it does not take a double negative."
+    }
+   ]
+  },
+  {
+   "id": "v-saying",
+   "kind": "vocab",
+   "title": "Reporting verbs with nuance: claim, assert, contend…",
+   "words": [
+    {
+     "id": "w-claim",
+     "en": "claim",
+     "es": "afirmar, sostener (sin garantía: el hablante deja abierta la duda)",
+     "example": "She claims the figures are wrong, but she hasn't shown us any evidence.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-assert",
+     "en": "assert",
+     "es": "afirmar con aplomo y seguridad, a menudo sin pruebas",
+     "example": "He asserted his innocence in a firm, steady voice.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-contend",
+     "en": "contend",
+     "es": "sostener un argumento razonado en un debate",
+     "example": "Some historians contend that the empire fell from within.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-maintain",
+     "en": "maintain",
+     "es": "mantener lo dicho pese a las dudas ajenas",
+     "example": "She has always maintained that she never saw the letter.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-allege",
+     "en": "allege",
+     "es": "alegar, imputar sin haberlo probado (prensa, derecho)",
+     "example": "The prosecution alleges that the accused was at the scene.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-insist",
+     "en": "insist",
+     "es": "insistir; subraya la firmeza o la terquedad",
+     "example": "He insisted that he had paid the bill.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-profess",
+     "en": "profess",
+     "es": "declarar, proclamar (a menudo con una sinceridad dudosa)",
+     "example": "She professed ignorance of the whole affair."
+    },
+    {
+     "id": "w-purport",
+     "en": "purport (to be / to do)",
+     "es": "pretender ser; aparentar (el hablante duda de que lo sea)",
+     "example": "The report purports to be independent, yet it was funded by the firm."
+    },
+    {
+     "id": "w-posit",
+     "en": "posit",
+     "es": "postular, plantear como punto de partida (académico)",
+     "example": "The author posits that memory is reconstructive."
+    },
+    {
+     "id": "w-submit",
+     "en": "submit (that…)",
+     "es": "plantear respetuosamente, sobre todo ante un tribunal",
+     "example": "I submit that the evidence is inadmissible.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-aver",
+     "en": "aver",
+     "es": "afirmar categóricamente (muy formal, legal)",
+     "example": "The witness averred that she had seen him leave."
+    },
+    {
+     "id": "w-concede",
+     "en": "concede",
+     "es": "conceder, reconocer a regañadientes",
+     "example": "Pressed by the interviewer, he conceded that mistakes had been made.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-stipulate",
+     "en": "stipulate",
+     "es": "estipular, fijar como condición",
+     "example": "The contract stipulates that payment is due within thirty days."
+    },
+    {
+     "id": "w-avow",
+     "en": "avow",
+     "es": "declarar abiertamente (literario / formal)",
+     "example": "He avowed his loyalty to the crown."
+    }
+   ]
+  },
+  {
+   "id": "v-connotation",
+   "kind": "vocab",
+   "title": "Connotation: same referent, different judgement",
+   "words": [
+    {
+     "id": "w-thrifty",
+     "en": "thrifty / frugal / stingy",
+     "es": "ahorrativo (elogio) / austero y sensato (neutro-positivo) / tacaño (insulto)",
+     "example": "My uncle is thrifty; his wife says he is stingy."
+    },
+    {
+     "id": "w-slim",
+     "en": "slim / skinny / gaunt",
+     "es": "esbelto (halago) / flaco (a veces despectivo) / demacrado (enfermizo)",
+     "example": "After the illness he looked pale and gaunt."
+    },
+    {
+     "id": "w-curious",
+     "en": "curious / inquisitive / nosy",
+     "es": "curioso (positivo) / indagador (neutro) / entrometido (negativo)",
+     "example": "Our neighbour is nosy: she asks everyone about their salary.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-confident",
+     "en": "confident / cocky / arrogant",
+     "es": "seguro de sí (positivo) / chulo, creído (informal, negativo) / arrogante (muy negativo)",
+     "example": "He is confident, but his brother is frankly cocky.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-assertive",
+     "en": "assertive / pushy / aggressive",
+     "es": "firme (positivo) / insistente, avasallador (negativo) / agresivo (muy negativo)",
+     "example": "She calls it being assertive; her team calls it being pushy.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-childlike",
+     "en": "childlike / childish",
+     "es": "con la frescura de un niño (positivo) / infantil, inmaduro (negativo)",
+     "example": "Her sense of wonder is childlike; his sulking is childish."
+    },
+    {
+     "id": "w-determined",
+     "en": "determined / stubborn / pigheaded",
+     "es": "decidido (positivo) / terco (negativo) / cabezota (muy negativo, informal)",
+     "example": "She is determined, not stubborn.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-unconventional",
+     "en": "unconventional / eccentric / weird",
+     "es": "poco convencional (neutral-positivo) / excéntrico (a menudo simpático) / raro (negativo, informal)",
+     "example": "He is an eccentric old man with an unconventional approach to gardening.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-laid-back",
+     "en": "laid-back / easy-going / lazy",
+     "es": "relajado (informal, positivo) / tolerante, de buen carácter / holgazán (negativo)",
+     "example": "Their laid-back attitude drives the boss mad.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-inexpensive",
+     "en": "inexpensive / affordable / cheap",
+     "es": "económico (neutral) / asequible (positivo) / barato, de mala calidad (negativo)",
+     "example": "It's an affordable hotel, not a cheap one.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-firm",
+     "en": "firm / rigid / inflexible",
+     "es": "firme (positivo) / rígido (negativo) / intransigente (muy negativo)",
+     "example": "A firm policy is one thing; an inflexible one is another.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-elderly",
+     "en": "elderly / aged / senior",
+     "es": "mayor (cortés) / anciano (neutro-formal) / persona de edad (eufemismo institucional)",
+     "example": "Seats are reserved for elderly passengers.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "e-stance",
+   "kind": "expressions",
+   "title": "Formulas for qualifying and positioning yourself",
+   "html": "<ul><li><strong>for what it's worth</strong> — for whatever it may be worth: <em>For what it's worth, I think she's right.</em></li><li><strong>as far as I can tell</strong> — as far as I can see (caution based on partial information).</li><li><strong>to all intents and purposes</strong> — in practical terms: <em>The deal is, to all intents and purposes, dead.</em></li><li><strong>up to a point / to a degree</strong> — to a certain extent: <em>Up to a point, he's right.</em></li><li><strong>by and large</strong> — generally, on the whole.</li><li><strong>I wouldn't go so far as to say…</strong> — I would not go as far as to say… (it checks an exaggeration).</li><li><strong>It's fair to say…</strong> — a moderate, defensible statement.</li><li><strong>if anything</strong> — at most, if anything: <em>If anything, it made things worse.</em></li><li><strong>that said / mind you</strong> — with that said / but note: they introduce a counterpoint.</li><li><strong>to put it mildly</strong> — to put it gently (an understatement; the reality is worse).</li><li><strong>on balance</strong> — weighing everything up: <em>On balance, I'd say it was worth it.</em></li><li><strong>needless to say</strong> — it goes without saying.</li></ul><p><strong>Register:</strong> <em>mind you</em> and <em>for what it's worth</em> are conversational; <em>to all intents and purposes</em> and <em>admittedly</em> work equally well in an essay.</p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "needn't have, didn't need to and didn't have to",
+   "instructions": "Choose or write the form that corresponds to what actually happened.",
+   "topic": "g-neednt",
+   "items": [
+    {
+     "id": "A1",
+     "type": "choice",
+     "prompt": "We brought sandwiches, but the hotel served a free lunch. We ___ them.",
+     "options": [
+      "didn't need to bring",
+      "needn't have brought",
+      "needn't bring"
+     ],
+     "answer": 1,
+     "explain": "They were brought (it had already happened) and were in vain: needn't have + past participle."
+    },
+    {
+     "id": "A2",
+     "type": "choice",
+     "prompt": "Tomorrow is a holiday, so you ___ come in.",
+     "options": [
+      "needn't",
+      "needn't have",
+      "needn't to"
+     ],
+     "answer": 0,
+     "explain": "We are talking about the future: needn't + base verb."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "She ran all the way to the station, but the train was late. She ___ have run.",
+     "answers": [
+      "needn't",
+      "need not"
+     ],
+     "explain": "She ran and it was unnecessary: needn't have run."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "He ___ come to the meeting, so he stayed in bed.",
+     "options": [
+      "needn't have",
+      "didn't need to",
+      "needn't"
+     ],
+     "answer": 1,
+     "explain": "He stayed in bed (he did not come): needn't have would imply that he did come."
+    },
+    {
+     "id": "A5",
+     "type": "fix",
+     "prompt": "You needn't to worry about the deadline.",
+     "answers": [
+      "You needn't worry about the deadline.",
+      "You need not worry about the deadline.",
+      "You don't need to worry about the deadline."
+     ],
+     "explain": "Needn't is a modal: without to."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "She needn't have come, so she stayed at home.",
+     "answers": [
+      "She didn't need to come, so she stayed at home.",
+      "She didn't have to come, so she stayed at home."
+     ],
+     "explain": "If she stayed at home, she did not come: didn't need to / didn't have to."
+    },
+    {
+     "id": "A7",
+     "type": "translate",
+     "prompt": "No hacía falta que cocinaras tanto; ya habíamos comido.",
+     "answers": [
+      "You needn't have cooked so much; we had already eaten.",
+      "You needn't have cooked so much; we'd already eaten.",
+      "You needn't have cooked so much; we had eaten already.",
+      "You needn't have cooked so much; we'd eaten already.",
+      "You needn't have cooked that much; we had already eaten.",
+      "You needn't have cooked that much; we'd already eaten.",
+      "You needn't have cooked that much; we had eaten already.",
+      "You needn't have cooked that much; we'd eaten already.",
+      "You didn't need to cook so much; we had already eaten.",
+      "You didn't need to cook so much; we'd already eaten.",
+      "You didn't need to cook so much; we had eaten already.",
+      "You didn't need to cook so much; we'd eaten already."
+     ],
+     "explain": "She cooked (too much): needn't have cooked; didn't need to cook is also valid, but more neutral."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "bought",
+      "present",
+      "You",
+      "have",
+      "a",
+      "me",
+      "needn't"
+     ],
+     "answers": [
+      "You needn't have bought me a present.",
+      "You needn't have bought me a gift."
+     ],
+     "explain": "Needn't have + past participle: gratitude with a slight \"you shouldn't have\"."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "might well or might as well",
+   "instructions": "Distinguish \"it is quite likely\" (might well) from \"there is no reason not to\" (might as well).",
+   "topic": "g-modal-nuance",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "The traffic is terrible. We ___ walk; we'll get there faster.",
+     "options": [
+      "might well",
+      "might as well",
+      "might just as"
+     ],
+     "answer": 1,
+     "explain": "Practical, resigned suggestion: might as well + base verb."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "Don't be surprised if she resigns. She ___ . She's been unhappy for months.",
+     "options": [
+      "may as well",
+      "may well",
+      "might as well"
+     ],
+     "answer": 1,
+     "explain": "High probability: may well (elliptical use)."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "The meeting has dragged on for three hours and nothing has been decided. We might as ___ go home.",
+     "answers": [
+      "well"
+     ],
+     "explain": "Might as well + base verb."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "The company ___ well go under if sales don't recover.",
+     "answers": [
+      "may",
+      "might",
+      "could"
+     ],
+     "explain": "May / might / could well + base verb = very possible."
+    },
+    {
+     "id": "B5",
+     "type": "fix",
+     "prompt": "You might as well to ask her yourself.",
+     "answers": [
+      "You might as well ask her yourself.",
+      "You may as well ask her yourself."
+     ],
+     "explain": "Might as well + base verb, without to."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "It may as well rain later, so take an umbrella.",
+     "answers": [
+      "It may well rain later, so take an umbrella.",
+      "It might well rain later, so take an umbrella.",
+      "It could well rain later, so take an umbrella."
+     ],
+     "explain": "To say that something is probable, use may well, not may as well."
+    },
+    {
+     "id": "B7",
+     "type": "translate",
+     "prompt": "Más vale que lo intentes; no tienes nada que perder.",
+     "answers": [
+      "You may as well try; you have nothing to lose.",
+      "You may as well try; you've nothing to lose.",
+      "You may as well try; you've got nothing to lose.",
+      "You may as well try; you have got nothing to lose.",
+      "You may as well try it; you have nothing to lose.",
+      "You may as well try it; you've nothing to lose.",
+      "You may as well try it; you've got nothing to lose.",
+      "You may as well try it; you have got nothing to lose.",
+      "You may as well give it a try; you have nothing to lose.",
+      "You may as well give it a try; you've nothing to lose.",
+      "You may as well give it a try; you've got nothing to lose.",
+      "You may as well give it a try; you have got nothing to lose.",
+      "You may as well give it a go; you have nothing to lose.",
+      "You may as well give it a go; you've nothing to lose.",
+      "You may as well give it a go; you've got nothing to lose.",
+      "You may as well give it a go; you have got nothing to lose.",
+      "You might as well try; you have nothing to lose.",
+      "You might as well try; you've nothing to lose.",
+      "You might as well try; you've got nothing to lose.",
+      "You might as well try; you have got nothing to lose.",
+      "You might as well try it; you have nothing to lose.",
+      "You might as well try it; you've nothing to lose.",
+      "You might as well try it; you've got nothing to lose.",
+      "You might as well try it; you have got nothing to lose.",
+      "You might as well give it a try; you have nothing to lose.",
+      "You might as well give it a try; you've nothing to lose.",
+      "You might as well give it a try; you've got nothing to lose.",
+      "You might as well give it a try; you have got nothing to lose.",
+      "You might as well give it a go; you have nothing to lose.",
+      "You might as well give it a go; you've nothing to lose.",
+      "You might as well give it a go; you've got nothing to lose.",
+      "You might as well give it a go; you have got nothing to lose."
+     ],
+     "explain": "Practical resignation: may / might as well + base verb."
+    },
+    {
+     "id": "B8",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "home",
+      "stayed",
+      "as",
+      "have",
+      "might",
+      "We",
+      "at",
+      "well"
+     ],
+     "answers": [
+      "We might as well have stayed at home."
+     ],
+     "explain": "Might as well have + past participle: what was done was in vain."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Stance adverbs",
+   "instructions": "Choose or write the adverb that reflects the attitude described.",
+   "topic": "g-stance",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "The new ring road is ___ designed to ease congestion, though most locals suspect it was built to raise property prices.",
+     "options": [
+      "ostensibly",
+      "undeniably",
+      "admittedly"
+     ],
+     "answer": 0,
+     "explain": "The official reason that is suspected to be false: ostensibly."
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "___, she made some mistakes, but her overall contribution was enormous.",
+     "options": [
+      "Admittedly",
+      "Ostensibly",
+      "Supposedly"
+     ],
+     "answer": 0,
+     "explain": "Concession of a weak point before the contrast: admittedly."
+    },
+    {
+     "id": "C3",
+     "type": "choice",
+     "prompt": "The witness ___ saw the man leave, but there is no footage to support this.",
+     "options": [
+      "allegedly",
+      "undeniably",
+      "patently"
+     ],
+     "answer": 0,
+     "explain": "Claim without proof: allegedly."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "He is ___ the finest violinist of his generation, though some critics would name others.",
+     "answers": [
+      "arguably"
+     ],
+     "explain": "Arguably = it can be argued that… (cautious)."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "___ enough, the only person who knew the answer was the intern.",
+     "answers": [
+      "Curiously",
+      "Strangely",
+      "Oddly",
+      "Ironically",
+      "Funnily",
+      "Interestingly"
+     ],
+     "explain": "Stance adverb (surprise or irony) + enough."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "The figures are ___ wrong; anyone can see the totals don't add up.",
+     "options": [
+      "patently",
+      "arguably",
+      "supposedly"
+     ],
+     "answer": 0,
+     "explain": "Obvious error: patently."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "Eventually the minister is lying, but we can't prove it.",
+     "answers": [
+      "Conceivably the minister is lying, but we can't prove it.",
+      "Possibly the minister is lying, but we can't prove it.",
+      "Arguably the minister is lying, but we can't prove it.",
+      "Perhaps the minister is lying, but we can't prove it.",
+      "Maybe the minister is lying, but we can't prove it.",
+      "Presumably the minister is lying, but we can't prove it."
+     ],
+     "explain": "Eventually = in the end; the Spanish eventualmente = conceivably / possibly."
+    },
+    {
+     "id": "C8",
+     "type": "translate",
+     "prompt": "Supuestamente, la reunión es para revisar el presupuesto, pero nadie lo cree.",
+     "answers": [
+      "Ostensibly, the meeting is to review the budget, but nobody believes it.",
+      "Ostensibly, the meeting is to review the budget, but nobody believes that.",
+      "Ostensibly, the meeting is to review the budget, but no one believes it.",
+      "Ostensibly, the meeting is to review the budget, but no one believes that.",
+      "Ostensibly, the meeting is to discuss the budget, but nobody believes it.",
+      "Ostensibly, the meeting is to discuss the budget, but nobody believes that.",
+      "Ostensibly, the meeting is to discuss the budget, but no one believes it.",
+      "Ostensibly, the meeting is to discuss the budget, but no one believes that.",
+      "Ostensibly, the meeting is to go over the budget, but nobody believes it.",
+      "Ostensibly, the meeting is to go over the budget, but nobody believes that.",
+      "Ostensibly, the meeting is to go over the budget, but no one believes it.",
+      "Ostensibly, the meeting is to go over the budget, but no one believes that.",
+      "Ostensibly, the meeting is meant to review the budget, but nobody believes it.",
+      "Ostensibly, the meeting is meant to review the budget, but nobody believes that.",
+      "Ostensibly, the meeting is meant to review the budget, but no one believes it.",
+      "Ostensibly, the meeting is meant to review the budget, but no one believes that.",
+      "Ostensibly, the meeting is meant to discuss the budget, but nobody believes it.",
+      "Ostensibly, the meeting is meant to discuss the budget, but nobody believes that.",
+      "Ostensibly, the meeting is meant to discuss the budget, but no one believes it.",
+      "Ostensibly, the meeting is meant to discuss the budget, but no one believes that.",
+      "Ostensibly, the meeting is meant to go over the budget, but nobody believes it.",
+      "Ostensibly, the meeting is meant to go over the budget, but nobody believes that.",
+      "Ostensibly, the meeting is meant to go over the budget, but no one believes it.",
+      "Ostensibly, the meeting is meant to go over the budget, but no one believes that.",
+      "Ostensibly, the meeting is supposed to review the budget, but nobody believes it.",
+      "Ostensibly, the meeting is supposed to review the budget, but nobody believes that.",
+      "Ostensibly, the meeting is supposed to review the budget, but no one believes it.",
+      "Ostensibly, the meeting is supposed to review the budget, but no one believes that.",
+      "Ostensibly, the meeting is supposed to discuss the budget, but nobody believes it.",
+      "Ostensibly, the meeting is supposed to discuss the budget, but nobody believes that.",
+      "Ostensibly, the meeting is supposed to discuss the budget, but no one believes it.",
+      "Ostensibly, the meeting is supposed to discuss the budget, but no one believes that.",
+      "Ostensibly, the meeting is supposed to go over the budget, but nobody believes it.",
+      "Ostensibly, the meeting is supposed to go over the budget, but nobody believes that.",
+      "Ostensibly, the meeting is supposed to go over the budget, but no one believes it.",
+      "Ostensibly, the meeting is supposed to go over the budget, but no one believes that.",
+      "Supposedly, the meeting is to review the budget, but nobody believes it.",
+      "Supposedly, the meeting is to review the budget, but nobody believes that.",
+      "Supposedly, the meeting is to review the budget, but no one believes it.",
+      "Supposedly, the meeting is to review the budget, but no one believes that.",
+      "Supposedly, the meeting is to discuss the budget, but nobody believes it.",
+      "Supposedly, the meeting is to discuss the budget, but nobody believes that.",
+      "Supposedly, the meeting is to discuss the budget, but no one believes it.",
+      "Supposedly, the meeting is to discuss the budget, but no one believes that.",
+      "Supposedly, the meeting is to go over the budget, but nobody believes it.",
+      "Supposedly, the meeting is to go over the budget, but nobody believes that.",
+      "Supposedly, the meeting is to go over the budget, but no one believes it.",
+      "Supposedly, the meeting is to go over the budget, but no one believes that.",
+      "Supposedly, the meeting is meant to review the budget, but nobody believes it.",
+      "Supposedly, the meeting is meant to review the budget, but nobody believes that.",
+      "Supposedly, the meeting is meant to review the budget, but no one believes it.",
+      "Supposedly, the meeting is meant to review the budget, but no one believes that.",
+      "Supposedly, the meeting is meant to discuss the budget, but nobody believes it.",
+      "Supposedly, the meeting is meant to discuss the budget, but nobody believes that.",
+      "Supposedly, the meeting is meant to discuss the budget, but no one believes it.",
+      "Supposedly, the meeting is meant to discuss the budget, but no one believes that.",
+      "Supposedly, the meeting is meant to go over the budget, but nobody believes it.",
+      "Supposedly, the meeting is meant to go over the budget, but nobody believes that.",
+      "Supposedly, the meeting is meant to go over the budget, but no one believes it.",
+      "Supposedly, the meeting is meant to go over the budget, but no one believes that.",
+      "Supposedly, the meeting is supposed to review the budget, but nobody believes it.",
+      "Supposedly, the meeting is supposed to review the budget, but nobody believes that.",
+      "Supposedly, the meeting is supposed to review the budget, but no one believes it.",
+      "Supposedly, the meeting is supposed to review the budget, but no one believes that.",
+      "Supposedly, the meeting is supposed to discuss the budget, but nobody believes it.",
+      "Supposedly, the meeting is supposed to discuss the budget, but nobody believes that.",
+      "Supposedly, the meeting is supposed to discuss the budget, but no one believes it.",
+      "Supposedly, the meeting is supposed to discuss the budget, but no one believes that.",
+      "Supposedly, the meeting is supposed to go over the budget, but nobody believes it.",
+      "Supposedly, the meeting is supposed to go over the budget, but nobody believes that.",
+      "Supposedly, the meeting is supposed to go over the budget, but no one believes it.",
+      "Supposedly, the meeting is supposed to go over the budget, but no one believes that."
+     ],
+     "explain": "Ostensibly / supposedly for the official reason that nobody believes."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "The certainty scale",
+   "instructions": "Choose or write the expression that corresponds to the degree of certainty.",
+   "topic": "g-certainty",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "Given her training, she ___ win. I'd say ninety-nine percent.",
+     "options": [
+      "is bound to",
+      "might just",
+      "can't possibly"
+     ],
+     "answer": 0,
+     "explain": "Almost certain: is bound to."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "There's maybe a thirty percent chance. It ___ work, but I wouldn't bet on it.",
+     "options": [
+      "is bound to",
+      "might just",
+      "must"
+     ],
+     "answer": 1,
+     "explain": "Small but real possibility: might just."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "He ___ be at the office. I saw him leave an hour ago.",
+     "options": [
+      "mustn't",
+      "can't",
+      "needn't"
+     ],
+     "answer": 1,
+     "explain": "Negative deduction: can't."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "It's highly ___ that the plan will succeed; the odds are very slim.",
+     "answers": [
+      "unlikely",
+      "improbable",
+      "doubtful"
+     ],
+     "explain": "Very low probability: highly unlikely / improbable."
+    },
+    {
+     "id": "D5",
+     "type": "fix",
+     "prompt": "It's probable to snow tonight.",
+     "answers": [
+      "It's likely to snow tonight.",
+      "It is likely to snow tonight.",
+      "It's probable that it will snow tonight.",
+      "It's probable that it'll snow tonight.",
+      "It is probable that it will snow tonight.",
+      "It will probably snow tonight.",
+      "It'll probably snow tonight.",
+      "It's probably going to snow tonight."
+     ],
+     "explain": "Probable does not take to + verb: likely to or probable that."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "Hardly nobody noticed the error.",
+     "answers": [
+      "Hardly anybody noticed the error.",
+      "Hardly anyone noticed the error.",
+      "Almost nobody noticed the error.",
+      "Almost no one noticed the error."
+     ],
+     "explain": "Hardly is already negative: it combines with anybody / anyone."
+    },
+    {
+     "id": "D7",
+     "type": "translate",
+     "prompt": "Es muy probable que lleguen tarde; siempre lo hacen.",
+     "answers": [
+      "They are likely to arrive late; they always do.",
+      "They are likely to arrive late; they always arrive late.",
+      "They're likely to arrive late; they always do.",
+      "They're likely to arrive late; they always arrive late.",
+      "They'll probably arrive late; they always do.",
+      "They'll probably arrive late; they always arrive late.",
+      "They are bound to arrive late; they always do.",
+      "They are bound to arrive late; they always arrive late.",
+      "They're bound to arrive late; they always do.",
+      "They're bound to arrive late; they always arrive late.",
+      "It's very likely that they'll arrive late; they always do.",
+      "It's very likely that they'll arrive late; they always arrive late.",
+      "It is very likely that they will arrive late; they always do.",
+      "It is very likely that they will arrive late; they always arrive late."
+     ],
+     "explain": "High probability: likely to / will probably; the ellipsis \"they always do\" avoids repetition."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Reporting verbs with nuance",
+   "instructions": "Choose or write the verb that best reflects the attitude of the reporter.",
+   "topic": "v-saying",
+   "items": [
+    {
+     "id": "E1",
+     "type": "choice",
+     "prompt": "The article ___ that the policy has reduced crime, but it offers no data.",
+     "options": [
+      "claims",
+      "demonstrates",
+      "proves"
+     ],
+     "answer": 0,
+     "explain": "No data: claims leaves the doubt open."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "\"I will not apologise; I did nothing wrong,\" he said firmly. He ___ that he had done nothing wrong.",
+     "options": [
+      "asserted",
+      "conceded",
+      "speculated"
+     ],
+     "answer": 0,
+     "explain": "Firm assertion: asserted."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "Pressed by the interviewer, she finally ___ that she had been partly to blame.",
+     "options": [
+      "conceded",
+      "contended",
+      "insisted"
+     ],
+     "answer": 0,
+     "explain": "Reluctant acknowledgement: conceded."
+    },
+    {
+     "id": "E4",
+     "type": "choice",
+     "prompt": "In the indictment: the prosecution ___ that the accused was at the scene.",
+     "options": [
+      "alleges",
+      "stipulates",
+      "concedes"
+     ],
+     "answer": 0,
+     "explain": "Unproven accusation: alleges."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "The author ___ to be a neutral observer, yet every paragraph betrays her bias.",
+     "answers": [
+      "purports",
+      "claims",
+      "professes",
+      "pretends"
+     ],
+     "explain": "Purport to be = to claim to be (with scepticism)."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "Some historians ___ that the empire collapsed from within rather than through invasion.",
+     "options": [
+      "contend",
+      "aver",
+      "feign"
+     ],
+     "answer": 0,
+     "explain": "Sustain a reasoned argument: contend."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "The contract ___ that payment is due within thirty days.",
+     "answers": [
+      "stipulates",
+      "states",
+      "specifies",
+      "provides"
+     ],
+     "explain": "Set conditions: stipulates / specifies."
+    },
+    {
+     "id": "E8",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "purports",
+      "to",
+      "independent",
+      "The",
+      "report",
+      "entirely",
+      "be"
+     ],
+     "answers": [
+      "The report purports to be entirely independent."
+     ],
+     "explain": "Purport to be + adjective: claims to be…"
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Connotation",
+   "instructions": "Choose the word whose connotation fits the context.",
+   "topic": "v-connotation",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "My uncle never wastes anything. He's incredibly ___, and we say it admiringly.",
+     "options": [
+      "thrifty",
+      "stingy",
+      "miserly"
+     ],
+     "answer": 0,
+     "explain": "Praise: thrifty. Stingy and miserly are insults."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "He won't even leave a tip. He's so ___.",
+     "options": [
+      "frugal",
+      "stingy",
+      "economical"
+     ],
+     "answer": 1,
+     "explain": "Criticism: stingy."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "She calls it being assertive; her team calls it being ___.",
+     "options": [
+      "pushy",
+      "thrifty",
+      "curious"
+     ],
+     "answer": 0,
+     "explain": "The same behaviour seen through hostile eyes: pushy."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "Our neighbour keeps asking about my salary. I'd say she's ___, not just curious.",
+     "options": [
+      "inquisitive",
+      "nosy",
+      "interested"
+     ],
+     "answer": 1,
+     "explain": "Intrusive curiosity: nosy."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "He sulked for two days over a lost game. It was frankly ___.",
+     "options": [
+      "childlike",
+      "childish",
+      "youthful"
+     ],
+     "answer": 1,
+     "explain": "Immature (negative): childish; childlike is positive."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "After months of illness he looked pale and ___, his cheekbones sharp.",
+     "answers": [
+      "gaunt",
+      "haggard",
+      "emaciated"
+     ],
+     "explain": "Haggard, sickly: gaunt."
+    },
+    {
+     "id": "F7",
+     "type": "translate",
+     "prompt": "Es una mujer decidida, no terca.",
+     "answers": [
+      "She is a determined woman, not a stubborn one.",
+      "She's a determined woman, not a stubborn one.",
+      "She is determined, not stubborn.",
+      "She's determined, not stubborn.",
+      "She is a determined woman, not a stubborn woman.",
+      "She's a determined woman, not a stubborn woman."
+     ],
+     "explain": "Determined (positive) versus stubborn (negative)."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Order the sentences",
+   "instructions": "Put the words in order to form a correct sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "trouble",
+      "gone",
+      "to",
+      "needn't",
+      "You",
+      "such",
+      "have"
+     ],
+     "answers": [
+      "You needn't have gone to such trouble."
+     ],
+     "explain": "Needn't have + past participle."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "start",
+      "may",
+      "We",
+      "without",
+      "as",
+      "well",
+      "him"
+     ],
+     "answers": [
+      "We may as well start without him."
+     ],
+     "explain": "May as well + base verb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "were",
+      "Admittedly",
+      "disappointing",
+      "the",
+      "results"
+     ],
+     "answers": [
+      "Admittedly the results were disappointing."
+     ],
+     "explain": "Admittedly opens the sentence as a concession."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "to",
+      "ostensibly",
+      "protect",
+      "designed",
+      "is",
+      "The",
+      "consumers",
+      "measure"
+     ],
+     "answers": [
+      "The measure is ostensibly designed to protect consumers."
+     ],
+     "explain": "Ostensibly + past participle: the official reason."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "to",
+      "might",
+      "mistake",
+      "out",
+      "be",
+      "turn",
+      "It",
+      "well",
+      "a"
+     ],
+     "answers": [
+      "It might well turn out to be a mistake."
+     ],
+     "explain": "Might well + base verb."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "is",
+      "writer",
+      "most",
+      "the",
+      "her",
+      "gifted",
+      "generation",
+      "arguably",
+      "She",
+      "of"
+     ],
+     "answers": [
+      "She is arguably the most gifted writer of her generation."
+     ],
+     "explain": "Arguably placed before the phrase it defends."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "No hacía falta que te quedaras despierto; yo me ocupé de todo.",
+     "answers": [
+      "You needn't have stayed up; I took care of everything.",
+      "You needn't have stayed up; I took care of it all.",
+      "You needn't have stayed up; I handled everything.",
+      "You needn't have stayed up; I dealt with everything.",
+      "You needn't have stayed awake; I took care of everything.",
+      "You needn't have stayed awake; I took care of it all.",
+      "You needn't have stayed awake; I handled everything.",
+      "You needn't have stayed awake; I dealt with everything."
+     ],
+     "explain": "He stayed awake for nothing: needn't have + past participle."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Puede que tengan razón, pero yo no estoy convencido.",
+     "answers": [
+      "They may well be right, but I'm not convinced.",
+      "They may well be right, but I am not convinced.",
+      "They may well be right, but I'm not persuaded.",
+      "They may well be right, but I am not persuaded.",
+      "They might well be right, but I'm not convinced.",
+      "They might well be right, but I am not convinced.",
+      "They might well be right, but I'm not persuaded.",
+      "They might well be right, but I am not persuaded.",
+      "They could well be right, but I'm not convinced.",
+      "They could well be right, but I am not convinced.",
+      "They could well be right, but I'm not persuaded.",
+      "They could well be right, but I am not persuaded."
+     ],
+     "explain": "May / might well + base verb."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Ya que estamos aquí, más vale que pidamos algo de comer.",
+     "answers": [
+      "Since we're here, we may as well order something to eat.",
+      "Since we're here, we may as well order some food.",
+      "Since we're here, we may as well get something to eat.",
+      "Since we're here, we may as well order something.",
+      "Since we're here, we might as well order something to eat.",
+      "Since we're here, we might as well order some food.",
+      "Since we're here, we might as well get something to eat.",
+      "Since we're here, we might as well order something.",
+      "Since we are here, we may as well order something to eat.",
+      "Since we are here, we may as well order some food.",
+      "Since we are here, we may as well get something to eat.",
+      "Since we are here, we may as well order something.",
+      "Since we are here, we might as well order something to eat.",
+      "Since we are here, we might as well order some food.",
+      "Since we are here, we might as well get something to eat.",
+      "Since we are here, we might as well order something.",
+      "As we're here, we may as well order something to eat.",
+      "As we're here, we may as well order some food.",
+      "As we're here, we may as well get something to eat.",
+      "As we're here, we may as well order something.",
+      "As we're here, we might as well order something to eat.",
+      "As we're here, we might as well order some food.",
+      "As we're here, we might as well get something to eat.",
+      "As we're here, we might as well order something.",
+      "As we are here, we may as well order something to eat.",
+      "As we are here, we may as well order some food.",
+      "As we are here, we may as well get something to eat.",
+      "As we are here, we may as well order something.",
+      "As we are here, we might as well order something to eat.",
+      "As we are here, we might as well order some food.",
+      "As we are here, we might as well get something to eat.",
+      "As we are here, we might as well order something."
+     ],
+     "explain": "May / might as well + base verb."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Es indiscutiblemente la mejor propuesta.",
+     "answers": [
+      "It is indisputably the best proposal.",
+      "It is undeniably the best proposal.",
+      "It is unquestionably the best proposal.",
+      "It is indubitably the best proposal.",
+      "It's indisputably the best proposal.",
+      "It's undeniably the best proposal.",
+      "It's unquestionably the best proposal.",
+      "It's indubitably the best proposal."
+     ],
+     "explain": "Emphatic certainty adverb."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "El informe pretende ser imparcial, pero no lo es.",
+     "answers": [
+      "The report purports to be impartial, but it isn't.",
+      "The report purports to be impartial, but it is not.",
+      "The report purports to be unbiased, but it isn't.",
+      "The report purports to be unbiased, but it is not.",
+      "The report purports to be objective, but it isn't.",
+      "The report purports to be objective, but it is not.",
+      "The report purports to be neutral, but it isn't.",
+      "The report purports to be neutral, but it is not.",
+      "The report claims to be impartial, but it isn't.",
+      "The report claims to be impartial, but it is not.",
+      "The report claims to be unbiased, but it isn't.",
+      "The report claims to be unbiased, but it is not.",
+      "The report claims to be objective, but it isn't.",
+      "The report claims to be objective, but it is not.",
+      "The report claims to be neutral, but it isn't.",
+      "The report claims to be neutral, but it is not.",
+      "The report professes to be impartial, but it isn't.",
+      "The report professes to be impartial, but it is not.",
+      "The report professes to be unbiased, but it isn't.",
+      "The report professes to be unbiased, but it is not.",
+      "The report professes to be objective, but it isn't.",
+      "The report professes to be objective, but it is not.",
+      "The report professes to be neutral, but it isn't.",
+      "The report professes to be neutral, but it is not."
+     ],
+     "explain": "Purport to be: to claim to be."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Ella sostiene que la decisión fue prematura.",
+     "answers": [
+      "She contends that the decision was premature.",
+      "She contends that the decision was hasty.",
+      "She maintains that the decision was premature.",
+      "She maintains that the decision was hasty.",
+      "She argues that the decision was premature.",
+      "She argues that the decision was hasty.",
+      "She claims that the decision was premature.",
+      "She claims that the decision was hasty.",
+      "She asserts that the decision was premature.",
+      "She asserts that the decision was hasty.",
+      "She contends the decision was premature.",
+      "She contends the decision was hasty.",
+      "She maintains the decision was premature.",
+      "She maintains the decision was hasty.",
+      "She argues the decision was premature.",
+      "She argues the decision was hasty.",
+      "She claims the decision was premature.",
+      "She claims the decision was hasty.",
+      "She asserts the decision was premature.",
+      "She asserts the decision was hasty."
+     ],
+     "explain": "Reporting verb with an argumentative nuance: contends / maintains."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on all the topics of the unit. The last two review C1 structures (inverted conditional and passive with the perfect).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "I ___ stayed up all night; the exam was postponed.",
+     "options": [
+      "needn't have",
+      "didn't need",
+      "needn't"
+     ],
+     "answer": 0,
+     "explain": "He stayed up when it was not necessary: needn't have + past participle."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "___, the sequel is better than the original, though that is a minority view.",
+     "answers": [
+      "Arguably"
+     ],
+     "explain": "Caution: arguably = it can be argued that…"
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "She claimed being innocent.",
+     "answers": [
+      "She claimed to be innocent.",
+      "She claimed that she was innocent.",
+      "She claimed she was innocent."
+     ],
+     "explain": "Claim + to + infinitive, or claim + that-clause."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Supuestamente, estaba enfermo.",
+     "answers": [
+      "Supposedly, he was ill.",
+      "Supposedly, he was sick.",
+      "Ostensibly, he was ill.",
+      "Ostensibly, he was sick.",
+      "Allegedly, he was ill.",
+      "Allegedly, he was sick.",
+      "Supposedly, he'd been ill.",
+      "Supposedly, he'd been sick.",
+      "Ostensibly, he'd been ill.",
+      "Ostensibly, he'd been sick.",
+      "Allegedly, he'd been ill.",
+      "Allegedly, he'd been sick."
+     ],
+     "explain": "Appearance adverb: supposedly / ostensibly."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "It's ___ that the flight will be on time; the storm is getting worse.",
+     "options": [
+      "bound",
+      "unlikely",
+      "apt"
+     ],
+     "answer": 1,
+     "explain": "It's unlikely that…"
+    },
+    {
+     "id": "M6",
+     "type": "choice",
+     "prompt": "Which word gives the most neutral-to-positive picture of a thin person?",
+     "options": [
+      "gaunt",
+      "skinny",
+      "slim"
+     ],
+     "answer": 2,
+     "explain": "Slim is a compliment; skinny is ambiguous; gaunt suggests illness."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "The mistake ___ well have been deliberate; we may never know.",
+     "answers": [
+      "may",
+      "might",
+      "could"
+     ],
+     "explain": "May / might / could well have + past participle = very possible."
+    },
+    {
+     "id": "M8",
+     "type": "fix",
+     "prompt": "The painting is believed to be stolen in 1998.",
+     "answers": [
+      "The painting is believed to have been stolen in 1998.",
+      "The painting is thought to have been stolen in 1998."
+     ],
+     "explain": "C1 review: impersonal passive with the perfect: is believed to have been + past participle."
+    },
+    {
+     "id": "M9",
+     "type": "choice",
+     "prompt": "You may as well apologise; the argument isn't going anywhere. Which meaning of 'may as well'?",
+     "options": [
+      "It's very probable that you apologise",
+      "There's no good reason not to",
+      "You are forced to apologise"
+     ],
+     "answer": 1,
+     "explain": "May as well = there is no reason not to do it."
+    },
+    {
+     "id": "M10",
+     "type": "translate",
+     "prompt": "Si lo hubiera sabido, no habría venido.",
+     "answers": [
+      "Had I known, I wouldn't have come.",
+      "Had I known, I would not have come.",
+      "Had I known, I'd not have come.",
+      "If I had known, I wouldn't have come.",
+      "If I had known, I would not have come.",
+      "If I had known, I'd not have come.",
+      "If I'd known, I wouldn't have come.",
+      "If I'd known, I would not have come.",
+      "If I'd known, I'd not have come."
+     ],
+     "explain": "C1 review: inverted conditional (Had I known…) = If I had known…"
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write an opinion article of 300 to 400 words titled 'In defence of the qualified statement' (or a title of your own). Argue that nuanced language is not evasion but precision. Use at least four stance adverbs (admittedly, ostensibly, arguably, allegedly…), two uses of may/might well or may/might as well, one needn't have and three different reporting verbs (claim, assert, contend, maintain…). Include a counterargument and refute it.",
+   "targets": [
+    "stance adverbs",
+    "might well / may as well",
+    "needn't have",
+    "reporting verbs with nuance",
+    "concessive connectors"
+   ],
+   "checklist": [
+    "300–400 words, with an introduction, a counterargument and a conclusion",
+    "At least four stance adverbs used with the correct nuance (not 'eventually' to mean 'eventualmente')",
+    "May/might well for probability and may/might as well for \"there is no reason not to\" (without to)",
+    "One needn't have + past participle about something that did happen",
+    "Three different reporting verbs with nuance (claim ≠ assert ≠ contend)",
+    "At least one connotation pair (thrifty/stingy, assertive/pushy…) used well",
+    "Elevated register: varied rhythm, without repeating the same structures"
+   ],
+   "model": "We live in an age that prizes the confident soundbite. Politicians who hedge are dismissed as slippery; scientists who say \"probably\" are accused of dithering. Yet I want to argue, admittedly against the prevailing mood, that the qualified statement is not a form of evasion but an instrument of precision.\n\nConsider how much a single adverb can do. A report that is ostensibly neutral invites us to look behind the neutrality; a claim that is arguably true concedes that reasonable people may weigh the evidence differently; a transaction described as allegedly fraudulent reminds us that guilt has not yet been established. Strip these words away and the sentences become shorter, certainly, but they also become less honest.\n\nCritics contend that such language is the refuge of the timid. A speaker who qualifies everything, they maintain, commits to nothing, and an audience that cannot tell what is being asserted may well conclude that nothing is. The charge has some force: some writers do pile qualification upon qualification until the original point is buried. But the remedy for bad hedging is not the abolition of hedging; it is better hedging. Nobody complains that a surgeon who calls a procedure \"low-risk\" has misled us, provided that the risks are indeed small and have been stated plainly.\n\nThere is, besides, a question of connotation. A thrifty person and a stingy one may spend identical sums; the difference lies entirely in the attitude we wish to convey, and only a vocabulary rich in gradations allows us to convey it. The same applies to the assertive colleague who, in a less generous account, is merely pushy. To choose one word over the other is to make a judgement, and to make it visibly.\n\nSome years ago, a manager of mine claimed that the project would be finished on Friday. She asserted it with such conviction that we rearranged our diaries around it, though we needn't have bothered: the deadline slipped by a month. Had she said that it might well be finished by Friday, we would have planned accordingly, and nobody would have felt deceived. If the truth is uncertain, we may as well say so.\n\nPrecision, in the end, is a form of respect for the listener. The qualified statement trusts readers to cope with complexity, and that is a compliment too rarely paid."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a formal assessment of 300 to 400 words (a report for a committee) on a real or invented proposal (e.g. adopting a four-day working week in your company). Grade your certainty using the scale: is bound to, is likely to, might well, might just, can't possibly. Distinguish what the proposal purports to be from what it actually is (ostensibly, purports to) and close with a recommendation (on balance…).",
+   "targets": [
+    "scale of certainty",
+    "ostensibly / purports to",
+    "on balance",
+    "formal register",
+    "can't vs mustn't"
+   ],
+   "checklist": [
+    "300–400 words, report structure (context, analysis, recommendation)",
+    "At least four different degrees of certainty, well chosen",
+    "Negative deduction with can't / couldn't, not mustn't",
+    "One use of ostensibly or purports to with a sceptical nuance",
+    "One concession with admittedly followed by a contrast",
+    "Closing with a qualified recommendation (on balance, I would suggest…)"
+   ],
+   "model": "Report to the Executive Committee: Proposed Introduction of a Four-Day Working Week\n\n1. Context\n\nAt its last meeting the Committee asked for an assessment of the proposal to move all staff to a four-day week, with no reduction in salary, from the start of the next financial year. This report examines the likely consequences and offers a recommendation.\n\n2. Analysis\n\nThe proposal purports to be a productivity measure: its sponsors argue that shorter hours will yield the same output in less time. It is, ostensibly, cost-neutral. In practice, however, it is a substantial change to the terms on which people work, and it should be judged as such.\n\nSeveral outcomes seem to me reasonably secure. Staff morale is bound to improve, since few employees will resist an additional day of rest, and recruitment is likely to become easier, because competitors offering similar terms are still rare. Absenteeism might well fall too, although the evidence from comparable trials is less consistent on this point.\n\nOther outcomes are far less certain. Customer satisfaction might just suffer if service desks are thinly staffed on the fifth day, and the finance team, which works to rigid month-end deadlines, may struggle to compress its tasks. Moreover, the claim that output will remain constant can't possibly hold for every role: it is plausible for knowledge work, but it cannot be true of posts that depend on continuous presence. Equally, the savings in energy and premises costs that have been mentioned can't have been calculated for our own buildings, since no survey has yet been carried out. Admittedly, the pilot schemes reported elsewhere were encouraging; but they involved self-selected, motivated companies, and their results may not transfer to an organisation of our size.\n\n3. Recommendation\n\nOn balance, I would suggest that the Committee neither adopts nor rejects the proposal outright. I recommend instead a six-month pilot in two departments, with clearly defined measures of output, customer response and staff wellbeing, followed by a full review. Should the pilot show that service levels are maintained, a phased extension to the rest of the company would be justifiable; should it not, the cost of finding out will have been modest.\n\nRespectfully submitted,\nOperations Analyst"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "In Praise of the Qualified Statement",
+   "intro": "Read this opinion article and answer the questions. Notice how each stance word changes the force of what is said.",
+   "paragraphs": [
+    "There is a peculiar impatience abroad in public life. We want our experts to say yes or no, our politicians to speak in slogans, and our friends to have \"a take\" on everything before the kettle has boiled. Qualification, that old habit of saying \"probably\", \"up to a point\", \"it depends\", is now treated as evasion. Admittedly, it sometimes is. But the person who never qualifies anything is rarely the most honest person in the room; he is merely the loudest.",
+    "Consider the humble modal. When a doctor says a treatment \"might well help\", she is not dodging the question. She is encoding, in three words, a judgement about the evidence that would otherwise take a paragraph to spell out. \"Might well\" is not \"might\", and it is certainly not \"will\"; the distance between them is the distance between a shrug and a recommendation. Likewise, the colleague who tells you that you \"may as well submit it\" is not endorsing your report. He is telling you, with a wince, that further polishing will not rescue it. Every learner of English has met the speaker who knows each word in a sentence and still misses what it means.",
+    "Take the small, rueful phrase \"you needn't have\". When a guest arrives with an expensive bottle of wine, the host says it with a smile that is part gratitude and part reproach: the gift was not necessary, yet it has been given and cannot be un-given. \"You didn't need to\" is warmer in the abstract and colder in practice; it is the language of a form letter, whereas the other is the language of a kitchen doorway. The whole grammar of regret hides in a past participle.",
+    "The adverbs we use to position ourselves are subtler still. A minister resigns \"ostensibly\" for family reasons, a word that raises one eyebrow without the speaker having to move a muscle in his face. A scandal is \"allegedly\" the work of a rogue employee, which protects the newspaper and the employee in equal measure. A film is \"arguably\" the best of the decade, which means its admirers can defend the claim and its critics cannot quite dismiss it. \"Supposedly\" is the same eyebrow, but with a shrug and a lower register. And \"admittedly\", my own favourite, is the sound of a speaker paying a small tax to the opposition before getting on with the argument.",
+    "Reporting verbs perform the same quiet work. She \"claims\" the figures are wrong: I am keeping my distance. She \"asserts\" it: she is confident, perhaps over-confident. She \"contends\" it: we are in a debate, and she has reasons. She \"maintains\" it: she has said so before and will say so again, whatever we think. \"Concedes\" belongs on the other side of the table altogether. Journalists know this; it is why a headline announcing that a minister \"admits\" something is never quite neutral.",
+    "Connotation is the third layer. The same man is \"thrifty\" to his friends, \"frugal\" to his accountant and \"stingy\" to his in-laws. A woman who holds her ground is \"assertive\" at a conference and \"pushy\" in the gossip afterwards. Nothing in the dictionary separates them by more than a hair; everything in the room does.",
+    "Of course, there is a counterfeit version of all this. Hedging can be a form of cowardice, a way of never being wrong because one has never said anything. \"Arguably\" is the favourite word of the commentator who wants to be quoted but never corrected. The remedy, however, is not to abolish nuance but to demand that it be earned: if you write \"might well\", you should be able to say why, and what would change your mind. A qualification that cannot be tested is merely a fog with good manners.",
+    "A language that offers a dozen ways of saying \"perhaps\" is not being timid. It is offering a dozen levels of commitment, and to collapse them into \"yes\" and \"no\" is to make us all louder and a good deal less accurate. We may as well use the instruments we have been given. The shrug, properly understood, is not the opposite of conviction. It is conviction with its working shown."
+   ],
+   "glossary": [
+    {
+     "en": "evasion",
+     "def": "evasiveness, avoidance of a direct answer"
+    },
+    {
+     "en": "rueful",
+     "def": "regretful, with a mix of irony and resignation"
+    },
+    {
+     "en": "wince",
+     "def": "a grimace of discomfort or pain"
+    },
+    {
+     "en": "reproach",
+     "def": "reproach, rebuke"
+    },
+    {
+     "en": "rogue",
+     "def": "(of an employee) acting on their own, out of control; rogue"
+    },
+    {
+     "en": "counterfeit",
+     "def": "forged, counterfeit, an imitation"
+    },
+    {
+     "en": "hedging",
+     "def": "hedging; covering oneself with qualifications"
+    },
+    {
+     "en": "to earn (a place)",
+     "def": "to earn, to deserve"
+    },
+    {
+     "en": "to dodge",
+     "def": "to dodge, to evade"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "According to the author, qualifying a claim is always a form of evasion.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Admits that it sometimes is (\"admittedly, it sometimes is\"), but argues that it is usually precision."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "How does the author contrast \"you needn't have\" with \"you didn't need to\"?",
+     "options": [
+      "The first is warmer and implies the gift was given; the second is more neutral and impersonal",
+      "The first is colder and implies the gift was refused; the second is more affectionate",
+      "They are interchangeable except in American English"
+     ],
+     "answer": 0,
+     "explain": "\"Needn't have\" = the gift was already given, warmly; \"didn't need to\" sounds more neutral (like a form letter)."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What does \"ostensibly\" suggest about the minister's stated reason for resigning?",
+     "options": [
+      "The speaker doubts it is the real reason",
+      "It is the only possible reason",
+      "It has been confirmed by the minister's family"
+     ],
+     "answer": 0,
+     "explain": "Ostensibly raises an eyebrow: the official reason is called into question."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Which reporting verb signals that the writer is keeping her distance from the claim?",
+     "options": [
+      "claims",
+      "asserts",
+      "maintains"
+     ],
+     "answer": 0,
+     "explain": "Claims = sin comprometerse con la verdad de lo dicho."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "What is the author's attitude to the use of \"arguably\"?",
+     "options": [
+      "It can be a way of avoiding accountability, so qualifications must be able to be justified",
+      "It should be banned from journalism",
+      "It is more precise than \"undeniably\""
+     ],
+     "answer": 0,
+     "explain": "Criticizes the cowardly use of hedging and demands that nuance be earned."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "The author compares \"admittedly\" to paying a small ___ to the opposition.",
+     "answers": [
+      "tax"
+     ],
+     "explain": "Admittedly = «paying a small tax to the opposition»."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "The author's last sentence says the shrug is conviction with its ___ shown.",
+     "answers": [
+      "working"
+     ],
+     "explain": "«Conviction with its working shown»."
+    },
+    {
+     "id": "R8",
+     "type": "choice",
+     "prompt": "Which statement best sums up the author's thesis?",
+     "options": [
+      "Nuanced language is not a weakness but a precise tool for stating degrees of commitment",
+      "Experts should avoid giving opinions in public",
+      "English has too many words to say 'perhaps'"
+     ],
+     "answer": 0,
+     "explain": "Defends nuance as a tool of precision."
+    }
+   ]
+  },
+  "listening": {
+   "title": "The leaving do",
+   "intro": "Listen to the conversation between three colleagues. They speak fast and use idioms. You can repeat it.",
+   "lines": [
+    {
+     "who": "Maya",
+     "voice": "airy",
+     "text": "Hang on, you didn't actually buy the watch, did you? Dev, you needn't have! We'd agreed on thirty quid each."
+    },
+    {
+     "who": "Dev",
+     "voice": "buttery",
+     "text": "I know, I know. But it was in the sale, and, to be fair, it's ostensibly a leaving present for Karen, not a bribe for her successor."
+    },
+    {
+     "who": "Maya",
+     "voice": "airy",
+     "text": "Ostensibly. Right. Because you're definitely not hoping she'll put in a word for you before she goes."
+    },
+    {
+     "who": "Dev",
+     "voice": "buttery",
+     "text": "Allegedly, I'm not. Anyway, she might well turn it down on principle, in which case I'll have a very nice watch."
+    },
+    {
+     "who": "Priya",
+     "voice": "glassy",
+     "text": "Can I just jump in? The restaurant rang back. Apparently, and this came out of the blue, they've double-booked us on Friday."
+    },
+    {
+     "who": "Maya",
+     "voice": "airy",
+     "text": "You're kidding. I did say we ought to confirm in writing."
+    },
+    {
+     "who": "Priya",
+     "voice": "glassy",
+     "text": "I did. Supposedly the email never arrived. Anyway, they can do Thursday, but only at six."
+    },
+    {
+     "who": "Dev",
+     "voice": "buttery",
+     "text": "Six? Karen won't be out of that budget meeting until half past, if it goes the way these things do."
+    },
+    {
+     "who": "Priya",
+     "voice": "glassy",
+     "text": "Well, we can't very well cancel the whole thing. We might as well bite the bullet and go for Thursday, and she can turn up late."
+    },
+    {
+     "who": "Maya",
+     "voice": "airy",
+     "text": "Arguably that's better. Friday's a nightmare for trains anyway. Fine. But tell her it's a surprise, or she'll come up with an excuse."
+    },
+    {
+     "who": "Dev",
+     "voice": "buttery",
+     "text": "Oh, she's bound to suspect something. She's got a nose like a bloodhound."
+    },
+    {
+     "who": "Priya",
+     "voice": "glassy",
+     "text": "Mind you, if she does, we may as well make it a proper do. Cake, speeches, the lot."
+    },
+    {
+     "who": "Maya",
+     "voice": "airy",
+     "text": "Speeches? Dev, you're on. You've clearly got the gift of the gab."
+    },
+    {
+     "who": "Dev",
+     "voice": "buttery",
+     "text": "Admittedly, I do enjoy the sound of my own voice. Fine. But nobody mention the watch until after the cake."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Why does Maya say Dev needn't have bought the watch?",
+     "options": [
+      "The group had agreed a small contribution each",
+      "Karen already owns one",
+      "The shop was closed"
+     ],
+     "answer": 0,
+     "explain": "\"We'd agreed on thirty quid each\": a small amount had been agreed on."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What does Maya imply by repeating \"Ostensibly\"?",
+     "options": [
+      "She doubts the gift is purely generous",
+      "She thinks the watch is a fake",
+      "She wants Dev to hide it"
+     ],
+     "answer": 0,
+     "explain": "Ostensibly with a skeptical tone: she suspects a hidden interest."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What went wrong with the restaurant booking?",
+     "options": [
+      "They were double-booked on Friday",
+      "The restaurant closed down",
+      "The price went up"
+     ],
+     "answer": 0,
+     "explain": "«They've double-booked us on Friday»."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "The restaurant can offer a table on ___ at six.",
+     "answers": [
+      "thursday"
+     ],
+     "explain": "«They can do Thursday, but only at six»."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What does Dev predict about the surprise?",
+     "options": [
+      "Karen will almost certainly suspect something",
+      "Karen will be delighted",
+      "Karen will refuse to come"
+     ],
+     "answer": 0,
+     "explain": "«She's bound to suspect something»: casi certeza."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "Who will give a speech, according to Maya?",
+     "options": [
+      "Dev",
+      "Priya",
+      "Karen"
+     ],
+     "answer": 0,
+     "explain": "«Speeches? Dev, you're on»."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "You needn't have bought it; we'd agreed on thirty quid each.",
+     "answers": [
+      "You needn't have bought it; we'd agreed on thirty quid each.",
+      "You needn't have bought it; we had agreed on thirty quid each."
+     ],
+     "explain": "Needn't have + participio; we'd = we had."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "She might well turn it down on principle.",
+     "answers": [
+      "She might well turn it down on principle."
+     ],
+     "explain": "Might well + verbo base."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "We may as well make it a proper do.",
+     "answers": [
+      "We may as well make it a proper do."
+     ],
+     "explain": "May as well + base verb: «ya que estamos»."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Admittedly, I do enjoy the sound of my own voice.",
+     "answers": [
+      "Admittedly, I do enjoy the sound of my own voice."
+     ],
+     "explain": "Admittedly opens a concession; emphatic do."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Make a prediction about a current topic (technology, economics, sport) and grade your certainty: say one thing that is almost certain, one that is probable and one that could only possibly happen.",
+     "questions": [
+      "What do you think will happen to remote work over the next five years?",
+      "How sure are you, and why?",
+      "What would change your mind?"
+     ],
+     "model": "I'd say remote work is bound to stay, at least in some form: too many companies have already given up their offices. Hybrid arrangements are likely to become the norm, and I think it's fair to say some firms might well pull people back. Could it vanish altogether? Highly unlikely. Could it end up as a perk for senior staff only? It might just, and I'd put that at about twenty percent.",
+     "checklist": [
+      "Use three different degrees of certainty (bound to / might well / might just)",
+      "Include a formula of caution (I'd say, it's fair to say)",
+      "Close with what would make you change your mind",
+      "Intonation that falls with certainty and rises with doubt"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Comment on a controversial claim you have read or heard. Report what was said, choosing nuanced reporting verbs, and say whether you agree.",
+     "questions": [
+      "What claim did you read or hear recently?",
+      "Who made it, and on what basis?",
+      "Where do you stand?"
+     ],
+     "model": "A columnist recently contended that social media has made us less empathetic. She maintains it's the speed rather than the platform, which is arguably a fair point. Admittedly, she offers little hard evidence, and the study she cites purports to measure empathy but really measures survey responses. So, up to a point, I'm with her; I just wouldn't go so far as to say the case is proved.",
+     "checklist": [
+      "Two or more nuanced reporting verbs (contend, maintain, purport…)",
+      "One stance adverb (arguably, admittedly)",
+      "A formula such as up to a point / I wouldn't go so far as to say",
+      "Your own position at the end"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Describe the same person in two ways: with positive-connotation words (for their friends) and with negative-connotation words (for their critics).",
+     "questions": [
+      "Who is someone you know who divides opinion?",
+      "How would a friend describe them?",
+      "How would a critic describe them?"
+     ],
+     "model": "My manager is a good example. To her friends she's assertive and thrifty with the company's money; to her critics she's pushy and frankly a bit stingy. Same behaviour, different spin. For what it's worth, I'd call her determined, not stubborn, though she can be rigid when she's under pressure.",
+     "checklist": [
+      "Two connotation pairs (assertive / pushy; thrifty / stingy)",
+      "A clear contrast between the kind reading and the hostile one",
+      "A qualifying formula (for what it's worth)"
+     ]
+    }
+   ],
+   "repeat": [
+    "You needn't have gone to all that trouble.",
+    "She might well turn it down on principle.",
+    "We may as well make it a proper do.",
+    "Ostensibly, it's a leaving present.",
+    "Admittedly, I do enjoy the sound of my own voice.",
+    "He can't possibly know; I never told him."
+   ]
+  }
+ }
+}

@@ -1,0 +1,1593 @@
+{
+ "id": "u-anglo-05",
+ "level": "B1",
+ "n": 5,
+ "title": "Health",
+ "goals": [
+  "Talk about healthy and unhealthy food with a lot of, much, many, a few, a little, few and little.",
+  "Ask How much...? and How many...? about food and drinks.",
+  "Say what you have been doing lately and for how long with the present perfect continuous.",
+  "Describe feelings and things with -ed and -ing adjectives (bored / boring, tired / tiring).",
+  "Understand and use the language of a medical checkup and a prescription medicine label.",
+  "Write about your eating habits and ask for a medical appointment."
+ ],
+ "learn": [
+  {
+   "id": "g-quantifiers",
+   "kind": "grammar",
+   "title": "Quantifiers: a lot of, much, many, a few, a little",
+   "html": "<p>We use <strong>quantifiers</strong> to say how much or how many of something there is. The choice depends on the noun: <strong>countable</strong> (apples, eggs, meals) or <strong>uncountable</strong> (sugar, water, rice, fruit).</p><table><thead><tr><th>Meaning</th><th>Countable (plural)</th><th>Uncountable</th></tr></thead><tbody><tr><td>a big amount</td><td>a lot of / many apples</td><td>a lot of / much sugar</td></tr><tr><td>a small amount (enough)</td><td><strong>a few</strong> apples</td><td><strong>a little</strong> sugar</td></tr><tr><td>almost none (not enough)</td><td><strong>few</strong> apples</td><td><strong>little</strong> sugar</td></tr><tr><td>question</td><td><strong>How many</strong> apples do you eat?</td><td><strong>How much</strong> sugar do you eat?</td></tr></tbody></table><ul><li><em>a lot of</em> is common in positive sentences. <em>Much</em> and <em>many</em> are common in negatives and questions: <em>I don't eat much meat. Do you eat many vegetables?</em></li><li><em>a few / a little</em> sound positive: <em>I have a few minutes.</em> <em>few / little</em> sound negative: <em>I have little time.</em> (almost none).</li><li>Words like water, rice, fruit, bread and advice are uncountable: use <em>much</em> and <em>a little</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "How much apples do you eat?",
+     "right": "How many apples do you eat?",
+     "why": "Apples are countable: use How many."
+    },
+    {
+     "wrong": "I drink a few water every day.",
+     "right": "I drink a little water every day.",
+     "why": "Water is uncountable: use a little, not a few."
+    },
+    {
+     "wrong": "I don't eat many sugar.",
+     "right": "I don't eat much sugar.",
+     "why": "Sugar is uncountable: use much."
+    },
+    {
+     "wrong": "I have a little friends in this city.",
+     "right": "I have a few friends in this city.",
+     "why": "Friends is countable: use a few."
+    }
+   ]
+  },
+  {
+   "id": "g-pp-continuous",
+   "kind": "grammar",
+   "title": "Present perfect continuous",
+   "html": "<p>We use the <strong>present perfect continuous</strong> for an action that started in the past and is still happening now, or that has just stopped and we can see the result. It shows <strong>how long</strong> an activity has been going on.</p><table><thead><tr><th>Form</th><th>Example</th></tr></thead><tbody><tr><td>Positive: have / has + <strong>been</strong> + verb-ing</td><td>I<strong>'ve been eating</strong> more vegetables.</td></tr><tr><td>Negative</td><td>She <strong>hasn't been sleeping</strong> well.</td></tr><tr><td>Question</td><td><strong>Have</strong> you <strong>been exercising</strong> a lot?</td></tr><tr><td>How long...?</td><td><strong>How long have</strong> you <strong>been taking</strong> this medicine?</td></tr></tbody></table><ul><li>With <em>for</em> we say the length of time: <em>for two weeks, for a long time.</em> With <em>since</em> we say the starting point: <em>since Monday, since January.</em></li><li>It is also used with <em>lately</em> and <em>recently</em>: <em>I've been feeling tired lately.</em></li><li>State verbs (know, like, have = own) do not usually use the continuous form: <em>I have known him for years.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "I am drinking more water since last week.",
+     "right": "I have been drinking more water since last week.",
+     "why": "With since / for, use the present perfect continuous, not the present continuous."
+    },
+    {
+     "wrong": "She has been exercise every morning.",
+     "right": "She has been exercising every morning.",
+     "why": "After been, the verb takes -ing."
+    },
+    {
+     "wrong": "How long do you take this medicine?",
+     "right": "How long have you been taking this medicine?",
+     "why": "To ask about the length of an action that continues until now, use have you been + -ing."
+    },
+    {
+     "wrong": "He has been knowing the doctor for years.",
+     "right": "He has known the doctor for years.",
+     "why": "Know is a state verb: use the simple present perfect."
+    }
+   ]
+  },
+  {
+   "id": "g-ed-ing",
+   "kind": "grammar",
+   "title": "Adjectives ending in -ed and -ing",
+   "html": "<p>Many adjectives come from verbs: <em>bore, tire, interest, surprise, worry.</em> They have two forms with different meanings.</p><table><thead><tr><th>Ending</th><th>Use</th><th>Example</th></tr></thead><tbody><tr><td><strong>-ed</strong> (bored, tired, interested)</td><td>how a person <strong>feels</strong></td><td>I'm <strong>bored</strong>. She was <strong>surprised</strong>.</td></tr><tr><td><strong>-ing</strong> (boring, tiring, interesting)</td><td>the thing, person or situation that <strong>causes</strong> the feeling</td><td>The movie is <strong>boring</strong>. The news was <strong>surprising</strong>.</td></tr></tbody></table><ul><li>Compare: <em>The doctor was worried</em> (she felt worry) and <em>The results were worrying</em> (they caused worry).</li><li>After <em>be / feel / seem</em>, use -ed for feelings: <em>I feel relaxed.</em></li><li>Common pairs: bored / boring, tired / tiring, interested / interesting, excited / exciting, shocked / shocking, relaxed / relaxing, stressed / stressful.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I am very boring in this class.",
+     "right": "I am very bored in this class.",
+     "why": "I feel bored. Boring describes the class, not my feeling."
+    },
+    {
+     "wrong": "The checkup was very tired.",
+     "right": "The checkup was very tiring.",
+     "why": "The checkup causes the feeling, so use -ing."
+    },
+    {
+     "wrong": "I'm very interesting in nutrition.",
+     "right": "I'm very interested in nutrition.",
+     "why": "A person who feels interest is interested."
+    },
+    {
+     "wrong": "That documentary was shocked.",
+     "right": "That documentary was shocking.",
+     "why": "The documentary causes the shock: shocking."
+    }
+   ]
+  },
+  {
+   "id": "v-food",
+   "kind": "vocab",
+   "title": "Healthy eating",
+   "words": [
+    {
+     "id": "w-balanced-diet",
+     "en": "balanced diet",
+     "es": "dieta equilibrada",
+     "example": "A balanced diet has vegetables, fruit, protein and grains.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-vegetables",
+     "en": "vegetables",
+     "es": "verduras",
+     "example": "I eat vegetables with lunch and dinner.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-whole-grain",
+     "en": "whole grain",
+     "es": "grano entero, integral",
+     "example": "Whole grain bread is better than white bread.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-protein",
+     "en": "protein",
+     "es": "proteína",
+     "example": "Fish, eggs and beans are good sources of protein.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-fiber",
+     "en": "fiber",
+     "es": "fibra",
+     "example": "Fiber helps your digestion.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-sugar",
+     "en": "sugar",
+     "es": "azúcar",
+     "example": "Many drinks have too much sugar.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fat",
+     "en": "fat",
+     "es": "grasa",
+     "example": "Fried food has a lot of fat.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-calories",
+     "en": "calories",
+     "es": "calorías",
+     "example": "A small salad has fewer calories than a pizza."
+    },
+    {
+     "id": "w-portion",
+     "en": "portion",
+     "es": "porción",
+     "example": "The portions in that restaurant are very big.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-snack",
+     "en": "snack",
+     "es": "botana, refrigerio",
+     "example": "An apple is a healthy snack."
+    },
+    {
+     "id": "w-junk-food",
+     "en": "junk food",
+     "es": "comida chatarra",
+     "example": "Candy and chips are junk food.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-processed-food",
+     "en": "processed food",
+     "es": "alimentos procesados",
+     "example": "Processed food often has a lot of salt.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-cut-down",
+     "en": "cut down on",
+     "es": "reducir el consumo de",
+     "example": "I'm cutting down on soda.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-skip-meal",
+     "en": "skip a meal",
+     "es": "saltarse una comida",
+     "example": "Don't skip breakfast; you need energy.",
+     "cefr": "C1"
+    }
+   ]
+  },
+  {
+   "id": "v-medical",
+   "kind": "vocab",
+   "title": "Life skills: a checkup and a medicine label",
+   "words": [
+    {
+     "id": "w-checkup",
+     "en": "checkup",
+     "es": "revisión médica, chequeo",
+     "example": "I have a checkup once a year."
+    },
+    {
+     "id": "w-appointment",
+     "en": "appointment",
+     "es": "cita",
+     "example": "I have an appointment with the doctor on Friday.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-blood-pressure",
+     "en": "blood pressure",
+     "es": "presión arterial",
+     "example": "The nurse checked my blood pressure.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-symptom",
+     "en": "symptom",
+     "es": "síntoma",
+     "example": "A cough and a fever are common symptoms of the flu.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-prescription",
+     "en": "prescription",
+     "es": "receta médica",
+     "example": "You need a prescription to buy this medicine.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-pharmacist",
+     "en": "pharmacist",
+     "es": "farmacéutico/a",
+     "example": "Ask the pharmacist if you have a question about your medicine."
+    },
+    {
+     "id": "w-dose",
+     "en": "dose",
+     "es": "dosis",
+     "example": "Do not take more than the recommended dose.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-tablet",
+     "en": "tablet",
+     "es": "tableta, pastilla",
+     "example": "Take one tablet in the morning.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-side-effects",
+     "en": "side effects",
+     "es": "efectos secundarios",
+     "example": "Side effects can include a headache or a stomachache.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-drowsy",
+     "en": "drowsy",
+     "es": "somnoliento/a",
+     "example": "This medicine can make you drowsy, so don't drive."
+    },
+    {
+     "id": "w-expiration-date",
+     "en": "expiration date",
+     "es": "fecha de caducidad",
+     "example": "Check the expiration date before you take the medicine.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-allergic-reaction",
+     "en": "allergic reaction",
+     "es": "reacción alérgica",
+     "example": "A rash can be a sign of an allergic reaction.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-refill",
+     "en": "refill",
+     "es": "resurtir, volver a surtir (una receta)",
+     "example": "I need a refill of my prescription."
+    },
+    {
+     "id": "w-with-food",
+     "en": "take with food",
+     "es": "tomar con alimentos",
+     "example": "Take this tablet with food to protect your stomach.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>I've been trying to cut down on sugar.</strong> — talking about a recent change in your habits.</li><li><strong>How often do you eat fast food? / How much water do you drink?</strong> — asking about someone's habits.</li><li><strong>I don't have much time to cook, so I usually eat out.</strong> — explaining a problem with healthy eating.</li><li><strong>I'd like to make an appointment for a checkup.</strong> — calling a clinic.</li><li><strong>I've been feeling tired lately. / I haven't been sleeping well.</strong> — telling the doctor your symptoms.</li><li><strong>Do you have any allergies? / Are you taking any medicine?</strong> — typical questions at a checkup.</li><li><strong>Take one tablet twice a day, with food.</strong> — instructions on a prescription label.</li><li><strong>How long have you been feeling this way?</strong> — a doctor's question about symptoms.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "much, many, a few, a little",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-quantifiers",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "How ___ sugar do you put in your coffee?",
+     "answers": [
+      "much"
+     ],
+     "explain": "Sugar is uncountable: How much."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "How ___ vegetables do you eat every day?",
+     "answers": [
+      "many"
+     ],
+     "explain": "Vegetables is countable: How many."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "I eat a ___ of fruit because I love it.",
+     "answers": [
+      "lot"
+     ],
+     "explain": "A lot of = a big amount."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "There are ___ eggs in the fridge, so we can make a small omelet.",
+     "options": [
+      "a little",
+      "a few",
+      "much"
+     ],
+     "answer": 1,
+     "explain": "Eggs are countable: a few."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "I drink only ___ water during the day. I should drink more.",
+     "options": [
+      "a little",
+      "a few",
+      "many"
+     ],
+     "answer": 0,
+     "explain": "Water is uncountable: a little."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "I don't eat many rice.",
+     "answers": [
+      "I don't eat much rice.",
+      "I do not eat much rice."
+     ],
+     "explain": "Rice is uncountable: much."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "She drinks a few milk every morning.",
+     "answers": [
+      "She drinks a little milk every morning."
+     ],
+     "explain": "Milk is uncountable: a little."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "much",
+      "salt",
+      "How",
+      "you",
+      "do",
+      "use"
+     ],
+     "answers": [
+      "How much salt do you use?"
+     ],
+     "explain": "How much + noun + do you + verb?"
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Quantifiers in context",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-quantifiers",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "We don't have ___ bread. Can you buy some?",
+     "answers": [
+      "much"
+     ],
+     "explain": "Bread is uncountable; in negatives use much."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "There are only ___ cookies left: two or three.",
+     "answers": [
+      "a few"
+     ],
+     "explain": "A small number of countable things: a few."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "He has very ___ energy today because he slept badly.",
+     "answers": [
+      "little"
+     ],
+     "explain": "Little = almost no energy (uncountable, negative idea)."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "Fast food usually has ___ fat.",
+     "options": [
+      "a lot of",
+      "many",
+      "a few"
+     ],
+     "answer": 0,
+     "explain": "Fat is uncountable; a lot of works in positive sentences."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "She has ___ free time, so she never cooks.",
+     "options": [
+      "many",
+      "little",
+      "a few"
+     ],
+     "answer": 1,
+     "explain": "Time is uncountable: little (almost none)."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "How many water do you drink every day?",
+     "answers": [
+      "How much water do you drink every day?"
+     ],
+     "explain": "Water is uncountable: How much."
+    },
+    {
+     "id": "B7",
+     "type": "translate",
+     "prompt": "No como mucha azúcar.",
+     "answers": [
+      "I don't eat much sugar.",
+      "I do not eat much sugar.",
+      "I don't eat a lot of sugar.",
+      "I do not eat a lot of sugar."
+     ],
+     "explain": "Negative sentence with an uncountable noun: much."
+    },
+    {
+     "id": "B8",
+     "type": "translate",
+     "prompt": "¿Cuántas frutas comes al día?",
+     "answers": [
+      "How many fruits do you eat a day?",
+      "How many fruits do you eat each day?",
+      "How many pieces of fruit do you eat a day?",
+      "How many pieces of fruit do you eat each day?",
+      "How much fruit do you eat a day?",
+      "How much fruit do you eat each day?"
+     ],
+     "explain": "Fruits (countable) = How many; fruit (uncountable) = How much."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Present perfect continuous",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-pp-continuous",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "I ___ been eating more vegetables lately.",
+     "answers": [
+      "have",
+      "'ve"
+     ],
+     "explain": "I + have + been + verb-ing."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "She has been ___ every morning since March. (run)",
+     "answers": [
+      "running"
+     ],
+     "explain": "After been, use the -ing form: running."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "How long ___ you been taking this medicine?",
+     "answers": [
+      "have"
+     ],
+     "explain": "How long + have you been + -ing?"
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "We have been walking to work ___ two months.",
+     "answers": [
+      "for"
+     ],
+     "explain": "For + a length of time."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "He has been working at the clinic ___ 2022.",
+     "options": [
+      "for",
+      "since",
+      "during"
+     ],
+     "answer": 1,
+     "explain": "Since + a starting point in time."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "She is tired because she ___ for an hour.",
+     "options": [
+      "has been exercising",
+      "is exercising",
+      "exercises"
+     ],
+     "answer": 0,
+     "explain": "A recent activity with a visible result: has been exercising."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "I am drinking more water since last week.",
+     "answers": [
+      "I have been drinking more water since last week.",
+      "I've been drinking more water since last week."
+     ],
+     "explain": "Since + present perfect continuous."
+    },
+    {
+     "id": "C8",
+     "type": "translate",
+     "prompt": "He estado durmiendo mal durante una semana.",
+     "answers": [
+      "I've been sleeping badly for a week.",
+      "I have been sleeping badly for a week.",
+      "I've been sleeping poorly for a week.",
+      "I have been sleeping poorly for a week.",
+      "I've been sleeping badly for one week.",
+      "I have been sleeping badly for one week."
+     ],
+     "explain": "Have been + -ing with for + time."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Adjectives with -ed and -ing",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-ed-ing",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "I felt ___ in the waiting room for two hours.",
+     "options": [
+      "bored",
+      "boring"
+     ],
+     "answer": 0,
+     "explain": "I feel the emotion: bored."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "The test results were ___: everything was normal. (surprise)",
+     "answers": [
+      "surprising"
+     ],
+     "explain": "The results cause the feeling: surprising."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "I'm ___ in learning how to cook healthy food. (interest)",
+     "answers": [
+      "interested"
+     ],
+     "explain": "A person who feels interest: interested."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "A long day at work is very ___. (tire)",
+     "answers": [
+      "tiring"
+     ],
+     "explain": "The day causes the tiredness: tiring."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "The nurse was ___ because the clinic was full of patients.",
+     "options": [
+      "stressing",
+      "stressed",
+      "stress"
+     ],
+     "answer": 1,
+     "explain": "The nurse feels stress: stressed."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "That documentary about sugar was really ___.",
+     "options": [
+      "shocked",
+      "shocking",
+      "shock"
+     ],
+     "answer": 1,
+     "explain": "The documentary causes the shock: shocking."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "I'm very exciting about my new diet.",
+     "answers": [
+      "I'm very excited about my new diet.",
+      "I am very excited about my new diet."
+     ],
+     "explain": "I feel excitement: excited."
+    },
+    {
+     "id": "D8",
+     "type": "translate",
+     "prompt": "Estoy cansado después del examen médico.",
+     "answers": [
+      "I'm tired after the checkup.",
+      "I am tired after the checkup.",
+      "I'm tired after the medical checkup.",
+      "I am tired after the medical checkup.",
+      "I'm tired after the medical exam.",
+      "I am tired after the medical exam.",
+      "I'm tired after the physical.",
+      "I am tired after the physical."
+     ],
+     "explain": "A person's feeling: tired."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: healthy eating",
+   "instructions": "Complete or choose the correct word.",
+   "topic": "v-food",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "Brown rice and oatmeal are whole ___ foods.",
+     "answers": [
+      "grain"
+     ],
+     "explain": "Whole grain foods keep the fiber of the grain."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "Chips, candy and soda are examples of ___ food.",
+     "options": [
+      "whole",
+      "junk",
+      "fresh"
+     ],
+     "answer": 1,
+     "explain": "Junk food: food with little nutrition."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "A ___ diet includes vegetables, fruit, protein and grains.",
+     "answers": [
+      "balanced"
+     ],
+     "explain": "Balanced diet: a mix of the right foods."
+    },
+    {
+     "id": "E4",
+     "type": "choice",
+     "prompt": "Beans, chicken and fish are good sources of...",
+     "options": [
+      "sugar",
+      "salt",
+      "protein"
+     ],
+     "answer": 2,
+     "explain": "These foods are rich in protein."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "I want to cut ___ on sugar this year.",
+     "answers": [
+      "down"
+     ],
+     "explain": "Cut down on = eat or use less."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "A small amount of food that you eat between meals is a ___.",
+     "answers": [
+      "snack"
+     ],
+     "explain": "Snack: a small amount of food between meals."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "Don't ___ breakfast: it gives you energy for the morning.",
+     "answers": [
+      "skip"
+     ],
+     "explain": "Skip a meal = not eat it."
+    },
+    {
+     "id": "E8",
+     "type": "choice",
+     "prompt": "Fiber helps your...",
+     "options": [
+      "digestion",
+      "vision",
+      "hearing"
+     ],
+     "answer": 0,
+     "explain": "Fiber is good for digestion."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "A checkup and a medicine label",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "v-medical",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "Take this medicine ___ food to protect your stomach.",
+     "answers": [
+      "with"
+     ],
+     "explain": "Take with food = take it while or after you eat."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "Do not take this medicine after the ___ date.",
+     "options": [
+      "expiration",
+      "birthday",
+      "delivery"
+     ],
+     "answer": 0,
+     "explain": "Expiration date: the last safe day to use it."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "The doctor gave me a ___ for antibiotics.",
+     "answers": [
+      "prescription"
+     ],
+     "explain": "A prescription is a paper from the doctor for a medicine."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "Feeling sleepy is a common side ___ of this medicine.",
+     "answers": [
+      "effect",
+      "effects"
+     ],
+     "explain": "Side effect: an extra reaction to a medicine."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "Nurse: Do you have any ___ to medicine?",
+     "options": [
+      "appointments",
+      "doses",
+      "allergies"
+     ],
+     "answer": 2,
+     "explain": "Allergies to medicine are very important information."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "I'd like to ___ an appointment for a checkup.",
+     "options": [
+      "make",
+      "do",
+      "take"
+     ],
+     "answer": 0,
+     "explain": "We say make an appointment."
+    },
+    {
+     "id": "F7",
+     "type": "fix",
+     "prompt": "How often I should take this pill?",
+     "answers": [
+      "How often should I take this pill?",
+      "How often should I take this tablet?"
+     ],
+     "explain": "In questions, should goes before the subject."
+    },
+    {
+     "id": "F8",
+     "type": "translate",
+     "prompt": "Tome una pastilla cada ocho horas.",
+     "answers": [
+      "Take one pill every eight hours.",
+      "Take one tablet every eight hours.",
+      "Take a pill every eight hours.",
+      "Take a tablet every eight hours.",
+      "Take one pill every 8 hours.",
+      "Take one tablet every 8 hours."
+     ],
+     "explain": "Label instruction: Take + amount + every + time."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "been",
+      "drinking",
+      "I've",
+      "more",
+      "water",
+      "lately"
+     ],
+     "answers": [
+      "I've been drinking more water lately."
+     ],
+     "explain": "I've been + verb-ing."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "much",
+      "How",
+      "sugar",
+      "there",
+      "is",
+      "in",
+      "this",
+      "juice"
+     ],
+     "answers": [
+      "How much sugar is there in this juice?"
+     ],
+     "explain": "How much + uncountable noun + is there...?"
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "tired",
+      "was",
+      "I",
+      "very",
+      "after",
+      "the",
+      "checkup"
+     ],
+     "answers": [
+      "I was very tired after the checkup."
+     ],
+     "explain": "Be + adjective for a feeling."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "She",
+      "eats",
+      "a",
+      "few",
+      "nuts",
+      "every",
+      "day"
+     ],
+     "answers": [
+      "She eats a few nuts every day."
+     ],
+     "explain": "A few + plural countable noun."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "long",
+      "How",
+      "have",
+      "been",
+      "you",
+      "waiting"
+     ],
+     "answers": [
+      "How long have you been waiting?"
+     ],
+     "explain": "How long + have you been + -ing?"
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "interested",
+      "not",
+      "in",
+      "I'm",
+      "fast",
+      "food"
+     ],
+     "answers": [
+      "I'm not interested in fast food."
+     ],
+     "explain": "A person feels interested: interested in + noun."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Como muchas verduras, pero poca fruta.",
+     "answers": [
+      "I eat a lot of vegetables, but little fruit.",
+      "I eat a lot of vegetables, but not much fruit.",
+      "I eat a lot of vegetables, but very little fruit.",
+      "I eat many vegetables, but little fruit.",
+      "I eat many vegetables, but not much fruit.",
+      "I eat lots of vegetables, but little fruit.",
+      "I eat lots of vegetables, but not much fruit.",
+      "I eat a lot of vegetables but little fruit.",
+      "I eat a lot of vegetables but not much fruit.",
+      "I eat a lot of vegetables but very little fruit."
+     ],
+     "explain": "A lot of / many + vegetables; little / not much + fruit."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿Cuánto tiempo llevas haciendo ejercicio?",
+     "answers": [
+      "How long have you been exercising?",
+      "How long have you been working out?",
+      "How long have you been doing exercise?"
+     ],
+     "explain": "How long have you been + -ing?"
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Estoy aburrido porque la clase es aburrida.",
+     "answers": [
+      "I'm bored because the class is boring.",
+      "I am bored because the class is boring.",
+      "I'm bored because the lesson is boring.",
+      "I am bored because the lesson is boring."
+     ],
+     "explain": "Bored = my feeling; boring = the class."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Necesito hacer una cita con el médico.",
+     "answers": [
+      "I need to make an appointment with the doctor.",
+      "I need to make a doctor's appointment.",
+      "I need to make an appointment to see the doctor.",
+      "I need to make an appointment with a doctor."
+     ],
+     "explain": "Make an appointment with + person."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Hay un poco de leche en el refrigerador.",
+     "answers": [
+      "There is a little milk in the fridge.",
+      "There's a little milk in the fridge.",
+      "There is a little milk in the refrigerator.",
+      "There's a little milk in the refrigerator."
+     ],
+     "explain": "Milk is uncountable: a little."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Ella ha estado tomando esta medicina durante tres días.",
+     "answers": [
+      "She has been taking this medicine for three days.",
+      "She's been taking this medicine for three days.",
+      "She has been taking this medication for three days.",
+      "She's been taking this medication for three days.",
+      "She has been taking this medicine for 3 days.",
+      "She's been taking this medicine for 3 days."
+     ],
+     "explain": "Has been + -ing with for + time."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes 2 review items from general English).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "How ___ salt do you use when you cook?",
+     "options": [
+      "much",
+      "many",
+      "few"
+     ],
+     "answer": 0,
+     "explain": "Salt is uncountable: How much."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "I've been ___ to eat better since January. (try)",
+     "answers": [
+      "trying"
+     ],
+     "explain": "Have been + verb-ing."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "She is boring because she has nothing to do.",
+     "answers": [
+      "She is bored because she has nothing to do.",
+      "She's bored because she has nothing to do."
+     ],
+     "explain": "She feels the emotion: bored."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Tengo un poco de tiempo libre.",
+     "answers": [
+      "I have a little free time.",
+      "I've got a little free time.",
+      "I have a little spare time.",
+      "I have got a little free time."
+     ],
+     "explain": "Time is uncountable: a little."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "Take one tablet ___ food, twice a day.",
+     "options": [
+      "with",
+      "from",
+      "for"
+     ],
+     "answer": 0,
+     "explain": "Take with food."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "The doctor ___ my blood pressure yesterday. (check) (review: simple past)",
+     "answers": [
+      "checked"
+     ],
+     "explain": "Regular past: verb + -ed."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "My sister ___ vegetables every day. (eat) (review: simple present)",
+     "answers": [
+      "eats"
+     ],
+     "explain": "With she: verb + -s."
+    },
+    {
+     "id": "M8",
+     "type": "choice",
+     "prompt": "There are only ___ apples left. Let's buy more.",
+     "options": [
+      "a little",
+      "much",
+      "a few"
+     ],
+     "answer": 2,
+     "explain": "Apples are countable: a few."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Describe your eating habits (120 to 160 words): what you usually eat and drink, what you eat a lot of or too little of, and what you have been trying to change lately. Use quantifiers (a lot of, much, many, a few, a little) and at least one sentence with the present perfect continuous. Opening: I try to eat well, but...",
+   "targets": [
+    "quantifiers",
+    "present perfect continuous",
+    "healthy eating vocabulary"
+   ],
+   "checklist": [
+    "120 to 160 words",
+    "At least four quantifiers used correctly (much / many with the right noun)",
+    "One or two sentences with have been + verb-ing and for / since / lately",
+    "Food vocabulary (sugar, protein, snack, fiber, portion...)",
+    "One -ed or -ing adjective (bored, tired, interested...)"
+   ],
+   "model": "I try to eat well, but it is not always easy. For breakfast I usually have a bowl of oatmeal with a little honey and a few strawberries. At lunch I eat a lot of vegetables, some rice and chicken or beans. I don't eat much red meat because my doctor told me to eat less of it.\n\nMy biggest problem is sugar. I have been drinking too much soda, so I've been trying to cut down since January. Now I drink a lot of water and only one soda a week. I also like snacks. In the afternoon I often eat a few nuts or an apple, but sometimes I eat cookies when I'm bored at work.\n\nIn the evening I have a light dinner, usually soup or a sandwich. I think my diet is better than before, but I still need to eat more fruit and fewer sweets."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a message to a clinic to ask for an appointment for a checkup (80 to 120 words). Say who you are, how you have been feeling lately and for how long, and when you are free. Ask one question about the visit.",
+   "targets": [
+    "present perfect continuous",
+    "medical vocabulary",
+    "polite requests"
+   ],
+   "checklist": [
+    "80 to 120 words",
+    "I would like to make an appointment...",
+    "Two sentences with have been + verb-ing (for / since / lately)",
+    "At least two health words (checkup, blood pressure, symptoms...)",
+    "A polite question and a closing (Thank you...)"
+   ],
+   "model": "Hello, my name is Ana Torres, and I would like to make an appointment for a checkup. I have been feeling very tired for about three weeks, and I have been having headaches in the afternoon. I am not sleeping well, and I am worried because I usually have a lot of energy. I also would like to ask about my blood pressure, because my mother has high blood pressure. I am free on Tuesday or Thursday after four o'clock. Do I need to bring any documents or take any tests before the visit?\n\nThank you very much for your help.\n\nBest regards,\nAna Torres"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The Sugar in Your Day",
+   "intro": "Read the article about sugar and answer.",
+   "paragraphs": [
+    "Many people think they don't eat much sugar. They don't put a lot of it in their coffee, and they rarely eat candy. However, sugar is hiding in many foods that we do not expect. Bread, pasta sauce, yogurt, cereal and even some soups often contain added sugar. That is why many doctors say that the problem is not only the sweets we see, but also the sugar we cannot see.",
+    "Health organizations suggest that adults eat no more than about 50 grams of added sugar a day, which is around twelve teaspoons. Less is even better. A small can of soda has about 35 grams, so one drink can use most of your daily limit. Fruit juice can be a surprise too. Even when the label says \"natural\", a glass may have almost as much sugar as a soda.",
+    "Why is too much sugar a problem? First, sugary food gives you quick energy, but you often feel tired again an hour later. Second, it has a lot of calories and very little fiber or protein, so you feel hungry soon, and you may eat more. Over many years, a diet with too much sugar can lead to weight gain, tooth problems and diabetes.",
+    "Marta, a nurse from Guadalajara, has been trying to eat less sugar for six months. \"At first it was difficult,\" she says. \"I was always tired and bored in the afternoon, and I wanted a snack.\" She started reading food labels, and she was surprised by the results. Now she drinks water instead of soda, and she eats fruit or a few nuts as a snack. \"I have been sleeping better, and I have more energy,\" she says.",
+    "You do not need to stop eating sugar completely. A good first step is to read labels and to choose foods with little added sugar. Then you can cut down slowly: use a little less sugar in your coffee, eat smaller portions of dessert, and keep sweets for special days. Small changes, made every day, are easier to keep than a strict diet."
+   ],
+   "glossary": [
+    {
+     "en": "added sugar",
+     "def": "sugar that a company or a cook puts in food or drinks"
+    },
+    {
+     "en": "label",
+     "def": "a piece of paper on a product with information about it"
+    },
+    {
+     "en": "limit",
+     "def": "the most you should have of something"
+    },
+    {
+     "en": "calories",
+     "def": "units that measure the energy in food"
+    },
+    {
+     "en": "fiber",
+     "def": "a part of plant food that helps digestion"
+    },
+    {
+     "en": "diabetes",
+     "def": "a disease in which the body has problems with sugar in the blood"
+    },
+    {
+     "en": "portion",
+     "def": "the amount of food for one person"
+    },
+    {
+     "en": "strict",
+     "def": "with very hard rules"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Added sugar is found only in sweets and candy.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "The text says sugar hides in bread, sauces, yogurt, cereal and soups."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "About how much added sugar a day do health organizations suggest as a limit for adults?",
+     "options": [
+      "About 50 grams",
+      "About 5 grams",
+      "About 200 grams"
+     ],
+     "answer": 0,
+     "explain": "They suggest no more than about 50 grams, around twelve teaspoons."
+    },
+    {
+     "id": "R3",
+     "type": "gap",
+     "prompt": "A small can of soda has about ___ grams of sugar.",
+     "answers": [
+      "35",
+      "thirty-five",
+      "thirty five"
+     ],
+     "explain": "The article says a small can has about 35 grams."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Why do sugary foods often make you hungry again soon?",
+     "options": [
+      "They have little fiber and protein",
+      "They have too much water",
+      "They are always cold"
+     ],
+     "answer": 0,
+     "explain": "They have a lot of calories and very little fiber or protein."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "How long has Marta been trying to eat less sugar?",
+     "options": [
+      "Six months",
+      "Six weeks",
+      "Six years"
+     ],
+     "answer": 0,
+     "explain": "She has been trying for six months."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "What does Marta eat as a snack now?",
+     "options": [
+      "Cookies",
+      "Fruit or a few nuts",
+      "Chips"
+     ],
+     "answer": 1,
+     "explain": "She eats fruit or a few nuts as a snack."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "The article says you must never eat sugar.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "It says you do not need to stop eating sugar completely."
+    },
+    {
+     "id": "R8",
+     "type": "translate",
+     "prompt": "Lee las etiquetas de los alimentos.",
+     "answers": [
+      "Read the food labels.",
+      "Read food labels.",
+      "Read the labels on food.",
+      "Read the labels on the food."
+     ],
+     "explain": "Label = etiqueta; food labels."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Lunch with a Friend",
+   "intro": "Listen to two friends at a restaurant. You can repeat it.",
+   "lines": [
+    {
+     "who": "Waiter",
+     "voice": "rounded",
+     "text": "Good afternoon. Are you ready to order?"
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Yes. I'd like the grilled fish with a lot of vegetables, please. No fries."
+    },
+    {
+     "who": "Waiter",
+     "voice": "rounded",
+     "text": "And to drink?"
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Just water, thanks. I've been trying to cut down on soda."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "I'll have the cheeseburger and a small salad. And a soda, please."
+    },
+    {
+     "who": "Waiter",
+     "voice": "rounded",
+     "text": "Okay, I'll be right back."
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Tom, you eat a lot of fast food. How often do you have burgers?"
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "Maybe four times a week. I don't have much time to cook."
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "That's a lot! I've been cooking on Sundays for the whole week. It takes only two hours."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "Really? What do you cook?"
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Rice, beans, chicken and a few vegetables. I put them in boxes, and I take one to work every day."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "That sounds great. I'm tired of fast food, and my doctor said I need to eat more fiber."
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Then come to my house this Sunday. I can show you my recipes."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "Thanks! I'll bring some fruit."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What does Nora order to drink?",
+     "options": [
+      "Water",
+      "Soda",
+      "Juice"
+     ],
+     "answer": 0,
+     "explain": "Nora says: Just water, thanks."
+    },
+    {
+     "id": "L2",
+     "type": "gap",
+     "prompt": "Nora has been trying to cut down on ___.",
+     "answers": [
+      "soda"
+     ],
+     "explain": "She says she has been trying to cut down on soda."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "How often does Tom eat burgers?",
+     "options": [
+      "About four times a week",
+      "Every day",
+      "Once a month"
+     ],
+     "answer": 0,
+     "explain": "Tom says: Maybe four times a week."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "When does Nora cook food for the whole week?",
+     "options": [
+      "On Sundays",
+      "On Fridays",
+      "Every night"
+     ],
+     "answer": 0,
+     "explain": "She cooks on Sundays."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "Tom's doctor says he needs to eat more fiber.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Tom says his doctor said he needs more fiber."
+    },
+    {
+     "id": "L6",
+     "type": "gap",
+     "prompt": "Tom will bring some ___ on Sunday.",
+     "answers": [
+      "fruit"
+     ],
+     "explain": "Tom says: I'll bring some fruit."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "I've been trying to cut down on soda.",
+     "answers": [
+      "I've been trying to cut down on soda.",
+      "I have been trying to cut down on soda."
+     ],
+     "explain": "Have been + -ing for a recent change."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "I don't have much time to cook.",
+     "answers": [
+      "I don't have much time to cook.",
+      "I do not have much time to cook."
+     ],
+     "explain": "Much in a negative sentence with an uncountable noun."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "I take a box of food to work every day.",
+     "answers": [
+      "I take a box of food to work every day."
+     ],
+     "explain": "Simple present for a daily habit."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "My doctor said I need to eat more fiber.",
+     "answers": [
+      "My doctor said I need to eat more fiber."
+     ],
+     "explain": "Need to + base verb."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "You are at a restaurant with a friend. Talk about healthy eating: what you order, what you try to eat less of, and how often you eat fast food.",
+     "questions": [
+      "What would you like to eat?",
+      "How often do you eat fast food?",
+      "How much water do you drink every day?",
+      "What have you been trying to change in your diet?"
+     ],
+     "model": "I'd like grilled chicken with a lot of vegetables, please. I eat fast food about twice a month. I don't drink much soda, but I drink a lot of water. I've been trying to cut down on sweets since the summer.",
+     "checklist": [
+      "a lot of / much / many used correctly",
+      "How often / How much questions answered",
+      "have been + -ing for a recent change",
+      "Food vocabulary (vegetables, fast food, sweets...)"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "You are at a medical checkup. Answer the doctor's questions about how you have been feeling and about your health.",
+     "questions": [
+      "How have you been feeling lately?",
+      "How long have you been feeling this way?",
+      "Do you have any allergies?",
+      "Are you taking any medicine right now?"
+     ],
+     "model": "I've been feeling tired lately. I have been sleeping badly for about two weeks. I don't have any allergies. I'm not taking any medicine, but I take vitamins every morning.",
+     "checklist": [
+      "have been + -ing with lately / for / since",
+      "Symptom vocabulary (tired, headache, cough...)",
+      "Short, clear answers to the doctor's questions",
+      "-ed adjectives for feelings (tired, worried, stressed)"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about your own health habits: food, exercise and sleep. Say what is good and what you want to improve.",
+     "questions": [
+      "How many hours do you sleep?",
+      "How often do you exercise?",
+      "What do you eat for breakfast?",
+      "What would you like to improve?"
+     ],
+     "model": "I sleep about seven hours a night. I walk for thirty minutes four times a week. For breakfast I usually have eggs and a little fruit. I want to eat fewer sweets and more vegetables, because I think that I have been eating too much sugar lately.",
+     "checklist": [
+      "Quantifiers with the right noun",
+      "Frequency expressions (four times a week, every day)",
+      "One opinion or goal (I want to... / I would like to...)",
+      "Health vocabulary from the unit"
+     ]
+    }
+   ],
+   "repeat": [
+    "How much sugar do you put in your coffee?",
+    "I've been trying to eat more vegetables.",
+    "I eat a few nuts as a snack every afternoon.",
+    "How long have you been feeling this way?",
+    "I'd like to make an appointment for a checkup.",
+    "Take one tablet twice a day, with food."
+   ]
+  }
+ }
+}

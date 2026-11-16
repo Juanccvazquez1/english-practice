@@ -1,0 +1,1600 @@
+{
+ "id": "u-anglo-10",
+ "level": "B1",
+ "n": 10,
+ "title": "Government & Law",
+ "goals": [
+  "Talk about rules, fines and what is allowed or not allowed using the simple present passive.",
+  "Tell the story of a person and an event in the past using the simple past passive.",
+  "Link two ideas with both...and, either...or and neither...nor.",
+  "Use law and legal aid vocabulary to read a brochure and ask for free legal help.",
+  "Speak politely about your rights and ask for respect at work.",
+  "Write a short biography of a person you admire."
+ ],
+ "learn": [
+  {
+   "id": "g-passive-present",
+   "kind": "grammar",
+   "title": "Simple present passive",
+   "html": "<p>We use the <strong>passive</strong> when the action is more important than the person who does it. Often we do not know who does the action, or it is not important. Form: <strong>am / is / are + past participle</strong>.</p><table><thead><tr><th>Active</th><th>Passive</th></tr></thead><tbody><tr><td>Police officers give fines.</td><td>Fines <strong>are given</strong> by police officers.</td></tr><tr><td>People do not allow smoking here.</td><td>Smoking <strong>is not allowed</strong> here.</td></tr><tr><td>Congress makes the laws.</td><td>Laws <strong>are made</strong> by Congress.</td></tr><tr><td>Do they pay taxes every year?</td><td><strong>Are</strong> taxes <strong>paid</strong> every year?</td></tr></tbody></table><ul><li>The object of the active sentence becomes the subject of the passive sentence.</li><li>Use <em>by</em> + person only when it is useful or surprising: <em>The law is made by Congress.</em></li><li>Questions: <em>Where are tickets sold?</em> Negatives: <em>Pets are not allowed.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "The fine is pay at the bank.",
+     "right": "The fine is paid at the bank.",
+     "why": "After be, use the past participle: paid."
+    },
+    {
+     "wrong": "Cars is not allowed in the park.",
+     "right": "Cars are not allowed in the park.",
+     "why": "Cars is plural, so use are."
+    },
+    {
+     "wrong": "Where the tickets are sold?",
+     "right": "Where are the tickets sold?",
+     "why": "In questions, be goes before the subject."
+    },
+    {
+     "wrong": "Fines are pay by the police.",
+     "right": "Fines are given by the police.",
+     "why": "Use a past participle (given), and pay does not fit the meaning here."
+    }
+   ]
+  },
+  {
+   "id": "g-passive-past",
+   "kind": "grammar",
+   "title": "Simple past passive",
+   "html": "<p>For past events, we use <strong>was / were + past participle</strong>. It is very common in history, news and biographies.</p><table><thead><tr><th>Active</th><th>Passive</th></tr></thead><tbody><tr><td>They signed the law in 1964.</td><td>The law <strong>was signed</strong> in 1964.</td></tr><tr><td>The police arrested many people.</td><td>Many people <strong>were arrested</strong>.</td></tr><tr><td>Did they give him a prize?</td><td><strong>Was</strong> he <strong>given</strong> a prize?</td></tr><tr><td>They did not allow women to vote.</td><td>Women <strong>were not allowed</strong> to vote.</td></tr></tbody></table><ul><li><em>was / were born</em> is always passive: <em>She was born in 1990.</em> (not <em>She is born</em>)</li><li>Regular verbs end in <em>-ed</em>; irregular verbs have a special form: <em>give - gave - given</em>, <em>write - wrote - written</em>.</li><li>Use <em>by</em> to name who did the action: <em>The speech was heard by thousands of people.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "The speech was gave in 1963.",
+     "right": "The speech was given in 1963.",
+     "why": "After was, use the past participle (given), not the past simple (gave)."
+    },
+    {
+     "wrong": "Many laws was changed.",
+     "right": "Many laws were changed.",
+     "why": "Laws is plural, so use were."
+    },
+    {
+     "wrong": "I am born in 1995.",
+     "right": "I was born in 1995.",
+     "why": "Birth is in the past, so use was born."
+    },
+    {
+     "wrong": "Where did he was arrested?",
+     "right": "Where was he arrested?",
+     "why": "Passive questions use was / were, not did."
+    }
+   ]
+  },
+  {
+   "id": "g-both-either-neither",
+   "kind": "grammar",
+   "title": "both...and, either...or, neither...nor",
+   "html": "<p>These pairs join two ideas in one sentence.</p><table><thead><tr><th>Pair</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td><strong>both</strong> ... <strong>and</strong></td><td>the two things together</td><td><strong>Both</strong> the judge <strong>and</strong> the lawyer arrived early.</td></tr><tr><td><strong>either</strong> ... <strong>or</strong></td><td>one thing or the other</td><td>You can pay <strong>either</strong> online <strong>or</strong> at the bank.</td></tr><tr><td><strong>neither</strong> ... <strong>nor</strong></td><td>not one and not the other</td><td><strong>Neither</strong> my boss <strong>nor</strong> I knew the rule.</td></tr></tbody></table><ul><li><em>Neither...nor</em> already has a negative meaning. Do not add <em>not</em>.</li><li>Use the same type of word after each part: <em>either a fine or a warning</em>; <em>neither fair nor legal</em>.</li><li>With <em>both...and</em> the verb is plural: <em>Both Ana and Luis know the law.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "Neither the manager or the workers knew the rule.",
+     "right": "Neither the manager nor the workers knew the rule.",
+     "why": "Neither goes with nor, not with or."
+    },
+    {
+     "wrong": "Neither of them doesn't have a license.",
+     "right": "Neither of them has a license.",
+     "why": "Neither is already negative; do not add another negative."
+    },
+    {
+     "wrong": "Both my brother and my sister is lawyers.",
+     "right": "Both my brother and my sister are lawyers.",
+     "why": "Both...and joins two people, so the verb is plural."
+    },
+    {
+     "wrong": "You can either pay online and at the bank.",
+     "right": "You can pay either online or at the bank.",
+     "why": "Either goes with or, not with and."
+    }
+   ]
+  },
+  {
+   "id": "v-law",
+   "kind": "vocab",
+   "title": "Law and rules",
+   "words": [
+    {
+     "id": "w-law",
+     "en": "law",
+     "es": "ley",
+     "example": "The law says that drivers must wear a seat belt.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-rule",
+     "en": "rule",
+     "es": "regla, norma",
+     "example": "There is a rule against using phones in this office.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fine",
+     "en": "fine",
+     "es": "multa",
+     "example": "He paid a fine of 800 pesos for parking in the wrong place.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-ticket",
+     "en": "ticket",
+     "es": "infracción, multa (papel que da la policía)",
+     "example": "A police officer gave me a ticket for driving too fast.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-judge",
+     "en": "judge",
+     "es": "juez/a",
+     "example": "The judge listened to both sides before deciding.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-lawyer",
+     "en": "lawyer",
+     "es": "abogado/a",
+     "example": "A lawyer explained my rights to me.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-court",
+     "en": "court",
+     "es": "tribunal, juzgado",
+     "example": "The case was heard in court last week.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-right",
+     "en": "right",
+     "es": "derecho",
+     "example": "Every worker has the right to a safe workplace.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-citizen",
+     "en": "citizen",
+     "es": "ciudadano/a",
+     "example": "Only citizens can vote in national elections.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-vote",
+     "en": "vote",
+     "es": "votar",
+     "example": "People over 18 are allowed to vote.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-obey",
+     "en": "obey",
+     "es": "obedecer, cumplir",
+     "example": "Drivers must obey traffic signs.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-break-law",
+     "en": "break the law",
+     "es": "violar la ley",
+     "example": "If you break the law, you can be arrested.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-license",
+     "en": "license",
+     "es": "licencia, permiso",
+     "example": "A driver's license is needed to drive a car.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-crime",
+     "en": "crime",
+     "es": "delito, crimen",
+     "example": "Stealing is a crime.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "v-legal-aid",
+   "kind": "vocab",
+   "title": "Life skills: a legal aid brochure",
+   "words": [
+    {
+     "id": "w-legal-aid",
+     "en": "legal aid",
+     "es": "asistencia legal gratuita",
+     "example": "Legal aid helps people who cannot pay for a lawyer.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-attorney",
+     "en": "attorney",
+     "es": "abogado/a (en inglés de EE. UU.)",
+     "example": "An attorney from our office will call you.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-free-of-charge",
+     "en": "free of charge",
+     "es": "gratis, sin costo",
+     "example": "The first consultation is free of charge.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-eligible",
+     "en": "eligible",
+     "es": "que cumple los requisitos",
+     "example": "You are eligible for help if your income is low.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-income",
+     "en": "income",
+     "es": "ingreso",
+     "example": "Please bring proof of your monthly income.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-hotline",
+     "en": "hotline",
+     "es": "línea de atención telefónica",
+     "example": "Call our free hotline to ask a question."
+    },
+    {
+     "id": "w-confidential",
+     "en": "confidential",
+     "es": "confidencial",
+     "example": "Everything you say to us is confidential."
+    },
+    {
+     "id": "w-consultation",
+     "en": "consultation",
+     "es": "consulta",
+     "example": "The consultation lasts about thirty minutes.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-appointment",
+     "en": "appointment",
+     "es": "cita",
+     "example": "You need an appointment to see an attorney.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-unpaid-wages",
+     "en": "unpaid wages",
+     "es": "sueldo no pagado",
+     "example": "We help workers who have unpaid wages.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-discrimination",
+     "en": "discrimination",
+     "es": "discriminación",
+     "example": "Discrimination at work is against the law.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-harassment",
+     "en": "harassment",
+     "es": "acoso",
+     "example": "Harassment at work must be reported.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-contract",
+     "en": "contract",
+     "es": "contrato",
+     "example": "Read your work contract before you sign it.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-case",
+     "en": "case",
+     "es": "caso (legal)",
+     "example": "Your case will be reviewed by a lawyer.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>Excuse me, officer. Could you explain the rule, please?</strong> — asking an authority politely.</li><li><strong>I'm sorry. I didn't know it was against the law.</strong> — explaining a mistake.</li><li><strong>How much is the fine, and where can I pay it?</strong> — asking about a fine.</li><li><strong>If it is paid within ten days, there is a discount.</strong> — talking about deadlines and conditions.</li><li><strong>I'd like to make an appointment to talk about my rights.</strong> — asking for legal help.</li><li><strong>I have the right to speak to a lawyer.</strong> — saying what your rights are.</li><li><strong>Please stop. That comment makes me uncomfortable.</strong> — asking for respect at work, calmly and clearly.</li><li><strong>Everyone deserves to be treated with respect.</strong> — a general professional statement.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Simple present passive",
+   "instructions": "Complete, choose, correct or order.",
+   "topic": "g-passive-present",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "Speed limits ___ set by the government. (set)",
+     "answers": [
+      "are set"
+     ],
+     "explain": "Plural subject: are + past participle."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Parking tickets ___ by police officers. (give)",
+     "answers": [
+      "are given"
+     ],
+     "explain": "are + given (past participle of give)."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "Smoking is ___ allowed in public offices.",
+     "answers": [
+      "not"
+     ],
+     "explain": "Negative passive: is not allowed."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "Taxes ___ every year.",
+     "options": [
+      "are paid",
+      "pay",
+      "is paid"
+     ],
+     "answer": 0,
+     "explain": "Taxes is plural: are paid."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "Children under twelve ___ not allowed to sit in the front seat.",
+     "options": [
+      "are",
+      "is",
+      "do"
+     ],
+     "answer": 0,
+     "explain": "Plural subject: are not allowed."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "The fine is pay at the bank.",
+     "answers": [
+      "The fine is paid at the bank."
+     ],
+     "explain": "After is, use the past participle: paid."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "Cars is not allowed in the park.",
+     "answers": [
+      "Cars are not allowed in the park.",
+      "Cars aren't allowed in the park."
+     ],
+     "explain": "Cars is plural: are."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "are",
+      "by",
+      "Laws",
+      "made",
+      "Congress"
+     ],
+     "answers": [
+      "Laws are made by Congress."
+     ],
+     "explain": "Subject + are + past participle + by + agent."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Simple past passive",
+   "instructions": "Complete, choose, correct or order.",
+   "topic": "g-passive-past",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "The Civil Rights Act ___ in 1964. (sign)",
+     "answers": [
+      "was signed"
+     ],
+     "explain": "Singular subject in the past: was + past participle."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "Many people ___ during the protest. (arrest)",
+     "answers": [
+      "were arrested"
+     ],
+     "explain": "Plural subject in the past: were + past participle."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "Martin Luther King Jr. ___ born in Atlanta.",
+     "answers": [
+      "was"
+     ],
+     "explain": "Was born is the normal passive for birth."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "The Nobel Peace Prize ___ to King in 1964.",
+     "options": [
+      "was given",
+      "were given",
+      "gave"
+     ],
+     "answer": 0,
+     "explain": "Prize is singular: was given."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "Black passengers ___ to sit at the back of the bus.",
+     "options": [
+      "were told",
+      "was told",
+      "told"
+     ],
+     "answer": 0,
+     "explain": "Passengers is plural: were told."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "The speech was gave in 1963.",
+     "answers": [
+      "The speech was given in 1963."
+     ],
+     "explain": "After was, use the past participle: given."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "Many laws was changed after the protests.",
+     "answers": [
+      "Many laws were changed after the protests."
+     ],
+     "explain": "Laws is plural: were."
+    },
+    {
+     "id": "B8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "was",
+      "march",
+      "in",
+      "1963",
+      "The",
+      "held"
+     ],
+     "answers": [
+      "The march was held in 1963."
+     ],
+     "explain": "Subject + was + past participle + time."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "both...and, either...or, neither...nor",
+   "instructions": "Complete, choose, correct or order.",
+   "topic": "g-both-either-neither",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "___ my brother and my sister have a driver's license.",
+     "answers": [
+      "Both"
+     ],
+     "explain": "Both...and: the two together."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "You can pay the fine either at the bank ___ online.",
+     "answers": [
+      "or"
+     ],
+     "explain": "Either goes with or."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "Neither the driver ___ the passenger was wearing a seat belt.",
+     "answers": [
+      "nor"
+     ],
+     "explain": "Neither goes with nor."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "She is ___ a lawyer nor a judge.",
+     "options": [
+      "neither",
+      "either",
+      "both"
+     ],
+     "answer": 0,
+     "explain": "Neither...nor means not one and not the other."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "You must show ___ your passport or your ID card.",
+     "options": [
+      "either",
+      "neither",
+      "both"
+     ],
+     "answer": 0,
+     "explain": "Either...or: one of the two."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "Both Ana ___ Luis know the rules.",
+     "options": [
+      "and",
+      "or",
+      "nor"
+     ],
+     "answer": 0,
+     "explain": "Both goes with and."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "Neither the manager or the workers knew the law.",
+     "answers": [
+      "Neither the manager nor the workers knew the law."
+     ],
+     "explain": "Neither...nor, not neither...or."
+    },
+    {
+     "id": "C8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "can",
+      "You",
+      "pay",
+      "either",
+      "online",
+      "or",
+      "in",
+      "person"
+     ],
+     "answers": [
+      "You can pay either online or in person."
+     ],
+     "explain": "either + option 1 + or + option 2."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Vocabulary: law and rules",
+   "instructions": "Complete, choose or correct.",
+   "topic": "v-law",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "A person who decides cases in court is a ___.",
+     "answers": [
+      "judge"
+     ],
+     "explain": "The judge decides the case."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "A ___ is money you pay when you break a rule.",
+     "answers": [
+      "fine"
+     ],
+     "explain": "Fine: money you pay as a penalty."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "To follow the law is to ___ it.",
+     "options": [
+      "obey",
+      "break",
+      "vote"
+     ],
+     "answer": 0,
+     "explain": "Obey the law = follow it."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "A person who gives legal advice is a...",
+     "options": [
+      "lawyer",
+      "citizen",
+      "customer"
+     ],
+     "answer": 0,
+     "explain": "A lawyer gives legal advice."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "You must have a driver's ___ to drive a car.",
+     "answers": [
+      "license",
+      "licence"
+     ],
+     "explain": "A license is an official permission."
+    },
+    {
+     "id": "D6",
+     "type": "gap",
+     "prompt": "A ___ of a country has the right to vote there.",
+     "answers": [
+      "citizen"
+     ],
+     "explain": "Citizen: a legal member of a country."
+    },
+    {
+     "id": "D7",
+     "type": "choice",
+     "prompt": "Stealing is a ___.",
+     "options": [
+      "crime",
+      "right",
+      "license"
+     ],
+     "answer": 0,
+     "explain": "Breaking the law in a serious way is a crime."
+    },
+    {
+     "id": "D8",
+     "type": "fix",
+     "prompt": "We must break the rules at work.",
+     "answers": [
+      "We must obey the rules at work.",
+      "We must follow the rules at work."
+     ],
+     "explain": "We obey or follow rules; we do not break them on purpose."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: legal aid",
+   "instructions": "Complete, choose or translate.",
+   "topic": "v-legal-aid",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "Legal aid gives free help to people who cannot pay for a ___.",
+     "answers": [
+      "lawyer",
+      "attorney"
+     ],
+     "explain": "Legal aid pays for or gives a lawyer."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "\"Free of charge\" means...",
+     "options": [
+      "you pay nothing",
+      "you pay later",
+      "you pay half"
+     ],
+     "answer": 0,
+     "explain": "Free of charge = no cost."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "You are eligible for legal aid if your ___ is low.",
+     "options": [
+      "income",
+      "appointment",
+      "contract"
+     ],
+     "answer": 0,
+     "explain": "Income is the money you earn."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "Call the free ___ to talk to an advisor by phone.",
+     "answers": [
+      "hotline"
+     ],
+     "explain": "A hotline is a phone line for help."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "Information that is kept private is ___.",
+     "options": [
+      "confidential",
+      "eligible",
+      "unpaid"
+     ],
+     "answer": 0,
+     "explain": "Confidential = private."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "Your boss did not pay you for two weeks. You have ___ wages.",
+     "answers": [
+      "unpaid"
+     ],
+     "explain": "Unpaid wages: money you earned but did not receive."
+    },
+    {
+     "id": "E7",
+     "type": "choice",
+     "prompt": "Treating a person badly because of their race or gender is...",
+     "options": [
+      "discrimination",
+      "consultation",
+      "appointment"
+     ],
+     "answer": 0,
+     "explain": "That is discrimination."
+    },
+    {
+     "id": "E8",
+     "type": "translate",
+     "prompt": "Necesito hacer una cita con un abogado.",
+     "answers": [
+      "I need to make an appointment with a lawyer.",
+      "I need to make an appointment with an attorney.",
+      "I need to book an appointment with a lawyer.",
+      "I need to book an appointment with an attorney.",
+      "I need an appointment with a lawyer.",
+      "I need an appointment with an attorney."
+     ],
+     "explain": "Make an appointment = hacer una cita."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Useful expressions",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "e-useful",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "Which sentence asks politely how to pay a fine?",
+     "options": [
+      "Could you explain how I can pay the fine?",
+      "Tell me how to pay!",
+      "Pay the fine me how?"
+     ],
+     "answer": 0,
+     "explain": "Could you...? is polite and has the correct word order."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "I'm sorry. I didn't ___ it was against the law.",
+     "answers": [
+      "know"
+     ],
+     "explain": "I didn't know (that)..."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "I have the ___ to speak to a lawyer.",
+     "answers": [
+      "right"
+     ],
+     "explain": "A right is something the law gives you."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "A coworker makes an unkind joke. Which answer is polite but clear?",
+     "options": [
+      "Please stop. That comment makes me uncomfortable.",
+      "Shut up!",
+      "Nothing. Just laugh."
+     ],
+     "answer": 0,
+     "explain": "Calm and direct language is professional."
+    },
+    {
+     "id": "F5",
+     "type": "fix",
+     "prompt": "I want make a complaint.",
+     "answers": [
+      "I want to make a complaint.",
+      "I'd like to make a complaint.",
+      "I would like to make a complaint."
+     ],
+     "explain": "want + to + verb."
+    },
+    {
+     "id": "F6",
+     "type": "translate",
+     "prompt": "No sabía que era ilegal.",
+     "answers": [
+      "I didn't know it was illegal.",
+      "I didn't know that it was illegal.",
+      "I didn't know it was against the law.",
+      "I didn't know that it was against the law.",
+      "I did not know it was illegal.",
+      "I did not know that it was illegal."
+     ],
+     "explain": "I didn't know (that) + clause."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "Everyone deserves ___ at work.",
+     "answers": [
+      "respect"
+     ],
+     "explain": "Deserve respect: a basic workplace value."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "are",
+      "Fines",
+      "paid",
+      "at",
+      "the",
+      "bank"
+     ],
+     "answers": [
+      "Fines are paid at the bank."
+     ],
+     "explain": "Present passive: are + past participle."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "law",
+      "The",
+      "signed",
+      "was",
+      "in",
+      "1964"
+     ],
+     "answers": [
+      "The law was signed in 1964."
+     ],
+     "explain": "Past passive: was + past participle."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "of",
+      "Both",
+      "us",
+      "have",
+      "a",
+      "license"
+     ],
+     "answers": [
+      "Both of us have a license."
+     ],
+     "explain": "Both of us + plural verb."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "can",
+      "You",
+      "pay",
+      "either",
+      "online",
+      "or",
+      "at",
+      "the",
+      "bank"
+     ],
+     "answers": [
+      "You can pay either online or at the bank."
+     ],
+     "explain": "either + option + or + option."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "of",
+      "Neither",
+      "the",
+      "drivers",
+      "was",
+      "hurt"
+     ],
+     "answers": [
+      "Neither of the drivers was hurt."
+     ],
+     "explain": "Neither of + plural noun + singular verb."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "was",
+      "Where",
+      "the",
+      "speech",
+      "given"
+     ],
+     "answers": [
+      "Where was the speech given?"
+     ],
+     "explain": "Passive question: Where + was + subject + past participle."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Las leyes son hechas por el Congreso.",
+     "answers": [
+      "Laws are made by Congress.",
+      "Laws are made by the Congress.",
+      "The laws are made by Congress.",
+      "The laws are made by the Congress."
+     ],
+     "explain": "Present passive: are made by."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Mi licencia fue emitida en 2020.",
+     "answers": [
+      "My license was issued in 2020.",
+      "My driver's license was issued in 2020.",
+      "My license was given in 2020.",
+      "My driver's license was given in 2020."
+     ],
+     "explain": "Past passive: was issued."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Tanto mi jefa como mis compañeros respetan las reglas.",
+     "answers": [
+      "Both my boss and my coworkers respect the rules.",
+      "Both my boss and my co-workers respect the rules.",
+      "Both my boss and my colleagues respect the rules.",
+      "Both my boss and my coworkers follow the rules.",
+      "Both my boss and my co-workers follow the rules.",
+      "Both my boss and my colleagues follow the rules.",
+      "Both my boss and my coworkers obey the rules.",
+      "Both my boss and my colleagues obey the rules."
+     ],
+     "explain": "Both...and + plural verb."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "No se permite estacionarse aquí.",
+     "answers": [
+      "Parking is not allowed here.",
+      "Parking isn't allowed here.",
+      "You are not allowed to park here.",
+      "You aren't allowed to park here.",
+      "Cars are not allowed to park here.",
+      "Cars aren't allowed to park here."
+     ],
+     "explain": "is not allowed / are not allowed to."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Puedes pagar la multa en línea o en el banco.",
+     "answers": [
+      "You can pay the fine online or at the bank.",
+      "You can pay the fine either online or at the bank.",
+      "You can pay the ticket online or at the bank.",
+      "You can pay the ticket either online or at the bank."
+     ],
+     "explain": "either ... or for two options."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Ni el juez ni el abogado llegaron a tiempo.",
+     "answers": [
+      "Neither the judge nor the lawyer arrived on time.",
+      "Neither the judge nor the lawyer got there on time.",
+      "Neither the judge nor the lawyer came on time.",
+      "Neither the judge nor the lawyer was on time.",
+      "Neither the judge nor the lawyer were on time."
+     ],
+     "explain": "Neither...nor."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes 2 review items from earlier topics).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Rules ___ for everyone's safety.",
+     "options": [
+      "are made",
+      "make",
+      "is made"
+     ],
+     "answer": 0,
+     "explain": "Rules is plural: are made."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "The march ___ held in Washington in 1963.",
+     "answers": [
+      "was"
+     ],
+     "explain": "Singular subject in the past: was held."
+    },
+    {
+     "id": "M3",
+     "type": "gap",
+     "prompt": "You can either pay online ___ go to the court office.",
+     "answers": [
+      "or"
+     ],
+     "explain": "Either goes with or."
+    },
+    {
+     "id": "M4",
+     "type": "fix",
+     "prompt": "Neither Ana or Luis has a ticket.",
+     "answers": [
+      "Neither Ana nor Luis has a ticket."
+     ],
+     "explain": "Neither goes with nor."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "A free service for people with low income is called legal ___.",
+     "options": [
+      "aid",
+      "fine",
+      "crime"
+     ],
+     "answer": 0,
+     "explain": "Legal aid = free legal help."
+    },
+    {
+     "id": "M6",
+     "type": "translate",
+     "prompt": "La multa fue pagada ayer.",
+     "answers": [
+      "The fine was paid yesterday.",
+      "The ticket was paid yesterday."
+     ],
+     "explain": "Past passive: was paid."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "Both the lawyer ___ the judge were late.",
+     "options": [
+      "and",
+      "or",
+      "nor"
+     ],
+     "answer": 0,
+     "explain": "Both goes with and."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "Where ___ the documents signed?",
+     "answers": [
+      "were"
+     ],
+     "explain": "Documents is plural: were."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "If you park here, you ___ a fine. (get) (review: future real conditional)",
+     "answers": [
+      "will get",
+      "'ll get"
+     ],
+     "explain": "If + present, will + base verb."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "I ___ lived in this city since 2018. (review: present perfect)",
+     "answers": [
+      "have",
+      "'ve"
+     ],
+     "explain": "Present perfect with since: have + past participle."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a short biography of a person you admire (120 to 160 words): where and when the person was born, important events in their life, and why you admire them. Use the simple past passive at least four times (was born, was taught, was chosen...). Opening: The person I admire most is...",
+   "targets": [
+    "simple past passive",
+    "biography vocabulary",
+    "time expressions"
+   ],
+   "checklist": [
+    "120 to 160 words",
+    "was / were born with a place and a year",
+    "At least four past passive sentences (was + participle)",
+    "Correct past participles (given, taught, chosen)",
+    "One sentence with both...and or neither...nor",
+    "A final sentence that says why you admire the person"
+   ],
+   "model": "My grandmother, Rosa Martinez, is the person I admire most. She was born in a small village in Oaxaca in 1948. Her family was very poor, and she was sent to work on a farm when she was ten. She was never allowed to go to school, so her mother taught her to read at night. When she was twenty, she moved to Mexico City, where she was hired as a cleaner in a hospital. She studied in the evenings, and in 1975 she was promoted to nurse's assistant. She worked there for thirty years, and her kindness was known by every patient. Both her children went to university, and she was invited to their graduation. Today she is eighty, and she is still the first person in our family to help anyone in trouble. I admire her because she never gave up."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write an email (80 to 120 words) to a legal aid office. Say that your employer did not pay you, explain that you are eligible, and ask for an appointment. Use either...or, both...and or neither...nor once, and one present passive sentence.",
+   "targets": [
+    "polite request",
+    "either...or / both...and / neither...nor",
+    "simple present passive"
+   ],
+   "checklist": [
+    "80 to 120 words",
+    "Polite opening and closing",
+    "A clear reason for writing (unpaid wages)",
+    "One sentence with either...or, both...and or neither...nor",
+    "One present passive sentence (is / are + participle)",
+    "A request for an appointment with possible days"
+   ],
+   "model": "Dear Legal Aid Office,\n\nMy name is Carlos Perez. I am writing because my employer did not pay me for the last three weeks. Both my coworker and I are waiting for our money. I read on your website that free advice is given to people with low income. I am eligible because my income is low.\n\nCould I make an appointment for next week? I can come either on Tuesday or on Thursday morning. Neither Monday nor Friday is good for me because I work those days. Please tell me which documents are needed for the consultation.\n\nThank you for your help.\n\nBest regards,\nCarlos Perez"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Martin Luther King Jr.: Changing the Law Peacefully",
+   "intro": "Read about the life of a civil-rights leader and answer.",
+   "paragraphs": [
+    "Martin Luther King Jr. was born in Atlanta, Georgia, on January 15, 1929. His father was a church minister, and his family taught him to respect other people. At that time, many laws in the southern United States kept Black and white people apart. Black children were sent to different schools, and Black passengers were told to sit at the back of the bus.",
+    "In 1955, a woman named Rosa Parks was arrested in Montgomery, Alabama, because she refused to give her bus seat to a white passenger. After her arrest, a bus boycott was organized by local leaders, and King was chosen as their spokesman. For more than a year, thousands of people walked to work instead of taking the bus. Finally, the Supreme Court decided that segregation on buses was against the law.",
+    "King believed in peaceful protest. He was inspired by the ideas of Mahatma Gandhi, and he never used violence. He was arrested several times, but his message was heard by millions of people. On August 28, 1963, about 250,000 people came to the March on Washington. There, King gave his famous speech, 'I Have a Dream.' In it, he asked for a country where people are judged by their character, not by the color of their skin.",
+    "His work changed the law. In 1964, the Civil Rights Act was signed by President Lyndon Johnson. This law made it illegal to treat people unfairly because of their race at work, in schools and in public places. The same year, King was given the Nobel Peace Prize. One year later, the Voting Rights Act was passed, and many more citizens were allowed to vote.",
+    "King was killed in Memphis, Tennessee, on April 4, 1968. He was only 39 years old. Today, his birthday is celebrated every year in the United States, and his ideas are still taught in schools around the world. Many people remember him as proof that unfair laws can be changed without violence."
+   ],
+   "glossary": [
+    {
+     "en": "segregation",
+     "def": "keeping groups of people apart because of race"
+    },
+    {
+     "en": "boycott",
+     "def": "refusing to use or buy something as a protest"
+    },
+    {
+     "en": "spokesman",
+     "def": "a person who speaks for a group"
+    },
+    {
+     "en": "peaceful",
+     "def": "without violence"
+    },
+    {
+     "en": "protest",
+     "def": "to say or show publicly that you disagree"
+    },
+    {
+     "en": "citizen",
+     "def": "a legal member of a country"
+    },
+    {
+     "en": "illegal",
+     "def": "against the law"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Martin Luther King Jr. was born in Atlanta.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "The text says he was born in Atlanta, Georgia, in 1929."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Why was Rosa Parks arrested?",
+     "options": [
+      "She did not give her bus seat to a white passenger",
+      "She organized the March on Washington",
+      "She did not pay a fine"
+     ],
+     "answer": 0,
+     "explain": "She refused to give her seat to a white passenger."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Who was chosen as the spokesman of the bus boycott?",
+     "options": [
+      "Martin Luther King Jr.",
+      "Lyndon Johnson",
+      "Mahatma Gandhi"
+     ],
+     "answer": 0,
+     "explain": "King was chosen as their spokesman."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "The March on Washington was held in ___.",
+     "answers": [
+      "1963"
+     ],
+     "explain": "The march was on August 28, 1963."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "What did the Civil Rights Act of 1964 do?",
+     "options": [
+      "It made unfair treatment because of race illegal",
+      "It gave King a prize",
+      "It ended the bus boycott"
+     ],
+     "answer": 0,
+     "explain": "It made it illegal to treat people unfairly because of their race."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "King was given the Nobel Peace Prize in ___.",
+     "answers": [
+      "1964"
+     ],
+     "explain": "The same year as the Civil Rights Act: 1964."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "King was 39 years old when he was killed.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "The text says he was only 39 years old."
+    },
+    {
+     "id": "R8",
+     "type": "translate",
+     "prompt": "La ley fue firmada en 1964.",
+     "answers": [
+      "The law was signed in 1964.",
+      "The act was signed in 1964.",
+      "The law was signed in 1964"
+     ],
+     "explain": "Past passive: was signed."
+    }
+   ]
+  },
+  "listening": {
+   "title": "A parking ticket",
+   "intro": "Listen to a police officer and a driver. Then a friend arrives. You can repeat it.",
+   "lines": [
+    {
+     "who": "Officer",
+     "voice": "rounded",
+     "text": "Excuse me, sir. This car is parked in a no-parking zone."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "Oh, I'm sorry, officer. I only stopped for five minutes to buy some water."
+    },
+    {
+     "who": "Officer",
+     "voice": "rounded",
+     "text": "I understand, but cars are not allowed to stop here. A fine must be paid."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "How much is the fine?"
+    },
+    {
+     "who": "Officer",
+     "voice": "rounded",
+     "text": "It is eight hundred pesos. If it is paid within ten days, you get a discount of fifty percent."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "That's good. Where can I pay it?"
+    },
+    {
+     "who": "Officer",
+     "voice": "rounded",
+     "text": "You can pay either at any bank or online. The ticket number is written on this paper."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "Thank you, officer. I'll pay it tomorrow."
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Tom! What happened? Did you get a ticket?"
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "Yes. I didn't see the sign. It was hidden behind a tree."
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Rules are made for everyone's safety, you know. Next time, use the parking lot behind the market."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "You're right. Parking there is cheaper, and it's safe too."
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Come on, I'll buy you a coffee. Your day can only get better."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Why does the officer talk to Tom?",
+     "options": [
+      "His car is in a no-parking zone",
+      "He drove too fast",
+      "He has no license"
+     ],
+     "answer": 0,
+     "explain": "The officer says the car is parked in a no-parking zone."
+    },
+    {
+     "id": "L2",
+     "type": "gap",
+     "prompt": "The fine is ___ pesos.",
+     "answers": [
+      "800",
+      "eight hundred"
+     ],
+     "explain": "The officer says it is eight hundred pesos."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What discount does Tom get if he pays within ten days?",
+     "options": [
+      "Fifty percent",
+      "Ten percent",
+      "No discount"
+     ],
+     "answer": 0,
+     "explain": "A discount of fifty percent."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "How can Tom pay the fine?",
+     "options": [
+      "At a bank or online",
+      "Only at the police station",
+      "Only by phone"
+     ],
+     "answer": 0,
+     "explain": "Either at any bank or online."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "Why didn't Tom see the sign?",
+     "options": [
+      "It was hidden behind a tree",
+      "It was very small",
+      "It was broken"
+     ],
+     "answer": 0,
+     "explain": "Tom says it was hidden behind a tree."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "Nora suggests that Tom use the parking lot behind the market.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "She says: use the parking lot behind the market."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Cars are not allowed to stop here.",
+     "answers": [
+      "Cars are not allowed to stop here.",
+      "Cars aren't allowed to stop here."
+     ],
+     "explain": "Present passive negative: are not allowed."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "The ticket number is written on this paper.",
+     "answers": [
+      "The ticket number is written on this paper."
+     ],
+     "explain": "Present passive: is written."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "If it is paid within ten days, you get a discount.",
+     "answers": [
+      "If it is paid within ten days, you get a discount.",
+      "If it's paid within ten days, you get a discount."
+     ],
+     "explain": "A condition with the present passive."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Rules are made for everyone's safety.",
+     "answers": [
+      "Rules are made for everyone's safety."
+     ],
+     "explain": "Present passive: are made."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "You get a ticket for a small mistake. Talk to the officer: explain what happened and ask about the fine.",
+     "questions": [
+      "Sir, why did you stop here?",
+      "Did you see the sign?",
+      "How can I help you?",
+      "Do you know how the fine is paid?"
+     ],
+     "model": "Excuse me, officer. I'm sorry. I didn't know it was against the law to stop here. I only stopped for five minutes. How much is the fine, and where can I pay it? Can I pay either online or at the bank?",
+     "checklist": [
+      "Polite opening (Excuse me, I'm sorry)",
+      "I didn't know it was...",
+      "A question about the fine (How much...? Where can I pay...?)",
+      "either...or for two options"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "A coworker makes a rude comment. Say calmly what you feel and ask for respect.",
+     "questions": [
+      "What happened at work today?",
+      "How did the comment make you feel?",
+      "What do you want your coworker to do?",
+      "Why is respect important at work?"
+     ],
+     "model": "Excuse me, can I talk to you for a minute? That comment made me uncomfortable. Please stop. Everyone deserves to be treated with respect at work. Both you and I want a good team, so I think we can work together without problems.",
+     "checklist": [
+      "Calm, polite language",
+      "Please stop / That makes me uncomfortable",
+      "deserve respect",
+      "both...and once"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about rules and laws in your city or country. Which ones are easy to follow? Which are difficult?",
+     "questions": [
+      "What rules are important in your city?",
+      "Are fines paid in your country? Where?",
+      "Have you ever received a ticket?",
+      "Which law would you change?"
+     ],
+     "model": "In my city, many rules are made for safety. For example, cars are not allowed to park near the market. I think those rules are good. I have never received a ticket, but my brother was given one last year. Neither of us likes paying fines! I would change the law about bicycles, because there are not enough bike lanes.",
+     "checklist": [
+      "At least two passive sentences",
+      "Law and rules vocabulary",
+      "Personal experience (have received / was given)",
+      "An opinion with I think / I would change"
+     ]
+    }
+   ],
+   "repeat": [
+    "Smoking is not allowed in this building.",
+    "The fine must be paid within ten days.",
+    "You can pay either online or at the bank.",
+    "I didn't know it was against the law.",
+    "Neither the manager nor I knew the rule.",
+    "Everyone deserves to be treated with respect."
+   ]
+  }
+ }
+}

@@ -1,0 +1,1752 @@
+{
+ "id": "b1-u01",
+ "level": "A1",
+ "n": 1,
+ "title": "Nice to meet you!",
+ "goals": [
+  "Introduce yourself and give personal information: name, age, country, city, birthday, phone number and email.",
+  "Ask and answer yes/no questions and information questions with the verb be.",
+  "Ask for help when you don't understand: spell, repeat, speak more slowly, ask what something means.",
+  "Use basic polite language (Excuse me, please, thank you, you're welcome).",
+  "Say and write dates with ordinal numbers (first, second, third…).",
+  "Recognize cognates between English and Spanish to understand simple texts."
+ ],
+ "learn": [
+  {
+   "id": "v-intro",
+   "kind": "vocab",
+   "title": "Introducing yourself (first reading)",
+   "words": [
+    {
+     "id": "w-name",
+     "en": "name",
+     "es": "nombre",
+     "example": "My name is Lucía.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-to-speak",
+     "en": "to speak",
+     "es": "hablar (un idioma)",
+     "example": "I speak Spanish and a little English.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-student",
+     "en": "student",
+     "es": "estudiante",
+     "example": "She is a student at UNAM.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-to-study",
+     "en": "to study",
+     "es": "estudiar",
+     "example": "I study engineering.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-computer-science",
+     "en": "computer science",
+     "es": "informática / ciencias de la computación",
+     "example": "He studies computer science.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-part-time-job",
+     "en": "part-time job",
+     "es": "trabajo de medio tiempo",
+     "example": "I have a part-time job in a bakery.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-store",
+     "en": "store",
+     "es": "tienda",
+     "example": "My brother works in a computer store.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-interests",
+     "en": "interests",
+     "es": "intereses",
+     "example": "My interests are music and movies.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-video-games",
+     "en": "video games",
+     "es": "videojuegos",
+     "example": "We love video games.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-movies",
+     "en": "movies",
+     "es": "películas",
+     "example": "Do you like movies?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-sports",
+     "en": "sports",
+     "es": "deportes",
+     "example": "Soccer is my favorite of all sports.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-soccer",
+     "en": "soccer",
+     "es": "fútbol",
+     "example": "They play soccer on Sundays.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-best-friend",
+     "en": "best friend",
+     "es": "mejor amigo/a",
+     "example": "My best friend is Ana.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-class",
+     "en": "class",
+     "es": "clase / grupo de alumnos",
+     "example": "We are in the same class.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-teacher-professor",
+     "en": "teacher / professor",
+     "es": "maestro/a / profesor/a",
+     "example": "Our professor is very kind.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-university",
+     "en": "university",
+     "es": "universidad",
+     "example": "The university is near my house.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-language",
+     "en": "language",
+     "es": "idioma",
+     "example": "French is a language.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-science",
+     "en": "science",
+     "es": "ciencia (materia)",
+     "example": "Science is my favorite subject.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-cognates",
+   "kind": "vocab",
+   "title": "Cognates (words that look like Spanish words)",
+   "words": [
+    {
+     "id": "w-student-2",
+     "en": "student",
+     "es": "estudiante",
+     "example": "Casi igual: She is a good student.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-music",
+     "en": "music",
+     "es": "música",
+     "example": "Se escribe distinto, significa igual: I love music.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-professor",
+     "en": "professor",
+     "es": "profesor",
+     "example": "Pronunciación inglesa distinta: The professor is here.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-university-2",
+     "en": "university",
+     "es": "universidad",
+     "example": "Termina en -ity = -idad: It is a big university.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-class-2",
+     "en": "class",
+     "es": "clase",
+     "example": "Cuidado con la pronunciación: My class is at nine.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-science-2",
+     "en": "science",
+     "es": "ciencia",
+     "example": "-ce = -cia: Science is interesting.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-library-false",
+     "en": "library (falso amigo)",
+     "es": "biblioteca (no 'librería'; librería = bookstore)",
+     "example": "The library is open until eight.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-classroom",
+   "kind": "vocab",
+   "title": "Useful questions in class",
+   "words": [
+    {
+     "id": "w-can-you-spell-that",
+     "en": "Can you spell that?",
+     "es": "¿Puedes deletrearlo?",
+     "example": "Can you spell that, please?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-can-you-speak-more-slowly",
+     "en": "Can you speak more slowly?",
+     "es": "¿Puedes hablar más despacio?",
+     "example": "Can you speak more slowly, please?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-how-do-you-say-in-english",
+     "en": "How do you say … in English?",
+     "es": "¿Cómo se dice … en inglés?",
+     "example": "How do you say \"cumpleaños\" in English?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-can-you-repeat-that-please",
+     "en": "Can you repeat that, please?",
+     "es": "¿Puedes repetir eso, por favor?",
+     "example": "Sorry, can you repeat that, please?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-what-does-that-mean",
+     "en": "What does that mean?",
+     "es": "¿Qué significa eso?",
+     "example": "What does \"excellent\" mean?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-can-you-help-me",
+     "en": "Can you help me?",
+     "es": "¿Me puedes ayudar?",
+     "example": "I don't understand. Can you help me?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-open-your-books-to-page",
+     "en": "Open your books to page…",
+     "es": "Abran sus libros en la página…",
+     "example": "Open your books to page 24.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-homework",
+     "en": "homework",
+     "es": "tarea",
+     "example": "I don't understand the homework.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-i-don-t-understand",
+     "en": "I don't understand.",
+     "es": "No entiendo.",
+     "example": "Sorry, I don't understand.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-be-forms",
+   "kind": "grammar",
+   "title": "be: affirmative and negative",
+   "html": "<p><em>be</em> is used to talk about people, things and facts about them: name, age, origin, job. In Spanish this is split between <em>ser</em> and <em>estar</em>, but in English <strong>it always needs a subject</strong>.</p><table><thead><tr><th>Subject</th><th>Affirmative</th><th>Negative</th></tr></thead><tbody><tr><td>I</td><td>I am (I'm) from León.</td><td>I am not (I'm not) from León.</td></tr><tr><td>You</td><td>You are (You're) from León.</td><td>You are not (You aren't / You're not) from León.</td></tr><tr><td>He / She / It</td><td>He is (He's) from León.</td><td>He is not (He isn't / He's not) from León.</td></tr><tr><td>We</td><td>We are (We're) from León.</td><td>We are not (We aren't / We're not) from León.</td></tr><tr><td>They</td><td>They are (They're) from León.</td><td>They are not (They aren't / They're not) from León.</td></tr></tbody></table><p>With <em>I</em>, the negative is only \"I'm not\". \"I amn't\" is not used.</p>",
+   "watch": [
+    {
+     "wrong": "Is from Mexico.",
+     "right": "He is from Mexico. / It is a big city.",
+     "why": "The subject is required."
+    },
+    {
+     "wrong": "They is my friends.",
+     "right": "They are my friends.",
+     "why": "Use \"are\" with They."
+    },
+    {
+     "wrong": "She not is from Chile.",
+     "right": "She isn't from Chile.",
+     "why": "The negative goes after be."
+    },
+    {
+     "wrong": "I'm no from Brazil.",
+     "right": "I'm not from Brazil.",
+     "why": "The negative is \"not\". Don't use \"no\"."
+    }
+   ]
+  },
+  {
+   "id": "g-be-yesno",
+   "kind": "grammar",
+   "title": "be: Yes/No questions and short answers",
+   "html": "<p>Used to ask if something is true or false. You make it by <strong>switching</strong> the order: <em>be</em> + subject.</p><table><thead><tr><th>Affirmative</th><th>Negative</th><th>Question</th><th>Short answer</th></tr></thead><tbody><tr><td>You are from Mexico.</td><td>You aren't from Mexico.</td><td>Are you from Mexico?</td><td>Yes, I am. / No, I'm not.</td></tr><tr><td>He/She/It is from Mexico.</td><td>He/She/It isn't from Mexico.</td><td>Is he/she/it from Mexico?</td><td>Yes, he/she/it is. / No, he/she/it isn't.</td></tr><tr><td>We are from Mexico.</td><td>We aren't from Mexico.</td><td>Are we from Mexico?</td><td>Yes, we are. / No, we're not.</td></tr><tr><td>They are from Mexico.</td><td>They aren't from Mexico.</td><td>Are they from Mexico?</td><td>Yes, they are. / No, they aren't.</td></tr></tbody></table><ul><li>Answer with the <strong>pronoun</strong> (<em>she, he, they</em>), not with the name. For people, don't use <em>it</em>.</li><li>In a positive short answer, <strong>don't contract</strong>: <em>Yes, I am.</em> (not <em>Yes, I'm.</em>)</li></ul>",
+   "watch": [
+    {
+     "wrong": "You are a student?",
+     "right": "Are you a student?",
+     "why": "Switch be and the subject. Intonation alone is not enough."
+    },
+    {
+     "wrong": "Is Kate 19? — Yes, it is.",
+     "right": "Yes, she is.",
+     "why": "\"it\" is only for things and animals."
+    },
+    {
+     "wrong": "Yes, it's.",
+     "right": "Yes, it is.",
+     "why": "Positive short answers are not contracted."
+    }
+   ]
+  },
+  {
+   "id": "g-age",
+   "kind": "grammar",
+   "title": "Age and personal facts: be, not have",
+   "html": "<p>In Spanish you <em>have</em> an age, but in English you <em>are</em> an age: <em>I am 25 (years old)</em>.</p><table><thead><tr><th>Affirmative</th><th>Negative</th><th>Question</th><th>Short answer</th></tr></thead><tbody><tr><td>She is 25 (years old).</td><td>She isn't 25.</td><td>How old is she? / Is she 25?</td><td>She's 25. / Yes, she is.</td></tr></tbody></table>",
+   "watch": [
+    {
+     "wrong": "She has 25 years.",
+     "right": "She's 25 years old.",
+     "why": "Age uses be, not have."
+    },
+    {
+     "wrong": "I have 22.",
+     "right": "I'm 22.",
+     "why": "Age with be."
+    }
+   ]
+  },
+  {
+   "id": "v-polite",
+   "kind": "vocab",
+   "title": "Polite language and hotel",
+   "words": [
+    {
+     "id": "w-excuse-me",
+     "en": "Excuse me",
+     "es": "Disculpe / Con permiso",
+     "example": "Excuse me, where is the library?",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-please",
+     "en": "please",
+     "es": "por favor",
+     "example": "Could you fill in this form, please?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-thank-you-thanks",
+     "en": "Thank you / Thanks",
+     "es": "Gracias",
+     "example": "Thanks for your help.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-you-re-welcome",
+     "en": "You're welcome",
+     "es": "De nada",
+     "example": "Thank you. — You're welcome.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-last-name",
+     "en": "last name",
+     "es": "apellido",
+     "example": "My last name is Hernández.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-phone-number",
+     "en": "phone number",
+     "es": "número de teléfono",
+     "example": "What's your phone number?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-room-room-key",
+     "en": "room / room key",
+     "es": "habitación / llave de la habitación",
+     "example": "You're in room 235.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-enjoy-your-stay",
+     "en": "Enjoy your stay.",
+     "es": "Que disfrute su estancia.",
+     "example": "Here's your key. Enjoy your stay.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-passport",
+     "en": "passport",
+     "es": "pasaporte",
+     "example": "Can I have your passport, please?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-here-you-go",
+     "en": "Here you go.",
+     "es": "Aquí tiene.",
+     "example": "Yes, here you go.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-personal",
+   "kind": "vocab",
+   "title": "Personal information (forms)",
+   "words": [
+    {
+     "id": "w-first-name",
+     "en": "first name",
+     "es": "nombre(s)",
+     "example": "First name: Kate",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-last-name-2",
+     "en": "last name",
+     "es": "apellido(s)",
+     "example": "Last name: Robinson",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-age",
+     "en": "age",
+     "es": "edad",
+     "example": "Age: 19",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-birthday-date-of-birth",
+     "en": "birthday / date of birth",
+     "es": "cumpleaños / fecha de nacimiento",
+     "example": "My birthday is on May 3rd.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-email-address",
+     "en": "email (address)",
+     "es": "correo electrónico",
+     "example": "What's your email address?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-country",
+     "en": "country",
+     "es": "país",
+     "example": "Country: Canada",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-city-small-town",
+     "en": "city / small town",
+     "es": "ciudad / pueblo",
+     "example": "Barrie is a small town.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-telephone-number",
+     "en": "telephone number",
+     "es": "número de teléfono",
+     "example": "Telephone number: 555 841 0789",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-address",
+     "en": "address",
+     "es": "dirección",
+     "example": "My address is 44 Westminster Street.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-zip-code",
+     "en": "zip code",
+     "es": "código postal",
+     "example": "Her zip code is N12 8RJ.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-nights-stay-for-two-nights",
+     "en": "nights (stay for two nights)",
+     "es": "noches",
+     "example": "He's staying for two nights.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-ordinals",
+   "kind": "vocab",
+   "title": "Ordinal numbers and months",
+   "words": [
+    {
+     "id": "w-first-1st",
+     "en": "first (1st)",
+     "es": "primero",
+     "example": "My first class is at 8.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-second-2nd",
+     "en": "second (2nd)",
+     "es": "segundo",
+     "example": "The second of June.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-third-3rd",
+     "en": "third (3rd)",
+     "es": "tercero",
+     "example": "She is the third in line.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fourth-4th",
+     "en": "fourth (4th)",
+     "es": "cuarto",
+     "example": "July the fourth.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fifth-5th",
+     "en": "fifth (5th)",
+     "es": "quinto",
+     "example": "Her birthday is on the fifth.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-seventh-7th",
+     "en": "seventh (7th)",
+     "es": "séptimo",
+     "example": "December 7th."
+    },
+    {
+     "id": "w-tenth-10th",
+     "en": "tenth (10th)",
+     "es": "décimo",
+     "example": "The tenth of March."
+    },
+    {
+     "id": "w-eleventh-11th",
+     "en": "eleventh (11th)",
+     "es": "undécimo (el once)",
+     "example": "Tuesday the eleventh."
+    },
+    {
+     "id": "w-thirteenth-13th",
+     "en": "thirteenth (13th)",
+     "es": "el trece",
+     "example": "August the thirteenth."
+    },
+    {
+     "id": "w-fifteenth-15th",
+     "en": "fifteenth (15th)",
+     "es": "el quince",
+     "example": "The fifteenth of May."
+    },
+    {
+     "id": "w-seventeenth-17th",
+     "en": "seventeenth (17th)",
+     "es": "el diecisiete",
+     "example": "Saturday the seventeenth."
+    },
+    {
+     "id": "w-twenty-second-22nd",
+     "en": "twenty-second (22nd)",
+     "es": "el veintidós",
+     "example": "Today is September 22nd."
+    },
+    {
+     "id": "w-twenty-seventh-27th",
+     "en": "twenty-seventh (27th)",
+     "es": "el veintisiete",
+     "example": "This Saturday is the 27th."
+    },
+    {
+     "id": "w-thirtieth-30th",
+     "en": "thirtieth (30th)",
+     "es": "el treinta",
+     "example": "The last day of June is the 30th."
+    },
+    {
+     "id": "w-january-february-june-july-aug",
+     "en": "January, February, June, July, August, September, November, December",
+     "es": "enero, febrero, junio, julio, agosto, septiembre, noviembre, diciembre",
+     "example": "My birthday is in August.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-ordinals",
+   "kind": "grammar",
+   "title": "Ordinal numbers and dates",
+   "html": "<p>They put things in order (first, second…) and, above all, they are used to say dates. Most end in <strong>-th</strong>: <em>fourth, fifth, sixth, seventh, eleventh, thirteenth, twentieth</em>. Three are irregular: <strong>first (1st), second (2nd), third (3rd)</strong>, and they repeat in compound numbers: <em>twenty-first (21st), twenty-second (22nd), twenty-third (23rd)</em>.</p><p>Spelling changes: <em>five → fifth</em>, <em>eight → eighth</em>, <em>nine → ninth</em>, <em>twelve → twelfth</em>, <em>twenty → twentieth</em>, <em>thirty → thirtieth</em>.</p><table><thead><tr><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Month + ordinal</td><td>My birthday is on August 13th.</td></tr><tr><td>the + ordinal + of + month</td><td>My birthday is on the thirteenth of August.</td></tr><tr><td>Day + the + ordinal</td><td>My next class is on Tuesday the eleventh.</td></tr></tbody></table>",
+   "watch": [
+    {
+     "wrong": "My birthday is the 13 of August.",
+     "right": "My birthday is on August 13th.",
+     "why": "Ordinal (not cardinal) and with on."
+    },
+    {
+     "wrong": "twenty-two (para el 22)",
+     "right": "twenty-second (22nd)",
+     "why": "Dates use ordinals."
+    }
+   ]
+  },
+  {
+   "id": "g-wh",
+   "kind": "grammar",
+   "title": "be: information questions (Wh-)",
+   "html": "<p>Use these when you want an answer about a thing, person, place, time, age, etc. The question word goes first, then <em>be</em> + subject.</p><table><thead><tr><th>Word</th><th>Question</th><th>Asks for…</th></tr></thead><tbody><tr><td>What</td><td>What is your name? / What is your address?</td><td>thing, fact</td></tr><tr><td>Where</td><td>Where are you from? / Where is Marta?</td><td>place</td></tr><tr><td>When</td><td>When is your birthday?</td><td>date, time</td></tr><tr><td>Who</td><td>Who are you? / Who is Luis Tosar?</td><td>person</td></tr><tr><td>How old</td><td>How old are you?</td><td>age</td></tr></tbody></table><p>Common contractions: <em>What's your name?</em>, <em>Where's Marta?</em>, <em>When's your birthday?</em>, <em>Who's your brother?</em></p>",
+   "watch": [
+    {
+     "wrong": "Where you are from?",
+     "right": "Where are you from?",
+     "why": "Switch the order: be goes before the subject."
+    },
+    {
+     "wrong": "How many years do you have?",
+     "right": "How old are you?",
+     "why": "For age: How old + be."
+    },
+    {
+     "wrong": "Who is you?",
+     "right": "Who are you?",
+     "why": "be agrees with the subject."
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>Nice to meet you.</strong> — when you meet someone; the answer is <em>Nice to meet you, too.</em></li><li><strong>Hi, I'm Paolo. / My name's Paolo.</strong> — to introduce yourself.</li><li><strong>Where are you from? — I'm from Madrid. And you?</strong> — to ask and say where you are from.</li><li><strong>Can you spell that, please?</strong> — when you don't understand how a name is spelled.</li><li><strong>Can you repeat that, please?</strong> — when you didn't hear something.</li><li><strong>Can you speak more slowly, please?</strong> — when people talk very fast.</li><li><strong>What does that mean?</strong> — when you don't understand a word.</li><li><strong>How do you say \"…\" in English?</strong> — when a word is missing.</li><li><strong>Can you help me? — Yes, of course.</strong> — to ask for help.</li><li><strong>Excuse me, …</strong> — to get attention before you ask something.</li><li><strong>Thank you. / Thanks. — You're welcome.</strong> — to say thank you and reply.</li><li><strong>Can I have your passport, please? — Yes, here you go.</strong> — at a hotel desk or at the airport.</li><li><strong>Enjoy your stay.</strong> — what hotel staff say when they give you the key.</li><li><strong>Yes, that's right.</strong> — to confirm a fact.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Complete with the correct form of be",
+   "instructions": "Write the correct form of be (affirmative or negative, as shown).",
+   "topic": "g-be-forms",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "My sister ___ a nurse in Guadalajara.",
+     "answers": [
+      "is",
+      "'s"
+     ],
+     "explain": "My sister = she → is."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "We ___ from Monterrey. (affirmative)",
+     "answers": [
+      "are",
+      "'re"
+     ],
+     "explain": "We → are."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "___ your parents at home tonight?",
+     "answers": [
+      "Are"
+     ],
+     "explain": "Question with parents (they): Are + subject."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "I ___ tired today. (negative)",
+     "answers": [
+      "am not",
+      "'m not",
+      "m not"
+     ],
+     "explain": "With I, the negative is I'm not; there is no 'amn't'."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "Diego and Sofía ___ in the same class. (negative)",
+     "answers": [
+      "aren't",
+      "are not"
+     ],
+     "explain": "Diego and Sofía = they → aren't."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "___ the tacos good at this place?",
+     "answers": [
+      "Are"
+     ],
+     "explain": "Tacos (plural) → Are."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "It ___ cold in Mérida in May. (negative)",
+     "answers": [
+      "isn't",
+      "is not"
+     ],
+     "explain": "It → isn't."
+    },
+    {
+     "id": "A8",
+     "type": "gap",
+     "prompt": "You ___ late again, Pablo! (affirmative)",
+     "answers": [
+      "are",
+      "'re"
+     ],
+     "explain": "You → are."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Choose the question word",
+   "instructions": "Choose What, Where, When, Who or How old.",
+   "topic": "g-wh",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "___ is your phone number? — It's 555 302 1177.",
+     "options": [
+      "What",
+      "Where",
+      "When",
+      "Who",
+      "How old"
+     ],
+     "answer": 0,
+     "explain": "A fact (number) → What."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "___ is the party? — It's on Saturday, October 3rd.",
+     "options": [
+      "What",
+      "Where",
+      "When",
+      "Who",
+      "How old"
+     ],
+     "answer": 2,
+     "explain": "Date or time → When."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "___ is Lupita? — She's my cousin.",
+     "options": [
+      "What",
+      "Where",
+      "When",
+      "Who",
+      "How old"
+     ],
+     "answer": 3,
+     "explain": "Asks about a person → Who."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "___ is your cousin from? — She's from Puebla.",
+     "options": [
+      "What",
+      "Where",
+      "When",
+      "Who",
+      "How old"
+     ],
+     "answer": 1,
+     "explain": "Place of origin → Where."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "___ is your grandfather? — He's 78.",
+     "options": [
+      "What",
+      "Where",
+      "When",
+      "Who",
+      "How old"
+     ],
+     "answer": 4,
+     "explain": "Age → How old."
+    },
+    {
+     "id": "B6",
+     "type": "choice",
+     "prompt": "___ is the bathroom? — It's next to the kitchen.",
+     "options": [
+      "What",
+      "Where",
+      "When",
+      "Who",
+      "How old"
+     ],
+     "answer": 1,
+     "explain": "Place → Where."
+    },
+    {
+     "id": "B7",
+     "type": "choice",
+     "prompt": "___ are those people? — They're my neighbors.",
+     "options": [
+      "What",
+      "Where",
+      "When",
+      "Who",
+      "How old"
+     ],
+     "answer": 3,
+     "explain": "People → Who."
+    },
+    {
+     "id": "B8",
+     "type": "choice",
+     "prompt": "___ is your teacher's last name? — It's Ramírez.",
+     "options": [
+      "What",
+      "Where",
+      "When",
+      "Who",
+      "How old"
+     ],
+     "answer": 0,
+     "explain": "A fact → What."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Short answers",
+   "instructions": "Facts: Ana is 25 years old, she is from Lima (Peru) and she is a teacher. Mateo and Luis are 30 years old, they are from Bogotá (Colombia) and they are engineers. Answer with a short answer.",
+   "topic": "g-be-yesno",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "Is Ana from Peru? — ___",
+     "answers": [
+      "Yes, she is",
+      "Yes she is"
+     ],
+     "explain": "Ana is from Lima, Peru → Yes, she is (not contracted)."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "Is Ana 30 years old? — ___",
+     "answers": [
+      "No, she isn't",
+      "No, she is not",
+      "No, she's not",
+      "No she isn't",
+      "No she is not",
+      "No she's not"
+     ],
+     "explain": "Ana is 25 → No, she isn't."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "Are Mateo and Luis teachers? — ___",
+     "answers": [
+      "No, they aren't",
+      "No, they are not",
+      "No, they're not",
+      "No they aren't",
+      "No they are not",
+      "No they're not"
+     ],
+     "explain": "They are engineers → No, they aren't."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "Are Mateo and Luis from Colombia? — ___",
+     "answers": [
+      "Yes, they are",
+      "Yes they are"
+     ],
+     "explain": "They are from Bogotá → Yes, they are."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "(Ana to Mateo) Are you and Luis from Lima? — ___",
+     "answers": [
+      "No, we aren't",
+      "No, we are not",
+      "No, we're not",
+      "No we aren't",
+      "No we are not",
+      "No we're not"
+     ],
+     "explain": "Mateo and Luis = we; they are from Bogotá → No, we aren't."
+    },
+    {
+     "id": "C6",
+     "type": "gap",
+     "prompt": "Is Luis 30? — ___",
+     "answers": [
+      "Yes, he is",
+      "Yes he is"
+     ],
+     "explain": "Luis is 30 → Yes, he is."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Ordinals",
+   "instructions": "Write the number (e.g. 5th) or the word (e.g. fifth), as shown.",
+   "topic": "g-ordinals",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "the fifth of May → May ___ (number)",
+     "answers": [
+      "5th",
+      "5"
+     ],
+     "explain": "fifth = 5th."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "twelfth → ___ (number)",
+     "answers": [
+      "12th"
+     ],
+     "explain": "twelfth = 12th."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "twenty-third → ___ (number)",
+     "answers": [
+      "23rd"
+     ],
+     "explain": "Compound numbers ending in third end in -rd: 23rd."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "31st → ___ (word)",
+     "answers": [
+      "thirty-first",
+      "thirty first"
+     ],
+     "explain": "31 = thirty-first."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "9th → ___ (word)",
+     "answers": [
+      "ninth"
+     ],
+     "explain": "nine → ninth (the e is dropped)."
+    },
+    {
+     "id": "D6",
+     "type": "gap",
+     "prompt": "20th → ___ (word)",
+     "answers": [
+      "twentieth"
+     ],
+     "explain": "twenty → twentieth."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Find the mistake",
+   "instructions": "Write the corrected sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "E1",
+     "type": "fix",
+     "prompt": "I have 30 years.",
+     "answers": [
+      "I'm 30.",
+      "I am 30.",
+      "I'm 30 years old.",
+      "I am 30 years old."
+     ],
+     "explain": "Age uses be, not have."
+    },
+    {
+     "id": "E2",
+     "type": "fix",
+     "prompt": "Where you are from?",
+     "answers": [
+      "Where are you from?"
+     ],
+     "explain": "Wh- + be + subject."
+    },
+    {
+     "id": "E3",
+     "type": "fix",
+     "prompt": "She not is from Chile.",
+     "answers": [
+      "She isn't from Chile.",
+      "She is not from Chile.",
+      "She's not from Chile."
+     ],
+     "explain": "The negative goes after be."
+    },
+    {
+     "id": "E4",
+     "type": "fix",
+     "prompt": "Yes, it's. (answer to: Is your name Carla?)",
+     "answers": [
+      "Yes, it is."
+     ],
+     "explain": "Positive short answers are not contracted."
+    },
+    {
+     "id": "E5",
+     "type": "fix",
+     "prompt": "My birthday is the 3 of May.",
+     "answers": [
+      "My birthday is on May 3rd.",
+      "My birthday is on the third of May.",
+      "My birthday is May 3rd.",
+      "My birthday is on May third.",
+      "My birthday is on May the third.",
+      "My birthday is on the 3rd of May.",
+      "My birthday is the third of May."
+     ],
+     "explain": "Ordinal (3rd/third), not cardinal, and with on."
+    },
+    {
+     "id": "E6",
+     "type": "fix",
+     "prompt": "They is my friends.",
+     "answers": [
+      "They are my friends.",
+      "They're my friends."
+     ],
+     "explain": "They → are."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Order the questions",
+   "instructions": "Put the words in order to form a question with be.",
+   "topic": "g-wh",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a question.",
+     "words": [
+      "is",
+      "your",
+      "What",
+      "phone",
+      "number"
+     ],
+     "answers": [
+      "What is your phone number?",
+      "What's your phone number?"
+     ],
+     "explain": "What + be + subject."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a question.",
+     "words": [
+      "is",
+      "birthday",
+      "When",
+      "your"
+     ],
+     "answers": [
+      "When is your birthday?",
+      "When's your birthday?"
+     ],
+     "explain": "When + be + subject."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a question.",
+     "words": [
+      "old",
+      "is",
+      "How",
+      "your",
+      "brother"
+     ],
+     "answers": [
+      "How old is your brother?"
+     ],
+     "explain": "How old + be + subject."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a question.",
+     "words": [
+      "Are",
+      "from",
+      "they",
+      "Spain"
+     ],
+     "answers": [
+      "Are they from Spain?"
+     ],
+     "explain": "Yes/No question: be + subject."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a question.",
+     "words": [
+      "is",
+      "Who",
+      "that",
+      "woman"
+     ],
+     "answers": [
+      "Who is that woman?",
+      "Who's that woman?"
+     ],
+     "explain": "Who + be + subject."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a question.",
+     "words": [
+      "your",
+      "is",
+      "teacher",
+      "Where",
+      "from"
+     ],
+     "answers": [
+      "Where is your teacher from?",
+      "Where's your teacher from?"
+     ],
+     "explain": "Where + be + subject + from."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Mi cumpleaños es el 12 de abril.",
+     "answers": [
+      "My birthday is on April 12th.",
+      "My birthday is on April twelfth.",
+      "My birthday is on April the twelfth.",
+      "My birthday is on April 12.",
+      "My birthday is on the twelfth of April.",
+      "My birthday is on the 12th of April.",
+      "My birthday is April 12th.",
+      "My birthday is April twelfth.",
+      "My birthday is April the twelfth.",
+      "My birthday is April 12.",
+      "My birthday is the twelfth of April.",
+      "My birthday is the 12th of April."
+     ],
+     "explain": "Date with ordinal: April 12th / the twelfth of April."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿Cuántos años tiene tu hermana?",
+     "answers": [
+      "How old is your sister?",
+      "How old's your sister?"
+     ],
+     "explain": "Age: How old + be."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Ellos no son de Colombia.",
+     "answers": [
+      "They aren't from Colombia.",
+      "They are not from Colombia.",
+      "They're not from Colombia."
+     ],
+     "explain": "Negative with be: they aren't."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "¿De dónde es tu maestra?",
+     "answers": [
+      "Where is your teacher from?",
+      "Where's your teacher from?"
+     ],
+     "explain": "Where + be + subject + from."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Disculpe, ¿puede repetir eso, por favor?",
+     "answers": [
+      "Excuse me, can you repeat that, please?",
+      "Excuse me, can you repeat that please?",
+      "Excuse me, could you repeat that, please?",
+      "Excuse me, could you repeat that please?",
+      "Excuse me, can you please repeat that?",
+      "Excuse me, could you please repeat that?",
+      "Excuse me can you repeat that, please?",
+      "Excuse me can you repeat that please?",
+      "Excuse me could you repeat that, please?",
+      "Excuse me could you repeat that please?",
+      "Excuse me can you please repeat that?",
+      "Excuse me could you please repeat that?",
+      "Excuse me, can you repeat that?",
+      "Excuse me can you repeat that?"
+     ],
+     "explain": "Excuse me + Can you repeat that, please?"
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Mi mejor amigo tiene 20 años.",
+     "answers": [
+      "My best friend is 20.",
+      "My best friend is 20 years old.",
+      "My best friend's 20.",
+      "My best friend's 20 years old."
+     ],
+     "explain": "Age with be, not have."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises of different types and topics from the unit.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "___ is your grandmother? — She's 80.",
+     "options": [
+      "What",
+      "Where",
+      "How old",
+      "Who"
+     ],
+     "answer": 2,
+     "explain": "Age → How old."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Is Pedro your brother? — No, ___.",
+     "answers": [
+      "he isn't",
+      "he's not",
+      "he is not"
+     ],
+     "explain": "Short negative answer with he."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "She has 19 years.",
+     "answers": [
+      "She's 19.",
+      "She is 19.",
+      "She's 19 years old.",
+      "She is 19 years old."
+     ],
+     "explain": "Age with be, not have."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "¿Tu padre es ingeniero?",
+     "answers": [
+      "Is your father an engineer?",
+      "Is your dad an engineer?"
+     ],
+     "explain": "Yes/No question: be + subject; engineer takes an."
+    },
+    {
+     "id": "M5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "is",
+      "fifth",
+      "the",
+      "today",
+      "of",
+      "June"
+     ],
+     "answers": [
+      "Today is the fifth of June.",
+      "The fifth of June is today."
+     ],
+     "explain": "the + ordinal + of + month."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "December 25th is the twenty-___ day of the month. (ordinal as a word)",
+     "answers": [
+      "fifth"
+     ],
+     "explain": "five → fifth."
+    },
+    {
+     "id": "M7",
+     "type": "fix",
+     "prompt": "Yes, she's. (answer to: Is she a student?)",
+     "answers": [
+      "Yes, she is."
+     ],
+     "explain": "Positive short answers are not contracted."
+    },
+    {
+     "id": "M8",
+     "type": "translate",
+     "prompt": "¿Quién es ese hombre?",
+     "answers": [
+      "Who is that man?",
+      "Who's that man?"
+     ],
+     "explain": "Who + be + subject."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "F1",
+   "prompt": "Introduce yourself in 5-7 sentences: name, age, city and country, birthday (with an ordinal), a friend, and what you study or do. Use at least one negative sentence (I'm not from…).",
+   "targets": [
+    "be (am/is/are)",
+    "age with be",
+    "ordinals and dates",
+    "negative with be"
+   ],
+   "checklist": [
+    "Subject in each sentence",
+    "Correct am / is / are",
+    "Age with be (I'm 25), not have",
+    "Date with ordinal (on March 4th)",
+    "At least one negative sentence (I'm not…)",
+    "5 to 7 sentences"
+   ],
+   "model": "My name is Carlos Ruiz, and I'm 25 years old. I'm from Guadalajara, Mexico. My birthday is on March 4th. My friend Ana is 24, and she is a nurse in my city. I'm a student at a small university, and I'm not a teacher."
+  },
+  {
+   "id": "F2",
+   "prompt": "Imagine you meet someone at a hotel in Cancún. Write a 6-line dialogue in which you ask their name, where they are from and their phone number, and ask them to repeat or spell something. Use Excuse me, please and thank you.",
+   "targets": [
+    "wh-questions with be",
+    "useful questions",
+    "polite language"
+   ],
+   "checklist": [
+    "Correct word order in questions (Where are you from?)",
+    "Questions about name, origin and phone number",
+    "You ask to repeat or spell (Can you spell that, please?)",
+    "You use Excuse me, please and thank you",
+    "Correct short answers (Yes, I am.)",
+    "6 lines of dialogue"
+   ],
+   "model": "A: Excuse me, what's your name, please?\nB: My name is Laura. Are you a guest here?\nA: Yes, I am. Where are you from, Laura?\nB: I'm from Monterrey. What's your phone number?\nA: It's 998 555 0142. Can you spell your last name, please?\nB: Sure. It's G-A-R-C-I-A. Thank you!"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Hi from Guadalajara!",
+   "intro": "Read Daniela's email and answer.",
+   "paragraphs": [
+    "Hi Kevin! Nice to meet you online. My name is Daniela Ruiz and I'm 22 years old. I'm from Guadalajara, Mexico, but I'm not there now. I'm a student at a university in Monterrey, and I have a part-time job in a store.",
+    "I study computer science. My best friend is Paola. She is in my class and she is from Puebla. Paola isn't 22. She is 21. Her birthday is on March 5th. My birthday is on October 13th.",
+    "My interests are music, movies and soccer. My brother isn't a student. He is 17, and his interests are video games and sports. I speak Spanish and a little English. Is English your first language? Where are you from? What is your phone number? Write to me soon!",
+    "Thanks, Daniela"
+   ],
+   "glossary": [
+    {
+     "en": "online",
+     "def": "connected to the internet"
+    },
+    {
+     "en": "computer science",
+     "def": "the study of computers and how they work"
+    },
+    {
+     "en": "best friend",
+     "def": "your closest friend"
+    },
+    {
+     "en": "interests",
+     "def": "things you like to do or learn about"
+    },
+    {
+     "en": "a little",
+     "def": "not much"
+    },
+    {
+     "en": "first language",
+     "def": "the language you learned as a child"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Daniela is from Monterrey.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Ella es de Guadalajara; solo estudia en Monterrey."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Paola is 21 years old.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "El texto dice: Paola isn't 22. She is 21."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What does Daniela study?",
+     "options": [
+      "Music",
+      "Computer science",
+      "Spanish"
+     ],
+     "answer": 1,
+     "explain": "I study computer science."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "When is Daniela's birthday?",
+     "options": [
+      "March 5th",
+      "October 13th",
+      "May 3rd"
+     ],
+     "answer": 1,
+     "explain": "My birthday is on October 13th. (March 5th es el de Paola.)"
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Paola is Daniela's best ___.",
+     "answers": [
+      "friend"
+     ],
+     "explain": "My best friend is Paola."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Paola's birthday is on March ___.",
+     "answers": [
+      "5th",
+      "fifth",
+      "5",
+      "the fifth"
+     ],
+     "explain": "March 5th se lee fifth."
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the hotel desk in Cancún",
+   "intro": "Listen to the conversation at a hotel front desk. You can repeat it.",
+   "lines": [
+    {
+     "who": "Receptionist",
+     "voice": "glassy",
+     "text": "Good evening. Welcome to Hotel Playa. Can I help you?"
+    },
+    {
+     "who": "Marcos",
+     "voice": "buttery",
+     "text": "Hi. I have a room for two nights. My name is Marcos Vega."
+    },
+    {
+     "who": "Receptionist",
+     "voice": "glassy",
+     "text": "Can you spell your last name, please?"
+    },
+    {
+     "who": "Marcos",
+     "voice": "buttery",
+     "text": "Sure. It's V, E, G, A."
+    },
+    {
+     "who": "Receptionist",
+     "voice": "glassy",
+     "text": "Thank you, Mr. Vega. Can I have your passport, please?"
+    },
+    {
+     "who": "Marcos",
+     "voice": "buttery",
+     "text": "Yes, here you go."
+    },
+    {
+     "who": "Receptionist",
+     "voice": "glassy",
+     "text": "Are you from Cancún?"
+    },
+    {
+     "who": "Marcos",
+     "voice": "buttery",
+     "text": "No, I'm not. I'm from Querétaro."
+    },
+    {
+     "who": "Receptionist",
+     "voice": "glassy",
+     "text": "What's your phone number?"
+    },
+    {
+     "who": "Marcos",
+     "voice": "buttery",
+     "text": "It's 555 214 0968."
+    },
+    {
+     "who": "Receptionist",
+     "voice": "glassy",
+     "text": "Thanks. You're in room 235. Here's your key. Enjoy your stay."
+    },
+    {
+     "who": "Marcos",
+     "voice": "buttery",
+     "text": "Thank you very much."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "How many nights is Marcos at the hotel?",
+     "options": [
+      "One",
+      "Two",
+      "Three"
+     ],
+     "answer": 1,
+     "explain": "I have a room for two nights."
+    },
+    {
+     "id": "L2",
+     "type": "gap",
+     "prompt": "Marcos's last name is ___.",
+     "answers": [
+      "Vega"
+     ],
+     "explain": "El recepcionista pide que lo deletree: V, E, G, A."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Where is Marcos from?",
+     "options": [
+      "Cancún",
+      "Querétaro",
+      "Mérida"
+     ],
+     "answer": 1,
+     "explain": "No, I'm not (de Cancún). I'm from Querétaro."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What does Marcos give the receptionist?",
+     "options": [
+      "His passport",
+      "His phone",
+      "His key"
+     ],
+     "answer": 0,
+     "explain": "Can I have your passport? — Yes, here you go."
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "Marcos's room number is ___.",
+     "answers": [
+      "235",
+      "two hundred thirty-five",
+      "two hundred and thirty-five",
+      "two three five"
+     ],
+     "explain": "You're in room 235."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "D7",
+     "type": "dictation",
+     "text": "Can you spell your last name, please?",
+     "answers": [
+      "Can you spell your last name, please?"
+     ],
+     "explain": "Useful question with Can you + verb."
+    },
+    {
+     "id": "D8",
+     "type": "dictation",
+     "text": "Can I have your passport, please?",
+     "answers": [
+      "Can I have your passport, please?"
+     ],
+     "explain": "Can I have… to ask for something politely."
+    },
+    {
+     "id": "D9",
+     "type": "dictation",
+     "text": "Here's your key. Enjoy your stay.",
+     "answers": [
+      "Here's your key. Enjoy your stay.",
+      "Here is your key. Enjoy your stay."
+     ],
+     "explain": "Typical phrase at a hotel front desk."
+    },
+    {
+     "id": "D10",
+     "type": "dictation",
+     "text": "My birthday is on March fifth.",
+     "answers": [
+      "My birthday is on March fifth.",
+      "My birthday is on March 5th.",
+      "My birthday is on the fifth of March.",
+      "My birthday is on the 5th of March."
+     ],
+     "explain": "Fechas con ordinales: fifth."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Introduce yourself: name, age, where you are from and when your birthday is.",
+     "questions": [
+      "What's your name?",
+      "How old are you?",
+      "Where are you from?",
+      "When is your birthday?"
+     ],
+     "model": "Hi, I'm Carlos. I'm 30 years old. I'm from Puebla, Mexico. My birthday is on June 14th.",
+     "checklist": [
+      "Use I'm / I am with name and age (I'm 30, not I have 30)",
+      "Say where you are from with I'm from…",
+      "Say the date with an ordinal (June 14th)"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "You are at a hotel front desk. Give your last name, spell it and say your phone number.",
+     "questions": [
+      "Good evening. What's your last name?",
+      "Can you spell that, please?",
+      "What's your phone number?"
+     ],
+     "model": "My last name is Hernández. H, E, R, N, A, N, D, E, Z. My phone number is 555 302 1177. Thank you.",
+     "checklist": [
+      "Answer with full sentences (My last name is…)",
+      "Spell the letters",
+      "Use please / thank you"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about your best friend: who they are, where they are from and how old they are.",
+     "questions": [
+      "Who is your best friend?",
+      "Where is he or she from?",
+      "How old is he or she?",
+      "Is he or she a student?"
+     ],
+     "model": "My best friend is Ana. She is from Lima, Peru. She is 25 years old. She isn't a student.",
+     "checklist": [
+      "Use he/she + is (the subject is required)",
+      "Age with be (She is 25)",
+      "Include a negative sentence (isn't)"
+     ]
+    }
+   ],
+   "repeat": [
+    "Nice to meet you.",
+    "Where are you from?",
+    "Can you spell that, please?",
+    "Can you speak more slowly, please?",
+    "My birthday is on May third.",
+    "What does that mean?"
+   ]
+  }
+ }
+}

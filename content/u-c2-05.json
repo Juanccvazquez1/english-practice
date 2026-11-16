@@ -1,0 +1,1996 @@
+{
+ "id": "u-c2-05",
+ "level": "C2",
+ "n": 5,
+ "title": "Writing with precision",
+ "goals": [
+  "Nominalise and condense information with the correct preposition (an increase in, demand for).",
+  "Grade the strength of your claims with advanced hedging, without stacking hedges.",
+  "Achieve cohesion through reference, connectors and information focus.",
+  "Summarise and synthesise several sources by reconstructing their arguments.",
+  "Use C2 academic vocabulary accurately (substantiate, discrepancy, ubiquitous)."
+ ],
+ "learn": [
+  {
+   "id": "g-nominalization",
+   "kind": "grammar",
+   "title": "Nominalisation: density and academic objectivity",
+   "html": "<p><strong>Nominalisation</strong> consists of turning a verb, an adjective or even a whole clause into a noun. In academic prose it performs three functions: it <strong>condenses</strong> information (an entire clause fits into a noun phrase), it <strong>depersonalises</strong> the statement (the focus shifts from people to processes) and it allows what has already been said to become the <em>starting point</em> of the next sentence (<em>This decline…</em>).</p><table><thead><tr><th>Verbal version (conversational)</th><th>Nominalised version (academic)</th></tr></thead><tbody><tr><td>Prices rose sharply, so people spent less.</td><td>The sharp rise in prices led to a reduction in consumer spending.</td></tr><tr><td>Because the committee failed to act, the crisis worsened.</td><td>The committee's failure to act exacerbated the crisis.</td></tr><tr><td>Researchers analyzed the data carefully.</td><td>A careful analysis of the data was undertaken.</td></tr><tr><td>Teachers are reluctant to change.</td><td>Teachers' reluctance to change is well documented.</td></tr></tbody></table><p><strong>Prepositions that accompany the noun</strong> (inherited from the verb or adjective, but not always the same as in Spanish): <em>an increase/decrease/rise/fall <strong>in</strong> unemployment</em> (what changes), but <em>an increase <strong>of</strong> 3%</em> (by how much); <em>demand <strong>for</strong></em>, <em>a lack <strong>of</strong></em>, <em>emphasis <strong>on</strong></em>, <em>an approach <strong>to</strong></em>, <em>reliance <strong>on</strong></em>, <em>a shift <strong>towards</strong></em>, <em>a discrepancy <strong>between</strong></em>.</p><p><strong>\"Light\" verbs</strong> that connect noun phrases: <em>lead to, result in, give rise to, account for, contribute to, stem from, be attributable to</em>. Use them instead of <em>because</em> / <em>so</em> to chain causes and effects.</p><p><strong>Caution:</strong> overusing nominalisation produces heavy prose (<em>the carrying out of the implementation of the evaluation</em>). Keep the agent visible when it matters who did what.</p>",
+   "watch": [
+    {
+     "wrong": "The analyze of the data took six months.",
+     "right": "The analysis of the data took six months.",
+     "why": "<em>Analyze</em> is the verb; the noun is <em>analysis</em>. A frequent error when building noun phrases from the base verb."
+    },
+    {
+     "wrong": "There was an increase of unemployment.",
+     "right": "There was an increase in unemployment.",
+     "why": "<em>Increase in</em> + what changes; <em>increase of</em> only introduces the quantity (an increase of 3%)."
+    },
+    {
+     "wrong": "The importance of to reduce emissions is clear.",
+     "right": "The importance of reducing emissions is clear.",
+     "why": "After a preposition comes a gerund or a noun, never an infinitive with \"to\"."
+    },
+    {
+     "wrong": "The researchers' decide surprised everyone.",
+     "right": "The researchers' decision surprised everyone.",
+     "why": "After a possessive a noun is needed (decision), not the verb."
+    }
+   ]
+  },
+  {
+   "id": "g-hedging",
+   "kind": "grammar",
+   "title": "Advanced hedging",
+   "html": "<p><strong>Hedging</strong> is the set of resources by which an author grades their commitment to what they assert. It is not weakness: in academic writing it is <em>epistemic precision</em>. Asserting more than the data allow is a methodological error; asserting less is simply prudence.</p><table><thead><tr><th>Resource</th><th>Examples</th></tr></thead><tbody><tr><td>Modal verbs</td><td>may, might, could, would, should: <em>This may reflect a broader trend.</em></td></tr><tr><td>Lexical verbs of caution</td><td>seem, appear, tend, suggest, indicate, imply: <em>The data suggest that…</em></td></tr><tr><td>Adverbs of degree/probability</td><td>arguably, presumably, conceivably, largely, somewhat, broadly</td></tr><tr><td>Approximators</td><td>roughly, in the region of, to some extent, in the main, a proportion of</td></tr><tr><td>Impersonal structures</td><td>It would appear that…; There is some evidence to suggest that…; It is conceivable that…</td></tr></tbody></table><p><strong>Patterns:</strong> <em>seem/appear + to + infinitive</em> (<em>The results seem to be reliable</em>), with a perfect infinitive for the past (<em>seems to have declined</em>); <em>It seems/appears that + clause</em>; <em>tend to + infinitive</em>; <em>a tendency for + subject + to + infinitive</em>.</p><p><strong>Two calibration principles.</strong> (1) Choose reporting verbs that match the strength of the evidence: <em>suggest</em> &lt; <em>indicate</em> &lt; <em>demonstrate</em> &lt; <em>prove</em> (the last is almost avoided outside mathematics). (2) Do not stack hedges: <em>It may possibly perhaps suggest…</em> sounds clumsy; one is enough, or two of different types (<em>It may, to some extent, reflect…</em>).</p>",
+   "watch": [
+    {
+     "wrong": "The results seem that they are reliable.",
+     "right": "The results seem to be reliable. / It seems that the results are reliable.",
+     "why": "<em>Seem</em> is built with to + infinitive, with an adjective, or with \"it seems that\"; not with \"that\" + its own subject."
+    },
+    {
+     "wrong": "This might possibly perhaps indicate a trend.",
+     "right": "This might indicate a trend.",
+     "why": "Piling up hedges is redundant and reduces credibility; one is enough."
+    },
+    {
+     "wrong": "The data prove that the drug is effective.",
+     "right": "The data suggest that the drug is effective.",
+     "why": "<em>Prove</em> expresses absolute certainty; in empirical science <em>suggest</em> or <em>indicate</em> is preferred."
+    },
+    {
+     "wrong": "There is a tendency of students to procrastinate.",
+     "right": "There is a tendency for students to procrastinate.",
+     "why": "With its own subject the structure is <em>a tendency for + subject + to</em>; <em>a tendency of</em> does not fit."
+    }
+   ]
+  },
+  {
+   "id": "g-cohesion",
+   "kind": "grammar",
+   "title": "Cohesion: reference, linking and information focus",
+   "html": "<p>A cohesive academic text guides the reader through two principles: <strong>known information first, new information at the end</strong> (<em>end-focus</em>), and an explicit system of <strong>reference and connectors</strong>.</p><table><thead><tr><th>Function</th><th>Resources</th></tr></thead><tbody><tr><td>Summarising the previous point with a noun</td><td><em>This trend / this shift / this discrepancy / such a view / these findings</em> (demonstrative + noun that labels what was said; avoid bare <em>this</em> when it could refer to several things)</td></tr><tr><td>Picking up two elements</td><td><em>the former / the latter</em> (only when there are exactly two), <em>respectively</em></td></tr><tr><td>Cause/justification</td><td>given that, in view of, owing to the fact that, inasmuch as</td></tr><tr><td>Contrast/concession</td><td>whereas, while, albeit, notwithstanding, even so, that said</td></tr><tr><td>Chained consequence</td><td>…, <strong>thereby</strong> + -ing; …, <strong>whereby</strong> + clause; hence, thus, consequently</td></tr><tr><td>Delimiting scope</td><td>insofar as, to the extent that, in so far as the data allow</td></tr></tbody></table><p><strong>Clause reduction:</strong> <em>as mentioned above</em>, <em>as shown in Table 2</em> (not <em>as it was mentioned</em>). <strong>Despite / in spite of</strong> + noun or gerund, with no <em>of</em> after <em>despite</em>. <em>Due to the fact</em> requires <em>that</em>.</p>",
+   "watch": [
+    {
+     "wrong": "Despite of the delays, the project was completed.",
+     "right": "Despite the delays, the project was completed. / In spite of the delays, …",
+     "why": "<em>Despite</em> never takes \"of\"; <em>in spite of</em> does."
+    },
+    {
+     "wrong": "Due to the fact the sample was small, the results are tentative.",
+     "right": "Due to the fact that the sample was small, the results are tentative.",
+     "why": "The phrase is <em>due to the fact that</em>; better still, simplify with <em>because</em> or <em>given that</em>."
+    },
+    {
+     "wrong": "As it was mentioned above, costs have risen.",
+     "right": "As mentioned above, costs have risen.",
+     "why": "In academic English the clause is reduced: <em>as mentioned / as noted / as discussed above</em>."
+    },
+    {
+     "wrong": "Of the three proposals, the former is the cheapest.",
+     "right": "Of the three proposals, the first is the cheapest.",
+     "why": "<em>The former / the latter</em> only work with two elements; with three or more use first, second, third."
+    }
+   ]
+  },
+  {
+   "id": "g-synthesis",
+   "kind": "grammar",
+   "title": "Summarising and synthesising several sources",
+   "html": "<p>Summarising at a mastery level is not shortening a text: it is <strong>reconstructing its argument</strong> (claim → evidence → implication) in your own words and, when synthesising several sources, <strong>putting them in conversation</strong> rather than summarising them one after another.</p><table><thead><tr><th>Stance of the cited author</th><th>Verbs</th></tr></thead><tbody><tr><td>Neutral</td><td>state, report, note, observe, describe, outline</td></tr><tr><td>Firm</td><td>argue, assert, maintain, contend, insist, hold that</td></tr><tr><td>Cautious</td><td>suggest, propose, speculate, hypothesize, tentatively conclude</td></tr><tr><td>Writer's distance</td><td>claim, purport, allege (the writer doubts the assertion)</td></tr><tr><td>Established fact</td><td>demonstrate, establish, reveal, show</td></tr></tbody></table><p><strong>Synthesis structures:</strong> <em>While Reyes (2021) contends that…, Lund (2022) found no such effect</em>; <em>Both studies concur that…, but diverge on…</em>; <em>By contrast, …</em>; <em>Taken together, these studies suggest…</em>; <em>Collectively, the literature points to…</em>. To open a summary: <em>The article sets out to examine…; The central argument is that…</em>. Reporting verbs go in the <strong>simple present</strong> (<em>Smith argues</em>) or the present perfect when current relevance matters.</p><p><strong>Your own stance:</strong> <em>In my view / In my opinion</em> (never <em>according to me</em>); <em>According to X</em> is reserved for other people's sources. Avoid literal copying: change the syntactic structure, not just the synonyms.</p>",
+   "watch": [
+    {
+     "wrong": "According to me, the policy has failed.",
+     "right": "In my view, the policy has failed.",
+     "why": "<em>According to</em> attributes a view to another source; for your own stance: <em>in my view / in my opinion</em>."
+    },
+    {
+     "wrong": "Both authors agree in that funding is inadequate.",
+     "right": "Both authors agree that funding is inadequate.",
+     "why": "<em>Agree that</em> + clause; \"in that\" is not used as the Spanish \"en que\" would be."
+    },
+    {
+     "wrong": "The report emphasizes on the need for transparency.",
+     "right": "The report emphasizes the need for transparency.",
+     "why": "<em>Emphasize / stress / underline</em> are transitive; <em>emphasis on</em> does take \"on\" (noun)."
+    },
+    {
+     "wrong": "The author demonstrates that maybe the effect exists.",
+     "right": "The author suggests that the effect may exist.",
+     "why": "<em>Demonstrate</em> is factive (it presents something as proven); with an uncertain conclusion use <em>suggest</em>."
+    }
+   ]
+  },
+  {
+   "id": "v-acad-verbs",
+   "kind": "vocab",
+   "title": "Academic verbs (verbs of argument and analysis)",
+   "words": [
+    {
+     "id": "w-substantiate",
+     "en": "substantiate",
+     "es": "fundamentar, probar con evidencia",
+     "example": "The authors fail to substantiate their claim with reliable data."
+    },
+    {
+     "id": "w-corroborate",
+     "en": "corroborate",
+     "es": "corroborar, confirmar con otra fuente",
+     "example": "Independent witnesses corroborated her version of events."
+    },
+    {
+     "id": "w-undermine",
+     "en": "undermine",
+     "es": "socavar, minar",
+     "example": "Repeated errors undermined public confidence in the study.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-underpin",
+     "en": "underpin",
+     "es": "sustentar, ser la base de",
+     "example": "Three assumptions underpin the entire model."
+    },
+    {
+     "id": "w-delineate",
+     "en": "delineate",
+     "es": "delinear, describir con precisión",
+     "example": "The report delineates the responsibilities of each department."
+    },
+    {
+     "id": "w-elucidate",
+     "en": "elucidate",
+     "es": "esclarecer, aclarar",
+     "example": "Further research is needed to elucidate the mechanism."
+    },
+    {
+     "id": "w-exacerbate",
+     "en": "exacerbate",
+     "es": "agravar, exacerbar",
+     "example": "Rising rents have exacerbated the housing shortage."
+    },
+    {
+     "id": "w-posit",
+     "en": "posit",
+     "es": "postular, plantear como hipótesis",
+     "example": "She posits that language shapes how we perceive colour."
+    },
+    {
+     "id": "w-refute",
+     "en": "refute",
+     "es": "refutar, rebatir con pruebas",
+     "example": "The new evidence refutes the earlier theory."
+    },
+    {
+     "id": "w-allude",
+     "en": "allude to",
+     "es": "aludir a, hacer referencia indirecta a",
+     "example": "The author alludes to earlier work without naming it."
+    },
+    {
+     "id": "w-circumvent",
+     "en": "circumvent",
+     "es": "eludir, sortear (reglas, obstáculos)",
+     "example": "Some firms circumvent the regulations by relocating abroad."
+    },
+    {
+     "id": "w-perpetuate",
+     "en": "perpetuate",
+     "es": "perpetuar",
+     "example": "Such stereotypes perpetuate existing inequalities."
+    },
+    {
+     "id": "w-encompass",
+     "en": "encompass",
+     "es": "abarcar, englobar",
+     "example": "The term 'sustainability' encompasses economic and social concerns.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-ascertain",
+     "en": "ascertain",
+     "es": "determinar, averiguar con certeza",
+     "example": "The commission is trying to ascertain the cause of the fire."
+    },
+    {
+     "id": "w-preclude",
+     "en": "preclude",
+     "es": "impedir, excluir (la posibilidad de)",
+     "example": "Strict rules preclude small firms from entering the market."
+    }
+   ]
+  },
+  {
+   "id": "v-acad-nouns",
+   "kind": "vocab",
+   "title": "Academic nouns and adjectives",
+   "words": [
+    {
+     "id": "w-discrepancy",
+     "en": "discrepancy",
+     "es": "discrepancia",
+     "example": "There is a marked discrepancy between the official figures and the survey."
+    },
+    {
+     "id": "w-paradigm",
+     "en": "paradigm",
+     "es": "paradigma, modelo teórico",
+     "example": "The discovery challenged the dominant paradigm in physics."
+    },
+    {
+     "id": "w-caveat",
+     "en": "caveat",
+     "es": "salvedad, advertencia",
+     "example": "One important caveat: the sample came from a single city."
+    },
+    {
+     "id": "w-corollary",
+     "en": "corollary",
+     "es": "corolario, consecuencia natural",
+     "example": "A corollary of this view is that markets can regulate themselves."
+    },
+    {
+     "id": "w-impetus",
+     "en": "impetus",
+     "es": "impulso, estímulo",
+     "example": "The scandal gave fresh impetus to calls for reform."
+    },
+    {
+     "id": "w-rationale",
+     "en": "rationale",
+     "es": "razón de ser, fundamento lógico",
+     "example": "The rationale behind the reform was to reduce costs."
+    },
+    {
+     "id": "w-proliferation",
+     "en": "proliferation",
+     "es": "proliferación",
+     "example": "The proliferation of fake accounts has made fact-checking essential."
+    },
+    {
+     "id": "w-ramification",
+     "en": "ramification",
+     "es": "ramificación, consecuencia (a menudo compleja)",
+     "example": "The ramifications of the ruling extend well beyond this case."
+    },
+    {
+     "id": "w-anomaly",
+     "en": "anomaly",
+     "es": "anomalía",
+     "example": "One anomaly in the data was later traced to a faulty sensor."
+    },
+    {
+     "id": "w-nuance",
+     "en": "nuance",
+     "es": "matiz",
+     "example": "The translation loses the nuance of the original."
+    },
+    {
+     "id": "w-ubiquitous",
+     "en": "ubiquitous",
+     "es": "omnipresente, ubicuo",
+     "example": "Smartphones are now ubiquitous."
+    },
+    {
+     "id": "w-pervasive",
+     "en": "pervasive",
+     "es": "generalizado, que impregna todo",
+     "example": "A pervasive sense of distrust affected the whole institution."
+    },
+    {
+     "id": "w-tenuous",
+     "en": "tenuous",
+     "es": "tenue, endeble",
+     "example": "The link between the two events is tenuous at best."
+    },
+    {
+     "id": "w-cogent",
+     "en": "cogent",
+     "es": "convincente, bien fundamentado",
+     "example": "She presented a cogent argument for reform."
+    },
+    {
+     "id": "w-inherent",
+     "en": "inherent",
+     "es": "inherente",
+     "example": "Some risk is inherent in any investment.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-conducive",
+     "en": "conducive (to)",
+     "es": "propicio (para)",
+     "example": "A quiet environment is conducive to concentration."
+    },
+    {
+     "id": "w-contentious",
+     "en": "contentious",
+     "es": "polémico, controvertido",
+     "example": "Immigration remains a highly contentious issue."
+    },
+    {
+     "id": "w-negligible",
+     "en": "negligible",
+     "es": "insignificante, despreciable",
+     "example": "The effect on overall costs was negligible."
+    }
+   ]
+  },
+  {
+   "id": "e-signposting",
+   "kind": "expressions",
+   "title": "Signposting and synthesis language",
+   "html": "<p><strong>Opening and delimiting:</strong> <em>This paper sets out to… / The central argument is that… / The scope of this study is limited to…</em></p><p><strong>Qualifying a finding:</strong> <em>The findings are broadly consistent with… / To some extent, … / This is not to say that… / It would be premature to conclude that…</em></p><p><strong>Acknowledging limits:</strong> <em>One important caveat is… / These results should be interpreted with caution, given that… / A limitation of this approach is…</em></p><p><strong>Putting sources in dialogue:</strong> <em>While X contends…, Y maintains… / Both accounts concur that…, yet they diverge on… / Taken together, these studies suggest…</em></p><p><strong>Distinguishing and relating:</strong> <em>draw a distinction between… / shed light on… / lend support to… / give rise to… / take into account… / bear out the claim that…</em></p><p><strong>Concluding with restraint:</strong> <em>In the light of the above, … / On balance, … / Further research would be needed to establish whether…</em></p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Nominalisation",
+   "instructions": "Complete, choose or correct to achieve a dense and correct academic style.",
+   "topic": "g-nominalization",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "Prices rose sharply, which led to a reduction in spending. = The sharp ___ in prices led to a reduction in spending.",
+     "answers": [
+      "rise",
+      "increase"
+     ],
+     "explain": "Verb rose → noun rise / increase, followed by \"in prices\"."
+    },
+    {
+     "id": "A2",
+     "type": "choice",
+     "prompt": "Because the committee failed to act, the crisis worsened. = The committee's ___ to act worsened the crisis.",
+     "options": [
+      "failure",
+      "fail",
+      "failing"
+     ],
+     "answer": 0,
+     "explain": "After a possessive a noun is needed: failure."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "The researchers analyzed the samples carefully. = A careful ___ of the samples was carried out.",
+     "answers": [
+      "analysis"
+     ],
+     "explain": "The noun from analyze is analysis (plural analyses)."
+    },
+    {
+     "id": "A4",
+     "type": "fix",
+     "prompt": "There has been a significant increase of unemployment among graduates.",
+     "answers": [
+      "There has been a significant increase in unemployment among graduates."
+     ],
+     "explain": "Increase in + what changes; \"of\" only introduces the quantity."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "There is growing demand ___ affordable housing.",
+     "options": [
+      "for",
+      "of",
+      "to"
+     ],
+     "answer": 0,
+     "explain": "Demand for: the noun keeps the preposition \"for\"."
+    },
+    {
+     "id": "A6",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "expansion",
+      "the",
+      "of",
+      "network",
+      "the",
+      "led",
+      "to",
+      "improved",
+      "access"
+     ],
+     "answers": [
+      "The expansion of the network led to improved access."
+     ],
+     "explain": "Subject noun phrase (expansion of the network) + light verb \"led to\" + noun phrase."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "Teachers are reluctant to change. = Teachers' ___ to change is well documented.",
+     "answers": [
+      "reluctance"
+     ],
+     "explain": "Adjective reluctant → noun reluctance."
+    },
+    {
+     "id": "A8",
+     "type": "choice",
+     "prompt": "Which version is most typical of nominalised academic style?",
+     "options": [
+      "Because people spent less, firms sold fewer goods.",
+      "The reduction in consumer spending resulted in lower sales.",
+      "People spent less so firms sold less."
+     ],
+     "answer": 1,
+     "explain": "Nominalisation condenses clauses into noun phrases linked by a light verb (resulted in)."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Advanced hedging",
+   "instructions": "Choose or complete to calibrate the strength of the claim.",
+   "topic": "g-hedging",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "The findings ___ that sleep affects memory, though more research is needed.",
+     "options": [
+      "prove",
+      "suggest",
+      "guarantee"
+     ],
+     "answer": 1,
+     "explain": "With evidence that is still provisional, use \"suggest\"; \"prove\" would be too absolute."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "It would ___ that the early estimates were too optimistic.",
+     "answers": [
+      "appear",
+      "seem"
+     ],
+     "explain": "\"It would appear/seem that…\": an impersonal structure of caution."
+    },
+    {
+     "id": "B3",
+     "type": "fix",
+     "prompt": "The results seem that they are reliable.",
+     "answers": [
+      "The results seem to be reliable.",
+      "It seems that the results are reliable.",
+      "The results seem reliable."
+     ],
+     "explain": "Seem + to + infinitive, + adjective, or \"it seems that\" + clause."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "Social media ___ anxiety in some adolescents.",
+     "options": [
+      "causes",
+      "may contribute to",
+      "will certainly produce"
+     ],
+     "answer": 1,
+     "explain": "\"May contribute to\" softens the causality and limits the scope (some adolescents)."
+    },
+    {
+     "id": "B5",
+     "type": "gap",
+     "prompt": "There is a tendency ___ students to underestimate the time a task requires.",
+     "answers": [
+      "for"
+     ],
+     "explain": "A tendency for + subject + to + infinitive."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "This might possibly perhaps indicate a wider problem.",
+     "answers": [
+      "This might indicate a wider problem.",
+      "This may indicate a wider problem.",
+      "This could indicate a wider problem.",
+      "Perhaps this indicates a wider problem.",
+      "This possibly indicates a wider problem."
+     ],
+     "explain": "A single hedge is enough; stacking them sounds clumsy."
+    },
+    {
+     "id": "B7",
+     "type": "choice",
+     "prompt": "The new policy has ___ reduced waiting times, although the data are incomplete.",
+     "options": [
+      "undoubtedly",
+      "arguably",
+      "indisputably"
+     ],
+     "answer": 1,
+     "explain": "\"Arguably\" marks a defensible but not indisputable claim; the other two express certainty."
+    },
+    {
+     "id": "B8",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "to",
+      "a",
+      "large",
+      "extent",
+      "the",
+      "results",
+      "support",
+      "the",
+      "hypothesis"
+     ],
+     "answers": [
+      "To a large extent, the results support the hypothesis."
+     ],
+     "explain": "\"To a large extent\" works as an approximator at the start of the sentence."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Cohesion and connectors",
+   "instructions": "Choose, complete or correct to achieve academic cohesion.",
+   "topic": "g-cohesion",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "Two options were considered: remote work and a four-day week. Of the two, the ___ proved cheaper.",
+     "options": [
+      "latter",
+      "later",
+      "last"
+     ],
+     "answer": 0,
+     "explain": "\"The latter\" picks up the second of two elements (a four-day week)."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "___ that the sample was small, the conclusions should be treated with caution.",
+     "answers": [
+      "given",
+      "considering",
+      "seeing"
+     ],
+     "explain": "Given that + clause introduces the justification."
+    },
+    {
+     "id": "C3",
+     "type": "fix",
+     "prompt": "Due to the fact the sample was small, the results are tentative.",
+     "answers": [
+      "Due to the fact that the sample was small, the results are tentative.",
+      "Owing to the fact that the sample was small, the results are tentative.",
+      "Because the sample was small, the results are tentative.",
+      "Given that the sample was small, the results are tentative."
+     ],
+     "explain": "\"Due to the fact\" requires \"that\"; or simplify with \"because\" / \"given that\"."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "The government cut subsidies, ___ widening the gap between rural and urban incomes.",
+     "options": [
+      "thereby",
+      "whereas",
+      "however"
+     ],
+     "answer": 0,
+     "explain": "\"Thereby\" + -ing expresses a result derived from the previous action."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "The first and second studies involved 40 and 400 participants, ___.",
+     "answers": [
+      "respectively"
+     ],
+     "explain": "\"Respectively\" links the elements in the same order."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "Despite of the delays, the project was completed on schedule.",
+     "answers": [
+      "Despite the delays, the project was completed on schedule.",
+      "In spite of the delays, the project was completed on schedule."
+     ],
+     "explain": "\"Despite\" takes no \"of\"; \"in spite of\" does."
+    },
+    {
+     "id": "C7",
+     "type": "choice",
+     "prompt": "Profits fell by 20% last year. ___ decline prompted a full review.",
+     "options": [
+      "This",
+      "Which",
+      "Them"
+     ],
+     "answer": 0,
+     "explain": "Demonstrative + noun that labels what was said (this decline)."
+    },
+    {
+     "id": "C8",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "insofar",
+      "as",
+      "the",
+      "data",
+      "allow",
+      "the",
+      "trend",
+      "appears",
+      "stable"
+     ],
+     "answers": [
+      "Insofar as the data allow, the trend appears stable."
+     ],
+     "explain": "\"Insofar as\" delimits the scope of the claim."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Summarising and synthesising",
+   "instructions": "Choose or correct to report sources accurately.",
+   "topic": "g-synthesis",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "According to Reyes (2021), remote work boosts productivity. ___, Lund (2022) found no such effect.",
+     "options": [
+      "By contrast",
+      "Likewise",
+      "As a result"
+     ],
+     "answer": 0,
+     "explain": "\"By contrast\" marks a contrast between two sources."
+    },
+    {
+     "id": "D2",
+     "type": "fix",
+     "prompt": "According to me, the policy has failed.",
+     "answers": [
+      "In my view, the policy has failed.",
+      "In my opinion, the policy has failed."
+     ],
+     "explain": "Your own stance: \"in my view\" / \"in my opinion\"."
+    },
+    {
+     "id": "D3",
+     "type": "fix",
+     "prompt": "Both authors agree in that funding is inadequate.",
+     "answers": [
+      "Both authors agree that funding is inadequate.",
+      "Both authors concur that funding is inadequate."
+     ],
+     "explain": "\"Agree that\" + clause."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "The company ___ that its product is harmless, but independent tests disagree.",
+     "options": [
+      "demonstrates",
+      "claims",
+      "establishes"
+     ],
+     "answer": 1,
+     "explain": "\"Claim\" distances the writer from the assertion; \"demonstrate\" and \"establish\" present it as true."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "While Park argues that wages are the main factor, Okoye ___ that housing costs matter more.",
+     "options": [
+      "maintains",
+      "denies",
+      "wonders"
+     ],
+     "answer": 0,
+     "explain": "\"Maintains\": a firm stance verb, suitable for contrasting authors."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "The report emphasizes on the need for transparency.",
+     "answers": [
+      "The report emphasizes the need for transparency.",
+      "The report stresses the need for transparency.",
+      "The report underlines the need for transparency.",
+      "The report highlights the need for transparency."
+     ],
+     "explain": "\"Emphasize\" is transitive: no \"on\"."
+    },
+    {
+     "id": "D7",
+     "type": "choice",
+     "prompt": "Which is the best opening for an academic summary?",
+     "options": [
+      "The article sets out to examine why…",
+      "I want to tell you what the article says about…",
+      "In the article there is a topic that…"
+     ],
+     "answer": 0,
+     "explain": "\"The article sets out to…\" is the standard opening format for a summary."
+    },
+    {
+     "id": "D8",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "taken",
+      "together",
+      "these",
+      "studies",
+      "suggest",
+      "a",
+      "modest",
+      "effect"
+     ],
+     "answers": [
+      "Taken together, these studies suggest a modest effect."
+     ],
+     "explain": "\"Taken together\" synthesises several sources; \"suggest\" moderates the conclusion."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Academic verbs",
+   "instructions": "Choose, complete or correct with the precise verb.",
+   "topic": "v-acad-verbs",
+   "items": [
+    {
+     "id": "E1",
+     "type": "choice",
+     "prompt": "The leaked emails ___ the minister's account, since they contradict it.",
+     "options": [
+      "undermine",
+      "corroborate",
+      "underpin"
+     ],
+     "answer": 0,
+     "explain": "Undermine = to weaken; \"corroborate\" would confirm her account."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "Independent witnesses ___ her version of events, confirming every detail. (corroborate)",
+     "answers": [
+      "corroborated"
+     ],
+     "explain": "Corroborate = to confirm with another source (past)."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "The author ___ to earlier work without naming it.",
+     "options": [
+      "alludes",
+      "refutes",
+      "ascertains"
+     ],
+     "answer": 0,
+     "explain": "Allude to = to refer indirectly."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "Rising rents have ___ the housing shortage. (exacerbate)",
+     "answers": [
+      "exacerbated"
+     ],
+     "explain": "Exacerbate = to worsen (present perfect)."
+    },
+    {
+     "id": "E5",
+     "type": "fix",
+     "prompt": "The commission will ascertain to the cause of the fire.",
+     "answers": [
+      "The commission will ascertain the cause of the fire."
+     ],
+     "explain": "Ascertain is transitive: no \"to\"."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "The term 'sustainability' ___ economic, social and environmental concerns.",
+     "options": [
+      "encompasses",
+      "precludes",
+      "circumvents"
+     ],
+     "answer": 0,
+     "explain": "Encompass = to include, to cover."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "Strict regulations ___ small firms from entering the market.",
+     "answers": [
+      "preclude",
+      "prevent",
+      "bar",
+      "deter"
+     ],
+     "explain": "Preclude somebody from -ing: to prevent someone from doing something."
+    },
+    {
+     "id": "E8",
+     "type": "choice",
+     "prompt": "Critics accuse the company of trying to ___ safety rules.",
+     "options": [
+      "circumvent",
+      "elucidate",
+      "delineate"
+     ],
+     "answer": 0,
+     "explain": "Circumvent = to get around a rule without openly breaking it."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Academic nouns and adjectives",
+   "instructions": "Choose, complete or correct.",
+   "topic": "v-acad-nouns",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "There is a marked ___ between the official figures and those collected by the NGO.",
+     "options": [
+      "discrepancy",
+      "impetus",
+      "paradigm"
+     ],
+     "answer": 0,
+     "explain": "Discrepancy between X and Y = a gap between the two."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "Smartphones are now ___: you will find them in almost every pocket in the world.",
+     "answers": [
+      "ubiquitous",
+      "pervasive"
+     ],
+     "explain": "Ubiquitous = present everywhere."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "The link between the two events is ___, so we should not rely on it.",
+     "options": [
+      "tenuous",
+      "cogent",
+      "inherent"
+     ],
+     "answer": 0,
+     "explain": "Tenuous = weak, flimsy."
+    },
+    {
+     "id": "F4",
+     "type": "fix",
+     "prompt": "The proliferation of fake accounts have made fact-checking essential.",
+     "answers": [
+      "The proliferation of fake accounts has made fact-checking essential."
+     ],
+     "explain": "The subject's head noun is \"proliferation\" (singular): has made."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "The scandal gave fresh ___ to calls for reform.",
+     "answers": [
+      "impetus"
+     ],
+     "explain": "Give impetus to = to give momentum to."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "A quiet environment is ___ to concentration.",
+     "options": [
+      "conducive",
+      "contentious",
+      "negligible"
+     ],
+     "answer": 0,
+     "explain": "Conducive to = favourable to."
+    },
+    {
+     "id": "F7",
+     "type": "choice",
+     "prompt": "The ___ behind the reform was to reduce costs.",
+     "options": [
+      "rationale",
+      "anomaly",
+      "caveat"
+     ],
+     "answer": 0,
+     "explain": "Rationale = the reason behind something, the justification."
+    },
+    {
+     "id": "F8",
+     "type": "gap",
+     "prompt": "There is one important ___ to these findings: the sample was drawn from a single city.",
+     "answers": [
+      "caveat"
+     ],
+     "explain": "Caveat = a qualification or warning."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put in order",
+   "instructions": "Put the words in order.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "the",
+      "decision",
+      "to",
+      "withdraw",
+      "was",
+      "taken",
+      "without",
+      "consultation"
+     ],
+     "answers": [
+      "The decision to withdraw was taken without consultation."
+     ],
+     "explain": "Noun phrase subject + passive."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "it",
+      "would",
+      "appear",
+      "that",
+      "the",
+      "figures",
+      "were",
+      "overstated"
+     ],
+     "answers": [
+      "It would appear that the figures were overstated."
+     ],
+     "explain": "Impersonal hedging structure."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "there",
+      "is",
+      "some",
+      "evidence",
+      "to",
+      "suggest",
+      "that",
+      "sleep",
+      "aids",
+      "memory"
+     ],
+     "answers": [
+      "There is some evidence to suggest that sleep aids memory."
+     ],
+     "explain": "\"There is some evidence to suggest that…\" softens the claim."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "the",
+      "former",
+      "argues",
+      "for",
+      "reform",
+      "whereas",
+      "the",
+      "latter",
+      "favours",
+      "stability"
+     ],
+     "answers": [
+      "The former argues for reform, whereas the latter favours stability."
+     ],
+     "explain": "\"The former / the latter\" with two elements; \"whereas\" contrasts."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "given",
+      "the",
+      "scale",
+      "of",
+      "the",
+      "problem",
+      "no",
+      "single",
+      "solution",
+      "is",
+      "sufficient"
+     ],
+     "answers": [
+      "Given the scale of the problem, no single solution is sufficient."
+     ],
+     "explain": "\"Given\" + noun phrase introduces the justification."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "a",
+      "rise",
+      "in",
+      "interest",
+      "rates",
+      "may",
+      "well",
+      "curb",
+      "inflation"
+     ],
+     "answers": [
+      "A rise in interest rates may well curb inflation."
+     ],
+     "explain": "\"May well\" = it is very possible that."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate",
+   "instructions": "Translate into English with the style and precision of an academic text.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Los resultados parecen indicar que el método es fiable.",
+     "answers": [
+      "The results seem to indicate that the method is reliable.",
+      "The results seem to indicate that the method is dependable.",
+      "The results appear to indicate that the method is reliable.",
+      "The results appear to indicate that the method is dependable.",
+      "The findings seem to indicate that the method is reliable.",
+      "The findings seem to indicate that the method is dependable.",
+      "The findings appear to indicate that the method is reliable.",
+      "The findings appear to indicate that the method is dependable."
+     ],
+     "explain": "Seem/appear to + infinitive; \"indicate\" grades the claim."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Hay una discrepancia considerable entre ambos conjuntos de datos.",
+     "answers": [
+      "There is a considerable discrepancy between the two sets of data.",
+      "There is a considerable discrepancy between the two data sets.",
+      "There is a considerable discrepancy between the two datasets.",
+      "There is a considerable discrepancy between the two sets of figures.",
+      "There is a significant discrepancy between the two sets of data.",
+      "There is a significant discrepancy between the two data sets.",
+      "There is a significant discrepancy between the two datasets.",
+      "There is a significant discrepancy between the two sets of figures.",
+      "There is a substantial discrepancy between the two sets of data.",
+      "There is a substantial discrepancy between the two data sets.",
+      "There is a substantial discrepancy between the two datasets.",
+      "There is a substantial discrepancy between the two sets of figures.",
+      "There is a marked discrepancy between the two sets of data.",
+      "There is a marked discrepancy between the two data sets.",
+      "There is a marked discrepancy between the two datasets.",
+      "There is a marked discrepancy between the two sets of figures."
+     ],
+     "explain": "Discrepancy between X and Y."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "El aumento del desempleo se debió, en gran medida, a la falta de inversión.",
+     "answers": [
+      "The rise in unemployment was largely due to a lack of investment.",
+      "The rise in unemployment was largely attributable to a lack of investment.",
+      "The rise in unemployment was largely the result of a lack of investment.",
+      "The rise in unemployment was mainly due to a lack of investment.",
+      "The rise in unemployment was mainly attributable to a lack of investment.",
+      "The rise in unemployment was mainly the result of a lack of investment.",
+      "The rise in unemployment was in large part due to a lack of investment.",
+      "The rise in unemployment was in large part attributable to a lack of investment.",
+      "The rise in unemployment was in large part the result of a lack of investment.",
+      "The rise in unemployment was to a large extent due to a lack of investment.",
+      "The rise in unemployment was to a large extent attributable to a lack of investment.",
+      "The rise in unemployment was to a large extent the result of a lack of investment.",
+      "The increase in unemployment was largely due to a lack of investment.",
+      "The increase in unemployment was largely attributable to a lack of investment.",
+      "The increase in unemployment was largely the result of a lack of investment.",
+      "The increase in unemployment was mainly due to a lack of investment.",
+      "The increase in unemployment was mainly attributable to a lack of investment.",
+      "The increase in unemployment was mainly the result of a lack of investment.",
+      "The increase in unemployment was in large part due to a lack of investment.",
+      "The increase in unemployment was in large part attributable to a lack of investment.",
+      "The increase in unemployment was in large part the result of a lack of investment.",
+      "The increase in unemployment was to a large extent due to a lack of investment.",
+      "The increase in unemployment was to a large extent attributable to a lack of investment.",
+      "The increase in unemployment was to a large extent the result of a lack of investment.",
+      "The rise in unemployment was largely due to insufficient investment.",
+      "The rise in unemployment was largely attributable to insufficient investment.",
+      "The rise in unemployment was largely the result of insufficient investment.",
+      "The rise in unemployment was mainly due to insufficient investment.",
+      "The rise in unemployment was mainly attributable to insufficient investment.",
+      "The rise in unemployment was mainly the result of insufficient investment.",
+      "The rise in unemployment was in large part due to insufficient investment.",
+      "The rise in unemployment was in large part attributable to insufficient investment.",
+      "The rise in unemployment was in large part the result of insufficient investment.",
+      "The rise in unemployment was to a large extent due to insufficient investment.",
+      "The rise in unemployment was to a large extent attributable to insufficient investment.",
+      "The rise in unemployment was to a large extent the result of insufficient investment.",
+      "The increase in unemployment was largely due to insufficient investment.",
+      "The increase in unemployment was largely attributable to insufficient investment.",
+      "The increase in unemployment was largely the result of insufficient investment.",
+      "The increase in unemployment was mainly due to insufficient investment.",
+      "The increase in unemployment was mainly attributable to insufficient investment.",
+      "The increase in unemployment was mainly the result of insufficient investment.",
+      "The increase in unemployment was in large part due to insufficient investment.",
+      "The increase in unemployment was in large part attributable to insufficient investment.",
+      "The increase in unemployment was in large part the result of insufficient investment.",
+      "The increase in unemployment was to a large extent due to insufficient investment.",
+      "The increase in unemployment was to a large extent attributable to insufficient investment.",
+      "The increase in unemployment was to a large extent the result of insufficient investment."
+     ],
+     "explain": "Rise in + noun; a lack of + noun."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Aunque el estudio es pequeño, sus conclusiones podrían ser pertinentes.",
+     "answers": [
+      "Although the study is small, its conclusions could be relevant.",
+      "Although the study is small, its conclusions could be pertinent.",
+      "Although the study is small, its conclusions may be relevant.",
+      "Although the study is small, its conclusions may be pertinent.",
+      "Although the study is small, its conclusions might be relevant.",
+      "Although the study is small, its conclusions might be pertinent.",
+      "Although the study is small, its findings could be relevant.",
+      "Although the study is small, its findings could be pertinent.",
+      "Although the study is small, its findings may be relevant.",
+      "Although the study is small, its findings may be pertinent.",
+      "Although the study is small, its findings might be relevant.",
+      "Although the study is small, its findings might be pertinent.",
+      "While the study is small, its conclusions could be relevant.",
+      "While the study is small, its conclusions could be pertinent.",
+      "While the study is small, its conclusions may be relevant.",
+      "While the study is small, its conclusions may be pertinent.",
+      "While the study is small, its conclusions might be relevant.",
+      "While the study is small, its conclusions might be pertinent.",
+      "While the study is small, its findings could be relevant.",
+      "While the study is small, its findings could be pertinent.",
+      "While the study is small, its findings may be relevant.",
+      "While the study is small, its findings may be pertinent.",
+      "While the study is small, its findings might be relevant.",
+      "While the study is small, its findings might be pertinent.",
+      "Though the study is small, its conclusions could be relevant.",
+      "Though the study is small, its conclusions could be pertinent.",
+      "Though the study is small, its conclusions may be relevant.",
+      "Though the study is small, its conclusions may be pertinent.",
+      "Though the study is small, its conclusions might be relevant.",
+      "Though the study is small, its conclusions might be pertinent.",
+      "Though the study is small, its findings could be relevant.",
+      "Though the study is small, its findings could be pertinent.",
+      "Though the study is small, its findings may be relevant.",
+      "Though the study is small, its findings may be pertinent.",
+      "Though the study is small, its findings might be relevant.",
+      "Though the study is small, its findings might be pertinent."
+     ],
+     "explain": "A modal of possibility as a hedge."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Según los autores, la medida no resolvería el problema de fondo.",
+     "answers": [
+      "According to the authors, the measure would not resolve the underlying problem.",
+      "According to the authors, the measure would not resolve the underlying issue.",
+      "According to the authors, the measure would not resolve the fundamental problem.",
+      "According to the authors, the measure would not resolve the fundamental issue.",
+      "According to the authors, the measure would not resolve the root problem.",
+      "According to the authors, the measure would not resolve the root issue.",
+      "According to the authors, the measure would not solve the underlying problem.",
+      "According to the authors, the measure would not solve the underlying issue.",
+      "According to the authors, the measure would not solve the fundamental problem.",
+      "According to the authors, the measure would not solve the fundamental issue.",
+      "According to the authors, the measure would not solve the root problem.",
+      "According to the authors, the measure would not solve the root issue.",
+      "According to the authors, the measure would not address the underlying problem.",
+      "According to the authors, the measure would not address the underlying issue.",
+      "According to the authors, the measure would not address the fundamental problem.",
+      "According to the authors, the measure would not address the fundamental issue.",
+      "According to the authors, the measure would not address the root problem.",
+      "According to the authors, the measure would not address the root issue.",
+      "According to the authors, the measure wouldn't resolve the underlying problem.",
+      "According to the authors, the measure wouldn't resolve the underlying issue.",
+      "According to the authors, the measure wouldn't resolve the fundamental problem.",
+      "According to the authors, the measure wouldn't resolve the fundamental issue.",
+      "According to the authors, the measure wouldn't resolve the root problem.",
+      "According to the authors, the measure wouldn't resolve the root issue.",
+      "According to the authors, the measure wouldn't solve the underlying problem.",
+      "According to the authors, the measure wouldn't solve the underlying issue.",
+      "According to the authors, the measure wouldn't solve the fundamental problem.",
+      "According to the authors, the measure wouldn't solve the fundamental issue.",
+      "According to the authors, the measure wouldn't solve the root problem.",
+      "According to the authors, the measure wouldn't solve the root issue.",
+      "According to the authors, the measure wouldn't address the underlying problem.",
+      "According to the authors, the measure wouldn't address the underlying issue.",
+      "According to the authors, the measure wouldn't address the fundamental problem.",
+      "According to the authors, the measure wouldn't address the fundamental issue.",
+      "According to the authors, the measure wouldn't address the root problem.",
+      "According to the authors, the measure wouldn't address the root issue.",
+      "According to the authors, the policy would not resolve the underlying problem.",
+      "According to the authors, the policy would not resolve the underlying issue.",
+      "According to the authors, the policy would not resolve the fundamental problem.",
+      "According to the authors, the policy would not resolve the fundamental issue.",
+      "According to the authors, the policy would not resolve the root problem.",
+      "According to the authors, the policy would not resolve the root issue.",
+      "According to the authors, the policy would not solve the underlying problem.",
+      "According to the authors, the policy would not solve the underlying issue.",
+      "According to the authors, the policy would not solve the fundamental problem.",
+      "According to the authors, the policy would not solve the fundamental issue.",
+      "According to the authors, the policy would not solve the root problem.",
+      "According to the authors, the policy would not solve the root issue.",
+      "According to the authors, the policy would not address the underlying problem.",
+      "According to the authors, the policy would not address the underlying issue.",
+      "According to the authors, the policy would not address the fundamental problem.",
+      "According to the authors, the policy would not address the fundamental issue.",
+      "According to the authors, the policy would not address the root problem.",
+      "According to the authors, the policy would not address the root issue.",
+      "According to the authors, the policy wouldn't resolve the underlying problem.",
+      "According to the authors, the policy wouldn't resolve the underlying issue.",
+      "According to the authors, the policy wouldn't resolve the fundamental problem.",
+      "According to the authors, the policy wouldn't resolve the fundamental issue.",
+      "According to the authors, the policy wouldn't resolve the root problem.",
+      "According to the authors, the policy wouldn't resolve the root issue.",
+      "According to the authors, the policy wouldn't solve the underlying problem.",
+      "According to the authors, the policy wouldn't solve the underlying issue.",
+      "According to the authors, the policy wouldn't solve the fundamental problem.",
+      "According to the authors, the policy wouldn't solve the fundamental issue.",
+      "According to the authors, the policy wouldn't solve the root problem.",
+      "According to the authors, the policy wouldn't solve the root issue.",
+      "According to the authors, the policy wouldn't address the underlying problem.",
+      "According to the authors, the policy wouldn't address the underlying issue.",
+      "According to the authors, the policy wouldn't address the fundamental problem.",
+      "According to the authors, the policy wouldn't address the fundamental issue.",
+      "According to the authors, the policy wouldn't address the root problem.",
+      "According to the authors, the policy wouldn't address the root issue."
+     ],
+     "explain": "According to + source; \"would\" for a hypothesis."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Dado que los datos son incompletos, cualquier conclusión debe tomarse con cautela.",
+     "answers": [
+      "Given that the data are incomplete, any conclusion must be treated with caution.",
+      "Given that the data are incomplete, any conclusion must be taken with caution.",
+      "Given that the data are incomplete, any conclusion must be approached with caution.",
+      "Given that the data are incomplete, any conclusion should be treated with caution.",
+      "Given that the data are incomplete, any conclusion should be taken with caution.",
+      "Given that the data are incomplete, any conclusion should be approached with caution.",
+      "Given that the data are incomplete, any conclusion has to be treated with caution.",
+      "Given that the data are incomplete, any conclusion has to be taken with caution.",
+      "Given that the data are incomplete, any conclusion has to be approached with caution.",
+      "Given that the data is incomplete, any conclusion must be treated with caution.",
+      "Given that the data is incomplete, any conclusion must be taken with caution.",
+      "Given that the data is incomplete, any conclusion must be approached with caution.",
+      "Given that the data is incomplete, any conclusion should be treated with caution.",
+      "Given that the data is incomplete, any conclusion should be taken with caution.",
+      "Given that the data is incomplete, any conclusion should be approached with caution.",
+      "Given that the data is incomplete, any conclusion has to be treated with caution.",
+      "Given that the data is incomplete, any conclusion has to be taken with caution.",
+      "Given that the data is incomplete, any conclusion has to be approached with caution.",
+      "Since the data are incomplete, any conclusion must be treated with caution.",
+      "Since the data are incomplete, any conclusion must be taken with caution.",
+      "Since the data are incomplete, any conclusion must be approached with caution.",
+      "Since the data are incomplete, any conclusion should be treated with caution.",
+      "Since the data are incomplete, any conclusion should be taken with caution.",
+      "Since the data are incomplete, any conclusion should be approached with caution.",
+      "Since the data are incomplete, any conclusion has to be treated with caution.",
+      "Since the data are incomplete, any conclusion has to be taken with caution.",
+      "Since the data are incomplete, any conclusion has to be approached with caution.",
+      "Since the data is incomplete, any conclusion must be treated with caution.",
+      "Since the data is incomplete, any conclusion must be taken with caution.",
+      "Since the data is incomplete, any conclusion must be approached with caution.",
+      "Since the data is incomplete, any conclusion should be treated with caution.",
+      "Since the data is incomplete, any conclusion should be taken with caution.",
+      "Since the data is incomplete, any conclusion should be approached with caution.",
+      "Since the data is incomplete, any conclusion has to be treated with caution.",
+      "Since the data is incomplete, any conclusion has to be taken with caution.",
+      "Since the data is incomplete, any conclusion has to be approached with caution.",
+      "As the data are incomplete, any conclusion must be treated with caution.",
+      "As the data are incomplete, any conclusion must be taken with caution.",
+      "As the data are incomplete, any conclusion must be approached with caution.",
+      "As the data are incomplete, any conclusion should be treated with caution.",
+      "As the data are incomplete, any conclusion should be taken with caution.",
+      "As the data are incomplete, any conclusion should be approached with caution.",
+      "As the data are incomplete, any conclusion has to be treated with caution.",
+      "As the data are incomplete, any conclusion has to be taken with caution.",
+      "As the data are incomplete, any conclusion has to be approached with caution.",
+      "As the data is incomplete, any conclusion must be treated with caution.",
+      "As the data is incomplete, any conclusion must be taken with caution.",
+      "As the data is incomplete, any conclusion must be approached with caution.",
+      "As the data is incomplete, any conclusion should be treated with caution.",
+      "As the data is incomplete, any conclusion should be taken with caution.",
+      "As the data is incomplete, any conclusion should be approached with caution.",
+      "As the data is incomplete, any conclusion has to be treated with caution.",
+      "As the data is incomplete, any conclusion has to be taken with caution.",
+      "As the data is incomplete, any conclusion has to be approached with caution.",
+      "Seeing that the data are incomplete, any conclusion must be treated with caution.",
+      "Seeing that the data are incomplete, any conclusion must be taken with caution.",
+      "Seeing that the data are incomplete, any conclusion must be approached with caution.",
+      "Seeing that the data are incomplete, any conclusion should be treated with caution.",
+      "Seeing that the data are incomplete, any conclusion should be taken with caution.",
+      "Seeing that the data are incomplete, any conclusion should be approached with caution.",
+      "Seeing that the data are incomplete, any conclusion has to be treated with caution.",
+      "Seeing that the data are incomplete, any conclusion has to be taken with caution.",
+      "Seeing that the data are incomplete, any conclusion has to be approached with caution.",
+      "Seeing that the data is incomplete, any conclusion must be treated with caution.",
+      "Seeing that the data is incomplete, any conclusion must be taken with caution.",
+      "Seeing that the data is incomplete, any conclusion must be approached with caution.",
+      "Seeing that the data is incomplete, any conclusion should be treated with caution.",
+      "Seeing that the data is incomplete, any conclusion should be taken with caution.",
+      "Seeing that the data is incomplete, any conclusion should be approached with caution.",
+      "Seeing that the data is incomplete, any conclusion has to be treated with caution.",
+      "Seeing that the data is incomplete, any conclusion has to be taken with caution.",
+      "Seeing that the data is incomplete, any conclusion has to be approached with caution."
+     ],
+     "explain": "Given that + clause; the data takes \"are\" or \"is\"."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed review",
+   "instructions": "Mix of the whole unit and of earlier units of the level.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "The new regime ___ the very principles it was meant to uphold.",
+     "options": [
+      "undermined",
+      "elucidated",
+      "corroborated"
+     ],
+     "answer": 0,
+     "explain": "Undermine = to weaken."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "There has been a sharp decline ___ participation among young voters.",
+     "answers": [
+      "in"
+     ],
+     "explain": "Decline in + what decreases."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "The analyze of the survey data revealed several discrepancies.",
+     "answers": [
+      "The analysis of the survey data revealed several discrepancies."
+     ],
+     "explain": "Noun \"analysis\", not the verb."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "Admittedly, the sample was small; ___, the effect was striking.",
+     "options": [
+      "even so",
+      "in addition",
+      "respectively"
+     ],
+     "answer": 0,
+     "explain": "\"Admittedly\" + \"even so\": concession and contrast (Unit 1)."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "___ I enjoy his jokes, I cannot condone their cruelty.",
+     "options": [
+      "Much as",
+      "As much",
+      "Even much"
+     ],
+     "answer": 0,
+     "explain": "\"Much as\" + clause = although very much (Unit 4)."
+    },
+    {
+     "id": "M6",
+     "type": "choice",
+     "prompt": "It is ___ that the effect will persist, but the evidence is limited.",
+     "options": [
+      "conceivable",
+      "indisputable",
+      "undeniable"
+     ],
+     "answer": 0,
+     "explain": "\"Conceivable\" hedges; the other two express certainty."
+    },
+    {
+     "id": "M7",
+     "type": "order",
+     "prompt": "Put the words in order to form the sentence.",
+     "words": [
+      "the",
+      "report",
+      "draws",
+      "a",
+      "distinction",
+      "between",
+      "correlation",
+      "and",
+      "causation"
+     ],
+     "answers": [
+      "The report draws a distinction between correlation and causation."
+     ],
+     "explain": "Draw a distinction between X and Y."
+    },
+    {
+     "id": "M8",
+     "type": "translate",
+     "prompt": "La proliferación de datos no garantiza una mayor comprensión.",
+     "answers": [
+      "The proliferation of data does not guarantee greater understanding.",
+      "The proliferation of data does not guarantee a greater understanding.",
+      "The proliferation of data does not guarantee better understanding.",
+      "The proliferation of data does not guarantee deeper understanding.",
+      "The proliferation of data doesn't guarantee greater understanding.",
+      "The proliferation of data doesn't guarantee a greater understanding.",
+      "The proliferation of data doesn't guarantee better understanding.",
+      "The proliferation of data doesn't guarantee deeper understanding.",
+      "The proliferation of data does not guarantee greater insight.",
+      "The proliferation of data does not guarantee a greater insight.",
+      "The proliferation of data does not guarantee better insight.",
+      "The proliferation of data does not guarantee deeper insight.",
+      "The proliferation of data doesn't guarantee greater insight.",
+      "The proliferation of data doesn't guarantee a greater insight.",
+      "The proliferation of data doesn't guarantee better insight.",
+      "The proliferation of data doesn't guarantee deeper insight."
+     ],
+     "explain": "Proliferation of + noun; \"guarantee\" is transitive."
+    },
+    {
+     "id": "M9",
+     "type": "fix",
+     "prompt": "Her thesis posits that language shapes perception, thereby it challenges the dominant paradigm.",
+     "answers": [
+      "Her thesis posits that language shapes perception, thereby challenging the dominant paradigm."
+     ],
+     "explain": "\"Thereby\" is followed by -ing, not by a subject and verb."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "Both studies are rigorous; ___, they reach opposing conclusions.",
+     "answers": [
+      "nevertheless",
+      "nonetheless",
+      "however",
+      "even so",
+      "yet"
+     ],
+     "explain": "Contrast connector between two equally valid claims."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a short academic essay (300 to 400 words) that answers this question: \"To what extent does remote work improve productivity?\" Present a nuanced thesis, two arguments supported by hypothetical evidence (cite invented sources such as Reyes (2021)) and one caveat. Use nominalisation, hedging and cohesive connectors. Opening example: The question of whether remote work enhances productivity admits of no simple answer…",
+   "targets": [
+    "nominalization (the rise in…, the failure to…)",
+    "hedging (suggest, may, to some extent, arguably)",
+    "cohesion (this + noun, the former/the latter, whereas, thereby + -ing)",
+    "academic vocabulary (substantiate, discrepancy, caveat…)"
+   ],
+   "checklist": [
+    "Between 300 and 400 words",
+    "A clear, nuanced thesis in the introduction",
+    "At least 5 well-formed nominalisations with their preposition (increase in, demand for…)",
+    "At least 4 different hedging resources, without stacking them",
+    "At least 3 varied cohesive connectors and 1 \"this + noun\"",
+    "Reporting verbs matched to the strength of the evidence",
+    "3 or more words from the unit's academic list",
+    "A final paragraph with limits and lines of future research"
+   ],
+   "model": "The question of whether remote work enhances productivity admits of no simple answer. The evidence suggests that the effect is positive for some tasks and some workers, yet the extent of the improvement depends on how productivity is defined and measured. This essay argues that remote work may raise individual output to some extent, but that its benefits are arguably offset where collaboration is central.\n\nThe first argument concerns focus. Reyes (2021), in a study of 800 software developers, found that the reduction in interruptions at home was associated with a rise in completed tasks of roughly twelve per cent. The absence of a daily commute, which the author estimates at ninety minutes, appears to contribute further to this increase in available working time. Whereas the productivity gain is substantial, it rests on self-reported hours, which are notoriously imprecise.\n\nThe second argument relates to motivation and autonomy. Okafor and Lind (2022) contend that greater control over one's schedule heightens engagement, thereby reducing turnover and the costs it entails. The former effect is plausible; the latter is better documented, as the decline in resignations among remote staff has been replicated across several firms. This pattern could indicate that retention, rather than raw output, is the principal gain.\n\nA significant caveat must nevertheless be recognised. The same literature points to a discrepancy between routine and creative work: Tanaka (2020) reports that the failure to exchange ideas informally impairs innovation in teams that never meet. This suggests that the benefits of remote work may be unevenly distributed, and that a firm which treats productivity as a single quantity risks mistaking efficiency for effectiveness.\n\nIn conclusion, the balance of evidence indicates that remote work probably improves productivity under certain conditions, but it cannot yet substantiate a general claim. The samples in most studies are drawn from technology firms, which limits generalisability, and few examine long-term effects. Future research should therefore compare sectors, follow workers over several years, and distinguish between output and quality, so that the conclusions drawn can be more securely grounded."
+  },
+  {
+   "id": "W2",
+   "prompt": "Synthesise three sources in a text of 300 to 400 words. Source A (Moreno, 2020): a survey of 2,000 students concludes that sleeping fewer than six hours reduces exam performance. Source B (Chen and Ibarra, 2022): an experiment with 120 participants found a small effect, and only on memory tasks. Source C (Hartley, 2023): a review of 40 studies maintains that the effect exists, but that it depends on age and on how performance is measured. Do not summarise one source after another: put them in dialogue, point out where they agree and diverge, and close with a measured conclusion.",
+   "targets": [
+    "synthesis of sources (while…, both concur that…, by contrast)",
+    "graded reporting verbs (contend, suggest, maintain)",
+    "hedging in the conclusion",
+    "paraphrasing without copying"
+   ],
+   "checklist": [
+    "Between 300 and 400 words",
+    "The three sources are integrated, not presented in separate blocks",
+    "At least one contrast (while / whereas / by contrast) and one point of agreement (both concur that)",
+    "Varied reporting verbs matched to the strength of the evidence",
+    "\"Taken together\" / \"collectively\" in the conclusion",
+    "Hedging in the conclusion (suggest, may, to some extent)",
+    "A caveat about sample size or method",
+    "Your own stance with \"In my view\", not \"According to me\""
+   ],
+   "model": "The relationship between sleep and academic performance is often assumed to be straightforward, yet the three studies considered here, taken together, tell a more qualified story.\n\nAll three sources concur that short sleep is associated with some decline in performance, but they diverge sharply over its size and scope. Moreno (2020), surveying 2,000 students, concludes that sleeping fewer than six hours reduces exam results; by contrast, Chen and Ibarra (2022), whose experiment involved only 120 participants, found a small effect, and one confined to memory tasks. The discrepancy is instructive. A large survey can detect broad patterns, whereas a controlled experiment can isolate causes, and it may be that each is capturing a different part of the same phenomenon. Moreover, a survey can show an association but not a cause: students who sleep little may also be busier or more stressed, so poor results are not necessarily the product of lack of sleep.\n\nHartley (2023) goes some way towards reconciling the two. Reviewing forty studies, she maintains that the effect is real but conditional, depending on the age of the participants and on how performance is measured. This would explain why Chen and Ibarra, who tested a narrow task, observed a modest result, while Moreno, who looked at overall exam marks, observed a larger one. Hartley's review is, however, only as strong as the studies it includes, and it does not settle whether the variation lies in the effect itself or in the research methods.\n\nTwo caveats deserve mention. First, the sample in Chen and Ibarra's experiment is small, so their results may not generalise. Second, self-reported sleep, which surveys of this kind commonly rely on, is notoriously unreliable.\n\nTaken together, the sources suggest that insufficient sleep probably does impair performance to some extent, particularly in memory-dependent tasks, but that the magnitude is likely to vary with age and with the measure employed. In my view, the evidence justifies encouraging students to sleep adequately, yet it does not support the claim that sleep alone determines how well they do."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The Replication Crisis: How Much Can We Trust a Single Study?",
+   "intro": "Read the article and answer the questions. Notice how the author grades each claim.",
+   "paragraphs": [
+    "In 2015, a consortium of psychologists published the results of an unusual undertaking: they had attempted to reproduce one hundred experiments that had appeared in leading journals. Fewer than half of the replications yielded results that matched the originals. The announcement was widely interpreted as evidence of a crisis, yet the term obscures as much as it reveals. What the episode exposed was not so much widespread fraud as a set of habits, many of them well-intentioned, that make it easy for an unreliable finding to acquire the aura of established fact.",
+    "Consider the incentives. Academic careers are built on publications, and journals have historically favoured studies that report a statistically significant effect over those that find nothing. A researcher who runs an experiment and detects no difference between groups faces a discouraging prospect: the result is hard to publish and therefore, from a career perspective, almost worthless. The temptation, which few researchers would openly admit to, is to keep looking: to test an additional variable, to exclude a handful of 'anomalous' participants, or to adjust the analysis until a pattern emerges. Each choice can be defended individually; collectively, they inflate the likelihood of a false positive.",
+    "This practice, sometimes called p-hacking, is rarely deliberate in any crude sense. It tends to arise from the ordinary flexibility of data analysis, in which dozens of defensible decisions must be made before a single number is reported. The proliferation of such decisions, what one statistician has termed the 'garden of forking paths', means that two honest analysts can reach divergent conclusions from identical data. The discrepancy is not evidence of incompetence; it is an inherent feature of the process, and one that conventional peer review is poorly equipped to detect, since reviewers typically see only the finished analysis, not the paths that were abandoned.",
+    "Reform has nonetheless gained considerable momentum. A growing number of journals now offer 'registered reports', in which the methodology is reviewed and accepted before any data are collected, thereby removing the incentive to chase significance. Others require authors to share their data and code, so that critics can retrace each step. Large collaborative projects, in which dozens of laboratories run the same protocol, have begun to supply the kind of cumulative evidence that no individual study can provide. Early indications are encouraging, although it would be premature to conclude that the underlying problem has been solved.",
+    "Not everyone accepts the pessimistic reading, however. Some scholars contend that a failed replication does not automatically refute the original finding: subtle differences in participants, setting or even the era in which a study is conducted may legitimately alter the outcome. On this view, the low replication rate reflects the complexity of human behaviour rather than any flaw in the method. Critics of this position respond that if an effect is so fragile that it vanishes when the conditions shift slightly, its practical significance must be negligible, and the original claims were framed far too broadly.",
+    "There is, moreover, a cultural dimension that technical fixes alone cannot address. Researchers who share their raw data, publish null results or openly correct their own errors currently take a professional risk, because the prevailing system rewards novelty and confidence rather than caution. Until funding bodies, hiring committees and journals treat careful, unglamorous work as a mark of distinction, the incentives that produced the problem will continue to operate, and well-designed procedures will merely be circumvented by those who feel the pressure most acutely.",
+    "What, then, should the general reader make of a headline announcing that a new study 'proves' some surprising link between diet and mood? Perhaps the most sensible response is a measured scepticism. A single study, however carefully conducted, is better understood as a contribution to an ongoing conversation than as a verdict. Findings gain credibility as they are corroborated by independent teams, using different methods and different populations, and the more counter-intuitive the claim, the stronger the evidence ought to be. Science, in this respect, is not a collection of facts but a process of progressively eliminating error, and its authority derives from its willingness to expose its own weaknesses."
+   ],
+   "glossary": [
+    {
+     "en": "replication",
+     "def": "Repeating a study under the same conditions to check whether its result holds."
+    },
+    {
+     "en": "p-hacking",
+     "def": "Manipulating data or analyses until a statistically significant result is obtained."
+    },
+    {
+     "en": "null result",
+     "def": "A finding that shows no statistically significant effect."
+    },
+    {
+     "en": "aura",
+     "def": "A distinctive quality or atmosphere that surrounds something or someone."
+    },
+    {
+     "en": "momentum",
+     "def": "The force or speed that builds up and keeps something moving forward."
+    },
+    {
+     "en": "scepticism",
+     "def": "Doubt or a questioning attitude towards claims until they are shown to be true."
+    },
+    {
+     "en": "fragile",
+     "def": "Weak or easily damaged; not robust or secure."
+    },
+    {
+     "en": "unglamorous",
+     "def": "Not attractive or exciting; dull or ordinary, often in a practical way."
+    },
+    {
+     "en": "distinction",
+     "def": "An honour or mark of excellence; a notable achievement."
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Fewer than half of the 2015 replications matched the original results.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Dice: «Fewer than half of the replications yielded results that matched the originals»."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "According to the author, what chiefly explains the unreliable findings?",
+     "options": [
+      "Widespread deliberate fraud",
+      "Well-intentioned habits shaped by career incentives",
+      "Reviewers who lack statistical training"
+     ],
+     "answer": 1,
+     "explain": "The text says it is \"not so much widespread fraud as a set of habits, many of them well-intentioned\"."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Journals have traditionally been more willing to publish studies that find no effect.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Han favorecido los estudios con efecto significativo."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "The 'garden of forking paths' refers to…",
+     "options": [
+      "the many defensible analytic decisions that can lead to different conclusions",
+      "the routes by which a study travels from journal to journal",
+      "the layout of the laboratories in collaborative projects"
+     ],
+     "answer": 0,
+     "explain": "It is the metaphor of the many reasonable analytical decisions that fork the outcome."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "Why do 'registered reports' reduce the pressure to chase significance?",
+     "options": [
+      "They ban statistical analysis",
+      "They are shorter than ordinary articles",
+      "The method is accepted before the data exist, so the result cannot decide publication"
+     ],
+     "answer": 2,
+     "explain": "The methodology is approved before collecting data, so the result no longer determines publication."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "The author's attitude to the recent reforms is best described as…",
+     "options": [
+      "dismissive",
+      "cautiously encouraged",
+      "wholeheartedly enthusiastic"
+     ],
+     "answer": 1,
+     "explain": "«Early indications are encouraging, although it would be premature to conclude…»: optimismo con reservas."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "Findings gain credibility as they are ___ by independent teams.",
+     "answers": [
+      "corroborated",
+      "replicated",
+      "confirmed"
+     ],
+     "explain": "Corroborated = confirmadas por otras fuentes."
+    },
+    {
+     "id": "R8",
+     "type": "translate",
+     "prompt": "Un solo estudio debe entenderse como una contribución a una conversación en curso, no como un veredicto.",
+     "answers": [
+      "A single study should be understood as a contribution to an ongoing conversation, not as a verdict.",
+      "A single study should be understood as a contribution to an ongoing discussion, not as a verdict.",
+      "A single study should be understood as a contribution to an ongoing debate, not as a verdict.",
+      "A single study should be seen as a contribution to an ongoing conversation, not as a verdict.",
+      "A single study should be seen as a contribution to an ongoing discussion, not as a verdict.",
+      "A single study should be seen as a contribution to an ongoing debate, not as a verdict.",
+      "A single study should be regarded as a contribution to an ongoing conversation, not as a verdict.",
+      "A single study should be regarded as a contribution to an ongoing discussion, not as a verdict.",
+      "A single study should be regarded as a contribution to an ongoing debate, not as a verdict.",
+      "A single study should be viewed as a contribution to an ongoing conversation, not as a verdict.",
+      "A single study should be viewed as a contribution to an ongoing discussion, not as a verdict.",
+      "A single study should be viewed as a contribution to an ongoing debate, not as a verdict.",
+      "A single study is better understood as a contribution to an ongoing conversation than as a verdict.",
+      "A single study is better understood as a contribution to an ongoing discussion than as a verdict.",
+      "A single study is better understood as a contribution to an ongoing debate than as a verdict.",
+      "A single study is better seen as a contribution to an ongoing conversation than as a verdict.",
+      "A single study is better seen as a contribution to an ongoing discussion than as a verdict.",
+      "A single study is better seen as a contribution to an ongoing debate than as a verdict.",
+      "A single study is better regarded as a contribution to an ongoing conversation than as a verdict.",
+      "A single study is better regarded as a contribution to an ongoing discussion than as a verdict.",
+      "A single study is better regarded as a contribution to an ongoing debate than as a verdict.",
+      "A single study is better viewed as a contribution to an ongoing conversation than as a verdict.",
+      "A single study is better viewed as a contribution to an ongoing discussion than as a verdict.",
+      "A single study is better viewed as a contribution to an ongoing debate than as a verdict."
+     ],
+     "explain": "A contribution to an ongoing conversation, not a verdict."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Feedback on two drafts",
+   "intro": "Listen to the tutorial session. You can repeat it.",
+   "lines": [
+    {
+     "who": "Dr Hale",
+     "voice": "glassy",
+     "text": "Right, I've read both of your drafts, and I'd like to start with the introduction, Mei."
+    },
+    {
+     "who": "Mei",
+     "voice": "airy",
+     "text": "Of course. I was worried it was a bit too bold. I wrote that social media causes teenage anxiety."
+    },
+    {
+     "who": "Dr Hale",
+     "voice": "glassy",
+     "text": "Well, that's precisely the issue. The evidence doesn't really support such a categorical claim. I'd say it may contribute to anxiety in some adolescents, but causation is another matter."
+    },
+    {
+     "who": "Tomás",
+     "voice": "buttery",
+     "text": "So you'd recommend something like 'the findings suggest an association'?"
+    },
+    {
+     "who": "Dr Hale",
+     "voice": "glassy",
+     "text": "Exactly. And I'd add 'to some extent', because the effect sizes are modest."
+    },
+    {
+     "who": "Mei",
+     "voice": "airy",
+     "text": "Fair enough. What about Tomás's section? I thought it read very smoothly."
+    },
+    {
+     "who": "Dr Hale",
+     "voice": "glassy",
+     "text": "It does flow, but you rely on 'this' far too often. In the third paragraph, 'this' refers to three different things. Name the noun: 'this trend', 'this discrepancy'."
+    },
+    {
+     "who": "Tomás",
+     "voice": "buttery",
+     "text": "I see. I'd been trying to avoid repeating myself."
+    },
+    {
+     "who": "Dr Hale",
+     "voice": "glassy",
+     "text": "Understandable, but clarity outweighs elegance here. Also, the sentence beginning 'due to the fact the sample was small' is missing a 'that'. Better still, just say 'because'."
+    },
+    {
+     "who": "Tomás",
+     "voice": "buttery",
+     "text": "Noted. Should I also cut the long list of nominalizations? A friend says my style is a little heavy."
+    },
+    {
+     "who": "Dr Hale",
+     "voice": "glassy",
+     "text": "Some of it is perfectly acceptable. 'The expansion of the network' is fine. But 'the carrying out of the implementation of the evaluation' is not. Keep the people in the sentence when it matters who did what."
+    },
+    {
+     "who": "Mei",
+     "voice": "airy",
+     "text": "And the deadline? Is it still Friday?"
+    },
+    {
+     "who": "Dr Hale",
+     "voice": "glassy",
+     "text": "I'm afraid it has been brought forward to Thursday noon. Send me the revised drafts by then, and we'll go through the conclusions together."
+    },
+    {
+     "who": "Mei",
+     "voice": "airy",
+     "text": "Thursday it is."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What does Dr Hale object to in Mei's introduction?",
+     "options": [
+      "Too many citations",
+      "A categorical claim about causation",
+      "Excessively cautious phrasing"
+     ],
+     "answer": 1,
+     "explain": "Mei claimed that social media causes anxiety; the evidence only supports a partial contribution."
+    },
+    {
+     "id": "L2",
+     "type": "gap",
+     "prompt": "Dr Hale suggests adding 'to some ___' because the effect sizes are modest.",
+     "answers": [
+      "extent"
+     ],
+     "explain": "To some extent softens the claim."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What is wrong with 'this' in Tomás's third paragraph?",
+     "options": [
+      "It refers to three different things",
+      "It is too informal",
+      "It appears only once"
+     ],
+     "answer": 0,
+     "explain": "A bare this referring to several ideas is confusing; you must name the noun."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What does Dr Hale say about nominalizations?",
+     "options": [
+      "All of them should be removed",
+      "Some are fine, but the people should stay visible when it matters who acted",
+      "They are compulsory in academic writing"
+     ],
+     "answer": 1,
+     "explain": "Accepts \"the expansion of the network\" but rejects excessive accumulation."
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "The deadline has been brought forward to Thursday ___.",
+     "answers": [
+      "noon",
+      "midday",
+      "12",
+      "12 pm",
+      "12 p.m."
+     ],
+     "explain": "«Brought forward to Thursday noon»."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "How does Mei react to the feedback?",
+     "options": [
+      "She resists it",
+      "She accepts it",
+      "She is confused by it"
+     ],
+     "answer": 1,
+     "explain": "Responde con «Fair enough» y «Thursday it is»: acepta las observaciones."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "The findings suggest an association, but causation is another matter.",
+     "answers": [
+      "The findings suggest an association, but causation is another matter."
+     ],
+     "explain": "Suggest + association softens; causation requires more evidence."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Name the noun instead of relying on the word this.",
+     "answers": [
+      "Name the noun instead of relying on the word this."
+     ],
+     "explain": "This sin sustantivo puede ser ambiguo."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Keep the people in the sentence when it matters who did what.",
+     "answers": [
+      "Keep the people in the sentence when it matters who did what."
+     ],
+     "explain": "Avoids excessive nominalization when the agent matters."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "It would appear that the early estimates were somewhat overstated.",
+     "answers": [
+      "It would appear that the early estimates were somewhat overstated."
+     ],
+     "explain": "It would appear that + clause: impersonal hedging."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Summarise orally an article or study you know, reconstructing its argument (claim, evidence, implication) with hedging language.",
+     "questions": [
+      "What was the central claim of the article or study?",
+      "What evidence was offered to support it?",
+      "How convincing did you find it, and why?"
+     ],
+     "model": "The article sets out to examine whether bilingual education improves cognitive flexibility. Its central claim is that bilingual children appear to switch between tasks more efficiently. The evidence, drawn from a sample of around two hundred pupils, suggests a modest effect, although the authors acknowledge that socioeconomic factors may account for part of it. On balance, I found the argument plausible but not conclusive, given the limited sample.",
+     "checklist": [
+      "An opening with \"sets out to\" / \"central argument\"",
+      "Reconstruction of claim - evidence - implication",
+      "At least two hedges (appear, suggest, may, to some extent)",
+      "One caveat (caveat or limitation)",
+      "Your own stance with \"In my view\" / \"On balance\""
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Orally hedge these categorical claims, using a different structure for each one.",
+     "questions": [
+      "Social media destroys young people's attention spans.",
+      "Remote work always increases productivity.",
+      "The new law will solve the housing crisis."
+     ],
+     "model": "Social media may well contribute to shorter attention spans in some young people. It would appear that remote work tends to increase productivity, although the effect seems to vary by sector. There is some evidence to suggest that the new law could ease the housing shortage, but it is unlikely to resolve it on its own.",
+     "checklist": [
+      "A different structure for each claim",
+      "No stacking of hedges",
+      "Reporting verbs or modals matched to the strength of the claim",
+      "An approximator or adverb (largely, arguably, to some extent)"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Compare two sources that disagree on a topic and reach a measured conclusion.",
+     "questions": [
+      "Which two sources are you comparing?",
+      "Where do they agree, and where do they diverge?",
+      "What would you conclude, taking both into account?"
+     ],
+     "model": "Let me compare two reports on urban cycling. While the first contends that bike lanes reduce traffic, the second maintains that the effect is negligible. Both concur that cycling has grown, but they diverge on its impact on congestion. Taken together, the evidence suggests that bike lanes bring clear health benefits, whereas their effect on traffic remains uncertain.",
+     "checklist": [
+      "While / whereas / by contrast to contrast",
+      "\"Both concur that…\" for agreement",
+      "Varied stance verbs (contend, maintain)",
+      "\"Taken together\" + a hedged conclusion"
+     ]
+    }
+   ],
+   "repeat": [
+    "It would appear that the early estimates were overstated.",
+    "There is some evidence to suggest that sleep aids memory.",
+    "The proliferation of such decisions means that honest analysts can disagree.",
+    "Taken together, these studies point to a modest effect.",
+    "One important caveat is that the sample came from a single city.",
+    "It would be premature to conclude that the problem has been solved."
+   ]
+  }
+ }
+}

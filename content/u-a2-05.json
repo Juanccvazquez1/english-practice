@@ -1,0 +1,1485 @@
+{
+ "id": "u-a2-05",
+ "level": "A2",
+ "n": 5,
+ "title": "Friends and small talk",
+ "goals": [
+  "Ask and answer personal questions with be and the simple present (Are you...? Do you...? Where does...?).",
+  "Talk about your family, home, work, and studies.",
+  "Find things in common: I do too, I don't either, Me too, Me neither.",
+  "Start a conversation with a stranger and use actually.",
+  "Talk about your free time, likes, and feelings.",
+  "Write with correct capital letters, commas, and question marks."
+ ],
+ "learn": [
+  {
+   "id": "g-questions",
+   "kind": "grammar",
+   "title": "Short questions and answers: be and the simple present",
+   "html": "<p>To get to know someone, you ask questions. With the verb <strong>be</strong>, you switch the order (be + subject). With other verbs, you need <strong>do / does</strong> as a helper, and the main verb stays in its base form.</p><table><thead><tr><th></th><th>Question</th><th>Short answer</th></tr></thead><tbody><tr><td>be</td><td><strong>Are</strong> you from a big family?</td><td>Yes, I <strong>am</strong>. / No, I'm not.</td></tr><tr><td>do</td><td><strong>Do</strong> you have any brothers or sisters?</td><td>Yes, I <strong>do</strong>. / No, I <strong>don't</strong>.</td></tr><tr><td>does</td><td><strong>Does</strong> your brother work in a bank?</td><td>Yes, he <strong>does</strong>. / No, he <strong>doesn't</strong>.</td></tr><tr><td>Wh- + be</td><td>Where <strong>are</strong> your parents from?</td><td>They're from Peru.</td></tr><tr><td>Wh- + do/does</td><td>What <strong>does</strong> your brother do?</td><td>He's a nurse.</td></tr></tbody></table><ul><li>Negatives: <em>They aren't from Peru.</em> / <em>He doesn't work in a bank.</em> (after doesn't, the verb has no -s).</li><li>The positive short answer is not contracted: <em>Yes, I am.</em> (not <em>Yes, I'm</em>).</li><li><em>What do you do?</em> means what's your job?</li></ul>",
+   "watch": [
+    {
+     "wrong": "Do you are a student?",
+     "right": "Are you a student?",
+     "why": "With be, don't use do: be + subject."
+    },
+    {
+     "wrong": "Where lives your sister?",
+     "right": "Where does your sister live?",
+     "why": "Wh- + do/does + subject + base verb."
+    },
+    {
+     "wrong": "She doesn't works here.",
+     "right": "She doesn't work here.",
+     "why": "After doesn't, the verb has no -s."
+    },
+    {
+     "wrong": "Yes, I'm.",
+     "right": "Yes, I am.",
+     "why": "The positive short answer with be is not contracted."
+    }
+   ]
+  },
+  {
+   "id": "g-agree",
+   "kind": "grammar",
+   "title": "Agreeing: too, either, me too, me neither",
+   "html": "<p>To say that you also do (or don't do) something, you repeat the helper verb from the sentence and add <strong>too</strong> (after a positive) or <strong>either</strong> (after a negative).</p><table><thead><tr><th>They say...</th><th>You answer...</th></tr></thead><tbody><tr><td>I'm allergic to cats.</td><td>I <strong>am too</strong>. / <strong>Me too</strong>.</td></tr><tr><td>I'm not an animal lover.</td><td>I'm not <strong>either</strong>. / <strong>Me neither</strong>.</td></tr><tr><td>I watch pro football.</td><td>I <strong>do too</strong>. / <strong>Me too</strong>.</td></tr><tr><td>I don't watch much TV.</td><td>I don't <strong>either</strong>. / <strong>Me neither</strong>. / Me either.</td></tr><tr><td>I can shop for hours.</td><td>I <strong>can too</strong>.</td></tr><tr><td>I can't afford anything new.</td><td>I can't <strong>either</strong>.</td></tr></tbody></table><p>If you don't agree, say <strong>Really?</strong> and give your information: <em>I don't watch sports. — Really? I watch all the basketball games.</em></p><ul><li><strong>Me too</strong> is only used after positives; <strong>Me neither</strong> is only used after negatives.</li><li>English doesn't use a double negative: <em>I don't either</em>, not <em>I don't neither</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I don't like cats. — I don't too.",
+     "right": "I don't like cats. — I don't either.",
+     "why": "After a negative, use either, not too."
+    },
+    {
+     "wrong": "I'm not a morning person. — Me too.",
+     "right": "I'm not a morning person. — Me neither.",
+     "why": "Me too only matches positives."
+    },
+    {
+     "wrong": "I don't neither.",
+     "right": "I don't either.",
+     "why": "Don't use two negatives: don't + either."
+    },
+    {
+     "wrong": "I like jazz. — I like too.",
+     "right": "I like jazz. — I do too.",
+     "why": "Repeat the helper verb: I do too."
+    }
+   ]
+  },
+  {
+   "id": "g-punct",
+   "kind": "grammar",
+   "title": "Capital letters and punctuation",
+   "html": "<p>In English, punctuation follows different rules than in Spanish. These are the most useful ones for writing messages:</p><table><thead><tr><th>Rule</th><th>Example</th></tr></thead><tbody><tr><td>Capital letter for names, countries, languages, nationalities, days, and months</td><td>My friend <strong>A</strong>na speaks <strong>E</strong>nglish on <strong>M</strong>ondays.</td></tr><tr><td>Capital letter at the start of a sentence and for <em>I</em></td><td><strong>D</strong>o you know where <strong>I</strong> live?</td></tr><tr><td>Comma in lists (before and)</td><td>I like pizza, tacos, and burgers.</td></tr><tr><td>Comma before a quote or when you name someone</td><td>She says, \"Hello.\" / Nice to meet you, Mariana.</td></tr><tr><td>Period at the end of statements</td><td>Keep in touch.</td></tr><tr><td>Only one question mark, at the end</td><td>Are you new to the company?</td></tr></tbody></table><ul><li>Possessive: <em>my sister's name</em> (one sister) / <em>my sisters' names</em> (several).</li><li>English has no opening question mark (¿) or exclamation mark (¡).</li></ul>",
+   "watch": [
+    {
+     "wrong": "¿Do you work here?",
+     "right": "Do you work here?",
+     "why": "English has no opening question mark (¿)."
+    },
+    {
+     "wrong": "i am from mexico.",
+     "right": "I am from Mexico.",
+     "why": "I and country names are capitalized."
+    },
+    {
+     "wrong": "On monday I study english.",
+     "right": "On Monday I study English.",
+     "why": "Days and languages are capitalized in English."
+    },
+    {
+     "wrong": "I like tacos pizza and burgers.",
+     "right": "I like tacos, pizza, and burgers.",
+     "why": "Separate the items of a list with commas."
+    }
+   ]
+  },
+  {
+   "id": "v-home-work",
+   "kind": "vocab",
+   "title": "Family, home, work, and studies",
+   "words": [
+    {
+     "id": "w-only-child",
+     "en": "only child",
+     "es": "hijo/a único/a",
+     "example": "I'm an only child, so I have no brothers or sisters.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-nearby",
+     "en": "nearby / near here",
+     "es": "cerca, por aquí",
+     "example": "My grandparents live nearby.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-live-alone",
+     "en": "live alone",
+     "es": "vivir solo/a",
+     "example": "Do you live alone or with your family?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-live-with",
+     "en": "live with",
+     "es": "vivir con",
+     "example": "I live with my parents and my little brother.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-lifestyle",
+     "en": "lifestyle",
+     "es": "estilo de vida",
+     "example": "We have a very active lifestyle.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-neighborhood",
+     "en": "neighborhood",
+     "es": "colonia, barrio",
+     "example": "My neighborhood is quiet and safe.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-full-time",
+     "en": "full-time",
+     "es": "de tiempo completo",
+     "example": "She has a full-time job at a hospital.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-part-time",
+     "en": "part-time",
+     "es": "de medio tiempo",
+     "example": "He is a part-time student.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-major",
+     "en": "major",
+     "es": "carrera (en la universidad)",
+     "example": "I'm an English major at college.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-software-company",
+     "en": "software company",
+     "es": "empresa de software",
+     "example": "My cousin works in a software company.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-salary",
+     "en": "salary",
+     "es": "sueldo, salario",
+     "example": "The salary is good, but the hours are long.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-for-a-living",
+     "en": "for a living",
+     "es": "para ganarse la vida",
+     "example": "What does your father do for a living?",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-named-after",
+     "en": "be named after",
+     "es": "llevar el nombre de",
+     "example": "I'm named after my grandmother.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-nickname",
+     "en": "nickname",
+     "es": "apodo",
+     "example": "My nickname is Pepe."
+    },
+    {
+     "id": "w-have-time",
+     "en": "have time",
+     "es": "tener tiempo",
+     "example": "I don't have time to cook on weekdays.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-make-friends",
+     "en": "make (new) friends",
+     "es": "hacer (nuevos) amigos",
+     "example": "It's easy to make new friends at a language club.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-free-time",
+   "kind": "vocab",
+   "title": "Free time, likes, and feelings",
+   "words": [
+    {
+     "id": "w-eat-out",
+     "en": "eat out",
+     "es": "comer fuera, salir a comer",
+     "example": "We eat out every Saturday.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-to-a-club",
+     "en": "go to a club",
+     "es": "ir a un club / antro",
+     "example": "They go to a club on Friday nights.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-play-sports",
+     "en": "play sports",
+     "es": "practicar deportes",
+     "example": "I play sports on weekends.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-sleep-late",
+     "en": "sleep late",
+     "es": "dormir hasta tarde",
+     "example": "I sleep late on Sundays.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pet",
+     "en": "pet",
+     "es": "mascota",
+     "example": "Do you have a pet?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-animal-lover",
+     "en": "animal lover",
+     "es": "amante de los animales",
+     "example": "My sister is an animal lover; she has four dogs.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-allergic-to",
+     "en": "allergic to",
+     "es": "alérgico/a a",
+     "example": "I'm allergic to cats."
+    },
+    {
+     "id": "w-fan",
+     "en": "fan (football fan)",
+     "es": "aficionado/a, fan",
+     "example": "My dad is a big football fan.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-documentary",
+     "en": "documentary",
+     "es": "documental",
+     "example": "I watch documentaries about nature.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-talk-show",
+     "en": "talk show",
+     "es": "programa de entrevistas",
+     "example": "Talk shows are boring to me.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-the-news",
+     "en": "the news",
+     "es": "las noticias",
+     "example": "I watch the news every morning.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-morning-person",
+     "en": "morning person",
+     "es": "persona madrugadora",
+     "example": "I'm not a morning person.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-broke",
+     "en": "broke",
+     "es": "sin dinero, “quebrado”",
+     "example": "I can't go out tonight. I'm broke."
+    },
+    {
+     "id": "w-chilly",
+     "en": "chilly",
+     "es": "fresco, algo frío",
+     "example": "It's chilly tonight; bring a jacket."
+    },
+    {
+     "id": "w-freezing",
+     "en": "freezing",
+     "es": "helado, congelante",
+     "example": "It's freezing in here!",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-nervous",
+     "en": "nervous",
+     "es": "nervioso/a",
+     "example": "I'm nervous at parties.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-talkative",
+     "en": "talkative",
+     "es": "platicador/a, hablador/a",
+     "example": "Our neighbor is very talkative."
+    },
+    {
+     "id": "w-stranger",
+     "en": "stranger",
+     "es": "desconocido/a",
+     "example": "Don't be shy with strangers; say hello.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "e-smalltalk",
+   "kind": "expressions",
+   "title": "Small talk with a stranger and using actually",
+   "html": "<p><strong>How to start a conversation with someone you don't know:</strong></p><ul><li>Comment on what you see or hear: <em>It's cold tonight. / This is a great party, huh? / There are a lot of people here.</em></li><li>Ask a general question: <em>Do you come here a lot?</em></li><li>Say your name: <em>By the way, my name's Chris.</em></li></ul><p><strong>Actually</strong> does not mean “currently”; it means “in fact” or “really”. It is used for:</p><table><thead><tr><th>Use</th><th>Example</th></tr></thead><tbody><tr><td>Giving new information</td><td>Yeah, I do, <strong>actually</strong>.</td></tr><tr><td>Giving surprising information</td><td><strong>Actually</strong>, I kind of like cold weather.</td></tr><tr><td>Correcting someone politely</td><td>— So, you're American? — Well, <strong>actually</strong>, I'm from Canada.</td></tr></tbody></table><ul><li><strong>Really?</strong> shows surprise or polite disagreement: <em>I hate this weather. — Really? I love it!</em></li><li>Actually goes at the start, before the verb, or at the end: <em>I teach skiing, actually.</em></li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Questions with be and do/does",
+   "instructions": "Complete or choose the correct form.",
+   "topic": "g-questions",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "___ you from a big family?",
+     "answers": [
+      "Are"
+     ],
+     "explain": "Question with be: Are + subject."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Where ___ your parents live?",
+     "answers": [
+      "do"
+     ],
+     "explain": "Wh- + do + subject + base verb (your parents = they)."
+    },
+    {
+     "id": "A3",
+     "type": "choice",
+     "prompt": "___ your brother work in a bank?",
+     "options": [
+      "Do",
+      "Does",
+      "Is"
+     ],
+     "answer": 1,
+     "explain": "Brother = he, main verb work → Does."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "Does she work full-time? — No, she ___. She works part-time.",
+     "answers": [
+      "doesn't",
+      "does not"
+     ],
+     "explain": "Negative short answer with does."
+    },
+    {
+     "id": "A5",
+     "type": "fix",
+     "prompt": "Where lives your sister?",
+     "answers": [
+      "Where does your sister live?"
+     ],
+     "explain": "Does is missing; the verb goes in base form."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "My boss ___ from Peru. He's from Chile.",
+     "answers": [
+      "isn't",
+      "is not"
+     ],
+     "explain": "Negative of be with he/she/it: isn't."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Agreeing: too / either / me too / me neither",
+   "instructions": "Choose or complete the right answer.",
+   "topic": "g-agree",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "I'm allergic to cats. — I am ___.",
+     "options": [
+      "too",
+      "either",
+      "neither"
+     ],
+     "answer": 0,
+     "explain": "Positive → too."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "I don't watch much TV. — I don't ___.",
+     "answers": [
+      "either"
+     ],
+     "explain": "Negative → either."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "I can't afford anything new. — ___",
+     "options": [
+      "Me too.",
+      "Me neither.",
+      "I can too."
+     ],
+     "answer": 1,
+     "explain": "Negative → Me neither."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "I sleep late on Sundays. — I do ___.",
+     "answers": [
+      "too"
+     ],
+     "explain": "Positive → I do too."
+    },
+    {
+     "id": "B5",
+     "type": "fix",
+     "prompt": "I don't too.",
+     "answers": [
+      "I don't either.",
+      "Me neither."
+     ],
+     "explain": "After a negative, use either or Me neither."
+    },
+    {
+     "id": "B6",
+     "type": "translate",
+     "prompt": "Yo también soy fan del fútbol.",
+     "answers": [
+      "I'm a football fan too.",
+      "I am a football fan too.",
+      "I'm a soccer fan too.",
+      "I am a soccer fan too.",
+      "I am too.",
+      "Me too."
+     ],
+     "explain": "Positive → too (or Me too)."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Capital letters and punctuation",
+   "instructions": "Choose or correct. Pay attention to capital letters.",
+   "topic": "g-punct",
+   "items": [
+    {
+     "id": "C1",
+     "type": "fix",
+     "prompt": "my friend ana lives in puebla.",
+     "answers": [
+      "My friend Ana lives in Puebla."
+     ],
+     "explain": "Start of sentence, name, and city take a capital letter.",
+     "case": true
+    },
+    {
+     "id": "C2",
+     "type": "fix",
+     "prompt": "i study english on monday.",
+     "answers": [
+      "I study English on Monday."
+     ],
+     "explain": "I, languages, and days take a capital letter.",
+     "case": true
+    },
+    {
+     "id": "C3",
+     "type": "fix",
+     "prompt": "do you have any brothers or sisters?",
+     "answers": [
+      "Do you have any brothers or sisters?"
+     ],
+     "explain": "Every sentence starts with a capital letter.",
+     "case": true
+    },
+    {
+     "id": "C4",
+     "type": "fix",
+     "prompt": "she lives in mexico and speaks spanish.",
+     "answers": [
+      "She lives in Mexico and speaks Spanish."
+     ],
+     "explain": "Start of sentence, countries, and languages take a capital letter.",
+     "case": true
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "my sister's name is lucy and she lives in canada.",
+     "answers": [
+      "My sister's name is Lucy and she lives in Canada."
+     ],
+     "explain": "Capital letter for the start, name, and country.",
+     "case": true
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "You have TWO sisters. Which one is correct? ___ are Emma and Allie.",
+     "options": [
+      "My sisters' names",
+      "My sister's names",
+      "My sisters names"
+     ],
+     "answer": 0,
+     "explain": "Plural possessive: sisters' (apostrophe after the s)."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Vocabulary: family, home, and work",
+   "instructions": "Complete with the right word.",
+   "topic": "v-home-work",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "I don't have brothers or sisters. I'm an ___ child.",
+     "answers": [
+      "only"
+     ],
+     "explain": "Only child = a child with no brothers or sisters."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "What does your mother do ___?",
+     "options": [
+      "for a living",
+      "for living",
+      "by living"
+     ],
+     "answer": 0,
+     "explain": "Expression: for a living (= as a job)."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "He works 20 hours a week. He has a ___ job.",
+     "options": [
+      "full-time",
+      "part-time",
+      "nearby"
+     ],
+     "answer": 1,
+     "explain": "20 hours a week = part-time."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "I live ___ my parents. We share a house.",
+     "answers": [
+      "with"
+     ],
+     "explain": "Live with = to live together with someone."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "I'm an English ___ at college.",
+     "options": [
+      "major",
+      "salary",
+      "nickname"
+     ],
+     "answer": 0,
+     "explain": "Major = the subject you study at university."
+    },
+    {
+     "id": "D6",
+     "type": "translate",
+     "prompt": "Mi apartamento está cerca de aquí.",
+     "answers": [
+      "My apartment is nearby.",
+      "My apartment is near here."
+     ],
+     "explain": "Nearby / near here = close by."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: free time and feelings",
+   "instructions": "Complete with the right word.",
+   "topic": "v-free-time",
+   "items": [
+    {
+     "id": "E1",
+     "type": "choice",
+     "prompt": "I can't go to the movies. I'm ___.",
+     "options": [
+      "broke",
+      "chilly",
+      "talkative"
+     ],
+     "answer": 0,
+     "explain": "Broke = without money."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "I sneeze around dogs. I'm ___ to dogs.",
+     "answers": [
+      "allergic"
+     ],
+     "explain": "Allergic to = having a bad reaction to something."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "I love animals. I'm an animal ___.",
+     "options": [
+      "lover",
+      "fan",
+      "pet"
+     ],
+     "answer": 0,
+     "explain": "Animal lover = someone who likes animals a lot."
+    },
+    {
+     "id": "E4",
+     "type": "choice",
+     "prompt": "Which word is NOT related to TV?",
+     "options": [
+      "documentaries",
+      "cartoons",
+      "freezing"
+     ],
+     "answer": 2,
+     "explain": "Freezing describes the weather."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "On Sundays I ___ late, until ten o'clock.",
+     "answers": [
+      "sleep"
+     ],
+     "explain": "Sleep late = to sleep until late."
+    },
+    {
+     "id": "E6",
+     "type": "translate",
+     "prompt": "Me gusta comer fuera los fines de semana.",
+     "answers": [
+      "I like to eat out on weekends.",
+      "I like eating out on weekends.",
+      "I like to eat out on the weekend.",
+      "I like eating out on the weekend.",
+      "I like to eat out on the weekends.",
+      "I like eating out on the weekends."
+     ],
+     "explain": "Eat out = to eat at a restaurant, not at home."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Small talk and actually",
+   "instructions": "Choose or complete the natural answer.",
+   "topic": "e-smalltalk",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "— So, you're American? — ___",
+     "options": [
+      "Well, actually, I'm from Canada.",
+      "Me too.",
+      "I do too."
+     ],
+     "answer": 0,
+     "explain": "Actually politely corrects someone."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "You are next to a stranger at the bus stop. What do you say to start a conversation?",
+     "options": [
+      "It's cold tonight.",
+      "What's your salary?",
+      "Are you allergic?"
+     ],
+     "answer": 0,
+     "explain": "Comment on the weather or the place."
+    },
+    {
+     "id": "F3",
+     "type": "order",
+     "prompt": "Put the words in order.",
+     "words": [
+      "Actually,",
+      "I",
+      "teach",
+      "skiing",
+      "every",
+      "winter"
+     ],
+     "answers": [
+      "Actually, I teach skiing every winter."
+     ],
+     "explain": "Actually at the start gives surprising information."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "— I don't watch much TV. — ___ Just soccer, actually.",
+     "options": [
+      "Me neither.",
+      "Me too.",
+      "I am too."
+     ],
+     "answer": 0,
+     "explain": "Negative → Me neither."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "By the ___, my name's Chris.",
+     "answers": [
+      "way"
+     ],
+     "explain": "By the way = a phrase to introduce something new."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "— I don't watch many sports. — ___ I watch all the basketball games.",
+     "options": [
+      "Really?",
+      "Me neither.",
+      "I don't either."
+     ],
+     "answer": 0,
+     "explain": "Really? shows polite disagreement."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the words in order",
+   "instructions": "Form the sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order.",
+     "words": [
+      "Are",
+      "you",
+      "from",
+      "a",
+      "big",
+      "family"
+     ],
+     "answers": [
+      "Are you from a big family?"
+     ],
+     "explain": "be + subject."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order.",
+     "words": [
+      "Where",
+      "does",
+      "your",
+      "best",
+      "friend",
+      "live"
+     ],
+     "answers": [
+      "Where does your best friend live?"
+     ],
+     "explain": "Wh- + does + subject + base verb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order.",
+     "words": [
+      "Do",
+      "you",
+      "work",
+      "on",
+      "weekends"
+     ],
+     "answers": [
+      "Do you work on weekends?"
+     ],
+     "explain": "Do + subject + verb."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order.",
+     "words": [
+      "What",
+      "does",
+      "your",
+      "brother",
+      "do"
+     ],
+     "answers": [
+      "What does your brother do?"
+     ],
+     "explain": "What does ... do? = what is ... job?"
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order.",
+     "words": [
+      "don't",
+      "either",
+      "I",
+      "cats",
+      "like"
+     ],
+     "answers": [
+      "I don't like cats either."
+     ],
+     "explain": "Either goes at the end of a negative sentence."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order.",
+     "words": [
+      "She",
+      "doesn't",
+      "live",
+      "with",
+      "her",
+      "parents"
+     ],
+     "answers": [
+      "She doesn't live with her parents."
+     ],
+     "explain": "doesn't + base verb."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Write the sentence in English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "¿De dónde son tus padres?",
+     "answers": [
+      "Where are your parents from?"
+     ],
+     "explain": "Wh- + be + subject + from."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Mi hermano no trabaja en un banco.",
+     "answers": [
+      "My brother doesn't work in a bank.",
+      "My brother does not work in a bank."
+     ],
+     "explain": "doesn't + base verb."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "¿Vives solo?",
+     "answers": [
+      "Do you live alone?"
+     ],
+     "explain": "Do + subject + verb."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Yo tampoco veo mucha tele.",
+     "answers": [
+      "I don't watch much TV either.",
+      "I don't watch much television either.",
+      "I don't watch a lot of TV either.",
+      "I don't watch a lot of television either."
+     ],
+     "explain": "Negative → either."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "En realidad, soy de Canadá.",
+     "answers": [
+      "Actually, I'm from Canada.",
+      "Actually, I am from Canada.",
+      "I'm from Canada, actually.",
+      "I am from Canada, actually."
+     ],
+     "explain": "Actually = in fact."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "¿Tu amigo estudia tiempo completo?",
+     "answers": [
+      "Does your friend study full-time?",
+      "Is your friend a full-time student?"
+     ],
+     "explain": "Does + subject + verb; or be + a full-time student."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed review",
+   "instructions": "Choose or complete.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "___ your sister live with you?",
+     "options": [
+      "Do",
+      "Does",
+      "Is"
+     ],
+     "answer": 1,
+     "explain": "Sister = she → Does."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "I'm not an animal lover. — I'm not ___.",
+     "answers": [
+      "either"
+     ],
+     "explain": "Negative → either."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "Where works your brother?",
+     "answers": [
+      "Where does your brother work?"
+     ],
+     "explain": "Wh- + does + subject + base verb."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "— So you're from Spain? — ___",
+     "options": [
+      "No, actually, I'm from Mexico.",
+      "Me too, actually.",
+      "Yes, I don't."
+     ],
+     "answer": 0,
+     "explain": "Actually to correct someone."
+    },
+    {
+     "id": "M5",
+     "type": "fix",
+     "prompt": "my sister maria works in monterrey.",
+     "answers": [
+      "My sister Maria works in Monterrey."
+     ],
+     "explain": "Capital letters at the start, for the name, and the city.",
+     "case": true
+    },
+    {
+     "id": "M6",
+     "type": "translate",
+     "prompt": "Tengo un trabajo de medio tiempo.",
+     "answers": [
+      "I have a part-time job.",
+      "I've got a part-time job."
+     ],
+     "explain": "Part-time job."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "He ___ a full-time job.",
+     "options": [
+      "doesn't has",
+      "doesn't have",
+      "don't have"
+     ],
+     "answer": 1,
+     "explain": "doesn't + base verb."
+    },
+    {
+     "id": "M8",
+     "type": "choice",
+     "prompt": "— I can't swim. — ___",
+     "options": [
+      "I can't either.",
+      "I can either.",
+      "Me too."
+     ],
+     "answer": 0,
+     "explain": "Negative with can't → I can't either."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "Yesterday I ___ (go) to a club with my friends.",
+     "answers": [
+      "went"
+     ],
+     "explain": "Irregular past simple: go → went."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "Mexico City is ___ (big) than Puebla.",
+     "answers": [
+      "bigger"
+     ],
+     "explain": "Short comparative: big → bigger."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a message of 60 to 100 words to someone you have just met: say where you live and with whom, what you do for a living, what you do in your free time, and ask two questions. Opening example: Hi! I'm Carlos and I live in Puebla...",
+   "targets": [
+    "be and simple present",
+    "questions with do/does",
+    "capital letters and punctuation"
+   ],
+   "checklist": [
+    "Subject in every sentence",
+    "doesn't / don't + base verb (no -s)",
+    "Two well-formed questions (do/does or be)",
+    "Capital letters for names, cities, and I",
+    "Commas in lists and a question mark at the end"
+   ],
+   "model": "Hi! I'm Carlos and I live in Puebla with my parents and my sister. I work in a bank, and I like my job. My sister doesn't work. She studies at the university. In my free time, I play soccer and I read comics. I don't watch much TV. My friends and I go to the cinema on Saturdays. Do you live in Mexico City? What do you do in your free time? Maybe we can meet one day!"
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a dialogue of 60 to 100 words between you and a stranger at a party: start with a comment, say your name with by the way, find two things in common (me too / me neither / I do too), and use actually once.",
+   "targets": [
+    "me too / me neither",
+    "too / either",
+    "actually",
+    "general questions"
+   ],
+   "checklist": [
+    "An opening comment about the place or the weather",
+    "By the way, my name's...",
+    "One positive match (too) and one negative match (either / Me neither)",
+    "Actually used correctly",
+    "Correct capital letters and punctuation"
+   ],
+   "model": "A: Nice party, isn't it? The weather is perfect tonight.\nB: Yes, it is. By the way, my name's Laura.\nA: I'm Tom. Nice to meet you. I love Mexican food.\nB: I do too! I eat tacos every week.\nA: That's great. I don't like loud music, though.\nB: I don't either. Actually, I came to this party because of my friend.\nA: Me neither! I only came for the food.\nB: Then let's go and eat something together."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Sofia's first party at the language club",
+   "intro": "Read the text and answer.",
+   "paragraphs": [
+    "Sofia is 24 and she lives in Guadalajara. She isn't an only child: she has two brothers and one sister. She lives with her parents in a house near the center, and her brothers live nearby. Sofia works part-time in a software company, and she studies English at night. \"I want to make new friends,\" she says, \"because I don't have much free time.\"",
+    "On Saturday she goes to a party at her language club. It is freezing outside and there is a long line at the door. A boy next to her says, \"It's cold tonight, huh?\" \"Yes, it is,\" says Sofia. \"I'm a little nervous, actually. I don't know anyone here.\" The boy smiles. \"Me neither! By the way, my name's Diego.\"",
+    "They start to talk. Diego is a full-time student and he works in a vintage store on weekends. \"Do you have any pets?\" asks Sofia. \"No, I don't,\" says Diego. \"I'm an animal lover, but I'm allergic to cats.\" \"I am too!\" says Sofia. \"I have a dog, but I can't have a cat.\" They also learn that Diego doesn't watch much TV, and Sofia doesn't either. They both prefer documentaries and sports.",
+    "When the party ends, Diego asks, \"Do you want to eat out tomorrow? I don't sleep late on Sundays.\" \"Sure,\" says Sofia. \"I'm not a morning person, actually, but I can wake up early!\" She thinks it's easy to make friends when you smile, ask questions, and listen."
+   ],
+   "glossary": [
+    {
+     "en": "nearby",
+     "def": "near; not far away"
+    },
+    {
+     "en": "freezing",
+     "def": "very cold"
+    },
+    {
+     "en": "line",
+     "def": "a row of people waiting for something"
+    },
+    {
+     "en": "nervous",
+     "def": "worried or afraid; not calm"
+    },
+    {
+     "en": "vintage store",
+     "def": "a shop that sells old clothes"
+    },
+    {
+     "en": "allergic",
+     "def": "having a bad reaction to something, like cats"
+    },
+    {
+     "en": "wake up",
+     "def": "to get up from sleep"
+    },
+    {
+     "en": "listen",
+     "def": "to pay attention to a sound"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Sofia is an only child.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "She has two brothers and one sister."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Where do Sofia's brothers live?",
+     "options": [
+      "With her parents",
+      "Nearby",
+      "In another city"
+     ],
+     "answer": 1,
+     "explain": "Her brothers live nearby."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Why does Sofia want to make new friends?",
+     "options": [
+      "She has a lot of free time",
+      "She doesn't know anyone at work",
+      "She doesn't have much free time"
+     ],
+     "answer": 2,
+     "explain": "She says she doesn't have much free time."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "Sofia works ___ in a software company. (full-time / part-time)",
+     "answers": [
+      "part-time"
+     ],
+     "explain": "She works part-time and studies at night."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "Diego and Sofia are both allergic to cats.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Diego says it, and Sofia answers: I am too."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "What do Diego and Sofia say about TV?",
+     "options": [
+      "They watch a lot of TV",
+      "They don't watch much TV",
+      "Only Diego watches TV"
+     ],
+     "answer": 1,
+     "explain": "Diego doesn't watch much TV, and Sofia doesn't either."
+    },
+    {
+     "id": "R7",
+     "type": "translate",
+     "prompt": "Es fácil hacer amigos si haces preguntas.",
+     "answers": [
+      "It's easy to make friends if you ask questions.",
+      "It is easy to make friends if you ask questions.",
+      "It's easy to make friends when you ask questions.",
+      "It is easy to make friends when you ask questions."
+     ],
+     "explain": "Make friends = to become friends with new people."
+    }
+   ]
+  },
+  "listening": {
+   "title": "At a party",
+   "intro": "Listen to the conversation. You can repeat it.",
+   "lines": [
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "This is a great party, huh?"
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "Yeah, it is, but I don't like the music."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "Really? I kind of like hip-hop. By the way, my name's Tom."
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "Nice to meet you, Tom. I'm Mia. Do you come to this club a lot?"
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "No, I don't. Actually, it's my first time. My brother plays in the band."
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "Oh, really? Which one is he?"
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "The lead singer. He's a full-time musician, and I work in a bank."
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "Cool. I work part-time in a vintage store, and I study art at night."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "What do you do in your free time?"
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "I eat out with friends and I play sports. I'm a big football fan."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "Me too! I don't sleep late on Sundays because I play football in the park."
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "I don't either. Sundays are for sports!"
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "Do you want to play with us this Sunday?"
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "Sure. But I can't run fast, actually."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What does Tom's brother do?",
+     "options": [
+      "He's a bank worker",
+      "He's the lead singer in a band",
+      "He's a football player"
+     ],
+     "answer": 1,
+     "explain": "Tom's brother is the lead singer."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Where does Mia work?",
+     "options": [
+      "In a bank",
+      "In a vintage store",
+      "In a club"
+     ],
+     "answer": 1,
+     "explain": "Mia works part-time in a vintage store."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What does Mia think about the music?",
+     "options": [
+      "She likes it",
+      "She doesn't like it",
+      "She loves hip-hop"
+     ],
+     "answer": 1,
+     "explain": "She says: I don't like the music."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What do Tom and Mia both like?",
+     "options": [
+      "Football",
+      "Cooking",
+      "Documentaries"
+     ],
+     "answer": 0,
+     "explain": "Both like football; Tom: Me too!"
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "Mia can't ___ fast.",
+     "answers": [
+      "run"
+     ],
+     "explain": "She says: I can't run fast, actually."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "My brother plays in the band.",
+     "answers": [
+      "My brother plays in the band."
+     ],
+     "explain": "My brother = he → plays with -s."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Do you come here a lot?",
+     "answers": [
+      "Do you come here a lot?"
+     ],
+     "explain": "Do + subject + base verb."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "I don't sleep late on Sundays.",
+     "answers": [
+      "I don't sleep late on Sundays."
+     ],
+     "explain": "don't + base verb."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Actually, it's my first time.",
+     "answers": [
+      "Actually, it's my first time."
+     ],
+     "explain": "Actually at the start gives new information."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about your family and where you live.",
+     "questions": [
+      "Are you from a big family?",
+      "Do you have any brothers or sisters?",
+      "Where do you live?",
+      "Do you live alone or with your family?"
+     ],
+     "model": "Yes, I am. I'm from a big family. I have two sisters and one brother. I live in Monterrey with my parents. My sisters live nearby. I don't live alone.",
+     "checklist": [
+      "Correct short answers (Yes, I am. / No, I don't.)",
+      "live with / live alone",
+      "don't / doesn't + base verb",
+      "Complete sentences with a subject"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about your job or studies and your free time.",
+     "questions": [
+      "What do you do for a living?",
+      "Do you work full-time or part-time?",
+      "What do you do on weekends?",
+      "Do you sleep late on Sundays?"
+     ],
+     "model": "I'm a student. I study engineering. I don't work full-time, but I have a part-time job in a store. On weekends I eat out with my friends and I play sports. I don't sleep late. I'm a morning person.",
+     "checklist": [
+      "Simple present with I",
+      "Vocabulary: full-time / part-time / major",
+      "Free time: eat out, play sports, sleep late",
+      "Negatives with don't"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Practice small talk with a stranger: make a comment, ask a question, find something in common, and use actually.",
+     "questions": [
+      "It's cold tonight, huh?",
+      "Do you come here a lot?",
+      "I don't watch much TV.",
+      "So, you're from Spain?"
+     ],
+     "model": "Yes, it is. I'm a little cold, actually. No, I don't. It's my first time. By the way, my name's Ana. Me neither! I prefer sports. Well, actually, I'm from Mexico.",
+     "checklist": [
+      "A comment about the weather or the place",
+      "By the way, my name's...",
+      "Me neither / I don't either after a negative",
+      "Actually to give or correct information"
+     ]
+    }
+   ],
+   "repeat": [
+    "Are you from a big family?",
+    "Where does your best friend live?",
+    "I don't either.",
+    "Me too. I love documentaries.",
+    "Actually, I'm from Canada.",
+    "By the way, my name's Chris."
+   ]
+  }
+ }
+}

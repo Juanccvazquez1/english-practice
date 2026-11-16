@@ -1,0 +1,1643 @@
+{
+ "id": "u-b1-06",
+ "level": "B1",
+ "n": 6,
+ "title": "Been there, done that!",
+ "goals": [
+  "Talk about life experiences with the present perfect and irregular past participles.",
+  "Say how many times with ever, never, always, once, twice and many times.",
+  "Tell when to use the present perfect and when to use the simple past.",
+  "Tell been and gone apart when you talk about trips.",
+  "Keep the conversation going with echo questions (Do you? Have you? Did you?).",
+  "Show your attitude with fortunately, unfortunately and amazingly when writing a travel blog."
+ ],
+ "learn": [
+  {
+   "id": "g-pp-form",
+   "kind": "grammar",
+   "title": "Present perfect: form and past participles",
+   "html": "<p>The present perfect talks about experiences or actions at an <strong>unspecified time</strong> in the past: it doesn't matter when it happened, what matters is that it already happened. Form: <strong>have / has + past participle</strong>.</p><table><thead><tr><th>Affirmative</th><th>Negative</th><th>Question</th></tr></thead><tbody><tr><td>I've traveled in Asia.</td><td>I haven't been to Paris.</td><td>Have you seen that movie?</td></tr><tr><td>He's surfed in Hawaii.</td><td>She hasn't tried surfing.</td><td>Has she gone sailing?</td></tr></tbody></table><p>With he / she / it, use <strong>has</strong> ('s) and <strong>hasn't</strong>.</p><p><strong>Regular participles</strong> = same as the past form, with -ed: travel → traveled, try → tried. <strong>Irregular</strong> (you have to memorize them):</p><table><thead><tr><th>Base</th><th>Past</th><th>Past participle</th></tr></thead><tbody><tr><td>be</td><td>was / were</td><td>been</td></tr><tr><td>do</td><td>did</td><td>done</td></tr><tr><td>go</td><td>went</td><td>gone</td></tr><tr><td>have</td><td>had</td><td>had</td></tr><tr><td>see</td><td>saw</td><td>seen</td></tr><tr><td>take</td><td>took</td><td>taken</td></tr><tr><td>forget</td><td>forgot</td><td>forgotten</td></tr><tr><td>break</td><td>broke</td><td>broken</td></tr><tr><td>win</td><td>won</td><td>won</td></tr><tr><td>lose</td><td>lost</td><td>lost</td></tr></tbody></table><p><strong>been vs. gone:</strong> <em>I've been to Paris</em> = I went there and came back. <em>She's gone to Paris</em> = she left and is still there.</p>",
+   "watch": [
+    {
+     "wrong": "She have visited Peru twice.",
+     "right": "She has visited Peru twice.",
+     "why": "He / she / it use has."
+    },
+    {
+     "wrong": "We've never went hiking.",
+     "right": "We've never gone hiking.",
+     "why": "After have comes the past participle (gone), not the past form (went)."
+    },
+    {
+     "wrong": "I've been in Cancún twice.",
+     "right": "I've been to Cancún twice.",
+     "why": "For travel experiences: been to."
+    },
+    {
+     "wrong": "He has broke his phone.",
+     "right": "He has broken his phone.",
+     "why": "The past participle of break is broken."
+    }
+   ]
+  },
+  {
+   "id": "g-freq",
+   "kind": "grammar",
+   "title": "Ever, never, always, once, twice, many times",
+   "html": "<p>These expressions go with the present perfect to say how many times something has happened, or whether it has ever happened.</p><table><thead><tr><th>Expression</th><th>Example</th></tr></thead><tbody><tr><td><strong>ever</strong> (in questions: at any time)</td><td>Have you ever gone white-water rafting?</td></tr><tr><td><strong>never … (before)</strong> (not at any time)</td><td>I've never gone rafting. She's never tried it before.</td></tr><tr><td><strong>always</strong> (all the time, and still true)</td><td>I've always wanted to study acting.</td></tr><tr><td><strong>once / twice / three times / many times / a few times / a couple of times</strong></td><td>We've gone sailing twice. He's seen it many times.</td></tr></tbody></table><p>Short answers: <em>Yes, I have. / No, I haven't.</em> (with he/she: <em>Yes, she has. / No, she hasn't.</em>) <em>Never</em> is already negative: don't use <em>not</em> with never.</p>",
+   "watch": [
+    {
+     "wrong": "I haven't never tried skydiving.",
+     "right": "I've never tried skydiving.",
+     "why": "Never is already negative."
+    },
+    {
+     "wrong": "Have you ever go to Spain?",
+     "right": "Have you ever been to Spain?",
+     "why": "After have comes the past participle."
+    },
+    {
+     "wrong": "She has seen that movie two times ago.",
+     "right": "She has seen that movie twice.",
+     "why": "Ago goes with the simple past; with the present perfect, use twice / two times."
+    }
+   ]
+  },
+  {
+   "id": "g-pp-vs-past",
+   "kind": "grammar",
+   "title": "Present perfect vs. simple past",
+   "html": "<p><strong>Present perfect:</strong> experiences, without saying when (<em>Have you ever gone rafting? Yes, I have.</em>).</p><p><strong>Simple past:</strong> when you give a date, a specific time or details of the event (<em>I went rafting last May. Did you have a good time?</em>).</p><table><thead><tr><th>General question</th><th>Answer with details</th></tr></thead><tbody><tr><td>Have you ever won a prize?</td><td>Yes, I have. I won a contest last year.</td></tr><tr><td>Has she ever lost her phone?</td><td>Yes, she has. She lost it on a bus last week.</td></tr></tbody></table><p>With words for a finished time (<em>yesterday, last week, in 2019, two days ago, when</em>) you always use the <strong>simple past</strong>.</p>",
+   "watch": [
+    {
+     "wrong": "I have seen him yesterday.",
+     "right": "I saw him yesterday.",
+     "why": "Yesterday takes the simple past."
+    },
+    {
+     "wrong": "Did you ever try rock climbing?",
+     "right": "Have you ever tried rock climbing?",
+     "why": "Life experience: present perfect."
+    },
+    {
+     "wrong": "When have you gone to Oaxaca?",
+     "right": "When did you go to Oaxaca?",
+     "why": "When asks about a moment: simple past."
+    }
+   ]
+  },
+  {
+   "id": "g-attitude",
+   "kind": "grammar",
+   "title": "Attitude adverbs: fortunately, unfortunately, amazingly",
+   "html": "<p>They show how you <strong>feel</strong> about what you are saying. They usually go at the start of the sentence, followed by a comma, or at the end.</p><table><thead><tr><th>Adverb</th><th>Use it when…</th><th>Example</th></tr></thead><tbody><tr><td><strong>Fortunately</strong></td><td>you are happy about what happened</td><td>Fortunately, there were some great guides.</td></tr><tr><td><strong>Unfortunately</strong></td><td>you regret what happened or didn't happen</td><td>I didn't see a quetzal bird, unfortunately.</td></tr><tr><td><strong>Amazingly</strong></td><td>you are happy and surprised</td><td>Amazingly, it wasn't really scary.</td></tr></tbody></table>",
+   "watch": [
+    {
+     "wrong": "Unfortunate, we missed the bus.",
+     "right": "Unfortunately, we missed the bus.",
+     "why": "It's an adverb: it ends in -ly."
+    },
+    {
+     "wrong": "Fortunately we lost our passports.",
+     "right": "Unfortunately, we lost our passports.",
+     "why": "Losing your passports is bad: unfortunately."
+    }
+   ]
+  },
+  {
+   "id": "s-response",
+   "kind": "strategy",
+   "title": "Strategy: echo questions (Do you? / Have you?)",
+   "html": "<p>To show interest and keep the conversation going, reply with a <strong>short question</strong> in the <strong>same tense</strong> the other person used, and then ask a question.</p><table><thead><tr><th>Says A</th><th>Replies B</th></tr></thead><tbody><tr><td>I like hip-hop. (simple present)</td><td>Do you? What kind?</td></tr><tr><td>I've seen that movie twice. (present perfect)</td><td>Have you? Did you like it?</td></tr><tr><td>We went to a new club. (simple past)</td><td>Did you? How was it?</td></tr><tr><td>She can swim well. (can)</td><td>Can she?</td></tr></tbody></table><p>More informal and with surprise: <em>You do? You have? You did?</em> (the voice goes up). Other reactions: <em>Wow. I'm impressed! I've heard good things about it.</em></p>"
+  },
+  {
+   "id": "v-experiences",
+   "kind": "vocab",
+   "title": "Good and bad experiences",
+   "words": [
+    {
+     "id": "w-break-valuable",
+     "en": "break something valuable",
+     "es": "romper algo valioso",
+     "example": "I've broken my grandmother's vase.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-fall-hurt",
+     "en": "fall and hurt yourself",
+     "es": "caerse y lastimarse",
+     "example": "He fell and hurt himself while skiing.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-fall-off",
+     "en": "fall off (a raft)",
+     "es": "caerse de (una balsa)",
+     "example": "She fell off the raft twice.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-forget-appointment",
+     "en": "forget an important appointment",
+     "es": "olvidar una cita importante",
+     "example": "I've never forgotten an important appointment.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-get-flu",
+     "en": "get / have the flu",
+     "es": "tener gripe",
+     "example": "My brother has the flu.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-lose-important",
+     "en": "lose something important",
+     "es": "perder algo importante",
+     "example": "I've lost my passport once.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-talent-contest",
+     "en": "enter a talent contest",
+     "es": "participar en un concurso de talentos",
+     "example": "Have you ever entered a talent contest?",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-get-100",
+     "en": "get 100% on a test",
+     "es": "sacar 100 en un examen",
+     "example": "She got 100% on her grammar test.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-speak-famous",
+     "en": "speak to a famous person",
+     "es": "hablar con una persona famosa",
+     "example": "We spoke to a famous chef at the airport.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-exciting-trip",
+     "en": "take an exciting trip",
+     "es": "hacer un viaje emocionante",
+     "example": "They took an exciting trip to Peru.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-win-prize",
+     "en": "win a prize",
+     "es": "ganar un premio",
+     "example": "He won a prize in a photo contest.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-scared",
+     "en": "scared / scary",
+     "es": "asustado/a / de miedo, que da miedo",
+     "example": "I was scared because the ride was scary.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-exciting",
+     "en": "exciting",
+     "es": "emocionante",
+     "example": "Hang gliding is exciting.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-afraid-heights",
+     "en": "be afraid of heights",
+     "es": "tenerle miedo a las alturas",
+     "example": "I'm afraid of heights, so I never climb towers.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "v-outdoor",
+   "kind": "vocab",
+   "title": "Outdoor activities and adventure",
+   "words": [
+    {
+     "id": "w-hang-gliding",
+     "en": "go hang gliding",
+     "es": "volar en ala delta",
+     "example": "I've never gone hang gliding.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-sailing",
+     "en": "go sailing",
+     "es": "ir a navegar en velero",
+     "example": "We've gone sailing a few times.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-surfing",
+     "en": "go surfing",
+     "es": "ir a surfear",
+     "example": "She goes surfing in Oaxaca every summer.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rock-climbing",
+     "en": "go rock climbing",
+     "es": "ir a escalar rocas",
+     "example": "Have you ever gone rock climbing?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-bungee",
+     "en": "go bungee jumping",
+     "es": "hacer bungee jumping",
+     "example": "I'd love to go bungee jumping.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-camping",
+     "en": "go camping",
+     "es": "ir de campamento",
+     "example": "They go camping every spring.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-kite-surfing",
+     "en": "go kite surfing",
+     "es": "hacer kitesurf",
+     "example": "He's gone kite surfing once.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rafting",
+     "en": "go white-water rafting",
+     "es": "hacer rafting",
+     "example": "We went white-water rafting last May.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-hiking",
+     "en": "go hiking",
+     "es": "ir de excursión a pie",
+     "example": "Let's go hiking on Saturday.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-parasailing",
+     "en": "go parasailing",
+     "es": "hacer parasailing",
+     "example": "Have you ever gone parasailing?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-windsurfing",
+     "en": "go windsurfing",
+     "es": "hacer windsurf",
+     "example": "She's never gone windsurfing.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-zip-line",
+     "en": "ride a zip line",
+     "es": "deslizarse en tirolesa",
+     "example": "Amazingly, riding a zip line wasn't scary.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-travel",
+   "kind": "vocab",
+   "title": "Travel words and travel blogs",
+   "words": [
+    {
+     "id": "w-secret-dream",
+     "en": "(secret) dream",
+     "es": "sueño (secreto)",
+     "example": "My secret dream is to see the northern lights.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-hopes-dreams",
+     "en": "hopes and dreams",
+     "es": "esperanzas y sueños",
+     "example": "We talked about our hopes and dreams.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-sailboat",
+     "en": "sailboat",
+     "es": "velero",
+     "example": "They rented a small sailboat."
+    },
+    {
+     "id": "w-waterfall",
+     "en": "waterfall",
+     "es": "cascada",
+     "example": "The waterfall was higher than I expected."
+    },
+    {
+     "id": "w-ruins",
+     "en": "ruins",
+     "es": "ruinas",
+     "example": "We've visited the Mayan ruins in Palenque.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-tent",
+     "en": "tent",
+     "es": "casa de campaña",
+     "example": "We slept in a tent by the river.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-view",
+     "en": "view",
+     "es": "vista",
+     "example": "The view from the top was incredible.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-blog",
+     "en": "blog / blogger",
+     "es": "blog / bloguero/a",
+     "example": "She's a travel blogger.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-flat-tire",
+     "en": "get a flat tire",
+     "es": "ponchar una llanta",
+     "example": "We got a flat tire on the highway.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-guide",
+     "en": "guide",
+     "es": "guía",
+     "example": "Our guide knew every trail.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-hot-air-balloon",
+     "en": "hot air balloon",
+     "es": "globo aerostático",
+     "example": "I've never been in a hot air balloon.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-couple-times",
+     "en": "a couple of times",
+     "es": "un par de veces",
+     "example": "I've seen that movie a couple of times.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions for talking about experiences",
+   "html": "<ul><li><strong>Have you ever …?</strong> — asking about experiences.</li><li><strong>Yes, I have. I … last year.</strong> — answering and giving details in the past.</li><li><strong>No, never. / No, I haven't. Not yet.</strong> — negative answer.</li><li><strong>I've always wanted to …</strong> — talking about a dream.</li><li><strong>Do you? / Have you? / Did you?</strong> — showing interest.</li><li><strong>I'm impressed! / Wow, that sounds amazing.</strong> — reacting.</li><li><strong>I've heard good things about it. How was it?</strong> — keeping the conversation going.</li><li><strong>Fortunately, … / Unfortunately, …</strong> — giving your attitude.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Past participles",
+   "instructions": "Write the past participle of the verb in brackets.",
+   "topic": "g-pp-form",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "I've ___ to Canada twice. (be)",
+     "answers": [
+      "been"
+     ],
+     "explain": "be → been."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Have you ___ that movie? (see)",
+     "answers": [
+      "seen"
+     ],
+     "explain": "see → seen."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "She has ___ her homework. (do)",
+     "answers": [
+      "done"
+     ],
+     "explain": "do → done."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "We've ___ a great time. (have)",
+     "answers": [
+      "had"
+     ],
+     "explain": "have → had."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "He has ___ many photos of the waterfall. (take)",
+     "answers": [
+      "taken"
+     ],
+     "explain": "take → taken."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "They've ___ sushi before. (try)",
+     "answers": [
+      "tried"
+     ],
+     "explain": "Regular, consonant + y: y → i + -ed."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "I've ___ my keys again! (forget)",
+     "answers": [
+      "forgotten"
+     ],
+     "explain": "forget → forgotten."
+    },
+    {
+     "id": "A8",
+     "type": "gap",
+     "prompt": "She has ___ three prizes. (win)",
+     "answers": [
+      "won"
+     ],
+     "explain": "win → won."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "have / has + past participle",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-pp-form",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "She ___ never been to Paris.",
+     "options": [
+      "have",
+      "has",
+      "is"
+     ],
+     "answer": 1,
+     "explain": "She → has."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "They ___ gone sailing many times.",
+     "options": [
+      "has",
+      "have",
+      "are"
+     ],
+     "answer": 1,
+     "explain": "They → have."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "He ___ tried surfing before. (negativa)",
+     "answers": [
+      "hasn't",
+      "has not"
+     ],
+     "explain": "Negative with he: hasn't."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "Ana isn't here. She has ___ to the bank.",
+     "options": [
+      "been",
+      "gone",
+      "went"
+     ],
+     "answer": 1,
+     "explain": "Gone = went away and has not come back."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "I've ___ to Mexico City. It was great, and now I'm back.",
+     "options": [
+      "been",
+      "gone",
+      "go"
+     ],
+     "answer": 0,
+     "explain": "Been = went and came back."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "She have visited Peru twice.",
+     "answers": [
+      "She has visited Peru twice.",
+      "She's visited Peru twice."
+     ],
+     "explain": "She → has."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "We've never went hiking.",
+     "answers": [
+      "We've never gone hiking.",
+      "We have never gone hiking."
+     ],
+     "explain": "Past participle of go: gone."
+    },
+    {
+     "id": "B8",
+     "type": "gap",
+     "prompt": "My parents ___ visited the pyramids before. (negativa)",
+     "answers": [
+      "haven't",
+      "have not"
+     ],
+     "explain": "Negative with they: haven't."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Ever, never, always, once, twice",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-freq",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "I've ___ wanted to learn to surf. (siempre)",
+     "answers": [
+      "always"
+     ],
+     "explain": "Always = always."
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "She's gone sailing ___. (one time)",
+     "options": [
+      "once",
+      "one",
+      "first"
+     ],
+     "answer": 0,
+     "explain": "Once = one time."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "We've been there ___. (dos veces)",
+     "answers": [
+      "twice"
+     ],
+     "explain": "Twice = two times."
+    },
+    {
+     "id": "C4",
+     "type": "fix",
+     "prompt": "I never have tried skydiving before.",
+     "answers": [
+      "I've never tried skydiving before.",
+      "I have never tried skydiving before."
+     ],
+     "explain": "Never goes between have and the past participle."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "___ you ever gone hang gliding?",
+     "options": [
+      "Have",
+      "Did",
+      "Are"
+     ],
+     "answer": 0,
+     "explain": "Ever with experiences: Have you ever…?"
+    },
+    {
+     "id": "C6",
+     "type": "gap",
+     "prompt": "No, I've ___ gone hang gliding.",
+     "answers": [
+      "never"
+     ],
+     "explain": "Never = not at any time."
+    },
+    {
+     "id": "C7",
+     "type": "choice",
+     "prompt": "He's seen that movie ___ times.",
+     "options": [
+      "many",
+      "much",
+      "a lot"
+     ],
+     "answer": 0,
+     "explain": "Many times."
+    },
+    {
+     "id": "C8",
+     "type": "fix",
+     "prompt": "Have you ever go to Spain?",
+     "answers": [
+      "Have you ever been to Spain?",
+      "Have you ever gone to Spain?"
+     ],
+     "explain": "Have + past participle (been / gone)."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Present perfect or simple past",
+   "instructions": "Choose or complete according to the context.",
+   "topic": "g-pp-vs-past",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "I've been to Japan. I ___ there in 2019.",
+     "options": [
+      "went",
+      "have gone",
+      "have been"
+     ],
+     "answer": 0,
+     "explain": "In 2019 is a specific time: simple past."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "Have you ever won a prize? — Yes, I ___ a contest last year.",
+     "options": [
+      "have won",
+      "won",
+      "win"
+     ],
+     "answer": 1,
+     "explain": "Last year: simple past."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "A: Have you ever lost your phone? B: Yes. I ___ it on a bus last week. (lose)",
+     "answers": [
+      "lost"
+     ],
+     "explain": "Last week: simple past."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "___ you enjoy the trip last May?",
+     "options": [
+      "Did",
+      "Have",
+      "Do"
+     ],
+     "answer": 0,
+     "explain": "A specific trip in the past: Did."
+    },
+    {
+     "id": "D5",
+     "type": "fix",
+     "prompt": "I have seen him yesterday.",
+     "answers": [
+      "I saw him yesterday."
+     ],
+     "explain": "Yesterday takes the simple past."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "Did you ever try rock climbing?",
+     "answers": [
+      "Have you ever tried rock climbing?"
+     ],
+     "explain": "Life experience: Have you ever…?"
+    },
+    {
+     "id": "D7",
+     "type": "gap",
+     "prompt": "My brother has ___ his arm twice. (break)",
+     "answers": [
+      "broken"
+     ],
+     "explain": "break → broken."
+    },
+    {
+     "id": "D8",
+     "type": "gap",
+     "prompt": "When ___ you go to Oaxaca? — Last July.",
+     "answers": [
+      "did"
+     ],
+     "explain": "When + simple past."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Echo questions",
+   "instructions": "Choose or complete the short question that shows interest.",
+   "topic": "s-response",
+   "items": [
+    {
+     "id": "E1",
+     "type": "choice",
+     "prompt": "A: I like hip-hop. B: ___?",
+     "options": [
+      "Do you",
+      "Have you",
+      "Did you"
+     ],
+     "answer": 0,
+     "explain": "Simple present → Do you?"
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "A: I've seen that movie twice. B: ___?",
+     "options": [
+      "Have you",
+      "Do you",
+      "Did you"
+     ],
+     "answer": 0,
+     "explain": "Present perfect → Have you?"
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "A: I went to Cancún last week. B: ___ you?",
+     "answers": [
+      "Did"
+     ],
+     "explain": "Simple past → Did you?"
+    },
+    {
+     "id": "E4",
+     "type": "choice",
+     "prompt": "A: I've never eaten pizza. B: ___?",
+     "options": [
+      "You haven't",
+      "Do you",
+      "You didn't"
+     ],
+     "answer": 0,
+     "explain": "Present perfect negative, informal surprise form: You haven't?"
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "A: My sister lives in Canada. B: ___ she?",
+     "answers": [
+      "Does"
+     ],
+     "explain": "Simple present with she: Does she?"
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "A: We're moving next month. B: ___?",
+     "options": [
+      "Are you",
+      "Do you",
+      "Have you"
+     ],
+     "answer": 0,
+     "explain": "Present continuous → Are you?"
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "A: I can speak four languages. B: ___ you?",
+     "answers": [
+      "Can"
+     ],
+     "explain": "With can: Can you?"
+    },
+    {
+     "id": "E8",
+     "type": "choice",
+     "prompt": "A: Have you been to that café? B: No, but I've heard good things about it. ___?",
+     "options": [
+      "How was it",
+      "How it was",
+      "What is it"
+     ],
+     "answer": 0,
+     "explain": "Follow-up question: How was it?"
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Attitude adverbs",
+   "instructions": "Choose or complete with the adverb that expresses how you feel.",
+   "topic": "g-attitude",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "___, I lost my passport at the airport.",
+     "options": [
+      "Unfortunately",
+      "Fortunately",
+      "Amazingly"
+     ],
+     "answer": 0,
+     "explain": "Something bad: Unfortunately."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "___, there was a doctor on the bus, and he helped us.",
+     "options": [
+      "Fortunately",
+      "Unfortunately",
+      "Badly"
+     ],
+     "answer": 0,
+     "explain": "Something good: Fortunately."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "I fell off the raft, but ___ it wasn't scary.",
+     "options": [
+      "amazingly",
+      "unfortunately",
+      "slowly"
+     ],
+     "answer": 0,
+     "explain": "Happy and surprised: amazingly."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "I didn't see the waterfall, ___. (lamentablemente)",
+     "answers": [
+      "unfortunately"
+     ],
+     "explain": "You regret that it didn't happen: unfortunately."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "___, the weather was perfect on our trip! (feliz)",
+     "answers": [
+      "Fortunately",
+      "Amazingly"
+     ],
+     "explain": "Something good: fortunately or amazingly."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "___, the flight was cancelled and we waited six hours.",
+     "options": [
+      "Unfortunately",
+      "Fortunately",
+      "Amazingly"
+     ],
+     "answer": 0,
+     "explain": "Something bad: Unfortunately."
+    },
+    {
+     "id": "F7",
+     "type": "fix",
+     "prompt": "Unfortunate, we missed the bus.",
+     "answers": [
+      "Unfortunately, we missed the bus.",
+      "Unfortunately we missed the bus."
+     ],
+     "explain": "It's an adverb: unfortunately."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to make a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Have",
+      "gone",
+      "you",
+      "ever",
+      "white-water",
+      "rafting"
+     ],
+     "answers": [
+      "Have you ever gone white-water rafting?"
+     ],
+     "explain": "Have + subject + ever + past participle."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "never",
+      "to",
+      "I've",
+      "been",
+      "Paris"
+     ],
+     "answers": [
+      "I've never been to Paris.",
+      "I have never been to Paris."
+     ],
+     "explain": "Never between have and the past participle."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "has",
+      "movie",
+      "She",
+      "twice",
+      "seen",
+      "that"
+     ],
+     "answers": [
+      "She has seen that movie twice."
+     ],
+     "explain": "Has + past participle; twice at the end."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "haven't",
+      "We",
+      "surfing",
+      "tried",
+      "before"
+     ],
+     "answers": [
+      "We haven't tried surfing before."
+     ],
+     "explain": "Negative: haven't + past participle."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Fortunately",
+      "great",
+      "were",
+      "there",
+      "guides"
+     ],
+     "answers": [
+      "Fortunately, there were great guides.",
+      "Fortunately there were great guides."
+     ],
+     "explain": "Attitude adverb at the start."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I",
+      "last",
+      "went",
+      "rafting",
+      "May"
+     ],
+     "answers": [
+      "I went rafting last May."
+     ],
+     "explain": "Last May: simple past."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Nunca he ido a Europa.",
+     "answers": [
+      "I've never been to Europe.",
+      "I have never been to Europe.",
+      "I've never gone to Europe.",
+      "I have never gone to Europe."
+     ],
+     "explain": "Never + past participle."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿Has ido alguna vez a pescar?",
+     "answers": [
+      "Have you ever gone fishing?",
+      "Have you ever been fishing?"
+     ],
+     "explain": "Have you ever + past participle."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Fui a Cancún el año pasado.",
+     "answers": [
+      "I went to Cancún last year.",
+      "I went to Cancun last year."
+     ],
+     "explain": "Last year: simple past."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Ella ha ganado un premio dos veces.",
+     "answers": [
+      "She has won a prize twice.",
+      "She's won a prize twice.",
+      "She has won two prizes.",
+      "She's won two prizes."
+     ],
+     "explain": "Has + won; twice at the end."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Desafortunadamente, perdí mi boleto.",
+     "answers": [
+      "Unfortunately, I lost my ticket.",
+      "Unfortunately I lost my ticket.",
+      "I lost my ticket, unfortunately."
+     ],
+     "explain": "Unfortunately: you regret what happened."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Ana no está aquí; se fue a Canadá.",
+     "answers": [
+      "Ana isn't here. She's gone to Canada.",
+      "Ana isn't here. She has gone to Canada.",
+      "Ana is not here. She has gone to Canada."
+     ],
+     "explain": "Gone to = went away and is still there."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on all the topics in the unit (includes a review of Unit 5).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "My brother ___ never been to the beach.",
+     "options": [
+      "have",
+      "has",
+      "is"
+     ],
+     "answer": 1,
+     "explain": "He → has."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Have you ever ___ a prize? (win)",
+     "answers": [
+      "won"
+     ],
+     "explain": "win → won."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "I have lost my keys last night.",
+     "answers": [
+      "I lost my keys last night."
+     ],
+     "explain": "Last night: simple past."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "A: I've gone surfing a few times. B: ___?",
+     "options": [
+      "Have you",
+      "Do you",
+      "Did you"
+     ],
+     "answer": 0,
+     "explain": "Present perfect → Have you?"
+    },
+    {
+     "id": "M5",
+     "type": "gap",
+     "prompt": "___, we got a flat tire on the highway. (sorry)",
+     "answers": [
+      "Unfortunately"
+     ],
+     "explain": "You regret what happened."
+    },
+    {
+     "id": "M6",
+     "type": "fix",
+     "prompt": "Have you ever went hang gliding?",
+     "answers": [
+      "Have you ever gone hang gliding?"
+     ],
+     "explain": "Past participle of go: gone."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "She has been to Peru ___.",
+     "options": [
+      "twice",
+      "yesterday",
+      "last year"
+     ],
+     "answer": 0,
+     "explain": "Twice works with the present perfect."
+    },
+    {
+     "id": "M8",
+     "type": "translate",
+     "prompt": "Siempre he querido ir a Japón.",
+     "answers": [
+      "I've always wanted to go to Japan.",
+      "I have always wanted to go to Japan.",
+      "I've always wanted to visit Japan.",
+      "I have always wanted to visit Japan."
+     ],
+     "explain": "Always + have + past participle."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "Dani drives very ___. (careful) (review Unit 5)",
+     "answers": [
+      "carefully"
+     ],
+     "explain": "Manner adverb: carefully."
+    },
+    {
+     "id": "M10",
+     "type": "fix",
+     "prompt": "My roommate always is borrowing my things. (review Unit 5)",
+     "answers": [
+      "My roommate is always borrowing my things.",
+      "My roommate's always borrowing my things."
+     ],
+     "explain": "Always goes after be."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a text of 120 to 180 words about your adventure or travel experiences. Say three things you have done (with frequency words such as once, twice or never before), one thing you have never done and have always wanted to do, and use the simple past to give details about one of them (when and how it happened). Include an attitude adverb. Opening example: I've traveled a lot in Mexico, but I've never been to…",
+   "targets": [
+    "present perfect",
+    "irregular past participles",
+    "never / ever / always / once / twice",
+    "past simple for details",
+    "attitude adverbs"
+   ],
+   "checklist": [
+    "120–180 words",
+    "At least 4 sentences in the present perfect with the correct have / has",
+    "Correctly formed past participles (been, gone, seen…)",
+    "One frequency expression (once, twice, many times) and one never",
+    "I've always wanted to …",
+    "Details of an experience in the simple past, with a date (last May…)",
+    "Fortunately / Unfortunately / Amazingly, followed by a comma"
+   ],
+   "model": "I've traveled a lot in Mexico, but I've never been to the Copper Canyon, and I've always wanted to go there. I've visited Oaxaca twice, and I've been to Mexico City many times because my cousins live there. I've seen the ocean in Cancun once, and I've also gone camping in the mountains near Puebla. I've never traveled by plane outside the country, but I hope to do it soon.\n\nMy best experience was my first trip to Oaxaca. I went there last May with two friends. We took an overnight bus, and we arrived very early in the morning. Amazingly, we found a small hotel for only 300 pesos a night. On the second day, we visited the ruins of Monte Alban, and I took more than a hundred photos. Unfortunately, it rained in the afternoon, so we went back to the hotel and played cards.\n\nI have never eaten so much delicious food in one weekend! Fortunately, my friends love traveling as much as I do, so we are planning another trip for next year."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write an 8-line dialogue between two friends talking about experiences. Use Have you ever…? questions, at least three echo questions (Do you? Have you? Did you?), and one follow-up question in the simple past. Opening example: A: I've been to Oaxaca three times. B: Have you? …",
+   "targets": [
+    "Have you ever…?",
+    "echo questions",
+    "present perfect vs. past simple"
+   ],
+   "checklist": [
+    "8 lines, two people",
+    "Two Have you ever + past participle questions",
+    "Three echo questions in the correct tense",
+    "One answer with details in the simple past",
+    "One reaction (Wow. I'm impressed!)"
+   ],
+   "model": "A: I've been to Oaxaca three times.\nB: Have you? Wow, I'm impressed! When did you go for the first time?\nA: I went in 2019 with my sister. We visited Monte Alban and ate a lot of mole.\nB: Did you? I've never tried real mole. Have you ever cooked it at home?\nA: Yes, I have, but it was a disaster! I burned the sauce last Christmas.\nB: Did you? That's funny! I burned rice once. Have you ever taken a cooking class?\nA: No, I haven't. I've always wanted to, though.\nB: Really? Well, I've never taken one either. Let's sign up together!"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Three days in Chiapas",
+   "intro": "Read this travel blog and answer the questions.",
+   "paragraphs": [
+    "Hi, everyone! I'm back from my first big adventure trip, and I want to tell you all about it. I've always wanted to visit Chiapas, and last month I finally went with my cousin Elena. We stayed for three days, and we did more than I ever imagined.",
+    "On the first day we visited the waterfalls of Agua Azul. Amazingly, the water really is blue! Elena has been there twice, but for me it was the first time. We took a lot of photos, and I swam for an hour. Unfortunately, I forgot my sunglasses, and the sun was very strong.",
+    "On the second day we went white-water rafting. I've never been a brave person, and I was scared at first. A guide gave us a helmet and explained everything slowly. Fortunately, our guide was very patient, and in the end it wasn't scary at all. I fell off the raft once, but I laughed about it later. Have you ever gone rafting? If you haven't, you should try it.",
+    "On the last day we visited the ruins of Palenque. We had a beautiful view of the jungle from the top of the temple. I've seen many pyramids in books, but I've never seen anything like that in person. We also rode a zip line over the trees. Elena had done it before, but I hadn't, and I screamed the whole time.",
+    "Of course, the trip wasn't perfect. We got a flat tire on the way back, and we waited almost two hours for help. Still, it was a great trip, and I've already started planning the next one. I've heard good things about Oaxaca and the Yucatán, so maybe I'll go there next year. Where have you been this year? Write to me in the comments, and tell me your favorite place!"
+   ],
+   "glossary": [
+    {
+     "en": "waterfall",
+     "def": "a large stream of water falling down from a high place"
+    },
+    {
+     "en": "helmet",
+     "def": "a hard hat that protects your head"
+    },
+    {
+     "en": "brave",
+     "def": "not afraid of danger or difficult situations"
+    },
+    {
+     "en": "scared",
+     "def": "feeling fear about something"
+    },
+    {
+     "en": "ruins",
+     "def": "the remains of old buildings that are no longer complete"
+    },
+    {
+     "en": "temple",
+     "def": "a building where people worship a god or gods"
+    },
+    {
+     "en": "flat tire",
+     "def": "a tire that has lost its air, so it cannot be used"
+    },
+    {
+     "en": "comments",
+     "def": "remarks or opinions people share about something"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "The narrator visited Chiapas for a week.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "They stayed for three days."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Elena had been to Agua Azul before.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Elena has been there twice."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What did the narrator forget at the waterfalls?",
+     "options": [
+      "Her sunglasses",
+      "Her camera",
+      "Her helmet"
+     ],
+     "answer": 0,
+     "explain": "I forgot my sunglasses."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Why wasn't the rafting scary at the end?",
+     "options": [
+      "The guide was patient and explained everything.",
+      "The river was very slow.",
+      "She didn't go in the raft."
+     ],
+     "answer": 0,
+     "explain": "Fortunately, our guide was very patient."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "They waited almost ___ hours for help with the flat tire.",
+     "answers": [
+      "two",
+      "2"
+     ],
+     "explain": "Waited almost two hours."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "The narrator has never seen anything like Palenque ___ person. (in)",
+     "answers": [
+      "in"
+     ],
+     "explain": "In person = en persona."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "Which place has the narrator heard good things about?",
+     "options": [
+      "Oaxaca and the Yucatán",
+      "Monterrey",
+      "Veracruz"
+     ],
+     "answer": 0,
+     "explain": "I've heard good things about Oaxaca and the Yucatán."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Have you ever…?",
+   "intro": "Listen to the conversation between two friends. You can replay it.",
+   "lines": [
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Hey, Pablo! Did you have a good vacation?"
+    },
+    {
+     "who": "Pablo",
+     "voice": "glassy",
+     "text": "It was amazing! I went to Baja California and I went kayaking for the first time."
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Did you? I've never been kayaking. Was it difficult?"
+    },
+    {
+     "who": "Pablo",
+     "voice": "glassy",
+     "text": "A little. I fell into the water twice, but fortunately the water was warm."
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Wow. Have you ever gone surfing too?"
+    },
+    {
+     "who": "Pablo",
+     "voice": "glassy",
+     "text": "Yes, I have. I've gone surfing a few times in Oaxaca."
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Have you? I've always wanted to try it. Is it scary?"
+    },
+    {
+     "who": "Pablo",
+     "voice": "glassy",
+     "text": "Not really. Unfortunately, I'm not very good at it. And you? Have you done anything exciting this year?"
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Well, I went hot air ballooning in Teotihuacán last March."
+    },
+    {
+     "who": "Pablo",
+     "voice": "glassy",
+     "text": "You did? That's incredible! How was it?"
+    },
+    {
+     "who": "Nora",
+     "voice": "airy",
+     "text": "Beautiful. I've been afraid of heights all my life, but amazingly, I loved it."
+    },
+    {
+     "who": "Pablo",
+     "voice": "glassy",
+     "text": "I'm impressed! Let's go on a trip together next summer."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Where did Pablo go on vacation?",
+     "options": [
+      "Baja California",
+      "Oaxaca",
+      "Teotihuacán"
+     ],
+     "answer": 0,
+     "explain": "I went to Baja California."
+    },
+    {
+     "id": "L2",
+     "type": "gap",
+     "prompt": "Pablo fell into the water ___ times while kayaking.",
+     "answers": [
+      "two",
+      "2"
+     ],
+     "explain": "He fell into the water twice."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Nora has been kayaking before.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Nora: I've never been kayaking."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "How often has Pablo gone surfing?",
+     "options": [
+      "A few times",
+      "Never",
+      "Many times"
+     ],
+     "answer": 0,
+     "explain": "I've gone surfing a few times."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What did Nora do last March?",
+     "options": [
+      "She went hot air ballooning.",
+      "She went surfing.",
+      "She went rock climbing."
+     ],
+     "answer": 0,
+     "explain": "I went hot air ballooning in Teotihuacán last March."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "How did Nora feel about the balloon trip?",
+     "options": [
+      "She loved it, even though she's afraid of heights.",
+      "She was scared and didn't like it.",
+      "She was bored."
+     ],
+     "answer": 0,
+     "explain": "Amazingly, I loved it."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "I fell into the water twice, but fortunately the water was warm.",
+     "answers": [
+      "I fell into the water twice, but fortunately the water was warm.",
+      "I fell into the water twice but fortunately the water was warm."
+     ],
+     "explain": "Pasado simple + adverbio de actitud."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "I've gone surfing a few times in Oaxaca.",
+     "answers": [
+      "I've gone surfing a few times in Oaxaca.",
+      "I have gone surfing a few times in Oaxaca."
+     ],
+     "explain": "Presente perfecto con frecuencia."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "I've always wanted to try it.",
+     "answers": [
+      "I've always wanted to try it.",
+      "I have always wanted to try it."
+     ],
+     "explain": "Always + have + participio."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Have you done anything exciting this year?",
+     "answers": [
+      "Have you done anything exciting this year?"
+     ],
+     "explain": "Pregunta en presente perfecto."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about adventure activities that you have done or have never done.",
+     "questions": [
+      "Have you ever gone camping?",
+      "Have you ever tried a water sport?",
+      "How many times have you done it?",
+      "What is something you've never done?"
+     ],
+     "model": "I've gone camping a few times, and I've been to the beach many times. I've never gone surfing, but I've always wanted to try it. I've never gone bungee jumping because I'm afraid of heights.",
+     "checklist": [
+      "have / has + past participle",
+      "never / always / a few times",
+      "Short answer: Yes, I have. / No, I haven't.",
+      "go + activity-ing"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Tell the details of a trip or a special experience.",
+     "questions": [
+      "Where did you go?",
+      "When did you go?",
+      "Who did you go with?",
+      "What happened? Was it good or bad?"
+     ],
+     "model": "I went to Mazatlán last December with my family. We stayed for five days. Fortunately, the weather was beautiful. Unfortunately, I lost my phone on the beach, but a man found it, and I got it back.",
+     "checklist": [
+      "Simple past with a date",
+      "Fortunately / Unfortunately",
+      "Clear order of events",
+      "Correct irregular past (went, lost, found)"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Have a conversation with your partner: they tell you something and you reply with interest.",
+     "questions": [
+      "I've seen that movie three times. (Respond!)",
+      "We went to a new restaurant last week. (Respond!)",
+      "My sister has won two prizes. (Respond!)",
+      "I love hip-hop. (Respond!)"
+     ],
+     "model": "Have you? Did you like it? — Did you? How was it? — Has she? That's impressive! — Do you? What kind of hip-hop?",
+     "checklist": [
+      "Same tense as the other person",
+      "Short question + follow-up question",
+      "Rising intonation",
+      "Reaction (Wow, I'm impressed)"
+     ]
+    }
+   ],
+   "repeat": [
+    "Have you ever gone rafting?",
+    "I've never been to Europe.",
+    "She's won a prize twice.",
+    "I went to Cancún last year.",
+    "Fortunately, the guide was very patient.",
+    "Have you? How was it?"
+   ]
+  }
+ }
+}

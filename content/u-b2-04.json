@@ -1,0 +1,1750 @@
+{
+ "id": "u-b2-04",
+ "level": "B2",
+ "n": 4,
+ "title": "What have you been up to?",
+ "goals": [
+  "Catch up with someone: What have you been doing lately? / I've been going to a class since September.",
+  "Tell apart the present perfect continuous (activity in progress) from the present perfect (result, quantity).",
+  "Express duration with since, for and in, and use already, still and yet clearly.",
+  "Talk about films: genres, effects, endings and reviews.",
+  "Contrast ideas with although, even though and even if when writing a review.",
+  "Ask for a favor politely: I was wondering if you could…"
+ ],
+ "learn": [
+  {
+   "id": "g-ppc",
+   "kind": "grammar",
+   "title": "Present perfect continuous vs. present perfect",
+   "html": "<p>Both tenses connect the past with the present, but they focus on different things.</p><table><thead><tr><th></th><th>Present perfect continuous</th><th>Present perfect</th></tr></thead><tbody><tr><td><strong>Form</strong></td><td>have / has + <strong>been</strong> + verb-<strong>ing</strong></td><td>have / has + past participle</td></tr><tr><td><strong>Focus</strong></td><td>an activity in progress or repeated that started earlier and continues until now</td><td>a result or quantity: how many things, how many times</td></tr><tr><td><strong>Example</strong></td><td>I've been going to a pottery class since September.</td><td>I've made eight vases so far.</td></tr><tr><td><strong>Question</strong></td><td>What have you been doing lately? Have you been taking any classes?</td><td>How many bowls have you made?</td></tr></tbody></table><ul><li>The continuous is also used for an activity that has just finished and is visible: <em>You're dirty! What have you been doing?</em></li><li>State verbs (<em>know, like, have, be, want, believe</em>) are not used in the continuous: <em>I've known her for years.</em></li><li>With <em>how long</em> the continuous is preferred for activities: <em>How long have you been studying English?</em></li><li>Common words: <em>lately, recently, so far, all day, these days</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I'm living here since 2019.",
+     "right": "I've been living here since 2019.",
+     "why": "A situation that started in the past and continues now uses the present perfect (continuous), not the present."
+    },
+    {
+     "wrong": "I've been knowing her for years.",
+     "right": "I've known her for years.",
+     "why": "Know is a state verb: it is not used in the continuous."
+    },
+    {
+     "wrong": "I've been making eight bowls so far.",
+     "right": "I've made eight bowls so far.",
+     "why": "When you talk about results, use the present perfect simple."
+    },
+    {
+     "wrong": "Have you been took any classes?",
+     "right": "Have you been taking any classes?",
+     "why": "After been comes a verb with -ing."
+    }
+   ]
+  },
+  {
+   "id": "v-catchup",
+   "kind": "vocab",
+   "title": "Catching up (getting up to date with someone)",
+   "words": [
+    {
+     "id": "w-lately",
+     "en": "lately",
+     "es": "últimamente",
+     "example": "What have you been doing lately?",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-recently",
+     "en": "recently",
+     "es": "recientemente",
+     "example": "I've recently started a new hobby.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-so-far",
+     "en": "so far",
+     "es": "hasta ahora",
+     "example": "I've read three books so far this year.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-in-ages-in-months",
+     "en": "in ages / in months",
+     "es": "en mucho tiempo / en meses (solo negativo)",
+     "example": "I haven't been to the beach in ages.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-catch-up",
+     "en": "catch up",
+     "es": "ponerse al día",
+     "example": "Let's have coffee and catch up.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-what-have-you-been-up-to",
+     "en": "What have you been up to?",
+     "es": "¿Qué has estado haciendo?",
+     "example": "Hi, Pedro! What have you been up to?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-take-a-day-off",
+     "en": "take a day off",
+     "es": "tomarse un día libre",
+     "example": "I'm taking a day off to rest.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-to-a-pottery-class",
+     "en": "go to a pottery class",
+     "es": "ir a una clase de cerámica",
+     "example": "She's been going to a pottery class since March.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-take-a-weight-training-class",
+     "en": "take a weight training class",
+     "es": "tomar una clase de pesas",
+     "example": "He takes a weight training class twice a week.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-work-out",
+     "en": "work out",
+     "es": "hacer ejercicio",
+     "example": "I've been working out every morning.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-sign-up-for",
+     "en": "sign up for",
+     "es": "inscribirse en",
+     "example": "I signed up for a painting course.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-keep-busy",
+     "en": "keep busy",
+     "es": "mantenerse ocupado",
+     "example": "I keep busy with two part-time jobs.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-karate",
+     "en": "karate",
+     "es": "karate",
+     "example": "He's been doing karate for nine years."
+    }
+   ]
+  },
+  {
+   "id": "g-since-for",
+   "kind": "grammar",
+   "title": "since, for and in for duration",
+   "html": "<p>To say how long something that started earlier and reaches up to today lasts:</p><table><thead><tr><th>Word</th><th>Used with</th><th>Example</th></tr></thead><tbody><tr><td><strong>since</strong></td><td>a <strong>point</strong> in time (year, month, day, hour, or an action)</td><td>since September / since 2020 / since I saw you last</td></tr><tr><td><strong>for</strong></td><td>a <strong>period</strong> of time (amount)</td><td>for two months / for nine years / for a long time</td></tr><tr><td><strong>in</strong></td><td>a period, <strong>only in negatives</strong> (equivalent to for)</td><td>I haven't been out to eat in months. / in ages</td></tr></tbody></table><ul><li><strong>Since</strong> can also be a conjunction: <em>What have you been doing since I saw you last?</em> (after since + past simple).</li><li>Don't use the present with these expressions: <em>I live here since 2018</em> is incorrect in English.</li><li><strong>Lately</strong> and <strong>recently</strong> go with the present perfect; <strong>so far</strong> usually goes at the end or at the beginning.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I've been here since three hours.",
+     "right": "I've been here for three hours.",
+     "why": "Since needs a point in time; three hours is a period."
+    },
+    {
+     "wrong": "She's been working here for 2018.",
+     "right": "She's been working here since 2018.",
+     "why": "2018 is a point in time: since."
+    },
+    {
+     "wrong": "I've worked there from six months.",
+     "right": "I've worked there for six months.",
+     "why": "From does not work for duration up to now: use for."
+    }
+   ]
+  },
+  {
+   "id": "g-already-yet",
+   "kind": "grammar",
+   "title": "already, still and yet with the present perfect",
+   "html": "<p>These three words show how an action relates to what you expected.</p><table><thead><tr><th>Word</th><th>Meaning</th><th>Position</th><th>Example</th></tr></thead><tbody><tr><td><strong>yet</strong></td><td>up to now (it is expected to happen); questions and negatives</td><td>at the end</td><td>Have you seen it <strong>yet</strong>? No, I haven't seen it <strong>yet</strong>. / No, not yet.</td></tr><tr><td><strong>already</strong></td><td>already (before now)</td><td>after have or at the end</td><td>I've <strong>already</strong> seen it. / I've seen it <strong>already</strong>.</td></tr><tr><td><strong>still</strong></td><td>still (negative: I've been wanting to and it hasn't happened)</td><td>before haven't / hasn't</td><td>I <strong>still</strong> haven't seen it.</td></tr></tbody></table><ul><li><em>I haven't seen it yet</em> is neutral; <em>I still haven't seen it</em> shows impatience or frustration.</li><li>In American English the past simple is accepted: <em>Did you see it yet? / I already saw it.</em></li><li>Don't mix them: <em>Have you already seen it yet?</em> is redundant.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I haven't finished already.",
+     "right": "I haven't finished yet.",
+     "why": "In negatives use yet (or still before haven't), not already."
+    },
+    {
+     "wrong": "She hasn't still called me.",
+     "right": "She still hasn't called me.",
+     "why": "Still goes before hasn't / haven't."
+    },
+    {
+     "wrong": "I have yet seen it.",
+     "right": "I've already seen it.",
+     "why": "For something that has already happened use already; yet goes at the end in questions and negatives."
+    }
+   ]
+  },
+  {
+   "id": "v-genres",
+   "kind": "vocab",
+   "title": "Types of movies (film genres)",
+   "words": [
+    {
+     "id": "w-action-movie",
+     "en": "action movie",
+     "es": "película de acción",
+     "example": "I like action movies with great fight scenes.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-animated-film",
+     "en": "animated film",
+     "es": "película animada",
+     "example": "An animated film can be fun for adults, too.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-comedy",
+     "en": "comedy",
+     "es": "comedia",
+     "example": "We needed a comedy after a stressful week.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-romantic-comedy",
+     "en": "romantic comedy",
+     "es": "comedia romántica",
+     "example": "A romantic comedy always has a happy ending.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-horror-movie",
+     "en": "horror movie",
+     "es": "película de terror",
+     "example": "I can't sleep after a horror movie.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-science-fiction-sci-fi-movie",
+     "en": "science fiction (sci-fi) movie",
+     "es": "película de ciencia ficción",
+     "example": "The sci-fi movie takes place on Mars.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-thriller",
+     "en": "thriller",
+     "es": "película de suspenso",
+     "example": "The thriller kept me on the edge of my seat."
+    },
+    {
+     "id": "w-fantasy",
+     "en": "fantasy",
+     "es": "fantasía",
+     "example": "Fantasy stories often have dragons and magic.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-musical",
+     "en": "musical",
+     "es": "musical",
+     "example": "I cried at the end of the musical.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-war-movie",
+     "en": "war movie",
+     "es": "película de guerra",
+     "example": "A war movie can be very violent.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-tearjerker",
+     "en": "tearjerker",
+     "es": "película muy triste (para llorar)",
+     "example": "This tearjerker made the whole theater cry."
+    },
+    {
+     "id": "w-love-story",
+     "en": "love story",
+     "es": "historia de amor",
+     "example": "It's a simple love story with beautiful music.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-true-story",
+     "en": "true story",
+     "es": "historia real",
+     "example": "The film is based on a true story.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-3d-movie",
+     "en": "3D movie",
+     "es": "película en 3D",
+     "example": "The 3D movie was expensive but spectacular.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-features",
+   "kind": "vocab",
+   "title": "Movie features (features of a film)",
+   "words": [
+    {
+     "id": "w-special-effects",
+     "en": "special effects",
+     "es": "efectos especiales",
+     "example": "The special effects in this film are incredible.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-fight-scene",
+     "en": "fight scene",
+     "es": "escena de pelea",
+     "example": "The fight scene lasts ten minutes.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-stunt",
+     "en": "stunt",
+     "es": "escena peligrosa (doble de acción)",
+     "example": "The actor did his own stunts."
+    },
+    {
+     "id": "w-suspense",
+     "en": "suspense",
+     "es": "suspenso",
+     "example": "There's a lot of suspense in the last scene."
+    },
+    {
+     "id": "w-sad-ending",
+     "en": "sad ending",
+     "es": "final triste",
+     "example": "I don't like a sad ending.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-costume",
+     "en": "costume",
+     "es": "vestuario, disfraz",
+     "example": "The costumes were colorful and original.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-monster",
+     "en": "monster",
+     "es": "monstruo",
+     "example": "The monster appears at the end.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-alien",
+     "en": "alien",
+     "es": "extraterrestre",
+     "example": "An alien visits a small town.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-cartoon-character",
+     "en": "cartoon character",
+     "es": "personaje de caricatura",
+     "example": "My favorite cartoon character is a talking fox.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-music",
+     "en": "music",
+     "es": "música, banda sonora",
+     "example": "The music made the scene emotional.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-funny-hilarious",
+     "en": "funny / hilarious",
+     "es": "gracioso / muy gracioso",
+     "example": "The film is funny, but the last joke is hilarious.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-scary-violent",
+     "en": "scary / violent",
+     "es": "de miedo / violento",
+     "example": "The movie is scary, so it's not for children.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-subtitled",
+     "en": "subtitled",
+     "es": "con subtítulos",
+     "example": "I prefer a subtitled movie to a dubbed one."
+    },
+    {
+     "id": "w-sequel",
+     "en": "sequel",
+     "es": "secuela",
+     "example": "The sequel isn't as good as the first one.",
+     "cefr": "C1"
+    }
+   ]
+  },
+  {
+   "id": "g-contrast",
+   "kind": "grammar",
+   "title": "although, even though, even if: contrasting ideas",
+   "html": "<p>To join two ideas that seem not to match (contrast) and write richer reviews:</p><table><thead><tr><th>Connector</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td><strong>although</strong></td><td>although (real fact, neutral)</td><td><strong>Although</strong> the story seems for children, adults enjoy it, too.</td></tr><tr><td><strong>even though</strong></td><td>although (real fact, stronger: «despite the fact that»)</td><td><strong>Even though</strong> I don't usually like musicals, I loved this one.</td></tr><tr><td><strong>even if</strong></td><td>even if, «it doesn't matter whether» (hypothetical)</td><td><strong>Even if</strong> you don't like musicals, you might enjoy this one.</td></tr></tbody></table><ul><li>They can go at the beginning (with a comma) or in the middle without a comma: <em>I loved it although it was long.</em></li><li><strong>Don't use but</strong> in the other part: <em>Although it was long, I loved it.</em> (not <em>Although… , but…</em>).</li><li>After these connectors comes a complete sentence (subject + verb).</li><li><em>Even if</em> almost always goes with the present or a hypothetical past: <em>Even if it rains, we'll go.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "Although it was expensive, but I bought it.",
+     "right": "Although it was expensive, I bought it.",
+     "why": "Although already expresses the contrast: it does not take but."
+    },
+    {
+     "wrong": "Even if I was tired yesterday, I went out.",
+     "right": "Even though I was tired yesterday, I went out.",
+     "why": "A real past fact calls for even though; even if is for possibilities."
+    },
+    {
+     "wrong": "Although of the rain, we went out.",
+     "right": "Although it was raining, we went out.",
+     "why": "Although is followed by subject + verb, not by of."
+    }
+   ]
+  },
+  {
+   "id": "v-reviews",
+   "kind": "vocab",
+   "title": "Writing a review (film reviews)",
+   "words": [
+    {
+     "id": "w-magnificent",
+     "en": "magnificent",
+     "es": "magnífico/a",
+     "example": "The scenery is magnificent.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-memorable",
+     "en": "memorable",
+     "es": "memorable",
+     "example": "It's a memorable story that I won't forget.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-mesmerizing",
+     "en": "mesmerizing",
+     "es": "hipnotizante, cautivador",
+     "example": "Her voice is mesmerizing."
+    },
+    {
+     "id": "w-stunning",
+     "en": "stunning",
+     "es": "impresionante, deslumbrante",
+     "example": "The photography is stunning.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-thrilling",
+     "en": "thrilling",
+     "es": "emocionante",
+     "example": "The race scene is thrilling."
+    },
+    {
+     "id": "w-entertainment",
+     "en": "entertainment",
+     "es": "entretenimiento",
+     "example": "It's great entertainment for the whole family.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-break-records",
+     "en": "break records",
+     "es": "romper récords",
+     "example": "The film broke box office records.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-win-awards",
+     "en": "win awards",
+     "es": "ganar premios",
+     "example": "The director has won several awards.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-direct",
+     "en": "direct",
+     "es": "dirigir",
+     "example": "Who directed the movie?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-perform",
+     "en": "perform",
+     "es": "actuar, presentarse",
+     "example": "She performs in a musical every weekend.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-play-a-character",
+     "en": "play a character",
+     "es": "interpretar a un personaje",
+     "example": "He plays a detective in the film.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-recommend",
+     "en": "recommend",
+     "es": "recomendar",
+     "example": "I highly recommend this movie.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-spoil-something-for-someone",
+     "en": "spoil something for someone",
+     "es": "arruinarle la sorpresa a alguien",
+     "example": "Don't spoil the ending for me!",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-take-place",
+     "en": "take place",
+     "es": "tener lugar, ocurrir",
+     "example": "The story takes place in Mexico City in 1985.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fall-in-love-with",
+     "en": "fall in love (with)",
+     "es": "enamorarse (de)",
+     "example": "They fall in love in the first ten minutes.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-cry",
+     "en": "cry",
+     "es": "llorar",
+     "example": "I always cry at sad endings.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "e-favors",
+   "kind": "expressions",
+   "title": "Asking for a favor politely",
+   "html": "<p>To ask for an important favor or in formal situations:</p><ul><li><strong>I was wondering, could you…?</strong> — <em>I was wondering, could you write a reference for me?</em></li><li><strong>I was wondering if I / you could…</strong> — <em>I was wondering if I could ask you something.</em> (after wondering if use could, not can)</li><li><strong>I wanted to…</strong> — <em>Well, I wanted to ask a favor, actually.</em></li><li><strong>Would it be all right / OK with you if I + past…?</strong> — <em>Would it be OK with you if I picked it up next Monday?</em></li></ul><p><strong>To accept:</strong> <em>Sure. / All right. / OK. / No problem.</em></p><p><strong>To move on to another topic or stage of the conversation:</strong> <em>All right. So, what can I do for you?</em></p><p><strong>To show that you understand:</strong> <em>Right. You need them for your presentation.</em></p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Present perfect continuous and present perfect",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-ppc",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "What have you ___ doing lately?",
+     "answers": [
+      "been"
+     ],
+     "explain": "Question: have + subject + been + -ing."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "I've been ___ to a pottery class since March. (go)",
+     "answers": [
+      "going"
+     ],
+     "explain": "been + verb with -ing."
+    },
+    {
+     "id": "A3",
+     "type": "choice",
+     "prompt": "I ___ eight vases so far.",
+     "options": [
+      "have been making",
+      "have made",
+      "am making"
+     ],
+     "answer": 1,
+     "explain": "Counting results: present perfect simple."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "She ___ been working out a lot recently.",
+     "answers": [
+      "has"
+     ],
+     "explain": "She + has + been + -ing."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "___ you been taking any classes lately?",
+     "options": [
+      "Have",
+      "Do",
+      "Are"
+     ],
+     "answer": 0,
+     "explain": "Present perfect continuous: Have you been…?"
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "I'm living in Puebla since 2018.",
+     "answers": [
+      "I have been living in Puebla since 2018.",
+      "I've been living in Puebla since 2018.",
+      "I have lived in Puebla since 2018.",
+      "I've lived in Puebla since 2018."
+     ],
+     "explain": "A situation that started and continues: present perfect."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "I've been knowing Ana for ten years.",
+     "answers": [
+      "I've known Ana for ten years.",
+      "I have known Ana for ten years."
+     ],
+     "explain": "Know is a state verb: it is not used in the continuous."
+    },
+    {
+     "id": "A8",
+     "type": "gap",
+     "prompt": "My feet hurt. I ___ been standing all day.",
+     "answers": [
+      "have",
+      "'ve"
+     ],
+     "explain": "I have been + -ing."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "since, for, in",
+   "instructions": "Choose or complete with since, for or in.",
+   "topic": "g-since-for",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "I've been studying English ___ 2019.",
+     "answers": [
+      "since"
+     ],
+     "explain": "2019 is a point in time."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "He's been doing karate ___ nine years.",
+     "answers": [
+      "for"
+     ],
+     "explain": "Nine years is a period."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "I haven't been to the movies ___ ages.",
+     "answers": [
+      "in"
+     ],
+     "explain": "In is used only in negatives with periods."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "What have you been doing ___ I saw you last?",
+     "answers": [
+      "since"
+     ],
+     "explain": "Since + past action."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "She's been working here ___ six months.",
+     "options": [
+      "since",
+      "for",
+      "in"
+     ],
+     "answer": 1,
+     "explain": "Six months is a period: for."
+    },
+    {
+     "id": "B6",
+     "type": "choice",
+     "prompt": "They've lived here ___ last September.",
+     "options": [
+      "since",
+      "for",
+      "in"
+     ],
+     "answer": 0,
+     "explain": "Last September is a point in time: since."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "already, still, yet",
+   "instructions": "Complete, order or correct.",
+   "topic": "g-already-yet",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "Have you seen the new comedy ___?",
+     "answers": [
+      "yet"
+     ],
+     "explain": "Yet at the end of questions."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "Yes, I've ___ seen it. It was great.",
+     "answers": [
+      "already"
+     ],
+     "explain": "Already = already (before now)."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "No, I ___ haven't seen it. I've wanted to for weeks.",
+     "answers": [
+      "still"
+     ],
+     "explain": "Still before haven't expresses impatience."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "I haven't finished the book ___.",
+     "options": [
+      "already",
+      "yet",
+      "even if"
+     ],
+     "answer": 1,
+     "explain": "Negative: yet at the end."
+    },
+    {
+     "id": "C5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I've",
+      "already",
+      "the",
+      "seen",
+      "sequel"
+     ],
+     "answers": [
+      "I've already seen the sequel.",
+      "I already have seen the sequel."
+     ],
+     "explain": "Already goes after have."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "I haven't called him already.",
+     "answers": [
+      "I haven't called him yet.",
+      "I still haven't called him."
+     ],
+     "explain": "In negatives use yet or still, not already."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "She hasn't still finished her homework.",
+     "answers": [
+      "She still hasn't finished her homework."
+     ],
+     "explain": "Still goes before hasn't."
+    },
+    {
+     "id": "C8",
+     "type": "choice",
+     "prompt": "\"Have you booked your tickets yet?\" \"___ I'm waiting for my pay.\"",
+     "options": [
+      "No, not yet.",
+      "Yes, not yet.",
+      "No, already."
+     ],
+     "answer": 0,
+     "explain": "Natural short answer: No, not yet."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "although, even though, even if",
+   "instructions": "Complete, choose, order or correct.",
+   "topic": "g-contrast",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "___ the film is long, I enjoyed every minute.",
+     "answers": [
+      "Although",
+      "Even though"
+     ],
+     "explain": "Contrast with a real fact."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "I loved the film ___ though I usually hate horror.",
+     "answers": [
+      "even"
+     ],
+     "explain": "Even though = despite the fact that."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "___ you don't like musicals, you might enjoy this one.",
+     "options": [
+      "Even if",
+      "Although",
+      "Because"
+     ],
+     "answer": 0,
+     "explain": "Even if = it doesn't matter whether (hypothetical)."
+    },
+    {
+     "id": "D4",
+     "type": "fix",
+     "prompt": "Although it was expensive, but I bought the ticket.",
+     "answers": [
+      "Although it was expensive, I bought the ticket.",
+      "It was expensive, but I bought the ticket."
+     ],
+     "explain": "Although and but do not go together."
+    },
+    {
+     "id": "D5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Although",
+      "it",
+      "was",
+      "late,",
+      "we",
+      "watched",
+      "another",
+      "episode"
+     ],
+     "answers": [
+      "Although it was late, we watched another episode."
+     ],
+     "explain": "Although + sentence, comma, result."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "I'll watch it ___ it gets terrible reviews.",
+     "options": [
+      "even if",
+      "although",
+      "even though"
+     ],
+     "answer": 0,
+     "explain": "Hypothetical: even if."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Movies",
+   "instructions": "Complete with the right word.",
+   "topic": "v-genres",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "A ___ is a very sad film that makes you cry.",
+     "answers": [
+      "tearjerker"
+     ],
+     "explain": "Tearjerker = a film that makes people cry."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "A film with robots and spaceships is a science ___ movie.",
+     "answers": [
+      "fiction"
+     ],
+     "explain": "Science fiction = science fiction."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "The special ___ were amazing: the explosions looked real.",
+     "answers": [
+      "effects"
+     ],
+     "explain": "Special effects = special effects."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "The ___ ending made everybody cry.",
+     "answers": [
+      "sad"
+     ],
+     "explain": "Sad ending = sad ending."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "The movie was so ___ that I laughed for two hours.",
+     "answers": [
+      "hilarious"
+     ],
+     "explain": "Hilarious = very funny."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "I won't tell you the end. I don't want to ___ it for you.",
+     "answers": [
+      "spoil"
+     ],
+     "explain": "Spoil something for someone: ruin the surprise for them."
+    },
+    {
+     "id": "E7",
+     "type": "choice",
+     "prompt": "A film about real events is a ___.",
+     "options": [
+      "true story",
+      "fantasy",
+      "musical"
+     ],
+     "answer": 0,
+     "explain": "True story = a story based on real events."
+    },
+    {
+     "id": "E8",
+     "type": "choice",
+     "prompt": "I watched a ___ film with English words at the bottom of the screen.",
+     "options": [
+      "subtitled",
+      "animated",
+      "violent"
+     ],
+     "answer": 0,
+     "explain": "Subtitled = with subtitles."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Asking for favors",
+   "instructions": "Choose, complete, order or correct.",
+   "topic": "e-favors",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "What is the most polite way to ask for a favor?",
+     "options": [
+      "Lend me your car.",
+      "I was wondering if I could borrow your car.",
+      "Give me your car."
+     ],
+     "answer": 1,
+     "explain": "I was wondering if I could… is the most polite."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "I was wondering ___ you could help me move.",
+     "answers": [
+      "if"
+     ],
+     "explain": "I was wondering if…"
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "Would it be OK with you if I ___ the report tomorrow? (send)",
+     "answers": [
+      "sent"
+     ],
+     "explain": "After Would it be OK if I… use the past."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "\"I was wondering if I could leave early.\" \"___\"",
+     "options": [
+      "Sure, no problem.",
+      "I was wondering.",
+      "Even if."
+     ],
+     "answer": 0,
+     "explain": "Sure / No problem accept the favor."
+    },
+    {
+     "id": "F5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I",
+      "was",
+      "wondering",
+      "if",
+      "I",
+      "could",
+      "ask",
+      "you",
+      "something"
+     ],
+     "answers": [
+      "I was wondering if I could ask you something."
+     ],
+     "explain": "I was wondering if I could + verb."
+    },
+    {
+     "id": "F6",
+     "type": "fix",
+     "prompt": "I was wondering if you can help me.",
+     "answers": [
+      "I was wondering if you could help me."
+     ],
+     "explain": "After I was wondering if, use could."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "been",
+      "What",
+      "you",
+      "have",
+      "doing",
+      "lately"
+     ],
+     "answers": [
+      "What have you been doing lately?"
+     ],
+     "explain": "What + have + subject + been + -ing."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I've",
+      "been",
+      "a",
+      "pottery",
+      "going",
+      "to",
+      "class",
+      "since",
+      "March"
+     ],
+     "answers": [
+      "I've been going to a pottery class since March."
+     ],
+     "explain": "have been + -ing + since."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "haven't",
+      "I",
+      "seen",
+      "it",
+      "yet"
+     ],
+     "answers": [
+      "I haven't seen it yet."
+     ],
+     "explain": "Yet at the end."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "still",
+      "She",
+      "finished",
+      "hasn't"
+     ],
+     "answers": [
+      "She still hasn't finished."
+     ],
+     "explain": "Still before hasn't."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Although",
+      "the",
+      "film",
+      "was",
+      "long,",
+      "I",
+      "enjoyed",
+      "it"
+     ],
+     "answers": [
+      "Although the film was long, I enjoyed it."
+     ],
+     "explain": "Although + sentence, result."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "wondering",
+      "I",
+      "if",
+      "was",
+      "could",
+      "you",
+      "help",
+      "me"
+     ],
+     "answers": [
+      "I was wondering if you could help me."
+     ],
+     "explain": "I was wondering if you could + verb."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "¿Qué has estado haciendo últimamente?",
+     "answers": [
+      "What have you been doing lately?",
+      "What have you been doing recently?",
+      "What have you been up to lately?",
+      "What have you been up to recently?"
+     ],
+     "explain": "Present perfect continuous with lately."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Llevo tres años estudiando inglés.",
+     "answers": [
+      "I have been studying English for three years.",
+      "I've been studying English for three years."
+     ],
+     "explain": "For + period with the present perfect continuous."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "No he visto esa película todavía.",
+     "answers": [
+      "I haven't seen that movie yet.",
+      "I haven't seen that film yet.",
+      "I have not seen that movie yet.",
+      "I have not seen that film yet.",
+      "I still haven't seen that movie.",
+      "I still haven't seen that film."
+     ],
+     "explain": "Yet at the end of the negative."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Ya vi la secuela.",
+     "answers": [
+      "I have already seen the sequel.",
+      "I've already seen the sequel.",
+      "I have seen the sequel already.",
+      "I've seen the sequel already.",
+      "I already saw the sequel.",
+      "I saw the sequel already."
+     ],
+     "explain": "Already with the present perfect (or past in American English)."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Aunque estaba cansado, vi la película completa.",
+     "answers": [
+      "Although I was tired, I watched the whole movie.",
+      "Although I was tired, I watched the whole film.",
+      "Although I was tired, I watched the entire movie.",
+      "Although I was tired, I watched the entire film.",
+      "Even though I was tired, I watched the whole movie.",
+      "Even though I was tired, I watched the whole film.",
+      "Even though I was tired, I watched the entire movie.",
+      "Even though I was tired, I watched the entire film.",
+      "I watched the whole movie although I was tired.",
+      "I watched the whole movie even though I was tired.",
+      "I watched the whole film although I was tired.",
+      "I watched the whole film even though I was tired.",
+      "I watched the entire movie although I was tired.",
+      "I watched the entire movie even though I was tired.",
+      "I watched the entire film although I was tired.",
+      "I watched the entire film even though I was tired."
+     ],
+     "explain": "Although / even though + real fact."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Me preguntaba si podrías ayudarme.",
+     "answers": [
+      "I was wondering if you could help me."
+     ],
+     "explain": "I was wondering if you could + verb."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises from different topics in the unit (includes 2 review items from earlier units).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "I've been ___ English for two years.",
+     "options": [
+      "study",
+      "studying",
+      "studied"
+     ],
+     "answer": 1,
+     "explain": "been + -ing."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "How many movies ___ you seen this month?",
+     "answers": [
+      "have"
+     ],
+     "explain": "Present perfect: have + subject + past participle."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "I've been here since two hours.",
+     "answers": [
+      "I've been here for two hours.",
+      "I have been here for two hours."
+     ],
+     "explain": "Two hours is a period: for."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "I haven't seen it ___. Don't tell me the ending!",
+     "options": [
+      "yet",
+      "already",
+      "even if"
+     ],
+     "answer": 0,
+     "explain": "Negative: yet."
+    },
+    {
+     "id": "M5",
+     "type": "gap",
+     "prompt": "___ the story is sad, it has a happy ending.",
+     "answers": [
+      "Although",
+      "Even though"
+     ],
+     "explain": "Contrast between two ideas."
+    },
+    {
+     "id": "M6",
+     "type": "translate",
+     "prompt": "Hemos estado hablando por una hora.",
+     "answers": [
+      "We have been talking for an hour.",
+      "We've been talking for an hour."
+     ],
+     "explain": "have been + -ing + for."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "That thriller was full of ___. I couldn't stop watching.",
+     "answers": [
+      "suspense"
+     ],
+     "explain": "Suspense = suspense."
+    },
+    {
+     "id": "M8",
+     "type": "fix",
+     "prompt": "I was wondering if could I leave early.",
+     "answers": [
+      "I was wondering if I could leave early."
+     ],
+     "explain": "No inversion after if."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "Do you know where the remote ___? (repaso: pregunta indirecta)",
+     "answers": [
+      "is"
+     ],
+     "explain": "Statement word order after where."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "The movie is over. Please turn it ___. (repaso: phrasal verbs)",
+     "answers": [
+      "off"
+     ],
+     "explain": "Turn it off: pronoun before the particle."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write an email of 180 to 250 words to a friend you haven't seen for a long time. Tell them what you have been doing lately (activities with the present perfect continuous and since/for), what you have achieved so far (present perfect, with so far or already), something you haven't done yet (yet / still), and ask for a favor politely (I was wondering if you could…).",
+   "targets": [
+    "present perfect continuous vs. present perfect",
+    "since / for / in",
+    "already / still / yet",
+    "polite favors"
+   ],
+   "checklist": [
+    "180–250 words, with a greeting and a closing",
+    "At least 3 sentences with have/has been + -ing",
+    "Since for a point in time and for for a period",
+    "One sentence with already, one with yet and one with still",
+    "Results with the present perfect (so far)",
+    "A favor with I was wondering if … could",
+    "State verbs without the continuous (know, have)"
+   ],
+   "model": "Hi Carla,\n\nHow are you? I haven't seen you for ages, and I wanted to tell you what I have been doing lately. I have been working on a big project at my company since January, and I have been studying English for six months. I have also been running every morning, so I feel much healthier.\n\nSo far, I have finished my first course and I have saved enough money for a trip. I have already booked the flights to Oaxaca, and I have visited two of the places on my list. My brother has been helping me with the planning, but I still haven't decided which hotel to stay in, and I haven't bought the tickets for the tour yet. I know the city better now, and I have a new apartment, too.\n\nAs you live near the bank, I was wondering if you could do me a favor. Would it be possible for you to collect a package for me next week? I'm not sure I'll be home, and I don't want it to be lost. I would be very grateful, and I will invite you to lunch to thank you.\n\nWrite to me when you can! I haven't heard your news for a long time, and I'm still waiting for the photos of your holiday.\n\nHugs,\nMariana"
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a review of 180 to 250 words of a film you have seen. Include the genre, a short plot summary (no spoilers), effects, acting, music and the ending; use review adjectives (stunning, memorable, thrilling…), at least two contrast connectors (although, even though, even if) and end with a recommendation.",
+   "targets": [
+    "although / even though / even if",
+    "film vocabulary",
+    "review adjectives",
+    "tenses from the unit"
+   ],
+   "checklist": [
+    "180–250 words",
+    "The genre and theme of the film",
+    "At least 3 review adjectives",
+    "At least 2 contrast connectors (no but next to although)",
+    "One sentence with even if",
+    "No spoilers about the ending",
+    "A final recommendation (I highly recommend…)"
+   ],
+   "model": "The Last Lighthouse is a thrilling adventure drama that tells the story of a young engineer who is sent to repair an old lighthouse on a remote island. The main theme is loneliness and the fear of the unknown, and the director builds the tension slowly and carefully.\n\nThe plot is simple, but it keeps you interested from the first minute. Although the story takes place in only one location, the film never feels boring. The special effects are stunning, especially during the storm scenes, when the waves seem to come out of the screen. The acting is also very good. The lead actress gives a memorable performance, and even though she speaks very little, her face says everything. The music is another strong point. The soundtrack is quiet and mysterious, and it makes the most important scenes more emotional.\n\nOf course, the film is not perfect. The first half is a bit slow, and some characters are not developed enough. Even if you usually prefer action movies, I think you will enjoy the atmosphere. I will not say anything about the ending, but it is surprising, and it made me think for days.\n\nOverall, it is a beautiful and intelligent film. I highly recommend it to anyone who likes mystery and wants to see something different at the cinema."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "An email to an old friend",
+   "intro": "Read Valeria's email to her friend Sofía and answer.",
+   "paragraphs": [
+    "Hi Sofia, I can't believe it's been almost a year since we last talked! What have you been doing lately? Please write soon. I want to hear everything. I've been so busy since I started my new job in Querétaro, but I'm finally taking a day off tomorrow, so I have time to write you a long message.",
+    "Let me catch up with you first. I've been living here for eight months now, and I've been going to a pottery class since September. I've already made six bowls and two vases, although they're not very beautiful yet. My teacher says I still haven't learned to center the clay, but I haven't given up. I've also been taking a weight training class on Saturdays. Honestly, I haven't felt this strong in ages, and I've been sleeping much better, too. My coworkers say I look happier, and I think they're right. Living in a new city has been difficult, but these small activities have helped me meet interesting people.",
+    "Last weekend I finally saw The Last Lighthouse, the movie everybody has been talking about. You know I don't usually like fantasy films, but I loved this one. Even though it's almost three hours long, I never looked at my watch. The special effects are stunning, the costumes are magnificent, and the music is mesmerizing. The story takes place on a small island, where a young woman discovers a secret in an old lighthouse. I won't spoil it for you, but there's a sad ending, and I cried for ten minutes. It's a real tearjerker!",
+    "My brother hasn't seen it yet, but he's already planning to go this Friday. He says he'll watch it even if the reviews are bad. Typical! He has been working at a theater downtown since last year, so he sees a lot of movies for free. He tells me the sequel will come out in November, and the director has promised an even bigger story. I'm not sure the second film can be better than the first, but I'm curious. Since I moved here, I haven't had much time for the theater, so this weekend was a real treat. I went alone, bought a huge bag of popcorn, and enjoyed every minute without checking my phone once.",
+    "Have you seen it yet? If not, I was wondering if you could come to Querétaro next month. We could go to the theater together and then have dinner. I'd also like to ask you a favor: could you send me the recipe for your grandmother's mole? I've been trying to make it for weeks, and it never tastes right. I still haven't found the secret! Write soon, and tell me everything. Hugs, Valeria"
+   ],
+   "glossary": [
+    {
+     "en": "catch up",
+     "def": "to talk with someone to learn their news after not seeing them for a while"
+    },
+    {
+     "en": "pottery",
+     "def": "objects such as bowls and vases made from clay"
+    },
+    {
+     "en": "give up",
+     "def": "to stop trying to do something, or to stop doing it"
+    },
+    {
+     "en": "lighthouse",
+     "def": "a tall tower with a light that warns ships about rocks or the coast"
+    },
+    {
+     "en": "tearjerker",
+     "def": "a film or story that makes people cry because it is very sad"
+    },
+    {
+     "en": "spoil",
+     "def": "to tell details that ruin a surprise or an ending for someone"
+    },
+    {
+     "en": "sequel",
+     "def": "a film or book that continues the story of an earlier one"
+    },
+    {
+     "en": "favor",
+     "def": "something you do to help someone, or something you ask someone to do for you"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Where does Valeria live now?",
+     "options": [
+      "In Guadalajara",
+      "In Querétaro",
+      "In Oaxaca"
+     ],
+     "answer": 1,
+     "explain": "Says they started a new job in Querétaro."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Valeria has been going to the pottery class since last year.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Has been going to class since September; has lived there for eight months."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What kind of film does Valeria not usually like?",
+     "options": [
+      "Fantasy",
+      "Comedy",
+      "War movies"
+     ],
+     "answer": 0,
+     "explain": "You know I don't usually like fantasy films."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "The movie is almost ___ hours long.",
+     "answers": [
+      "three",
+      "3"
+     ],
+     "explain": "Even though it's almost three hours long."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "How does the movie end?",
+     "options": [
+      "With a happy ending",
+      "With a sad ending",
+      "Valeria doesn't say"
+     ],
+     "answer": 1,
+     "explain": "There is a sad ending, and Valeria cried."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "Valeria's brother has already seen the movie.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Still hasn't seen it yet; plans to go on Friday."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "Valeria wants the recipe for her friend's grandmother's ___.",
+     "answers": [
+      "mole"
+     ],
+     "explain": "Could you send me the recipe for your grandmother's mole?"
+    }
+   ]
+  },
+  "listening": {
+   "title": "Bumping into a friend",
+   "intro": "Listen to the conversation between two friends. You can repeat it.",
+   "lines": [
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Hey, Pablo! I haven't seen you in ages. What have you been up to?"
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "Hi, Ana! I've been working a lot lately. But I've also been going to a salsa class since January."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Really? That's great! How long have you been dancing?"
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "For about four months. I'm not very good yet, but I'm having fun."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Have you seen the new horror movie yet? Everybody's been talking about it."
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "Not yet. I still haven't had time. Have you?"
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "I've already seen it twice! Even though I don't usually like scary movies, this one is amazing. The special effects are stunning, and it has a lot of suspense."
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "Don't spoil it for me! I'm going on Friday."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "OK, OK. Listen, I was wondering if you could do me a favor."
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "Sure. What do you need?"
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Would it be all right if I borrowed your laptop this weekend? Mine broke yesterday."
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "No problem. I won't need it until Monday."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Thanks so much. You're the best!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "gap",
+     "prompt": "Pablo has been going to a ___ class since January.",
+     "answers": [
+      "salsa"
+     ],
+     "explain": "I've been going to a salsa class since January."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "How long has Pablo been dancing?",
+     "options": [
+      "For about four months",
+      "Since last year",
+      "For two weeks"
+     ],
+     "answer": 0,
+     "explain": "For about four months."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Pablo has already seen the horror movie.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Not yet. He is going on Friday."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What does Ana want to borrow?",
+     "options": [
+      "A camera",
+      "A laptop",
+      "A tablet"
+     ],
+     "answer": 1,
+     "explain": "Borrowed your laptop this weekend."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "When is Pablo going to see the movie?",
+     "options": [
+      "On Friday",
+      "On Monday",
+      "This weekend"
+     ],
+     "answer": 0,
+     "explain": "I'm going on Friday."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "What have you been up to lately?",
+     "answers": [
+      "What have you been up to lately?"
+     ],
+     "explain": "have you been + up to / doing."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "I still haven't had time.",
+     "answers": [
+      "I still haven't had time."
+     ],
+     "explain": "Still antes de haven't."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "I've already seen it twice.",
+     "answers": [
+      "I've already seen it twice.",
+      "I have already seen it twice."
+     ],
+     "explain": "Already goes after have."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "I was wondering if you could do me a favor.",
+     "answers": [
+      "I was wondering if you could do me a favor."
+     ],
+     "explain": "I was wondering if you could + verbo."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Catch up with a friend: tell them what you have been doing lately.",
+     "questions": [
+      "What have you been doing lately?",
+      "How long have you been doing that?",
+      "Have you been taking any classes?",
+      "What have you done so far this month?"
+     ],
+     "model": "I've been working a lot lately, and I've been going to the gym since January. I've been studying English for two years. I haven't taken any classes in ages, but so far this month I've read two books and I've seen three movies.",
+     "checklist": [
+      "have/has been + -ing",
+      "since + point in time and for + period",
+      "Present perfect simple for results (so far)",
+      "in ages / in months in negatives"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about a film: your opinion, the ending and a recommendation.",
+     "questions": [
+      "Have you seen any good movies lately?",
+      "What kind of movies do you like?",
+      "Did it have a sad ending?",
+      "Would you recommend it?"
+     ],
+     "model": "I've already seen a thriller this week. Even though I don't usually like scary movies, I loved it. The special effects were stunning, and it had a lot of suspense. I haven't seen the sequel yet, but I'd highly recommend the first movie.",
+     "checklist": [
+      "already / yet / still in the right places",
+      "although / even though",
+      "Film vocabulary and review adjectives",
+      "A recommendation"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Ask your boss or a colleague for a favor very politely.",
+     "questions": [
+      "Hi! What can I do for you?",
+      "Sure. What do you need?",
+      "When do you need it?",
+      "Is that OK?"
+     ],
+     "model": "I was wondering if I could ask you something. Would it be OK with you if I left early on Friday? I still haven't finished the report, but I can send it tonight.",
+     "checklist": [
+      "I was wondering if I could…",
+      "Would it be OK with you if I + past",
+      "Answers: Sure / All right / OK",
+      "Polite tone"
+     ]
+    }
+   ],
+   "repeat": [
+    "What have you been doing lately?",
+    "I've been going to a pottery class since September.",
+    "I haven't seen it yet.",
+    "I still haven't had time.",
+    "Even though it's long, I loved it.",
+    "I was wondering if you could help me."
+   ]
+  }
+ }
+}

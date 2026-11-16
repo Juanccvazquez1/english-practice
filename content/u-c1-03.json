@@ -1,0 +1,1825 @@
+{
+ "id": "u-c1-03",
+ "level": "C1",
+ "n": 3,
+ "title": "Getting the message across",
+ "goals": [
+  "Use reporting verbs and their patterns accurately (accuse sb of, urge sb to, deny -ing, claim to).",
+  "Report conversations, questions and orders with backshifting of tenses, and know when not to apply it.",
+  "Attribute information with impersonal structures (is said to, reportedly, allegedly, according to).",
+  "Soften claims with hedging (it seems that, arguably, tend to) according to the degree of certainty.",
+  "Clarify, summarise and rephrase what others say, and talk about misunderstandings with communication vocabulary.",
+  "Write a formal summary of a meeting and an opinion text with a nuanced tone."
+ ],
+ "learn": [
+  {
+   "id": "g-report-verbs",
+   "kind": "grammar",
+   "title": "Reporting verbs and their patterns",
+   "html": "<p>At C1 level, <em>say</em> and <em>tell</em> are no longer enough. Reporting verbs encode the <strong>intention</strong> of the speaker (warn, accuse, admit, insist), and each one requires a different <strong>pattern</strong>. Learning them as a block (verb + structure) is more effective than learning isolated translations.</p><table><thead><tr><th>Pattern</th><th>Typical verbs</th><th>Example</th></tr></thead><tbody><tr><td>verb + <strong>that</strong>-clause</td><td>admit, claim, insist, point out, maintain, mention</td><td>She <strong>pointed out that</strong> the deadline had passed.</td></tr><tr><td>verb + <strong>to</strong> + infinitive</td><td>claim, promise, refuse, threaten, offer, agree, demand</td><td>He <strong>claimed to have</strong> met the president.</td></tr><tr><td>verb + <strong>object + to</strong> + infinitive</td><td>urge, advise, warn, persuade, encourage, remind, order, invite</td><td>They <strong>urged</strong> residents <strong>to leave</strong> the area.</td></tr><tr><td>verb + <strong>-ing</strong></td><td>admit, deny, suggest, recommend, propose, mention</td><td>He <strong>denied taking</strong> the money.</td></tr><tr><td>verb + <strong>object + preposition + -ing</strong></td><td>accuse sb <strong>of</strong>, blame sb <strong>for</strong>, congratulate sb <strong>on</strong>, criticise sb <strong>for</strong>, thank sb <strong>for</strong></td><td>She <strong>accused</strong> him <strong>of leaking</strong> the report.</td></tr><tr><td>verb + <strong>preposition + -ing</strong></td><td>apologise <strong>for</strong>, insist <strong>on</strong>, object <strong>to</strong>, boast <strong>about</strong></td><td>He <strong>insisted on paying</strong>.</td></tr></tbody></table><p><strong>Important nuances.</strong></p><ul><li><em>Deny</em> and <em>admit</em> take <em>-ing</em> (and its perfect form <em>having done</em> when referring to something earlier): <em>She admitted having lied.</em> With <em>claim</em>, by contrast, <em>to + infinitive</em> is used: <em>He claimed to have seen it.</em> The semantic difference also matters: <em>claim</em> distances the speaker from the truth (“he says that…, though I don't believe it”).</li><li><em>Suggest</em> and <em>recommend</em> <strong>never</strong> take object + <em>to</em>. One says <em>suggested (that) I wait</em> (British subjunctive without -s, or with <em>should</em>) or <em>suggested waiting</em>. This is one of the most frequent errors among Spanish speakers, who translate word for word (suggested me to wait is wrong).</li><li><em>Warn</em> has two patterns: <em>warn sb to do / not to do</em> (a specific instruction) and <em>warn sb about / against doing</em> (warning of a risk).</li><li>Verbs such as <em>explain, suggest, announce, describe, mention</em> do not take the recipient directly after the verb: <em>explain the problem <strong>to</strong> me</em>, not <em>explain me</em>.</li><li><em>Insist</em>: <em>insist on doing</em> (about your own action) vs. <em>insist that he (should) leave</em> (about someone else's action); in formal register the subjunctive is used.</li></ul>",
+   "watch": [
+    {
+     "wrong": "She suggested me to take a break.",
+     "right": "She suggested (that) I take a break. / She suggested taking a break.",
+     "why": "Suggest does not take object + to; use a that-clause or -ing."
+    },
+    {
+     "wrong": "They accused him to steal the files.",
+     "right": "They accused him of stealing the files.",
+     "why": "Accuse sb of + -ing."
+    },
+    {
+     "wrong": "He apologised me for the delay.",
+     "right": "He apologised to me for the delay.",
+     "why": "Apologise to sb for sth: the recipient takes to."
+    },
+    {
+     "wrong": "He admitted to have lied.",
+     "right": "He admitted lying / having lied.",
+     "why": "After admit, use -ing (or a that-clause), not an infinitive."
+    }
+   ]
+  },
+  {
+   "id": "g-backshift",
+   "kind": "grammar",
+   "title": "Reported speech: backshifting and exceptions",
+   "html": "<p>In reported speech the tense usually “moves back” one step from the original words when the reporting verb is in the past. But at advanced level what matters is knowing <strong>when not to</strong> do it: backshifting is a tool for temporal distance, not a mechanical rule.</p><table><thead><tr><th>Original</th><th>Reported (reporting verb in the past)</th></tr></thead><tbody><tr><td>I <strong>work</strong> late.</td><td>She said she <strong>worked</strong> late.</td></tr><tr><td>I <strong>am</strong> leaving.</td><td>She said she <strong>was</strong> leaving.</td></tr><tr><td>I <strong>have</strong> finished.</td><td>She said she <strong>had</strong> finished.</td></tr><tr><td>I <strong>left</strong> early.</td><td>She said she <strong>had left / left</strong> early.</td></tr><tr><td>I <strong>will</strong> call. / I <strong>can</strong> help.</td><td>She said she <strong>would</strong> call / <strong>could</strong> help.</td></tr><tr><td>You <strong>must</strong> sign. (obligation)</td><td>She said I <strong>had to</strong> sign.</td></tr><tr><td>You <strong>should / might / could</strong> try.</td><td>No change: She said I <strong>should</strong> try.</td></tr></tbody></table><p><strong>No backshifting is needed</strong> if the reporting verb is in the present (<em>She says she works late</em>), if what was said is still true or relevant now (<em>The report stressed that unemployment is rising</em>), or if it is a general fact (<em>He explained that water boils at a lower temperature at altitude</em>). Backshifting in those cases sounds stiff, or even suggests that it is no longer true.</p><p><strong>Deictics:</strong> <em>now → then, today → that day, tomorrow → the following day, yesterday → the day before, here → there, this → that, ago → before.</em></p><p><strong>Indirect questions:</strong> no inversion and no auxiliary <em>do</em>; if there is no question word, use <em>if / whether</em>: <em>She asked me where I had been. He asked whether I minded.</em> <strong>Imperatives:</strong> <em>told me to…, asked me not to…</em></p><p><strong>say vs. tell:</strong> <em>tell</em> requires a recipient (<em>told me</em>); <em>say</em> does not (<em>said to me</em>, or with no recipient).</p>",
+   "watch": [
+    {
+     "wrong": "She asked me where was I going.",
+     "right": "She asked me where I was going.",
+     "why": "In an indirect question there is no inversion."
+    },
+    {
+     "wrong": "He told that he would be late.",
+     "right": "He said (that) he would be late. / He told me (that) he would be late.",
+     "why": "Tell needs a recipient; without one, use say."
+    },
+    {
+     "wrong": "She asked whether did I agree.",
+     "right": "She asked whether I agreed.",
+     "why": "No auxiliary do in an indirect question."
+    },
+    {
+     "wrong": "He said me that it was urgent.",
+     "right": "He told me that it was urgent.",
+     "why": "Say cannot take a personal object directly (said me is wrong); tell can (told me)."
+    }
+   ]
+  },
+  {
+   "id": "g-impersonal-report",
+   "kind": "grammar",
+   "title": "Impersonal reporting: sources, distance and caution",
+   "html": "<p>Very frequent in the press and in formal texts: one reports what “is said” without attributing it to anyone in particular. In Spanish this is handled with phrases equivalent to “it is said that”, “according to” and “apparently”. In English there are several structures, each with a different degree of commitment:</p><table><thead><tr><th>Resource</th><th>Example</th><th>Nuance</th></tr></thead><tbody><tr><td>It + passive + that</td><td>It <strong>is said that</strong> the mayor will resign.</td><td>Formal, impersonal</td></tr><tr><td>Subject + passive + to + inf.</td><td>The mayor <strong>is said to be</strong> planning to resign.</td><td>More compact; <em>to have + pp</em> if the event is earlier</td></tr><tr><td>according to + source</td><td><strong>According to</strong> the latest figures, sales fell.</td><td>Attributes the claim to an external source</td></tr><tr><td>reportedly</td><td>The deal was <strong>reportedly</strong> worth millions.</td><td>Others say so; the speaker does not verify it</td></tr><tr><td>allegedly</td><td>The suspect <strong>allegedly</strong> forged the signature.</td><td>Unproven accusation; typical of legal language</td></tr><tr><td>apparently</td><td><strong>Apparently</strong>, the flight was cancelled.</td><td>“It seems”; slightly more colloquial</td></tr></tbody></table><p><strong>Watch out:</strong> <em>according to</em> is for other people's sources, <strong>never for your own opinion</strong> (<em>according to me</em> is a literal translation error; use <em>in my view / as I see it</em>). And <em>allegedly</em> is not a simple, ironic “supposedly”: in English it is a cautious term with legal implications. In Unit 4 we will go deeper into these passives; here what matters is their function as reporting tools.</p>",
+   "watch": [
+    {
+     "wrong": "According to me, the plan is flawed.",
+     "right": "In my view, the plan is flawed.",
+     "why": "According to only introduces other people's sources."
+    },
+    {
+     "wrong": "The minister is said that she resigned.",
+     "right": "The minister is said to have resigned. / It is said that she resigned.",
+     "why": "With a personal subject: passive + to have + past participle."
+    },
+    {
+     "wrong": "He is reported to has left the country.",
+     "right": "He is reported to have left the country.",
+     "why": "After to comes the base form: have, not has."
+    },
+    {
+     "wrong": "Allegedly, the evidence is totally false, I'm sure.",
+     "right": "The evidence is, I'm sure, totally false. / Allegedly, the evidence was forged.",
+     "why": "Allegedly marks something unproven; do not use it to state something with certainty."
+    }
+   ]
+  },
+  {
+   "id": "g-hedging",
+   "kind": "grammar",
+   "title": "Hedging: softening with precision",
+   "html": "<p><em>Hedging</em> lets you present a claim with exactly the right degree of certainty. It is not vagueness or weakness: in academic and professional English, stating things without nuance often sounds naïve or aggressive. It is achieved in several layers:</p><table><thead><tr><th>Type</th><th>Resources</th><th>Example</th></tr></thead><tbody><tr><td>Appearance verbs</td><td>seem, appear, tend to</td><td>Prices <strong>tend to</strong> rise in winter. He <strong>appears to</strong> disagree.</td></tr><tr><td>Introductory phrases</td><td>It seems/appears that, It would seem that, There appears to be</td><td><strong>It would seem that</strong> the figures were overstated.</td></tr><tr><td>Modals</td><td>may, might, could, would suggest</td><td>The data <strong>would suggest</strong> a link.</td></tr><tr><td>Adverbs</td><td>arguably, presumably, conceivably, broadly, somewhat, relatively</td><td>It is <strong>arguably</strong> the best film of the decade.</td></tr><tr><td>Limiters</td><td>to some extent, to a certain degree, in some respects, by and large</td><td><strong>To some extent</strong>, he is right.</td></tr><tr><td>Distancing</td><td>It could be argued that, One might say that</td><td><strong>It could be argued that</strong> the policy has failed.</td></tr></tbody></table><p><strong>Nuances:</strong></p><ul><li><em>Arguably</em> means “it can be argued that”; it usually accompanies superlatives and goes before the adjective or at the beginning.</li><li><em>Seem</em> and <em>appear</em> + <em>to</em> + infinitive have the same sense as <em>It seems that…</em>; the first is more compact. <em>It would seem</em> is more formal and more cautious than <em>It seems</em>.</li><li><strong>Do not stack</strong> softeners: <em>It would perhaps seem that it could possibly be…</em> sounds evasive. One or two per sentence is enough.</li><li>Hedging also works as politeness: <em>I tend to think we might want to revisit this</em> is less blunt than <em>This is wrong</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "It seems that he to be right.",
+     "right": "He seems to be right. / It seems that he is right.",
+     "why": "Seem + to + infinitive, or it seems + that-clause: do not mix the two."
+    },
+    {
+     "wrong": "Arguably is the best novel of the decade.",
+     "right": "It is arguably the best novel of the decade.",
+     "why": "Arguably is an adverb: it needs a subject and a verb in the sentence."
+    },
+    {
+     "wrong": "The results may be suggest a link.",
+     "right": "The results may suggest a link.",
+     "why": "After a modal comes the base form, without be."
+    },
+    {
+     "wrong": "To some extent I am agree with you.",
+     "right": "To some extent I agree with you.",
+     "why": "Agree is a verb, not an adjective: no be."
+    }
+   ]
+  },
+  {
+   "id": "v-communication",
+   "kind": "vocab",
+   "title": "Communicating and misunderstanding",
+   "words": [
+    {
+     "id": "w-convey",
+     "en": "convey",
+     "es": "transmitir, comunicar (una idea, un sentimiento)",
+     "example": "It is hard to convey how relieved I was.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-clarify",
+     "en": "clarify",
+     "es": "aclarar",
+     "example": "Could you clarify what you mean by 'flexible'?",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-misconstrue",
+     "en": "misconstrue",
+     "es": "malinterpretar (un comentario, la intención)",
+     "example": "Please don't misconstrue my silence as agreement."
+    },
+    {
+     "id": "w-articulate",
+     "en": "articulate (adj./v.)",
+     "es": "elocuente / expresar con claridad",
+     "example": "She is remarkably articulate for someone so young.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-imply",
+     "en": "imply",
+     "es": "insinuar, dar a entender",
+     "example": "I never implied that the work was careless.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-allude-to",
+     "en": "allude to",
+     "es": "aludir a, hacer referencia indirecta a",
+     "example": "He alluded to a disagreement without naming names."
+    },
+    {
+     "id": "w-paraphrase",
+     "en": "paraphrase",
+     "es": "parafrasear, decir con otras palabras",
+     "example": "Try to paraphrase the argument in your own words."
+    },
+    {
+     "id": "w-stress",
+     "en": "stress / emphasise",
+     "es": "enfatizar, subrayar",
+     "example": "The report stresses the need for transparency.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-concede",
+     "en": "concede",
+     "es": "admitir a regañadientes, conceder",
+     "example": "She conceded that the criticism was fair.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-elaborate-on",
+     "en": "elaborate on",
+     "es": "dar más detalles sobre",
+     "example": "Would you elaborate on that last point?",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-gist",
+     "en": "the gist",
+     "es": "la idea general, lo esencial",
+     "example": "I only caught the gist of the conversation."
+    },
+    {
+     "id": "w-ambiguous",
+     "en": "ambiguous",
+     "es": "ambiguo, con doble sentido",
+     "example": "The wording of the contract is ambiguous."
+    },
+    {
+     "id": "w-vague",
+     "en": "vague",
+     "es": "vago, impreciso",
+     "example": "His answer was deliberately vague.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-blunt",
+     "en": "blunt",
+     "es": "directo, sin rodeos (a veces descortés)",
+     "example": "She's blunt, but at least you know where you stand."
+    },
+    {
+     "id": "w-tactful",
+     "en": "tactful",
+     "es": "diplomático, con tacto",
+     "example": "A tactful reply avoided any offence."
+    }
+   ]
+  },
+  {
+   "id": "v-manner",
+   "kind": "vocab",
+   "title": "Reporting verbs with attitude",
+   "words": [
+    {
+     "id": "w-mutter",
+     "en": "mutter",
+     "es": "murmurar entre dientes (con fastidio)",
+     "example": "He muttered that the meeting was a waste of time."
+    },
+    {
+     "id": "w-snap",
+     "en": "snap",
+     "es": "responder bruscamente",
+     "example": "'Not now!' she snapped.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-stammer",
+     "en": "stammer",
+     "es": "tartamudear, balbucear",
+     "example": "He stammered an apology."
+    },
+    {
+     "id": "w-boast",
+     "en": "boast (about / of)",
+     "es": "presumir, jactarse",
+     "example": "She boasted about her promotion.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-grumble",
+     "en": "grumble",
+     "es": "refunfuñar, quejarse en voz baja",
+     "example": "The staff grumbled about the new rota."
+    },
+    {
+     "id": "w-insinuate",
+     "en": "insinuate",
+     "es": "insinuar (con mala intención)",
+     "example": "Are you insinuating that I cheated?"
+    },
+    {
+     "id": "w-retort",
+     "en": "retort",
+     "es": "replicar con agudeza",
+     "example": "'You started it,' he retorted."
+    },
+    {
+     "id": "w-hint",
+     "en": "hint (at)",
+     "es": "sugerir de forma indirecta",
+     "example": "She hinted that changes were coming.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-point-out",
+     "en": "point out",
+     "es": "señalar, hacer notar",
+     "example": "He pointed out that we were over budget.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-plead",
+     "en": "plead",
+     "es": "suplicar, alegar",
+     "example": "She pleaded with them not to publish it.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-proclaim",
+     "en": "proclaim",
+     "es": "proclamar, declarar solemnemente",
+     "example": "The government proclaimed the policy a success.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-murmur",
+     "en": "murmur",
+     "es": "murmurar (en voz baja y suave)",
+     "example": "She murmured her thanks."
+    }
+   ]
+  },
+  {
+   "id": "v-idioms",
+   "kind": "vocab",
+   "title": "Expressions about communication",
+   "words": [
+    {
+     "id": "w-beat-around",
+     "en": "beat around the bush",
+     "es": "andarse por las ramas",
+     "example": "Stop beating around the bush and tell me.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-cut-to-chase",
+     "en": "cut to the chase",
+     "es": "ir al grano",
+     "example": "Let me cut to the chase: we're closing the office.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-read-between",
+     "en": "read between the lines",
+     "es": "leer entre líneas",
+     "example": "If you read between the lines, she's unhappy.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-lost-translation",
+     "en": "lost in translation",
+     "es": "perderse en la traducción",
+     "example": "The humour got lost in translation.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-mixed-message",
+     "en": "send a mixed message",
+     "es": "dar un mensaje contradictorio",
+     "example": "Praising the plan and cutting its budget sends a mixed message.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-drop-hint",
+     "en": "drop a hint / take the hint",
+     "es": "soltar una indirecta / captar la indirecta",
+     "example": "He dropped hints, but nobody took the hint.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-break-news",
+     "en": "break the news",
+     "es": "dar la noticia (a menudo mala)",
+     "example": "Who is going to break the news to her?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-keep-posted",
+     "en": "keep someone posted",
+     "es": "mantener a alguien al tanto",
+     "example": "Keep me posted on any developments.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-miss-point",
+     "en": "miss the point",
+     "es": "no captar lo esencial",
+     "example": "You're missing the point: it's not about money.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-speak-mind",
+     "en": "speak your mind",
+     "es": "decir lo que piensas",
+     "example": "He's never afraid to speak his mind.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-get-across",
+     "en": "get your message across",
+     "es": "hacerte entender, transmitir tu mensaje",
+     "example": "It took three diagrams to get my message across.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-come-across",
+     "en": "come across as",
+     "es": "dar la impresión de ser",
+     "example": "You came across as rather dismissive.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-constructive",
+     "en": "constructive criticism",
+     "es": "crítica constructiva",
+     "example": "She welcomed constructive criticism.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-word-mouth",
+     "en": "word of mouth",
+     "es": "boca a boca",
+     "example": "The restaurant grew by word of mouth.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-functions",
+   "kind": "expressions",
+   "title": "Summarising, reporting and qualifying",
+   "html": "<ul><li><strong>The gist of it is that…</strong> / <strong>In a nutshell, …</strong> — summarising quickly.</li><li><strong>If I understood correctly, you're saying that…</strong> — checking what you heard before reacting.</li><li><strong>What she was getting at was…</strong> — reporting the intention behind what was said.</li><li><strong>Let me put it another way: …</strong> — rephrasing to clarify.</li><li><strong>He made it clear that…</strong> / <strong>She was adamant that…</strong> — reporting a firm position.</li><li><strong>As far as I can tell, … / It would appear that…</strong> — presenting your reading with caution.</li><li><strong>To be fair, … / In fairness, …</strong> — qualifying a criticism.</li><li><strong>Sources close to the company say that…</strong> — press formula for unidentified sources.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Reporting verbs and their patterns",
+   "instructions": "Complete, choose or correct according to the verb's pattern.",
+   "topic": "g-report-verbs",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "The manager accused the intern ___ leaking the figures.",
+     "answers": [
+      "of"
+     ],
+     "explain": "Accuse sb of + -ing."
+    },
+    {
+     "id": "A2",
+     "type": "choice",
+     "prompt": "The doctor urged him ___ more rest.",
+     "options": [
+      "getting",
+      "to get",
+      "get"
+     ],
+     "answer": 1,
+     "explain": "Urge + object + to + infinitive."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "She denied ___ the document. (see)",
+     "answers": [
+      "seeing",
+      "having seen"
+     ],
+     "explain": "Deny + -ing (or having + past participle if the action is earlier)."
+    },
+    {
+     "id": "A4",
+     "type": "fix",
+     "prompt": "She suggested me to wait until Monday.",
+     "answers": [
+      "She suggested that I wait until Monday.",
+      "She suggested that I should wait until Monday.",
+      "She suggested that I waited until Monday.",
+      "She suggested I wait until Monday.",
+      "She suggested I should wait until Monday.",
+      "She suggested I waited until Monday.",
+      "She suggested waiting until Monday."
+     ],
+     "explain": "Suggest takes no object + to: a that-clause or -ing."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "He claimed ___ the first person to reach the summit that season. (be)",
+     "answers": [
+      "to be",
+      "to have been"
+     ],
+     "explain": "Claim + to + infinitive."
+    },
+    {
+     "id": "A6",
+     "type": "choice",
+     "prompt": "Which one is correct?",
+     "options": [
+      "He apologised me for the delay.",
+      "He apologised to me for the delay.",
+      "He apologised me about the delay."
+     ],
+     "answer": 1,
+     "explain": "Apologise to sb for sth."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "They congratulated her ___ winning the award.",
+     "answers": [
+      "on"
+     ],
+     "explain": "Congratulate sb on + -ing."
+    },
+    {
+     "id": "A8",
+     "type": "translate",
+     "prompt": "Ella me advirtió que no firmara nada sin leerlo.",
+     "answers": [
+      "She warned me not to sign anything without reading it.",
+      "She warned me not to sign anything without reading it first.",
+      "She warned me not to sign anything without reading.",
+      "She warned me against signing anything without reading it."
+     ],
+     "explain": "Warn + object + not to + infinitive."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Reported speech: backshifting and exceptions",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-backshift",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "«I'll call you tomorrow.» → She said she ___ call me the following day.",
+     "answers": [
+      "would"
+     ],
+     "explain": "Will → would when reporting in the past; tomorrow → the following day."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "«I have never been to Oaxaca.» → He told us he ___ never been to Oaxaca.",
+     "options": [
+      "has",
+      "had",
+      "was"
+     ],
+     "answer": 1,
+     "explain": "Present perfect → past perfect."
+    },
+    {
+     "id": "B3",
+     "type": "fix",
+     "prompt": "She asked me where was I going.",
+     "answers": [
+      "She asked me where I was going."
+     ],
+     "explain": "No inversion in the indirect question."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "«Did you finish the report?» → He asked me ___ I had finished the report.",
+     "answers": [
+      "if",
+      "whether"
+     ],
+     "explain": "Indirect yes/no question: if or whether."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "«The Earth orbits the Sun,» the teacher reminded us. → The teacher reminded us that the Earth ___ the Sun.",
+     "options": [
+      "orbits",
+      "has orbited",
+      "would orbit"
+     ],
+     "answer": 0,
+     "explain": "A general fact needs no backshifting."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "He told that he was running late.",
+     "answers": [
+      "He said that he was running late.",
+      "He said he was running late.",
+      "He told me that he was running late.",
+      "He told me he was running late.",
+      "He told us that he was running late.",
+      "He told us he was running late."
+     ],
+     "explain": "Tell needs a recipient; without one, use say."
+    },
+    {
+     "id": "B7",
+     "type": "translate",
+     "prompt": "Me preguntó si ya había hablado con el cliente.",
+     "answers": [
+      "He asked me if I had already spoken to the client already.",
+      "He asked me if I had already spoken to the client.",
+      "He asked me if I had already talked to the client already.",
+      "He asked me if I had already talked to the client.",
+      "He asked me if I had spoken to the client already.",
+      "He asked me if I had spoken to the client.",
+      "He asked me if I had talked to the client already.",
+      "He asked me if I had talked to the client.",
+      "He asked me whether I had already spoken to the client already.",
+      "He asked me whether I had already spoken to the client.",
+      "He asked me whether I had already talked to the client already.",
+      "He asked me whether I had already talked to the client.",
+      "He asked me whether I had spoken to the client already.",
+      "He asked me whether I had spoken to the client.",
+      "He asked me whether I had talked to the client already.",
+      "He asked me whether I had talked to the client.",
+      "She asked me if I had already spoken to the client already.",
+      "She asked me if I had already spoken to the client.",
+      "She asked me if I had already talked to the client already.",
+      "She asked me if I had already talked to the client.",
+      "She asked me if I had spoken to the client already.",
+      "She asked me if I had spoken to the client.",
+      "She asked me if I had talked to the client already.",
+      "She asked me if I had talked to the client.",
+      "She asked me whether I had already spoken to the client already.",
+      "She asked me whether I had already spoken to the client.",
+      "She asked me whether I had already talked to the client already.",
+      "She asked me whether I had already talked to the client.",
+      "She asked me whether I had spoken to the client already.",
+      "She asked me whether I had spoken to the client.",
+      "She asked me whether I had talked to the client already.",
+      "She asked me whether I had talked to the client."
+     ],
+     "explain": "Indirect question with if/whether and past perfect."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Impersonal reporting",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-impersonal-report",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "The company is ___ to have lost millions last year. (say)",
+     "answers": [
+      "said",
+      "believed",
+      "reported",
+      "thought",
+      "understood"
+     ],
+     "explain": "Subject + passive + to have + past participle."
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "The fire is believed ___ started deliberately.",
+     "options": [
+      "to have been",
+      "to be",
+      "having been"
+     ],
+     "answer": 0,
+     "explain": "Earlier event: to have been + past participle."
+    },
+    {
+     "id": "C3",
+     "type": "fix",
+     "prompt": "According to me, the proposal is too expensive.",
+     "answers": [
+      "In my opinion, the proposal is too expensive.",
+      "In my view, the proposal is too expensive.",
+      "To my mind, the proposal is too expensive.",
+      "As I see it, the proposal is too expensive.",
+      "I think the proposal is too expensive."
+     ],
+     "explain": "According to is for other people's sources."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "Which adverb indicates an accusation that has not yet been proven?",
+     "options": [
+      "allegedly",
+      "definitely",
+      "fortunately"
+     ],
+     "answer": 0,
+     "explain": "Allegedly = unproven."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "___ to the latest survey, only 12% of voters have decided.",
+     "answers": [
+      "According"
+     ],
+     "explain": "According to + source."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "The minister is said that she resigned yesterday.",
+     "answers": [
+      "The minister is said to have resigned yesterday.",
+      "It is said that the minister resigned yesterday.",
+      "It is said that she resigned yesterday."
+     ],
+     "explain": "Passive with a personal subject + to have + past participle."
+    },
+    {
+     "id": "C7",
+     "type": "translate",
+     "prompt": "Según se informa, el acuerdo se firmará la próxima semana.",
+     "answers": [
+      "Reportedly, the agreement will be signed next week.",
+      "Reportedly, the agreement is going to be signed next week.",
+      "The agreement will be signed next week.",
+      "The agreement is going to be signed next week.",
+      "The agreement will reportedly be signed next week.",
+      "It is reported that the agreement will be signed next week."
+     ],
+     "explain": "Reportedly or it is reported that."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Hedging",
+   "instructions": "Choose or complete with the appropriate softener.",
+   "topic": "g-hedging",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "Which sentence is more appropriate in an academic report because it is more cautious?",
+     "options": [
+      "The data prove that the policy failed.",
+      "The data would suggest that the policy may have failed.",
+      "The policy obviously failed."
+     ],
+     "answer": 1,
+     "explain": "Would suggest + may: maximum caution."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "It ___ that prices will keep rising. (seem / appear)",
+     "answers": [
+      "seems",
+      "appears"
+     ],
+     "explain": "It seems/appears that + clause."
+    },
+    {
+     "id": "D3",
+     "type": "fix",
+     "prompt": "Arguably is the best novel of the decade.",
+     "answers": [
+      "It is arguably the best novel of the decade.",
+      "This is arguably the best novel of the decade.",
+      "Arguably, it is the best novel of the decade.",
+      "Arguably, this is the best novel of the decade."
+     ],
+     "explain": "Arguably needs a clause of its own."
+    },
+    {
+     "id": "D4",
+     "type": "fix",
+     "prompt": "The results seem to be suggest a link.",
+     "answers": [
+      "The results seem to suggest a link."
+     ],
+     "explain": "Seem + to + base; no extra be."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "Younger users ___ to prefer short videos. (tend)",
+     "answers": [
+      "tend"
+     ],
+     "explain": "Tend to + infinitive."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "Which statement is the most hedged?",
+     "options": [
+      "This will cause job losses.",
+      "This is likely to cause job losses.",
+      "This could conceivably cause some job losses."
+     ],
+     "answer": 2,
+     "explain": "Could conceivably + some = minimal degree of certainty."
+    },
+    {
+     "id": "D7",
+     "type": "translate",
+     "prompt": "Hasta cierto punto, el estudio tiene razón, pero parece que los datos son limitados.",
+     "answers": [
+      "To some extent, the study is right, but it seems that the data are limited.",
+      "To some extent, the study is right, but it seems that the data is limited.",
+      "To some extent, the study is right, but it appears that the data are limited.",
+      "To some extent, the study is right, but it appears that the data is limited.",
+      "To some extent, the study is correct, but it seems that the data are limited.",
+      "To some extent, the study is correct, but it seems that the data is limited.",
+      "To some extent, the study is correct, but it appears that the data are limited.",
+      "To some extent, the study is correct, but it appears that the data is limited.",
+      "To some extent, the study has a point, but it seems that the data are limited.",
+      "To some extent, the study has a point, but it seems that the data is limited.",
+      "To some extent, the study has a point, but it appears that the data are limited.",
+      "To some extent, the study has a point, but it appears that the data is limited.",
+      "To a certain extent, the study is right, but it seems that the data are limited.",
+      "To a certain extent, the study is right, but it seems that the data is limited.",
+      "To a certain extent, the study is right, but it appears that the data are limited.",
+      "To a certain extent, the study is right, but it appears that the data is limited.",
+      "To a certain extent, the study is correct, but it seems that the data are limited.",
+      "To a certain extent, the study is correct, but it seems that the data is limited.",
+      "To a certain extent, the study is correct, but it appears that the data are limited.",
+      "To a certain extent, the study is correct, but it appears that the data is limited.",
+      "To a certain extent, the study has a point, but it seems that the data are limited.",
+      "To a certain extent, the study has a point, but it seems that the data is limited.",
+      "To a certain extent, the study has a point, but it appears that the data are limited.",
+      "To a certain extent, the study has a point, but it appears that the data is limited.",
+      "To a certain degree, the study is right, but it seems that the data are limited.",
+      "To a certain degree, the study is right, but it seems that the data is limited.",
+      "To a certain degree, the study is right, but it appears that the data are limited.",
+      "To a certain degree, the study is right, but it appears that the data is limited.",
+      "To a certain degree, the study is correct, but it seems that the data are limited.",
+      "To a certain degree, the study is correct, but it seems that the data is limited.",
+      "To a certain degree, the study is correct, but it appears that the data are limited.",
+      "To a certain degree, the study is correct, but it appears that the data is limited.",
+      "To a certain degree, the study has a point, but it seems that the data are limited.",
+      "To a certain degree, the study has a point, but it seems that the data is limited.",
+      "To a certain degree, the study has a point, but it appears that the data are limited.",
+      "To a certain degree, the study has a point, but it appears that the data is limited.",
+      "In some respects, the study is right, but it seems that the data are limited.",
+      "In some respects, the study is right, but it seems that the data is limited.",
+      "In some respects, the study is right, but it appears that the data are limited.",
+      "In some respects, the study is right, but it appears that the data is limited.",
+      "In some respects, the study is correct, but it seems that the data are limited.",
+      "In some respects, the study is correct, but it seems that the data is limited.",
+      "In some respects, the study is correct, but it appears that the data are limited.",
+      "In some respects, the study is correct, but it appears that the data is limited.",
+      "In some respects, the study has a point, but it seems that the data are limited.",
+      "In some respects, the study has a point, but it seems that the data is limited.",
+      "In some respects, the study has a point, but it appears that the data are limited.",
+      "In some respects, the study has a point, but it appears that the data is limited.",
+      "To some extent, the study is right, but the data seem to be limited.",
+      "To some extent, the study is right, but the data appear to be limited.",
+      "To some extent, the study is correct, but the data seem to be limited.",
+      "To some extent, the study is correct, but the data appear to be limited.",
+      "To some extent, the study has a point, but the data seem to be limited.",
+      "To some extent, the study has a point, but the data appear to be limited.",
+      "To a certain extent, the study is right, but the data seem to be limited.",
+      "To a certain extent, the study is right, but the data appear to be limited.",
+      "To a certain extent, the study is correct, but the data seem to be limited.",
+      "To a certain extent, the study is correct, but the data appear to be limited.",
+      "To a certain extent, the study has a point, but the data seem to be limited.",
+      "To a certain extent, the study has a point, but the data appear to be limited.",
+      "To a certain degree, the study is right, but the data seem to be limited.",
+      "To a certain degree, the study is right, but the data appear to be limited.",
+      "To a certain degree, the study is correct, but the data seem to be limited.",
+      "To a certain degree, the study is correct, but the data appear to be limited.",
+      "To a certain degree, the study has a point, but the data seem to be limited.",
+      "To a certain degree, the study has a point, but the data appear to be limited.",
+      "In some respects, the study is right, but the data seem to be limited.",
+      "In some respects, the study is right, but the data appear to be limited.",
+      "In some respects, the study is correct, but the data seem to be limited.",
+      "In some respects, the study is correct, but the data appear to be limited.",
+      "In some respects, the study has a point, but the data seem to be limited.",
+      "In some respects, the study has a point, but the data appear to be limited."
+     ],
+     "explain": "Limiter + it seems that / seem to be."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Communicating and misunderstanding",
+   "instructions": "Complete with the appropriate word.",
+   "topic": "v-communication",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "Could you ___ what you mean by «flexible hours»? I'm not sure I follow.",
+     "answers": [
+      "clarify"
+     ],
+     "explain": "Clarify = to make something clear."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "I didn't mean it as an insult; you've completely ___ my words. (misconstrue)",
+     "answers": [
+      "misconstrued",
+      "misinterpreted"
+     ],
+     "explain": "Misconstrue in the past participle."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "She is so ___ that nobody ever misunderstands her instructions.",
+     "options": [
+      "articulate",
+      "ambiguous",
+      "vague"
+     ],
+     "answer": 0,
+     "explain": "Articulate = to express oneself clearly."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "He didn't say it directly, but he ___ that I was to blame. (imply)",
+     "answers": [
+      "implied"
+     ],
+     "explain": "Imply = to suggest indirectly."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "«Could you paraphrase the paragraph?» means:",
+     "options": [
+      "Copy it word for word.",
+      "Say it in other words.",
+      "Translate it."
+     ],
+     "answer": 1,
+     "explain": "Paraphrase = to reword."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "Her reply was deliberately ___: it could mean yes or no.",
+     "answers": [
+      "ambiguous"
+     ],
+     "explain": "Ambiguous = open to more than one interpretation."
+    },
+    {
+     "id": "E7",
+     "type": "choice",
+     "prompt": "A person who is «blunt» is…",
+     "options": [
+      "very diplomatic",
+      "direct, sometimes to the point of rudeness",
+      "hard to understand"
+     ],
+     "answer": 1,
+     "explain": "Blunt = not diplomatic; saying things directly."
+    },
+    {
+     "id": "E8",
+     "type": "gap",
+     "prompt": "I'll skip the details and give you the ___ of the story.",
+     "answers": [
+      "gist"
+     ],
+     "explain": "The gist = the essential point."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Communication expressions",
+   "instructions": "Complete or choose.",
+   "topic": "v-idioms",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "Stop beating around the ___ and tell us what happened.",
+     "answers": [
+      "bush"
+     ],
+     "explain": "Beat around the bush."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "«Let's cut to the chase» means…",
+     "options": [
+      "Let's run quickly.",
+      "Let's get to the main point.",
+      "Let's change the subject."
+     ],
+     "answer": 1,
+     "explain": "Cut to the chase = get to the point."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "I'm afraid I have to ___ the news gently: the contract wasn't renewed.",
+     "answers": [
+      "break"
+     ],
+     "explain": "Break the news."
+    },
+    {
+     "id": "F4",
+     "type": "fix",
+     "prompt": "Please keep me post about the changes.",
+     "answers": [
+      "Please keep me posted about the changes.",
+      "Please keep me posted on the changes."
+     ],
+     "explain": "Keep someone posted: the verb is used in the past participle form (posted)."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "If a joke is «lost in translation»…",
+     "options": [
+      "it is translated badly and loses its effect",
+      "it is very funny in any language",
+      "nobody tells it"
+     ],
+     "answer": 0,
+     "explain": "Lost in translation."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "The ad sends a mixed ___: it promotes health but sells sugary drinks.",
+     "answers": [
+      "message"
+     ],
+     "explain": "Send a mixed message."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "Don't be afraid to speak your ___ in the meeting.",
+     "answers": [
+      "mind"
+     ],
+     "explain": "Speak your mind."
+    },
+    {
+     "id": "F8",
+     "type": "translate",
+     "prompt": "No captó el punto, así que tuve que explicárselo otra vez.",
+     "answers": [
+      "He missed the point, so I had to explain it again.",
+      "She missed the point, so I had to explain it again.",
+      "He missed the point, so I had to explain it to him again.",
+      "He missed the point, so I had to explain it to her again.",
+      "She missed the point, so I had to explain it to him again.",
+      "She missed the point, so I had to explain it to her again."
+     ],
+     "explain": "Miss the point."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "accused",
+      "him",
+      "of",
+      "the",
+      "manager",
+      "lying"
+     ],
+     "answers": [
+      "The manager accused him of lying."
+     ],
+     "explain": "Accuse sb of + -ing."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "Her",
+      "mentor",
+      "urged",
+      "us",
+      "to",
+      "speak",
+      "up"
+     ],
+     "answers": [
+      "Her mentor urged us to speak up."
+     ],
+     "explain": "Urge + object + to."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "asked",
+      "me",
+      "she",
+      "I",
+      "where",
+      "had",
+      "been"
+     ],
+     "answers": [
+      "She asked me where I had been."
+     ],
+     "explain": "Indirect question without inversion."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "is",
+      "to",
+      "said",
+      "have",
+      "He",
+      "left",
+      "the",
+      "country"
+     ],
+     "answers": [
+      "He is said to have left the country."
+     ],
+     "explain": "Impersonal passive with to have + past participle."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "seems",
+      "that",
+      "It",
+      "the",
+      "data",
+      "are",
+      "incomplete"
+     ],
+     "answers": [
+      "It seems that the data are incomplete."
+     ],
+     "explain": "It seems that + clause."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "denied",
+      "taking",
+      "He",
+      "the",
+      "money"
+     ],
+     "answers": [
+      "He denied taking the money."
+     ],
+     "explain": "Deny + -ing."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Mi jefa me instó a revisar el contrato antes de firmar.",
+     "answers": [
+      "My boss urged me to review the contract before signing.",
+      "My boss urged me to review the contract before signing it.",
+      "My boss urged me to review the contract before I signed.",
+      "My boss urged me to check the contract before signing.",
+      "My boss urged me to check the contract before signing it.",
+      "My boss urged me to check the contract before I signed.",
+      "My boss urged me to go over the contract before signing.",
+      "My boss urged me to go over the contract before signing it.",
+      "My boss urged me to go over the contract before I signed.",
+      "My boss urged me to look over the contract before signing.",
+      "My boss urged me to look over the contract before signing it.",
+      "My boss urged me to look over the contract before I signed."
+     ],
+     "explain": "Urge + object + to."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Negó haber visto el correo.",
+     "answers": [
+      "He denied seeing the email.",
+      "He denied seeing the e-mail.",
+      "He denied seeing the message.",
+      "He denied having seen the email.",
+      "He denied having seen the e-mail.",
+      "He denied having seen the message.",
+      "She denied seeing the email.",
+      "She denied seeing the e-mail.",
+      "She denied seeing the message.",
+      "She denied having seen the email.",
+      "She denied having seen the e-mail.",
+      "She denied having seen the message."
+     ],
+     "explain": "Deny + -ing / having + past participle."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Me preguntó cuándo me había mudado a Monterrey.",
+     "answers": [
+      "He asked me when I had moved to Monterrey.",
+      "He asked me when I moved to Monterrey.",
+      "She asked me when I had moved to Monterrey.",
+      "She asked me when I moved to Monterrey."
+     ],
+     "explain": "Indirect question without inversion."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Se dice que la empresa perdió millones el año pasado.",
+     "answers": [
+      "The company is said to have lost millions last year.",
+      "It is said that the company lost millions last year.",
+      "It is said that the company had lost millions last year."
+     ],
+     "explain": "Impersonal reporting."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Podría decirse que es el mejor ensayo del libro.",
+     "answers": [
+      "It is arguably the best essay in the book.",
+      "This is arguably the best essay in the book.",
+      "It could be argued that it is the best essay in the book.",
+      "It could be argued that this is the best essay in the book.",
+      "It might be argued that it is the best essay in the book.",
+      "It might be argued that this is the best essay in the book.",
+      "Arguably, it is the best essay in the book."
+     ],
+     "explain": "Arguably / It could be argued that."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Lo siento, creo que malinterpreté tu mensaje.",
+     "answers": [
+      "I'm sorry, I think I misconstrued your message.",
+      "I'm sorry, I think I misconstrued your text.",
+      "I'm sorry, I think I misinterpreted your message.",
+      "I'm sorry, I think I misinterpreted your text.",
+      "I'm sorry, I think I misunderstood your message.",
+      "I'm sorry, I think I misunderstood your text.",
+      "Sorry, I think I misconstrued your message.",
+      "Sorry, I think I misconstrued your text.",
+      "Sorry, I think I misinterpreted your message.",
+      "Sorry, I think I misinterpreted your text.",
+      "Sorry, I think I misunderstood your message.",
+      "Sorry, I think I misunderstood your text.",
+      "I'm afraid, I think I misconstrued your message.",
+      "I'm afraid, I think I misconstrued your text.",
+      "I'm afraid, I think I misinterpreted your message.",
+      "I'm afraid, I think I misinterpreted your text.",
+      "I'm afraid, I think I misunderstood your message.",
+      "I'm afraid, I think I misunderstood your text."
+     ],
+     "explain": "Misconstrue / misinterpret."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Different topics from the unit (includes review of earlier units).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "He ___ having broken the vase, even though everyone had seen him.",
+     "options": [
+      "denied",
+      "admitted",
+      "accused"
+     ],
+     "answer": 0,
+     "explain": "Deny + -ing; the context requires a negation."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "The board persuaded her ___ the offer. (accept)",
+     "answers": [
+      "to accept"
+     ],
+     "explain": "Persuade + object + to."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "She said me that she couldn't attend.",
+     "answers": [
+      "She told me that she couldn't attend.",
+      "She told me that she could not attend.",
+      "She told me she couldn't attend.",
+      "She told me she could not attend.",
+      "She said that she couldn't attend.",
+      "She said that she could not attend.",
+      "She said she couldn't attend.",
+      "She said she could not attend."
+     ],
+     "explain": "Said me → told me / said."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Admitió que había cometido un error.",
+     "answers": [
+      "He admitted that he had made a mistake.",
+      "He admitted that she had made a mistake.",
+      "She admitted that he had made a mistake.",
+      "She admitted that she had made a mistake.",
+      "He admitted making a mistake.",
+      "He admitted having made a mistake.",
+      "She admitted making a mistake.",
+      "She admitted having made a mistake."
+     ],
+     "explain": "Admit + that / -ing."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "The film is ___ the most influential of the 1990s, though not everyone agrees.",
+     "options": [
+      "arguably",
+      "undoubtedly",
+      "obviously"
+     ],
+     "answer": 0,
+     "explain": "Arguably when there is disagreement."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "«Don't touch the wires!» → The technician warned us ___ touch the wires.",
+     "answers": [
+      "not to"
+     ],
+     "explain": "Warn + object + not to."
+    },
+    {
+     "id": "M7",
+     "type": "fix",
+     "prompt": "He explained me the procedure step by step.",
+     "answers": [
+      "He explained the procedure to me step by step."
+     ],
+     "explain": "Explain sth to sb."
+    },
+    {
+     "id": "M8",
+     "type": "choice",
+     "prompt": "Which verb describes a complaint made quietly and bitterly?",
+     "options": [
+      "boasted",
+      "grumbled",
+      "proclaimed"
+     ],
+     "answer": 1,
+     "explain": "Grumble."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "(Unit 1 review) I'm not used to ___ up so early. (get)",
+     "answers": [
+      "getting"
+     ],
+     "explain": "Be used to + -ing."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "(Unit 2 review) By this time next year, she ___ her degree. (finish)",
+     "answers": [
+      "will have finished",
+      "'ll have finished"
+     ],
+     "explain": "Future perfect."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a formal email of 250 to 350 words to your team summarising what was said in a meeting (real or imagined) about a project with problems. Report who said what, using at least six different reporting verbs with their correct patterns, and close with your cautious assessment of the situation. Possible opening: Dear all, Following yesterday's meeting, I would like to summarise…",
+   "targets": [
+    "reporting verbs and their patterns",
+    "backshifting",
+    "indirect questions",
+    "hedging",
+    "formal register"
+   ],
+   "checklist": [
+    "250–350 words, email structure (greeting, body, sign-off)",
+    "At least 6 different reporting verbs (urge, admit, deny, accuse sb of, warn, claim…) with the correct pattern",
+    "Consistent backshifting, or justified non-backshifting",
+    "At least one reported question without inversion",
+    "At least 3 hedging resources (it seems that, arguably, tend to, to some extent…)",
+    "No “say me” / “suggest me to” / “apologise me”",
+    "Formal register and clear connectors"
+   ],
+   "model": "Dear all,\n\nFollowing yesterday's meeting, I would like to summarise what was said about the delays to the new payment platform.\n\nPriya opened by admitting that the testing phase had taken far longer than anyone had anticipated. Tom then accused the design team of changing the requirements twice without consulting him, an allegation that Laura strongly denied, insisting that every change had been approved in writing. The client's representative warned us that the contract might be cancelled if the platform were not ready by the end of March. She also asked whether we had considered hiring external testers, and Priya replied that she had not budgeted for them.\n\nSeveral concrete proposals followed. Marcus urged us to freeze the specification immediately, and Laura suggested holding short daily meetings until the launch. Tom apologised for missing the previous deadline and promised to deliver his module by Friday. Finally, our director asked us how soon we could realistically complete the final tests, and nobody offered a firm answer. Some colleagues claimed that two weeks would be enough, although others said they had never worked under such pressure. Everyone agreed that the situation was serious and that communication between the teams would have to improve.\n\nIn my own assessment, it seems that the main problem is not technical but organisational. We tend to start tasks before the requirements are clear and, to some extent, the tension between teams has made matters worse. Arguably, the deadline is still achievable, but only if we agree on priorities this week. I would therefore ask everyone to confirm their availability by Wednesday.\n\nThank you for your cooperation.\n\nKind regards,\n\nAlex Morgan"
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a 250 to 350-word opinion-style text: «Why do we misunderstand each other at work?». Include an example of a misunderstanding, a reported source using impersonal reporting (is said to, reportedly, according to…), and communication vocabulary (convey, clarify, misconstrue, come across as…).",
+   "targets": [
+    "impersonal reporting",
+    "communication vocabulary",
+    "hedging",
+    "idiomatic expressions"
+   ],
+   "checklist": [
+    "250–350 words with introduction, development and conclusion",
+    "At least 2 correct impersonal reporting structures",
+    "At least 5 words from v-communication and 2 expressions from v-idioms",
+    "Hedging for your own claims",
+    "According to used only for other people's sources",
+    "Well-connected paragraphs"
+   ],
+   "model": "Most of us like to think that we communicate clearly at work. Yet misunderstandings seem to be a daily occurrence and, arguably, they cost organisations far more than most managers realise. Why does it happen so often?\n\nPart of the answer lies in the gap between what we mean and what we convey. Consider a manager who writes, \"We should probably revisit this report.\" She intends a polite suggestion; her employee, however, may well misconstrue it as a gentle order and work all weekend on revisions that nobody wanted. In another version of the story, the employee reads the message as optional and ignores it, and the manager decides he is not committed. Neither of them has done anything unreasonable, but each has got the wrong end of the stick.\n\nResearch seems to support this view. Remote teams are said to misinterpret the tone of written messages in as many as half of all cases, and workers are reportedly more likely to assume hostility when an email is brief. According to a survey of several hundred employees, the problem is especially acute across cultures, where one person's directness is another's rudeness. Such findings should, of course, be treated with some caution, but they ring true.\n\nWhat can be done? To begin with, we tend to underestimate how much context we leave out. Taking a moment to clarify our expectations, and asking colleagues to say back what they have understood, costs little. Equally, we should avoid beating around the bush when a request is important, yet remain aware of how a blunt message may come across as cold. It is not so much a matter of speaking more as of listening better.\n\nIn short, workplace misunderstandings are rarely the result of bad intentions. They arise because meaning is not transferred but reconstructed by the listener, and that reconstruction is easy to get wrong."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The politeness trap",
+   "intro": "Read the text about misunderstandings in international teams and answer the questions.",
+   "paragraphs": [
+    "When Marta Lindqvist joined a Mexico City marketing agency as regional director, she assumed that her Scandinavian directness would be an asset. During her first team meeting she told her colleagues that the campaign proposal \"does not work\" and urged them to start again from scratch. Nobody argued. Afterwards, however, several members of the team admitted feeling hurt, and one of them grumbled to a friend that she had been \"publicly dismissed\". Marta, who had meant nothing of the sort, was baffled. She had simply conveyed what she considered to be accurate information, in the clearest possible terms. Her intention was to save time, not to offend anyone, and she could not understand why a remark that sounded perfectly neutral in Stockholm had caused such a reaction.",
+    "Episodes like this are far from unusual, and they illustrate a point that linguists have been making for decades: communication is rarely about words alone. Every culture has its own conventions for softening bad news, disagreeing with a superior or declining a request. In some workplaces, a sentence such as \"That is an interesting idea\" is a sincere compliment; in others, it is widely understood to mean that the idea will be quietly buried. English itself is a case in point. British speakers are often said to be among the most indirect communicators in Europe, and a manager who remarks that a report \"could perhaps be tightened up a little\" is generally understood to be demanding a thorough rewrite. Non-native speakers, who tend to take such phrases at face value, frequently misconstrue them.",
+    "Researchers who study international teams argue that the solution is not to abandon one's natural style but to become aware of it. A few practical habits seem to make a considerable difference. Firstly, it helps to paraphrase what you have heard before reacting: \"If I understood correctly, you are suggesting that we postpone the launch.\" This gives the speaker a chance to clarify and prevents small misunderstandings from snowballing. Secondly, hedging is a tool rather than a weakness. Phrases such as \"It appears that...\" or \"Arguably, the main risk is...\" allow you to present a view without sounding dogmatic, which is particularly valuable when you are addressing colleagues who may be senior to you. Thirdly, it pays to ask open questions instead of yes-or-no ones, since in many cultures people will say \"yes\" simply to avoid causing offence.",
+    "Marta eventually learned all this the hard way. After a frank conversation with her team, she apologised for having come across as dismissive and promised to give feedback in smaller doses, starting with what was working before turning to what was not. Her colleagues, for their part, agreed to be more explicit about their concerns instead of keeping them to themselves. Six months on, the agency's creative director insists that the team has never worked better together. Marta, meanwhile, claims to have become a more tactful person, though she suspects that her new habits would surprise her friends back in Stockholm. \"I haven't lost my directness,\" she says. \"I have simply learned that getting the message across is not the same as saying it.\""
+   ],
+   "glossary": [
+    {
+     "en": "baffled",
+     "def": "completely puzzled or confused"
+    },
+    {
+     "en": "from scratch",
+     "def": "starting from the very beginning, with nothing prepared"
+    },
+    {
+     "en": "grumble",
+     "def": "to complain in a low, bad-tempered way"
+    },
+    {
+     "en": "buried",
+     "def": "set aside and forgotten, so that it is no longer discussed"
+    },
+    {
+     "en": "a case in point",
+     "def": "a clear example of what is being discussed"
+    },
+    {
+     "en": "at face value",
+     "def": "as it appears, without looking for a hidden meaning"
+    },
+    {
+     "en": "snowball",
+     "def": "to grow rapidly and out of control"
+    },
+    {
+     "en": "dogmatic",
+     "def": "stating opinions as if they were unquestionable truths"
+    },
+    {
+     "en": "doses",
+     "def": "measured amounts of a drug or medicine"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Why did some team members feel hurt after the first meeting?",
+     "options": [
+      "Marta had shouted at them.",
+      "She had rejected the proposal bluntly in front of everyone.",
+      "She had refused to listen to their ideas."
+     ],
+     "answer": 1,
+     "explain": "Dijo que la propuesta «does not work» ante todos."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "According to the text, \"That is an interesting idea\" always means the speaker likes the idea.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "In some settings it is a sincere compliment; in others it means the idea will be dropped."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What does a British manager usually want when saying a report \"could perhaps be tightened up a little\"?",
+     "options": [
+      "A minor tweak",
+      "A thorough rewrite",
+      "No changes at all"
+     ],
+     "answer": 1,
+     "explain": "It is understood as a request for a deep rewrite."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Why does the text recommend paraphrasing what you have heard?",
+     "options": [
+      "To let the speaker clarify and avoid small misunderstandings",
+      "To impress senior colleagues",
+      "To make meetings shorter"
+     ],
+     "answer": 0,
+     "explain": "Da al hablante la oportunidad de aclarar."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "How does the author present hedging?",
+     "options": [
+      "As a sign of weakness",
+      "As a useful tool",
+      "As a cultural error"
+     ],
+     "answer": 1,
+     "explain": "«Hedging is a tool rather than a weakness»."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Marta promised to give feedback in smaller ___.",
+     "answers": [
+      "doses"
+     ],
+     "explain": "«In smaller doses»."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "Marta says getting the message across is not the same as ___ it.",
+     "answers": [
+      "saying"
+     ],
+     "explain": "«Not the same as saying it»."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Reading the client's mind",
+   "intro": "Listen to the conversation between three colleagues. You can repeat it.",
+   "lines": [
+    {
+     "who": "Nora",
+     "voice": "glassy",
+     "text": "Right, so, let's go over what the client actually said, because I came away from that call with a very different impression from yours."
+    },
+    {
+     "who": "Diego",
+     "voice": "rounded",
+     "text": "Really? I thought it went rather well. Mr. Okafor said he was happy with the prototype and promised to send us feedback by Friday."
+    },
+    {
+     "who": "Nora",
+     "voice": "glassy",
+     "text": "Hang on. What he said was that the prototype was interesting. Which, in my experience, is polite for not quite what we had in mind."
+    },
+    {
+     "who": "Diego",
+     "voice": "rounded",
+     "text": "Come on, you're reading between the lines a bit too much. He admitted that the design looked a lot better than the previous version."
+    },
+    {
+     "who": "Priya",
+     "voice": "airy",
+     "text": "To be fair, both of you have a point. He did say the design had improved, but he also hinted that the budget might be an issue. He kept referring to the current climate."
+    },
+    {
+     "who": "Nora",
+     "voice": "glassy",
+     "text": "That's exactly what I mean. And then he suggested we revisit the timeline, which I took as a warning that they might pull out."
+    },
+    {
+     "who": "Diego",
+     "voice": "rounded",
+     "text": "Or it could simply mean he wants a bit more time. Arguably, we're jumping to conclusions."
+    },
+    {
+     "who": "Priya",
+     "voice": "airy",
+     "text": "Maybe. Though he did deny having any problems with us when I asked him point-blank, and people don't usually volunteer that unless something's up."
+    },
+    {
+     "who": "Diego",
+     "voice": "rounded",
+     "text": "Fair enough. So what do we do? We can't exactly ring him up and ask whether he's about to cancel."
+    },
+    {
+     "who": "Nora",
+     "voice": "glassy",
+     "text": "No, but we can clarify. I'll send a short email summarising what we understood and ask him to confirm. If we've misconstrued anything, he'll tell us."
+    },
+    {
+     "who": "Priya",
+     "voice": "airy",
+     "text": "Good idea. Keep it neutral, though. Something like, we'd like to make sure we've captured your comments correctly."
+    },
+    {
+     "who": "Diego",
+     "voice": "rounded",
+     "text": "And I'd put the positive bit up front. If he did like the design, we should say so before we mention the budget."
+    },
+    {
+     "who": "Nora",
+     "voice": "glassy",
+     "text": "Agreed. I'll draft it tonight and send it round for you both to look over before it goes out."
+    },
+    {
+     "who": "Priya",
+     "voice": "airy",
+     "text": "Perfect. And let's not beat around the bush in the follow-up call either. I'll ask him straight what the real concern is."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What did Mr. Okafor promise to do?",
+     "options": [
+      "Send feedback by Friday",
+      "Cancel the project",
+      "Visit the office"
+     ],
+     "answer": 0,
+     "explain": "Promised to send us feedback by Friday."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Why does Nora distrust the word «interesting»?",
+     "options": [
+      "She thinks it is a polite way of saying the prototype isn't right",
+      "She finds it insulting",
+      "She doesn't understand it"
+     ],
+     "answer": 0,
+     "explain": "For her, it is a polite euphemism."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What did the client hint at, according to Priya?",
+     "options": [
+      "Budget problems",
+      "A change of team",
+      "A legal dispute"
+     ],
+     "answer": 0,
+     "explain": "He hinted that the budget might be an issue."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "Nora will email Mr. Okafor and ask him to ___ their summary.",
+     "answers": [
+      "confirm"
+     ],
+     "explain": "Ask him to confirm."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What does Diego want to put first in the email?",
+     "options": [
+      "The positive comments",
+      "The budget",
+      "The timeline"
+     ],
+     "answer": 0,
+     "explain": "The positive bit up front."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "What he said was that the prototype was interesting.",
+     "answers": [
+      "What he said was that the prototype was interesting."
+     ],
+     "explain": "Cleft sentence with a reported that-clause."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "If we've misconstrued anything, he'll tell us.",
+     "answers": [
+      "If we've misconstrued anything, he'll tell us.",
+      "If we have misconstrued anything, he will tell us."
+     ],
+     "explain": "Primer condicional con misconstrue."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "He denied having any problems with us.",
+     "answers": [
+      "He denied having any problems with us."
+     ],
+     "explain": "Deny + -ing."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Let's not beat around the bush in the follow-up call.",
+     "answers": [
+      "Let's not beat around the bush in the follow-up call.",
+      "Let us not beat around the bush in the follow-up call."
+     ],
+     "explain": "Modismo: beat around the bush."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Tell someone about something important that someone said to you recently (advice, a complaint, news), using varied reporting verbs.",
+     "questions": [
+      "Who told you something important recently?",
+      "What exactly did they say?",
+      "How did you react?",
+      "Did you follow their advice, or did you decide against it?"
+     ],
+     "model": "A few weeks ago my sister urged me to change jobs. She pointed out that I had been complaining about my boss for months, and she warned me not to wait until I was completely burnt out. At first I denied being unhappy, but I eventually admitted that she was right. I haven't resigned yet, but I've started updating my CV.",
+     "checklist": [
+      "At least 4 reporting verbs with the correct pattern",
+      "Consistent backshifting of tenses",
+      "Connectors (at first, eventually)",
+      "Natural intonation, without long pauses"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Summarise a news story or an opinion you have read, using impersonal reporting and softeners.",
+     "questions": [
+      "What was the story or opinion about?",
+      "Who was said to be responsible?",
+      "How reliable do you think the information is?",
+      "What would you want to know before drawing a conclusion?"
+     ],
+     "model": "I read that a local company is said to be planning to close two of its factories. According to the article, around three hundred jobs are at risk, although the company has reportedly denied any final decision. It seems that the figures come from an internal memo, so arguably we should treat them with caution until there is an official statement.",
+     "checklist": [
+      "is said to be / reportedly / according to",
+      "Hedging: it seems that, arguably, tend to",
+      "Distinguish what is reported from your own opinion",
+      "Neutral and formal register"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Debate: is it more important to say what you think frankly, or to take care over how you say it? Defend a position with nuance.",
+     "questions": [
+      "Do you tend to speak your mind or to be diplomatic?",
+      "Can you think of a time when you misconstrued someone's message?",
+      "Is bluntness a strength or a weakness at work?",
+      "How can we make our message clearer across cultures?"
+     ],
+     "model": "I tend to be fairly direct, although I've learned that it can backfire. To some extent, bluntness saves time, but it can also make you come across as dismissive. Arguably, the best approach is to be honest about the content and tactful about the delivery. If I understood the research correctly, people remember how a message made them feel long after they forget the words.",
+     "checklist": [
+      "Clear position with nuance",
+      "v-communication vocabulary",
+      "At least 2 softeners",
+      "A personal example"
+     ]
+    }
+   ],
+   "repeat": [
+    "She urged us to reconsider the offer.",
+    "He denied having seen the report.",
+    "It would seem that the figures were overstated.",
+    "I think you've misconstrued what I meant.",
+    "Let me put it another way.",
+    "The gist of it is that we need more time."
+   ]
+  }
+ }
+}

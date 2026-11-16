@@ -1,0 +1,1421 @@
+{
+ "id": "b1-u03",
+ "level": "A1",
+ "n": 3,
+ "title": "Down time",
+ "goals": [
+  "Talk about what you do (and don't do) in your free time using the simple present.",
+  "Ask and answer yes/no questions and questions with What, Where, When, Why and Who.",
+  "Ask for an opinion and respond naturally (What do you think? How about you?).",
+  "Describe your personality and other people's using adjectives (shy, funny, sociable…).",
+  "Understand and write short texts about likes, hobbies and daily routine."
+ ],
+ "learn": [
+  {
+   "id": "g-present-simple",
+   "kind": "grammar",
+   "title": "Simple present: affirmative, negative and Yes/No questions",
+   "html": "<p>Used to talk about likes, habits and routines (what you normally do). With <em>I, you, we, they</em> the verb does not change; with <em>he, she, it</em> we add <strong>-s</strong> (or <strong>-es</strong> / <strong>-ies</strong>). To make negatives and questions we use the helper <strong>do / does</strong>, and the main verb goes back to its <strong>base form</strong>. Careful: with action verbs, <em>do/does</em> is used instead of <em>be</em>; don't mix them.</p><table><thead><tr><th>Affirmative</th><th>Negative</th><th>Question</th><th>Short answer</th></tr></thead><tbody><tr><td>I / you / we / they <strong>listen</strong> to music.</td><td>I / you / we / they <strong>don't</strong> (do not) <strong>listen</strong>.</td><td><strong>Do</strong> you / they <strong>listen</strong> to music?</td><td>Yes, I / they <strong>do</strong>. / No, I / they <strong>don't</strong>.</td></tr><tr><td>He / she / it <strong>listens</strong> to music.</td><td>He / she / it <strong>doesn't</strong> (does not) <strong>listen</strong>.</td><td><strong>Does</strong> he / she <strong>listen</strong> to music?</td><td>Yes, he / she <strong>does</strong>. / No, he / she <strong>doesn't</strong>.</td></tr></tbody></table><p>Spelling of the third person: most verbs only add -s (<em>plays, buys</em>); verbs ending in <em>-ch, -sh, -s, -x, -o</em> add -es (<em>watches, goes</em>); consonant + y changes to <em>-ies</em> (<em>studies</em>). With a particle: <em>wakes up, works out</em>.</p>",
+   "watch": [
+    {
+     "wrong": "He like music.",
+     "right": "He likes music.",
+     "why": "With he/she/it, the verb takes -s."
+    },
+    {
+     "wrong": "Does she plays the guitar?",
+     "right": "Does she play the guitar?",
+     "why": "With does, the verb is in the base form."
+    },
+    {
+     "wrong": "She doesn't likes tennis.",
+     "right": "She doesn't like tennis.",
+     "why": "With doesn't, the verb is in the base form."
+    },
+    {
+     "wrong": "Does he read books? Yes, he reads.",
+     "right": "Yes, he does.",
+     "why": "The short answer uses do/does, not the verb."
+    },
+    {
+     "wrong": "I no play sports.",
+     "right": "I don't play sports.",
+     "why": "The negative is don't/doesn't + verb."
+    },
+    {
+     "wrong": "Are you like soccer?",
+     "right": "Do you like soccer?",
+     "why": "With action verbs, use do/does, not be."
+    }
+   ]
+  },
+  {
+   "id": "v-books",
+   "kind": "vocab",
+   "title": "Book genres and reading",
+   "words": [
+    {
+     "id": "w-mystery-stories",
+     "en": "mystery stories",
+     "es": "novelas de misterio",
+     "example": "I like mystery stories.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-fantasy-novels",
+     "en": "fantasy novels",
+     "es": "novelas de fantasía",
+     "example": "Danni likes fantasy novels.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-romantic-novels-love-stories",
+     "en": "romantic novels / love stories",
+     "es": "novelas románticas / historias de amor",
+     "example": "Monika loves a good romantic story.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-biographies",
+     "en": "biographies",
+     "es": "biografías",
+     "example": "Leo only reads biographies.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-historical-books",
+     "en": "historical books",
+     "es": "libros históricos",
+     "example": "He also reads historical books.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-fiction",
+     "en": "fiction",
+     "es": "ficción",
+     "example": "Leo doesn't like fiction.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-series-of-books",
+     "en": "series (of books)",
+     "es": "saga / serie de libros",
+     "example": "My favorite is a series of five books.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-detective",
+     "en": "detective",
+     "es": "detective",
+     "example": "Sherlock Holmes is a famous detective.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-collection",
+     "en": "collection",
+     "es": "colección",
+     "example": "She has a big collection of books.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-solution",
+     "en": "solution",
+     "es": "solución",
+     "example": "I try to find the solution.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-real-events-real-people",
+     "en": "real events / real people",
+     "es": "hechos / personas reales",
+     "example": "I want to read about real events.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-happy-ending",
+     "en": "happy ending",
+     "es": "final feliz",
+     "example": "There is always a happy ending.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "v-free-time",
+   "kind": "vocab",
+   "title": "Free time activities",
+   "words": [
+    {
+     "id": "w-play-video-games",
+     "en": "play video games",
+     "es": "jugar videojuegos",
+     "example": "My cousin plays video games after school.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-play-sports",
+     "en": "play sports",
+     "es": "practicar deportes",
+     "example": "We play sports on Saturdays.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-play-tennis",
+     "en": "play tennis",
+     "es": "jugar tenis",
+     "example": "Carmen plays tennis in the park.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-play-the-guitar",
+     "en": "play the guitar",
+     "es": "tocar la guitarra",
+     "example": "Ken plays the guitar.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-work-out",
+     "en": "work out",
+     "es": "hacer ejercicio",
+     "example": "I work out in the gym twice a week.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-listen-to-music",
+     "en": "listen to music",
+     "es": "escuchar música",
+     "example": "Bettina listens to country music.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-bowling",
+     "en": "go bowling",
+     "es": "ir a jugar boliche",
+     "example": "We go bowling on Saturday nights.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-go-to-the-movies",
+     "en": "go to the movies",
+     "es": "ir al cine",
+     "example": "I go to the movies with my friends.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-online",
+     "en": "go online",
+     "es": "conectarse a internet",
+     "example": "He goes online every night.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-to-parties",
+     "en": "go to parties",
+     "es": "ir a fiestas",
+     "example": "Jenny goes to parties.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-see-friends",
+     "en": "see friends",
+     "es": "ver / salir con amigos",
+     "example": "They see friends on weekends.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-watch-tv",
+     "en": "watch TV",
+     "es": "ver la tele",
+     "example": "John watches TV at night.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-watch-a-movie",
+     "en": "watch a movie",
+     "es": "ver una película",
+     "example": "Alex watches a movie at home.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-practice-the-guitar",
+     "en": "practice the guitar",
+     "es": "practicar la guitarra",
+     "example": "Alex practices the guitar.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-write-new-songs",
+     "en": "write new songs",
+     "es": "escribir canciones nuevas",
+     "example": "They write new songs together.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-buy-cds-buy-mp3s-online",
+     "en": "buy CDs / buy MP3s online",
+     "es": "comprar CDs / comprar MP3 en línea",
+     "example": "I buy MP3s online.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-read-magazines",
+     "en": "read magazines",
+     "es": "leer revistas",
+     "example": "Rosina doesn't read magazines.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-info-questions",
+   "kind": "grammar",
+   "title": "Simple present: information questions",
+   "html": "<p>Used to ask for specific information: when, where, who, what, why. The question word goes first, then <strong>do / does</strong>, the subject, and the verb in its base form.</p><table><thead><tr><th>Word</th><th>Structure</th><th>Example</th><th>Typical answer</th></tr></thead><tbody><tr><td>What</td><td>What + do/does + subject + verb?</td><td>What does Lisa do in her free time?</td><td>She plays tennis.</td></tr><tr><td>Where</td><td>Where + do/does + subject + verb?</td><td>Where does Carmen play tennis?</td><td>In the park.</td></tr><tr><td>When</td><td>When + do/does + subject + verb?</td><td>When do Bob and Jerry go bowling?</td><td>On the weekend.</td></tr><tr><td>Who (with whom)</td><td>Who + do/does + subject + verb + with?</td><td>Who does Linda play tennis with?</td><td>Her sister.</td></tr><tr><td>Why</td><td>Why + do/does + subject + verb?</td><td>Why does Lisa like tennis?</td><td>Because it's relaxing.</td></tr></tbody></table><p><em>Why</em> is answered with <strong>because</strong>. In <em>Who … with?</em> the preposition goes at the end.</p>",
+   "watch": [
+    {
+     "wrong": "What he does in his free time?",
+     "right": "What does he do in his free time?",
+     "why": "The helper goes before the subject."
+    },
+    {
+     "wrong": "Why does Richard stays in that job?",
+     "right": "Why does Richard stay in that job?",
+     "why": "With does, the verb has no -s."
+    },
+    {
+     "wrong": "What does you do?",
+     "right": "What do you do?",
+     "why": "does is only used with he/she/it."
+    },
+    {
+     "wrong": "Where you work?",
+     "right": "Where do you work?",
+     "why": "The helper do is missing."
+    }
+   ]
+  },
+  {
+   "id": "s-opinions",
+   "kind": "strategy",
+   "title": "Strategy: asking for opinions",
+   "html": "<p>Used to invite the other person to talk and keep the conversation going.</p><table><thead><tr><th>Question</th><th>When to use it</th><th>Possible answer</th></tr></thead><tbody><tr><td>What do you think?</td><td>After giving your opinion.</td><td>I'm not sure. They're OK sometimes.</td></tr><tr><td>How about you?</td><td>To give the question back.</td><td>I don't play sports.</td></tr><tr><td>What's your opinion?</td><td>More formal or direct.</td><td>I prefer hip-hop.</td></tr><tr><td>Do you agree?</td><td>To check if they think the same.</td><td>Yes, I do. / No, I don't.</td></tr></tbody></table>"
+  },
+  {
+   "id": "v-personality",
+   "kind": "vocab",
+   "title": "Personality adjectives",
+   "words": [
+    {
+     "id": "w-shy",
+     "en": "shy",
+     "es": "tímido/a",
+     "example": "Carla is shy when she meets new people.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-sociable",
+     "en": "sociable",
+     "es": "sociable",
+     "example": "Lori is sociable and goes to parties."
+    },
+    {
+     "id": "w-confident",
+     "en": "confident",
+     "es": "seguro/a de sí mismo/a",
+     "example": "I feel confident in new situations.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-funny",
+     "en": "funny",
+     "es": "gracioso/a",
+     "example": "Mark is funny and tells jokes.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-popular",
+     "en": "popular",
+     "es": "popular",
+     "example": "He has a lot of friends; he's popular.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-loyal",
+     "en": "loyal",
+     "es": "leal",
+     "example": "A loyal friend is always there for you.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-considerate",
+     "en": "considerate",
+     "es": "considerado/a, atento/a",
+     "example": "Patrick is considerate with his friends."
+    },
+    {
+     "id": "w-extrovert",
+     "en": "extrovert",
+     "es": "extrovertido/a",
+     "example": "Extroverts like parties and talk a lot."
+    },
+    {
+     "id": "w-introvert",
+     "en": "introvert",
+     "es": "introvertido/a",
+     "example": "Introverts like quiet evenings at home."
+    },
+    {
+     "id": "w-sad",
+     "en": "sad",
+     "es": "triste",
+     "example": "I call my friends when I feel sad.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-video",
+   "kind": "vocab",
+   "title": "Video words: unusual hobbies",
+   "words": [
+    {
+     "id": "w-active-energetic",
+     "en": "active (energetic)",
+     "es": "activo/a, enérgico/a",
+     "example": "Olive is very active.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-unusual-not-usual",
+     "en": "unusual (not usual)",
+     "es": "poco común, inusual",
+     "example": "Beekeeping is an unusual hobby.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-endangered",
+     "en": "endangered",
+     "es": "en peligro de extinción",
+     "example": "Penguins are endangered animals."
+    },
+    {
+     "id": "w-respect",
+     "en": "respect",
+     "es": "respetar",
+     "example": "We must respect animals.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-chat",
+     "en": "chat",
+     "es": "charlar",
+     "example": "They chat while they knit.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-protect-take-care-of",
+     "en": "protect (take care of)",
+     "es": "proteger, cuidar",
+     "example": "Sweaters protect penguins from oil.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-beekeeping",
+     "en": "beekeeping",
+     "es": "apicultura",
+     "example": "Georgia's hobby is beekeeping."
+    },
+    {
+     "id": "w-knit-knitting",
+     "en": "knit / knitting",
+     "es": "tejer / tejido",
+     "example": "They meet once a week to knit."
+    },
+    {
+     "id": "w-honey",
+     "en": "honey",
+     "es": "miel",
+     "example": "She makes honey.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-scarves-sweaters",
+     "en": "scarves, sweaters",
+     "es": "bufandas, suéteres",
+     "example": "They make scarves and sweaters.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>Can I ask you some questions for a survey?</strong> — to start a short survey or interview.</li><li><strong>Sure! Go ahead.</strong> — to say yes and let the person start.</li><li><strong>Thanks a lot! / Sure, no problem.</strong> — to say thank you and reply to thanks.</li><li><strong>I'm not sure.</strong> — when you don't have a clear opinion.</li><li><strong>I prefer …</strong> — to say what you prefer.</li><li><strong>I'm very / quite … (shy, sociable…)</strong> — describing your personality.</li><li><strong>I like / enjoy going / playing …</strong> — talking about your hobbies.</li><li><strong>I really like … / I love …</strong> — to show a strong like.</li><li><strong>Because it's relaxing, healthy and fun.</strong> — giving reasons with because.</li><li><strong>They're always there for me.</strong> — talking about a loyal friend.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Complete with the simple present",
+   "instructions": "Write the correct form of the verb (or of the helper).",
+   "topic": "g-present-simple",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "My cousin Ale ___ (play) soccer every Sunday.",
+     "answers": [
+      "plays"
+     ],
+     "explain": "Ale = he/she: verb + -s."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "We ___ (not watch) soap operas at night.",
+     "answers": [
+      "don't watch",
+      "do not watch"
+     ],
+     "explain": "We → don't + base verb."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "___ your parents like salsa?",
+     "answers": [
+      "Do"
+     ],
+     "explain": "Your parents = they → Do."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "Carlos ___ (not go) to the gym on Mondays.",
+     "answers": [
+      "doesn't go",
+      "does not go"
+     ],
+     "explain": "Carlos = he → doesn't + base verb."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "The bakery near my house ___ (open) at six in the morning.",
+     "answers": [
+      "opens"
+     ],
+     "explain": "The bakery = it → open + -s."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "I ___ (study) English after dinner.",
+     "answers": [
+      "study"
+     ],
+     "explain": "With I, the verb doesn't change."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "___ Marisol have a bike?",
+     "answers": [
+      "Does"
+     ],
+     "explain": "Marisol = she → Does."
+    },
+    {
+     "id": "A8",
+     "type": "gap",
+     "prompt": "My sister ___ (watch) series on her phone.",
+     "answers": [
+      "watches"
+     ],
+     "explain": "Ending in -ch → +es."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Write the question",
+   "instructions": "Make an information question with the words given.",
+   "topic": "g-info-questions",
+   "items": [
+    {
+     "id": "B1",
+     "type": "translate",
+     "prompt": "Escribe la pregunta: (where / Daniela / buy tacos)",
+     "answers": [
+      "Where does Daniela buy tacos?"
+     ],
+     "explain": "Where + does + subject + base verb."
+    },
+    {
+     "id": "B2",
+     "type": "translate",
+     "prompt": "Escribe la pregunta: (when / you / get up on weekends)",
+     "answers": [
+      "When do you get up on weekends?"
+     ],
+     "explain": "When + do + you + base verb."
+    },
+    {
+     "id": "B3",
+     "type": "translate",
+     "prompt": "Escribe la pregunta: (who / Pedro / go to the movies with)",
+     "answers": [
+      "Who does Pedro go to the movies with?"
+     ],
+     "explain": "The preposition with goes at the end."
+    },
+    {
+     "id": "B4",
+     "type": "translate",
+     "prompt": "Escribe la pregunta: (why / your brother / like horror films)",
+     "answers": [
+      "Why does your brother like horror films?"
+     ],
+     "explain": "Why + does + subject + base verb (no -s)."
+    },
+    {
+     "id": "B5",
+     "type": "translate",
+     "prompt": "Escribe la pregunta: (what / Ana and Luis / do on Sundays)",
+     "answers": [
+      "What do Ana and Luis do on Sundays?"
+     ],
+     "explain": "Ana and Luis = they → do."
+    },
+    {
+     "id": "B6",
+     "type": "translate",
+     "prompt": "Escribe la pregunta: (where / you / listen to music)",
+     "answers": [
+      "Where do you listen to music?"
+     ],
+     "explain": "Where + do + you + base verb."
+    },
+    {
+     "id": "B7",
+     "type": "translate",
+     "prompt": "Escribe la pregunta: (when / the English class / start)",
+     "answers": [
+      "When does the English class start?"
+     ],
+     "explain": "The class = it → does + start (no -s)."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Choose the personality adjective",
+   "instructions": "Choose the adjective that completes each sentence.",
+   "topic": "v-personality",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "Rafa tells great jokes and everybody laughs. He is ___.",
+     "options": [
+      "shy",
+      "funny",
+      "sociable",
+      "confident",
+      "loyal",
+      "introvert",
+      "popular"
+     ],
+     "answer": 1,
+     "explain": "Tells jokes → funny."
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "Sofía doesn't talk much in a group of new people. She is ___.",
+     "options": [
+      "shy",
+      "funny",
+      "sociable",
+      "confident",
+      "loyal",
+      "introvert",
+      "popular"
+     ],
+     "answer": 0,
+     "explain": "Talks little with strangers → shy."
+    },
+    {
+     "id": "C3",
+     "type": "choice",
+     "prompt": "Marco never leaves his friends alone when they have a problem. He is a ___ friend.",
+     "options": [
+      "shy",
+      "funny",
+      "sociable",
+      "confident",
+      "loyal",
+      "introvert",
+      "popular"
+     ],
+     "answer": 4,
+     "explain": "Never abandons his friends → loyal."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "Lupe has hundreds of friends at school. She is very ___.",
+     "options": [
+      "shy",
+      "funny",
+      "sociable",
+      "confident",
+      "loyal",
+      "introvert",
+      "popular"
+     ],
+     "answer": 6,
+     "explain": "Many friends → popular."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "Beto prefers reading at home to going to big parties. He is an ___.",
+     "options": [
+      "shy",
+      "funny",
+      "sociable",
+      "confident",
+      "loyal",
+      "introvert",
+      "popular"
+     ],
+     "answer": 5,
+     "explain": "Prefers to stay home → introvert."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "Nora goes to every party and loves being with people. She is ___.",
+     "options": [
+      "shy",
+      "funny",
+      "sociable",
+      "confident",
+      "loyal",
+      "introvert",
+      "popular"
+     ],
+     "answer": 2,
+     "explain": "Loves being with people → sociable."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Fix the mistake",
+   "instructions": "Write the corrected sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "D1",
+     "type": "fix",
+     "prompt": "Does Lucía plays volleyball?",
+     "answers": [
+      "Does Lucía play volleyball?"
+     ],
+     "explain": "With does, the verb is in the base form."
+    },
+    {
+     "id": "D2",
+     "type": "fix",
+     "prompt": "My father don't like loud music.",
+     "answers": [
+      "My father doesn't like loud music.",
+      "My father does not like loud music."
+     ],
+     "explain": "My father = he → doesn't."
+    },
+    {
+     "id": "D3",
+     "type": "fix",
+     "prompt": "What your friends do on Fridays?",
+     "answers": [
+      "What do your friends do on Fridays?"
+     ],
+     "explain": "The helper do is missing before the subject."
+    },
+    {
+     "id": "D4",
+     "type": "fix",
+     "prompt": "Where does you work?",
+     "answers": [
+      "Where do you work?"
+     ],
+     "explain": "does is only for he/she/it; with you, use do."
+    },
+    {
+     "id": "D5",
+     "type": "fix",
+     "prompt": "Yes, he goes. (answer to: Does Tomás go online every night?)",
+     "answers": [
+      "Yes, he does."
+     ],
+     "explain": "The short answer uses does, not the verb."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the questions and sentences in order",
+   "instructions": "Put the words in order to form a correct sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "does",
+      "Where",
+      "live",
+      "your",
+      "cousin"
+     ],
+     "answers": [
+      "Where does your cousin live?"
+     ],
+     "explain": "Where + does + subject + base verb."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "do",
+      "you",
+      "What",
+      "do",
+      "on",
+      "Saturdays"
+     ],
+     "answers": [
+      "What do you do on Saturdays?"
+     ],
+     "explain": "What + do + subject + do (verb) + complement."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "Does",
+      "like",
+      "she",
+      "pop",
+      "music"
+     ],
+     "answers": [
+      "Does she like pop music?"
+     ],
+     "explain": "Yes/No question: Does + subject + base verb."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "Why",
+      "your",
+      "does",
+      "sister",
+      "study",
+      "English"
+     ],
+     "answers": [
+      "Why does your sister study English?"
+     ],
+     "explain": "Why + does + subject + base verb."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "don't",
+      "They",
+      "work",
+      "out",
+      "on",
+      "Sundays"
+     ],
+     "answers": [
+      "They don't work out on Sundays.",
+      "They do not work out on Sundays."
+     ],
+     "explain": "Negative: subject + don't + base verb."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "do",
+      "Who",
+      "you",
+      "with",
+      "go",
+      "bowling"
+     ],
+     "answers": [
+      "Who do you go bowling with?"
+     ],
+     "explain": "Who + do + subject + verb + with at the end."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Mi hermano toca la guitarra todos los días.",
+     "answers": [
+      "My brother plays the guitar every day.",
+      "My brother plays guitar every day."
+     ],
+     "explain": "My brother = he → plays (with -s)."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Ellos no ven la tele por la noche.",
+     "answers": [
+      "They don't watch TV at night.",
+      "They don't watch television at night.",
+      "They do not watch TV at night.",
+      "They do not watch television at night."
+     ],
+     "explain": "They → don't + base verb."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "¿Tu mamá escucha música country?",
+     "answers": [
+      "Does your mom listen to country music?",
+      "Does your mother listen to country music?",
+      "Does your mum listen to country music?"
+     ],
+     "explain": "Question with Does + base verb."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "¿Dónde juegas tenis?",
+     "answers": [
+      "Where do you play tennis?"
+     ],
+     "explain": "Where + do + you + base verb."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Ana no hace ejercicio los lunes.",
+     "answers": [
+      "Ana doesn't work out on Mondays.",
+      "Ana does not work out on Mondays."
+     ],
+     "explain": "Ana = she → doesn't + work out."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "¿Por qué le gusta el tenis a Lisa?",
+     "answers": [
+      "Why does Lisa like tennis?"
+     ],
+     "explain": "Why + does + subject + like (no -s)."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises of different types and topics from the unit (includes be vs do/does).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "fix",
+     "prompt": "Are you like soccer?",
+     "answers": [
+      "Do you like soccer?"
+     ],
+     "explain": "like is an action verb: use do, not be."
+    },
+    {
+     "id": "M2",
+     "type": "fix",
+     "prompt": "Is he play tennis?",
+     "answers": [
+      "Does he play tennis?"
+     ],
+     "explain": "With action verbs, use does, not is."
+    },
+    {
+     "id": "M3",
+     "type": "choice",
+     "prompt": "___ Lupe shy? — No, she isn't.",
+     "options": [
+      "Is",
+      "Does",
+      "Do",
+      "Are"
+     ],
+     "answer": 0,
+     "explain": "shy is an adjective: it takes be (Is), not does."
+    },
+    {
+     "id": "M4",
+     "type": "gap",
+     "prompt": "Does Tomás go online every night? — Yes, he ___.",
+     "answers": [
+      "does"
+     ],
+     "explain": "Short answer with does."
+    },
+    {
+     "id": "M5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "on",
+      "Sundays",
+      "He",
+      "doesn't",
+      "play",
+      "video",
+      "games"
+     ],
+     "answers": [
+      "He doesn't play video games on Sundays.",
+      "He does not play video games on Sundays.",
+      "On Sundays he doesn't play video games.",
+      "On Sundays he does not play video games."
+     ],
+     "explain": "Negative: he + doesn't + base verb."
+    },
+    {
+     "id": "M6",
+     "type": "translate",
+     "prompt": "¿Cuándo van tus amigos al cine?",
+     "answers": [
+      "When do your friends go to the movies?"
+     ],
+     "explain": "Your friends = they → do."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "You give your opinion and want to know the other person's. Which question do you ask?",
+     "options": [
+      "What do you think?",
+      "What do you do?",
+      "Who do you think?"
+     ],
+     "answer": 0,
+     "explain": "What do you think? is used to ask for an opinion."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "Marco is a ___ friend: he is always there for me. (adjective)",
+     "answers": [
+      "loyal"
+     ],
+     "explain": "Always there for you → loyal."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "F1",
+   "prompt": "Write 5 sentences about you and your week: one about your personality (I'm quite …), two about what you do in your free time (I like going … / I play …) and one about something you DON'T do.",
+   "targets": [
+    "present simple",
+    "don't/doesn't",
+    "personality adjectives"
+   ],
+   "checklist": [
+    "Subject in each sentence",
+    "-s with he/she/it",
+    "don't/doesn't + base verb in negatives",
+    "One personality sentence (I'm quite …)",
+    "Two sentences about free time",
+    "One sentence about something you don't do",
+    "5 sentences"
+   ],
+   "model": "I'm quite shy, but I'm friendly. I play soccer with my cousins on Saturdays. I like going to the movies with my friends. My sister doesn't like movies. I don't eat breakfast on weekdays."
+  },
+  {
+   "id": "F2",
+   "prompt": "Write 3 questions for a friend using When, Where and Who … with, and one to ask for their opinion (What do you think?).",
+   "targets": [
+    "information questions",
+    "do/does",
+    "asking for opinions"
+   ],
+   "checklist": [
+    "One question with When",
+    "One question with Where",
+    "One question with Who … with",
+    "do/does before the subject",
+    "Base verb after do/does",
+    "One opinion question (What do you think?)",
+    "4 questions in total"
+   ],
+   "model": "When do you play soccer?\nWhere do you eat lunch?\nWho do you study with?\nWhat do you think about this song?"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "My weekends with friends",
+   "intro": "Read Paola's email and answer.",
+   "paragraphs": [
+    "Hi Emma! You ask about my free time and my friends, so here is some news. I'm quite sociable, and I love weekends. On Saturdays, I go bowling with my friends Rafa and Lupe. Rafa is very funny. He tells jokes all night! Lupe is shy, but she is a loyal friend.",
+    "On Sundays, I don't go to parties. I listen to music and I practice the guitar at home. My brother Beto doesn't play the guitar. He plays video games and goes online. He is an introvert, so he doesn't like big groups.",
+    "What do you do in your free time? Do you like sports? Where do you meet your friends? What do you think about bowling? Write soon! Paola"
+   ],
+   "glossary": [
+    {
+     "en": "sociable",
+     "def": "friendly, and enjoys being with people"
+    },
+    {
+     "en": "jokes",
+     "def": "funny stories or sayings that make people laugh"
+    },
+    {
+     "en": "shy",
+     "def": "not comfortable talking to new people"
+    },
+    {
+     "en": "loyal",
+     "def": "always supportive of your friends"
+    },
+    {
+     "en": "introvert",
+     "def": "someone who enjoys being alone or in quiet places"
+    },
+    {
+     "en": "groups",
+     "def": "sets of people together"
+    },
+    {
+     "en": "news",
+     "def": "information about recent events"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Paola goes bowling on Saturdays.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Dice: 'On Saturdays, I go bowling with my friends'."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Lupe is sociable.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Lupe is shy (tímida), not outgoing."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Who tells jokes all night?",
+     "options": [
+      "Rafa",
+      "Lupe",
+      "Beto"
+     ],
+     "answer": 0,
+     "explain": "Rafa is very funny. He tells jokes all night."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "What does Beto do at home?",
+     "options": [
+      "He plays the guitar.",
+      "He plays video games and goes online.",
+      "He goes to parties."
+     ],
+     "answer": 1,
+     "explain": "Beto doesn't play the guitar; plays video games and goes online."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Beto is an introvert, so he doesn't like big ___.",
+     "answers": [
+      "groups"
+     ],
+     "explain": "Last sentence of paragraph 2: big groups."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "On Sundays, Paola listens to music and practices the ___.",
+     "answers": [
+      "guitar",
+      "the guitar"
+     ],
+     "explain": "Practice the guitar at home."
+    }
+   ]
+  },
+  "listening": {
+   "title": "A short survey in the park",
+   "intro": "Listen to the conversation. You can repeat it.",
+   "lines": [
+    {
+     "who": "Interviewer",
+     "voice": "buttery",
+     "text": "Excuse me. Can I ask you some questions for a survey?"
+    },
+    {
+     "who": "Marta",
+     "voice": "glassy",
+     "text": "Sure! Go ahead."
+    },
+    {
+     "who": "Interviewer",
+     "voice": "buttery",
+     "text": "What do you do in your free time?"
+    },
+    {
+     "who": "Marta",
+     "voice": "glassy",
+     "text": "I play tennis and I listen to music. I also go to the movies with my friends."
+    },
+    {
+     "who": "Interviewer",
+     "voice": "buttery",
+     "text": "Where do you play tennis?"
+    },
+    {
+     "who": "Marta",
+     "voice": "glassy",
+     "text": "In the park near my house. My sister plays with me on Saturdays."
+    },
+    {
+     "who": "Interviewer",
+     "voice": "buttery",
+     "text": "Does your sister like tennis?"
+    },
+    {
+     "who": "Marta",
+     "voice": "glassy",
+     "text": "Yes, she does. She loves it because it's fun and healthy."
+    },
+    {
+     "who": "Interviewer",
+     "voice": "buttery",
+     "text": "Do you play video games?"
+    },
+    {
+     "who": "Marta",
+     "voice": "glassy",
+     "text": "No, I don't. They're not fun for me. How about you?"
+    },
+    {
+     "who": "Interviewer",
+     "voice": "buttery",
+     "text": "I'm not sure. Thanks a lot for your time!"
+    },
+    {
+     "who": "Marta",
+     "voice": "glassy",
+     "text": "Sure, no problem."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What sport does Marta play?",
+     "options": [
+      "Tennis",
+      "Bowling",
+      "Volleyball"
+     ],
+     "answer": 0,
+     "explain": "Marta: 'I play tennis'."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Where does Marta play tennis?",
+     "options": [
+      "At the gym",
+      "In the park",
+      "At home"
+     ],
+     "answer": 1,
+     "explain": "In the park near my house."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "When does Marta play with her sister?",
+     "options": [
+      "On Saturdays",
+      "On Sundays",
+      "Every night"
+     ],
+     "answer": 0,
+     "explain": "My sister plays with me on Saturdays."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "Marta's sister loves tennis because it's fun and ___.",
+     "answers": [
+      "healthy"
+     ],
+     "explain": "She loves it because it's fun and healthy."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "Does Marta play video games?",
+     "options": [
+      "Yes, she does.",
+      "No, she doesn't."
+     ],
+     "answer": 1,
+     "explain": "Marta: 'No, I don't'."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "prompt": "Escucha y escribe lo que oyes.",
+     "text": "Can I ask you some questions?",
+     "answers": [
+      "Can I ask you some questions?"
+     ],
+     "explain": "Phrase for starting a survey."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "prompt": "Escucha y escribe lo que oyes.",
+     "text": "Where do you play tennis?",
+     "answers": [
+      "Where do you play tennis?"
+     ],
+     "explain": "Where + do + subject + base verb."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "prompt": "Escucha y escribe lo que oyes.",
+     "text": "My sister plays with me on Saturdays.",
+     "answers": [
+      "My sister plays with me on Saturdays."
+     ],
+     "explain": "Sister = she, por eso plays con -s."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "prompt": "Escucha y escribe lo que oyes.",
+     "text": "She loves it because it's fun.",
+     "answers": [
+      "She loves it because it's fun.",
+      "She loves it because it is fun."
+     ],
+     "explain": "Because gives the reason."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about your free time: what you do, where and with whom.",
+     "questions": [
+      "What do you do in your free time?",
+      "Where do you do it?",
+      "Who do you do it with?"
+     ],
+     "model": "I play video games and I listen to music. I play at home. I play with my cousin on Saturdays. I don't go to parties.",
+     "checklist": [
+      "Simple present with I (no -s)",
+      "At least one negative sentence with don't",
+      "You say with whom (with)"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Describe a friend or family member: personality and what they do.",
+     "questions": [
+      "Who is your best friend?",
+      "What is he or she like?",
+      "What does he or she do on weekends?",
+      "Why do you like him or her?"
+     ],
+     "model": "My best friend is Rafa. He is funny and loyal. He plays soccer and goes online on weekends. I like him because he is always there for me.",
+     "checklist": [
+      "-s with he/she (plays, goes)",
+      "Personality adjectives with be",
+      "One reason with because"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Answer yes/no questions and ask the other person's opinion.",
+     "questions": [
+      "Do you play sports?",
+      "Does your best friend like parties?",
+      "What do you think about video games?",
+      "How about you?"
+     ],
+     "model": "Yes, I do. I play tennis. No, he doesn't. He is shy. I think video games are fun. What do you think?",
+     "checklist": [
+      "Short answers with do/does",
+      "Does + base verb",
+      "You ask for an opinion: What do you think? / How about you?"
+     ]
+    }
+   ],
+   "repeat": [
+    "Can I ask you some questions for a survey?",
+    "What do you do in your free time?",
+    "Where does she play tennis?",
+    "Who do you go to the movies with?",
+    "What do you think? How about you?",
+    "I'm quite shy, but my friends are sociable."
+   ]
+  }
+ }
+}

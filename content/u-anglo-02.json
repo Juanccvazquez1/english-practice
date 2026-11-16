@@ -1,0 +1,1575 @@
+{
+ "id": "u-anglo-02",
+ "level": "B1",
+ "n": 2,
+ "title": "Education",
+ "goals": [
+  "Talk about plans you have already arranged with the present continuous (I'm meeting my teacher on Friday).",
+  "Talk about life experiences with the present perfect and ever / never.",
+  "Use recently, lately, already and yet to talk about things that have or haven't happened.",
+  "Understand and use words about school, college, courses and student services.",
+  "Read a report card and talk about grades, attendance and progress.",
+  "Take part in a conference with a teacher: ask about progress, ask for help and agree on next steps.",
+  "Write a clear, polite email to a teacher."
+ ],
+ "learn": [
+  {
+   "id": "g-pres-cont-future",
+   "kind": "grammar",
+   "title": "Present continuous for future plans",
+   "html": "<p>We use the <strong>present continuous</strong> (be + verb-ing) for <strong>plans that are already arranged</strong>. Usually we know the day, the time or the place, and sometimes another person is involved.</p><table><thead><tr><th>Form</th><th>Example</th></tr></thead><tbody><tr><td>Positive</td><td>I<strong>'m meeting</strong> my teacher on Friday.</td></tr><tr><td>Negative</td><td>She<strong>isn't coming</strong> to class tomorrow.</td></tr><tr><td>Question</td><td>What <strong>are</strong> you <strong>doing</strong> this weekend?</td></tr><tr><td>Short answer</td><td>Yes, I am. / No, we aren't.</td></tr></tbody></table><ul><li>Use a future time word: <em>tomorrow, tonight, next week, on Monday, this weekend</em>.</li><li>Use it for arrangements: a meeting, an exam, a trip, an appointment. For a general idea or a prediction, use <em>be going to</em> or <em>will</em>.</li><li>Verbs like <em>go, come, leave, meet, see</em> and <em>have</em> are very common in this use.</li></ul>",
+   "watch": [
+    {
+     "wrong": "Tomorrow I'm go to the library.",
+     "right": "Tomorrow I'm going to the library.",
+     "why": "After am / is / are, the verb needs -ing."
+    },
+    {
+     "wrong": "What you are doing after class?",
+     "right": "What are you doing after class?",
+     "why": "In questions, be goes before the subject."
+    },
+    {
+     "wrong": "I meet my tutor tomorrow at ten. (for a personal plan)",
+     "right": "I'm meeting my tutor tomorrow at ten.",
+     "why": "For a personal arrangement, the present continuous is more natural than the simple present."
+    },
+    {
+     "wrong": "We not are having class on Monday.",
+     "right": "We aren't having class on Monday.",
+     "why": "The negative is be + not + verb-ing."
+    }
+   ]
+  },
+  {
+   "id": "g-perfect-ever-never",
+   "kind": "grammar",
+   "title": "Present perfect with ever and never",
+   "html": "<p>We use the <strong>present perfect</strong> (have / has + past participle) to talk about <strong>life experiences</strong>, when we do not say exactly when they happened. <em>Ever</em> means \"in your whole life\". <em>Never</em> means \"not one time in your life\".</p><table><thead><tr><th>Form</th><th>Example</th></tr></thead><tbody><tr><td>Question</td><td><strong>Have</strong> you <strong>ever taken</strong> an online class?</td></tr><tr><td>Short answers</td><td>Yes, I <strong>have</strong>. / No, I <strong>haven't</strong>.</td></tr><tr><td>Positive</td><td>She <strong>has studied</strong> in two countries.</td></tr><tr><td>With never</td><td>I <strong>have never failed</strong> an exam.</td></tr></tbody></table><ul><li><em>Ever</em> goes before the past participle in questions. <em>Never</em> goes between have and the participle. It already has a negative meaning, so do not use <em>not</em>.</li><li>Some past participles are irregular: <em>take - taken, go - gone / been, do - done, write - written, see - seen</em>.</li><li>Use <em>been</em> for visits that finished: <em>I have been to the museum.</em> <em>Gone</em> means the person is still there.</li></ul>",
+   "watch": [
+    {
+     "wrong": "Have you ever went to a science museum?",
+     "right": "Have you ever been to a science museum?",
+     "why": "Use the past participle (been / gone), not the past simple (went)."
+    },
+    {
+     "wrong": "I never have read a book in English.",
+     "right": "I have never read a book in English.",
+     "why": "Never goes after have, before the participle."
+    },
+    {
+     "wrong": "She have never missed a class.",
+     "right": "She has never missed a class.",
+     "why": "With he / she / it, use has."
+    },
+    {
+     "wrong": "I haven't never studied French.",
+     "right": "I have never studied French. / I haven't studied French.",
+     "why": "Never is already negative. Do not use a double negative."
+    }
+   ]
+  },
+  {
+   "id": "g-perfect-already-yet",
+   "kind": "grammar",
+   "title": "Present perfect with recently, lately, already and yet",
+   "html": "<p>The present perfect also connects the past with <strong>now</strong>. These words show how the action is related to the present.</p><table><thead><tr><th>Word</th><th>Use</th><th>Example</th></tr></thead><tbody><tr><td><strong>already</strong></td><td>Something happened before now (sooner than expected)</td><td>I<strong>'ve already</strong> finished my homework.</td></tr><tr><td><strong>yet</strong></td><td>In questions and negatives; at the end; the action is still expected</td><td>Have you registered <strong>yet</strong>? / I <strong>haven't</strong> paid <strong>yet</strong>.</td></tr><tr><td><strong>recently</strong></td><td>A short time ago, close to now</td><td>The school has <strong>recently</strong> opened a new study room.</td></tr><tr><td><strong>lately</strong></td><td>In the last days or weeks; at the end of the sentence</td><td>I've been very tired <strong>lately</strong>.</td></tr></tbody></table><ul><li><em>Already</em> usually goes between <em>have</em> and the participle, or at the end: <em>I have finished already.</em></li><li>Do not use <em>yet</em> in positive sentences. Do not use <em>already</em> in negatives.</li><li><em>Recently</em> can go before the participle or at the end. <em>Lately</em> usually goes at the end.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I haven't finished already my essay.",
+     "right": "I haven't finished my essay yet.",
+     "why": "In negatives we use yet, at the end."
+    },
+    {
+     "wrong": "Have you already finished yet?",
+     "right": "Have you finished yet? / Have you already finished?",
+     "why": "Choose one: already or yet. Do not use both."
+    },
+    {
+     "wrong": "She hasn't took the exam yet.",
+     "right": "She hasn't taken the exam yet.",
+     "why": "After has / have use the past participle: taken."
+    },
+    {
+     "wrong": "I have yet finished my project.",
+     "right": "I haven't finished my project yet.",
+     "why": "Yet goes at the end of negatives and questions."
+    }
+   ]
+  },
+  {
+   "id": "v-education",
+   "kind": "vocab",
+   "title": "Studying at school and college",
+   "words": [
+    {
+     "id": "w-enroll",
+     "en": "enroll (in a course)",
+     "es": "inscribirse (en un curso)",
+     "example": "I want to enroll in an evening English course.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-register",
+     "en": "register (for classes)",
+     "es": "registrarse (para clases)",
+     "example": "You have to register for classes before the first of August.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-tuition",
+     "en": "tuition",
+     "es": "colegiatura, costo de la enseñanza",
+     "example": "The tuition for this semester is very high.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-scholarship",
+     "en": "scholarship",
+     "es": "beca",
+     "example": "She won a scholarship to study engineering.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-semester",
+     "en": "semester",
+     "es": "semestre",
+     "example": "The second semester starts in January."
+    },
+    {
+     "id": "w-course",
+     "en": "course",
+     "es": "curso, materia",
+     "example": "I'm taking a course in computer skills.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-major",
+     "en": "major",
+     "es": "carrera, especialidad",
+     "example": "My major is business administration.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-degree",
+     "en": "degree",
+     "es": "título universitario, licenciatura",
+     "example": "She has a degree in education.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-diploma",
+     "en": "diploma",
+     "es": "diploma, certificado de estudios",
+     "example": "He finished high school and received his diploma."
+    },
+    {
+     "id": "w-tutor",
+     "en": "tutor",
+     "es": "tutor/a, asesor/a de estudios",
+     "example": "My tutor helps me with math every Tuesday."
+    },
+    {
+     "id": "w-counselor",
+     "en": "counselor",
+     "es": "consejero/a escolar",
+     "example": "The counselor can help you choose your classes.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-campus",
+     "en": "campus",
+     "es": "campus, instalaciones de la escuela",
+     "example": "The campus has a library, a gym and two cafeterias.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-deadline",
+     "en": "deadline",
+     "es": "fecha límite",
+     "example": "The deadline for the scholarship form is March 15.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-assignment",
+     "en": "assignment",
+     "es": "tarea, trabajo asignado",
+     "example": "We have a long reading assignment for tomorrow.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-graduate",
+     "en": "graduate (from)",
+     "es": "graduarse, titularse",
+     "example": "He will graduate from college next June.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "v-report-card",
+   "kind": "vocab",
+   "title": "Life skills: reading a report card",
+   "words": [
+    {
+     "id": "w-report-card",
+     "en": "report card",
+     "es": "boleta de calificaciones",
+     "example": "The school sends the report card home every two months.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-grade",
+     "en": "grade",
+     "es": "calificación; grado escolar",
+     "example": "My grade in science is a B.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-subject",
+     "en": "subject",
+     "es": "materia, asignatura",
+     "example": "Math is my favorite subject.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-average",
+     "en": "average",
+     "es": "promedio",
+     "example": "Her average in all subjects is 9.2.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-gpa",
+     "en": "GPA (grade point average)",
+     "es": "promedio general de calificaciones",
+     "example": "You need a GPA of 3.0 to keep the scholarship."
+    },
+    {
+     "id": "w-attendance",
+     "en": "attendance",
+     "es": "asistencia",
+     "example": "Good attendance is important to pass the course.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-absence",
+     "en": "absence",
+     "es": "falta, ausencia",
+     "example": "He has two absences this month.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-tardy",
+     "en": "tardy / late",
+     "es": "retardo, llegada tarde",
+     "example": "A student is tardy when he arrives after class starts.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pass",
+     "en": "pass",
+     "es": "aprobar",
+     "example": "You need 70 points to pass the exam.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-fail",
+     "en": "fail",
+     "es": "reprobar",
+     "example": "He studied a lot because he didn't want to fail.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-progress",
+     "en": "progress",
+     "es": "avance, progreso",
+     "example": "Your daughter is making good progress in reading.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-effort",
+     "en": "effort",
+     "es": "esfuerzo",
+     "example": "The teacher wrote: \"Excellent effort this term.\"",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-behavior",
+     "en": "behavior",
+     "es": "conducta, comportamiento",
+     "example": "His behavior in class is always very good.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-signature",
+     "en": "parent signature",
+     "es": "firma del padre o tutor",
+     "example": "Please return the report card with a parent signature.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "e-conference",
+   "kind": "expressions",
+   "title": "Useful expressions: a conference with a teacher",
+   "html": "<ul><li><strong>Thank you for meeting with me.</strong> / <strong>Thanks for coming in.</strong> — opening the conversation politely.</li><li><strong>How is my son / daughter doing in your class?</strong> — asking about progress.</li><li><strong>He's doing well, but he hasn't turned in two assignments yet.</strong> — giving news with a good point and a concern.</li><li><strong>Could we talk about his grades?</strong> / <strong>I'd like to talk about my grade.</strong> — introducing a topic.</li><li><strong>What can I do to improve?</strong> / <strong>How can we help him at home?</strong> — asking for advice.</li><li><strong>I'm concerned about her attendance.</strong> — talking about a worry.</li><li><strong>Let's make a plan.</strong> / <strong>Let's meet again in a month.</strong> — agreeing on next steps.</li><li><strong>I really appreciate your help.</strong> — closing the conversation.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Present continuous for plans",
+   "instructions": "Complete, choose, correct or order.",
+   "topic": "g-pres-cont-future",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "I ___ my teacher on Friday afternoon. (meet)",
+     "answers": [
+      "am meeting",
+      "'m meeting"
+     ],
+     "explain": "A planned meeting: am + verb-ing."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "What ___ you doing this weekend?",
+     "answers": [
+      "are"
+     ],
+     "explain": "With you, use are."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "She ___ the exam next Monday. (not take)",
+     "answers": [
+      "isn't taking",
+      "is not taking"
+     ],
+     "explain": "Negative: is not + verb-ing."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "We ___ a parent meeting at 6:00 tonight. (have)",
+     "answers": [
+      "are having",
+      "'re having"
+     ],
+     "explain": "A planned event: are + verb-ing."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "Which sentence is about an arranged plan for the future?",
+     "options": [
+      "I'm talking to my tutor right now.",
+      "I'm talking to my tutor tomorrow at ten.",
+      "I talk to my tutor every day."
+     ],
+     "answer": 1,
+     "explain": "A future time (tomorrow at ten) shows an arranged plan."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "Tomorrow I'm go to the library with Ana.",
+     "answers": [
+      "Tomorrow I'm going to the library with Ana.",
+      "Tomorrow I am going to the library with Ana."
+     ],
+     "explain": "After am, the verb needs -ing."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "What you are doing after class?",
+     "answers": [
+      "What are you doing after class?"
+     ],
+     "explain": "In a question, are goes before you."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "is",
+      "her",
+      "Lucia",
+      "on",
+      "teacher",
+      "seeing",
+      "Thursday"
+     ],
+     "answers": [
+      "Lucia is seeing her teacher on Thursday."
+     ],
+     "explain": "Subject + is + verb-ing + time."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Present perfect with ever and never",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-perfect-ever-never",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "Have you ever ___ a class online? (take)",
+     "answers": [
+      "taken"
+     ],
+     "explain": "The past participle of take is taken."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "I ___ never studied in another country.",
+     "answers": [
+      "have",
+      "'ve"
+     ],
+     "explain": "Have + never + past participle."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "She ___ never failed an exam.",
+     "answers": [
+      "has"
+     ],
+     "explain": "With she, use has."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "Have you ever ___ late to class? (be)",
+     "answers": [
+      "been"
+     ],
+     "explain": "The past participle of be is been."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "___ you ever met a famous teacher?",
+     "options": [
+      "Have",
+      "Has",
+      "Are"
+     ],
+     "answer": 0,
+     "explain": "With you, use Have."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "Have you ever went to a science museum?",
+     "answers": [
+      "Have you ever been to a science museum?",
+      "Have you ever gone to a science museum?"
+     ],
+     "explain": "Use the past participle: been or gone."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "I never have read a book in English.",
+     "answers": [
+      "I have never read a book in English.",
+      "I've never read a book in English."
+     ],
+     "explain": "Never goes between have and the participle."
+    },
+    {
+     "id": "B8",
+     "type": "translate",
+     "prompt": "Nunca he reprobado un examen.",
+     "answers": [
+      "I have never failed an exam.",
+      "I've never failed an exam.",
+      "I have never failed a test.",
+      "I've never failed a test."
+     ],
+     "explain": "have never + past participle."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "already, yet, recently and lately",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-perfect-already-yet",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "I have ___ finished my homework. It's on the table.",
+     "answers": [
+      "already"
+     ],
+     "explain": "Already: it happened before now, in a positive sentence."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "Have you taken the test ___?",
+     "answers": [
+      "yet"
+     ],
+     "explain": "Yet goes at the end of questions."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "She hasn't called her tutor ___.",
+     "answers": [
+      "yet"
+     ],
+     "explain": "Yet goes at the end of negative sentences."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "The school has ___ opened a new study room. It's very nice.",
+     "answers": [
+      "recently"
+     ],
+     "explain": "Recently: a short time ago."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "I haven't paid the tuition ___.",
+     "options": [
+      "yet",
+      "already",
+      "ever"
+     ],
+     "answer": 0,
+     "explain": "Negative sentence: yet."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "I've been very tired ___.",
+     "options": [
+      "lately",
+      "yet",
+      "already"
+     ],
+     "answer": 0,
+     "explain": "Lately: in the last days or weeks."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "I haven't finished my essay already.",
+     "answers": [
+      "I haven't finished my essay yet.",
+      "I have not finished my essay yet."
+     ],
+     "explain": "Use yet in negative sentences."
+    },
+    {
+     "id": "C8",
+     "type": "translate",
+     "prompt": "Ya entregué mi tarea.",
+     "answers": [
+      "I have already turned in my homework.",
+      "I've already turned in my homework.",
+      "I have already handed in my homework.",
+      "I've already handed in my homework.",
+      "I already turned in my homework.",
+      "I already handed in my homework."
+     ],
+     "explain": "Already + past participle."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "More practice: already, yet, lately",
+   "instructions": "Complete, choose, correct or order.",
+   "topic": "g-perfect-already-yet",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "Has Pedro registered for the spring classes ___?",
+     "answers": [
+      "yet"
+     ],
+     "explain": "Yet at the end of the question."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "Maria has ___ signed up for two courses. She is very fast!",
+     "answers": [
+      "already"
+     ],
+     "explain": "Already between has and the participle."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "I've already seen my grades.",
+      "I've seen already my grade yet.",
+      "I already have seen yet my grades."
+     ],
+     "answer": 0,
+     "explain": "Already goes between have and the participle."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "My brother has been studying a lot ___.",
+     "answers": [
+      "lately",
+      "recently"
+     ],
+     "explain": "Lately / recently: in the last few weeks."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "They haven't announced the exam dates ___.",
+     "answers": [
+      "yet"
+     ],
+     "explain": "Negative sentence: yet."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "She hasn't took the exam yet.",
+     "answers": [
+      "She hasn't taken the exam yet.",
+      "She has not taken the exam yet."
+     ],
+     "explain": "The past participle of take is taken."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "Have you already finished yet?",
+     "answers": [
+      "Have you finished yet?",
+      "Have you already finished?"
+     ],
+     "explain": "Use already or yet, not both."
+    },
+    {
+     "id": "D8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "haven't",
+      "They",
+      "the",
+      "results",
+      "received",
+      "yet"
+     ],
+     "answers": [
+      "They haven't received the results yet."
+     ],
+     "explain": "Subject + haven't + participle + object + yet."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: studying",
+   "instructions": "Complete or choose the correct word.",
+   "topic": "v-education",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "To join a course, you must ___ before the deadline.",
+     "answers": [
+      "enroll",
+      "register"
+     ],
+     "explain": "Enroll or register: join a course officially."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "Money that a school gives you to pay for your studies is a...",
+     "options": [
+      "scholarship",
+      "tuition",
+      "major"
+     ],
+     "answer": 0,
+     "explain": "A scholarship is free money for studies."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "The money you pay a college each semester is called ___.",
+     "answers": [
+      "tuition"
+     ],
+     "explain": "Tuition: the cost of the classes."
+    },
+    {
+     "id": "E4",
+     "type": "choice",
+     "prompt": "A person who helps a student with one subject is a...",
+     "options": [
+      "tutor",
+      "principal",
+      "librarian"
+     ],
+     "answer": 0,
+     "explain": "A tutor gives extra help."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "My ___ is biology. I'm studying to be a biologist.",
+     "answers": [
+      "major"
+     ],
+     "explain": "Major: your main subject at college."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "The last day to send the project is Friday. That is the ___.",
+     "answers": [
+      "deadline"
+     ],
+     "explain": "Deadline: the last day or time to do something."
+    },
+    {
+     "id": "E7",
+     "type": "choice",
+     "prompt": "A school year is often divided into two...",
+     "options": [
+      "semesters",
+      "diplomas",
+      "tutors"
+     ],
+     "answer": 0,
+     "explain": "Semester: half of the school year."
+    },
+    {
+     "id": "E8",
+     "type": "choice",
+     "prompt": "The place on campus where you borrow books is the...",
+     "options": [
+      "library",
+      "cafeteria",
+      "gym"
+     ],
+     "answer": 0,
+     "explain": "You borrow books in the library."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Report card and conference expressions",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "v-report-card",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "A report card shows your ___ in each subject.",
+     "options": [
+      "grades",
+      "tuition",
+      "majors"
+     ],
+     "answer": 0,
+     "explain": "A report card shows grades."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "Julia missed three classes this month. Her ___ is not good.",
+     "answers": [
+      "attendance"
+     ],
+     "explain": "Attendance: how often you come to class."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "Arriving after the class begins is being...",
+     "options": [
+      "tardy",
+      "absent",
+      "excellent"
+     ],
+     "answer": 0,
+     "explain": "Tardy means late."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "To ___ the course, you need at least 70 points.",
+     "answers": [
+      "pass"
+     ],
+     "explain": "Pass: get a good enough grade."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "Could we talk about my son's ___? He is doing better in math.",
+     "answers": [
+      "progress"
+     ],
+     "explain": "Progress: how someone improves."
+    },
+    {
+     "id": "F6",
+     "type": "fix",
+     "prompt": "I want to know how I can improving my grade.",
+     "answers": [
+      "I want to know how I can improve my grade."
+     ],
+     "explain": "After can, use the base form."
+    },
+    {
+     "id": "F7",
+     "type": "translate",
+     "prompt": "¿Cómo le va a mi hijo en matemáticas?",
+     "answers": [
+      "How is my son doing in math?",
+      "How is my son doing in mathematics?",
+      "How's my son doing in math?",
+      "How's my son doing in mathematics?",
+      "How is my son doing in math class?",
+      "How's my son doing in math class?"
+     ],
+     "explain": "How is ... doing in ...? asks about progress."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "you",
+      "taken",
+      "ever",
+      "Have",
+      "a",
+      "course"
+     ],
+     "answers": [
+      "Have you ever taken a course?"
+     ],
+     "explain": "Have + subject + ever + participle."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "meeting",
+      "I'm",
+      "counselor",
+      "my",
+      "tomorrow"
+     ],
+     "answers": [
+      "I'm meeting my counselor tomorrow.",
+      "Tomorrow I'm meeting my counselor."
+     ],
+     "explain": "Present continuous + a future time."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "never",
+      "I",
+      "have",
+      "late",
+      "been"
+     ],
+     "answers": [
+      "I have never been late."
+     ],
+     "explain": "Never goes between have and the participle."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "paid",
+      "hasn't",
+      "He",
+      "tuition",
+      "the",
+      "yet"
+     ],
+     "answers": [
+      "He hasn't paid the tuition yet."
+     ],
+     "explain": "Yet goes at the end."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "already",
+      "have",
+      "We",
+      "enrolled"
+     ],
+     "answers": [
+      "We have already enrolled."
+     ],
+     "explain": "Already goes between have and the participle."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "is",
+      "How",
+      "doing",
+      "my",
+      "daughter",
+      "in",
+      "science"
+     ],
+     "answers": [
+      "How is my daughter doing in science?"
+     ],
+     "explain": "How is ... doing in ...?"
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Mañana me voy a reunir con mi maestra.",
+     "answers": [
+      "I'm meeting my teacher tomorrow.",
+      "I am meeting my teacher tomorrow.",
+      "I'm meeting with my teacher tomorrow.",
+      "I am meeting with my teacher tomorrow.",
+      "Tomorrow I'm meeting my teacher.",
+      "Tomorrow I am meeting my teacher.",
+      "Tomorrow I'm meeting with my teacher.",
+      "Tomorrow I am meeting with my teacher.",
+      "I'm going to meet my teacher tomorrow.",
+      "I am going to meet my teacher tomorrow."
+     ],
+     "explain": "A plan for tomorrow: present continuous."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿Alguna vez has hablado con un consejero escolar?",
+     "answers": [
+      "Have you ever talked to a school counselor?",
+      "Have you ever talked with a school counselor?",
+      "Have you ever spoken to a school counselor?",
+      "Have you ever spoken with a school counselor?"
+     ],
+     "explain": "Life experience: Have you ever + participle?"
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Todavía no recibimos las calificaciones.",
+     "answers": [
+      "We haven't received the grades yet.",
+      "We have not received the grades yet.",
+      "We haven't received our grades yet.",
+      "We have not received our grades yet.",
+      "We haven't received the results yet.",
+      "We have not received the results yet."
+     ],
+     "explain": "Todavía no = not ... yet."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Ya me inscribí en el curso.",
+     "answers": [
+      "I have already enrolled in the course.",
+      "I've already enrolled in the course.",
+      "I have already registered for the course.",
+      "I've already registered for the course.",
+      "I have already signed up for the course.",
+      "I've already signed up for the course."
+     ],
+     "explain": "Ya + present perfect = already."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Nunca he llegado tarde a clase.",
+     "answers": [
+      "I have never been late to class.",
+      "I've never been late to class.",
+      "I have never been late for class.",
+      "I've never been late for class."
+     ],
+     "explain": "have never been + late."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Mi hija ha mejorado mucho últimamente.",
+     "answers": [
+      "My daughter has improved a lot lately.",
+      "My daughter has improved a lot recently.",
+      "My daughter has improved a lot these days.",
+      "My daughter has been improving a lot lately.",
+      "My daughter has been improving a lot recently."
+     ],
+     "explain": "Últimamente = lately / recently."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes 2 review items from earlier topics).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Have you ever ___ a prize at school?",
+     "options": [
+      "win",
+      "won",
+      "winning"
+     ],
+     "answer": 1,
+     "explain": "The past participle of win is won."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Diego has ___ finished the first semester. He is very happy.",
+     "answers": [
+      "already"
+     ],
+     "explain": "Already: it happened before now."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "I never have been late to the conference.",
+     "answers": [
+      "I have never been late to the conference.",
+      "I've never been late to the conference."
+     ],
+     "explain": "Never goes between have and been."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Mi tutora y yo nos vemos el miércoles.",
+     "answers": [
+      "My tutor and I are meeting on Wednesday.",
+      "My tutor and I are meeting Wednesday.",
+      "I'm meeting my tutor on Wednesday.",
+      "I am meeting my tutor on Wednesday.",
+      "I'm meeting with my tutor on Wednesday.",
+      "I am meeting with my tutor on Wednesday."
+     ],
+     "explain": "An arranged plan: present continuous."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "Has the principal called ___?",
+     "options": [
+      "yet",
+      "already",
+      "never"
+     ],
+     "answer": 0,
+     "explain": "Yet is used in questions, at the end."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "Could we ___ Marta's progress in science?",
+     "answers": [
+      "discuss",
+      "review",
+      "check"
+     ],
+     "explain": "Discuss + noun, without about."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "Last year my sister ___ a scholarship. (get) (review: simple past)",
+     "answers": [
+      "got"
+     ],
+     "explain": "Finished time (last year): simple past."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "Look at those clouds! It ___ rain. (review: be going to)",
+     "answers": [
+      "is going to",
+      "'s going to"
+     ],
+     "explain": "A prediction from what we see: be going to."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write an email to a teacher (120 to 160 words). Say who you are, ask for a meeting, explain what you have already done and what you haven't done yet, and mention one plan for this week. Use a polite opening and closing. Opening: Dear Mr. Torres,",
+   "targets": [
+    "present perfect with already / yet / lately",
+    "present perfect with never / ever",
+    "present continuous for plans",
+    "polite requests and email format"
+   ],
+   "checklist": [
+    "120 to 160 words",
+    "Greeting and polite closing (Dear..., Best regards)",
+    "At least one sentence with already and one with yet",
+    "At least one sentence with have never + past participle",
+    "One plan with the present continuous (I'm meeting...)",
+    "A polite request (Could I...? / I would like to...)"
+   ],
+   "model": "Dear Mr. Torres,\n\nMy name is Laura Mendez, and I am in your English class on Tuesdays and Thursdays. I am writing to ask for a meeting about my grades and my project.\n\nFirst, I have already finished the first part of the project, but I haven't finished the second part yet. I have had some problems with my computer lately, and I need two more days. Could I send it to you on Friday? Second, I have never taken an English exam in a big classroom, and I feel nervous. I would like to know how I can prepare.\n\nI am free on Wednesday after 3:00 p.m., and I am also available on Friday morning. I am meeting my tutor on Thursday, so I can bring my questions to the meeting.\n\nThank you for your time and help. I look forward to hearing from you.\n\nBest regards,\nLaura Mendez"
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a short message to a classmate about a school project (80 to 120 words). Say what you have already done and what you haven't done yet. Ask one question with Have you ever...? and suggest a plan for tomorrow with the present continuous.",
+   "targets": [
+    "already / yet",
+    "ever / never",
+    "present continuous for plans"
+   ],
+   "checklist": [
+    "80 to 120 words",
+    "One sentence with already",
+    "One sentence with haven't ... yet",
+    "A question with Have you ever...?",
+    "A plan with am / are + verb-ing and a future time"
+   ],
+   "model": "Hi Sam! How is the science project going? I have already written my part of the report, and I have made two posters. I haven't printed the photos yet because my printer doesn't work. Are you free tomorrow? I'm going to the library at 4:00, and I'm meeting Ana there. Have you ever used the printers at the library? I have never used them, but Ana says they are cheap. Our teacher told us that the deadline is next Friday, so we still have time. Can you send me your part tonight? Thanks! See you tomorrow. Karen"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Help for Students: Student Services",
+   "intro": "Read the article about student services at a college and answer.",
+   "paragraphs": [
+    "Starting classes at a college can feel stressful, but most schools have a Student Services Office to help you. This office is usually near the main entrance, and it opens at 8:00 a.m. on weekdays. Many students have never visited it, and that is a mistake.",
+    "First, there is the counseling center. A counselor can help you choose your major and plan your courses for each semester. Marta, a new student, has already met her counselor twice. She was not sure about her career, so they looked at her interests and grades together. Now she is planning to study nursing, and she is meeting her counselor again next Tuesday to choose her spring classes.",
+    "Second, the tutoring center offers free help in math, writing and English. You can make an appointment online or just walk in. Tutors are usually advanced students who have taken the same course. The library is also part of the service. It has quiet rooms, computers and a printer, and it stays open until 9:00 p.m. during exam weeks. Some students have recently asked for longer hours on weekends, and the school is thinking about it.",
+    "Third, the financial aid desk gives information about tuition, payment plans and scholarships. Every year, the college offers about two hundred scholarships, but many students do not apply because they have not read the requirements yet. The deadline for next year is March 15, so it is good to start early. Bring your documents, such as your tax form and your last report card, when you visit.",
+    "Finally, remember that these services are free for enrolled students. Carlos, who works at night, says he has been using the online chat lately because he cannot come during the day. He is happy with it. If you have a question and you don't know who to ask, go to Student Services first. Someone there will help you, or they will send you to the right person."
+   ],
+   "glossary": [
+    {
+     "en": "counselor",
+     "def": "a person who gives advice about studies or problems"
+    },
+    {
+     "en": "major",
+     "def": "the main subject a student studies at college"
+    },
+    {
+     "en": "tutor",
+     "def": "a person who gives extra help in a subject"
+    },
+    {
+     "en": "appointment",
+     "def": "a meeting that you plan for a certain day and time"
+    },
+    {
+     "en": "financial aid",
+     "def": "money or help to pay for school"
+    },
+    {
+     "en": "requirements",
+     "def": "things you must have or do to apply"
+    },
+    {
+     "en": "enrolled",
+     "def": "officially registered in a school or course"
+    },
+    {
+     "en": "walk in",
+     "def": "to go to a place without an appointment"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "The Student Services Office opens at 8:00 a.m. on weekdays.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "The first paragraph says it opens at 8:00 a.m. on weekdays."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "What did Marta do with her counselor?",
+     "options": [
+      "They looked at her interests and grades together",
+      "They paid her tuition",
+      "They chose her tutor"
+     ],
+     "answer": 0,
+     "explain": "They looked at her interests and grades together."
+    },
+    {
+     "id": "R3",
+     "type": "gap",
+     "prompt": "Marta is meeting her counselor next ___.",
+     "answers": [
+      "Tuesday"
+     ],
+     "explain": "She is meeting her counselor again next Tuesday."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Who are the tutors usually?",
+     "options": [
+      "Advanced students who took the same course",
+      "College directors",
+      "Parents of students"
+     ],
+     "answer": 0,
+     "explain": "Tutors are usually advanced students who have taken the same course."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "Why do many students not apply for scholarships?",
+     "options": [
+      "They haven't read the requirements yet",
+      "The scholarships are too small",
+      "The office is closed"
+     ],
+     "answer": 0,
+     "explain": "Many students have not read the requirements yet."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "The scholarship deadline is March ___.",
+     "answers": [
+      "15",
+      "15th",
+      "fifteen",
+      "fifteenth"
+     ],
+     "explain": "The deadline for next year is March 15."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "Carlos uses the online chat because he works at night and cannot come during the day.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "He works at night, so he cannot come during the day."
+    },
+    {
+     "id": "R8",
+     "type": "translate",
+     "prompt": "Todavía no he visitado la biblioteca.",
+     "answers": [
+      "I haven't visited the library yet.",
+      "I have not visited the library yet."
+     ],
+     "explain": "Todavía no = haven't ... yet."
+    }
+   ]
+  },
+  "listening": {
+   "title": "A student-teacher conference",
+   "intro": "Listen to a student and his teacher. You can repeat it.",
+   "lines": [
+    {
+     "who": "Ms. Reyes",
+     "voice": "glassy",
+     "text": "Come in, Daniel. Thanks for coming to see me. Please sit down."
+    },
+    {
+     "who": "Daniel",
+     "voice": "rounded",
+     "text": "Thank you, Ms. Reyes. I wanted to talk about my grade in biology."
+    },
+    {
+     "who": "Ms. Reyes",
+     "voice": "glassy",
+     "text": "Of course. You have done well on the labs, but you haven't turned in the last essay yet."
+    },
+    {
+     "who": "Daniel",
+     "voice": "rounded",
+     "text": "I know. I'm finishing it this weekend. Can I give it to you on Monday?"
+    },
+    {
+     "who": "Ms. Reyes",
+     "voice": "glassy",
+     "text": "Yes, but only until Monday morning. Have you ever used the writing center at school?"
+    },
+    {
+     "who": "Daniel",
+     "voice": "rounded",
+     "text": "No, I've never been there. Is it free?"
+    },
+    {
+     "who": "Ms. Reyes",
+     "voice": "glassy",
+     "text": "Yes, it is. A tutor can read your essay and give you ideas. I'm going there on Wednesday, so I can show you the room."
+    },
+    {
+     "who": "Daniel",
+     "voice": "rounded",
+     "text": "That would be great. I'm working on Wednesday after school, but I'm free at lunch."
+    },
+    {
+     "who": "Ms. Reyes",
+     "voice": "glassy",
+     "text": "Perfect. Also, you have been late to class three times lately. Is there a problem?"
+    },
+    {
+     "who": "Daniel",
+     "voice": "rounded",
+     "text": "My bus has been late. I'm leaving home earlier next week."
+    },
+    {
+     "who": "Ms. Reyes",
+     "voice": "glassy",
+     "text": "Good idea. Your test scores are excellent, so I want you to keep improving."
+    },
+    {
+     "who": "Daniel",
+     "voice": "rounded",
+     "text": "Thank you. I'll bring my essay on Monday morning. See you then!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What does Daniel want to talk about?",
+     "options": [
+      "His grade in biology",
+      "His tuition",
+      "His major"
+     ],
+     "answer": 0,
+     "explain": "He says: I wanted to talk about my grade in biology."
+    },
+    {
+     "id": "L2",
+     "type": "gap",
+     "prompt": "Daniel hasn't turned in his last ___ yet.",
+     "answers": [
+      "essay"
+     ],
+     "explain": "You haven't turned in the last essay yet."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "When will Daniel give the essay to the teacher?",
+     "options": [
+      "On Monday morning",
+      "On Wednesday",
+      "This weekend"
+     ],
+     "answer": 0,
+     "explain": "He will bring it on Monday morning."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "Daniel has been to the writing center before.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "He says he has never been there."
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "Daniel has been late because his ___ has been late.",
+     "answers": [
+      "bus"
+     ],
+     "explain": "My bus has been late."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "When will Ms. Reyes show him the writing center?",
+     "options": [
+      "On Wednesday, at lunch",
+      "On Monday morning",
+      "After school on Wednesday"
+     ],
+     "answer": 0,
+     "explain": "She is going there on Wednesday, and he is free at lunch."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "You haven't turned in the last essay yet.",
+     "answers": [
+      "You haven't turned in the last essay yet.",
+      "You have not turned in the last essay yet."
+     ],
+     "explain": "Haven't + participle + yet at the end."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "I've never been to the writing center.",
+     "answers": [
+      "I've never been to the writing center.",
+      "I have never been to the writing center."
+     ],
+     "explain": "Have never + been."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "I'm meeting my tutor on Wednesday at lunch.",
+     "answers": [
+      "I'm meeting my tutor on Wednesday at lunch.",
+      "I am meeting my tutor on Wednesday at lunch."
+     ],
+     "explain": "Present continuous for an arranged plan."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Your test scores are excellent.",
+     "answers": [
+      "Your test scores are excellent."
+     ],
+     "explain": "Plural subject: scores are."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "You are a student. Talk to your teacher about your progress: ask about your grade, say what you have already done, and say what you haven't done yet.",
+     "questions": [
+      "How are you doing in this class?",
+      "Have you turned in all your assignments?",
+      "What have you already finished?",
+      "What can you do to improve?"
+     ],
+     "model": "I'm doing well, I think, but I want to improve my grade. I have already finished the first two assignments. I haven't finished the last essay yet. I'm going to the writing center on Wednesday. Could you give me two more days, please?",
+     "checklist": [
+      "already / haven't ... yet",
+      "A plan with the present continuous",
+      "A polite request (Could you...?)",
+      "Words about grades and assignments"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "You are a parent at a parent-teacher conference. Ask how your child is doing, talk about a concern and agree on a plan.",
+     "questions": [
+      "How is your son doing in class?",
+      "Are you worried about anything?",
+      "What can you do at home to help?",
+      "When are you meeting again?"
+     ],
+     "model": "Thank you for meeting with me. How is my son doing in math? I'm a little concerned about his attendance. He has been late three times lately. What can we do at home to help him? Let's meet again in a month.",
+     "checklist": [
+      "How is ... doing in ...?",
+      "I'm concerned about...",
+      "lately / recently",
+      "Let's make a plan"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about your own experience with studying: courses you have taken, places you have studied and your plans for this year.",
+     "questions": [
+      "Have you ever taken an online course?",
+      "What is the most interesting class you have ever had?",
+      "Have you ever studied in another city or country?",
+      "What are you doing to learn English this month?"
+     ],
+     "model": "I have taken two online courses, and I liked them a lot. I have never studied in another country, but I would like to. The most interesting class I have ever had was history. This month I'm studying English for one hour every day, and I'm meeting a tutor on Saturdays.",
+     "checklist": [
+      "Have you ever...? / I have never...",
+      "Past participles in the correct form",
+      "A plan with the present continuous",
+      "Education vocabulary (course, tutor, class)"
+     ]
+    }
+   ],
+   "repeat": [
+    "Thank you for meeting with me.",
+    "How is my daughter doing in your class?",
+    "He hasn't turned in the assignment yet.",
+    "I have never been late to class.",
+    "What can I do to improve my grade?",
+    "I'm meeting my tutor on Friday."
+   ]
+  }
+ }
+}

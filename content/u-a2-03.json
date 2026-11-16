@@ -1,0 +1,1617 @@
+{
+ "id": "u-a2-03",
+ "level": "A2",
+ "n": 3,
+ "title": "Looking back",
+ "goals": [
+  "Talk about the past with was / were: what you were like, where you were, and how you felt.",
+  "Talk about what you did, using the simple past of regular (-ed) and irregular (went, had, got) verbs.",
+  "Say what you didn't do, using didn't + base verb.",
+  "Ask and answer questions about experiences: Did you…? Where did you go? How was it?",
+  "Describe your first times (my first day, my first pet) with adjectives like nervous, scared, or embarrassing.",
+  "Tell about a trip using expressions with get and go, and change the subject with Anyway."
+ ],
+ "learn": [
+  {
+   "id": "g-past-be",
+   "kind": "grammar",
+   "title": "was / were: the past of be",
+   "html": "<p>To talk about what things were like or where you were in the past. There are only two forms: <strong>was</strong> and <strong>were</strong>.</p><table><thead><tr><th>Subject</th><th>Affirmative</th><th>Negative</th><th>Question</th></tr></thead><tbody><tr><td>I / he / she / it</td><td>I <strong>was</strong> nervous.</td><td>She <strong>wasn't</strong> happy.</td><td><strong>Was</strong> it fun?</td></tr><tr><td>you / we / they</td><td>We <strong>were</strong> late.</td><td>They <strong>weren't</strong> at home.</td><td><strong>Were</strong> you scared?</td></tr></tbody></table><ul><li>Short answers: <em>Yes, I was. / No, I wasn't. / Yes, they were. / No, they weren't.</em></li><li>With <em>was/were</em>, don't use <em>did</em>: <em>Were you at the party?</em> (not <em>Did you were…?</em>).</li><li>Time expressions: <em>yesterday, last night, last week, two years ago, in 2019</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I was 10 years old when I moved here, and I were scared.",
+     "right": "I was 10 years old when I moved here, and I was scared.",
+     "why": "I → was, never were."
+    },
+    {
+     "wrong": "Did you were at the party?",
+     "right": "Were you at the party?",
+     "why": "With be, don't use did: invert it to were + subject."
+    },
+    {
+     "wrong": "They wasn't at home.",
+     "right": "They weren't at home.",
+     "why": "They → weren't."
+    },
+    {
+     "wrong": "I have 15 years in 2010.",
+     "right": "I was 15 in 2010.",
+     "why": "Age is expressed with be: I was 15."
+    }
+   ]
+  },
+  {
+   "id": "v-feelings",
+   "kind": "vocab",
+   "title": "Feelings and descriptions",
+   "words": [
+    {
+     "id": "w-embarrassing",
+     "en": "embarrassing",
+     "es": "vergonzoso/a (la situación)",
+     "example": "Calling my teacher 'Mom' was embarrassing.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-nervous",
+     "en": "nervous",
+     "es": "nervioso/a",
+     "example": "I was very nervous before my first interview.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-scared",
+     "en": "scared (of)",
+     "es": "asustado/a; con miedo (de)",
+     "example": "My little brother is scared of dogs.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-relaxed",
+     "en": "relaxed",
+     "es": "tranquilo/a, relajado/a",
+     "example": "After the vacation, I was relaxed.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-pleased",
+     "en": "pleased",
+     "es": "contento/a, satisfecho/a",
+     "example": "My boss was pleased with my work.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-proud",
+     "en": "proud",
+     "es": "orgulloso/a",
+     "example": "My parents were proud of me.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-strict",
+     "en": "strict",
+     "es": "estricto/a",
+     "example": "Our first English teacher was strict.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-noisy",
+     "en": "noisy",
+     "es": "ruidoso/a",
+     "example": "The neighbors were noisy last night.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-awful",
+     "en": "awful",
+     "es": "horrible, pésimo/a",
+     "example": "The weather was awful, so we stayed home.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-fun",
+     "en": "a lot of fun / fun",
+     "es": "muy divertido (es un sustantivo: no lleva a)",
+     "example": "The trip was a lot of fun.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-young",
+     "en": "young",
+     "es": "joven",
+     "example": "She was young when she moved to Mexico City.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-friendly",
+     "en": "friendly",
+     "es": "amable, simpático/a",
+     "example": "The people at my first job were friendly.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-past-regular",
+   "kind": "grammar",
+   "title": "Simple past: regular verbs",
+   "html": "<p>For actions that were finished in the past. Regular verbs add <strong>-ed</strong>, and the form is the same for all persons.</p><table><thead><tr><th>Rule</th><th>Examples</th></tr></thead><tbody><tr><td>Normal: + -ed</td><td>watch → watched, visit → visited, walk → walked</td></tr><tr><td>Ends in -e: + -d</td><td>live → lived, like → liked, move → moved</td></tr><tr><td>Consonant + y: y → -ied</td><td>study → studied, try → tried</td></tr><tr><td>One-syllable CVC: double the last consonant</td><td>stop → stopped, plan → planned</td></tr></tbody></table><p><strong>Negative:</strong> <em>didn't</em> (did not) + base verb: <em>I didn't watch TV.</em> The verb goes back to the base form.</p><p><strong>Pronunciation of -ed:</strong> /t/ (walked), /d/ (lived), and /ɪd/ (visited, wanted).</p><p>Time expressions: <em>yesterday, last week, in 2018, three years ago</em>. With <em>ago</em>: <em>I moved here five years ago.</em></p>",
+   "watch": [
+    {
+     "wrong": "I didn't watched the movie.",
+     "right": "I didn't watch the movie.",
+     "why": "After didn't, the verb goes in the base form."
+    },
+    {
+     "wrong": "She studyed English last year.",
+     "right": "She studied English last year.",
+     "why": "Consonant + y → -ied."
+    },
+    {
+     "wrong": "I lived here since 2015.",
+     "right": "I moved here in 2015.",
+     "why": "The simple past is used for a finished time (in 2015, ago), not since."
+    },
+    {
+     "wrong": "Two years ago, I visit Cancún.",
+     "right": "Two years ago, I visited Cancún.",
+     "why": "With ago, the verb goes in the past."
+    }
+   ]
+  },
+  {
+   "id": "g-past-irregular",
+   "kind": "grammar",
+   "title": "Simple past: irregular verbs",
+   "html": "<p>Many very common verbs <strong>don't</strong> end in -ed: you have to learn their past form. They are the same for all persons, and the negative is also <em>didn't</em> + base verb.</p><table><thead><tr><th>Base</th><th>Past</th><th>Base</th><th>Past</th></tr></thead><tbody><tr><td>be</td><td>was / were</td><td>make</td><td>made</td></tr><tr><td>go</td><td>went</td><td>meet</td><td>met</td></tr><tr><td>have</td><td>had</td><td>see</td><td>saw</td></tr><tr><td>get</td><td>got</td><td>eat</td><td>ate</td></tr><tr><td>buy</td><td>bought</td><td>come</td><td>came</td></tr><tr><td>take</td><td>took</td><td>give</td><td>gave</td></tr><tr><td>write</td><td>wrote</td><td>forget</td><td>forgot</td></tr></tbody></table><p><em>I went to Oaxaca last summer. I didn't go to Puebla.</em></p>",
+   "watch": [
+    {
+     "wrong": "I goed to the beach.",
+     "right": "I went to the beach.",
+     "why": "Go is irregular: went."
+    },
+    {
+     "wrong": "She didn't went to school.",
+     "right": "She didn't go to school.",
+     "why": "After didn't, use the base form."
+    },
+    {
+     "wrong": "We have a great time yesterday.",
+     "right": "We had a great time yesterday.",
+     "why": "Yesterday calls for the past: had."
+    },
+    {
+     "wrong": "He buyed a new phone.",
+     "right": "He bought a new phone.",
+     "why": "Buy is irregular: bought."
+    }
+   ]
+  },
+  {
+   "id": "v-firsts",
+   "kind": "vocab",
+   "title": "My first… (first times)",
+   "words": [
+    {
+     "id": "w-first-day-school",
+     "en": "my first day at school",
+     "es": "mi primer día de escuela",
+     "example": "My first day at school was exciting.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-first-day-work",
+     "en": "my first day of work",
+     "es": "mi primer día de trabajo",
+     "example": "On my first day of work, I arrived early.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-first-pet",
+     "en": "my first pet",
+     "es": "mi primera mascota",
+     "example": "My first pet was a small dog.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-first-friend",
+     "en": "my first friend",
+     "es": "mi primer amigo/a",
+     "example": "My first friend lived next door.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-first-home",
+     "en": "my first home",
+     "es": "mi primera casa",
+     "example": "My first home was a small apartment.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-first-class",
+     "en": "my first English class",
+     "es": "mi primera clase de inglés",
+     "example": "My first English class was a lot of fun.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-first-vacation",
+     "en": "my first vacation",
+     "es": "mis primeras vacaciones",
+     "example": "My first vacation was at the beach.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-make-mistake",
+     "en": "make a mistake",
+     "es": "cometer un error",
+     "example": "I made a mistake in the first exercise.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-along",
+     "en": "get along with (someone)",
+     "es": "llevarse bien con",
+     "example": "I got along with my classmates.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-ride-bike",
+     "en": "learn to ride a bike",
+     "es": "aprender a andar en bici",
+     "example": "I learned to ride a bike when I was seven.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pass-test",
+     "en": "pass a test",
+     "es": "aprobar un examen",
+     "example": "She passed the driving test yesterday.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-move-city",
+     "en": "move to a new city",
+     "es": "mudarse a otra ciudad",
+     "example": "We moved to a new city two years ago.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-past-questions",
+   "kind": "grammar",
+   "title": "Questions in the past",
+   "html": "<p>With regular verbs we use <strong>did</strong> + subject + base verb. With <em>be</em>, invert <strong>was / were</strong>.</p><table><thead><tr><th>Type</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Yes / No</td><td>Did + subject + base verb</td><td><strong>Did</strong> you enjoy the trip?</td></tr><tr><td>Yes / No with be</td><td>Was / Were + subject</td><td><strong>Were</strong> they nervous?</td></tr><tr><td>Wh- with did</td><td>Wh- + did + subject + base verb</td><td>Where <strong>did</strong> you go?</td></tr><tr><td>Wh- with be</td><td>Wh- + was / were + subject</td><td>How <strong>was</strong> your vacation?</td></tr></tbody></table><ul><li>Short answers: <em>Yes, I did. / No, I didn't.</em></li><li>Useful questions: <em>What was the weather like? How long were you there? Who did you go with? What did you do?</em></li><li>Only <em>did</em> carries the past: <em>Did you go?</em> (not <em>Did you went?</em>).</li></ul>",
+   "watch": [
+    {
+     "wrong": "Did you went to the party?",
+     "right": "Did you go to the party?",
+     "why": "With did, the verb goes in the base form."
+    },
+    {
+     "wrong": "Where you went last summer?",
+     "right": "Where did you go last summer?",
+     "why": "Did is missing from the question."
+    },
+    {
+     "wrong": "How was the people there?",
+     "right": "How were the people there?",
+     "why": "People is plural: were."
+    },
+    {
+     "wrong": "Yes, I went. (a 'Did you enjoy it?')",
+     "right": "Yes, I did.",
+     "why": "The short answer repeats did, not the verb."
+    }
+   ]
+  },
+  {
+   "id": "v-getgo",
+   "kind": "vocab",
+   "title": "Expressions with get and go (vacations)",
+   "words": [
+    {
+     "id": "w-get-back",
+     "en": "get back",
+     "es": "regresar (de un viaje)",
+     "example": "We got back on Sunday night.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-lost",
+     "en": "get lost",
+     "es": "perderse",
+     "example": "We got lost in the old city.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-get-married",
+     "en": "get married",
+     "es": "casarse",
+     "example": "My cousins got married in June.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-sick",
+     "en": "get sick",
+     "es": "enfermarse",
+     "example": "I got sick after the long trip.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-sunburn",
+     "en": "get a sunburn",
+     "es": "quemarse con el sol",
+     "example": "I got a terrible sunburn on the beach.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-autograph",
+     "en": "get an autograph",
+     "es": "conseguir un autógrafo",
+     "example": "She got the singer's autograph.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-present",
+     "en": "get a present",
+     "es": "recibir un regalo",
+     "example": "I got a nice present for my birthday.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-dark",
+     "en": "get dark",
+     "es": "oscurecer, anochecer",
+     "example": "It got dark at seven o'clock.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-camping",
+     "en": "go camping",
+     "es": "ir de campamento",
+     "example": "We went camping by the lake.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-go-hiking",
+     "en": "go hiking",
+     "es": "ir de excursión a pie",
+     "example": "They went hiking in the mountains.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-go-snorkeling",
+     "en": "go snorkeling",
+     "es": "ir a hacer esnórquel",
+     "example": "I went snorkeling in Cozumel.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-parasailing",
+     "en": "go parasailing",
+     "es": "hacer parasailing",
+     "example": "He went parasailing and loved it.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-road-trip",
+     "en": "go on a road trip",
+     "es": "ir de viaje por carretera",
+     "example": "We went on a road trip to Chihuahua.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-see-band",
+     "en": "go to see a band",
+     "es": "ir a ver a un grupo",
+     "example": "Last night I went to see my favorite band.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-anyway",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>How was your weekend? / How was your vacation?</strong> — asking about a past experience.</li><li><strong>It was great! / It was awful!</strong> — answering with a short opinion.</li><li><strong>Did you enjoy it? How about you?</strong> — answering and turning the question back.</li><li><strong>Really? / Oh, no! / Wow!</strong> — reacting while the other person talks.</li><li><strong>Anyway, …</strong> — changing the subject or ending the conversation: <em>Anyway, how was your trip?</em></li><li><strong>I had a great time. / I made a mistake.</strong> — common phrases in the past.</li><li><strong>What was the weather like? How long were you there? Who did you go with?</strong> — questions to ask for details about a trip.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "was or were",
+   "instructions": "Complete with was, wasn't, were, or weren't, or correct the sentence.",
+   "topic": "g-past-be",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "I ___ very nervous on my first day at school.",
+     "answers": [
+      "was"
+     ],
+     "explain": "I → was."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "My parents ___ at home yesterday evening.",
+     "answers": [
+      "were"
+     ],
+     "explain": "My parents (plural) → were."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "He ___ happy with his grade. (negativa)",
+     "answers": [
+      "wasn't",
+      "was not"
+     ],
+     "explain": "Negative with he: wasn't."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "___ you at the party last night? — Yes, I was.",
+     "answers": [
+      "Were"
+     ],
+     "explain": "Question with you: Were."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "Was your first teacher young? — No, she ___.",
+     "answers": [
+      "wasn't",
+      "was not"
+     ],
+     "explain": "Negative short answer with she: No, she wasn't."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "The kids ___ scared of the dog. (negativa)",
+     "answers": [
+      "weren't",
+      "were not"
+     ],
+     "explain": "The kids (plural) → weren't."
+    },
+    {
+     "id": "A7",
+     "type": "choice",
+     "prompt": "Last year, my cousins ___ in Canada.",
+     "options": [
+      "was",
+      "were",
+      "are"
+     ],
+     "answer": 1,
+     "explain": "Cousins is plural and in the past: were."
+    },
+    {
+     "id": "A8",
+     "type": "fix",
+     "prompt": "She were embarrassed after the mistake.",
+     "answers": [
+      "She was embarrassed after the mistake."
+     ],
+     "explain": "She → was."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Regular verbs in the past",
+   "instructions": "Write the simple past or correct the sentence.",
+   "topic": "g-past-regular",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "Yesterday I ___ (watch) a movie.",
+     "answers": [
+      "watched"
+     ],
+     "explain": "Regular: watch + -ed."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "She ___ (study) English two years ago.",
+     "answers": [
+      "studied"
+     ],
+     "explain": "Consonant + y → -ied."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "We ___ (stop) at a small café.",
+     "answers": [
+      "stopped"
+     ],
+     "explain": "The consonant is doubled: stopped."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "They didn't ___ (like) the food.",
+     "answers": [
+      "like"
+     ],
+     "explain": "After didn't, use the base form."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "He ___ in Guadalajara in 2015.",
+     "options": [
+      "lived",
+      "lives",
+      "live"
+     ],
+     "answer": 0,
+     "explain": "In 2015 signals the past: lived."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "I didn't watched the news.",
+     "answers": [
+      "I didn't watch the news."
+     ],
+     "explain": "After didn't, use the base form."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "My brother play soccer yesterday.",
+     "answers": [
+      "My brother played soccer yesterday."
+     ],
+     "explain": "Yesterday calls for the past: played."
+    },
+    {
+     "id": "B8",
+     "type": "gap",
+     "prompt": "The party ___ (end) at midnight.",
+     "answers": [
+      "ended"
+     ],
+     "explain": "Regular: end + -ed."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Irregular verbs in the past",
+   "instructions": "Write the simple past or correct the sentence.",
+   "topic": "g-past-irregular",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "Last summer we ___ (go) to Veracruz.",
+     "answers": [
+      "went"
+     ],
+     "explain": "Go is irregular: went."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "I ___ (have) a great time at the concert.",
+     "answers": [
+      "had"
+     ],
+     "explain": "Have → had."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "She ___ (buy) a new phone last week.",
+     "answers": [
+      "bought"
+     ],
+     "explain": "Buy → bought."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "He didn't ___ (take) the bus; he walked.",
+     "answers": [
+      "take"
+     ],
+     "explain": "After didn't, use the base form."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "My friends ___ (come) to my house on Saturday.",
+     "answers": [
+      "came"
+     ],
+     "explain": "Come → came."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "We ___ pizza for dinner last night.",
+     "options": [
+      "eat",
+      "ate",
+      "eated"
+     ],
+     "answer": 1,
+     "explain": "Eat → ate."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "I goed to the market yesterday.",
+     "answers": [
+      "I went to the market yesterday."
+     ],
+     "explain": "Go is irregular: went."
+    },
+    {
+     "id": "C8",
+     "type": "fix",
+     "prompt": "She didn't went to school on Monday.",
+     "answers": [
+      "She didn't go to school on Monday."
+     ],
+     "explain": "After didn't, use the base form."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Questions in the past",
+   "instructions": "Complete, order, or correct the questions.",
+   "topic": "g-past-questions",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "___ you enjoy the trip? — Yes, I did.",
+     "answers": [
+      "Did"
+     ],
+     "explain": "Yes/no question with a regular verb: Did."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "Where ___ you go on vacation last year?",
+     "answers": [
+      "did"
+     ],
+     "explain": "Wh- + did + subject + base verb."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "How ___ your weekend? — It was great.",
+     "answers": [
+      "was"
+     ],
+     "explain": "Weekend is singular: was."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "Did she call you? — No, she ___.",
+     "answers": [
+      "didn't",
+      "did not"
+     ],
+     "explain": "Negative short answer: No, she didn't."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "Who ___ you go with?",
+     "options": [
+      "did",
+      "were",
+      "do"
+     ],
+     "answer": 0,
+     "explain": "Wh- + did + subject + base verb."
+    },
+    {
+     "id": "D6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "did",
+      "what",
+      "you",
+      "do",
+      "yesterday"
+     ],
+     "answers": [
+      "What did you do yesterday?"
+     ],
+     "explain": "Wh- + did + subject + base verb."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "Did you went to the party?",
+     "answers": [
+      "Did you go to the party?"
+     ],
+     "explain": "With did, the verb goes in the base form."
+    },
+    {
+     "id": "D8",
+     "type": "fix",
+     "prompt": "Where you were last night?",
+     "answers": [
+      "Where were you last night?"
+     ],
+     "explain": "With be, invert: Where + were + you."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Feelings and descriptions",
+   "instructions": "Complete with a word from the box: embarrassing, nervous, scared, relaxed, pleased, strict, noisy.",
+   "topic": "v-feelings",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "Before my exam, I was very ___. My hands were cold.",
+     "answers": [
+      "nervous"
+     ],
+     "explain": "Cold hands before the exam: nervous."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "My boss was ___ with my report. He said, \"Good job!\"",
+     "answers": [
+      "pleased"
+     ],
+     "explain": "Happy with the work: pleased."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "I'm ___ of dogs. I don't like big ones.",
+     "answers": [
+      "scared"
+     ],
+     "explain": "Scared of = afraid of."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "The neighbors had a party and it was very ___.",
+     "answers": [
+      "noisy"
+     ],
+     "explain": "A lot of noise: noisy."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "Our math teacher was ___. We couldn't talk in class.",
+     "answers": [
+      "strict"
+     ],
+     "explain": "Didn't let people talk: strict."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "I called my teacher \"Mom\". It was so ___!",
+     "answers": [
+      "embarrassing"
+     ],
+     "explain": "An awkward situation: embarrassing."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "After the vacation, I was calm and ___.",
+     "answers": [
+      "relaxed"
+     ],
+     "explain": "Calm after a vacation: relaxed."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Expressions with get and go",
+   "instructions": "Complete with the correct form of get or go, or with the missing word.",
+   "topic": "v-getgo",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "We ___ camping in the mountains last weekend.",
+     "answers": [
+      "went"
+     ],
+     "explain": "Go camping → went camping."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "Dani ___ lost in the city and called a taxi.",
+     "answers": [
+      "got"
+     ],
+     "explain": "Get lost → got lost."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "I ___ a terrible sunburn on the beach.",
+     "answers": [
+      "got"
+     ],
+     "explain": "Get a sunburn → got."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "They went ___ a road trip across Mexico.",
+     "options": [
+      "in",
+      "on",
+      "at"
+     ],
+     "answer": 1,
+     "explain": "Go on a road trip."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "My sister ___ married last year.",
+     "options": [
+      "went",
+      "got",
+      "made"
+     ],
+     "answer": 1,
+     "explain": "Get married → got married."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "When did you get ___ from your trip?",
+     "answers": [
+      "back"
+     ],
+     "explain": "Get back = return."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "He went to ___ a band at the stadium.",
+     "answers": [
+      "see"
+     ],
+     "explain": "Go to see a band."
+    },
+    {
+     "id": "F8",
+     "type": "fix",
+     "prompt": "We went to hiking on Sunday.",
+     "answers": [
+      "We went hiking on Sunday."
+     ],
+     "explain": "Go + activity in -ing, without to."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "was",
+      "my",
+      "first",
+      "pet",
+      "a",
+      "dog"
+     ],
+     "answers": [
+      "My first pet was a dog."
+     ],
+     "explain": "Subject + was + complement."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "weren't",
+      "the",
+      "kids",
+      "happy"
+     ],
+     "answers": [
+      "The kids weren't happy."
+     ],
+     "explain": "Negative with a plural subject: weren't."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "did",
+      "where",
+      "you",
+      "go",
+      "last",
+      "summer"
+     ],
+     "answers": [
+      "Where did you go last summer?"
+     ],
+     "explain": "Wh- + did + subject + base verb."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "didn't",
+      "I",
+      "get",
+      "a",
+      "sunburn"
+     ],
+     "answers": [
+      "I didn't get a sunburn."
+     ],
+     "explain": "didn't + base verb."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "How",
+      "was",
+      "her",
+      "first",
+      "day",
+      "at",
+      "work"
+     ],
+     "answers": [
+      "How was her first day at work?"
+     ],
+     "explain": "How + was + subject."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "we",
+      "went",
+      "a",
+      "on",
+      "road",
+      "trip",
+      "last",
+      "month"
+     ],
+     "answers": [
+      "We went on a road trip last month.",
+      "Last month we went on a road trip."
+     ],
+     "explain": "Go on a road trip; the time expression can go at the start or at the end."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Yo estaba muy nervioso en mi primer día de trabajo.",
+     "answers": [
+      "I was very nervous on my first day of work.",
+      "I was very nervous on my first day at work.",
+      "I was really nervous on my first day of work.",
+      "I was really nervous on my first day at work."
+     ],
+     "explain": "I + was; first day of work."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Ayer no fuimos al cine.",
+     "answers": [
+      "We didn't go to the movies yesterday.",
+      "We didn't go to the cinema yesterday.",
+      "We did not go to the movies yesterday.",
+      "We did not go to the cinema yesterday.",
+      "We didn't go to the movie theater yesterday.",
+      "We did not go to the movie theater yesterday."
+     ],
+     "explain": "Negative: didn't + go."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "¿Dónde compraste esos zapatos?",
+     "answers": [
+      "Where did you buy those shoes?"
+     ],
+     "explain": "Wh- + did + subject + base verb."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Mis padres no estaban en casa.",
+     "answers": [
+      "My parents weren't at home.",
+      "My parents were not at home.",
+      "My parents weren't home.",
+      "My parents were not home."
+     ],
+     "explain": "Parents is plural: weren't."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Hace dos años fui a Cancún con mi familia.",
+     "answers": [
+      "I went to Cancun with my family two years ago.",
+      "I went to Cancún with my family two years ago.",
+      "Two years ago I went to Cancun with my family.",
+      "Two years ago I went to Cancún with my family.",
+      "Two years ago, I went to Cancun with my family.",
+      "Two years ago, I went to Cancún with my family."
+     ],
+     "explain": "Ago goes at the end (or at the start) with the verb in the past."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "¿Te divertiste en la fiesta?",
+     "answers": [
+      "Did you have fun at the party?",
+      "Did you enjoy the party?",
+      "Did you have a good time at the party?",
+      "Did you have a great time at the party?"
+     ],
+     "explain": "Did + subject + base verb."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed review",
+   "instructions": "Exercises on different topics from the unit, with a review of A1.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "She ___ scared of the water when she was little.",
+     "options": [
+      "was",
+      "were",
+      "did"
+     ],
+     "answer": 0,
+     "explain": "She → was."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "We ___ (see) a great movie last night.",
+     "answers": [
+      "saw"
+     ],
+     "explain": "See → saw."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "He didn't liked the food.",
+     "answers": [
+      "He didn't like the food."
+     ],
+     "explain": "After didn't, use the base form."
+    },
+    {
+     "id": "M4",
+     "type": "gap",
+     "prompt": "How long ___ you in Paris? — For five days.",
+     "answers": [
+      "were"
+     ],
+     "explain": "How long + were + you."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "I ___ a lot of fun at the beach.",
+     "options": [
+      "had",
+      "was",
+      "did"
+     ],
+     "answer": 0,
+     "explain": "Have fun → had fun."
+    },
+    {
+     "id": "M6",
+     "type": "fix",
+     "prompt": "Were you go to the party?",
+     "answers": [
+      "Did you go to the party?"
+     ],
+     "explain": "With go, use did, not were."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "You want to change the topic. What do you say?",
+     "options": [
+      "Anyway, how was your weekend?",
+      "Because, how was your weekend?",
+      "Although, how was your weekend?"
+     ],
+     "answer": 0,
+     "explain": "Anyway changes the topic."
+    },
+    {
+     "id": "M8",
+     "type": "translate",
+     "prompt": "Mi primer maestro de inglés era joven pero estricto.",
+     "answers": [
+      "My first English teacher was young but strict.",
+      "My first English teacher was young, but strict.",
+      "My first English teacher was young, but he was strict.",
+      "My first English teacher was young but he was strict."
+     ],
+     "explain": "Be in the past: was; but joins opposite ideas."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "(A1 review) My new phone is ___ than my old phone. (good)",
+     "answers": [
+      "better"
+     ],
+     "explain": "Irregular comparative: good → better."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "(A1 review) Look! The kids ___ in the park. (play)",
+     "answers": [
+      "are playing",
+      "'re playing"
+     ],
+     "explain": "Right now: present continuous."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write 60 to 100 words about your first day at school or work: how you felt, what happened, and how the day ended. Starter: My first day at work was …",
+   "targets": [
+    "was / were",
+    "simple past, regular and irregular",
+    "feelings"
+   ],
+   "checklist": [
+    "Use was / were to describe how you felt (nervous, scared, relaxed…)",
+    "At least three verbs in the past (regular and irregular)",
+    "A negative sentence with didn't + base verb",
+    "A time expression (yesterday, ago, last year…)",
+    "Between 60 and 100 words, with a subject in every sentence"
+   ],
+   "model": "My first day at work was a big day for me. I was very nervous, and my hands were cold. I arrived at the office early, but nobody was there. Later, my new boss showed me my desk. I met my team and they were very friendly. I didn't understand the computer system, so I asked many questions. I had lunch with two coworkers, and we talked a lot. At six o'clock, I went home tired but relaxed. It was a good day."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write 60 to 100 words about your last vacation or your last weekend: where you went, with whom, what you did, and how it was. Starter: Last weekend I went …",
+   "targets": [
+    "questions and answers in the past",
+    "get / go",
+    "Anyway"
+   ],
+   "checklist": [
+    "Where you went and with whom (went, with)",
+    "An expression with get or go (got lost, went hiking…)",
+    "A final question with Did you…? or How was…?",
+    "An opinion with was/were (It was great)",
+    "Between 60 and 100 words"
+   ],
+   "model": "Last weekend I went to Valle de Bravo with my two best friends. We left early on Saturday and got there at ten. First, we got lost in the town, but a nice man helped us. Then we went hiking near the lake and took many photos. In the evening, we ate fish and played cards. On Sunday, we got up late and came back home in the afternoon. Anyway, it was a great weekend. The weather was perfect and the people were kind. Did you go anywhere last weekend?"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "A first day I will never forget",
+   "intro": "Read the text and answer.",
+   "paragraphs": [
+    "Last Monday was my first day at a new job. I was very nervous. I got up at six o'clock and I took a shower. I didn't eat breakfast because I was too scared to eat. I took the bus to the office and I got there at eight, one hour early!",
+    "The office was big and noisy. A woman named Carmen met me at the door. She was young and friendly. She gave me a coffee and showed me my desk. Then I met my co-workers. Some of them were very kind, but my boss, Mr. Salas, was strict. He said, \"We start at nine, not at eight.\" It was a little embarrassing.",
+    "At ten o'clock I made a big mistake. I sent an email to the wrong person! Carmen laughed and said, \"Don't worry. I did the same thing on my first day.\" She helped me write another email.",
+    "At lunch, we went to a small restaurant with the team and I had tacos. Everybody was relaxed there, and I felt better. In the afternoon, I learned a lot about the company. I got home at six, tired but happy. My first day wasn't perfect, but it wasn't bad. I was proud of myself."
+   ],
+   "glossary": [
+    {
+     "en": "co-worker",
+     "def": "a person you work with"
+    },
+    {
+     "en": "desk",
+     "def": "a table where you work or study"
+    },
+    {
+     "en": "wrong",
+     "def": "wrong, not correct"
+    },
+    {
+     "en": "kind",
+     "def": "kind and friendly"
+    },
+    {
+     "en": "laugh (laughed)",
+     "def": "to laugh (past: laughed)"
+    },
+    {
+     "en": "company",
+     "def": "a company or business"
+    },
+    {
+     "en": "proud",
+     "def": "happy and proud of something"
+    },
+    {
+     "en": "early",
+     "def": "early, before the usual time"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "The writer ate breakfast before work.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Says: «I didn't eat breakfast»."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "How did the writer get to the office?",
+     "options": [
+      "By bus",
+      "By car",
+      "On foot"
+     ],
+     "answer": 0,
+     "explain": "I took the bus."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What time did the writer get to the office?",
+     "options": [
+      "At seven",
+      "At eight",
+      "At nine"
+     ],
+     "answer": 1,
+     "explain": "I got there at eight."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Carmen was unfriendly.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Carmen was young and friendly."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "The writer sent an email to the wrong ___.",
+     "answers": [
+      "person"
+     ],
+     "explain": "Sent an email to the wrong person."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "Where did the team have lunch?",
+     "options": [
+      "At the office",
+      "At a small restaurant",
+      "At home"
+     ],
+     "answer": 1,
+     "explain": "They went to a small restaurant."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "At the end of the day, the writer was tired but ___.",
+     "answers": [
+      "happy"
+     ],
+     "explain": "Tired but happy."
+    }
+   ]
+  },
+  "listening": {
+   "title": "How was your vacation?",
+   "intro": "Listen to the conversation. You can repeat it.",
+   "lines": [
+    {
+     "who": "Karen",
+     "voice": "glassy",
+     "text": "Hi, Pete! You're back! When did you get back?"
+    },
+    {
+     "who": "Pete",
+     "voice": "rounded",
+     "text": "Hi, Karen. I got back on Saturday."
+    },
+    {
+     "who": "Karen",
+     "voice": "glassy",
+     "text": "How was your vacation? Where did you go?"
+    },
+    {
+     "who": "Pete",
+     "voice": "rounded",
+     "text": "It was great! I went to Oaxaca with my sister."
+    },
+    {
+     "who": "Karen",
+     "voice": "glassy",
+     "text": "Oh, nice. How long were you there?"
+    },
+    {
+     "who": "Pete",
+     "voice": "rounded",
+     "text": "We were there for ten days. The weather was hot and sunny."
+    },
+    {
+     "who": "Karen",
+     "voice": "glassy",
+     "text": "What did you do?"
+    },
+    {
+     "who": "Pete",
+     "voice": "rounded",
+     "text": "We went hiking in the mountains, and we visited some old ruins. I also got a bad sunburn!"
+    },
+    {
+     "who": "Karen",
+     "voice": "glassy",
+     "text": "Ouch! Did you have any problems?"
+    },
+    {
+     "who": "Pete",
+     "voice": "rounded",
+     "text": "Only one. We got lost on the first day, but a friendly man helped us."
+    },
+    {
+     "who": "Karen",
+     "voice": "glassy",
+     "text": "That sounds like fun! Did you eat any good food?"
+    },
+    {
+     "who": "Pete",
+     "voice": "rounded",
+     "text": "Yes, we did. We ate tlayudas every day. Anyway, how was your weekend?"
+    },
+    {
+     "who": "Karen",
+     "voice": "glassy",
+     "text": "It was quiet. I stayed home and relaxed."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "When did Pete get back?",
+     "options": [
+      "On Friday",
+      "On Saturday",
+      "On Sunday"
+     ],
+     "answer": 1,
+     "explain": "I got back on Saturday."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Who did Pete go with?",
+     "options": [
+      "His sister",
+      "His friends",
+      "His parents"
+     ],
+     "answer": 0,
+     "explain": "I went to Oaxaca with my sister."
+    },
+    {
+     "id": "L3",
+     "type": "gap",
+     "prompt": "They were in Oaxaca for ___ days.",
+     "answers": [
+      "ten",
+      "10"
+     ],
+     "explain": "We were there for ten days."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "Pete got a sunburn.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "I also got a bad sunburn."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What happened on the first day?",
+     "options": [
+      "They got lost.",
+      "They got sick.",
+      "They lost their bags."
+     ],
+     "answer": 0,
+     "explain": "We got lost on the first day."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "I got back on Saturday.",
+     "answers": [
+      "I got back on Saturday."
+     ],
+     "explain": "Get back → got back."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "We went hiking in the mountains.",
+     "answers": [
+      "We went hiking in the mountains."
+     ],
+     "explain": "Go hiking → went hiking."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "We got lost on the first day.",
+     "answers": [
+      "We got lost on the first day."
+     ],
+     "explain": "Get lost → got lost."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "How long were you there?",
+     "answers": [
+      "How long were you there?"
+     ],
+     "explain": "How long + were + you."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about your first day at school or at work.",
+     "questions": [
+      "Where was your first day of work or school?",
+      "How did you feel?",
+      "Was the teacher or boss strict or friendly?",
+      "What did you do on that day?"
+     ],
+     "model": "My first day of school was in 2003. I was very nervous and a little scared. My teacher was young and friendly. I met a new friend and we played in the yard. It was a great day.",
+     "checklist": [
+      "was / were for feelings and descriptions",
+      "Past verbs (met, played)",
+      "A time expression",
+      "A final opinion (It was great)"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Tell about your last vacation or your last weekend.",
+     "questions": [
+      "Where did you go?",
+      "Who did you go with?",
+      "What did you do?",
+      "How was the weather?"
+     ],
+     "model": "Last summer I went to Veracruz with my family. We stayed for a week. We went snorkeling and I got a sunburn. The weather was hot, but it was a lot of fun.",
+     "checklist": [
+      "Irregular verbs (went, got)",
+      "with + person",
+      "get / go",
+      "An opinion with was"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about your first pet, your first house, or your first friend.",
+     "questions": [
+      "What was your first pet or first home?",
+      "How old were you?",
+      "Did you like it?",
+      "What did you do with your pet or friend?"
+     ],
+     "model": "My first pet was a dog named Max. I was eight years old. I loved him. We played every day and he slept in my room. He wasn't a big dog, but he was very friendly.",
+     "checklist": [
+      "My first … was …",
+      "How old + were you",
+      "Simple past, regular and irregular",
+      "A negative sentence with wasn't or didn't"
+     ]
+    }
+   ],
+   "repeat": [
+    "How was your vacation?",
+    "I got back on Saturday.",
+    "We went hiking in the mountains.",
+    "Did you have a good time?",
+    "I wasn't scared, but I was nervous.",
+    "Anyway, how was your weekend?"
+   ]
+  }
+ }
+}

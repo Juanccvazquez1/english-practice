@@ -1,0 +1,1660 @@
+{
+ "id": "u-b1-02",
+ "level": "B1",
+ "n": 2,
+ "title": "Keeping in touch",
+ "goals": [
+  "Talk about ways to communicate (texting, video calls, e-cards) and keep in touch.",
+  "Compare with adjectives: quicker than, more personal than, less expensive than, better / worse than.",
+  "Use as … as, the same as and different from, and qualify with a lot / a little.",
+  "Compare quantities and actions with more, less and fewer.",
+  "Manage a call: interrupt (Just a second) and resume (What were you saying?), and soften with just.",
+  "Write an article with advantages and disadvantages (However, On the other hand, In my opinion)."
+ ],
+ "learn": [
+  {
+   "id": "v-communication",
+   "kind": "vocab",
+   "title": "Types of communication",
+   "words": [
+    {
+     "id": "w-e-card",
+     "en": "an e-card",
+     "es": "una tarjeta electrónica",
+     "example": "I sent my aunt an e-card for her birthday."
+    },
+    {
+     "id": "w-instant-messaging",
+     "en": "instant messaging (IM)",
+     "es": "mensajería instantánea",
+     "example": "My friends and I use instant messaging all day.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-regular-mail",
+     "en": "regular mail",
+     "es": "correo normal (en papel)",
+     "example": "Regular mail is slow, but a letter is special.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-social-network",
+     "en": "a social network / social networking",
+     "es": "una red social",
+     "example": "I use a social network to see my cousins' photos.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-text-message",
+     "en": "a text (message) / texting",
+     "es": "un mensaje de texto / mandar mensajes",
+     "example": "Texting is quicker than calling.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-video-call",
+     "en": "a video call / video calling",
+     "es": "una videollamada",
+     "example": "We have a video call with my brother every Sunday.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-video-conference",
+     "en": "a video conference / video conferencing",
+     "es": "una videoconferencia",
+     "example": "The company has a video conference every Monday.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-keep-in-touch",
+     "en": "keep in touch with",
+     "es": "mantenerse en contacto con",
+     "example": "How do you keep in touch with your old friends?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-text-v",
+     "en": "text (v)",
+     "es": "mandar un mensaje de texto",
+     "example": "I'll text you when I arrive.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-video-call-v",
+     "en": "video call (v)",
+     "es": "hacer una videollamada a",
+     "example": "I video call my parents on weekends.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-inbox",
+     "en": "inbox",
+     "es": "bandeja de entrada",
+     "example": "My inbox has 200 unread emails."
+    },
+    {
+     "id": "w-spam",
+     "en": "spam",
+     "es": "correo basura, spam",
+     "example": "Nothing is worse than spam in your inbox."
+    },
+    {
+     "id": "w-phone-call",
+     "en": "phone call",
+     "es": "llamada telefónica",
+     "example": "A phone call is more personal than a text.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-email",
+     "en": "email",
+     "es": "correo electrónico",
+     "example": "I answer work emails in the morning.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-comp",
+   "kind": "grammar",
+   "title": "Comparative adjectives",
+   "html": "<p>They compare <strong>two</strong> people or things. Before the second element goes <strong>than</strong>: <em>Texting is quicker and easier than calling.</em></p><table><thead><tr><th>Type</th><th>Rule</th><th>Examples</th></tr></thead><tbody><tr><td>Short adjective</td><td>adjective + <strong>-er</strong></td><td>quick → quicker, slow → slower</td></tr><tr><td>Ends in -e</td><td>only add <strong>-r</strong></td><td>nice → nicer</td></tr><tr><td>Consonant + -y</td><td>y → <strong>-ier</strong></td><td>easy → easier</td></tr><tr><td>Vowel + consonant (not w)</td><td>double the consonant</td><td>big → bigger</td></tr><tr><td>Long adjective</td><td><strong>more / less</strong> + adjective</td><td>more personal, less expensive, more interesting</td></tr><tr><td>Irregular</td><td>good → <strong>better</strong>, bad → <strong>worse</strong></td><td>Video calls are better than phone calls.</td></tr></tbody></table><p>With <em>fun</em> use <strong>more</strong>: <em>Texting is more fun than calling.</em> To qualify a comparison, use <strong>a lot / much / a little / a bit</strong> + comparative: <em>Email is a lot faster than regular mail.</em></p>",
+   "watch": [
+    {
+     "wrong": "Texting is more quick than calling.",
+     "right": "Texting is quicker than calling.",
+     "why": "Short adjective: -er, not more."
+    },
+    {
+     "wrong": "Cards are more personal that e-cards.",
+     "right": "Cards are more personal than e-cards.",
+     "why": "The word used to compare is than, not that."
+    },
+    {
+     "wrong": "This spam is more bad than yesterday's.",
+     "right": "This spam is worse than yesterday's.",
+     "why": "Bad is irregular: worse."
+    },
+    {
+     "wrong": "Video calls are more better than texts.",
+     "right": "Video calls are better than texts.",
+     "why": "Better is already a comparative, so don't add more."
+    }
+   ]
+  },
+  {
+   "id": "v-descriptions",
+   "kind": "vocab",
+   "title": "Descriptions (adjectives for comparing)",
+   "words": [
+    {
+     "id": "w-bad",
+     "en": "bad",
+     "es": "malo/a",
+     "example": "Spam is bad.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-convenient",
+     "en": "convenient",
+     "es": "cómodo/a, práctico/a",
+     "example": "Email is more convenient than regular mail.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-personal",
+     "en": "personal",
+     "es": "personal, íntimo/a",
+     "example": "A real card is more personal than an e-card.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-reliable-b1",
+     "en": "reliable",
+     "es": "confiable, que funciona bien",
+     "example": "This app is reliable; it never fails.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-slow",
+     "en": "slow",
+     "es": "lento/a",
+     "example": "My internet is very slow today.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-quick",
+     "en": "quick",
+     "es": "rápido/a (en tiempo)",
+     "example": "A text is a quick way to say hello.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-annoying",
+     "en": "annoying",
+     "es": "molesto/a, fastidioso/a",
+     "example": "Spam is really annoying.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-easy-hard",
+     "en": "easy / hard",
+     "es": "fácil / difícil",
+     "example": "Texting is easy; writing a letter is harder.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-expensive-cheap",
+     "en": "expensive / cheap",
+     "es": "caro/a / barato/a",
+     "example": "Video conferences are less expensive than business trips.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fun",
+     "en": "fun",
+     "es": "divertido/a (se compara con more fun)",
+     "example": "Video calls are more fun than phone calls.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-formal",
+     "en": "formal / informal",
+     "es": "formal / informal",
+     "example": "An email to my boss is formal; a text to a friend is informal.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-rude",
+     "en": "rude",
+     "es": "grosero/a, descortés",
+     "example": "It's rude to look at your phone during dinner.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "g-as",
+   "kind": "grammar",
+   "title": "as … as, the same as, different from",
+   "html": "<p>Besides <em>-er / more … than</em>, you can say that two things are <strong>the same</strong> or <strong>different</strong>.</p><table><thead><tr><th>Structure</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td>as + adjective + <strong>as</strong></td><td>equally … as</td><td>A text is as quick as a call.</td></tr><tr><td>not as + adjective + <strong>as</strong></td><td>less … than</td><td>Texting is not as personal as a letter.</td></tr><tr><td>the same <strong>as</strong></td><td>identical to</td><td>My phone is the same as yours.</td></tr><tr><td>different <strong>from</strong></td><td>not the same as</td><td>A video call is different from a phone call.</td></tr></tbody></table><p><strong>Not as … as</strong> and <strong>less … than</strong> mean almost the same: <em>Texting isn't as personal as calling = Texting is less personal than calling.</em></p>",
+   "watch": [
+    {
+     "wrong": "Email is not as fast than a text.",
+     "right": "Email is not as fast as a text.",
+     "why": "With as … , close with as, not than."
+    },
+    {
+     "wrong": "My phone is same as yours.",
+     "right": "My phone is the same as yours.",
+     "why": "The article \"the\" is missing before same."
+    },
+    {
+     "wrong": "Video calls are different than phone calls.",
+     "right": "Video calls are different from phone calls.",
+     "why": "More formal and more precise: different from."
+    },
+    {
+     "wrong": "He is as tall like his father.",
+     "right": "He is as tall as his father.",
+     "why": "To say equal to, use as … as, not \"like\"."
+    }
+   ]
+  },
+  {
+   "id": "g-quant",
+   "kind": "grammar",
+   "title": "More, less and fewer",
+   "html": "<p>You can also compare with <strong>nouns</strong> and <strong>verbs</strong>. <em>Fewer</em> and <em>less</em> are the opposite of <em>more</em>. After them comes <strong>than</strong>.</p><table><thead><tr><th>With…</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Countable noun (plural)</td><td>more / <strong>fewer</strong> + noun</td><td>I get more calls than you. You get <strong>fewer</strong> calls than I do.</td></tr><tr><td>Uncountable noun</td><td>more / <strong>less</strong> + noun</td><td>I spend more time on the phone. You spend <strong>less</strong> time on the phone.</td></tr><tr><td>Verb</td><td>verb + more / less + than</td><td>She talks more than he does. He talks less than she does.</td></tr></tbody></table><p>After <em>than</em> you can end with an auxiliary: <em>than you do, than he does, than I did</em>.</p>",
+   "watch": [
+    {
+     "wrong": "I get less calls than you.",
+     "right": "I get fewer calls than you.",
+     "why": "Calls is countable: fewer."
+    },
+    {
+     "wrong": "She has fewer money than me.",
+     "right": "She has less money than me.",
+     "why": "Money is uncountable: less."
+    },
+    {
+     "wrong": "He talks more that she does.",
+     "right": "He talks more than she does.",
+     "why": "Compare with than."
+    },
+    {
+     "wrong": "I text more than you do it.",
+     "right": "I text more than you do.",
+     "why": "Do replaces the verb; don't add it."
+    }
+   ]
+  },
+  {
+   "id": "v-phone",
+   "kind": "vocab",
+   "title": "On the phone",
+   "words": [
+    {
+     "id": "w-voice-mail",
+     "en": "voice mail",
+     "es": "buzón de voz",
+     "example": "I left a message on her voice mail.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-interrupt",
+     "en": "interrupt",
+     "es": "interrumpir",
+     "example": "Sorry to interrupt, but I have an urgent call.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-return-a-call",
+     "en": "return a call",
+     "es": "devolver una llamada",
+     "example": "Please return my call when you can.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-by-mistake",
+     "en": "by mistake",
+     "es": "por error",
+     "example": "I called you by mistake.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-suddenly",
+     "en": "suddenly",
+     "es": "de repente",
+     "example": "Suddenly, the line went dead.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-charger",
+     "en": "charger",
+     "es": "cargador",
+     "example": "I need my charger; my battery is low."
+    },
+    {
+     "id": "w-hold-on",
+     "en": "hold on",
+     "es": "esperar un momento (al teléfono)",
+     "example": "Can you hold on a second?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-hang-up",
+     "en": "hang up",
+     "es": "colgar",
+     "example": "He hung up before I could answer.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-miss-a-call",
+     "en": "miss a call",
+     "es": "perder una llamada",
+     "example": "I missed your call because I was in a meeting.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-leave-message",
+     "en": "leave a message",
+     "es": "dejar un mensaje",
+     "example": "Please leave a message after the tone.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-answer",
+     "en": "answer the phone",
+     "es": "contestar el teléfono",
+     "example": "Nobody answered the phone.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-call-back",
+     "en": "call back",
+     "es": "volver a llamar",
+     "example": "I'll call you back in ten minutes.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-battery",
+     "en": "battery",
+     "es": "batería, pila",
+     "example": "My battery died during the call.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-ring",
+     "en": "ring",
+     "es": "sonar (el teléfono) (pasado: rang)",
+     "example": "My phone rang during the movie.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "g-just",
+   "kind": "grammar",
+   "title": "Using just",
+   "html": "<p><strong>Just</strong> has several very common uses in conversation:</p><table><thead><tr><th>Use</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td>Softening a command</td><td>more polite, less direct</td><td><strong>Just</strong> a minute. I've got another call.</td></tr><tr><td>Playing something down</td><td>\"only\", \"nothing more\"</td><td>I was <strong>just</strong> calling to say hi.</td></tr><tr><td>A moment ago</td><td>just now + past simple</td><td>I <strong>just</strong> got your message.</td></tr></tbody></table><p>It goes before the main verb (<em>I just got</em>) or before the phrase it softens (<em>Just wait a second</em>).</p>",
+   "watch": [
+    {
+     "wrong": "I wait just a minute.",
+     "right": "Just wait a minute.",
+     "why": "To soften a request, just goes at the beginning."
+    },
+    {
+     "wrong": "I got just your message.",
+     "right": "I just got your message.",
+     "why": "Just goes before the main verb."
+    },
+    {
+     "wrong": "I am calling only just to say hi.",
+     "right": "I'm just calling to say hi.",
+     "why": "Only and just aren't used together."
+    }
+   ]
+  },
+  {
+   "id": "e-interrupt",
+   "kind": "expressions",
+   "title": "Interrupting and resuming the conversation",
+   "html": "<p><strong>To interrupt (pause) a conversation:</strong></p><ul><li><strong>Just a minute. / Just a second.</strong></li><li><strong>Excuse me just a second.</strong></li><li><strong>I'm sorry. Hold on (a second).</strong></li><li><strong>Could / Can you hold on a second?</strong></li></ul><p><strong>To resume afterward:</strong></p><ul><li><strong>What were you saying? / You were saying?</strong></li><li><strong>Where were we? / What were we talking about?</strong></li></ul><p><em>A: Juan and I went to a fancy restaurant last night and… B: Oh, just a minute. I've got another call. … Sorry. So, what were you saying?</em></p>"
+  },
+  {
+   "id": "s-proscons",
+   "kind": "strategy",
+   "title": "Strategy: writing an article with pros and cons",
+   "html": "<p>A pros and cons article has 4 parts:</p><ol><li><strong>Introduction:</strong> introduce the topic. <em>Video calling is becoming more and more popular.</em></li><li><strong>Advantages:</strong> reasons in favor. <em>It's fun to video call a friend you don't see often.</em></li><li><strong>Disadvantages:</strong> reasons against, with <strong>However, …</strong> / <strong>On the other hand, …</strong></li><li><strong>Conclusion:</strong> your point of view with <strong>I think …</strong> / <strong>In my opinion, …</strong></li></ol><p>Use comparatives (<em>quicker than, more personal than</em>) and more / less / fewer to support your ideas.</p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Comparatives",
+   "instructions": "Write the comparative form or correct the sentence.",
+   "topic": "g-comp",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "Texting is ___ than calling. (quick)",
+     "answers": [
+      "quicker"
+     ],
+     "explain": "Short adjective: quick + -er."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Real cards are ___ personal than e-cards.",
+     "answers": [
+      "more"
+     ],
+     "explain": "Long adjective: more + adjective."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "Video calls are ___ than phone calls. (good)",
+     "answers": [
+      "better"
+     ],
+     "explain": "Good is irregular: better."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "My old phone is ___ than my new one. (bad)",
+     "answers": [
+      "worse"
+     ],
+     "explain": "Bad is irregular: worse."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "This café is ___ than that one. (big)",
+     "answers": [
+      "bigger"
+     ],
+     "explain": "Vowel + consonant: double the g."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "Email is ___ than regular mail. (easy)",
+     "answers": [
+      "easier"
+     ],
+     "explain": "Consonant + y: y → ier."
+    },
+    {
+     "id": "A7",
+     "type": "choice",
+     "prompt": "Video conferences are ___ expensive than business trips.",
+     "options": [
+      "less",
+      "fewer",
+      "lesser"
+     ],
+     "answer": 0,
+     "explain": "less + adjective: \"less … than\"."
+    },
+    {
+     "id": "A8",
+     "type": "fix",
+     "prompt": "Texting is more quick than calling.",
+     "answers": [
+      "Texting is quicker than calling."
+     ],
+     "explain": "Short adjective: quicker."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "as … as, same and different",
+   "instructions": "Choose or complete the correct structure.",
+   "topic": "g-as",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "A text is not as personal ___ a letter.",
+     "answers": [
+      "as"
+     ],
+     "explain": "not as … as."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "Email is a lot ___ than regular mail. (fast)",
+     "answers": [
+      "faster"
+     ],
+     "explain": "a lot + short comparative."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "My phone is ___ my sister's phone. It's the same model.",
+     "options": [
+      "the same as",
+      "different from",
+      "more than"
+     ],
+     "answer": 0,
+     "explain": "the same as."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "Video calls are a little ___ expensive than texts.",
+     "answers": [
+      "more"
+     ],
+     "explain": "a little + more + long adjective."
+    },
+    {
+     "id": "B5",
+     "type": "fix",
+     "prompt": "Texting is more fun that calling.",
+     "answers": [
+      "Texting is more fun than calling."
+     ],
+     "explain": "Comparative + than."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "My laptop is more big than yours.",
+     "answers": [
+      "My laptop is bigger than yours."
+     ],
+     "explain": "Short adjective: bigger."
+    },
+    {
+     "id": "B7",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "an",
+      "email",
+      "isn't",
+      "as",
+      "slow",
+      "as",
+      "a",
+      "letter"
+     ],
+     "answers": [
+      "An email isn't as slow as a letter."
+     ],
+     "explain": "not as + adjective + as."
+    },
+    {
+     "id": "B8",
+     "type": "translate",
+     "prompt": "Mi teléfono es igual que el tuyo.",
+     "answers": [
+      "My phone is the same as yours."
+     ],
+     "explain": "the same as + possessive."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "More, less and fewer",
+   "instructions": "Choose or correct the right word.",
+   "topic": "g-quant",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "She sends ___ texts than I do.",
+     "options": [
+      "fewer",
+      "less",
+      "lesser"
+     ],
+     "answer": 0,
+     "explain": "Texts is countable: fewer."
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "He spends ___ time on his phone than I do.",
+     "options": [
+      "fewer",
+      "less",
+      "a few"
+     ],
+     "answer": 1,
+     "explain": "Time is uncountable: less."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "I talk a lot on the phone, but my brother doesn't. I talk ___ than he does.",
+     "answers": [
+      "more"
+     ],
+     "explain": "With verbs: more / less + than."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "Few people write letters now. People send ___ letters than before.",
+     "answers": [
+      "fewer"
+     ],
+     "explain": "Letters is countable: fewer."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "I'm very busy this year. I have ___ free time than last year.",
+     "answers": [
+      "less"
+     ],
+     "explain": "Time is uncountable: less."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "I get less calls than you.",
+     "answers": [
+      "I get fewer calls than you."
+     ],
+     "explain": "Countable plural: fewer."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "She has fewer money than me.",
+     "answers": [
+      "She has less money than me.",
+      "She has less money than I do."
+     ],
+     "explain": "Money is uncountable: less."
+    },
+    {
+     "id": "C8",
+     "type": "translate",
+     "prompt": "Mi hermano manda más mensajes que yo.",
+     "answers": [
+      "My brother sends more messages than I do.",
+      "My brother sends more messages than me.",
+      "My brother sends more texts than I do.",
+      "My brother sends more texts than me."
+     ],
+     "explain": "More + countable noun + than."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "The use of just",
+   "instructions": "Choose or complete with just.",
+   "topic": "g-just",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "Which sentence is the most polite?",
+     "options": [
+      "Wait.",
+      "Just a minute, please.",
+      "Stop!"
+     ],
+     "answer": 1,
+     "explain": "Just softens the request."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "In \"I just wanted to say thanks\", just means:",
+     "options": [
+      "only, nothing important",
+      "yesterday",
+      "fair"
+     ],
+     "answer": 0,
+     "explain": "It plays something down: \"I only wanted…\"."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "I ___ got your message a minute ago.",
+     "answers": [
+      "just"
+     ],
+     "explain": "I just got = I have just received."
+    },
+    {
+     "id": "D4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "just",
+      "second",
+      "a",
+      "wait"
+     ],
+     "answers": [
+      "Just wait a second.",
+      "Wait just a second."
+     ],
+     "explain": "Just softens the command."
+    },
+    {
+     "id": "D5",
+     "type": "translate",
+     "prompt": "Solo te estoy llamando para saludar.",
+     "answers": [
+      "I'm just calling to say hi.",
+      "I am just calling to say hi.",
+      "I'm just calling to say hello.",
+      "I am just calling to say hello.",
+      "I'm calling just to say hi.",
+      "I'm calling just to say hello."
+     ],
+     "explain": "Just = only; it plays something down."
+    },
+    {
+     "id": "D6",
+     "type": "gap",
+     "prompt": "Could you ___ hold on a second?",
+     "answers": [
+      "just"
+     ],
+     "explain": "Just makes the request friendlier."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: communication and phone",
+   "instructions": "Choose or write the correct word.",
+   "topic": "v-phone",
+   "items": [
+    {
+     "id": "E1",
+     "type": "choice",
+     "prompt": "Nobody answered my call, so I left a message on her ___.",
+     "options": [
+      "voice mail",
+      "inbox",
+      "charger"
+     ],
+     "answer": 0,
+     "explain": "Voice mail: the voicemail box."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "My inbox is full of ___: ads and junk.",
+     "options": [
+      "spam",
+      "e-cards",
+      "voice mail"
+     ],
+     "answer": 0,
+     "explain": "Spam: junk email."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "I didn't call you on purpose. I called you by ___.",
+     "answers": [
+      "mistake"
+     ],
+     "explain": "By mistake: accidentally."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "My battery is dead. I need my ___.",
+     "answers": [
+      "charger"
+     ],
+     "explain": "Charger: the device used to charge a phone."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "I didn't answer, so please ___ my call when you can.",
+     "options": [
+      "return",
+      "interrupt",
+      "keep"
+     ],
+     "answer": 0,
+     "explain": "Return a call: to call someone back."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "We were talking calmly when, ___, she started to cry.",
+     "answers": [
+      "suddenly"
+     ],
+     "explain": "Suddenly: all of a sudden."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "It's far, so we keep in ___ with video calls.",
+     "answers": [
+      "touch"
+     ],
+     "explain": "Keep in touch with: to stay in contact with."
+    },
+    {
+     "id": "E8",
+     "type": "choice",
+     "prompt": "A text is ___ than a letter. It arrives in seconds.",
+     "options": [
+      "slower",
+      "quicker",
+      "more personal"
+     ],
+     "answer": 1,
+     "explain": "It arrives in seconds: quicker."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Interruptions, pros and cons",
+   "instructions": "Choose or complete the right expression.",
+   "topic": "e-interrupt",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "You are talking and another call comes in. What do you say?",
+     "options": [
+      "Where were we?",
+      "Just a second. I've got another call.",
+      "What were you saying?"
+     ],
+     "answer": 1,
+     "explain": "To interrupt: Just a second."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "After the interruption, you want to continue. What do you say?",
+     "options": [
+      "Where were we?",
+      "Hold on a second.",
+      "I'm sorry, I have to go."
+     ],
+     "answer": 0,
+     "explain": "To resume: Where were we?"
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "Sorry about that. So, what ___ you saying?",
+     "answers": [
+      "were"
+     ],
+     "explain": "What were you saying? (past continuous)."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "A: Can you hold ___ a second? B: Sure.",
+     "answers": [
+      "on"
+     ],
+     "explain": "Hold on = wait a moment."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "Which word begins a disadvantage?",
+     "options": [
+      "However,",
+      "For example,",
+      "Also,"
+     ],
+     "answer": 0,
+     "explain": "However means \"nevertheless\"."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "Which phrase gives your view in a conclusion?",
+     "options": [
+      "In my opinion,",
+      "On the other hand,",
+      "However,"
+     ],
+     "answer": 0,
+     "explain": "In my opinion means \"in my view\"."
+    },
+    {
+     "id": "F7",
+     "type": "fix",
+     "prompt": "I'm sorry. Hold in a second.",
+     "answers": [
+      "I'm sorry. Hold on a second.",
+      "I am sorry. Hold on a second."
+     ],
+     "explain": "Hold on, not hold in."
+    },
+    {
+     "id": "F8",
+     "type": "gap",
+     "prompt": "While I ___ my friend, I walked into a pole. (text)",
+     "answers": [
+      "was texting"
+     ],
+     "explain": "Review from the previous unit: while + past continuous."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "texting",
+      "is",
+      "quicker",
+      "than",
+      "calling"
+     ],
+     "answers": [
+      "Texting is quicker than calling."
+     ],
+     "explain": "Short comparative adjective + than."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "cards",
+      "are",
+      "more",
+      "personal",
+      "than",
+      "e-cards"
+     ],
+     "answers": [
+      "Cards are more personal than e-cards."
+     ],
+     "explain": "more + long adjective + than."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "fewer",
+      "I",
+      "get",
+      "calls",
+      "than",
+      "you"
+     ],
+     "answers": [
+      "I get fewer calls than you."
+     ],
+     "explain": "fewer + countable plural noun."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "spends",
+      "less",
+      "he",
+      "time",
+      "on",
+      "his",
+      "phone",
+      "than",
+      "I",
+      "do"
+     ],
+     "answers": [
+      "He spends less time on his phone than I do."
+     ],
+     "explain": "less + uncountable noun."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "were",
+      "what",
+      "you",
+      "saying"
+     ],
+     "answers": [
+      "What were you saying?"
+     ],
+     "explain": "Resuming the conversation."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "is",
+      "my",
+      "phone",
+      "the",
+      "same",
+      "as",
+      "yours"
+     ],
+     "answers": [
+      "My phone is the same as yours."
+     ],
+     "explain": "the same as."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Los mensajes de texto son más fáciles que las llamadas.",
+     "answers": [
+      "Texts are easier than calls.",
+      "Texts are easier than phone calls.",
+      "Texts are easier than calling.",
+      "Text messages are easier than calls.",
+      "Text messages are easier than phone calls.",
+      "Text messages are easier than calling.",
+      "Texting is easier than calls.",
+      "Texting is easier than phone calls.",
+      "Texting is easier than calling."
+     ],
+     "explain": "easy → easier (y → ier)."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Las videollamadas son mejores que las llamadas de teléfono.",
+     "answers": [
+      "Video calls are better than phone calls.",
+      "Video calls are better than calls."
+     ],
+     "explain": "Good → better."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Tengo menos tiempo libre que tú.",
+     "answers": [
+      "I have less free time than you.",
+      "I have less free time than you do.",
+      "I've got less free time than you."
+     ],
+     "explain": "Time is uncountable: less."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Un correo no es tan personal como una carta.",
+     "answers": [
+      "An email is not as personal as a letter.",
+      "An email isn't as personal as a letter.",
+      "Email is not as personal as a letter.",
+      "Email isn't as personal as a letter."
+     ],
+     "explain": "not as … as."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Espera un segundo, por favor.",
+     "answers": [
+      "Just a second, please.",
+      "Hold on a second, please.",
+      "Just wait a second, please.",
+      "Hold on a second.",
+      "Just a second."
+     ],
+     "explain": "Just a second / Hold on a second."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Te llamé por error.",
+     "answers": [
+      "I called you by mistake."
+     ],
+     "explain": "by mistake = accidentally."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes review of unit 1 and A2).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Nothing is ___ than spam in your inbox.",
+     "options": [
+      "bad",
+      "worse",
+      "more bad"
+     ],
+     "answer": 1,
+     "explain": "Bad → worse."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "I get ___ emails than my boss, so my inbox is cleaner. (few)",
+     "answers": [
+      "fewer"
+     ],
+     "explain": "few → fewer with countable nouns."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "Video calls are more fun that texts.",
+     "answers": [
+      "Video calls are more fun than texts."
+     ],
+     "explain": "Fun is compared with than."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "No contesté porque estaba en una reunión.",
+     "answers": [
+      "I didn't answer because I was in a meeting.",
+      "I did not answer because I was in a meeting."
+     ],
+     "explain": "Review: past simple negative + past continuous."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "A: I was talking to my sister when my phone died. B: ___",
+     "options": [
+      "Oh, no!",
+      "I'm fine.",
+      "I'm happy."
+     ],
+     "answer": 0,
+     "explain": "Review from unit 1: a reaction of surprise."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "Real cards are ___ than e-cards. They are special. (nice)",
+     "answers": [
+      "nicer"
+     ],
+     "explain": "nice ends in -e: add -r."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "I'm calling ___ to say hello.",
+     "options": [
+      "just",
+      "only just",
+      "suddenly"
+     ],
+     "answer": 0,
+     "explain": "Just plays something down."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "Where ___ we? — You were telling me about your trip.",
+     "answers": [
+      "were"
+     ],
+     "explain": "Where were we? resumes the conversation."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write an article of 120 to 180 words about the advantages and disadvantages of a form of communication (for example, video calls or text messages). Include: an introduction, at least two advantages, at least one disadvantage with However or On the other hand, and a conclusion with In my opinion.",
+   "targets": [
+    "comparatives",
+    "more / less / fewer",
+    "However / On the other hand",
+    "In my opinion"
+   ],
+   "checklist": [
+    "120 to 180 words",
+    "Introduction, advantages, disadvantages and conclusion",
+    "At least 3 correct comparatives (quicker than, more personal than)",
+    "One sentence with fewer or less used correctly",
+    "However / On the other hand in the disadvantages",
+    "In my opinion or I think in the conclusion",
+    "Don't mix than and as"
+   ],
+   "model": "Video calls: good or bad?\n\nNowadays many people use video calls to talk with family and colleagues. They are very popular, but are they always the best choice?\n\nOne advantage is that video calls are more personal than text messages. You can see the other person's face, so it is easier to understand their feelings. Another advantage is that they are quicker than writing long emails, and they are cheaper than traveling to a meeting. With video calls, we spend less money and fewer hours on the road.\n\nHowever, there are some disadvantages. The internet connection is sometimes slower than we need, and the image can freeze. On the other hand, a text message is easier to send when you are busy. Also, video calls can be more tiring than normal phone calls because you must look at the screen all the time.\n\nIn my opinion, video calls are the best way to keep in touch with people who live far away, but I think we should use messages for short, simple things."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a message of 120 to 180 words to a friend who lives far away. Tell them how you keep in touch and compare two ways of communicating (for example, texting and video calls). Use as … as, more / less / fewer and a just to soften something, and suggest a call.",
+   "targets": [
+    "comparatives",
+    "as … as",
+    "more / less / fewer",
+    "just"
+   ],
+   "checklist": [
+    "120 to 180 words",
+    "At least 2 comparatives with than",
+    "One sentence with not as … as",
+    "One sentence with more, less or fewer + noun",
+    "One just used to soften (Just call me…)",
+    "A question to suggest a video call"
+   ],
+   "model": "Hi Laura,\n\nHow are you? I miss you a lot! I want to tell you how I keep in touch with my friends now that we live in different cities. I mostly send text messages because they are quicker than calls, and I can answer when I have time. But texting is not as fun as talking to someone. Video calls are more personal than messages, and I can see your face and your new haircut!\n\nThese days I have less free time than before, so I have fewer chances to call. I have more work and more homework than last year, so I usually write short messages at lunch. Writing is easier than calling, but it is not as warm as hearing your voice. Just call me if you have a problem, and I will always answer.\n\nWhat about you? Do you prefer texting or calling? Why don't we have a video call this Sunday afternoon? I can make some coffee, and you can tell me about your new job.\n\nHugs,\nMarta"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Is texting better than calling?",
+   "intro": "Read about a one-week experiment and answer.",
+   "paragraphs": [
+    "Technology gives us many ways to keep in touch. My grandmother sends regular mail, my parents prefer phone calls, and my friends and I use instant messaging all day. But which way is better? Last month I tried an experiment: for one week, I used a different kind of communication every day.",
+    "On Monday I sent a text to my best friend. Texting is quicker and easier than calling, and I received an answer in two minutes. However, it is less personal. I couldn't hear her voice, so I didn't know if she was happy or tired. On Tuesday I tried a video call with my cousin in Canada. It was more fun than a text because I could see his face and his new dog. On the other hand, the connection was slow, and we had to repeat many things.",
+    "On Wednesday I wrote a real letter to my grandmother. It was harder than I thought, because I write fewer letters than anyone I know. I also spend less time at home these days, so it was difficult to find a stamp. But a week later she called me and said it was the best surprise of the year. A real card is more personal than an e-card, and she kept my letter on her kitchen table.",
+    "By Friday I had an answer to my question. Video calls are better than texts when you want to see someone you miss, but they are not as convenient as messages, because both people need time. Texts are perfect for quick plans. Letters are slower than anything, but they are the most special. In my opinion, there isn't one best way. The best way is simply to keep in touch, and I'm going to use all of them: a text for plans, a video call for my cousin and a letter, just once a month, for my grandmother."
+   ],
+   "glossary": [
+    {
+     "en": "experiment",
+     "def": "a test you do to find out what happens"
+    },
+    {
+     "en": "connection",
+     "def": "the link that lets you talk to or see someone online"
+    },
+    {
+     "en": "stamp",
+     "def": "a small paper label you stick on a letter to pay for mailing it"
+    },
+    {
+     "en": "surprise",
+     "def": "something unexpected that makes you happy"
+    },
+    {
+     "en": "miss (someone)",
+     "def": "to feel sad because someone is not with you"
+    },
+    {
+     "en": "convenient",
+     "def": "easy and practical to use or do"
+    },
+    {
+     "en": "plans",
+     "def": "things you plan to do in the future"
+    },
+    {
+     "en": "kept",
+     "def": "past of keep: stored something and didn't throw it away"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "The writer used the same type of communication every day.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Used a different method every day."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Why was the text less personal?",
+     "options": [
+      "The writer couldn't hear her friend's voice",
+      "The answer was very slow",
+      "The text was too long"
+     ],
+     "answer": 0,
+     "explain": "I couldn't hear her voice."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What was the problem with the video call?",
+     "options": [
+      "The connection was slow",
+      "The cousin was busy",
+      "There was no sound"
+     ],
+     "answer": 0,
+     "explain": "The connection was slow."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "The writer's cousin lives in ___.",
+     "answers": [
+      "Canada"
+     ],
+     "explain": "My cousin in Canada."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "Writing a letter was easier than the writer thought.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "It was harder than I thought."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "How did the grandmother react to the letter?",
+     "options": [
+      "She loved the surprise",
+      "She was angry",
+      "She didn't answer"
+     ],
+     "answer": 0,
+     "explain": "She said it was the best surprise of the year."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "Video calls are not as ___ as messages, because both people need time.",
+     "answers": [
+      "convenient"
+     ],
+     "explain": "Not as convenient as messages."
+    },
+    {
+     "id": "R8",
+     "type": "translate",
+     "prompt": "Enviar un texto es más rápido que escribir una carta.",
+     "answers": [
+      "Sending a text is quicker than writing a letter.",
+      "Sending a text is faster than writing a letter.",
+      "Texting is quicker than writing a letter.",
+      "Texting is faster than writing a letter.",
+      "Sending a text message is quicker than writing a letter.",
+      "Sending a text message is faster than writing a letter."
+     ],
+     "explain": "Comparativo corto: quicker / faster + than."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Planning a party by phone",
+   "intro": "Listen to the phone call between Marco and Ana. You can repeat it.",
+   "lines": [
+    {
+     "who": "Marco",
+     "voice": "buttery",
+     "text": "Hi, Ana! It's Marco. I was just calling to ask about Saturday."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Oh, hi, Marco! Are you talking about Sofía's party?"
+    },
+    {
+     "who": "Marco",
+     "voice": "buttery",
+     "text": "Yes. I sent you a text yesterday, but you didn't answer."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Sorry! I get more messages than I can read. My inbox is full of spam."
+    },
+    {
+     "who": "Marco",
+     "voice": "buttery",
+     "text": "I know. I get fewer texts than you, but I never check my voice mail."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Oh, just a second. I've got another call. ... Sorry about that. So, what were you saying?"
+    },
+    {
+     "who": "Marco",
+     "voice": "buttery",
+     "text": "I was asking about the gift. I think a card is nicer than a gift card."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "I agree. A real card is more personal than an e-card."
+    },
+    {
+     "who": "Marco",
+     "voice": "buttery",
+     "text": "Great. And can you bring the cake? I'll bring the music."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Sure. But calling is slower than texting, so next time send me a message."
+    },
+    {
+     "who": "Marco",
+     "voice": "buttery",
+     "text": "Ha! Texting is quicker, but I think a call is more fun. See you Saturday at six!"
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "See you then. Bye!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Why is Marco calling?",
+     "options": [
+      "To ask about Saturday's party",
+      "To return a call",
+      "To say sorry"
+     ],
+     "answer": 0,
+     "explain": "I was just calling to ask about Saturday."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Marco gets fewer texts than Ana.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Marco: I get fewer texts than you."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Why did Ana stop talking for a moment?",
+     "options": [
+      "She had another call",
+      "Her battery died",
+      "She lost the call"
+     ],
+     "answer": 0,
+     "explain": "Just a second. I've got another call."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "Ana says a real card is more ___ than an e-card.",
+     "answers": [
+      "personal"
+     ],
+     "explain": "A real card is more personal than an e-card."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "Who is going to bring the cake?",
+     "options": [
+      "Ana",
+      "Marco",
+      "Sofía"
+     ],
+     "answer": 0,
+     "explain": "Marco: can you bring the cake?"
+    },
+    {
+     "id": "L6",
+     "type": "gap",
+     "prompt": "Marco thinks a call is more ___ than a text.",
+     "answers": [
+      "fun"
+     ],
+     "explain": "I think a call is more fun."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "I was just calling to ask about Saturday.",
+     "answers": [
+      "I was just calling to ask about Saturday."
+     ],
+     "explain": "Just suaviza: «solo llamaba para preguntar…»."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "I get more messages than I can read.",
+     "answers": [
+      "I get more messages than I can read."
+     ],
+     "explain": "more + sustantivo contable + than."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Sorry about that. So, what were you saying?",
+     "answers": [
+      "Sorry about that. So, what were you saying?"
+     ],
+     "explain": "Resuming the conversation after an interruption."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "A real card is more personal than an e-card.",
+     "answers": [
+      "A real card is more personal than an e-card."
+     ],
+     "explain": "Adjetivo largo: more + adjetivo + than."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Compare two ways of communicating with your family or friends.",
+     "questions": [
+      "How do you keep in touch with your friends?",
+      "Is texting better than calling? Why?",
+      "Which is more personal: a text or a video call?",
+      "Do you send e-cards or real cards?"
+     ],
+     "model": "I keep in touch with my friends by texting. Texting is quicker and easier than calling, but it's less personal. A video call is more fun than a text, so I video call my best friend on Sundays. I think a real card is nicer than an e-card.",
+     "checklist": [
+      "Short comparatives (quicker, easier)",
+      "more / less + long adjective",
+      "than in each comparison",
+      "An opinion with I think / In my opinion"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about your phone habits using more, less and fewer.",
+     "questions": [
+      "Who sends more messages, you or your best friend?",
+      "Do you get more or fewer calls than before?",
+      "Do you spend more time on your phone or on your laptop?",
+      "Who talks more on the phone in your family?"
+     ],
+     "model": "My best friend sends more messages than I do. I get fewer calls than before because everybody uses instant messaging. I spend more time on my phone than on my laptop. In my family, my mother talks more on the phone than my father.",
+     "checklist": [
+      "more / fewer + countable noun",
+      "more / less + uncountable noun",
+      "Verb + more / less + than",
+      "than + subject + do / does"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Practice a call with an interruption: your partner interrupts you and you resume the conversation.",
+     "questions": [
+      "Hello? Are you busy? Can you talk for a minute?",
+      "Oh, just a second, I've got another call. ... What were you saying?",
+      "Is video calling more convenient than a phone call? Why?",
+      "What are the pros and cons of video calls?"
+     ],
+     "model": "Sure, I'm just having lunch. Hold on a second ... Sorry about that. Where were we? Video calling is more convenient when you want to see someone. However, it's not as quick as a text, and the connection is sometimes slow.",
+     "checklist": [
+      "Just a second / Hold on a second to pause",
+      "What were you saying? / Where were we? to resume",
+      "However / On the other hand",
+      "not as … as"
+     ]
+    }
+   ],
+   "repeat": [
+    "Texting is quicker and easier than calling.",
+    "Real cards are more personal than e-cards.",
+    "I get fewer calls than you do.",
+    "Just a second. I've got another call.",
+    "Sorry about that. What were you saying?",
+    "In my opinion, video calling is better for close friends."
+   ]
+  }
+ }
+}

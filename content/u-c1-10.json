@@ -1,0 +1,1651 @@
+{
+ "id": "u-c1-10",
+ "level": "C1",
+ "n": 10,
+ "title": "Global challenges",
+ "goals": [
+  "Add emphasis through inversion after negative adverbs: Never have…, Rarely do…, Not only did… but…, Under no circumstances should…, Little did…",
+  "Use inversion also after only, not until and so / such, and recognise which clause is inverted.",
+  "Know when it is appropriate (and when it is not) to use inverted structures according to the register.",
+  "Talk about the environment and social problems: sustainable, mitigate, inequality, scarcity, accountable.",
+  "Propose solutions with precise collocations: tackle, curb, invest in, enforce, raise awareness.",
+  "Write a TOEFL-style argumentative essay with a thesis, arguments, a counterargument and a proposal."
+ ],
+ "learn": [
+  {
+   "id": "g-negative-inversion",
+   "kind": "grammar",
+   "title": "Inversion after negative adverbs",
+   "html": "<p>When a negative or restrictive expression is placed <strong>at the start of the sentence for emphasis</strong>, the subject and the auxiliary are inverted, just as in a question: <em>I have never seen such a thing</em> → <strong>Never have I seen</strong> such a thing. If the verb tense has no auxiliary, <em>do / does / did</em> is introduced: <em>Rarely do we see…</em>, <em>Little did they know…</em>.</p><table><thead><tr><th>Opening expression</th><th>Pattern</th><th>Example</th></tr></thead><tbody><tr><td><strong>Never / Rarely / Seldom</strong></td><td>+ auxiliary + subject + verb</td><td>Rarely do governments act before a crisis. / Never have emissions risen so fast.</td></tr><tr><td><strong>Hardly / Scarcely … when</strong></td><td>+ <em>had</em> + subject + past participle … <em>when</em></td><td>Hardly had the summit begun when protesters arrived.</td></tr><tr><td><strong>No sooner … than</strong></td><td>+ <em>had</em> + subject + past participle … <em>than</em></td><td>No sooner had she spoken than the room fell silent.</td></tr><tr><td><strong>Not only … (but also)</strong></td><td>Not only + auxiliary + subject + verb, but … (no inversion in the second part)</td><td>Not only did the plan fail, but it also widened inequality.</td></tr><tr><td><strong>Under no circumstances / On no account / At no point / In no way</strong></td><td>+ auxiliary (modal) + subject + verb</td><td>Under no circumstances should the data be shared.</td></tr><tr><td><strong>Little</strong> (= barely, not at all)</td><td>Little + <em>did</em> + subject + base verb</td><td>Little did they realise how serious it was.</td></tr><tr><td><strong>Nowhere / Not once</strong></td><td>+ auxiliary or <em>be</em> + subject</td><td>Nowhere is the damage more visible than in coastal cities.</td></tr></tbody></table><p><strong>Nuances.</strong> (1) <em>Hardly/Scarcely</em> go with <em>when</em>; <em>No sooner</em> goes with <em>than</em>; mixing them up is a very common mistake. (2) <em>Little did</em> is almost always used with verbs of knowledge or perception (<em>know, realise, imagine, suspect</em>) and usually has a dramatic or ironic tone. (3) If <em>not only</em> modifies an element other than the verb, there is no inversion: <em>Not only the minister but also the mayor resigned</em>.</p><p><strong>Register.</strong> It is a typical structure of formal written language, speeches and essays; in spontaneous conversation it is rarely heard and can sound theatrical. In an essay, one or two well-placed inversions (for example, to reinforce a key idea) add style; one in every sentence takes away naturalness.</p>",
+   "watch": [
+    {
+     "wrong": "Rarely we see politicians admit mistakes.",
+     "right": "Rarely do we see politicians admit mistakes.",
+     "why": "After the negative adverb, invert with an auxiliary: do + subject + verb."
+    },
+    {
+     "wrong": "No sooner had she arrived when the meeting began.",
+     "right": "No sooner had she arrived than the meeting began.",
+     "why": "No sooner goes with than; hardly and scarcely go with when."
+    },
+    {
+     "wrong": "Under no circumstances you should ignore the warning.",
+     "right": "Under no circumstances should you ignore the warning.",
+     "why": "Expressions starting with no require inversion: modal + subject."
+    },
+    {
+     "wrong": "Little did they realised the danger.",
+     "right": "Little did they realise the danger.",
+     "why": "After did the verb takes the base form, as in any question with did."
+    }
+   ]
+  },
+  {
+   "id": "g-only-not-until",
+   "kind": "grammar",
+   "title": "Only, not until and so / such: more cases of inversion",
+   "html": "<p>Inversion is not limited to negative adverbs. It also occurs after <strong>only + a time, manner or condition expression</strong>, after <strong>not until</strong>, and in emphatic structures with <strong>so … that / such … that</strong>.</p><table><thead><tr><th>Structure</th><th>Example</th><th>Note</th></tr></thead><tbody><tr><td>Only after / when / if / then + clause or phrase</td><td>Only after the flood did the council act.</td><td>The inversion happens in the <em>main</em> clause, not in the <em>when/after</em> clause: <em>Only when she left did he understand.</em></td></tr><tr><td>Only by / through / in this way + -ing or noun</td><td>Only by cutting emissions can we avoid the worst effects.</td><td>Very common in essays when proposing solutions.</td></tr><tr><td>Not until … + inverted main clause</td><td>Not until the ice melted did scientists grasp the scale of the problem.</td><td>Equivalent to <em>It was not until… that…</em>; the subject of the main clause goes after the auxiliary.</td></tr><tr><td>So + adjective + be + subject + that</td><td>So severe was the drought that crops failed.</td><td>Very formal; it replaces <em>The drought was so severe that…</em></td></tr><tr><td>Such + be + subject + that</td><td>Such was the scale of the problem that no country could solve it alone.</td><td>Here <em>such</em> works like an adjective: \"such was…\".</td></tr></tbody></table><p><strong>How to recognise the clause that is inverted.</strong> In <em>Not until she arrived did the meeting begin</em>, the subordinate clause (<em>she arrived</em>) keeps its normal word order; the one that is inverted is the main clause (<em>did the meeting begin</em>). A good rule: find the main verb and put the auxiliary before the subject.</p><p><strong>Alternative without inversion.</strong> <em>Only after the flood did the council act</em> can also be said as <em>The council acted only after the flood</em>: same content, more neutral tone. Inversion adds emphasis and formality.</p>",
+   "watch": [
+    {
+     "wrong": "Not until she arrived the meeting began.",
+     "right": "Not until she arrived did the meeting begin.",
+     "why": "The main clause after not until is inverted with did."
+    },
+    {
+     "wrong": "Only when did he leave the room he realised his mistake.",
+     "right": "Only when he left the room did he realise his mistake.",
+     "why": "It is the main clause that is inverted, not the one introduced by when."
+    },
+    {
+     "wrong": "So loud the music was that nobody could talk.",
+     "right": "So loud was the music that nobody could talk.",
+     "why": "With so + adjective at the start, be and the subject are inverted."
+    },
+    {
+     "wrong": "Only by acting now we can prevent disaster.",
+     "right": "Only by acting now can we prevent disaster.",
+     "why": "Only by + -ing at the start requires inversion: can + subject."
+    }
+   ]
+  },
+  {
+   "id": "g-inversion-wider",
+   "kind": "grammar",
+   "title": "Other cases of inversion and when to use them",
+   "html": "<p>Besides the patterns above, inversion appears in other formal and literary structures. Recognising them helps you read academic and journalistic texts and choose when to produce them yourself.</p><ul><li><strong>Inverted conditionals</strong> (level review): <em>Had we acted sooner, the damage would have been smaller. / Should you need help, contact us. / Were the targets stricter, emissions would fall.</em></li><li><strong>Neither / nor / so + auxiliary + subject:</strong> <em>The authorities did not respond; nor did they apologise. / The sea is rising, and so are temperatures.</em> Note: with neither/nor, the verb in the other clause takes an affirmative form.</li><li><strong>Locative inversion</strong> (subject and verb, without an auxiliary): <em>Here comes the evidence. / On the hillside stood a row of abandoned factories.</em> It is used mainly in narratives and descriptions.</li><li><strong>Formal comparison:</strong> <em>The economy grew, as did emissions.</em> (<em>as</em> + auxiliary + subject, in formal comparisons: \"and so too…\").</li></ul><p><strong>When to use it in an essay.</strong> Inversion is an emphasis device: use it to underline a key idea (a conclusion, a warning, an essential condition). Two or three well-distributed examples in a 300-word essay add style; if it appears in every sentence, the text sounds artificial and the reader loses the thread. Accuracy matters too: an incorrect inversion (<em>Rarely we see…</em>) costs more than a simple, correct construction would.</p><p><strong>For the TOEFL.</strong> Examiners value both syntactic variety <em>and</em> accuracy. A safe strategy: master three or four formulas, for example <em>Only by + -ing + can we…</em>, <em>Not only does… but also…</em>, <em>Under no circumstances should…</em> and <em>Rarely has… been…</em>, and apply them where the argument needs more force.</p>",
+   "watch": [
+    {
+     "wrong": "The sea is rising, and so temperatures are.",
+     "right": "The sea is rising, and so are temperatures.",
+     "why": "After so (= also) comes auxiliary + subject."
+    },
+    {
+     "wrong": "The authorities did not respond; nor they apologised.",
+     "right": "The authorities did not respond; nor did they apologise.",
+     "why": "Nor requires inversion: nor + auxiliary + subject."
+    },
+    {
+     "wrong": "Not only we must reduce emissions, but we must also adapt.",
+     "right": "Not only must we reduce emissions, but we must also adapt.",
+     "why": "After not only at the start, the modal + subject order is inverted."
+    },
+    {
+     "wrong": "Should you will need help, call us.",
+     "right": "Should you need help, call us.",
+     "why": "In an inverted should, the verb takes the base form, without will."
+    }
+   ]
+  },
+  {
+   "id": "s-essay",
+   "kind": "strategy",
+   "title": "Strategy: the TOEFL-style argumentative essay",
+   "html": "<p>The argumentative essay calls for a clear position, supported by reasons and examples, and a response to objections. For a topic such as \"Governments, not individuals, should solve environmental problems\", this 4- or 5-paragraph structure (≈ 300 words) works well:</p><ol><li><strong>Introduction (3–4 sentences):</strong> give context, present the problem and end with the <em>thesis</em> (<em>This essay argues that… / I firmly believe that…</em>). Avoid copying the prompt.</li><li><strong>Paragraph 1 – main argument:</strong> a <em>topic sentence</em>, the reason, a concrete example and a sentence connecting it to the thesis.</li><li><strong>Paragraph 2 – second argument:</strong> same structure; use addition connectors (<em>moreover, by the same token</em>).</li><li><strong>Paragraph 3 – counterargument and refutation:</strong> <em>Critics may argue that… There is some truth in this; nevertheless…</em></li><li><strong>Conclusion:</strong> restate the thesis in other words, summarise the arguments and offer a proposal or a projection (<em>Only by… can societies…</em>).</li></ol><p><strong>Tips:</strong> plan for 3–4 minutes before writing; one idea per paragraph; specific examples (figures, cases) are better than generalities; formal register with no contractions; check agreement, prepositions and any inversion you have used. If you have two minutes left, check only form errors; do not rewrite ideas.</p>"
+  },
+  {
+   "id": "v-environment",
+   "kind": "vocab",
+   "title": "Environment",
+   "words": [
+    {
+     "id": "w-sustainable",
+     "en": "sustainable",
+     "es": "sostenible",
+     "example": "We need a more sustainable model of food production.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-mitigate",
+     "en": "mitigate",
+     "es": "mitigar, atenuar",
+     "example": "Planting trees can help mitigate the effects of heatwaves.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-emissions",
+     "en": "emissions",
+     "es": "emisiones",
+     "example": "Transport accounts for a large share of greenhouse gas emissions.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-renewable",
+     "en": "renewable energy",
+     "es": "energía renovable",
+     "example": "Renewable energy is now cheaper than coal in many countries.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-deforestation",
+     "en": "deforestation",
+     "es": "deforestación",
+     "example": "Deforestation destroys habitats and releases stored carbon."
+    },
+    {
+     "id": "w-biodiversity",
+     "en": "biodiversity",
+     "es": "biodiversidad",
+     "example": "Coral reefs support an extraordinary degree of biodiversity."
+    },
+    {
+     "id": "w-drought",
+     "en": "drought",
+     "es": "sequía",
+     "example": "A prolonged drought left the reservoirs nearly empty.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-footprint",
+     "en": "carbon footprint",
+     "es": "huella de carbono",
+     "example": "Flying is one of the biggest parts of an individual's carbon footprint.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-fossilfuels",
+     "en": "fossil fuels",
+     "es": "combustibles fósiles",
+     "example": "Many countries plan to phase out fossil fuels by 2050.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-landfill",
+     "en": "landfill",
+     "es": "vertedero",
+     "example": "Much of this packaging ends up in landfill."
+    },
+    {
+     "id": "w-offset",
+     "en": "offset (emissions)",
+     "es": "compensar (emisiones)",
+     "example": "Some airlines let passengers offset their emissions.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-conservation",
+     "en": "conservation",
+     "es": "conservación, protección de la naturaleza",
+     "example": "Community-led conservation has protected the forest effectively.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-irreversible",
+     "en": "irreversible",
+     "es": "irreversible",
+     "example": "Scientists warn of irreversible damage to the ice sheets."
+    },
+    {
+     "id": "w-adapt",
+     "en": "adapt (to)",
+     "es": "adaptarse (a)",
+     "example": "Coastal cities must adapt to rising sea levels.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "v-society",
+   "kind": "vocab",
+   "title": "Society and global issues",
+   "words": [
+    {
+     "id": "w-inequality",
+     "en": "inequality",
+     "es": "desigualdad",
+     "example": "Income inequality has widened in most major economies.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-incomegap",
+     "en": "income gap",
+     "es": "brecha de ingresos",
+     "example": "The income gap between regions continues to grow.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-scarcity",
+     "en": "scarcity",
+     "es": "escasez",
+     "example": "Water scarcity is already a daily reality for millions."
+    },
+    {
+     "id": "w-displacement",
+     "en": "displacement",
+     "es": "desplazamiento (de población)",
+     "example": "Floods caused the displacement of thousands of families."
+    },
+    {
+     "id": "w-marginalised",
+     "en": "marginalised",
+     "es": "marginado/a",
+     "example": "Marginalised communities have the least say in these decisions."
+    },
+    {
+     "id": "w-vulnerable",
+     "en": "vulnerable",
+     "es": "vulnerable",
+     "example": "The elderly are especially vulnerable to heatwaves.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-infrastructure",
+     "en": "infrastructure",
+     "es": "infraestructura",
+     "example": "Aging infrastructure cannot cope with extreme weather.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-urbanisation",
+     "en": "urbanisation",
+     "es": "urbanización",
+     "example": "Rapid urbanisation puts pressure on housing and transport."
+    },
+    {
+     "id": "w-welfare",
+     "en": "welfare",
+     "es": "bienestar social, prestaciones",
+     "example": "Welfare systems act as a safety net in a crisis.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-stakeholder",
+     "en": "stakeholder",
+     "es": "parte interesada, actor implicado",
+     "example": "Every stakeholder, from farmers to firms, must be consulted."
+    },
+    {
+     "id": "w-ageing",
+     "en": "ageing population",
+     "es": "población que envejece",
+     "example": "An ageing population strains pension systems.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-equitable",
+     "en": "equitable",
+     "es": "equitativo",
+     "example": "An equitable transition shares the costs fairly."
+    },
+    {
+     "id": "w-accountable",
+     "en": "accountable",
+     "es": "responsable (ante alguien), que rinde cuentas",
+     "example": "Governments must be held accountable for their promises.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-access",
+     "en": "access to",
+     "es": "acceso a",
+     "example": "Access to clean water remains unequal.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "v-solutions",
+   "kind": "vocab",
+   "title": "Collocations for proposing solutions",
+   "words": [
+    {
+     "id": "w-tackle",
+     "en": "tackle a problem",
+     "es": "abordar, afrontar un problema",
+     "example": "Governments must tackle the root causes, not just the symptoms.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-curb",
+     "en": "curb emissions / spending",
+     "es": "frenar, limitar",
+     "example": "A tax could help curb emissions.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-address",
+     "en": "address an issue",
+     "es": "tratar, abordar una cuestión",
+     "example": "The summit failed to address the issue of funding.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-foster",
+     "en": "foster cooperation",
+     "es": "fomentar la cooperación",
+     "example": "Treaties can foster cooperation between rivals.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-implement",
+     "en": "implement a policy",
+     "es": "poner en práctica una política",
+     "example": "The policy was implemented too slowly.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-enforce",
+     "en": "enforce a law",
+     "es": "hacer cumplir una ley",
+     "example": "Rules mean little if nobody enforces them.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-investin",
+     "en": "invest in",
+     "es": "invertir en",
+     "example": "Cities should invest in public transport.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-subsidise",
+     "en": "subsidise",
+     "es": "subvencionar",
+     "example": "The state could subsidise solar panels for poorer households."
+    },
+    {
+     "id": "w-phaseout",
+     "en": "phase out",
+     "es": "eliminar gradualmente",
+     "example": "Plastic bags were phased out over three years.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-raiseawareness",
+     "en": "raise awareness",
+     "es": "concienciar, sensibilizar",
+     "example": "Campaigns can raise awareness of food waste.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-holdaccountable",
+     "en": "hold sb accountable",
+     "es": "pedir cuentas a alguien",
+     "example": "Voters must hold polluters accountable.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-leadbyexample",
+     "en": "lead by example",
+     "es": "dar ejemplo",
+     "example": "Wealthy nations should lead by example.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "e-essay",
+   "kind": "expressions",
+   "title": "Expressions for arguing and proposing solutions",
+   "html": "<ul><li><strong>A growing body of evidence suggests that…</strong> — backing a claim with data, in an academic way.</li><li><strong>It is widely acknowledged that…</strong> — presenting a consensus.</li><li><strong>Critics may argue that…; there is some truth in this, yet…</strong> — conceding and refuting.</li><li><strong>A more effective approach would be to…</strong> — proposing an alternative.</li><li><strong>Only by + -ing can we / can societies…</strong> — emphasising an essential condition.</li><li><strong>Failure to + verb will result in / lead to…</strong> — warning about consequences.</li><li><strong>In the long run / In the short term, …</strong> — placing effects in time.</li><li><strong>Rarely has … been so … / Never before has…</strong> — stressing the exceptional with inversion.</li><li><strong>Taking everything into account, … / On balance, …</strong> — closing with an evaluation.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Inversion: complete with the correct auxiliary or word",
+   "instructions": "Write the missing word (one only) to complete the inversion.",
+   "topic": "g-negative-inversion",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "Rarely ___ we seen such rapid change in so short a time.",
+     "answers": [
+      "have"
+     ],
+     "explain": "Rarely + have + subject + past participle."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Under no circumstances ___ you leave the laboratory unlocked.",
+     "answers": [
+      "should",
+      "must",
+      "may",
+      "can",
+      "will"
+     ],
+     "explain": "Under no circumstances + modal + subject + verb."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "Not only ___ the plan cut emissions, but it also saves money.",
+     "answers": [
+      "does"
+     ],
+     "explain": "Not only + does + subject + base verb."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "Hardly ___ the summit begun when protesters arrived.",
+     "answers": [
+      "had"
+     ],
+     "explain": "Hardly + had + subject + past participle … when."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "No sooner had the rain stopped ___ the river burst its banks.",
+     "answers": [
+      "than"
+     ],
+     "explain": "No sooner … than."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "Little ___ they know that the dam would fail.",
+     "answers": [
+      "did"
+     ],
+     "explain": "Little + did + subject + base verb."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "Never before ___ the world faced a crisis of this scale.",
+     "answers": [
+      "has"
+     ],
+     "explain": "Never before + has + subject + past participle."
+    },
+    {
+     "id": "A8",
+     "type": "gap",
+     "prompt": "At no point ___ the minister admit responsibility.",
+     "answers": [
+      "did"
+     ],
+     "explain": "At no point + did + subject + base verb."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Choose the correct form",
+   "instructions": "Choose the grammatically correct option.",
+   "topic": "g-negative-inversion",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "Seldom ___ such cooperation between rival nations.",
+     "options": [
+      "do we see",
+      "we see",
+      "we do see"
+     ],
+     "answer": 0,
+     "explain": "Seldom + do + subject + verb."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "No sooner had we left ___ it started to pour.",
+     "options": [
+      "when",
+      "than",
+      "that"
+     ],
+     "answer": 1,
+     "explain": "No sooner goes with than."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "Not only he ignored the warnings, but he also made it worse.",
+      "Not only did he ignore the warnings, but he also made it worse.",
+      "Not only did he ignored the warnings, but he also made it worse."
+     ],
+     "answer": 1,
+     "explain": "Not only + did + subject + base verb; the second part is not inverted."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "Nowhere ___ more evident than in coastal cities.",
+     "options": [
+      "the damage is",
+      "is the damage",
+      "does the damage"
+     ],
+     "answer": 1,
+     "explain": "Nowhere + be + subject."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "On no account ___ the samples be exposed to light.",
+     "options": [
+      "should",
+      "they should",
+      "do"
+     ],
+     "answer": 0,
+     "explain": "On no account + modal + subject + verb."
+    },
+    {
+     "id": "B6",
+     "type": "choice",
+     "prompt": "Hardly had she finished speaking ___ the audience applauded.",
+     "options": [
+      "than",
+      "when",
+      "then"
+     ],
+     "answer": 1,
+     "explain": "Hardly goes with when."
+    },
+    {
+     "id": "B7",
+     "type": "choice",
+     "prompt": "Little ___ about the consequences.",
+     "options": [
+      "he cared",
+      "did he care",
+      "he did care"
+     ],
+     "answer": 1,
+     "explain": "Little + did + subject + base verb."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Find the mistake",
+   "instructions": "Each sentence contains an inversion error. Write the corrected sentence.",
+   "topic": "g-negative-inversion",
+   "items": [
+    {
+     "id": "C1",
+     "type": "fix",
+     "prompt": "Rarely we see politicians admit mistakes.",
+     "answers": [
+      "Rarely do we see politicians admit mistakes.",
+      "Rarely do we see politicians admitting mistakes."
+     ],
+     "explain": "Rarely requires an auxiliary before the subject."
+    },
+    {
+     "id": "C2",
+     "type": "fix",
+     "prompt": "Not only the company polluted the river, but it also lied about it.",
+     "answers": [
+      "Not only did the company pollute the river, but it also lied about it."
+     ],
+     "explain": "Not only + did + subject + base verb."
+    },
+    {
+     "id": "C3",
+     "type": "fix",
+     "prompt": "No sooner had she arrived when the meeting began.",
+     "answers": [
+      "No sooner had she arrived than the meeting began.",
+      "No sooner had she arrived than the meeting started."
+     ],
+     "explain": "No sooner … than."
+    },
+    {
+     "id": "C4",
+     "type": "fix",
+     "prompt": "Under no circumstances you should ignore the warning.",
+     "answers": [
+      "Under no circumstances should you ignore the warning.",
+      "Under no circumstances must you ignore the warning."
+     ],
+     "explain": "Under no circumstances + modal + subject."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "Little did they realised the danger.",
+     "answers": [
+      "Little did they realise the danger.",
+      "Little did they realize the danger."
+     ],
+     "explain": "After did, the verb takes the base form."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "Never I have seen such a polluted beach.",
+     "answers": [
+      "Never have I seen such a polluted beach."
+     ],
+     "explain": "Never + have + subject + past participle."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "Hardly the factory had opened than it was fined.",
+     "answers": [
+      "Hardly had the factory opened when it was fined."
+     ],
+     "explain": "Hardly + had + subject + past participle … when."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Only, not until, so / such",
+   "instructions": "Complete with one word only to form the correct inversion.",
+   "topic": "g-only-not-until",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "Only after the flood ___ the council act.",
+     "answers": [
+      "did"
+     ],
+     "explain": "Only after + did + subject + base verb."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "Not until the ice melted ___ the scientists realise how fast it was shrinking.",
+     "answers": [
+      "did"
+     ],
+     "explain": "Not until + clause, then did + subject."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "So severe ___ the drought that crops failed across the region.",
+     "answers": [
+      "was"
+     ],
+     "explain": "So + adjective + be + subject + that."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "Only by cutting emissions now ___ we avoid the worst effects.",
+     "answers": [
+      "can",
+      "could",
+      "will",
+      "shall"
+     ],
+     "explain": "Only by + -ing + modal + subject."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "Not until 2015 ___ the agreement signed.",
+     "answers": [
+      "was"
+     ],
+     "explain": "Not until + time expression + auxiliary/be + subject."
+    },
+    {
+     "id": "D6",
+     "type": "gap",
+     "prompt": "Such ___ the scale of the problem that no single country can solve it.",
+     "answers": [
+      "is",
+      "was"
+     ],
+     "explain": "Such + be + subject + that."
+    },
+    {
+     "id": "D7",
+     "type": "gap",
+     "prompt": "Only when everyone cooperates ___ real progress be possible.",
+     "answers": [
+      "will",
+      "can",
+      "shall"
+     ],
+     "explain": "Only when + clause, then modal + subject."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: the environment",
+   "instructions": "Complete with the correct word.",
+   "topic": "v-environment",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "Cutting ___ from transport is essential if we want to slow warming. (emitted gases)",
+     "answers": [
+      "emissions"
+     ],
+     "explain": "Emissions = the release of gases into the atmosphere."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "The country plans to phase out ___ fuels by 2040.",
+     "answers": [
+      "fossil"
+     ],
+     "explain": "Fossil fuels."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "Replanting native species can help restore local ___, the variety of living things in an area.",
+     "answers": [
+      "biodiversity"
+     ],
+     "explain": "Biodiversity."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "After a year without rain, the whole region was in a severe ___.",
+     "answers": [
+      "drought"
+     ],
+     "explain": "Drought = a long period with little or no rain."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "Cities need measures to ___ to hotter summers and heavier storms.",
+     "answers": [
+      "adapt"
+     ],
+     "explain": "Adapt to."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "Planting mangroves helps ___ the impact of storm surges.",
+     "answers": [
+      "mitigate"
+     ],
+     "explain": "Mitigate = to lessen the severity of something."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "Most of the packaging ends up in ___, where it takes centuries to decompose.",
+     "answers": [
+      "landfill"
+     ],
+     "explain": "Landfill = a site where waste is buried."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Vocabulary: society and solutions",
+   "instructions": "Choose the correct option.",
+   "topic": "v-society",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "Governments must ___ the root causes of poverty, not just its symptoms.",
+     "options": [
+      "tackle",
+      "offset",
+      "subsidise"
+     ],
+     "answer": 0,
+     "explain": "Tackle a problem / root causes."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "A carbon tax could help ___ emissions.",
+     "options": [
+      "curb",
+      "foster",
+      "enforce"
+     ],
+     "answer": 0,
+     "explain": "Curb emissions = to reduce or restrain emissions."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "Water ___ is a growing problem in dry regions.",
+     "options": [
+      "scarcity",
+      "welfare",
+      "infrastructure"
+     ],
+     "answer": 0,
+     "explain": "Scarcity = a shortage of something."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "The ___ between rich and poor households keeps widening.",
+     "options": [
+      "income gap",
+      "landfill",
+      "footprint"
+     ],
+     "answer": 0,
+     "explain": "Income gap = the difference in income between groups."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "Voters must hold polluters ___.",
+     "options": [
+      "accountable",
+      "sustainable",
+      "irreversible"
+     ],
+     "answer": 0,
+     "explain": "Hold sb accountable."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "The state could ___ solar panels for low-income homes.",
+     "options": [
+      "subsidise",
+      "mitigate",
+      "deforest"
+     ],
+     "answer": 0,
+     "explain": "Subsidise = to pay part of the cost to make something cheaper."
+    },
+    {
+     "id": "F7",
+     "type": "choice",
+     "prompt": "An ___ transition ensures that costs are shared fairly.",
+     "options": [
+      "equitable",
+      "irreversible",
+      "marginalised"
+     ],
+     "answer": 0,
+     "explain": "Equitable = fair and just."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Order the sentences",
+   "instructions": "Put the words in order to form a correct sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "Rarely",
+      "do",
+      "governments",
+      "act",
+      "before",
+      "a",
+      "crisis",
+      "occurs"
+     ],
+     "answers": [
+      "Rarely do governments act before a crisis occurs."
+     ],
+     "explain": "Rarely + do + subject + verb."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "Not",
+      "only",
+      "did",
+      "the",
+      "policy",
+      "fail,",
+      "but",
+      "it",
+      "also",
+      "widened",
+      "inequality"
+     ],
+     "answers": [
+      "Not only did the policy fail, but it also widened inequality.",
+      "Not only did the policy fail but it also widened inequality."
+     ],
+     "explain": "Not only + did + subject; the second part is not inverted."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "Under",
+      "no",
+      "circumstances",
+      "should",
+      "emissions",
+      "targets",
+      "be",
+      "weakened"
+     ],
+     "answers": [
+      "Under no circumstances should emissions targets be weakened."
+     ],
+     "explain": "Under no circumstances + modal + subject + passive."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "Only",
+      "by",
+      "working",
+      "together",
+      "can",
+      "nations",
+      "mitigate",
+      "climate",
+      "change"
+     ],
+     "answers": [
+      "Only by working together can nations mitigate climate change."
+     ],
+     "explain": "Only by + -ing + can + subject."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "No",
+      "sooner",
+      "had",
+      "the",
+      "plant",
+      "opened",
+      "than",
+      "residents",
+      "complained",
+      "about",
+      "the",
+      "smell"
+     ],
+     "answers": [
+      "No sooner had the plant opened than residents complained about the smell."
+     ],
+     "explain": "No sooner had … than."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "So",
+      "severe",
+      "was",
+      "the",
+      "shortage",
+      "that",
+      "schools",
+      "had",
+      "to",
+      "close"
+     ],
+     "answers": [
+      "So severe was the shortage that schools had to close."
+     ],
+     "explain": "So + adjective + be + subject + that."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate, using inversion where indicated or where it is natural.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Rara vez vemos a los gobiernos actuar antes de una crisis.",
+     "answers": [
+      "Rarely do we see governments act before a crisis.",
+      "Rarely do we see governments acting before a crisis.",
+      "Seldom do we see governments act before a crisis.",
+      "Seldom do we see governments acting before a crisis.",
+      "Rarely do we see governments take action before a crisis.",
+      "Seldom do we see governments take action before a crisis."
+     ],
+     "explain": "Rarely/Seldom + do + subject + verb."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "La fábrica no solo contamina el río, sino que además daña la salud pública.",
+     "answers": [
+      "Not only does the factory pollute the river, but it also harms public health.",
+      "Not only does the factory pollute the river, but it also damages public health.",
+      "Not only does the factory pollute the river but it also harms public health.",
+      "Not only does the factory pollute the river but it also damages public health."
+     ],
+     "explain": "Not only + does + subject + base verb."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Solo mediante la cooperación internacional podremos reducir las emisiones.",
+     "answers": [
+      "Only through international cooperation can we reduce emissions.",
+      "Only by means of international cooperation can we reduce emissions.",
+      "Only through international cooperation will we be able to reduce emissions.",
+      "Only through international cooperation could we reduce emissions.",
+      "Only by international cooperation can we reduce emissions."
+     ],
+     "explain": "Only through + noun + can + subject."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Bajo ninguna circunstancia debería permitirse la tala ilegal.",
+     "answers": [
+      "Under no circumstances should illegal logging be allowed.",
+      "Under no circumstances should illegal logging be permitted.",
+      "Under no circumstances should illegal deforestation be allowed.",
+      "Under no circumstances should illegal deforestation be permitted."
+     ],
+     "explain": "Under no circumstances + should + subject + passive."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Apenas había terminado la cumbre cuando los líderes olvidaron sus promesas.",
+     "answers": [
+      "Hardly had the summit ended when the leaders forgot their promises.",
+      "No sooner had the summit ended than the leaders forgot their promises.",
+      "Scarcely had the summit ended when the leaders forgot their promises.",
+      "Hardly had the summit finished when the leaders forgot their promises.",
+      "No sooner had the summit finished than the leaders forgot their promises."
+     ],
+     "explain": "Hardly … when / No sooner … than."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Ni siquiera imaginaban que el nivel del mar subiría tan rápido.",
+     "answers": [
+      "Little did they imagine that sea levels would rise so fast.",
+      "Little did they imagine that sea levels would rise so quickly.",
+      "Little did they imagine that the sea level would rise so fast.",
+      "Little did they imagine that the sea level would rise so quickly.",
+      "Little did they imagine sea levels would rise so fast.",
+      "Little did they imagine sea levels would rise so quickly."
+     ],
+     "explain": "Little did + subject + base verb (a verb of knowledge)."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on various topics from the unit (including a review of units 4 and 9 of this level).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "Never has the gap between rich and poor been so wide.",
+      "Never the gap between rich and poor has been so wide.",
+      "Never has been the gap between rich and poor so wide."
+     ],
+     "answer": 0,
+     "explain": "Never + has + subject + past participle."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Not until the reservoirs were empty ___ the city introduce water restrictions.",
+     "answers": [
+      "did"
+     ],
+     "explain": "Not until + clause, then did + subject."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "Only by invest in renewables we can reduce our dependence on coal.",
+     "answers": [
+      "Only by investing in renewables can we reduce our dependence on coal."
+     ],
+     "explain": "Only by + -ing, then can + subject."
+    },
+    {
+     "id": "M4",
+     "type": "fix",
+     "prompt": "Under no circumstances the company should hide its emissions data.",
+     "answers": [
+      "Under no circumstances should the company hide its emissions data."
+     ],
+     "explain": "Modal inversion + subject."
+    },
+    {
+     "id": "M5",
+     "type": "gap",
+     "prompt": "Governments should ___ in public transport to cut car use. (invest)",
+     "answers": [
+      "invest"
+     ],
+     "explain": "Invest in + noun."
+    },
+    {
+     "id": "M6",
+     "type": "choice",
+     "prompt": "'Marginalised' communities are those that:",
+     "options": [
+      "are excluded from decisions and resources",
+      "produce the most emissions",
+      "live in coastal areas"
+     ],
+     "answer": 0,
+     "explain": "Marginalised = excluded or pushed to the edges of society."
+    },
+    {
+     "id": "M7",
+     "type": "translate",
+     "prompt": "Tal era la gravedad de la situación que se declaró el estado de emergencia.",
+     "answers": [
+      "Such was the severity of the situation that a state of emergency was declared.",
+      "Such was the seriousness of the situation that a state of emergency was declared.",
+      "Such was the gravity of the situation that a state of emergency was declared."
+     ],
+     "explain": "Such was + noun + that."
+    },
+    {
+     "id": "M8",
+     "type": "choice",
+     "prompt": "Which is the most appropriate for the conclusion of a formal essay?",
+     "options": [
+      "Only by acting collectively can societies hope to avert the worst outcomes.",
+      "So yeah, we gotta do something about it.",
+      "You should totally care about this stuff."
+     ],
+     "answer": 0,
+     "explain": "Formal register and emphasis through inversion."
+    },
+    {
+     "id": "M9",
+     "type": "choice",
+     "prompt": "(Unit 4 review) The glacier is thought ___ by more than a third over the last century.",
+     "options": [
+      "to have shrunk",
+      "to shrink",
+      "shrinking"
+     ],
+     "answer": 0,
+     "explain": "It is thought that… → X is thought to have + past participle."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "(Unit 9 review) The plan is ambitious; ___, it is seriously underfunded.",
+     "answers": [
+      "however",
+      "nevertheless",
+      "nonetheless",
+      "even so",
+      "that said"
+     ],
+     "explain": "Contrast connector."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "TOEFL-style argumentative essay (300 to 350 words). Topic: 'Some people believe that governments should be mainly responsible for solving environmental problems. Others believe that individuals can make the biggest difference. Which view do you support? Use specific reasons and examples.' Present a clear thesis, develop two arguments with examples, respond to an objection and conclude with a proposal.",
+   "targets": [
+    "inversion after negative adverbs and only / not until",
+    "argumentative essay structure",
+    "environment and society vocabulary",
+    "collocations for proposing solutions"
+   ],
+   "checklist": [
+    "Introduction with a clear thesis",
+    "One paragraph per argument, with a topic sentence and a concrete example",
+    "Counterargument acknowledged and refuted (Critics may argue that…; nevertheless…)",
+    "At least two correct inversions (Not only does…, Only by… can…, Rarely has…, Under no circumstances should…)",
+    "At least three solution collocations (tackle, curb, invest in, enforce, raise awareness…)",
+    "Conclusion with a proposal (Only by … can societies…)",
+    "Formal register, no contractions, varied connectors",
+    "Between 300 and 350 words"
+   ],
+   "model": "Environmental problems, from rising sea levels to plastic pollution, are among the most pressing challenges of our age, and the question of who should bear the main responsibility for solving them is hotly debated. Although individual choices matter, I firmly believe that governments should lead the effort, because only they have the power, resources and authority to bring about change on the necessary scale.\n\nThe first reason is that governments alone can enforce rules that apply to everyone. Not only does legislation set binding limits on industrial emissions, but it also creates a level playing field, so that responsible companies are not punished for doing the right thing. Consider the international ban on ozone-damaging chemicals agreed in the 1980s: it succeeded largely because it was enforced by national authorities, and the hole in the ozone layer is now slowly healing. Voluntary action by millions of individuals could never have achieved that result so quickly.\n\nThe second reason concerns investment. Tackling climate change requires enormous funding for renewable energy, public transport and research. Rarely has a private citizen been able to build a wind farm or electrify a railway network. By contrast, governments can invest in infrastructure that makes sustainable behaviour the easy choice, for example by providing affordable trains that persuade commuters to leave their cars at home.\n\nCritics may argue that individuals ultimately drive demand, and that consumers who change their habits can transform entire markets. There is some truth in this. Nevertheless, personal choices are heavily shaped by the options available, and it is unrealistic to expect people to choose clean alternatives that do not exist or are unaffordable. Individuals can raise awareness and put pressure on politicians, but they cannot replace policy.\n\nUnder no circumstances should governments use individual responsibility as an excuse for inaction. Instead, they should curb emissions through taxation, subsidise green technology and educate citizens. Only by combining firm legislation with public engagement can societies protect the planet for future generations."
+  },
+  {
+   "id": "W2",
+   "prompt": "Second argumentative essay (250 to 300 words). Topic: 'Wealthier countries have a greater responsibility than poorer countries to reduce environmental damage. Do you agree or disagree?' Defend your position, propose at least two solutions and use inversion in moderation.",
+   "targets": [
+    "inversion (Not only, Little did, Hardly… when)",
+    "proposing solutions",
+    "inequality and global responsibility",
+    "cohesion and connectors"
+   ],
+   "checklist": [
+    "Clear position from the introduction",
+    "Two arguments developed with examples",
+    "Two concrete solutions using the vocabulary of the block",
+    "One concession (Admittedly / There is some truth in…)",
+    "One or two well-placed, correct inversions, without overusing them",
+    "Nominalisations or connectors from the previous unit (nevertheless, by the same token, hence)",
+    "Conclusion that restates the thesis",
+    "Between 250 and 300 words"
+   ],
+   "model": "I strongly agree that wealthier countries bear a greater responsibility for reducing environmental damage. This is not a matter of charity but of fairness, since the countries that have contributed most to the problem also have the most resources to address it.\n\nFirst, wealthy nations are historically responsible for the bulk of greenhouse gas emissions. Having industrialised two centuries ago on coal and oil, they built their prosperity at the expense of the atmosphere, and the cost is now being borne disproportionately by poorer nations. Island states and drought-stricken regions, which have contributed almost nothing to global warming, are the first to suffer its effects. By the same token, it would be unjust to ask them to slow their own development while others continue to consume far more.\n\nSecond, richer countries have the capacity to act. Not only can they afford clean technology, but they can also develop it. Hence they should lead in research and share their innovations rather than protect them with patents.\n\nTwo solutions seem particularly important. Firstly, wealthier governments should honour their pledges to finance climate adaptation in developing countries, and increase them in line with their emissions. Secondly, they should transfer renewable energy technology at low cost so that poorer economies can skip the polluting stage altogether.\n\nAdmittedly, there is some truth in the argument that rapidly growing economies, such as China and India, now produce large quantities of emissions, and they cannot be exempt from all responsibility. Nevertheless, per head of population their emissions remain far below those of the richest nations.\n\nIn conclusion, those who have benefited most from polluting should do the most to repair the damage. Only by accepting this principle can the world hope to reach a fair and effective agreement."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Thinking globally, acting locally?",
+   "intro": "Read the essay and answer the questions.",
+   "paragraphs": [
+    "It has become fashionable to say that the world's problems are too large for any individual to solve, and fashionable, too, to answer that every little helps. Both positions contain a grain of truth, yet neither tells us much about how real change happens. Global challenges such as climate change, inequality and the loss of biodiversity are not simply large versions of everyday problems; they are tangled together, and the solution to one often aggravates another.",
+    "Take the transition to renewable energy. Few people would dispute that cutting emissions is urgent, and the technology to do so exists. Yet the minerals needed for batteries are mined mostly in poorer countries, often in conditions that harm local communities and ecosystems. Not only does this raise questions of fairness; it also threatens to undermine public support for the transition itself. Rarely is it acknowledged in political speeches that the cleanest option on paper may carry hidden costs elsewhere.",
+    "Inequality complicates matters further. Wealthier households produce far more emissions per person than poorer ones, but it is the poor who are most exposed to floods, heatwaves and failed harvests, and who have the fewest resources with which to adapt. Little did the architects of early industrial economies imagine that the benefits of cheap energy would be enjoyed by some while the bill was sent to others. Climate policy that ignores this imbalance risks being not merely unfair but ineffective, because people who feel they are paying for other people's comfort will not support it for long.",
+    "What, then, should be done? A growing body of evidence suggests that no single measure will suffice. Carbon pricing can change behaviour, but only if the revenue is used visibly, for instance to protect low-income households from higher bills. Investment in public transport and energy-efficient housing delivers benefits that people can feel within a few years, which matters politically. Conservation works best when local communities are partners rather than obstacles: in several regions, forests managed by the people who live in them have lost less woodland than strictly protected reserves. Such examples show that sustainability is as much a question of governance as of technology.",
+    "Critics may argue that these ideas are naive, since governments face short election cycles and powerful industries resist change. There is some force in this objection. Nevertheless, history offers encouraging precedents: the rapid phase-out of ozone-damaging chemicals shows that international cooperation is possible when costs are shared fairly and verification is credible. Not until the evidence became undeniable, however, did governments act, and that delay is itself the lesson. Only by treating prevention as cheaper than repair can societies escape the habit of responding to crises after the damage is done.",
+    "None of this absolves individuals. Choices about travel, diet and consumption matter, if only because they shape what is politically acceptable. But the idea that personal virtue can substitute for collective action is, at best, a comforting distraction. The most useful role for individuals may be to demand, vote for and support the large-scale changes that no household can deliver alone."
+   ],
+   "glossary": [
+    {
+     "en": "aggravate",
+     "def": "to make something worse"
+    },
+    {
+     "en": "tangled together",
+     "def": "interlinked, closely connected"
+    },
+    {
+     "en": "harvest",
+     "def": "a harvest; the crop gathered in a season"
+    },
+    {
+     "en": "carbon pricing",
+     "def": "putting a price on carbon emissions, for example through taxes or emissions trading schemes"
+    },
+    {
+     "en": "woodland",
+     "def": "forest or wooded area"
+    },
+    {
+     "en": "precedent",
+     "def": "an earlier case that serves as a guide or example"
+    },
+    {
+     "en": "verification",
+     "def": "a check to confirm that something is true or correct"
+    },
+    {
+     "en": "absolve",
+     "def": "to free someone from blame or responsibility"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "What is the main point of the first paragraph?",
+     "options": [
+      "Individual action is pointless",
+      "Global problems are interconnected, so solutions can conflict",
+      "Everyday problems are easy to solve"
+     ],
+     "answer": 1,
+     "explain": "The problems are interlinked, and solving one can make another worse."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "The minerals needed for batteries are mostly mined in wealthy countries.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Says they are mostly extracted in poorer countries."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Why might ignoring inequality make climate policy ineffective?",
+     "options": [
+      "Rich people refuse to pay any tax",
+      "People who feel they bear unfair costs will stop supporting it",
+      "Poor households produce most emissions"
+     ],
+     "answer": 1,
+     "explain": "People who feel they are paying for other people's comfort will not support it for long."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "Forests managed by local people have lost less ___ than strictly protected reserves.",
+     "answers": [
+      "woodland"
+     ],
+     "explain": "«have lost less woodland than strictly protected reserves»."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "What does the ozone example show?",
+     "options": [
+      "Cooperation is possible when costs are shared fairly and verification is credible",
+      "Governments always act quickly",
+      "Industry never resists change"
+     ],
+     "answer": 0,
+     "explain": "Es el precedente alentador citado por el autor."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "The writer claims that individual choices are irrelevant.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Says they matter, although they do not replace collective action."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "How does the writer treat the critics' objection?",
+     "options": [
+      "He ignores it",
+      "He accepts some of it but answers it",
+      "He fully agrees with it"
+     ],
+     "answer": 1,
+     "explain": "«There is some force in this objection. Nevertheless…»"
+    }
+   ]
+  },
+  "listening": {
+   "title": "A low-emission zone for the city centre",
+   "intro": "Listen to the debate at a town council meeting. You can repeat it.",
+   "lines": [
+    {
+     "who": "Chair",
+     "voice": "buttery",
+     "text": "Good evening, everyone, and thank you for coming. Tonight we're discussing the proposed low-emission zone in the city centre. Councillor Ortiz, would you like to begin?"
+    },
+    {
+     "who": "Councillor Ortiz",
+     "voice": "airy",
+     "text": "Thank you. Let me be clear about the problem. Air quality in the centre has exceeded the legal limit on more than ninety days this year. Never before have we recorded figures like these."
+    },
+    {
+     "who": "Councillor Ortiz",
+     "voice": "airy",
+     "text": "The plan is simple: older, polluting vehicles would pay a daily charge, and the revenue would go straight into cheaper buses and cycle lanes."
+    },
+    {
+     "who": "Chair",
+     "voice": "buttery",
+     "text": "Thank you. Mr Hale, you run a delivery business. What's your take?"
+    },
+    {
+     "who": "Mr Hale",
+     "voice": "glassy",
+     "text": "Honestly, I'm torn. Something has to change, I agree, but small firms like mine can't replace a van overnight. Not only would the charge hit our margins, but it would also push prices up for customers."
+    },
+    {
+     "who": "Councillor Ortiz",
+     "voice": "airy",
+     "text": "That's a fair concern, and it's why we're proposing a two-year grace period and grants for cleaner vehicles."
+    },
+    {
+     "who": "Mr Hale",
+     "voice": "glassy",
+     "text": "Grants help, but they never seem to cover the full cost. Only when the grant covers at least half the price will most of us be able to switch."
+    },
+    {
+     "who": "Chair",
+     "voice": "buttery",
+     "text": "Councillor, is that something the council can do?"
+    },
+    {
+     "who": "Councillor Ortiz",
+     "voice": "airy",
+     "text": "We're looking into it. Had we more funding, we'd offer it tomorrow, but there are trade-offs. Under no circumstances do we want to burden the people who can least afford it."
+    },
+    {
+     "who": "Mr Hale",
+     "voice": "glassy",
+     "text": "Then why not start with the buses? Fix the service first and people will leave their cars at home voluntarily."
+    },
+    {
+     "who": "Councillor Ortiz",
+     "voice": "airy",
+     "text": "Sensible in theory, but rarely does it work in practice. Not until driving becomes costly do most people try the alternatives. The evidence from other cities is quite consistent."
+    },
+    {
+     "who": "Chair",
+     "voice": "buttery",
+     "text": "So the real question is sequencing. Mr Hale, would a phased approach change your view?"
+    },
+    {
+     "who": "Mr Hale",
+     "voice": "glassy",
+     "text": "It would. If the grace period is genuine and the grants are real, I'd back it. Little did I expect to say that when I walked in, mind you."
+    },
+    {
+     "who": "Chair",
+     "voice": "buttery",
+     "text": "Understood. Let's put that on the record and move to a vote after the break."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Why is the council proposing the zone?",
+     "options": [
+      "Air quality has exceeded the legal limit on more than ninety days",
+      "Traffic has fallen too much",
+      "The city needs more parking"
+     ],
+     "answer": 0,
+     "explain": "«exceeded the legal limit on more than ninety days»."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What would happen to the money raised by the charge?",
+     "options": [
+      "It would go to cheaper buses and cycle lanes",
+      "It would go to delivery firms",
+      "It would reduce local taxes"
+     ],
+     "answer": 0,
+     "explain": "It would go to cheaper buses and bike lanes."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What is Mr Hale's main worry?",
+     "options": [
+      "Small firms cannot replace vehicles quickly and prices may rise",
+      "The council has too much funding",
+      "Nobody uses buses"
+     ],
+     "answer": 0,
+     "explain": "Small businesses can't switch vans overnight."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "The council proposes a ___-year grace period.",
+     "answers": [
+      "two",
+      "2"
+     ],
+     "explain": "«a two-year grace period»."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "Why does Councillor Ortiz reject starting with the buses?",
+     "options": [
+      "The evidence suggests people rarely change until driving becomes costly",
+      "Buses are too expensive to improve",
+      "Nobody has complained about the service"
+     ],
+     "answer": 0,
+     "explain": "«Not until driving becomes costly do most people try the alternatives»."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "Mr Hale remains completely opposed at the end.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Says they would support it if the grace period and the subsidies are real."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Never before have we recorded figures like these.",
+     "answers": [
+      "Never before have we recorded figures like these."
+     ],
+     "explain": "Never before + have + sujeto + participio."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Not only would the charge hit our margins, but it would also push prices up.",
+     "answers": [
+      "Not only would the charge hit our margins, but it would also push prices up."
+     ],
+     "explain": "Not only + would + subject + base verb."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Under no circumstances do we want to burden the people who can least afford it.",
+     "answers": [
+      "Under no circumstances do we want to burden the people who can least afford it."
+     ],
+     "explain": "Under no circumstances + do + subject + base verb."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Only when the grant covers at least half the price will most of us be able to switch.",
+     "answers": [
+      "Only when the grant covers at least half the price will most of us be able to switch."
+     ],
+     "explain": "Only when + clause, then will + subject."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Present your position on a global challenge (climate change, inequality, water scarcity…) and defend it with two reasons.",
+     "questions": [
+      "Which global challenge worries you most?",
+      "Why is it so urgent?",
+      "Who is mainly responsible for dealing with it?",
+      "Are you optimistic about the future?"
+     ],
+     "model": "For me, water scarcity is the most pressing challenge, particularly in a country like Mexico. Rarely does it make the headlines until a crisis hits, yet millions of people are already affected. Not only is it a question of health; it also fuels inequality, since the poorest households pay the most for water. In my opinion, responsibility lies mainly with governments, but I'm cautiously optimistic, because awareness is growing.",
+     "checklist": [
+      "Clear thesis (For me… / In my view…)",
+      "At least one inversion (Rarely / Not only…)",
+      "Two reasons with because / since",
+      "Vocabulary of society or the environment"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Propose three concrete solutions to an environmental or social problem and explain which one would be the most effective.",
+     "questions": [
+      "What would you do first to tackle this problem?",
+      "How would it be funded?",
+      "What obstacles might there be?",
+      "Which measure is the most effective in the long run?"
+     ],
+     "model": "I'd propose three measures. First, governments should invest in public transport and subsidise cleaner vehicles. Second, they should enforce stricter limits on industrial emissions. Third, campaigns should raise awareness among consumers. Only by combining all three can we expect real results. If I had to choose one, I'd say the investment in public transport is the most effective in the long run, since it changes habits and cuts emissions at the same time.",
+     "checklist": [
+      "Collocations from the block (tackle, curb, invest in, enforce…)",
+      "Clear order: first, second, third",
+      "Only by + -ing + can… or another inversion",
+      "Justification of the most effective measure"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Respond to an objection: someone says 'individual action is pointless because companies cause most pollution'. Concede a point and refute it.",
+     "questions": [
+      "Isn't individual action pointless compared with what companies do?",
+      "Don't governments need to act first?",
+      "What can ordinary people realistically do?",
+      "Do you think things will change?"
+     ],
+     "model": "There is some truth in that: companies and governments are responsible for the bulk of emissions. Nevertheless, individual action is far from pointless. Under no circumstances should we use it as an excuse to wait for others. Our choices shape demand, and, what is more, they influence what voters expect from politicians. So the most effective approach is a combination: personal habits plus pressure on those with power.",
+     "checklist": [
+      "Concession (There is some truth in that…)",
+      "Refutation with nevertheless / however",
+      "One inversion (Under no circumstances…, Not only…)",
+      "Closing with a proposal"
+     ]
+    }
+   ],
+   "repeat": [
+    "Rarely do governments act before a crisis occurs.",
+    "Not only does it harm the environment, but it also widens inequality.",
+    "Under no circumstances should emissions targets be weakened.",
+    "Only by working together can nations mitigate climate change.",
+    "Little did they realise how serious the situation was.",
+    "No sooner had the plant opened than residents complained."
+   ]
+  }
+ }
+}

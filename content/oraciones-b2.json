@@ -1,0 +1,1865 @@
+{
+ "level": "B2",
+ "attribution": "Tatoeba.org (CC BY 2.0 FR)",
+ "pairs": [
+  {
+   "id": "t9183164",
+   "en": "I saw a zebra at the zoo.",
+   "es": "Vi una cebra en el zoo.",
+   "alts": []
+  },
+  {
+   "id": "t11253549",
+   "en": "I saw an owl at my window.",
+   "es": "Vi una lechuza en mi ventana.",
+   "alts": []
+  },
+  {
+   "id": "t300690",
+   "en": "He was wounded in the war.",
+   "es": "Fue herido en la guerra.",
+   "alts": []
+  },
+  {
+   "id": "t296664",
+   "en": "He is a scholar to the core.",
+   "es": "Es un estudioso de hueso colorado.",
+   "alts": []
+  },
+  {
+   "id": "t34118",
+   "en": "I plan to play a flute solo.",
+   "es": "Pienso tocar un solo de flauta.",
+   "alts": []
+  },
+  {
+   "id": "t295489",
+   "en": "He is rich, but he is unkind.",
+   "es": "Él es rico, pero es malo.",
+   "alts": []
+  },
+  {
+   "id": "t2660356",
+   "en": "I'd love to give him a blast.",
+   "es": "Le mandaría a la luna de una patada.",
+   "alts": []
+  },
+  {
+   "id": "t10078434",
+   "en": "My flag will soar in the sky.",
+   "es": "Mi bandera planeará en el cielo.",
+   "alts": []
+  },
+  {
+   "id": "t44325",
+   "en": "The ice is too hard to crack.",
+   "es": "El hielo está demasiado duro para quebrarlo.",
+   "alts": []
+  },
+  {
+   "id": "t314970",
+   "en": "She is sensitive to the heat.",
+   "es": "Es sensible al calor.",
+   "alts": []
+  },
+  {
+   "id": "t945531",
+   "en": "She tried not to shed a tear.",
+   "es": "Ella intentó no derramar ni una lágrima.",
+   "alts": []
+  },
+  {
+   "id": "t29142",
+   "en": "An eagle is flying in the sky.",
+   "es": "Un águila vuela en el cielo.",
+   "alts": [
+    "An eagle flies in the sky."
+   ]
+  },
+  {
+   "id": "t12200729",
+   "en": "What do you keep in that shed?",
+   "es": "¿Qué guardas en ese cobertizo?",
+   "alts": []
+  },
+  {
+   "id": "t1060992",
+   "en": "The drum is the lord of music.",
+   "es": "El tambor es el señor de la música.",
+   "alts": []
+  },
+  {
+   "id": "t10119907",
+   "en": "We all have a duty to fulfill.",
+   "es": "Todos tenemos deberes que cumplir.",
+   "alts": []
+  },
+  {
+   "id": "t6070492",
+   "en": "The eagle is not a small bird.",
+   "es": "El águila no es un pájaro pequeño.",
+   "alts": []
+  },
+  {
+   "id": "t1334902",
+   "en": "The label is stuck on the box.",
+   "es": "La etiqueta está pegada en la caja.",
+   "alts": []
+  },
+  {
+   "id": "t2266894",
+   "en": "I bought a set of table linen.",
+   "es": "Compré un juego de manteles.",
+   "alts": []
+  },
+  {
+   "id": "t17397",
+   "en": "Your collar has a stain on it.",
+   "es": "Tu cuello tiene una mancha.",
+   "alts": []
+  },
+  {
+   "id": "t5657545",
+   "en": "I won't run away like a coward.",
+   "es": "No correré como una gallina.",
+   "alts": []
+  },
+  {
+   "id": "t253945",
+   "en": "I put my suitcase in the trunk.",
+   "es": "Puse mi maleta en el maletero.",
+   "alts": []
+  },
+  {
+   "id": "t47505",
+   "en": "He was cured of his bad habits.",
+   "es": "Él fue curado de sus malos hábitos.",
+   "alts": []
+  },
+  {
+   "id": "t2293457",
+   "en": "I assure you this isn't a joke.",
+   "es": "Te aseguro que esto no es una broma.",
+   "alts": []
+  },
+  {
+   "id": "t1309842",
+   "en": "Do you believe in the Evil Eye?",
+   "es": "¿Creéis en el mal de ojo?",
+   "alts": []
+  },
+  {
+   "id": "t9401317",
+   "en": "The team won a lot of trophies.",
+   "es": "El equipo ganó muchos trofeos.",
+   "alts": []
+  },
+  {
+   "id": "t940322",
+   "en": "I was forced to work on Sunday.",
+   "es": "Me hicieron trabajar el domingo.",
+   "alts": []
+  },
+  {
+   "id": "t10642133",
+   "en": "He doesn't want to be a cowboy.",
+   "es": "Él no quiere ser un vaquero.",
+   "alts": []
+  },
+  {
+   "id": "t5313708",
+   "en": "There's no need to hail a taxi.",
+   "es": "No hay necesidad de llamar un taxi.",
+   "alts": []
+  },
+  {
+   "id": "t60686",
+   "en": "Is this the bus for Park Ridge?",
+   "es": "¿Este es el bus hacia Park Ridge?",
+   "alts": []
+  },
+  {
+   "id": "t10713784",
+   "en": "He was soaked from head to toe.",
+   "es": "Él estaba mojado de los pies a la cabeza.",
+   "alts": []
+  },
+  {
+   "id": "t1332764",
+   "en": "I'm going to give you two hints.",
+   "es": "Voy a darte dos pistas.",
+   "alts": []
+  },
+  {
+   "id": "t308638",
+   "en": "She will cope with all the work.",
+   "es": "Ella se hará cargo de todo el trabajo.",
+   "alts": []
+  },
+  {
+   "id": "t1821042",
+   "en": "How many faces does a cube have?",
+   "es": "¿Cuántas caras tiene un cubo?",
+   "alts": []
+  },
+  {
+   "id": "t4250343",
+   "en": "How long have you had this rash?",
+   "es": "¿Desde cuándo has tenido esta erupción?",
+   "alts": []
+  },
+  {
+   "id": "t3652039",
+   "en": "She is suspected of being a spy.",
+   "es": "Se sospecha que ella es una espía.",
+   "alts": []
+  },
+  {
+   "id": "t4325117",
+   "en": "I can employ you in my business.",
+   "es": "Puedo emplearte en mi negocio.",
+   "alts": []
+  },
+  {
+   "id": "t2372",
+   "en": "No love is foul nor prison fair.",
+   "es": "No hay amores sucios ni prisiones justas.",
+   "alts": []
+  },
+  {
+   "id": "t26775",
+   "en": "He started in spite of the rain.",
+   "es": "Empezó a pesar de la lluvia.",
+   "alts": []
+  },
+  {
+   "id": "t299322",
+   "en": "He lives in a little cozy house.",
+   "es": "Él vive en una casa pequeña pero acogedora.",
+   "alts": []
+  },
+  {
+   "id": "t3164808",
+   "en": "You are much more mature than I!",
+   "es": "¡Ustedes son personas mucho más maduras que yo!",
+   "alts": []
+  },
+  {
+   "id": "t6694912",
+   "en": "I don't like goat cheese at all.",
+   "es": "No me gusta, en absoluto, el queso de cabra.",
+   "alts": []
+  },
+  {
+   "id": "t12938413",
+   "en": "A packet of flour weighs a kilo.",
+   "es": "Un paquete de harina pesa un kilogramo.",
+   "alts": [
+    "A packet of flour weighs one kilogram."
+   ]
+  },
+  {
+   "id": "t298548",
+   "en": "He thought that he was a genius.",
+   "es": "Él pensaba que era un genio.",
+   "alts": []
+  },
+  {
+   "id": "t387379",
+   "en": "Dogs have a keen sense of smell.",
+   "es": "Los perros tienen un agudo sentido del olfato.",
+   "alts": [
+    "Dogs have a strong sense of smell."
+   ]
+  },
+  {
+   "id": "t261485",
+   "en": "I don't care for wealth and fame.",
+   "es": "No me importan las riquezas o la fama.",
+   "alts": []
+  },
+  {
+   "id": "t20353",
+   "en": "My joints ache when it gets cold.",
+   "es": "Me duelen las articulaciones cuando hace frío.",
+   "alts": []
+  },
+  {
+   "id": "t55912",
+   "en": "This is an exception to the rule.",
+   "es": "Esta es una excepción a la regla.",
+   "alts": []
+  },
+  {
+   "id": "t285532",
+   "en": "He leaves a widow and a daughter.",
+   "es": "Él deja a una viuda y a una hija.",
+   "alts": []
+  },
+  {
+   "id": "t240876",
+   "en": "We protested, but it was in vain.",
+   "es": "Protestamos, pero fue en vano.",
+   "alts": []
+  },
+  {
+   "id": "t1441414",
+   "en": "We all breathed a sigh of relief.",
+   "es": "Todos nosotros dimos un suspiro de alivio.",
+   "alts": []
+  },
+  {
+   "id": "t325153",
+   "en": "For God's sake tell me the truth.",
+   "es": "Por Dios, dime la verdad.",
+   "alts": []
+  },
+  {
+   "id": "t10744082",
+   "en": "The cat is scratching at my door.",
+   "es": "El gato está arañando mi puerta.",
+   "alts": []
+  },
+  {
+   "id": "t10923879",
+   "en": "I don't have the energy for that.",
+   "es": "No tengo la energía para eso.",
+   "alts": []
+  },
+  {
+   "id": "t10011495",
+   "en": "A plane popped up out of nowhere.",
+   "es": "Un avión surgió de la nada.",
+   "alts": []
+  },
+  {
+   "id": "t321615",
+   "en": "I am a man of absolute sincerity.",
+   "es": "Soy un hombre de total sinceridad.",
+   "alts": []
+  },
+  {
+   "id": "t1612563",
+   "en": "I tried to install a new browser.",
+   "es": "Intenté instalar un nuevo navegador.",
+   "alts": []
+  },
+  {
+   "id": "t61217",
+   "en": "This new camera is a snap to use.",
+   "es": "Esta nueva cámara es fácil de usar.",
+   "alts": []
+  },
+  {
+   "id": "t4425720",
+   "en": "He emptied his glass in one gulp.",
+   "es": "Dejó el vaso vacío de un solo trago.",
+   "alts": []
+  },
+  {
+   "id": "t544110",
+   "en": "Using a trap, they caught the fox.",
+   "es": "Atraparon al zorro con una trampa.",
+   "alts": [
+    "They caught the fox with a trap."
+   ]
+  },
+  {
+   "id": "t9866128",
+   "en": "The cat slipped on the peach peel.",
+   "es": "El gato se resbaló sobre la cáscara de durazno.",
+   "alts": []
+  },
+  {
+   "id": "t311457",
+   "en": "She declined to say more about it.",
+   "es": "Ella se rehusó a hablar más acerca de eso.",
+   "alts": [
+    "She refused to say more about that matter."
+   ]
+  },
+  {
+   "id": "t18103",
+   "en": "Shoes are stiff when they are new.",
+   "es": "Los zapatos están rígidos cuando son nuevos.",
+   "alts": []
+  },
+  {
+   "id": "t10568418",
+   "en": "I take this as a personal offense.",
+   "es": "Me lo tomo como un insulto personal.",
+   "alts": []
+  },
+  {
+   "id": "t325438",
+   "en": "I could scarcely stand on my feet.",
+   "es": "Apenas podía mantenerme en pie.",
+   "alts": [
+    "I could barely stand.",
+    "I could hardly stand."
+   ]
+  },
+  {
+   "id": "t315599",
+   "en": "She abandoned her son to his fate.",
+   "es": "Ella abandonó a su hijo a su suerte.",
+   "alts": []
+  },
+  {
+   "id": "t1119452",
+   "en": "Likewise, it was nice to meet you.",
+   "es": "Asimismo, era un gusto conocerte.",
+   "alts": []
+  },
+  {
+   "id": "t314898",
+   "en": "She listened to her CDs at random.",
+   "es": "Ella escuchaba sus CDs al azar.",
+   "alts": []
+  },
+  {
+   "id": "t68675",
+   "en": "That team is always in the cellar.",
+   "es": "Ese equipo siempre va en último lugar.",
+   "alts": []
+  },
+  {
+   "id": "t2571511",
+   "en": "Is the exhibit open to the public?",
+   "es": "¿La exposición está abierta al público?",
+   "alts": []
+  },
+  {
+   "id": "t47365",
+   "en": "The puppy licked her on the cheek.",
+   "es": "La cachorro la lamió en la mejilla.",
+   "alts": []
+  },
+  {
+   "id": "t299777",
+   "en": "He is indifferent to what he eats.",
+   "es": "A él le da igual lo que come.",
+   "alts": [
+    "He doesn't care what he eats."
+   ]
+  },
+  {
+   "id": "t1279159",
+   "en": "Despite his fame, he is not happy.",
+   "es": "A pesar de su fama, él no es feliz.",
+   "alts": []
+  },
+  {
+   "id": "t412463",
+   "en": "Don't paint the devil on the wall.",
+   "es": "No dibujes al diablo en las paredes.",
+   "alts": []
+  },
+  {
+   "id": "t887031",
+   "en": "She caught him cheating on a test.",
+   "es": "Lo pilló haciendo trampa en una prueba.",
+   "alts": []
+  },
+  {
+   "id": "t259465",
+   "en": "I got my decayed tooth pulled out.",
+   "es": "Me sacaron el diente con caries.",
+   "alts": []
+  },
+  {
+   "id": "t8861426",
+   "en": "That's not a horse. It's a donkey.",
+   "es": "No es un caballo. Es un burro.",
+   "alts": [
+    "That isn't a horse. It's a donkey."
+   ]
+  },
+  {
+   "id": "t1344625",
+   "en": "The mayor is yelling on the phone.",
+   "es": "El alcalde está gritando en el teléfono.",
+   "alts": []
+  },
+  {
+   "id": "t12975567",
+   "en": "On holiday I saw two cows chewing.",
+   "es": "En vacaciones vi dos vacas masticando.",
+   "alts": []
+  },
+  {
+   "id": "t307125",
+   "en": "They chased the man to arrest him.",
+   "es": "Ellos persiguieron al hombre para detenerle.",
+   "alts": []
+  },
+  {
+   "id": "t312566",
+   "en": "She devoted her life to education.",
+   "es": "Ella dedicó su vida a la educación.",
+   "alts": []
+  },
+  {
+   "id": "t11280852",
+   "en": "They love to go against the grain.",
+   "es": "Les encanta ir a contracorriente.",
+   "alts": []
+  },
+  {
+   "id": "t60748",
+   "en": "What was his reaction to this news?",
+   "es": "¿Cuál fue su reacción a esta noticia?",
+   "alts": []
+  },
+  {
+   "id": "t249256",
+   "en": "We elected him captain of our team.",
+   "es": "Lo elegimos capitán de nuestro equipo.",
+   "alts": []
+  },
+  {
+   "id": "t13820128",
+   "en": "A revolution is not a dinner party.",
+   "es": "Una revolución no es una cena de gala.",
+   "alts": []
+  },
+  {
+   "id": "t17661",
+   "en": "What was the cause of your quarrel?",
+   "es": "¿Cuál fue la causa de la discusión?",
+   "alts": []
+  },
+  {
+   "id": "t10038853",
+   "en": "I wish to close my savings account.",
+   "es": "Deseo cerrar mi cuenta de ahorro.",
+   "alts": []
+  },
+  {
+   "id": "t4640860",
+   "en": "I will shed light on that incident.",
+   "es": "Yo arrojaré luz sobre ese incidente.",
+   "alts": []
+  },
+  {
+   "id": "t10328719",
+   "en": "What do you say to attract clients?",
+   "es": "¿Qué dices para atraer a los clientes?",
+   "alts": []
+  },
+  {
+   "id": "t1686531",
+   "en": "I cannot mock Ken. He's my brother.",
+   "es": "No me puedo burlar de Ken. Él es mi hermano.",
+   "alts": []
+  },
+  {
+   "id": "t681162",
+   "en": "Have you ever been on a helicopter?",
+   "es": "¿Has estado alguna vez en un helicóptero?",
+   "alts": []
+  },
+  {
+   "id": "t1033603",
+   "en": "My only distraction is the game Go.",
+   "es": "Mi única distracción es el juego Go.",
+   "alts": []
+  },
+  {
+   "id": "t794744",
+   "en": "You have a keen sense of direction.",
+   "es": "Tienes un agudo sentido de orientación.",
+   "alts": [
+    "You have a sharp sense of direction."
+   ]
+  },
+  {
+   "id": "t1214922",
+   "en": "My favourite genre of music is pop.",
+   "es": "Mi género favorito de música es el Pop.",
+   "alts": []
+  },
+  {
+   "id": "t1691313",
+   "en": "Could you loan money to my brother?",
+   "es": "¿Le podrías prestar dinero a mi hermano?",
+   "alts": []
+  },
+  {
+   "id": "t1154164",
+   "en": "The twins will be judged for fraud.",
+   "es": "Los gemelos serán juzgados por fraude.",
+   "alts": []
+  },
+  {
+   "id": "t10115111",
+   "en": "It is a matter of vital importance.",
+   "es": "Es un asunto de importancia vital.",
+   "alts": [
+    "This is a matter of the utmost importance.",
+    "It's a matter of vital importance."
+   ]
+  },
+  {
+   "id": "t693613",
+   "en": "All my siblings are taller than me.",
+   "es": "Todos mis hermanos son más altos que yo.",
+   "alts": [
+    "All of my siblings are taller than me."
+   ]
+  },
+  {
+   "id": "t259970",
+   "en": "I was ignorant that he was present.",
+   "es": "Ignoraba que él estuviera presente.",
+   "alts": []
+  },
+  {
+   "id": "t10528130",
+   "en": "My contract is for a full-time job.",
+   "es": "Mi contrato es de jornada completa.",
+   "alts": []
+  },
+  {
+   "id": "t2944654",
+   "en": "The export of arms was not allowed.",
+   "es": "Se prohibió la exportación de armas.",
+   "alts": [
+    "The export of weapons was prohibited."
+   ]
+  },
+  {
+   "id": "t434850",
+   "en": "He approached and fell on his knees.",
+   "es": "Se acercó y se arrodilló.",
+   "alts": []
+  },
+  {
+   "id": "t4925668",
+   "en": "I'm going to go withdraw some money.",
+   "es": "Voy a ir a sacar algún dinero.",
+   "alts": []
+  },
+  {
+   "id": "t8271806",
+   "en": "I'm yearning for the cold to arrive.",
+   "es": "Estoy deseando que llegue el frío.",
+   "alts": []
+  },
+  {
+   "id": "t293562",
+   "en": "He is regarded as a great statesman.",
+   "es": "Él es considerado un gran político.",
+   "alts": [
+    "He's considered to be a great politician."
+   ]
+  },
+  {
+   "id": "t9422566",
+   "en": "I've been in quarantine up to today.",
+   "es": "He estado en cuarentena hasta hoy.",
+   "alts": []
+  },
+  {
+   "id": "t10179207",
+   "en": "That forced us to make some changes.",
+   "es": "Eso nos obligó a hacer algunos cambios.",
+   "alts": []
+  },
+  {
+   "id": "t2824149",
+   "en": "The divers were trapped in the cave.",
+   "es": "Los buzos quedaron atrapados en la caverna.",
+   "alts": []
+  },
+  {
+   "id": "t7656",
+   "en": "Can you justify the use of violence?",
+   "es": "¿Puedes justificar el uso de violencia?",
+   "alts": []
+  },
+  {
+   "id": "t8658244",
+   "en": "A foolish head makes for weary feet.",
+   "es": "Por una cabeza tonta sufren las piernas.",
+   "alts": [
+    "When you don't have brains, your feet get no rest."
+   ]
+  },
+  {
+   "id": "t805472",
+   "en": "The two sides signed a peace treaty.",
+   "es": "Los dos bandos firmaron un tratado de paz.",
+   "alts": []
+  },
+  {
+   "id": "t10692408",
+   "en": "How much do olives and cookies cost?",
+   "es": "¿Cuánto cuestan las aceitunas y las galletas?",
+   "alts": []
+  },
+  {
+   "id": "t73431",
+   "en": "I have a previous engagement at ten.",
+   "es": "Tenía un compromiso previo a las diez.",
+   "alts": []
+  },
+  {
+   "id": "t259594",
+   "en": "I will go regardless of the weather.",
+   "es": "Iré sin importarme el tiempo.",
+   "alts": []
+  },
+  {
+   "id": "t30902",
+   "en": "If you hurry, you will overtake him.",
+   "es": "Si te das prisa, le superarás.",
+   "alts": []
+  },
+  {
+   "id": "t9644247",
+   "en": "We can't chop down any more forests.",
+   "es": "No podemos talar más bosques.",
+   "alts": []
+  },
+  {
+   "id": "t12911646",
+   "en": "The DNA test proved he was innocent.",
+   "es": "La prueba de ADN demostró que él era inocente.",
+   "alts": []
+  },
+  {
+   "id": "t462738",
+   "en": "The hardware store is near the park.",
+   "es": "La ferretería está cerca del parque.",
+   "alts": []
+  },
+  {
+   "id": "t26858",
+   "en": "Every time it rains, the roof leaks.",
+   "es": "Cada vez que llueve, el techo gotea.",
+   "alts": []
+  },
+  {
+   "id": "t65170",
+   "en": "A parrot can mimic a person's voice.",
+   "es": "El loro puede imitar la voz de la gente.",
+   "alts": [
+    "A parrot can imitate the human voice."
+   ]
+  },
+  {
+   "id": "t286561",
+   "en": "His failure is due to his ignorance.",
+   "es": "Su fracaso se debe a su ignorancia.",
+   "alts": []
+  },
+  {
+   "id": "t621716",
+   "en": "I refuse to be treated like a child.",
+   "es": "Me rehúso a ser tratado como un crío.",
+   "alts": [
+    "I object to being treated like a child."
+   ]
+  },
+  {
+   "id": "t246625",
+   "en": "Are you suggesting that I'm a coward?",
+   "es": "¿Sugiere que soy un cobarde?",
+   "alts": []
+  },
+  {
+   "id": "t59606",
+   "en": "How is this phrase to be interpreted?",
+   "es": "¿Cómo se debe interpretar esta frase?",
+   "alts": []
+  },
+  {
+   "id": "t251862",
+   "en": "My mother seldom watches TV at night.",
+   "es": "Mi madre rara vez ve televisión de noche.",
+   "alts": []
+  },
+  {
+   "id": "t1222716",
+   "en": "A group of gangsters stole the money.",
+   "es": "Un grupo de delincuentes se robó el dinero.",
+   "alts": []
+  },
+  {
+   "id": "t1008851",
+   "en": "The lamp is hanging from the ceiling.",
+   "es": "La lámpara cuelga del techo.",
+   "alts": []
+  },
+  {
+   "id": "t47362",
+   "en": "The city is well supplied with water.",
+   "es": "Mi cuidad está bien abastecida de agua.",
+   "alts": []
+  },
+  {
+   "id": "t6874182",
+   "en": "We're digging a well in the backyard.",
+   "es": "Estamos cavando un pozo en el patio.",
+   "alts": [
+    "We are digging a well in the backyard."
+   ]
+  },
+  {
+   "id": "t27289",
+   "en": "We can accommodate him for the night.",
+   "es": "Podemos acogerlo una noche.",
+   "alts": []
+  },
+  {
+   "id": "t286269",
+   "en": "His act was animated by noble ideals.",
+   "es": "Su acción fue guiada por nobles ideas.",
+   "alts": []
+  },
+  {
+   "id": "t254101",
+   "en": "I've deposited the money in the bank.",
+   "es": "He depositado el dinero en el banco.",
+   "alts": []
+  },
+  {
+   "id": "t9551066",
+   "en": "I hope you suffer thousands of rapes!",
+   "es": "¡Ojalá que sufras miles de violaciones!",
+   "alts": []
+  },
+  {
+   "id": "t295730",
+   "en": "He got away disguised as a policeman.",
+   "es": "Él escapó disfrazado de policía.",
+   "alts": []
+  },
+  {
+   "id": "t60587",
+   "en": "I'd like to have this film processed.",
+   "es": "Quisiera que me revelaran este rollo.",
+   "alts": []
+  },
+  {
+   "id": "t285794",
+   "en": "He wiped the sweat from his forehead.",
+   "es": "Él se secó el sudor de su frente.",
+   "alts": []
+  },
+  {
+   "id": "t308535",
+   "en": "It is doubtful whether she will come.",
+   "es": "Es dudoso que ella vendrá.",
+   "alts": []
+  },
+  {
+   "id": "t9370259",
+   "en": "The scissors are in the left cabinet.",
+   "es": "Las tijeras están en el cajón izquierdo.",
+   "alts": []
+  },
+  {
+   "id": "t44120",
+   "en": "The phrase is meant to insult people.",
+   "es": "Esa frase está para insultar a las personas.",
+   "alts": []
+  },
+  {
+   "id": "t1848902",
+   "en": "The protesters set many cars on fire.",
+   "es": "Los manifestantes prendieron fuego a muchos coches.",
+   "alts": []
+  },
+  {
+   "id": "t291083",
+   "en": "He praised the pupil for his honesty.",
+   "es": "Él alabó al alumno por su honestidad.",
+   "alts": []
+  },
+  {
+   "id": "t287698",
+   "en": "There were no bounds to his ambition.",
+   "es": "Su ambición no tenía fronteras.",
+   "alts": []
+  },
+  {
+   "id": "t69976",
+   "en": "You've got to answer for the outcome.",
+   "es": "Tienes que responsabilizarte por el resultado.",
+   "alts": []
+  },
+  {
+   "id": "t244225",
+   "en": "The judge laughed in spite of himself.",
+   "es": "El juez se rió sin querer.",
+   "alts": []
+  },
+  {
+   "id": "t11180509",
+   "en": "Kate composes music in her spare time.",
+   "es": "Kate compone música en su tiempo libre.",
+   "alts": []
+  },
+  {
+   "id": "t253097",
+   "en": "I'm always suspicious of men like him.",
+   "es": "Siempre desconfío de la gente como él.",
+   "alts": []
+  },
+  {
+   "id": "t2841254",
+   "en": "We were all present at the conference.",
+   "es": "Estábamos todos presentes durante la conferencia.",
+   "alts": []
+  },
+  {
+   "id": "t6127223",
+   "en": "My throat really hurts when I swallow.",
+   "es": "Me duele mucho la garganta al tragar.",
+   "alts": []
+  },
+  {
+   "id": "t1521947",
+   "en": "The young widow got engaged once more.",
+   "es": "La joven viuda se hizo de nuevo novia.",
+   "alts": []
+  },
+  {
+   "id": "t702387",
+   "en": "He attributes his poverty to bad luck.",
+   "es": "Él atribuye su pobreza a la mala suerte.",
+   "alts": [
+    "He ascribes his poverty to bad luck."
+   ]
+  },
+  {
+   "id": "t3515288",
+   "en": "The world does not revolve around you.",
+   "es": "El mundo no gira a tu alrededor.",
+   "alts": [
+    "The world doesn't revolve around you."
+   ]
+  },
+  {
+   "id": "t632466",
+   "en": "Please put this in the microwave oven.",
+   "es": "Por favor pon esto en el microondas.",
+   "alts": []
+  },
+  {
+   "id": "t271151",
+   "en": "The world economy is in recession now.",
+   "es": "La economía mundial está ahora en recesión.",
+   "alts": []
+  },
+  {
+   "id": "t279670",
+   "en": "The tower leaned slightly to the west.",
+   "es": "La torre estaba un poco inclinada hacia el oeste.",
+   "alts": []
+  },
+  {
+   "id": "t9939150",
+   "en": "We export coffee to the United States.",
+   "es": "Exportamos café a Estados Unidos.",
+   "alts": []
+  },
+  {
+   "id": "t903692",
+   "en": "There is an urgent need for donations.",
+   "es": "Hay una necesidad urgente de donaciones.",
+   "alts": []
+  },
+  {
+   "id": "t10922994",
+   "en": "I have three employees working for me.",
+   "es": "Tengo tres empleados a mi cargo.",
+   "alts": []
+  },
+  {
+   "id": "t1559788",
+   "en": "Yesterday I saw a man crying bitterly.",
+   "es": "Ayer vi a un hombre llorar amargamente.",
+   "alts": []
+  },
+  {
+   "id": "t10849135",
+   "en": "We assembled the chair in ten minutes.",
+   "es": "Montamos la silla en diez minutos.",
+   "alts": []
+  },
+  {
+   "id": "t11561137",
+   "en": "The goal is always the maximum profit.",
+   "es": "El objetivo es siempre el máximo beneficio.",
+   "alts": []
+  },
+  {
+   "id": "t288088",
+   "en": "He is descended from a musical family.",
+   "es": "Él es descendiente de una familia con dotes musicales.",
+   "alts": []
+  },
+  {
+   "id": "t59496",
+   "en": "This result leaves much to be desired.",
+   "es": "Este resultado deja mucho que desear.",
+   "alts": []
+  },
+  {
+   "id": "t56473",
+   "en": "This ticket is valid for three months.",
+   "es": "Este billete es válido durante tres meses.",
+   "alts": []
+  },
+  {
+   "id": "t6958566",
+   "en": "Is there a reason for your hesitation?",
+   "es": "¿Hay alguna razón por la que estés dudando?",
+   "alts": []
+  },
+  {
+   "id": "t10876147",
+   "en": "The eagle became accustomed to humans.",
+   "es": "El águila se acostumbró a los humanos.",
+   "alts": []
+  },
+  {
+   "id": "t10459241",
+   "en": "He doesn't agree with the new reforms.",
+   "es": "No está de acuerdo con los reformes nuevos.",
+   "alts": []
+  },
+  {
+   "id": "t9814481",
+   "en": "He screwed it up, like he always does.",
+   "es": "Metió la pata, como hace siempre.",
+   "alts": []
+  },
+  {
+   "id": "t2929607",
+   "en": "I have complete faith in his abilities.",
+   "es": "Tengo absoluta fe en sus capacidades.",
+   "alts": []
+  },
+  {
+   "id": "t10792294",
+   "en": "The mountain's peak is covered in snow.",
+   "es": "El pico de la montaña está cubierto de nieve.",
+   "alts": []
+  },
+  {
+   "id": "t13623510",
+   "en": "The pirate ship prepared to be boarded.",
+   "es": "El bajel pirata se preparaba para el abordaje.",
+   "alts": []
+  },
+  {
+   "id": "t290668",
+   "en": "He sketches the outline of the machine.",
+   "es": "Él esboza el contorno de la máquina.",
+   "alts": []
+  },
+  {
+   "id": "t5324989",
+   "en": "The highway runs parallel to the river.",
+   "es": "La carretera corre paralela al río.",
+   "alts": []
+  },
+  {
+   "id": "t394648",
+   "en": "I think she is charming and attractive.",
+   "es": "Creo que ella es atractiva y encantadora.",
+   "alts": []
+  },
+  {
+   "id": "t4410129",
+   "en": "His mother was standing in the doorway.",
+   "es": "Su madre estaba de pie en el umbral.",
+   "alts": []
+  },
+  {
+   "id": "t953148",
+   "en": "Biting your fingernails is a bad habit.",
+   "es": "Morderse las uñas es un mal hábito.",
+   "alts": []
+  },
+  {
+   "id": "t41383",
+   "en": "That idea never presented itself to me.",
+   "es": "Esa idea nunca se me ocurrió.",
+   "alts": []
+  },
+  {
+   "id": "t1209042",
+   "en": "Don't you know an antonym for 'relief'?",
+   "es": "¿No sabes un antónimo de 'alivio'?",
+   "alts": []
+  },
+  {
+   "id": "t312755",
+   "en": "She had a passionate interest in music.",
+   "es": "Ella tenía un apasionado interés por la música.",
+   "alts": []
+  },
+  {
+   "id": "t5127363",
+   "en": "Always yield to traffic from the right.",
+   "es": "Dale siempre la prioridad a los vehículos que vienen por la derecha.",
+   "alts": []
+  },
+  {
+   "id": "t1121810",
+   "en": "In the modern age, humans are detached.",
+   "es": "En nuestra época, los humanos están aislados.",
+   "alts": []
+  },
+  {
+   "id": "t681869",
+   "en": "No one will recognize her in this mask.",
+   "es": "Nadie la reconocerá con esta máscara.",
+   "alts": []
+  },
+  {
+   "id": "t276175",
+   "en": "Someone leaked the secret to the enemy.",
+   "es": "Alguien filtró el secreto al enemigo.",
+   "alts": []
+  },
+  {
+   "id": "t2717896",
+   "en": "It's dangerous to mix these substances.",
+   "es": "Es peligroso mezclar estas sustancias.",
+   "alts": []
+  },
+  {
+   "id": "t2607367",
+   "en": "Love is just a legend created somewhere.",
+   "es": "El amor es solo una leyenda inventada en algún lugar.",
+   "alts": []
+  },
+  {
+   "id": "t317671",
+   "en": "They supplied the war victims with food.",
+   "es": "Ellos proveyeron a las víctimas de la guerra de alimentos.",
+   "alts": []
+  },
+  {
+   "id": "t295578",
+   "en": "He accumulated his fortune by hard work.",
+   "es": "Él reunió su fortuna con trabajo duro.",
+   "alts": []
+  },
+  {
+   "id": "t1623827",
+   "en": "I confess my translation is not perfect.",
+   "es": "Confieso que mi traducción no es perfecta.",
+   "alts": []
+  },
+  {
+   "id": "t6393240",
+   "en": "How would you decorate your living room?",
+   "es": "¿Cómo decorarías tu sala de estar?",
+   "alts": []
+  },
+  {
+   "id": "t311620",
+   "en": "She took the tablecloths to the laundry.",
+   "es": "Ella llevó los manteles a la lavandería.",
+   "alts": []
+  },
+  {
+   "id": "t18844",
+   "en": "Some boys are diligent, others are idle.",
+   "es": "Algunos niños son diligentes, otros son flojos.",
+   "alts": []
+  },
+  {
+   "id": "t1209482",
+   "en": "We are going to start investigating him.",
+   "es": "Vamos a iniciar una investigación contra él.",
+   "alts": []
+  },
+  {
+   "id": "t2268505",
+   "en": "The services took place at the cemetery.",
+   "es": "La ceremonia tuvo lugar en el cementerio.",
+   "alts": []
+  },
+  {
+   "id": "t2259096",
+   "en": "Put the suitcases carefully on the rack.",
+   "es": "Acomode bien las maletas en el portaequipajes.",
+   "alts": []
+  },
+  {
+   "id": "t315765",
+   "en": "She's good at bargaining the price down.",
+   "es": "Ella es buena para recatear.",
+   "alts": []
+  },
+  {
+   "id": "t11554887",
+   "en": "This user's account is no longer active.",
+   "es": "La cuenta de este usuario ya no está activa.",
+   "alts": []
+  },
+  {
+   "id": "t10831712",
+   "en": "What mode of transportation will we use?",
+   "es": "¿Qué medio de transporte vamos a usar?",
+   "alts": []
+  },
+  {
+   "id": "t23457",
+   "en": "Our team competed with a powerful rival.",
+   "es": "Nuestro equipo compitió con una fuerte competencia.",
+   "alts": []
+  },
+  {
+   "id": "t57653",
+   "en": "Most snakes on this island are harmless.",
+   "es": "La mayoría de las serpientes de esta isla son inofensivas.",
+   "alts": []
+  },
+  {
+   "id": "t6833415",
+   "en": "I debated whether I should say anything.",
+   "es": "Deliberé sobre si debía decir algo.",
+   "alts": []
+  },
+  {
+   "id": "t10195461",
+   "en": "Some of these rules should be abolished.",
+   "es": "Algunas de esas normas deberían abolirse.",
+   "alts": []
+  },
+  {
+   "id": "t310493",
+   "en": "She always carries a charm against evil.",
+   "es": "Ella siempre lleva consigo un amuleto contra el mal.",
+   "alts": []
+  },
+  {
+   "id": "t10651108",
+   "en": "I've been very distracted by this novel.",
+   "es": "Me ha distraído mucho esta novela.",
+   "alts": [
+    "I've enjoyed this novel very much.",
+    "I've enjoyed this soap opera very much."
+   ]
+  },
+  {
+   "id": "t12149360",
+   "en": "Work more calmly to make fewer mistakes.",
+   "es": "Trabaja con más calma para cometer menos errores.",
+   "alts": []
+  },
+  {
+   "id": "t303702",
+   "en": "He was charged with assault and battery.",
+   "es": "Él fue denunciado por robo y lesiones.",
+   "alts": []
+  },
+  {
+   "id": "t40070",
+   "en": "I get depressed by the slightest things.",
+   "es": "Yo me deprimo por las cosas más insignificantes.",
+   "alts": []
+  },
+  {
+   "id": "t16035",
+   "en": "You should be ashamed of your ignorance.",
+   "es": "Deberías estar avergonzado de tu ignorancia.",
+   "alts": []
+  },
+  {
+   "id": "t1560854",
+   "en": "Would you like to taste this yummy cake?",
+   "es": "¿Te gustaría probar este delicioso pastel?",
+   "alts": []
+  },
+  {
+   "id": "t27593",
+   "en": "I'd been cheated out of my life savings!",
+   "es": "¡Me han estafado los ahorros de toda la vida!",
+   "alts": []
+  },
+  {
+   "id": "t2649648",
+   "en": "The president was elected for four years.",
+   "es": "El presidente fue elegido por cuatro años.",
+   "alts": []
+  },
+  {
+   "id": "t671196",
+   "en": "How many barbers work in that barbershop?",
+   "es": "¿Cuántos peluqueros trabajan en esa peluquería?",
+   "alts": []
+  },
+  {
+   "id": "t631166",
+   "en": "Faith is never perfect, but knowledge is.",
+   "es": "La fe nunca es perfecta, pero el conocimiento sí.",
+   "alts": []
+  },
+  {
+   "id": "t270214",
+   "en": "The human soul longs for something noble.",
+   "es": "El alma humana anhela algo noble.",
+   "alts": []
+  },
+  {
+   "id": "t1124149",
+   "en": "You always blame me for your unhappiness.",
+   "es": "Siempre me culpas de tu infelicidad.",
+   "alts": []
+  },
+  {
+   "id": "t9814487",
+   "en": "Cars with heat engines contaminate a lot.",
+   "es": "Los coches con motor térmico contaminan mucho.",
+   "alts": []
+  },
+  {
+   "id": "t7841397",
+   "en": "You guys didn't clarify anything for her.",
+   "es": "No le aclarasteis nada.",
+   "alts": [
+    "You guys didn't clarify anything for him."
+   ]
+  },
+  {
+   "id": "t1840573",
+   "en": "I sometimes translate lyrics for my wife.",
+   "es": "A veces traduzco letras de canciones para mi esposa.",
+   "alts": []
+  },
+  {
+   "id": "t10102086",
+   "en": "There are copper threads within the wire.",
+   "es": "Dentro del cable hay hilos de cobre.",
+   "alts": []
+  },
+  {
+   "id": "t4291421",
+   "en": "The soldier never got scars from battles.",
+   "es": "El soldado nunca tuvo cicatrices de batalla.",
+   "alts": []
+  },
+  {
+   "id": "t13877442",
+   "en": "This is my interpretation of the results.",
+   "es": "Esta es mi interpretación de los resultados.",
+   "alts": []
+  },
+  {
+   "id": "t11236083",
+   "en": "It seemed that failures were chasing him.",
+   "es": "Parecía que los fracasos lo perseguían.",
+   "alts": []
+  },
+  {
+   "id": "t1199446",
+   "en": "My coffee addiction's back in full force.",
+   "es": "Mi adicción al café está de vuelta en toda su gloria.",
+   "alts": []
+  },
+  {
+   "id": "t8881999",
+   "en": "The lifeguard was distracted at his phone.",
+   "es": "El socorrista estaba entretenido con su móvil.",
+   "alts": []
+  },
+  {
+   "id": "t1426340",
+   "en": "We are committed to our country's welfare.",
+   "es": "Estamos comprometidos con el bienestar del país.",
+   "alts": []
+  },
+  {
+   "id": "t1563135",
+   "en": "He donated countless pieces to the museum.",
+   "es": "Donó innumerables piezas al museo.",
+   "alts": [
+    "She donated countless pieces to the museum."
+   ]
+  },
+  {
+   "id": "t60005",
+   "en": "Manual labor is necessary in this company.",
+   "es": "En esta compañía, el trabajo manual es necesario.",
+   "alts": []
+  },
+  {
+   "id": "t1283594",
+   "en": "Forget it, those are just trivial details.",
+   "es": "Olvídenlo, sólo son detalles triviales.",
+   "alts": []
+  },
+  {
+   "id": "t274822",
+   "en": "Many economists are ignorant of that fact.",
+   "es": "Muchos economistas ignoran este hecho.",
+   "alts": []
+  },
+  {
+   "id": "t258361",
+   "en": "I know nothing concerning the lost letter.",
+   "es": "No sé nada acerca de la carta perdida.",
+   "alts": []
+  },
+  {
+   "id": "t51299",
+   "en": "We request your attendance at the meeting.",
+   "es": "Nosotros solicitamos tu asistencia a la reunión.",
+   "alts": []
+  },
+  {
+   "id": "t1142900",
+   "en": "I'm not insulting you, I'm describing you.",
+   "es": "No te estoy insultando, te estoy describiendo.",
+   "alts": []
+  },
+  {
+   "id": "t4063884",
+   "en": "They are persons with no moral conscience.",
+   "es": "Ellas son personas sin consciencia moral.",
+   "alts": []
+  },
+  {
+   "id": "t2488170",
+   "en": "The data is insufficient to show anything.",
+   "es": "Los datos son insuficientes para mostrar algo.",
+   "alts": []
+  },
+  {
+   "id": "t953827",
+   "en": "I'm just about finished doing the laundry.",
+   "es": "Acabo de terminar de lavar la ropa.",
+   "alts": []
+  },
+  {
+   "id": "t17008",
+   "en": "I'm fed up with your constant complaining.",
+   "es": "Estoy harto de tus constantes quejas.",
+   "alts": []
+  },
+  {
+   "id": "t283836",
+   "en": "Is there any possibility of his resigning?",
+   "es": "¿Hay una posibilidad de que él dimita?",
+   "alts": []
+  },
+  {
+   "id": "t851137",
+   "en": "Classes have been suspended due to floods.",
+   "es": "Las clases se suspendieron por las inundaciones.",
+   "alts": []
+  },
+  {
+   "id": "t3194666",
+   "en": "I concede the point, but not the argument.",
+   "es": "Reconozco el punto, pero no la discusión.",
+   "alts": []
+  },
+  {
+   "id": "t1492",
+   "en": "You really don't have the right priorities!",
+   "es": "Realmente no tienes las prioridades correctas.",
+   "alts": []
+  },
+  {
+   "id": "t9143406",
+   "en": "I have an interview scheduled for tomorrow.",
+   "es": "Tengo una entrevista programada para mañana.",
+   "alts": []
+  },
+  {
+   "id": "t44938",
+   "en": "The thief disguised himself as a policeman.",
+   "es": "El ladrón se disfrazó de policía.",
+   "alts": []
+  },
+  {
+   "id": "t1260350",
+   "en": "Nothing can distract her from her research.",
+   "es": "Nada la puede distraer de su investigación.",
+   "alts": []
+  },
+  {
+   "id": "t324286",
+   "en": "The rapid increase of imports surprised us.",
+   "es": "El crecimiento rápido en las importaciones nos sorprendió.",
+   "alts": []
+  },
+  {
+   "id": "t70853",
+   "en": "Devote your whole attention to your duties.",
+   "es": "Otorga toda tu atención a tus obligaciones.",
+   "alts": []
+  },
+  {
+   "id": "t593762",
+   "en": "A part-time job is suitable for housewives.",
+   "es": "Un trabajo a tiempo parcial es adecuado para las amas de casa.",
+   "alts": []
+  },
+  {
+   "id": "t1717426",
+   "en": "Have you ever authorized me to leave early?",
+   "es": "¿Me has autorizado a irme temprano alguna vez?",
+   "alts": []
+  },
+  {
+   "id": "t278984",
+   "en": "Astronomy is the science of heavenly bodies.",
+   "es": "La astronomía es la ciencia de los cuerpos celestes.",
+   "alts": []
+  },
+  {
+   "id": "t8279729",
+   "en": "The translation is faithful to the original.",
+   "es": "La traducción es fiel al original.",
+   "alts": []
+  },
+  {
+   "id": "t238345",
+   "en": "The police were suspicious of his movements.",
+   "es": "La policía sospechaba de sus movimientos.",
+   "alts": []
+  },
+  {
+   "id": "t10612147",
+   "en": "The columns are made of reinforced concrete.",
+   "es": "Los pilares son de hormigón armado.",
+   "alts": []
+  },
+  {
+   "id": "t263517",
+   "en": "The game's outcome hangs on his performance.",
+   "es": "El resultado del partido depende de su desempeño.",
+   "alts": []
+  },
+  {
+   "id": "t2287002",
+   "en": "I'll do that regardless of the consequences.",
+   "es": "Lo haré sin importarme las consecuencias.",
+   "alts": []
+  },
+  {
+   "id": "t776207",
+   "en": "Choose a particular event you remember well.",
+   "es": "Escoge un evento en particular que tú recuerdes.",
+   "alts": []
+  },
+  {
+   "id": "t435406",
+   "en": "You are absolutely right, Mr Prime Minister!",
+   "es": "¡Tiene usted toda la razón, Señor Presidente!",
+   "alts": []
+  },
+  {
+   "id": "t306020",
+   "en": "They were prohibited from leaving the hotel.",
+   "es": "Les prohibieron abandonar el hotel.",
+   "alts": []
+  },
+  {
+   "id": "t13380574",
+   "en": "She won everyone's trust with her sincerity.",
+   "es": "Con su sinceridad ganó la confianza de todos.",
+   "alts": [
+    "His sincerity gained the confidence of everyone.",
+    "He won everyone's trust with his sincerity."
+   ]
+  },
+  {
+   "id": "t803240",
+   "en": "He condemned those who opposed his policies.",
+   "es": "Él condenó a aquellos que se opusieron a sus políticas.",
+   "alts": []
+  },
+  {
+   "id": "t18943",
+   "en": "A promise given under a threat is worthless.",
+   "es": "Una promesa hecha bajo amenaza no tiene validez.",
+   "alts": []
+  },
+  {
+   "id": "t2259445",
+   "en": "The superintendent lives on the ground floor.",
+   "es": "El portero vive en el bajo.",
+   "alts": []
+  },
+  {
+   "id": "t17227",
+   "en": "Your words must correspond with your actions.",
+   "es": "Tus palabras deben ser consecuentes con tus acciones.",
+   "alts": []
+  },
+  {
+   "id": "t10056178",
+   "en": "Can you define that word without ambiguities?",
+   "es": "¿Puedes definir sin ambigüedades esa palabra?",
+   "alts": []
+  },
+  {
+   "id": "t11941843",
+   "en": "Vanity of vanities, and everything is vanity.",
+   "es": "Vanidad de vanidades, todo es vanidad.",
+   "alts": [
+    "Vanity of vanities, all is vanity."
+   ]
+  },
+  {
+   "id": "t245240",
+   "en": "Regrettably, we have not received your reply.",
+   "es": "Lamentablemente, no hemos recibido tu respuesta.",
+   "alts": []
+  },
+  {
+   "id": "t4989614",
+   "en": "Yesterday evening I had a terrible nightmare.",
+   "es": "Anoche tuve una pesadilla horrible.",
+   "alts": []
+  },
+  {
+   "id": "t635919",
+   "en": "There's always something good in human folly.",
+   "es": "Siempre hay algo bueno en la locura humana.",
+   "alts": [
+    "There's always a good part in human folly."
+   ]
+  },
+  {
+   "id": "t1399",
+   "en": "Even though he apologized, I'm still furious.",
+   "es": "Aunque él se disculpó, aún estoy enojada.",
+   "alts": []
+  },
+  {
+   "id": "t9851473",
+   "en": "Did you lose consciousness after the accident?",
+   "es": "¿Perdiste el conocimiento después del accidente?",
+   "alts": []
+  },
+  {
+   "id": "t1456810",
+   "en": "Previously people believed the earth was flat.",
+   "es": "Antiguamente se pensaba que la Tierra era plana.",
+   "alts": []
+  },
+  {
+   "id": "t11063320",
+   "en": "The keenest pleasure is derived from learning.",
+   "es": "El placer más intenso se deriva del aprendizaje.",
+   "alts": []
+  },
+  {
+   "id": "t2264741",
+   "en": "Bull fighting is a very interesting spectacle.",
+   "es": "La corrida de toros es un espectáculo muy interesante.",
+   "alts": []
+  },
+  {
+   "id": "t288754",
+   "en": "He was extraordinarily important in your life.",
+   "es": "Él fue sumamente importante en tu vida.",
+   "alts": []
+  },
+  {
+   "id": "t11132437",
+   "en": "His ability to make connections is unbeatable.",
+   "es": "Su habilidad para hacer contactos es insuperable.",
+   "alts": []
+  },
+  {
+   "id": "t240292",
+   "en": "The negotiations stepped into a crucial phase.",
+   "es": "Las negociaciones entraron en una etapa crucial.",
+   "alts": []
+  },
+  {
+   "id": "t5055209",
+   "en": "The teachers looked at each other, astonished.",
+   "es": "Las profesoras se miraron las unas a las otras asombradas.",
+   "alts": [
+    "The women teachers looked at each other, astonished."
+   ]
+  },
+  {
+   "id": "t9962860",
+   "en": "Not everything bad is literally the Holocaust.",
+   "es": "No todo lo malo es literalmente el Holocausto.",
+   "alts": []
+  },
+  {
+   "id": "t1310422",
+   "en": "I tried to investigate his opinion indirectly.",
+   "es": "Intenté hacer indagaciones sobre su opinión indirectamente.",
+   "alts": []
+  },
+  {
+   "id": "t13642205",
+   "en": "Longer sentences are often tricky to translate.",
+   "es": "Las frases largas a menudo son complicadas de traducir.",
+   "alts": []
+  },
+  {
+   "id": "t2825891",
+   "en": "She attained everlasting fame through her work.",
+   "es": "Ella ganó fama imperecedera por su obra.",
+   "alts": []
+  },
+  {
+   "id": "t9056509",
+   "en": "Words that don't precede actions are worthless.",
+   "es": "Las palabras que no van seguidas de hechos, no valen nada.",
+   "alts": []
+  },
+  {
+   "id": "t60210",
+   "en": "This chemical will prevent germs from breeding.",
+   "es": "Este producto químico evitará que los gérmenes se reproduzcan.",
+   "alts": []
+  },
+  {
+   "id": "t276711",
+   "en": "The expedition passed through the great jungle.",
+   "es": "La expedición pasó a través de una gran selva.",
+   "alts": []
+  },
+  {
+   "id": "t56796",
+   "en": "Compare this genuine jewel with that imitation.",
+   "es": "Compara esta joya auténtica con aquella imitación.",
+   "alts": []
+  },
+  {
+   "id": "t460059",
+   "en": "The doctor prescribed medicine for the patient.",
+   "es": "El doctor recetó medicina para el paciente.",
+   "alts": []
+  },
+  {
+   "id": "t262769",
+   "en": "We were entirely deceived by the advertisement.",
+   "es": "La publicidad nos engañó por completo.",
+   "alts": []
+  },
+  {
+   "id": "t2253534",
+   "en": "His sincerity gained the confidence of everyone.",
+   "es": "Con su sinceridad ganó la confianza de todos.",
+   "alts": [
+    "He won everyone's trust with his sincerity.",
+    "She won everyone's trust with her sincerity."
+   ]
+  },
+  {
+   "id": "t68505",
+   "en": "That outfit is running a fly-by-night operation.",
+   "es": "Ese equipo está realizando una operación sospechosa.",
+   "alts": []
+  },
+  {
+   "id": "t367129",
+   "en": "I'm having some problems compiling this software.",
+   "es": "Tengo problemas para compilar este programa.",
+   "alts": []
+  },
+  {
+   "id": "t272914",
+   "en": "The teacher illustrated his theory with pictures.",
+   "es": "El profesor ilustró su teoría con fotos.",
+   "alts": []
+  },
+  {
+   "id": "t10058300",
+   "en": "I consider myself an extraordinarily happy person.",
+   "es": "Yo me considero una persona extraordinariamente feliz.",
+   "alts": []
+  },
+  {
+   "id": "t9138038",
+   "en": "You shouldn't interfere in other people's affairs.",
+   "es": "No debes interferir en los asuntos de otras personas.",
+   "alts": []
+  },
+  {
+   "id": "t3504517",
+   "en": "Violent criminals were often bullies in childhood.",
+   "es": "Los criminales violentos suelen haber sido abusadores en la niñez.",
+   "alts": []
+  },
+  {
+   "id": "t706857",
+   "en": "Sometimes little kids aspire to be strange things.",
+   "es": "A veces los niños pequeños aspiran a ser cosas extrañas.",
+   "alts": []
+  },
+  {
+   "id": "t274143",
+   "en": "Few scientists understand the theory of relativity.",
+   "es": "Pocos científicos entienden la teoría de la relatividad.",
+   "alts": []
+  },
+  {
+   "id": "t295292",
+   "en": "He has investigated the possibility of cooperation.",
+   "es": "Él ha investigado la posibilidad de una cooperación.",
+   "alts": []
+  },
+  {
+   "id": "t4769895",
+   "en": "Flexible work hours make employees more productive.",
+   "es": "El horario de trabajo flexible aumenta la productividad de los empleados.",
+   "alts": []
+  },
+  {
+   "id": "t46153",
+   "en": "Proper qualifications are required for the position.",
+   "es": "Se requieren calificaciones apropiadas para el puesto.",
+   "alts": []
+  },
+  {
+   "id": "t10623609",
+   "en": "Information processing permeates all aspects of life.",
+   "es": "El tratamiento de la información impregna todos los aspectos de la vida.",
+   "alts": []
+  },
+  {
+   "id": "t19889",
+   "en": "Despite adversity, the architect achieved worldwide fame.",
+   "es": "A pesar de la adversidad, el arquitecto consiguió fama mundial.",
+   "alts": []
+  },
+  {
+   "id": "t267921",
+   "en": "Ethnic minorities struggle against prejudice and poverty.",
+   "es": "Las minorías étnicas combaten contra el prejuicio y la pobreza.",
+   "alts": []
+  },
+  {
+   "id": "t623297",
+   "en": "Many companies monitor their employees' internet activity.",
+   "es": "Muchas compañías monitorean la actividad de sus empleados en internet.",
+   "alts": []
+  },
+  {
+   "id": "t10202756",
+   "en": "I've received many threatening messages from my therapists.",
+   "es": "He recibido muchos mensajes amenazadores de mis terapeutas.",
+   "alts": []
+  },
+  {
+   "id": "t11267146",
+   "en": "Currently, torch-shaped electric lamps are being manufactured.",
+   "es": "Actualmente se fabrican lámparas eléctricas con forma de antorcha.",
+   "alts": []
+  }
+ ]
+}

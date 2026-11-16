@@ -1,0 +1,1627 @@
+{
+ "id": "u-b1-09",
+ "level": "B1",
+ "n": 9,
+ "title": "Eat smart",
+ "goals": [
+  "Talk about small amounts of food with a little, a few, very little, very few, less and fewer.",
+  "Distinguish countable and uncountable nouns and use much and many.",
+  "Name food containers and measures (a carton of, a kilo of, a loaf of).",
+  "Say that something is too much or enough with too, too much, too many and enough.",
+  "Describe how food is prepared (grilled, steamed, baked) and talk about food and health.",
+  "Give examples with like, such as and for example; let someone else decide and politely turn down offers."
+ ],
+ "learn": [
+  {
+   "id": "v-food-types",
+   "kind": "vocab",
+   "title": "Fruit, vegetables and types of food",
+   "words": [
+    {
+     "id": "w-apple",
+     "en": "apple",
+     "es": "manzana",
+     "example": "I eat an apple every morning.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-broccoli",
+     "en": "broccoli",
+     "es": "brócoli",
+     "example": "Broccoli has a lot of vitamins."
+    },
+    {
+     "id": "w-carrot",
+     "en": "carrot",
+     "es": "zanahoria",
+     "example": "She puts a carrot in the soup.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-green-pepper",
+     "en": "green pepper",
+     "es": "pimiento verde",
+     "example": "We need a green pepper for the salad.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-mango",
+     "en": "mango",
+     "es": "mango",
+     "example": "Mango with lemon and chili is my favorite snack."
+    },
+    {
+     "id": "w-orange",
+     "en": "orange",
+     "es": "naranja",
+     "example": "I drink orange juice with breakfast.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pineapple",
+     "en": "pineapple",
+     "es": "piña",
+     "example": "Grilled pineapple is great with tacos."
+    },
+    {
+     "id": "w-tomato",
+     "en": "tomato",
+     "es": "jitomate, tomate",
+     "example": "Two tomatoes are enough for the sauce.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fast-food",
+     "en": "fast food",
+     "es": "comida rápida",
+     "example": "Fast food is cheap, but it isn't very healthy.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fresh-fv",
+     "en": "fresh fruit and vegetables",
+     "es": "frutas y verduras frescas",
+     "example": "Fresh fruit and vegetables are better than canned ones.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-frozen-meal",
+     "en": "frozen meal / frozen dinner",
+     "es": "comida congelada",
+     "example": "I eat a frozen meal when I get home late.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-treat",
+     "en": "treat",
+     "es": "antojito, premio (algo dulce o especial)",
+     "example": "A slice of cake is a nice treat on Sunday.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-snack",
+     "en": "snack",
+     "es": "botana, refrigerio",
+     "example": "I always have a snack at four o'clock."
+    }
+   ]
+  },
+  {
+   "id": "g-quantity",
+   "kind": "grammar",
+   "title": "Small quantities: a little, a few, very little, very few, less, fewer",
+   "html": "<p>To talk about small quantities, English distinguishes between <strong>uncountable</strong> nouns (things you cannot count: <em>milk, rice, butter, food</em>) and <strong>plural countable</strong> nouns (<em>eggs, carrots, calories</em>). In Spanish we use «poco/a/os/as» for everything; in English you have to choose.</p><table><thead><tr><th>Meaning</th><th>Uncountable</th><th>Countable (plural)</th></tr></thead><tbody><tr><td>some, a little (enough)</td><td><strong>a little</strong> butter</td><td><strong>a few</strong> slices of cheese</td></tr><tr><td>almost none, not much</td><td><strong>very little</strong> food</td><td><strong>very few</strong> frozen meals</td></tr><tr><td>less (comparison)</td><td><strong>less</strong> fat</td><td><strong>fewer</strong> calories</td></tr><tr><td>in negatives</td><td>not <strong>much</strong> food</td><td>not <strong>many</strong> vegetables</td></tr></tbody></table><ul><li><em>A little / a few</em> sound positive: <em>We have a few eggs</em> (we can cook something).</li><li><em>Very little / very few</em> sound negative: <em>We have very few eggs</em> (there are almost none).</li><li><em>Much</em> and <em>many</em> are mainly used in questions and negatives: <em>There isn't much juice. Are there many apples?</em></li><li>Measures (<em>a carton of, a kilo of</em>) let you count uncountable things: <em>two cartons of juice</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I eat very few meat.",
+     "right": "I eat very little meat.",
+     "why": "Meat is uncountable: little, not few."
+    },
+    {
+     "wrong": "There aren't much vegetables.",
+     "right": "There aren't many vegetables.",
+     "why": "Vegetables is countable in the plural: many."
+    },
+    {
+     "wrong": "Fruit has less calories than cake.",
+     "right": "Fruit has fewer calories than cake.",
+     "why": "Calories are counted: fewer, not less."
+    },
+    {
+     "wrong": "We have a few of milk.",
+     "right": "We have a little milk.",
+     "why": "Milk is uncountable; also, a little doesn't take of."
+    }
+   ]
+  },
+  {
+   "id": "v-containers",
+   "kind": "vocab",
+   "title": "Food containers and measures",
+   "words": [
+    {
+     "id": "w-bag",
+     "en": "a bag of (potato chips)",
+     "es": "una bolsa de (papas fritas)",
+     "example": "I bought a bag of potato chips for the party.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-bottle",
+     "en": "a bottle of (soy sauce / ketchup)",
+     "es": "una botella de (salsa de soya / cátsup)",
+     "example": "We need a bottle of soy sauce.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-box",
+     "en": "a box of (cereal / crackers)",
+     "es": "una caja de (cereal / galletas saladas)",
+     "example": "He eats a box of cereal every week.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-can",
+     "en": "a can of (soup / soda)",
+     "es": "una lata de (sopa / refresco)",
+     "example": "I opened a can of tomato soup."
+    },
+    {
+     "id": "w-carton",
+     "en": "a carton of (juice / eggs)",
+     "es": "un cartón de (jugo / huevos)",
+     "example": "Buy a carton of eggs, please."
+    },
+    {
+     "id": "w-jar",
+     "en": "a jar of (mustard / hot peppers)",
+     "es": "un frasco de (mostaza / chiles)",
+     "example": "There's a jar of hot peppers in the fridge."
+    },
+    {
+     "id": "w-kilo",
+     "en": "a kilo of (rice)",
+     "es": "un kilo de (arroz)",
+     "example": "A kilo of rice is enough for two weeks."
+    },
+    {
+     "id": "w-liter",
+     "en": "a liter of (soda / water)",
+     "es": "un litro de (refresco / agua)",
+     "example": "I drink almost two liters of water a day.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-loaf",
+     "en": "a loaf / two loaves of bread",
+     "es": "una barra / dos barras de pan (plural irregular: loaves)",
+     "example": "Two loaves of bread are too many for us.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-package",
+     "en": "a package of (cookies)",
+     "es": "un paquete de (galletas)",
+     "example": "She ate a whole package of cookies.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-pound",
+     "en": "a pound of (hamburger meat)",
+     "es": "una libra de (carne molida)",
+     "example": "I need a pound of hamburger meat for dinner.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-quart",
+     "en": "a quart of (skim milk)",
+     "es": "un cuarto de galón de (leche descremada)",
+     "example": "We use a quart of skim milk every week."
+    },
+    {
+     "id": "w-slice",
+     "en": "a slice of (cheese)",
+     "es": "una rebanada / un trozo de (queso)",
+     "example": "Put a slice of cheese on the sandwich.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-tub",
+     "en": "a tub of (margarine / butter)",
+     "es": "un tarro de (margarina / mantequilla)",
+     "example": "There's half a tub of butter left."
+    }
+   ]
+  },
+  {
+   "id": "g-too-enough",
+   "kind": "grammar",
+   "title": "too, too much, too many and enough",
+   "html": "<p>These words tell you whether something is «more than necessary» (<em>too</em>) or whether it is enough (<em>enough</em>). Their position changes.</p><table><thead><tr><th>Word</th><th>Use</th><th>Example</th></tr></thead><tbody><tr><td><strong>too much</strong> + uncountable</td><td>more than needed</td><td>I ate <strong>too much</strong> food.</td></tr><tr><td><strong>too many</strong> + plural countable</td><td>more than needed</td><td>I ate <strong>too many</strong> fries.</td></tr><tr><td><strong>too</strong> + adjective / adverb</td><td>more than needed</td><td>He's <strong>too</strong> full. She eats <strong>too</strong> slowly.</td></tr><tr><td>verb + <strong>too much</strong></td><td>too much (action)</td><td>She talks <strong>too much</strong>.</td></tr><tr><td><strong>enough</strong> + noun</td><td>sufficient</td><td>I didn't eat <strong>enough</strong> food.</td></tr><tr><td>adjective / adverb + <strong>enough</strong></td><td>sufficiently</td><td>The salad wasn't filling <strong>enough</strong>. She doesn't eat fast <strong>enough</strong>.</td></tr></tbody></table><ul><li><em>Too much / too many / enough</em> also work alone: <em>I ate too much. I didn't eat enough.</em></li><li><strong>Enough goes before the noun but after the adjective or adverb</strong>: <em>enough money</em> but <em>rich enough</em>.</li><li><em>Too</em> has a negative meaning («more than is good»). To say «very» in a positive way, use <em>very</em>: <em>very good</em>, not <em>too good</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I drink too many coffee.",
+     "right": "I drink too much coffee.",
+     "why": "Coffee is uncountable: too much."
+    },
+    {
+     "wrong": "The soup isn't enough hot.",
+     "right": "The soup isn't hot enough.",
+     "why": "Enough goes after the adjective."
+    },
+    {
+     "wrong": "She eats too slow.",
+     "right": "She eats too slowly.",
+     "why": "With a verb you need an adverb: too slowly."
+    },
+    {
+     "wrong": "This cake is too good!",
+     "right": "This cake is very good!",
+     "why": "Too means excessive, negative; to praise, use very."
+    }
+   ]
+  },
+  {
+   "id": "v-cooking",
+   "kind": "vocab",
+   "title": "Prepared food and ways of cooking",
+   "words": [
+    {
+     "id": "w-baked",
+     "en": "baked (potatoes) / bake",
+     "es": "(papas) al horno / hornear",
+     "example": "Baked potatoes with cheese are my favorite.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-barbecued",
+     "en": "barbecued (beef) / barbecue",
+     "es": "(carne de res) a la parrilla, barbacoa / asar",
+     "example": "My uncle barbecues beef every Sunday."
+    },
+    {
+     "id": "w-boiled",
+     "en": "boiled (eggs) / boil",
+     "es": "(huevos) cocidos / hervir",
+     "example": "Boil the eggs for ten minutes.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-fried",
+     "en": "fried (eggs / potatoes) / fry",
+     "es": "(huevos / papas) fritos / freír",
+     "example": "I don't fry food very often.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-grilled",
+     "en": "grilled (shrimp) / grill",
+     "es": "(camarones) a la plancha o parrilla / asar a la parrilla",
+     "example": "Grilled shrimp with lemon is delicious."
+    },
+    {
+     "id": "w-pickled",
+     "en": "pickled (cabbage) / pickle",
+     "es": "(col) encurtida / encurtir",
+     "example": "Pickled cabbage is good on tacos."
+    },
+    {
+     "id": "w-raw",
+     "en": "raw (fish)",
+     "es": "(pescado) crudo",
+     "example": "Sushi is made with raw fish.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-roast",
+     "en": "roast (lamb) / roast",
+     "es": "(cordero) asado al horno / asar al horno",
+     "example": "We have roast lamb at Christmas."
+    },
+    {
+     "id": "w-smoked",
+     "en": "smoked (fish)",
+     "es": "(pescado) ahumado",
+     "example": "Smoked fish has a strong flavor.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-steamed",
+     "en": "steamed (vegetables) / steam",
+     "es": "(verduras) al vapor / cocer al vapor",
+     "example": "Steamed vegetables are healthy and light.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-stir-fried",
+     "en": "stir-fried (noodles) / stir-fry",
+     "es": "(fideos) salteados / saltear",
+     "example": "I stir-fry noodles with green peppers."
+    },
+    {
+     "id": "w-dessert",
+     "en": "dessert",
+     "es": "postre",
+     "example": "Apple pie is my favorite dessert.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-apple-pie",
+     "en": "apple pie",
+     "es": "pay de manzana",
+     "example": "She makes a great apple pie.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-food-health",
+   "kind": "vocab",
+   "title": "Food and health; recipes",
+   "words": [
+    {
+     "id": "w-calorie",
+     "en": "calorie",
+     "es": "caloría",
+     "example": "A can of soda has too many calories."
+    },
+    {
+     "id": "w-carbohydrate",
+     "en": "carbohydrate",
+     "es": "carbohidrato",
+     "example": "Rice and bread are rich in carbohydrates."
+    },
+    {
+     "id": "w-fat",
+     "en": "fat",
+     "es": "grasa",
+     "example": "I'm trying to eat less fat.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-protein",
+     "en": "protein",
+     "es": "proteína",
+     "example": "Eggs and beans have a lot of protein.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-lose-weight",
+     "en": "lose weight",
+     "es": "bajar de peso",
+     "example": "He wants to lose weight before the summer.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-improve-mood",
+     "en": "improve your mood",
+     "es": "mejorar el estado de ánimo",
+     "example": "Exercise can improve your mood.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-recipe",
+     "en": "recipe",
+     "es": "receta",
+     "example": "Do you have a recipe for chicken soup?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-ingredients",
+     "en": "ingredients",
+     "es": "ingredientes",
+     "example": "The ingredients are simple: beans, onion and chili.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-spices",
+     "en": "spices",
+     "es": "especias",
+     "example": "Mexican food uses a lot of spices.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-flavor",
+     "en": "flavor",
+     "es": "sabor",
+     "example": "Fresh herbs give the soup more flavor.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-filling",
+     "en": "filling",
+     "es": "relleno; que llena mucho",
+     "example": "These tamales have a delicious cheese filling.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-deep-fried",
+     "en": "deep-fried (pastries)",
+     "es": "(pasteles) fritos en mucho aceite",
+     "example": "Churros are deep-fried pastries."
+    }
+   ]
+  },
+  {
+   "id": "g-examples",
+   "kind": "grammar",
+   "title": "Giving examples: like, for example, such as",
+   "html": "<p>In a text or conversation you can illustrate an idea with examples. There are three common ways, with different punctuation.</p><table><thead><tr><th>Expression</th><th>How it is used</th><th>Example</th></tr></thead><tbody><tr><td><strong>like</strong></td><td>inside the sentence; informal</td><td>Try some tropical fruit, <strong>like</strong> mango or pineapple.</td></tr><tr><td><strong>such as</strong></td><td>inside the sentence; a little more formal</td><td>You can add toppings, <strong>such as</strong> coconut or chocolate.</td></tr><tr><td><strong>for example</strong></td><td>new sentence (or between commas); followed by a complete example</td><td>There are many snacks. <strong>For example</strong>, people eat roasted corn.</td></tr></tbody></table><ul><li>There is no <em>such like</em> or <em>for example as</em>.</li><li>After <em>like</em> and <em>such as</em> usually comes just a noun (or several): <em>fruits such as mangoes and oranges</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "She eats foods such like broccoli.",
+     "right": "She eats foods such as broccoli.",
+     "why": "The expression is such as, not such like."
+    },
+    {
+     "wrong": "I like snacks, for example as chips.",
+     "right": "I like snacks, for example chips.",
+     "why": "For example doesn't combine with as."
+    },
+    {
+     "wrong": "For example people eat tamales.",
+     "right": "For example, people eat tamales.",
+     "why": "After For example at the start, use a comma."
+    }
+   ]
+  },
+  {
+   "id": "e-letting-decide",
+   "kind": "expressions",
+   "title": "Letting someone else decide and politely turning down offers",
+   "html": "<p><strong>Letting someone else decide:</strong></p><ul><li><strong>Either one (is fine). / Either way (is fine).</strong> — either one is fine.</li><li><strong>Whatever you're having. / Whatever you prefer.</strong> — whatever you want / whatever you choose.</li><li><strong>Whichever is easier (for you).</strong> — whichever is easier for you.</li></ul><p><strong>Politely turning down food or drink offers:</strong></p><ul><li><strong>No, thanks. Maybe later.</strong> — not now; maybe later.</li><li><strong>I'm fine. Really.</strong> — I'm fine, really.</li><li><strong>I'm OK for now. But thanks.</strong> — I'm fine for now, but thanks.</li></ul><p>Example: <em>A: Do you want tea or coffee? B: Either one is fine. Whatever you're having.</em></p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Small quantities",
+   "instructions": "Choose or write the correct word (a little, a few, very little, very few, less, fewer, much, many).",
+   "topic": "g-quantity",
+   "items": [
+    {
+     "id": "A1",
+     "type": "choice",
+     "prompt": "There's very ___ rice in the cupboard. We need to buy some.",
+     "options": [
+      "few",
+      "little",
+      "many"
+     ],
+     "answer": 1,
+     "explain": "Rice is uncountable: very little."
+    },
+    {
+     "id": "A2",
+     "type": "choice",
+     "prompt": "I only have ___ eggs, but it's enough for an omelet.",
+     "options": [
+      "a little",
+      "a few",
+      "much"
+     ],
+     "answer": 1,
+     "explain": "Eggs is countable plural and sounds like enough: a few."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "There aren't ___ vegetables in the fridge.",
+     "answers": [
+      "many"
+     ],
+     "explain": "Vegetables is countable plural; in negatives, use many."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "Skim milk has ___ fat than whole milk.",
+     "answers": [
+      "less"
+     ],
+     "explain": "Fat is uncountable: less (comparison)."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "Fresh fruit has ___ calories than a chocolate bar.",
+     "answers": [
+      "fewer"
+     ],
+     "explain": "Calories is countable: fewer (comparison)."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "I eat very few meat.",
+     "answers": [
+      "I eat very little meat."
+     ],
+     "explain": "Meat is uncountable: very little."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "There isn't many juice in the carton.",
+     "answers": [
+      "There isn't much juice in the carton.",
+      "There's not much juice in the carton.",
+      "There is not much juice in the carton."
+     ],
+     "explain": "Juice is uncountable: much."
+    },
+    {
+     "id": "A8",
+     "type": "choice",
+     "prompt": "We eat ___ frozen meals. They aren't healthy.",
+     "options": [
+      "very few",
+      "very little",
+      "less"
+     ],
+     "answer": 0,
+     "explain": "Frozen meals is countable plural: very few (almost none)."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Containers and measures",
+   "instructions": "Complete with the correct container or measure.",
+   "topic": "v-containers",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "I need a ___ of cereal for breakfast. (box)",
+     "answers": [
+      "box"
+     ],
+     "explain": "Cereal comes in a box."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "Please buy a ___ of bread. (loaf)",
+     "answers": [
+      "loaf"
+     ],
+     "explain": "Bread is counted in loaves."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "Two ___ of bread are enough for the weekend.",
+     "answers": [
+      "loaves"
+     ],
+     "explain": "Irregular plural of loaf: loaves."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "a ___ of tomato soup",
+     "options": [
+      "can",
+      "slice",
+      "tub"
+     ],
+     "answer": 0,
+     "explain": "Canned soup: a can of soup."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "a ___ of cheese",
+     "options": [
+      "jar",
+      "slice",
+      "liter"
+     ],
+     "answer": 1,
+     "explain": "Cheese is cut into slices."
+    },
+    {
+     "id": "B6",
+     "type": "gap",
+     "prompt": "We need two ___ of orange juice. (cartons)",
+     "answers": [
+      "cartons"
+     ],
+     "explain": "Juice: a carton of; plural cartons."
+    },
+    {
+     "id": "B7",
+     "type": "translate",
+     "prompt": "Necesito un kilo de arroz y una botella de salsa de soya.",
+     "answers": [
+      "I need a kilo of rice and a bottle of soy sauce.",
+      "I need a kilogram of rice and a bottle of soy sauce."
+     ],
+     "explain": "Measure/container + of + noun."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "too, too much, too many, enough",
+   "instructions": "Complete or correct.",
+   "topic": "g-too-enough",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "I ate ___ fries. Now I feel sick.",
+     "options": [
+      "too much",
+      "too many",
+      "enough"
+     ],
+     "answer": 1,
+     "explain": "Fries is countable plural: too many."
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "There's ___ sugar in this coffee. It's awful.",
+     "options": [
+      "too many",
+      "too much",
+      "too"
+     ],
+     "answer": 1,
+     "explain": "Sugar is uncountable: too much."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "This soup is ___ salty. I can't eat it.",
+     "answers": [
+      "too"
+     ],
+     "explain": "Too + adjective."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "She doesn't eat fast ___. She's always late for class.",
+     "answers": [
+      "enough"
+     ],
+     "explain": "Adverb + enough."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "I drink too many coffee.",
+     "answers": [
+      "I drink too much coffee."
+     ],
+     "explain": "Coffee is uncountable: too much."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "The salad isn't enough big for four people.",
+     "answers": [
+      "The salad isn't big enough for four people.",
+      "The salad is not big enough for four people."
+     ],
+     "explain": "Enough goes after the adjective."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "He eats too slow.",
+     "answers": [
+      "He eats too slowly."
+     ],
+     "explain": "With a verb: adverb (slowly)."
+    },
+    {
+     "id": "C8",
+     "type": "gap",
+     "prompt": "We don't have ___ chairs for everyone.",
+     "answers": [
+      "enough"
+     ],
+     "explain": "Enough goes before the noun."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Cooking, food and health",
+   "instructions": "Choose or write the word that fits.",
+   "topic": "v-cooking",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "Eggs cooked in water are ___ eggs.",
+     "options": [
+      "boiled",
+      "fried",
+      "grilled"
+     ],
+     "answer": 0,
+     "explain": "Cooked in water: boiled."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "Sushi often has ___ fish.",
+     "options": [
+      "raw",
+      "baked",
+      "roast"
+     ],
+     "answer": 0,
+     "explain": "Fish that isn't cooked: raw."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "Shrimp cooked on a hot grill are ___ shrimp.",
+     "answers": [
+      "grilled"
+     ],
+     "explain": "Grill → grilled."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "Broccoli cooked with hot vapor is ___ broccoli.",
+     "answers": [
+      "steamed"
+     ],
+     "explain": "Steam → steamed."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "Chicken, eggs and beans have a lot of ___.",
+     "options": [
+      "protein",
+      "spices",
+      "flavor"
+     ],
+     "answer": 0,
+     "explain": "Foods that build muscle contain protein."
+    },
+    {
+     "id": "D6",
+     "type": "gap",
+     "prompt": "If you want to ___ weight, eat fewer treats.",
+     "answers": [
+      "lose"
+     ],
+     "explain": "Lose weight = to reduce your body weight."
+    },
+    {
+     "id": "D7",
+     "type": "gap",
+     "prompt": "A ___ tells you the ingredients and the steps to make a dish.",
+     "answers": [
+      "recipe"
+     ],
+     "explain": "Recipe = the list of ingredients and steps."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Giving examples",
+   "instructions": "Use like, such as or for example.",
+   "topic": "g-examples",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "I love Mexican snacks, ___ as churros and chicharrones.",
+     "answers": [
+      "such"
+     ],
+     "explain": "Such as introduces examples."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "Eat fresh fruit, ___ mango or pineapple.",
+     "answers": [
+      "like"
+     ],
+     "explain": "Like + examples."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "There are many healthy snacks. ___ example, carrots with lemon.",
+     "answers": [
+      "for"
+     ],
+     "explain": "For example opens a sentence."
+    },
+    {
+     "id": "E4",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "Try some tropical fruits, such as mango.",
+      "Try some tropical fruits, such mango.",
+      "Try some tropical fruits, for example as mango."
+     ],
+     "answer": 0,
+     "explain": "The correct form is such as."
+    },
+    {
+     "id": "E5",
+     "type": "fix",
+     "prompt": "She eats foods such like broccoli.",
+     "answers": [
+      "She eats foods such as broccoli.",
+      "She eats foods like broccoli."
+     ],
+     "explain": "Say such as or like, not such like."
+    },
+    {
+     "id": "E6",
+     "type": "translate",
+     "prompt": "Me gustan las frutas tropicales, como el mango y la piña.",
+     "answers": [
+      "I like tropical fruits, like mango and pineapple.",
+      "I like tropical fruits, such as mango and pineapple.",
+      "I like tropical fruit, like mango and pineapple.",
+      "I like tropical fruit, such as mango and pineapple."
+     ],
+     "explain": "Like / such as = como."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Letting someone else decide and politely turning down offers",
+   "instructions": "Choose the most natural answer.",
+   "topic": "e-letting-decide",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "\"Do you want rice or beans?\"",
+     "options": [
+      "Either one is fine.",
+      "I'm fine. Really.",
+      "Maybe later."
+     ],
+     "answer": 0,
+     "explain": "When you have no preference: Either one is fine."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "\"Can I get you something to eat?\"",
+     "options": [
+      "Whatever you prefer.",
+      "No, thanks. Maybe later.",
+      "Either way."
+     ],
+     "answer": 1,
+     "explain": "To politely turn down: No, thanks. Maybe later."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "\"Do you want tea or coffee?\"",
+     "options": [
+      "Whatever you're having.",
+      "I'm OK for now.",
+      "Maybe later."
+     ],
+     "answer": 0,
+     "explain": "Letting the other person decide: Whatever you're having."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "\"Are you sure you're not hungry?\"",
+     "options": [
+      "Whichever is easier.",
+      "No, thanks. I'm fine. Really.",
+      "Either one."
+     ],
+     "answer": 1,
+     "explain": "To insist that you don't want something: I'm fine. Really."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "\"Should we eat here or at home?\"",
+     "options": [
+      "Whichever is easier for you.",
+      "I'm OK for now.",
+      "No, thanks."
+     ],
+     "answer": 0,
+     "explain": "You leave the decision: Whichever is easier for you."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "\"Would you like some more cake?\"",
+     "options": [
+      "I'm OK for now. But thanks.",
+      "Either one is fine.",
+      "Whatever you're having."
+     ],
+     "answer": 0,
+     "explain": "Polite refusal: I'm OK for now. But thanks."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "slices",
+      "a",
+      "of",
+      "We",
+      "have",
+      "few",
+      "cheese"
+     ],
+     "answers": [
+      "We have a few slices of cheese."
+     ],
+     "explain": "A few + plural countable noun."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "much",
+      "in",
+      "isn't",
+      "milk",
+      "the",
+      "There",
+      "fridge"
+     ],
+     "answers": [
+      "There isn't much milk in the fridge."
+     ],
+     "explain": "Not much + uncountable."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "fries",
+      "I",
+      "many",
+      "too",
+      "ate"
+     ],
+     "answers": [
+      "I ate too many fries."
+     ],
+     "explain": "Too many + plural countable."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "enough",
+      "eat",
+      "vegetables",
+      "doesn't",
+      "He"
+     ],
+     "answers": [
+      "He doesn't eat enough vegetables."
+     ],
+     "explain": "Enough before the noun."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "of",
+      "Can",
+      "juice",
+      "I",
+      "a",
+      "have",
+      "carton"
+     ],
+     "answers": [
+      "Can I have a carton of juice?"
+     ],
+     "explain": "Can I have + container + of + noun."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "as",
+      "some",
+      "such",
+      "Try",
+      "fruit,",
+      "mango"
+     ],
+     "answers": [
+      "Try some fruit, such as mango."
+     ],
+     "explain": "Such as introduces examples."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Hay muy poca leche en el refrigerador.",
+     "answers": [
+      "There is very little milk in the fridge.",
+      "There's very little milk in the fridge.",
+      "There is very little milk in the refrigerator.",
+      "There's very little milk in the refrigerator."
+     ],
+     "explain": "Milk is uncountable: very little."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Comí demasiadas papas fritas.",
+     "answers": [
+      "I ate too many fries.",
+      "I ate too many french fries.",
+      "I had too many fries.",
+      "I had too many french fries."
+     ],
+     "explain": "French fries are countable: too many."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "La sopa no está lo bastante caliente.",
+     "answers": [
+      "The soup isn't hot enough.",
+      "The soup is not hot enough.",
+      "The soup's not hot enough."
+     ],
+     "explain": "Adjective + enough."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Necesito una lata de tomates y un frasco de mostaza.",
+     "answers": [
+      "I need a can of tomatoes and a jar of mustard."
+     ],
+     "explain": "Container + of + noun."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Estoy tratando de comer menos grasa.",
+     "answers": [
+      "I'm trying to eat less fat.",
+      "I am trying to eat less fat."
+     ],
+     "explain": "Fat is uncountable: less."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "No, gracias. Estoy bien, de verdad.",
+     "answers": [
+      "No, thanks. I'm fine. Really.",
+      "No, thank you. I'm fine. Really.",
+      "No, thanks. I am fine. Really.",
+      "No, thank you. I am fine. Really."
+     ],
+     "explain": "Polite refusal of food or an offer."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit review mix",
+   "instructions": "Exercises on different topics from the unit, with review of earlier units.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "We don't have ___ bread. Let's buy a loaf.",
+     "options": [
+      "many",
+      "much",
+      "few"
+     ],
+     "answer": 1,
+     "explain": "Bread is uncountable: much."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "There are very ___ calories in broccoli.",
+     "answers": [
+      "few"
+     ],
+     "explain": "Calories is countable plural: very few."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "I put too many salt in the soup.",
+     "answers": [
+      "I put too much salt in the soup."
+     ],
+     "explain": "Salt is uncountable: too much."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Hay suficientes tomates para la ensalada.",
+     "answers": [
+      "There are enough tomatoes for the salad."
+     ],
+     "explain": "Enough before the noun."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "A: Do you want tea or coffee? B: ___",
+     "options": [
+      "Whatever you're having.",
+      "I'm fine. Really.",
+      "Maybe later."
+     ],
+     "answer": 0,
+     "explain": "Let the other person decide."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "Try Thai desserts. ___ example, sweet sticky rice is delicious.",
+     "answers": [
+      "for"
+     ],
+     "explain": "For example opens a sentence."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "Yesterday we ___ (go) to a restaurant. (review: simple past)",
+     "answers": [
+      "went"
+     ],
+     "explain": "Go is irregular: went."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "Mexican food is ___ than fast food. (healthy) (review: comparatives)",
+     "answers": [
+      "healthier"
+     ],
+     "explain": "Short adjective ending in -y: healthier."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write 120 to 180 words about your eating habits. Say what you eat too much of (too much / too many), what you don't eat enough of (enough), what you want to eat less of (less / fewer), two things you buy in containers (a carton of…) and two ways of cooking you prefer. Give examples with such as, like or for example.",
+   "targets": [
+    "a little / a few / very little / very few",
+    "less / fewer",
+    "too much / too many / enough",
+    "containers and measures",
+    "like / such as / for example"
+   ],
+   "checklist": [
+    "much with uncountable nouns and many with countable nouns",
+    "At least one too much or too many, and one enough",
+    "less with uncountable nouns and fewer with countable nouns",
+    "Two containers or measures with of (a kilo of…)",
+    "Two cooking methods (grilled, steamed…)",
+    "One example with such as, like or for example",
+    "Between 120 and 180 words"
+   ],
+   "model": "I think I eat too much sugar. I drink two or three sodas a day, and I have too many cookies after dinner. I also eat too much bread, because it is cheap and easy. On the other hand, I don't eat enough vegetables or fruit. I only have a few vegetables on my plate, usually some lettuce and tomato.\n\nI want to eat less fried food and fewer sweets this year. I would like to drink less soda and have fewer snacks between meals. Fortunately, healthy food is easy to buy. For example, I always buy a kilo of apples and a bag of carrots every week. I also buy a carton of milk and a jar of honey for breakfast, and a can of beans for lunch.\n\nI prefer grilled chicken to fried chicken, and I like steamed vegetables like broccoli and carrots. I also enjoy baked fish, such as salmon, but it is expensive. Right now, I'm trying to eat enough protein, and I drink more water, so I feel much better."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write 120 to 160 words: a message to a friend who is coming to dinner at your house. Ask what they want to eat or drink, let them decide if necessary, say what you have and what is missing (a little, a few, very little), and write how you politely turn down an offer.",
+   "targets": [
+    "letting someone else decide",
+    "polite refusals",
+    "quantities",
+    "like / such as"
+   ],
+   "checklist": [
+    "An offer question (Do you want…?)",
+    "An expression such as Either one is fine / Whatever you prefer",
+    "A polite refusal (I'm OK for now. But thanks.)",
+    "Correct quantities with countable and uncountable nouns",
+    "An example with such as or like",
+    "Between 120 and 160 words"
+   ],
+   "model": "Hi Daniel,\n\nI'm so happy that you're coming to dinner on Saturday! What do you want to eat? I can make pasta or chicken with rice. Do you want something to drink, like juice or water? If you can't decide, I'll choose for you. Either one is fine with me, so please tell me what you prefer.\n\nI went to the supermarket yesterday. I have a little cheese, a few tomatoes and some onions. I have very little milk, so I need to buy more. There are very few eggs left, too. For dessert, I have some fruit, such as mangoes and bananas.\n\nYou asked if you can bring something. Thanks, but I'm OK for now! I have everything I need. If you want to help, you can come early and talk to me while I cook.\n\nSee you on Saturday!\nMarta"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Eating better, one step at a time",
+   "intro": "Read the text about Daniela and answer.",
+   "paragraphs": [
+    "Daniela is thirty-two and works in an office in Guadalajara. Three months ago her doctor told her, \"You're eating too much fast food and you don't sleep enough.\" Daniela was surprised, but she decided to change her habits slowly.",
+    "First, she looked in her kitchen. In the freezer there were too many frozen dinners, and in the cabinet there were two boxes of cookies and a big bag of potato chips. In the fridge, however, there was very little fresh fruit and only a few vegetables. \"I buy too many treats,\" she said, \"and I never have enough time to cook.\"",
+    "Now she goes to the local market every Saturday. She buys a kilo of tomatoes, a pound of green peppers, a few carrots and some broccoli. She also buys a liter of water and a carton of eggs. At first, the vegetables were more expensive than the frozen meals, but she says that fresh food has more flavor and fewer calories.",
+    "Daniela doesn't cook anything difficult. She prefers simple recipes: steamed vegetables, grilled chicken, boiled eggs and baked potatoes. She doesn't fry food very often now. \"Fried food is delicious, but it has too much fat,\" she explains. On Sundays, she makes a big pot of soup and puts a few portions in the freezer for the week.",
+    "She isn't perfect, and she doesn't want to be. She still eats a slice of cake or a few tacos with her friends on weekends. \"Treats are fine, as long as you don't eat too many,\" she says. After three months, Daniela has lost four kilos, she sleeps better, and her mood is better, too. \"Healthy food isn't boring,\" she says. \"You just need good ingredients, a little time and enough patience.\"",
+    "Her friend Carlos was not sure at first. \"Salads are boring,\" he said. But last month Daniela invited him for dinner. She cooked grilled shrimp with pineapple, steamed rice and a green salad, and she made a simple dessert with mango. Carlos ate two plates and asked for the recipe. Now he goes to the market with her on Saturdays, and he says that cooking at home is not too difficult."
+   ],
+   "glossary": [
+    {
+     "en": "habits",
+     "def": "things you do regularly"
+    },
+    {
+     "en": "surprised",
+     "def": "feeling that you did not expect something"
+    },
+    {
+     "en": "cabinet",
+     "def": "a closed cupboard, usually in a kitchen"
+    },
+    {
+     "en": "however",
+     "def": "used to show a contrast; but"
+    },
+    {
+     "en": "portion",
+     "def": "the amount of food for one person"
+    },
+    {
+     "en": "perfect",
+     "def": "without any mistakes or problems"
+    },
+    {
+     "en": "mood",
+     "def": "how you feel at a particular time"
+    },
+    {
+     "en": "patience",
+     "def": "the ability to stay calm while you wait"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Daniela's doctor said she ate too much fast food.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "El doctor dijo: «You're eating too much fast food»."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "At first, Daniela's fridge had a lot of fresh fruit.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "There was very little fresh fruit and a few vegetables."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What does Daniela buy at the market?",
+     "options": [
+      "A kilo of tomatoes and a pound of green peppers",
+      "A loaf of bread and a jar of mustard",
+      "Frozen meals and cookies"
+     ],
+     "answer": 0,
+     "explain": "Compra a kilo of tomatoes y a pound of green peppers."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Why doesn't she fry food very often now?",
+     "options": [
+      "It takes too long",
+      "It has too much fat",
+      "It has no flavor"
+     ],
+     "answer": 1,
+     "explain": "Fried food has too much fat."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "After three months, Daniela has lost ___ kilos.",
+     "answers": [
+      "four",
+      "4"
+     ],
+     "explain": "Mentions losing four kilos."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Treats are fine, as long as you don't eat too ___.",
+     "answers": [
+      "many"
+     ],
+     "explain": "Treats es contable plural: too many."
+    },
+    {
+     "id": "R7",
+     "type": "translate",
+     "prompt": "Daniela compra fruta fresca en el mercado.",
+     "answers": [
+      "Daniela buys fresh fruit at the market.",
+      "Daniela buys fresh fruit in the market.",
+      "Daniela buys fresh fruit at the local market."
+     ],
+     "explain": "Presente simple con she: buys."
+    }
+   ]
+  },
+  "listening": {
+   "title": "What do we need from the supermarket?",
+   "intro": "Listen to the conversation between Sofía and Mario. You can repeat it.",
+   "lines": [
+    {
+     "who": "Sofía",
+     "voice": "airy",
+     "text": "Mario, are you ready? I want to check what we have before we go to the supermarket."
+    },
+    {
+     "who": "Mario",
+     "voice": "buttery",
+     "text": "Sure. Let's look in the fridge. There's a little cheese and a carton of eggs."
+    },
+    {
+     "who": "Sofía",
+     "voice": "airy",
+     "text": "OK. How much rice do we have?"
+    },
+    {
+     "who": "Mario",
+     "voice": "buttery",
+     "text": "Very little. Just a small bag. We need a kilo of rice and a loaf of bread, too."
+    },
+    {
+     "who": "Sofía",
+     "voice": "airy",
+     "text": "And vegetables? I want to make stir-fried noodles with broccoli and green peppers."
+    },
+    {
+     "who": "Mario",
+     "voice": "buttery",
+     "text": "There are only a few green peppers, and there isn't any broccoli. Let's buy some."
+    },
+    {
+     "who": "Sofía",
+     "voice": "airy",
+     "text": "Good idea. Do you want dessert? We can buy a tub of ice cream."
+    },
+    {
+     "who": "Mario",
+     "voice": "buttery",
+     "text": "Hmm, I ate too much ice cream last week. Let's make a fruit salad with mango and pineapple instead."
+    },
+    {
+     "who": "Sofía",
+     "voice": "airy",
+     "text": "Great. What do you want to drink, juice or soda?"
+    },
+    {
+     "who": "Mario",
+     "voice": "buttery",
+     "text": "Either one is fine. Whatever you're having."
+    },
+    {
+     "who": "Sofía",
+     "voice": "airy",
+     "text": "Then juice. Two cartons should be enough for the week."
+    },
+    {
+     "who": "Mario",
+     "voice": "buttery",
+     "text": "Perfect. Let's go. I'll bring the bags."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "How much rice do they have at home?",
+     "options": [
+      "A lot",
+      "Very little",
+      "None"
+     ],
+     "answer": 1,
+     "explain": "Mario: «Very little. Just a small bag»."
+    },
+    {
+     "id": "L2",
+     "type": "gap",
+     "prompt": "They need a ___ of rice.",
+     "answers": [
+      "kilo"
+     ],
+     "explain": "Dicen: «We need a kilo of rice»."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What does Sofía want to cook?",
+     "options": [
+      "Stir-fried noodles",
+      "Grilled shrimp",
+      "Baked potatoes"
+     ],
+     "answer": 0,
+     "explain": "Sofía quiere stir-fried noodles con broccoli y green peppers."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "Mario ate too much ___ last week.",
+     "options": [
+      "ice cream",
+      "rice",
+      "cheese"
+     ],
+     "answer": 0,
+     "explain": "I ate too much ice cream last week."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What do they decide to drink?",
+     "options": [
+      "Soda",
+      "Juice",
+      "Water"
+     ],
+     "answer": 1,
+     "explain": "Sofía: «Then juice»; compran dos cartones."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "There's a little cheese and a carton of eggs.",
+     "answers": [
+      "There's a little cheese and a carton of eggs."
+     ],
+     "explain": "A little + incontable (cheese); a carton of + contable."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "We need a kilo of rice and a loaf of bread.",
+     "answers": [
+      "We need a kilo of rice and a loaf of bread."
+     ],
+     "explain": "Medidas con of: a kilo of, a loaf of."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "I ate too much ice cream last week.",
+     "answers": [
+      "I ate too much ice cream last week."
+     ],
+     "explain": "Too much + incontable."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Two cartons should be enough for the week.",
+     "answers": [
+      "Two cartons should be enough for the week."
+     ],
+     "explain": "Enough goes after the verb and before for the week."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Describe what's in your fridge and cupboard: what you have little or a lot of.",
+     "questions": [
+      "What's in your fridge right now?",
+      "Is there much fruit?",
+      "How many eggs do you have?",
+      "What do you need to buy this week?"
+     ],
+     "model": "There's a little cheese and a carton of eggs. There are very few vegetables, and there isn't much fruit. I need a kilo of tomatoes and a loaf of bread.",
+     "checklist": [
+      "a little / very little with uncountable nouns",
+      "a few / very few with plural countable nouns",
+      "Containers with of",
+      "Correct use of There is / There are"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about your eating habits: what you eat too much of and what you should eat more or less of.",
+     "questions": [
+      "Do you eat too much fast food?",
+      "Do you eat enough vegetables?",
+      "What do you want to eat less of?",
+      "Which foods have fewer calories?"
+     ],
+     "model": "I eat too much sugar and I don't eat enough vegetables. I want to eat less fat and fewer treats. Fruit, like mango or apples, has fewer calories than cake.",
+     "checklist": [
+      "Correct use of too much / too many",
+      "enough with a noun",
+      "less with uncountable and fewer with countable nouns",
+      "An example with like / such as"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Offer food to a guest, let them decide and politely turn something down.",
+     "questions": [
+      "Do you want tea or coffee?",
+      "Can I get you something to eat?",
+      "Are you sure you're not hungry?",
+      "Do you want it grilled or fried?"
+     ],
+     "model": "Either one is fine. Whatever you're having. Thanks, I'm OK for now. Maybe later. No, I'm fine, really. Grilled is fine, whichever is easier for you.",
+     "checklist": [
+      "Either one / Whatever you're having",
+      "Polite refusal (Maybe later / I'm fine. Really.)",
+      "Friendly tone",
+      "Short, natural sentences"
+     ]
+    }
+   ],
+   "repeat": [
+    "There's very little milk in the fridge.",
+    "We need a loaf of bread and a carton of eggs.",
+    "I ate too many fries.",
+    "The soup isn't hot enough.",
+    "Try some fruit, such as mango.",
+    "I'm OK for now. But thanks."
+   ]
+  }
+ }
+}

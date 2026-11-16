@@ -1,0 +1,1637 @@
+{
+ "id": "u-a2-04",
+ "level": "A2",
+ "n": 4,
+ "title": "Let's eat!",
+ "goals": [
+  "Tell countable and uncountable food nouns apart, and use a / an, plurals, and the correct measures.",
+  "Ask about and talk about quantities with How much, How many, much, many, and a lot of.",
+  "Use some and any in affirmative sentences, negatives, and questions.",
+  "Offer and ask politely with would like and I'd like.",
+  "Ask for a table, order, and pay at a restaurant using the right vocabulary.",
+  "Write about what you eat and a short restaurant dialogue."
+ ],
+ "learn": [
+  {
+   "id": "g-countable",
+   "kind": "grammar",
+   "title": "Countable and uncountable nouns",
+   "html": "<p><strong>Countable</strong> nouns can be counted (one apple, two apples). <strong>Uncountable</strong> nouns are not counted one by one: they are substances or masses (rice, milk, bread).</p><table><thead><tr><th></th><th>Countable</th><th>Uncountable</th></tr></thead><tbody><tr><td>Examples</td><td>egg, banana, potato, cookie</td><td>rice, milk, bread, cheese, pasta, meat</td></tr><tr><td>a / an</td><td>a banana, an egg</td><td>No: <em>a rice</em> (incorrect)</td></tr><tr><td>Plural</td><td>bananas, eggs, potatoes</td><td>They have no plural</td></tr><tr><td>Verb</td><td>The eggs <strong>are</strong> fresh.</td><td>The milk <strong>is</strong> fresh.</td></tr></tbody></table><ul><li>Special plurals: <em>tomato → tomatoes, potato → potatoes, strawberry → strawberries</em>.</li><li>To count an uncountable noun, use a measure: <em>a glass of milk, a piece of bread, two bags of rice</em>.</li><li><em>Meat, bread, cheese, fish, pasta</em> and <em>fruit</em> are usually uncountable in English.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I want a bread, please.",
+     "right": "I want some bread, please.",
+     "why": "Bread is uncountable: no a."
+    },
+    {
+     "wrong": "Milk are good for you.",
+     "right": "Milk is good for you.",
+     "why": "Uncountable nouns take a singular verb."
+    },
+    {
+     "wrong": "She eats a lot of potatos.",
+     "right": "She eats a lot of potatoes.",
+     "why": "Potato → potatoes."
+    },
+    {
+     "wrong": "I need two breads.",
+     "right": "I need two pieces of bread.",
+     "why": "To count an uncountable noun, use a measure."
+    }
+   ]
+  },
+  {
+   "id": "v-food",
+   "kind": "vocab",
+   "title": "Food and categories",
+   "words": [
+    {
+     "id": "w-bread",
+     "en": "bread",
+     "es": "pan (incontable)",
+     "example": "I eat bread with every meal.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rice",
+     "en": "rice",
+     "es": "arroz (incontable)",
+     "example": "We have rice and beans for lunch.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pasta",
+     "en": "pasta",
+     "es": "pasta (incontable)",
+     "example": "Pasta is easy to cook."
+    },
+    {
+     "id": "w-milk",
+     "en": "milk",
+     "es": "leche (lácteos)",
+     "example": "I drink milk every morning.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-cheese",
+     "en": "cheese",
+     "es": "queso (lácteos, incontable)",
+     "example": "Do you want some cheese?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-eggs",
+     "en": "egg(s)",
+     "es": "huevo(s) (contable)",
+     "example": "I'd like two eggs for breakfast.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-beef",
+     "en": "beef",
+     "es": "carne de res (carne)",
+     "example": "Beef is expensive this week.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-chicken",
+     "en": "chicken",
+     "es": "pollo (carne)",
+     "example": "We have grilled chicken for dinner.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-salmon",
+     "en": "salmon",
+     "es": "salmón (pescado y mariscos)",
+     "example": "The salmon comes with rice."
+    },
+    {
+     "id": "w-shrimp",
+     "en": "shrimp",
+     "es": "camarón(es) (mariscos)",
+     "example": "Shrimp tacos are my favorite."
+    },
+    {
+     "id": "w-broccoli",
+     "en": "broccoli",
+     "es": "brócoli (verduras)",
+     "example": "Kids don't always like broccoli."
+    },
+    {
+     "id": "w-lettuce",
+     "en": "lettuce",
+     "es": "lechuga (verduras)",
+     "example": "Put some lettuce in the sandwich."
+    },
+    {
+     "id": "w-carrots",
+     "en": "carrot(s)",
+     "es": "zanahoria(s) (verduras)",
+     "example": "We need three carrots for the soup.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-garlic",
+     "en": "garlic",
+     "es": "ajo (verduras)",
+     "example": "I add garlic to the beans."
+    },
+    {
+     "id": "w-strawberries",
+     "en": "strawberry / strawberries",
+     "es": "fresa(s) (frutas)",
+     "example": "Strawberries with cream are delicious."
+    },
+    {
+     "id": "w-pineapple",
+     "en": "pineapple",
+     "es": "piña (frutas)",
+     "example": "She cut a pineapple for the party."
+    }
+   ]
+  },
+  {
+   "id": "g-quantity",
+   "kind": "grammar",
+   "title": "How much / How many / a lot of",
+   "html": "<p>To ask about and talk about quantities.</p><table><thead><tr><th>Used with</th><th>Question</th><th>Negative</th><th>Affirmative</th></tr></thead><tbody><tr><td>Uncountable</td><td><strong>How much</strong> milk do we need?</td><td>We don't need <strong>much</strong> milk.</td><td>We need <strong>a lot of</strong> milk.</td></tr><tr><td>Countable (plural)</td><td><strong>How many</strong> eggs do we need?</td><td>We don't need <strong>many</strong> eggs.</td><td>We need <strong>a lot of</strong> eggs.</td></tr></tbody></table><ul><li><strong>much</strong> and <strong>many</strong> are mostly used in questions and negatives.</li><li>In affirmative sentences <strong>a lot of</strong> is more natural (it works for both types of noun).</li><li>Possible answers: <em>A lot. / Not much. / Not many. / Two bottles.</em></li><li><em>How much</em> also asks about price: <em>How much is the soup?</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "How many rice do you want?",
+     "right": "How much rice do you want?",
+     "why": "Rice is uncountable: How much."
+    },
+    {
+     "wrong": "She doesn't drink many coffee.",
+     "right": "She doesn't drink much coffee.",
+     "why": "Coffee (the drink) is uncountable: much."
+    },
+    {
+     "wrong": "We have much tomatoes.",
+     "right": "We have a lot of tomatoes.",
+     "why": "In affirmative sentences, don't use much/many: use a lot of."
+    },
+    {
+     "wrong": "How much eggs do you need?",
+     "right": "How many eggs do you need?",
+     "why": "Eggs is countable plural: How many."
+    }
+   ]
+  },
+  {
+   "id": "v-quantities",
+   "kind": "vocab",
+   "title": "Containers and amounts",
+   "words": [
+    {
+     "id": "w-bottle",
+     "en": "a bottle of",
+     "es": "una botella de",
+     "example": "I'd like a bottle of water.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-glass",
+     "en": "a glass of",
+     "es": "un vaso de",
+     "example": "She drinks a glass of milk at night.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-cup",
+     "en": "a cup of",
+     "es": "una taza de",
+     "example": "He has a cup of coffee every morning.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-bowl",
+     "en": "a bowl of",
+     "es": "un tazón / plato hondo de",
+     "example": "A bowl of soup, please.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-slice",
+     "en": "a slice of",
+     "es": "una rebanada de",
+     "example": "Can I have a slice of pizza?",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-piece",
+     "en": "a piece of",
+     "es": "un trozo de",
+     "example": "I'd like a piece of chocolate cake.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-bag",
+     "en": "a bag of",
+     "es": "una bolsa de",
+     "example": "We need two bags of rice.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-can",
+     "en": "a can of",
+     "es": "una lata de",
+     "example": "He opens a can of soda."
+    },
+    {
+     "id": "w-loaf",
+     "en": "a loaf of",
+     "es": "una barra de (pan)",
+     "example": "Buy a loaf of bread, please."
+    },
+    {
+     "id": "w-plate",
+     "en": "a plate of",
+     "es": "un plato de",
+     "example": "A plate of tacos, please.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-dozen",
+     "en": "a dozen",
+     "es": "una docena",
+     "example": "I need a dozen eggs for the cake.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-kilo",
+     "en": "a kilo of",
+     "es": "un kilo de",
+     "example": "We bought a kilo of tomatoes."
+    }
+   ]
+  },
+  {
+   "id": "g-some-any",
+   "kind": "grammar",
+   "title": "some / any",
+   "html": "<p>They are used with plurals and with uncountable nouns when the exact amount doesn't matter.</p><table><thead><tr><th>Type</th><th>Word</th><th>Example</th></tr></thead><tbody><tr><td>Affirmative</td><td><strong>some</strong></td><td>We have <strong>some</strong> cheese and <strong>some</strong> tomatoes.</td></tr><tr><td>Negative</td><td><strong>not any</strong></td><td>We don't have <strong>any</strong> bread.</td></tr><tr><td>Question</td><td><strong>any</strong></td><td>Do you have <strong>any</strong> eggs?</td></tr><tr><td>Offer or request</td><td><strong>some</strong></td><td>Would you like <strong>some</strong> coffee? Can I have <strong>some</strong> water?</td></tr></tbody></table><ul><li>With singular countable nouns use <em>a / an</em>: <em>I'd like a sandwich.</em></li><li><em>No</em> + noun means <em>not any</em>: <em>There's no milk. = There isn't any milk.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "I don't want some vegetables.",
+     "right": "I don't want any vegetables.",
+     "why": "Use any in negatives."
+    },
+    {
+     "wrong": "Do you have some eggs?",
+     "right": "Do you have any eggs?",
+     "why": "In normal questions, use any."
+    },
+    {
+     "wrong": "We have any milk.",
+     "right": "We have some milk.",
+     "why": "In affirmative sentences, use some."
+    },
+    {
+     "wrong": "There isn't no bread.",
+     "right": "There isn't any bread.",
+     "why": "Don't use two negatives: isn't any."
+    }
+   ]
+  },
+  {
+   "id": "g-would-like",
+   "kind": "grammar",
+   "title": "would like: offering and asking",
+   "html": "<p><strong>Would like</strong> is a polite way of saying <em>I want</em>. It is the same for all persons, and it is used a lot for offering and asking.</p><table><thead><tr><th>Use</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Offer</td><td>Would you like + noun?</td><td><strong>Would you like</strong> some tea?</td></tr><tr><td>Offer with a verb</td><td>Would you like + to + verb?</td><td><strong>Would you like to</strong> go out for dinner?</td></tr><tr><td>Request</td><td>I'd like + noun</td><td><strong>I'd like</strong> a salad, please.</td></tr><tr><td>Open question</td><td>What would you like?</td><td>What <strong>would</strong> you like to drink?</td></tr></tbody></table><ul><li>Answers: <em>Yes, please. / No, thanks. / I'd like some water, please.</em></li><li><em>I'd = I would</em>. Don't use <em>do/does</em> with would.</li><li>After <em>would like</em> + verb, always use <strong>to</strong>: <em>I'd like to try Thai food.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "I would like have a soda.",
+     "right": "I would like a soda. / I would like to have a soda.",
+     "why": "Would like + noun, or would like + to + verb."
+    },
+    {
+     "wrong": "Do you would like some water?",
+     "right": "Would you like some water?",
+     "why": "Would doesn't use do: invert would + subject."
+    },
+    {
+     "wrong": "I want a coffee, please. (at a restaurant)",
+     "right": "I'd like a coffee, please.",
+     "why": "I'd like sounds more polite than I want."
+    },
+    {
+     "wrong": "She would likes a salad.",
+     "right": "She would like a salad.",
+     "why": "Would like doesn't change with she."
+    }
+   ]
+  },
+  {
+   "id": "v-restaurant",
+   "kind": "vocab",
+   "title": "At a restaurant",
+   "words": [
+    {
+     "id": "w-menu",
+     "en": "menu",
+     "es": "menú, carta",
+     "example": "Can we see the menu, please?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-waiter",
+     "en": "waiter / waitress",
+     "es": "mesero / mesera",
+     "example": "The waiter brought our drinks.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-order",
+     "en": "order",
+     "es": "pedir (la comida); pedido",
+     "example": "We want to order now.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-starter",
+     "en": "starter",
+     "es": "entrada",
+     "example": "I'd like soup as a starter."
+    },
+    {
+     "id": "w-main-course",
+     "en": "main course",
+     "es": "plato fuerte",
+     "example": "For the main course, I'll have the chicken.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-dessert",
+     "en": "dessert",
+     "es": "postre",
+     "example": "We shared a dessert.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-bill",
+     "en": "bill (check)",
+     "es": "la cuenta",
+     "example": "Can we have the bill, please?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-tip",
+     "en": "tip",
+     "es": "propina",
+     "example": "We left a ten percent tip.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-reservation",
+     "en": "reservation",
+     "es": "reservación",
+     "example": "I made a reservation for two.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-table-for",
+     "en": "a table for two",
+     "es": "una mesa para dos",
+     "example": "A table for two, please.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-vegetarian",
+     "en": "vegetarian",
+     "es": "vegetariano/a",
+     "example": "My sister is vegetarian, so she doesn't eat meat."
+    },
+    {
+     "id": "w-recommend",
+     "en": "recommend",
+     "es": "recomendar",
+     "example": "I recommend the fish tacos.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "e-ordering",
+   "kind": "expressions",
+   "title": "Expressions for ordering food",
+   "html": "<ul><li><strong>A table for two, please.</strong> — asking for a table.</li><li><strong>Can we see the menu? / Are you ready to order?</strong> — asking for the menu; the waiter asks if you are ready to order.</li><li><strong>I'd like the soup, please. / I'll have the chicken.</strong> — ordering a dish.</li><li><strong>Would you like anything to drink? — Some water, please.</strong> — offering and accepting.</li><li><strong>No, thanks. / Yes, please.</strong> — refusing or accepting politely.</li><li><strong>Is everything OK? — Yes, it's delicious.</strong> — the waiter asks about the food.</li><li><strong>Can we have the bill, please?</strong> — asking for the bill.</li><li><strong>… or something? / … or anything?</strong> — open list: <em>Do you want a sandwich or something?</em> <em>I don't eat fish or anything like that.</em></li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Countable and uncountable",
+   "instructions": "Complete, choose, or correct.",
+   "topic": "g-countable",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "I want ___ apple, please. (a / an)",
+     "answers": [
+      "an"
+     ],
+     "explain": "Apple starts with a vowel: an."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "two tomatoes → one ___. (a / an + singular)",
+     "answers": [
+      "a tomato",
+      "tomato"
+     ],
+     "explain": "Singular countable noun: a tomato."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "Plural of strawberry: three ___.",
+     "answers": [
+      "strawberries"
+     ],
+     "explain": "Consonant + y → -ies."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "Which one is uncountable?",
+     "options": [
+      "banana",
+      "rice",
+      "onion"
+     ],
+     "answer": 1,
+     "explain": "Rice isn't counted: it's uncountable."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "Which one is correct?",
+     "options": [
+      "two breads",
+      "two pieces of bread",
+      "two bread"
+     ],
+     "answer": 1,
+     "explain": "With uncountable nouns, use a measure: two pieces of bread."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "She eats a lot of potatos.",
+     "answers": [
+      "She eats a lot of potatoes."
+     ],
+     "explain": "Potato → potatoes."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "Milk are good for you.",
+     "answers": [
+      "Milk is good for you."
+     ],
+     "explain": "Uncountable → singular verb: is."
+    },
+    {
+     "id": "A8",
+     "type": "choice",
+     "prompt": "The vegetables ___ fresh today.",
+     "options": [
+      "is",
+      "are"
+     ],
+     "answer": 1,
+     "explain": "Vegetables is plural: are."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "How much / How many",
+   "instructions": "Choose much, many, or a lot of, or correct.",
+   "topic": "g-quantity",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "How ___ milk do we need?",
+     "answers": [
+      "much"
+     ],
+     "explain": "Milk is uncountable: How much."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "How ___ eggs do you want?",
+     "answers": [
+      "many"
+     ],
+     "explain": "Eggs is countable plural: How many."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "I don't eat ___ sugar.",
+     "answers": [
+      "much"
+     ],
+     "explain": "Uncountable in a negative: much."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "There aren't ___ tomatoes in the fridge.",
+     "answers": [
+      "many"
+     ],
+     "explain": "Countable plural in a negative: many."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "We eat ___ fruit at home.",
+     "options": [
+      "a lot of",
+      "how many",
+      "many"
+     ],
+     "answer": 0,
+     "explain": "In affirmative sentences, use a lot of."
+    },
+    {
+     "id": "B6",
+     "type": "choice",
+     "prompt": "How ___ bottles of water do you drink?",
+     "options": [
+      "much",
+      "many",
+      "some"
+     ],
+     "answer": 1,
+     "explain": "Bottles is countable plural: How many."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "How many rice do you want?",
+     "answers": [
+      "How much rice do you want?"
+     ],
+     "explain": "Rice is uncountable: How much."
+    },
+    {
+     "id": "B8",
+     "type": "fix",
+     "prompt": "She doesn't drink many coffee.",
+     "answers": [
+      "She doesn't drink much coffee."
+     ],
+     "explain": "Coffee is uncountable: much."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "some / any",
+   "instructions": "Complete with some or any, or correct.",
+   "topic": "g-some-any",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "We have ___ cheese in the fridge.",
+     "answers": [
+      "some"
+     ],
+     "explain": "Affirmative: some."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "I don't have ___ onions.",
+     "answers": [
+      "any"
+     ],
+     "explain": "Negative: any."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "Do we have ___ bread?",
+     "answers": [
+      "any"
+     ],
+     "explain": "Question: any."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "There isn't ___ milk.",
+     "answers": [
+      "any"
+     ],
+     "explain": "Negative: any."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "Can I have ___ water, please?",
+     "answers": [
+      "some"
+     ],
+     "explain": "In requests, use some."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "Would you like ___ coffee?",
+     "options": [
+      "some",
+      "any",
+      "a"
+     ],
+     "answer": 0,
+     "explain": "In offers, use some."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "I don't want some vegetables.",
+     "answers": [
+      "I don't want any vegetables."
+     ],
+     "explain": "Use any in negatives."
+    },
+    {
+     "id": "C8",
+     "type": "fix",
+     "prompt": "Do you have some eggs?",
+     "answers": [
+      "Do you have any eggs?"
+     ],
+     "explain": "In normal questions, use any."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "would like",
+   "instructions": "Complete, order, or correct.",
+   "topic": "g-would-like",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "___ you like some tea? — Yes, please.",
+     "answers": [
+      "Would"
+     ],
+     "explain": "Offer: Would you like…?"
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "I ___ like a salad, please.",
+     "answers": [
+      "would",
+      "'d"
+     ],
+     "explain": "I would like = I'd like."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "What would you ___ to drink?",
+     "answers": [
+      "like"
+     ],
+     "explain": "What would you like…?"
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "Would you like ___ go out for dinner?",
+     "answers": [
+      "to"
+     ],
+     "explain": "Would like + to + verb."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "Which one is a polite request?",
+     "options": [
+      "I want a coffee.",
+      "I'd like a coffee, please.",
+      "Give me a coffee."
+     ],
+     "answer": 1,
+     "explain": "I'd like… please is the most polite form."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "I would like have a soda.",
+     "answers": [
+      "I would like a soda.",
+      "I would like to have a soda.",
+      "I'd like a soda.",
+      "I'd like to have a soda."
+     ],
+     "explain": "Would like + noun or would like + to + verb."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "Do you would like some water?",
+     "answers": [
+      "Would you like some water?"
+     ],
+     "explain": "Would doesn't use do."
+    },
+    {
+     "id": "D8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "like",
+      "you",
+      "would",
+      "some",
+      "dessert"
+     ],
+     "answers": [
+      "Would you like some dessert?"
+     ],
+     "explain": "Would + subject + like."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Measures and containers",
+   "instructions": "Complete with a word from the box: bottle, cup, bowl, slice, piece, bag, can, loaf, glass.",
+   "topic": "v-quantities",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "I'd like a ___ of soup, please.",
+     "answers": [
+      "bowl"
+     ],
+     "explain": "Soup is served in a bowl."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "She drinks a ___ of coffee every morning.",
+     "answers": [
+      "cup"
+     ],
+     "explain": "Coffee goes in a cup: cup."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "Please buy a ___ of bread and some milk.",
+     "answers": [
+      "loaf"
+     ],
+     "explain": "Bread in a loaf: a loaf of bread."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "Can I have a ___ of pizza? — Sure.",
+     "answers": [
+      "slice"
+     ],
+     "explain": "Pizza is cut into slices: slice."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "He opens a ___ of soda.",
+     "answers": [
+      "can"
+     ],
+     "explain": "Soda in a can: a can of soda."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "We need two ___ of rice. (plural)",
+     "answers": [
+      "bags"
+     ],
+     "explain": "The measure is pluralized: two bags of rice."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "Would you like a ___ of cake?",
+     "answers": [
+      "piece",
+      "slice"
+     ],
+     "explain": "You say a piece or a slice of cake."
+    },
+    {
+     "id": "E8",
+     "type": "gap",
+     "prompt": "A ___ of water, please. It's in plastic.",
+     "answers": [
+      "bottle"
+     ],
+     "explain": "Water in plastic: a bottle of water."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "At the restaurant",
+   "instructions": "Complete with a word from the box: menu, waiter, bill, order, starter, main course, dessert, tip, reservation.",
+   "topic": "v-restaurant",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "Can we see the ___, please?",
+     "answers": [
+      "menu"
+     ],
+     "explain": "The list of food: menu."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "The ___ brings our food to the table.",
+     "answers": [
+      "waiter"
+     ],
+     "explain": "The person who serves: waiter."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "Excuse me, can we have the ___? We're ready to pay.",
+     "answers": [
+      "bill"
+     ],
+     "explain": "To pay, ask for the bill."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "I'd like soup as a ___.",
+     "answers": [
+      "starter"
+     ],
+     "explain": "The first part of the meal: starter."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "For the ___, I'll have the chicken with rice.",
+     "answers": [
+      "main course"
+     ],
+     "explain": "The main dish: main course."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "We want ice cream for ___.",
+     "answers": [
+      "dessert"
+     ],
+     "explain": "Ice cream is a dessert: dessert."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "I made a ___ for two people at eight o'clock.",
+     "answers": [
+      "reservation"
+     ],
+     "explain": "You make a reservation."
+    },
+    {
+     "id": "F8",
+     "type": "gap",
+     "prompt": "In Mexico, we usually leave a ten percent ___ for the waiter.",
+     "answers": [
+      "tip"
+     ],
+     "explain": "The extra money you leave: tip."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "How",
+      "much",
+      "milk",
+      "do",
+      "you",
+      "need"
+     ],
+     "answers": [
+      "How much milk do you need?"
+     ],
+     "explain": "How much + uncountable noun + do you…?"
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "many",
+      "How",
+      "eggs",
+      "we",
+      "do",
+      "need"
+     ],
+     "answers": [
+      "How many eggs do we need?"
+     ],
+     "explain": "How many + plural noun + do we…?"
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "don't",
+      "any",
+      "We",
+      "have",
+      "bread"
+     ],
+     "answers": [
+      "We don't have any bread."
+     ],
+     "explain": "Negative: don't + have + any."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "like",
+      "Would",
+      "you",
+      "some",
+      "juice"
+     ],
+     "answers": [
+      "Would you like some juice?"
+     ],
+     "explain": "Would you like + some + noun."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I'd",
+      "a",
+      "like",
+      "please",
+      "salad"
+     ],
+     "answers": [
+      "I'd like a salad, please.",
+      "I'd like a salad please."
+     ],
+     "explain": "I'd like + noun, please."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Is",
+      "there",
+      "any",
+      "soup",
+      "left"
+     ],
+     "answers": [
+      "Is there any soup left?"
+     ],
+     "explain": "Question with any."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "¿Cuánta agua necesitamos?",
+     "answers": [
+      "How much water do we need?"
+     ],
+     "explain": "Water is uncountable: How much."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "No tengo muchos huevos.",
+     "answers": [
+      "I don't have many eggs.",
+      "I don't have a lot of eggs."
+     ],
+     "explain": "Eggs is countable plural: many."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "¿Quieres un poco de café?",
+     "answers": [
+      "Would you like some coffee?",
+      "Do you want some coffee?"
+     ],
+     "explain": "Offer: some."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Quisiera una sopa y una ensalada, por favor.",
+     "answers": [
+      "I'd like a soup and a salad, please.",
+      "I would like a soup and a salad, please.",
+      "I'd like some soup and a salad, please.",
+      "I would like some soup and a salad, please.",
+      "I'd like soup and a salad, please.",
+      "I would like soup and a salad, please."
+     ],
+     "explain": "I'd like + noun."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "No hay leche en el refrigerador.",
+     "answers": [
+      "There isn't any milk in the fridge.",
+      "There isn't any milk in the refrigerator.",
+      "There's no milk in the fridge.",
+      "There is no milk in the fridge.",
+      "There's no milk in the refrigerator.",
+      "There is no milk in the refrigerator.",
+      "There's not any milk in the fridge."
+     ],
+     "explain": "Negative with uncountable noun: any / no."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "¿Cuántas manzanas quieres?",
+     "answers": [
+      "How many apples do you want?"
+     ],
+     "explain": "Apples is countable plural: How many."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed review",
+   "instructions": "Exercises on different topics from the unit, with a review of A1 and the previous unit.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "How ___ potatoes do we need?",
+     "options": [
+      "much",
+      "many",
+      "some"
+     ],
+     "answer": 1,
+     "explain": "Potatoes is countable plural: How many."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "I'd like ___ water, please.",
+     "answers": [
+      "some"
+     ],
+     "explain": "In requests, use some."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "We don't have many sugar.",
+     "answers": [
+      "We don't have much sugar."
+     ],
+     "explain": "Sugar is uncountable: much."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "Which one is a countable noun?",
+     "options": [
+      "pasta",
+      "banana",
+      "cheese"
+     ],
+     "answer": 1,
+     "explain": "Banana is counted: a banana, two bananas."
+    },
+    {
+     "id": "M5",
+     "type": "gap",
+     "prompt": "Are you ready to ___? — Yes, I'd like the tacos.",
+     "answers": [
+      "order"
+     ],
+     "explain": "Order = to ask for food."
+    },
+    {
+     "id": "M6",
+     "type": "translate",
+     "prompt": "Quisiera la cuenta, por favor.",
+     "answers": [
+      "I'd like the bill, please.",
+      "I would like the bill, please.",
+      "Can I have the bill, please?",
+      "Could I have the bill, please?",
+      "Can we have the bill, please?",
+      "Could we have the bill, please?",
+      "I'd like the check, please.",
+      "Can I have the check, please?"
+     ],
+     "explain": "I'd like… / Can I have… are polite ways to ask."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "I don't eat chicken or fish or ___ like that.",
+     "answers": [
+      "anything"
+     ],
+     "explain": "In negatives: or anything like that."
+    },
+    {
+     "id": "M8",
+     "type": "choice",
+     "prompt": "Shrimp belongs to the category…",
+     "options": [
+      "Fruit",
+      "Seafood",
+      "Dairy"
+     ],
+     "answer": 1,
+     "explain": "Shrimp (camarón) is seafood."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "(Unit 3 review) Last night we ___ (eat) tacos at a new restaurant.",
+     "answers": [
+      "ate"
+     ],
+     "explain": "Eat → ate."
+    },
+    {
+     "id": "M10",
+     "type": "fix",
+     "prompt": "(A1 review) She don't like spicy food.",
+     "answers": [
+      "She doesn't like spicy food."
+     ],
+     "explain": "With she: doesn't."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write 60 to 100 words about what you eat on a normal day: breakfast, lunch, and dinner. Say what you eat a lot of, what you eat a little of, and what you don't eat. Starter: For breakfast, I usually have …",
+   "targets": [
+    "countable and uncountable",
+    "much / many / a lot of",
+    "some / any"
+   ],
+   "checklist": [
+    "At least three foods or drinks with a / an or some",
+    "A sentence with a lot of",
+    "A negative sentence with not much or not many",
+    "A sentence with don't eat any",
+    "A container or measure (a glass of, a piece of…)",
+    "Between 60 and 100 words, with a subject in every sentence"
+   ],
+   "model": "For breakfast, I usually have a banana and some coffee with milk. I don't eat much sugar. For lunch, I eat a lot of rice and beans, and I have a piece of chicken. I drink a glass of water with my meal. I don't eat many sweets, only one cookie after lunch. For dinner, I have a sandwich and some fruit. I don't eat any meat at night because it is heavy. I don't drink any soda, but I drink a lot of water every day."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write an 8-line dialogue (60 to 100 words) between a waiter and a customer at a restaurant: table, drinks, main course, dessert, and the bill. Starter: Waiter: Good evening. Are you ready to order?",
+   "targets": [
+    "would like",
+    "some / any",
+    "restaurant vocabulary"
+   ],
+   "checklist": [
+    "An offer with Would you like…?",
+    "An order with I'd like… or I'll have…",
+    "At least one some or any",
+    "Restaurant vocabulary (menu, bill, dessert…)",
+    "Politeness: please and thanks",
+    "Between 60 and 100 words"
+   ],
+   "model": "Waiter: Good evening. Are you ready to order?\nCustomer: Yes, please. I'd like some water and a glass of orange juice.\nWaiter: Of course. Would you like some bread to start?\nCustomer: No, thanks. I'll have the chicken with rice, please.\nWaiter: Good choice. Would you like any vegetables with that?\nCustomer: Yes, please. A small salad, thank you.\nWaiter: Would you like dessert after your meal? We have chocolate cake and ice cream.\nCustomer: I'll have the cake, please. Can I have the bill too? Thanks a lot!"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Dinner at La Cocina de Lupe",
+   "intro": "Read the restaurant review and answer.",
+   "paragraphs": [
+    "Last Saturday, my family and I went to La Cocina de Lupe, a small restaurant near my house. We didn't make a reservation, but there was a free table. It was a busy night and there were a lot of people. The restaurant is not very big, but it is warm and friendly.",
+    "The waiter brought the menu and asked, \"Would you like something to drink?\" My father wanted a glass of water, my mother ordered a cup of coffee, and the children asked for some orange juice. For the starter, we ordered a big bowl of soup and some bread. There wasn't much butter on the table, so we asked for some more.",
+    "For the main course, I had grilled chicken with rice and vegetables. My sister doesn't eat meat, so she had pasta with tomatoes and cheese. She didn't want any salad. The portions were very big, so we didn't eat all the food.",
+    "For dessert, we shared a piece of chocolate cake and some ice cream. The waiter asked, \"Would you like anything else?\" We said, \"Just the bill, please.\" The bill wasn't expensive, and we left a ten percent tip. I recommend this restaurant. The food is delicious and the service is fast. Next time, I'd like to try the fish tacos!"
+   ],
+   "glossary": [
+    {
+     "en": "reservation",
+     "def": "an arrangement to keep a table or room for later"
+    },
+    {
+     "en": "brought",
+     "def": "brought (past of bring)"
+    },
+    {
+     "en": "grilled",
+     "def": "grilled, cooked over fire"
+    },
+    {
+     "en": "portion",
+     "def": "a portion of food"
+    },
+    {
+     "en": "shared",
+     "def": "to divide something with others (we shared)"
+    },
+    {
+     "en": "service",
+     "def": "the way staff treat customers"
+    },
+    {
+     "en": "recommend",
+     "def": "to suggest something as good"
+    },
+    {
+     "en": "left",
+     "def": "to go away from a place (we left)"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "The family made a reservation.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Says: «We didn't make a reservation»."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "What did the mother order to drink?",
+     "options": [
+      "A glass of water",
+      "A cup of coffee",
+      "Orange juice"
+     ],
+     "answer": 1,
+     "explain": "My mother ordered a cup of coffee."
+    },
+    {
+     "id": "R3",
+     "type": "gap",
+     "prompt": "The children asked for some orange ___.",
+     "answers": [
+      "juice"
+     ],
+     "explain": "The children asked for some orange juice."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "The writer's sister eats meat.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "My sister doesn't eat meat."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "What did they have for dessert?",
+     "options": [
+      "Fruit and coffee",
+      "Chocolate cake and ice cream",
+      "Only ice cream"
+     ],
+     "answer": 1,
+     "explain": "They shared a piece of chocolate cake and some ice cream."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "They left a ten percent ___ for the waiter.",
+     "answers": [
+      "tip"
+     ],
+     "explain": "They left a ten percent tip."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "The bill was very expensive.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "The bill wasn't expensive."
+    }
+   ]
+  },
+  "listening": {
+   "title": "A table for two",
+   "intro": "Listen to the conversation in the restaurant. You can repeat it.",
+   "lines": [
+    {
+     "who": "Waiter",
+     "voice": "buttery",
+     "text": "Good evening. A table for two?"
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Yes, please. Do you have a table near the window?"
+    },
+    {
+     "who": "Waiter",
+     "voice": "buttery",
+     "text": "Of course. Here is the menu. Would you like something to drink?"
+    },
+    {
+     "who": "Luis",
+     "voice": "glassy",
+     "text": "I'd like a glass of orange juice, please."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "And I'd like a bottle of water."
+    },
+    {
+     "who": "Waiter",
+     "voice": "buttery",
+     "text": "Are you ready to order?"
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Yes. I'd like the vegetable soup for the starter. Do you have any fish today?"
+    },
+    {
+     "who": "Waiter",
+     "voice": "buttery",
+     "text": "Yes, we have grilled salmon. It comes with rice."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Great. I'll have the salmon."
+    },
+    {
+     "who": "Luis",
+     "voice": "glassy",
+     "text": "I don't eat fish. I'd like the chicken, please, with some salad."
+    },
+    {
+     "who": "Waiter",
+     "voice": "buttery",
+     "text": "Would you like anything for dessert?"
+    },
+    {
+     "who": "Luis",
+     "voice": "glassy",
+     "text": "No, thanks. But we'd like two coffees at the end."
+    },
+    {
+     "who": "Waiter",
+     "voice": "buttery",
+     "text": "Certainly. The food comes in ten minutes."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Where do they want to sit?",
+     "options": [
+      "Near the door",
+      "Near the window",
+      "Outside"
+     ],
+     "answer": 1,
+     "explain": "Do you have a table near the window?"
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What does Luis want to drink?",
+     "options": [
+      "Water",
+      "A glass of orange juice",
+      "Coffee"
+     ],
+     "answer": 1,
+     "explain": "I'd like a glass of orange juice."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What does Ana order for the starter?",
+     "options": [
+      "Vegetable soup",
+      "A salad",
+      "Pasta"
+     ],
+     "answer": 0,
+     "explain": "I'd like the vegetable soup for the starter."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "Luis eats fish.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Luis says: «I don't eat fish»."
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "The salmon comes with ___.",
+     "answers": [
+      "rice"
+     ],
+     "explain": "It comes with rice."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "What do they want at the end of the meal?",
+     "options": [
+      "Dessert",
+      "The bill",
+      "Two coffees"
+     ],
+     "answer": 2,
+     "explain": "We'd like two coffees at the end."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "I'd like a glass of orange juice, please.",
+     "answers": [
+      "I'd like a glass of orange juice, please.",
+      "I would like a glass of orange juice, please."
+     ],
+     "explain": "I'd like + noun, please."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Do you have any fish today?",
+     "answers": [
+      "Do you have any fish today?"
+     ],
+     "explain": "In questions, use any."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Are you ready to order?",
+     "answers": [
+      "Are you ready to order?"
+     ],
+     "explain": "A typical question from the waiter."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "I don't eat fish.",
+     "answers": [
+      "I don't eat fish."
+     ],
+     "explain": "Negative with don't + base verb."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about what you eat and drink on a normal day.",
+     "questions": [
+      "What do you have for breakfast?",
+      "Do you eat much meat?",
+      "How many pieces of fruit do you eat a day?",
+      "What don't you eat?"
+     ],
+     "model": "For breakfast, I have some eggs and a cup of coffee. I don't eat much meat, but I eat a lot of vegetables. I eat two or three pieces of fruit a day. I don't eat any seafood.",
+     "checklist": [
+      "some / any",
+      "much / many / a lot of",
+      "Measures (a cup of, a piece of)",
+      "Simple present: I have, I don't eat"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Do a role play: order food at a restaurant.",
+     "questions": [
+      "Are you ready to order?",
+      "What would you like for the main course?",
+      "Would you like anything to drink?",
+      "Would you like some dessert?"
+     ],
+     "model": "Yes, I'd like the chicken with rice, please. And I'd like a glass of orange juice. No, thanks, no dessert. Can I have the bill, please?",
+     "checklist": [
+      "I'd like… please",
+      "Would you like…? / Yes, please. / No, thanks.",
+      "Vocabulary: menu, bill, dessert",
+      "Polite tone"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Plan a party at home: what food and drinks you need.",
+     "questions": [
+      "How many people are there at the party?",
+      "How much food do you need?",
+      "What would you like to cook?",
+      "Do you have any drinks at home?"
+     ],
+     "model": "There are ten people. We need a lot of food. I'd like to cook tacos, so I need a kilo of meat and some tortillas. We don't have any drinks, so we need five bottles of soda.",
+     "checklist": [
+      "How much / How many",
+      "some / any",
+      "I'd like to + verb",
+      "Measures (a kilo of, bottles of)"
+     ]
+    }
+   ],
+   "repeat": [
+    "How much milk do we need?",
+    "We don't have any bread.",
+    "Would you like some coffee?",
+    "I'd like the chicken, please.",
+    "Can we have the bill, please?",
+    "I don't eat fish or anything like that."
+   ]
+  }
+ }
+}

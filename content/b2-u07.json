@@ -1,0 +1,1471 @@
+{
+ "id": "b2-u07",
+ "level": "A1",
+ "n": 7,
+ "title": "You have talent!",
+ "goals": [
+  "Describe someone's personality (and yours) with adjectives such as generous, reliable, honest.",
+  "Say what you can and can't do with can / can't, and ask others the same.",
+  "Talk about your talents and activities: I can play the guitar, I'm good at cooking.",
+  "Say how you do things with adverbs of manner (slowly, well, fast).",
+  "Show interest when someone tells you something (Wow, that's amazing!).",
+  "Write a short profile of yourself with your qualities and your likes."
+ ],
+ "learn": [
+  {
+   "id": "v-personality",
+   "kind": "vocab",
+   "title": "Personality adjectives",
+   "words": [
+    {
+     "id": "w-generous",
+     "en": "generous",
+     "es": "generoso/a",
+     "example": "He's generous: he always buys gifts for his friends.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-friendly",
+     "en": "friendly",
+     "es": "amistoso/a, simpático/a",
+     "example": "She's friendly, so everybody likes her.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-organized",
+     "en": "organized",
+     "es": "organizado/a",
+     "example": "Yumi is organized: she makes a list before shopping.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-patient",
+     "en": "patient",
+     "es": "paciente",
+     "example": "A good teacher is patient.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-optimistic",
+     "en": "optimistic",
+     "es": "optimista",
+     "example": "I'm optimistic because I never feel sad.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-reliable",
+     "en": "reliable",
+     "es": "confiable, de fiar",
+     "example": "He's reliable: you can depend on him.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-smart",
+     "en": "smart",
+     "es": "inteligente, listo/a",
+     "example": "She's smart and gets good marks.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-honest",
+     "en": "honest",
+     "es": "honesto/a (la h no se pronuncia: an honest person)",
+     "example": "Be honest with your friends.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-athletic",
+     "en": "athletic",
+     "es": "atlético/a, deportista",
+     "example": "Dean is athletic and likes sports.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-funny",
+     "en": "funny",
+     "es": "gracioso/a",
+     "example": "My cousin is funny; he tells great jokes.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-exciting-boring",
+     "en": "exciting / boring",
+     "es": "emocionante / aburrido",
+     "example": "I like doing exciting things, not boring things.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-quiet",
+     "en": "quiet",
+     "es": "tranquilo/a, callado/a",
+     "example": "Dominic likes quiet activities.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-not-very",
+     "en": "not very + adjective",
+     "es": "no muy + adjetivo (suaviza lo negativo)",
+     "example": "He's not very patient.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-horoscope",
+   "kind": "vocab",
+   "title": "Horoscope words (reading: horoscope)",
+   "words": [
+    {
+     "id": "w-horoscope-topics",
+     "en": "Health / Social life / Money / Family / Work",
+     "es": "salud / vida social / dinero / familia / trabajo",
+     "example": "The horoscope has a part about Money.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-stressed-tired",
+     "en": "stressed / tired",
+     "es": "estresado/a / cansado/a",
+     "example": "You're stressed and tired.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-herbal-tea",
+     "en": "herbal tea",
+     "es": "té de hierbas",
+     "example": "Drink herbal tea before bed.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-decision",
+     "en": "decision",
+     "es": "decisión",
+     "example": "You have an important decision to make.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-co-worker",
+     "en": "co-worker",
+     "es": "compañero/a de trabajo",
+     "example": "Be honest with your co-worker."
+    },
+    {
+     "id": "w-relatives",
+     "en": "relatives",
+     "es": "familiares, parientes",
+     "example": "Be patient with relatives.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-diet-gym",
+     "en": "diet / gym",
+     "es": "dieta / gimnasio",
+     "example": "This month is a good time to start a diet.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-obstacles",
+     "en": "obstacles",
+     "es": "obstáculos",
+     "example": "There are many obstacles at work.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-spend-money",
+     "en": "spend (money)",
+     "es": "gastar (dinero)",
+     "example": "You shouldn't spend too much.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-can",
+   "kind": "grammar",
+   "title": "can / can't: ability",
+   "html": "<p>We use it to say what you know or can do. In Spanish we use two different verbs; in English, for ability, we always use <em>can</em>.</p><p><strong>Form:</strong> subject + <strong>can / can't</strong> + verb in base form. <em>Can</em> is the same for all persons: <strong>no -s</strong> and <strong>no to</strong>. The full form <em>cannot</em> also exists.</p><table><thead><tr><th>Affirmative</th><th>Negative</th><th>Question</th><th>Short answer</th></tr></thead><tbody><tr><td>She <strong>can</strong> swim.</td><td>She <strong>can't</strong> swim.</td><td><strong>Can</strong> she swim?</td><td>Yes, she can. / No, she can't.</td></tr><tr><td>I <strong>can</strong> sing.</td><td>I <strong>can't</strong> sing.</td><td><strong>Can</strong> you sing?</td><td>Yes, I can. / No, I can't.</td></tr><tr><td>They <strong>can</strong> speak Italian.</td><td>They <strong>can't</strong> speak Italian.</td><td><strong>Can</strong> they speak Italian?</td><td>Yes, they can. / No, they can't.</td></tr></tbody></table><ul><li>The short affirmative answer uses <em>can</em> alone, with no verb: <em>Yes, he can.</em></li><li>To contrast two abilities: <em>I can't read music, but I can play the piano.</em></li><li>With <em>good at</em> we use verb + -ing: <em>She is good at singing.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "Jeremy can speaks Korean.",
+     "right": "Jeremy can speak Korean.",
+     "why": "After can, use the base form, without -s."
+    },
+    {
+     "wrong": "They can to play the guitar.",
+     "right": "They can play the guitar.",
+     "why": "Can does not take to."
+    },
+    {
+     "wrong": "Does she can sing?",
+     "right": "Can she sing?",
+     "why": "Can makes the question on its own, without do/does."
+    },
+    {
+     "wrong": "I'm good at play chess.",
+     "right": "I'm good at playing chess.",
+     "why": "Good at + verb with -ing."
+    }
+   ]
+  },
+  {
+   "id": "v-talents",
+   "kind": "vocab",
+   "title": "Talents and abilities (verbs + complements)",
+   "words": [
+    {
+     "id": "w-cook",
+     "en": "cook",
+     "es": "cocinar (traditional dishes, Chinese food, dinner, Russian food)",
+     "example": "He can cook Russian food.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-play",
+     "en": "play",
+     "es": "tocar un instrumento / jugar (the piano, the guitar, chess, a sport)",
+     "example": "Chloe can play the piano.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-drive",
+     "en": "drive",
+     "es": "manejar (a car, to work, to school)",
+     "example": "Can you drive to work?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-speak",
+     "en": "speak",
+     "es": "hablar un idioma (Russian, German, Spanish)",
+     "example": "Tony can speak Russian and German.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-sing-dance",
+     "en": "sing / dance",
+     "es": "cantar / bailar (sin complemento)",
+     "example": "She is good at singing and dancing.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-good-at",
+     "en": "be good at + -ing",
+     "es": "ser bueno para… (sports, languages, cooking)",
+     "example": "Alicia is good at sports.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-adverbs",
+   "kind": "grammar",
+   "title": "Adverbs of manner",
+   "html": "<p>They tell <strong>how</strong> someone does an action. Most end in <em>-ly</em>, such as <em>quickly</em>. Form: adjective + <strong>-ly</strong>.</p><table><thead><tr><th>Rule</th><th>Adjective → Adverb</th></tr></thead><tbody><tr><td>Regular: + -ly</td><td>slow → slowly, quick → quickly, careful → carefully, quiet → quietly, fluent → fluently</td></tr><tr><td>Ends in -y: y → i + -ly</td><td>easy → easily, noisy → noisily, happy → happily, angry → angrily</td></tr><tr><td>Ends in -le: drop the e</td><td>comfortable → comfortably</td></tr><tr><td>Ends in -ful: + -ly</td><td>beautiful → beautifully</td></tr><tr><td><strong>Irregular</strong></td><td>good → <strong>well</strong>, fast → <strong>fast</strong></td></tr></tbody></table><p><strong>Position:</strong> after the verb or after the object: <em>She can't dance well. He speaks Chinese fluently.</em> With <em>can't</em>: <em>Sam can't swim fast.</em></p><p><em>Good</em> describes nouns (<em>a good singer</em>); <em>well</em> describes actions (<em>sings well</em>).</p>",
+   "watch": [
+    {
+     "wrong": "She can very well play the piano.",
+     "right": "She can play the piano very well.",
+     "why": "The adverb goes at the end, not between the verb and its object."
+    },
+    {
+     "wrong": "He sings good.",
+     "right": "He sings well.",
+     "why": "With a verb we use the adverb well, not the adjective good."
+    },
+    {
+     "wrong": "I cook very well Italian food.",
+     "right": "I cook Italian food very well.",
+     "why": "The adverb goes after the object."
+    },
+    {
+     "wrong": "He runs fastly.",
+     "right": "He runs fast.",
+     "why": "There is no fastly: fast is both an adjective and an adverb."
+    }
+   ]
+  },
+  {
+   "id": "s-interest",
+   "kind": "strategy",
+   "title": "Strategy: showing interest",
+   "html": "<p>When someone tells you about a talent, react to show interest. <strong>Intonation</strong> matters: if your voice goes up, you sound interested; if it is almost flat, you sound cold.</p><ul><li><strong>Wow, that's amazing! / That's incredible!</strong> — strong admiration.</li><li><strong>Really? I love Thai food.</strong> — interest and something about yourself.</li><li><strong>Yeah? / Really?</strong> — ask the person to keep talking (voice goes up).</li><li><strong>Ah, that's nice. / That's good.</strong> — a colder answer: shows little interest.</li></ul>"
+  },
+  {
+   "id": "v-activities",
+   "kind": "vocab",
+   "title": "Free-time activities (Listen and write)",
+   "words": [
+    {
+     "id": "w-visit-archaeological-sites",
+     "en": "visit archaeological sites",
+     "es": "visitar sitios arqueológicos",
+     "example": "Dominic likes visiting archaeological sites.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-take-salsa-classes",
+     "en": "take salsa classes",
+     "es": "tomar clases de salsa",
+     "example": "Brianna likes taking salsa classes.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-fishing",
+     "en": "go fishing",
+     "es": "ir a pescar",
+     "example": "My dad goes fishing on Sundays.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-do-crosswords",
+     "en": "do crosswords",
+     "es": "hacer crucigramas",
+     "example": "I do crosswords on the bus."
+    },
+    {
+     "id": "w-go-to-a-karaoke-evening",
+     "en": "go to a karaoke evening",
+     "es": "ir a una noche de karaoke",
+     "example": "Sara likes going to karaoke evenings.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-to-a-concert",
+     "en": "go to a concert",
+     "es": "ir a un concierto",
+     "example": "We go to a concert tonight.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-to-a-dinner-party",
+     "en": "go to a dinner party",
+     "es": "ir a una cena con invitados",
+     "example": "They go to a dinner party on Friday.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-snowboarding",
+     "en": "go snowboarding",
+     "es": "ir a hacer snowboard",
+     "example": "Dean likes going snowboarding.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-like-ing",
+   "kind": "grammar",
+   "title": "like / love + verb with -ing",
+   "html": "<p>We use it to talk about activities you like. After <em>like</em>, <em>love</em> and <em>good at</em>, the verb takes <strong>-ing</strong>. In Spanish, we use the infinitive instead.</p><table><thead><tr><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>like / love + verb-ing</td><td>Dominic likes visiting archaeological sites. Brianna loves making new things.</td></tr><tr><td>be (not) good at + verb-ing</td><td>I'm good at reading fast. I'm not good at playing basketball.</td></tr><tr><td>go + activity-ing (no to)</td><td>Dean likes going snowboarding.</td></tr></tbody></table>",
+   "watch": [
+    {
+     "wrong": "She likes take salsa classes.",
+     "right": "She likes taking salsa classes.",
+     "why": "Like + verb with -ing."
+    },
+    {
+     "wrong": "Dean likes going to snowboarding.",
+     "right": "Dean likes going snowboarding.",
+     "why": "Go + activity with -ing, no to."
+    }
+   ]
+  },
+  {
+   "id": "v-video",
+   "kind": "vocab",
+   "title": "Talent show (video)",
+   "words": [
+    {
+     "id": "w-comedian",
+     "en": "comedian",
+     "es": "comediante",
+     "example": "The comedian tells funny jokes.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-talented",
+     "en": "talented",
+     "es": "talentoso/a",
+     "example": "She is very talented.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-audience",
+     "en": "audience",
+     "es": "público",
+     "example": "The audience is cheering.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-inspirational",
+     "en": "inspirational",
+     "es": "inspirador/a",
+     "example": "His story is inspirational."
+    },
+    {
+     "id": "w-audition",
+     "en": "audition",
+     "es": "audición, prueba",
+     "example": "Today is my audition."
+    },
+    {
+     "id": "w-contestant",
+     "en": "contestant",
+     "es": "concursante",
+     "example": "Every contestant is nervous."
+    },
+    {
+     "id": "w-judges",
+     "en": "judges",
+     "es": "jueces, jurado",
+     "example": "The judges press their buzzers.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-joke",
+     "en": "joke",
+     "es": "chiste",
+     "example": "He tells a bad joke.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>Wow, that's amazing! / That's incredible!</strong> — show admiration.</li><li><strong>Really? I love Thai food.</strong> — show interest and add something about yourself.</li><li><strong>Can you …? — Yes, I can. / No, I can't.</strong> — ask about abilities.</li><li><strong>I'm good at … / I'm not good at … + -ing</strong> — talk about your strengths and weaknesses.</li><li><strong>I'm … because …</strong> — give a reason: <em>I'm optimistic because I never feel sad.</em></li><li><strong>Be honest. / Be patient.</strong> — give short advice.</li><li><strong>He's not very patient.</strong> — soften a criticism.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "can or can't",
+   "instructions": "Complete with can or can't using the information. Marta: swims ✔, drives ✘, cooks ✔, plays chess ✘. Tomás: swims ✘, drives ✔, cooks ✘, plays chess ✔.",
+   "topic": "g-can",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "Marta ___ swim. (Marta swims ✔)",
+     "answers": [
+      "can"
+     ],
+     "explain": "Marta does swim: can."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Marta ___ drive. (Marta drives ✘)",
+     "answers": [
+      "can't",
+      "cannot"
+     ],
+     "explain": "Marta does not drive: can't."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "Tomás ___ cook. (Tomás cooks ✘)",
+     "answers": [
+      "can't",
+      "cannot"
+     ],
+     "explain": "Tomás does not cook: can't."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "Tomás ___ play chess. (Tomás plays chess ✔)",
+     "answers": [
+      "can"
+     ],
+     "explain": "Tomás does play chess: can."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "___ Marta cook? — Yes, she can.",
+     "answers": [
+      "Can"
+     ],
+     "explain": "Question with can: Can + subject + base verb."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "Can Tomás swim? — No, he ___.",
+     "answers": [
+      "can't",
+      "cannot"
+     ],
+     "explain": "Tomás can't swim: short answer No, he can't."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "Can Marta and Tomás drive? — No, they ___.",
+     "answers": [
+      "can't",
+      "cannot"
+     ],
+     "explain": "Marta can't drive, so they can't both do it: No, they can't."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "play",
+      "can",
+      "I",
+      "the",
+      "guitar",
+      "but",
+      "I",
+      "sing",
+      "can't"
+     ],
+     "answers": [
+      "I can play the guitar, but I can't sing.",
+      "I can play the guitar but I can't sing.",
+      "I can't sing, but I can play the guitar.",
+      "I can't sing but I can play the guitar."
+     ],
+     "explain": "Can + base verb; but joins two contrasting abilities."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Write the adverb",
+   "instructions": "Write the adverb of manner that matches the adjective.",
+   "topic": "g-adverbs",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "careful → She drives ___.",
+     "answers": [
+      "carefully"
+     ],
+     "explain": "Regular: careful + -ly."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "happy → The children play ___.",
+     "answers": [
+      "happily"
+     ],
+     "explain": "Ends in -y: y → i + -ly."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "good → He sings ___.",
+     "answers": [
+      "well"
+     ],
+     "explain": "Good is irregular: its adverb is well."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "comfortable → We sit ___ on this sofa.",
+     "answers": [
+      "comfortably"
+     ],
+     "explain": "Ends in -le: comfortable → comfortably."
+    },
+    {
+     "id": "B5",
+     "type": "gap",
+     "prompt": "fast → My brother runs ___.",
+     "answers": [
+      "fast"
+     ],
+     "explain": "Fast is the same as an adjective and as an adverb."
+    },
+    {
+     "id": "B6",
+     "type": "gap",
+     "prompt": "angry → \"Go away!\" he said ___.",
+     "answers": [
+      "angrily"
+     ],
+     "explain": "Ends in -y: y → i + -ly."
+    },
+    {
+     "id": "B7",
+     "type": "gap",
+     "prompt": "quick → Please answer ___.",
+     "answers": [
+      "quickly"
+     ],
+     "explain": "Regular: quick + -ly."
+    },
+    {
+     "id": "B8",
+     "type": "gap",
+     "prompt": "polite → She always speaks ___.",
+     "answers": [
+      "politely"
+     ],
+     "explain": "Regular: polite + -ly."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Personality adjectives",
+   "instructions": "Complete with a personality adjective. Word box: generous, friendly, organized, patient, optimistic, reliable, honest, athletic, funny.",
+   "topic": "v-personality",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "Lola always arrives on time and does what she promises. She's very ___.",
+     "answers": [
+      "reliable"
+     ],
+     "explain": "Keeps his or her promises: reliable."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "Carlos tells the truth even when it's difficult. He's ___.",
+     "answers": [
+      "honest"
+     ],
+     "explain": "Tells the truth: honest."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "Teresa's desk is always tidy and she never loses her keys. She's ___.",
+     "answers": [
+      "organized"
+     ],
+     "explain": "Keeps things in order: organized."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "My neighbor gives food to anyone who needs it. He's very ___.",
+     "answers": [
+      "generous"
+     ],
+     "explain": "Gives to others: generous."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "Rafa plays soccer, tennis and basketball every week. He's very ___.",
+     "answers": [
+      "athletic"
+     ],
+     "explain": "Does a lot of sport: athletic."
+    },
+    {
+     "id": "C6",
+     "type": "gap",
+     "prompt": "My cousin tells jokes all the time. He's ___.",
+     "answers": [
+      "funny"
+     ],
+     "explain": "Tells jokes: funny."
+    },
+    {
+     "id": "C7",
+     "type": "gap",
+     "prompt": "Ana thinks tomorrow will be a better day. She's ___.",
+     "answers": [
+      "optimistic"
+     ],
+     "explain": "Thinks positively: optimistic."
+    },
+    {
+     "id": "C8",
+     "type": "gap",
+     "prompt": "Don't get angry when you wait in line. Be ___.",
+     "answers": [
+      "patient"
+     ],
+     "explain": "Waits calmly: patient."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Find the mistake",
+   "instructions": "Each sentence has one mistake. Write the corrected sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "D1",
+     "type": "fix",
+     "prompt": "She can plays the piano.",
+     "answers": [
+      "She can play the piano."
+     ],
+     "explain": "After can, use the base form without -s."
+    },
+    {
+     "id": "D2",
+     "type": "fix",
+     "prompt": "He can to swim very fast.",
+     "answers": [
+      "He can swim very fast."
+     ],
+     "explain": "Can does not take to."
+    },
+    {
+     "id": "D3",
+     "type": "fix",
+     "prompt": "Does he can swim?",
+     "answers": [
+      "Can he swim?"
+     ],
+     "explain": "Questions with can do not use do/does."
+    },
+    {
+     "id": "D4",
+     "type": "fix",
+     "prompt": "My brother cooks very well Italian food.",
+     "answers": [
+      "My brother cooks Italian food very well."
+     ],
+     "explain": "The adverb goes after the object."
+    },
+    {
+     "id": "D5",
+     "type": "fix",
+     "prompt": "I'm good at play chess.",
+     "answers": [
+      "I'm good at playing chess.",
+      "I am good at playing chess."
+     ],
+     "explain": "Good at + verb with -ing."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "She plays tennis good.",
+     "answers": [
+      "She plays tennis well.",
+      "She plays tennis very well."
+     ],
+     "explain": "With a verb we use well, not good."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Showing interest",
+   "instructions": "Choose the answer that shows more interest.",
+   "topic": "s-interest",
+   "items": [
+    {
+     "id": "E1",
+     "type": "choice",
+     "prompt": "\"My sister can speak four languages.\"",
+     "options": [
+      "Ah, OK.",
+      "Wow, that's incredible!"
+     ],
+     "answer": 1,
+     "explain": "Wow, that's incredible! shows more interest."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "\"I can cook Mexican food.\"",
+     "options": [
+      "Really? I love Mexican food!",
+      "That's good."
+     ],
+     "answer": 0,
+     "explain": "Really? + something about yourself shows interest."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "\"Marcos can play six instruments.\"",
+     "options": [
+      "That's nice.",
+      "Wow, that's amazing!"
+     ],
+     "answer": 1,
+     "explain": "Wow, that's amazing! shows strong admiration."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Review of earlier lessons",
+   "instructions": "Review of the present simple, like and questions with How.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "F1",
+     "type": "fix",
+     "prompt": "Diego like play video games.",
+     "answers": [
+      "Diego likes playing video games."
+     ],
+     "explain": "Third person: likes; like + verb with -ing."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "___ you play any sport on weekends?",
+     "answers": [
+      "Do"
+     ],
+     "explain": "Present simple question with you: Do."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "___ old is your brother? — He's twenty.",
+     "answers": [
+      "How"
+     ],
+     "explain": "For age: How old…?"
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to make a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "can",
+      "play",
+      "Chloe",
+      "the",
+      "piano"
+     ],
+     "answers": [
+      "Chloe can play the piano."
+     ],
+     "explain": "Subject + can + base verb."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Can",
+      "you",
+      "speak",
+      "Spanish"
+     ],
+     "answers": [
+      "Can you speak Spanish?"
+     ],
+     "explain": "Question: Can + subject + base verb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "fast",
+      "can't",
+      "swim",
+      "He"
+     ],
+     "answers": [
+      "He can't swim fast."
+     ],
+     "explain": "Negative: can't + base verb; the adverb goes at the end."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "good",
+      "I'm",
+      "at",
+      "cooking"
+     ],
+     "answers": [
+      "I'm good at cooking."
+     ],
+     "explain": "Good at + verb with -ing."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "plays",
+      "the",
+      "guitar",
+      "very",
+      "well",
+      "She"
+     ],
+     "answers": [
+      "She plays the guitar very well."
+     ],
+     "explain": "The adverb goes after the object."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "likes",
+      "Dean",
+      "snowboarding",
+      "going"
+     ],
+     "answers": [
+      "Dean likes going snowboarding."
+     ],
+     "explain": "Go + activity with -ing, no to."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Mi hermana sabe nadar muy bien.",
+     "answers": [
+      "My sister can swim very well.",
+      "My sister can swim really well.",
+      "My sister swims very well.",
+      "My sister swims really well."
+     ],
+     "explain": "Can + base verb; well is the adverb of good."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿Puedes cocinar comida china?",
+     "answers": [
+      "Can you cook Chinese food?"
+     ],
+     "explain": "Question with can; Chinese starts with a capital letter."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "No puedo tocar la guitarra.",
+     "answers": [
+      "I can't play the guitar.",
+      "I cannot play the guitar."
+     ],
+     "explain": "Negative: can't + base verb; use play with instruments."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Él es bueno para cantar.",
+     "answers": [
+      "He is good at singing.",
+      "He's good at singing."
+     ],
+     "explain": "Good at + verb with -ing."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "A Brianna le encanta tomar clases de salsa.",
+     "answers": [
+      "Brianna loves taking salsa classes.",
+      "Brianna loves to take salsa classes."
+     ],
+     "explain": "Love + verb with -ing (to + verb is also accepted)."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Mi amigo es honesto y confiable.",
+     "answers": [
+      "My friend is honest and reliable.",
+      "My friend's honest and reliable."
+     ],
+     "explain": "Personality adjectives after be."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed practice",
+   "instructions": "Exercises on different topics from the unit (includes review of Unit 5 and Unit 6).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Jeremy ___ Korean.",
+     "options": [
+      "can speaks",
+      "can speak",
+      "can to speak"
+     ],
+     "answer": 1,
+     "explain": "After can, use the base form: no -s and no to."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "She is good at ___ chess. (play)",
+     "answers": [
+      "playing"
+     ],
+     "explain": "Good at + verb with -ing."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "Can your brother plays the guitar?",
+     "answers": [
+      "Can your brother play the guitar?"
+     ],
+     "explain": "After can, use the base form without -s."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "A Dominic le gusta visitar sitios arqueológicos.",
+     "answers": [
+      "Dominic likes visiting archaeological sites.",
+      "Dominic likes to visit archaeological sites."
+     ],
+     "explain": "Like + verb with -ing (third person: likes)."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "He sings very ___.",
+     "options": [
+      "good",
+      "well",
+      "goodly"
+     ],
+     "answer": 1,
+     "explain": "With a verb we use the adverb well."
+    },
+    {
+     "id": "M6",
+     "type": "fix",
+     "prompt": "I love cook.",
+     "answers": [
+      "I love cooking.",
+      "I love to cook."
+     ],
+     "explain": "Love + verb with -ing."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "___ there any parks in your town? — Yes, there are. (review of Unit 5)",
+     "answers": [
+      "Are"
+     ],
+     "explain": "There are (plural) → question: Are there…?"
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "Right now, my sister ___ (study) for an exam. (review of Unit 6)",
+     "answers": [
+      "is studying",
+      "'s studying"
+     ],
+     "explain": "Right now: present continuous, is + verb-ing."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a profile of 6 to 8 sentences about yourself: two personality adjectives (with because), two things you can do (one with an adverb of manner), one thing you can't do, and two things you are good at or not good at (I'm good at … / I'm not good at …). Example start: I'm optimistic because …",
+   "targets": [
+    "personality adjectives",
+    "can / can't + verbo base",
+    "adverbs of manner",
+    "good at + -ing",
+    "a / an"
+   ],
+   "checklist": [
+    "Two personality adjectives with because",
+    "Two things you can do with can + base verb (no -s and no to)",
+    "An adverb of manner at the end of the sentence (very well)",
+    "One thing you can't do with can't",
+    "I'm good at / I'm not good at + verb with -ing",
+    "Correct a / an (an honest person, an efficient way)",
+    "A subject in each sentence; between 6 and 8 sentences"
+   ],
+   "model": "I'm optimistic because I always see the good side. I'm an honest person because I always tell the truth. I can cook Mexican food. I can play the guitar very well. I can't swim. I'm good at drawing. I'm not good at singing."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a 4-line dialogue in which someone tells you about a talent and you show interest. Example start: A: I can cook Thai food. B: Really? …",
+   "targets": [
+    "showing interest",
+    "can / can't",
+    "intonation and reactions"
+   ],
+   "checklist": [
+    "4 lines, two people",
+    "A talent with can + base verb",
+    "A reaction that shows interest (Really? / Wow, that's amazing!)",
+    "A follow-up question with Can you…? or What…?"
+   ],
+   "model": "A: I can play the piano.\nB: Really? That's amazing! Can you play jazz?\nA: Yes, I can. I practice every day.\nB: Wow! What is your favorite song?"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Talent Night at Casa Verde",
+   "intro": "Read the talent show ad and answer.",
+   "paragraphs": [
+    "Do you have a talent? Come to Talent Night at the Casa Verde Community Center on Saturday, March 15, at 7:00 p.m. Everybody can take part. You can sing, dance, tell jokes or play an instrument. You don't need to be a professional. You only need to be brave and friendly!",
+    "Last year there were ten contestants. Marta, a patient teacher, sang an old song beautifully. Tomás, a quiet student, played the guitar very well. Rafa, a comedian, was very funny. He can't sing and he can't dance, but he tells jokes really well, and the audience laughed a lot.",
+    "This year there are three prizes: $200, $100 and $50. The judges are a music teacher, a chef and a dancer. They like talented people, but they also like contestants who are honest and relaxed. Tickets cost $5. To join, send an email before March 10. Each person has only four minutes, so practice slowly and carefully at home. Good luck!"
+   ],
+   "glossary": [
+    {
+     "en": "contestant",
+     "def": "a person who takes part in a competition"
+    },
+    {
+     "en": "prize",
+     "def": "something you win in a competition"
+    },
+    {
+     "en": "brave",
+     "def": "not afraid"
+    },
+    {
+     "en": "judges",
+     "def": "the people who decide who wins"
+    },
+    {
+     "en": "audience",
+     "def": "the people who watch a show"
+    },
+    {
+     "en": "take part",
+     "def": "to join an activity or event"
+    },
+    {
+     "en": "relaxed",
+     "def": "calm, not nervous"
+    },
+    {
+     "en": "tickets",
+     "def": "papers that let you enter an event"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Only professionals can join Talent Night.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "El anuncio dice: «You don't need to be a professional»."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Rafa can sing and dance.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Rafa can't sing and can't dance; cuenta chistes."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "When is Talent Night?",
+     "options": [
+      "Saturday, March 10",
+      "Saturday, March 15",
+      "Sunday, March 15"
+     ],
+     "answer": 1,
+     "explain": "The event is on Saturday, March 15."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Who played the guitar very well last year?",
+     "options": [
+      "Marta",
+      "Tomás",
+      "Rafa"
+     ],
+     "answer": 1,
+     "explain": "Tomás, a quiet student, played the guitar very well."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Each contestant has only ___ minutes.",
+     "answers": [
+      "four",
+      "4"
+     ],
+     "explain": "Cada persona tiene solo cuatro minutos."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Marta sang an old song ___.",
+     "answers": [
+      "beautifully"
+     ],
+     "explain": "Adverb of manner: beautiful → beautifully, at the end of the sentence."
+    }
+   ]
+  },
+  "listening": {
+   "title": "An interview with Lucía",
+   "intro": "Listen to the radio interview. You can repeat it.",
+   "lines": [
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Welcome to Weekend Radio. Today we talk to Lucía, a very talented young woman. Hi, Lucía!"
+    },
+    {
+     "who": "Lucía",
+     "voice": "airy",
+     "text": "Hello! Thank you for having me."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Lucía, can you play an instrument?"
+    },
+    {
+     "who": "Lucía",
+     "voice": "airy",
+     "text": "Yes, I can. I can play the piano and the guitar, but I can't play the violin."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Wow, that's amazing! Can you sing too?"
+    },
+    {
+     "who": "Lucía",
+     "voice": "airy",
+     "text": "Yes, I can, but not very well. I'm good at dancing. I take salsa classes on Tuesdays."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Really? And can you cook?"
+    },
+    {
+     "who": "Lucía",
+     "voice": "airy",
+     "text": "Yes! I cook Mexican food very well. I can also speak French, but I speak it slowly."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Incredible! And what can't you do?"
+    },
+    {
+     "who": "Lucía",
+     "voice": "airy",
+     "text": "I can't drive a car. My brother drives, and he drives very fast!"
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Thank you, Lucía. Good luck at Talent Night!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Which instruments can Lucía play?",
+     "options": [
+      "The piano and the guitar",
+      "The piano and the violin",
+      "The guitar and the violin"
+     ],
+     "answer": 0,
+     "explain": "Can play the piano and the guitar; can't play the violin."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Lucía can sing very well.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Dice «Yes, I can, but not very well»."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "When does Lucía take salsa classes?",
+     "options": [
+      "On Tuesdays",
+      "On Fridays",
+      "On Sundays"
+     ],
+     "answer": 0,
+     "explain": "I take salsa classes on Tuesdays."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "Lucía cooks ___ food very well.",
+     "answers": [
+      "mexican"
+     ],
+     "explain": "Ella cocina comida mexicana muy bien."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What can't Lucía do?",
+     "options": [
+      "Drive a car",
+      "Cook Mexican food",
+      "Speak French"
+     ],
+     "answer": 0,
+     "explain": "I can't drive a car."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "I can play the piano and the guitar.",
+     "answers": [
+      "I can play the piano and the guitar."
+     ],
+     "explain": "can + base verb, without to or -s."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Yes, I can, but not very well.",
+     "answers": [
+      "Yes, I can, but not very well."
+     ],
+     "explain": "Respuesta corta con can y adverbio al final."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "I cook Mexican food very well.",
+     "answers": [
+      "I cook Mexican food very well."
+     ],
+     "explain": "The adverb very well goes at the end, after the object."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "She can't drive, but she cooks very well.",
+     "answers": [
+      "She can't drive, but she cooks very well.",
+      "She cannot drive, but she cooks very well."
+     ],
+     "explain": "can't = cannot; cooks lleva -s con she."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about what you can and can't do: instruments, cooking, languages.",
+     "questions": [
+      "What can you do well?",
+      "Can you play an instrument?",
+      "Can you cook? What can you cook?",
+      "What can't you do?"
+     ],
+     "model": "I can cook Mexican food very well. I can speak English slowly. I can't play an instrument, but I can sing a little. I can't drive fast.",
+     "checklist": [
+      "can / can't + base verb (no to, no -s)",
+      "Adverb at the end (very well, slowly)",
+      "Use but to contrast",
+      "Short answer: Yes, I can. / No, I can't."
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Describe what you are like and what you like to do.",
+     "questions": [
+      "What are you like? Give me two adjectives.",
+      "Why are you reliable or patient?",
+      "What do you love doing?",
+      "What are you good at?"
+     ],
+     "model": "I'm patient and reliable. I'm reliable because I always arrive on time. I love cooking and I like listening to music. I'm good at singing, but I'm not good at playing soccer.",
+     "checklist": [
+      "I'm + adjective",
+      "because + reason",
+      "like / love + verb with -ing",
+      "good at + verb with -ing"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about your best friend: personality and talents.",
+     "questions": [
+      "Who is your best friend?",
+      "Is he or she honest?",
+      "What can he or she do well?",
+      "What does he or she like doing?"
+     ],
+     "model": "My best friend is Luis. He is an honest person and he is very funny. He can play the guitar very well. He likes watching soccer, and he can't cook.",
+     "checklist": [
+      "an honest (a/an depends on sound)",
+      "He/She + verb with -s",
+      "can + base verb",
+      "likes + -ing"
+     ]
+    }
+   ],
+   "repeat": [
+    "Can you play the guitar?",
+    "Yes, I can, but I can't sing.",
+    "She plays the piano very well.",
+    "I'm good at cooking.",
+    "Wow, that's amazing!",
+    "He's an honest person."
+   ]
+  }
+ }
+}

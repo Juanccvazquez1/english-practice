@@ -1,0 +1,1688 @@
+{
+ "id": "u-a2-11",
+ "level": "A2",
+ "n": 11,
+ "title": "Pack your bags!",
+ "goals": [
+  "Talk about planning a trip and explain why you do things with to + verb.",
+  "Give opinions with It's + adjective + to + verb (It's easy to find cheap flights).",
+  "Name what you take in a suitcase or on a camping trip.",
+  "Give advice with should, need to and could, and make suggestions with Why don't you…?",
+  "Answer suggestions: accept, hesitate or decline with an excuse, and use I guess.",
+  "Write a short email about a trip and a message with advice."
+ ],
+ "learn": [
+  {
+   "id": "g-purpose",
+   "kind": "grammar",
+   "title": "Purpose infinitive: to + verb",
+   "html": "<p>To say <strong>why</strong> you do something, use <strong>to + verb in its base form</strong> (in Spanish: «para + infinitive»). It answers the question <em>Why…?</em></p><table><thead><tr><th>Question</th><th>Short answer</th><th>Full sentence</th></tr></thead><tbody><tr><td>Why are you going to Puerto Vallarta?</td><td>To see my cousins.</td><td>I'm going to Puerto Vallarta <strong>to see</strong> my cousins.</td></tr><tr><td>Why do you go online?</td><td>To find cheap flights.</td><td>I go online <strong>to find</strong> cheap flights.</td></tr><tr><td>Why does she need a visa?</td><td>To travel to Canada.</td><td>She needs a visa <strong>to travel</strong> to Canada.</td></tr></tbody></table><ul><li>Structure: main sentence + <em>to</em> + base verb. The verb after <em>to</em> never changes (no -s, no -ing).</li><li><em>For</em> is used with nouns (<em>I went there for a vacation</em>), not with verbs.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I went to the bank for change money.",
+     "right": "I went to the bank to change money.",
+     "why": "«For» + verb is wrong; say to + verb."
+    },
+    {
+     "wrong": "I'm going to Mérida for visit my family.",
+     "right": "I'm going to Mérida to visit my family.",
+     "why": "Do not use for before a verb."
+    },
+    {
+     "wrong": "She uses her phone to takes photos.",
+     "right": "She uses her phone to take photos.",
+     "why": "After to, the verb is in its base form."
+    },
+    {
+     "wrong": "Why are you studying English? Because to get a better job.",
+     "right": "Why are you studying English? To get a better job.",
+     "why": "Answer only with to + verb, without Because."
+    }
+   ]
+  },
+  {
+   "id": "v-travel",
+   "kind": "vocab",
+   "title": "Travel: planning a trip",
+   "words": [
+    {
+     "id": "w-trip",
+     "en": "trip",
+     "es": "viaje",
+     "example": "We're planning a trip to Oaxaca.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-cheap-flight",
+     "en": "cheap flight",
+     "es": "vuelo barato",
+     "example": "I found a cheap flight to Cancún.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-exchange-program",
+     "en": "exchange program",
+     "es": "programa de intercambio",
+     "example": "She is in an exchange program in Spain.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-visa",
+     "en": "visa",
+     "es": "visa",
+     "example": "You need a visa to visit some countries.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-get-a-visa",
+     "en": "get a visa",
+     "es": "tramitar una visa",
+     "example": "It takes two weeks to get a visa.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-change-money",
+     "en": "change money",
+     "es": "cambiar dinero",
+     "example": "I need to change money before the trip.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-do-some-research",
+     "en": "do some research",
+     "es": "investigar un poco",
+     "example": "Do some research before you choose a hotel.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-find-a-bargain",
+     "en": "find a bargain",
+     "es": "encontrar una ganga",
+     "example": "We found a bargain on a hotel.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-go-online",
+     "en": "go online",
+     "es": "entrar a internet, buscar en línea",
+     "example": "I go online to find flights.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pay-credit-card",
+     "en": "pay with a credit card",
+     "es": "pagar con tarjeta de crédito",
+     "example": "Can I pay with a credit card?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-pay-for-a-taxi",
+     "en": "pay for a taxi",
+     "es": "pagar un taxi",
+     "example": "I use cash to pay for a taxi.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-snorkeling",
+     "en": "go snorkeling",
+     "es": "ir a hacer esnórquel",
+     "example": "We want to go snorkeling in Cozumel.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-take-a-few-days-off",
+     "en": "take a few days off",
+     "es": "tomarse unos días libres",
+     "example": "I'd like to take a few days off in June.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-backpacking",
+     "en": "go backpacking",
+     "es": "viajar de mochilazo",
+     "example": "They go backpacking every summer.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-its-adj",
+   "kind": "grammar",
+   "title": "It's + adjective + to + verb (giving opinions)",
+   "html": "<p>To give an opinion about an activity, use <strong>It's + adjective + to + verb</strong>. The subject <strong>It</strong> is always required.</p><table><thead><tr><th>Form</th><th>Example</th></tr></thead><tbody><tr><td>Positive</td><td><strong>It's easy to</strong> find a cheap flight online.</td></tr><tr><td>Negative</td><td><strong>It's not expensive to</strong> fly. / It isn't hard to do.</td></tr><tr><td>Question</td><td><strong>Is it</strong> easy <strong>to</strong> find bargains online?</td></tr><tr><td>Short answer</td><td>Yes, it is. / No, it isn't.</td></tr></tbody></table><p>Useful adjectives: <em>easy, hard, difficult, important, necessary, nice, good, expensive, cheap, safe, boring</em>.</p>",
+   "watch": [
+    {
+     "wrong": "Is easy to get a visa.",
+     "right": "It's easy to get a visa.",
+     "why": "In English, the subject It is required."
+    },
+    {
+     "wrong": "It's important take your passport.",
+     "right": "It's important to take your passport.",
+     "why": "After the adjective, use to + verb."
+    },
+    {
+     "wrong": "It's very hard for find a hotel in July.",
+     "right": "It's very hard to find a hotel in July.",
+     "why": "Use to, not for, before the verb."
+    },
+    {
+     "wrong": "Is it easy to find cheap flights? Yes, it's.",
+     "right": "Is it easy to find cheap flights? Yes, it is.",
+     "why": "The positive short answer is not shortened."
+    }
+   ]
+  },
+  {
+   "id": "v-packing",
+   "kind": "vocab",
+   "title": "Things to pack",
+   "words": [
+    {
+     "id": "w-passport",
+     "en": "passport",
+     "es": "pasaporte",
+     "example": "Don't forget your passport.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-suitcase",
+     "en": "suitcase",
+     "es": "maleta",
+     "example": "My suitcase is very heavy."
+    },
+    {
+     "id": "w-guidebook",
+     "en": "guidebook",
+     "es": "guía turística",
+     "example": "I read a guidebook before every trip."
+    },
+    {
+     "id": "w-phrasebook",
+     "en": "phrasebook",
+     "es": "libro de frases",
+     "example": "A phrasebook helps you in another country."
+    },
+    {
+     "id": "w-credit-card",
+     "en": "credit card",
+     "es": "tarjeta de crédito",
+     "example": "I take one credit card on trips.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-sunglasses",
+     "en": "sunglasses",
+     "es": "lentes de sol",
+     "example": "Where are my sunglasses?"
+    },
+    {
+     "id": "w-toiletries",
+     "en": "toiletries",
+     "es": "artículos de aseo",
+     "example": "I keep my toiletries in a small bag."
+    },
+    {
+     "id": "w-toothbrush",
+     "en": "toothbrush",
+     "es": "cepillo de dientes",
+     "example": "Pack a toothbrush and toothpaste."
+    },
+    {
+     "id": "w-shampoo",
+     "en": "shampoo",
+     "es": "champú",
+     "example": "The hotel has soap, but I bring my shampoo."
+    },
+    {
+     "id": "w-sunscreen",
+     "en": "sunscreen",
+     "es": "bloqueador solar",
+     "example": "Use sunscreen at the beach."
+    },
+    {
+     "id": "w-bathing-suit",
+     "en": "bathing suit",
+     "es": "traje de baño",
+     "example": "She packed two bathing suits.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-pajamas",
+     "en": "pajamas",
+     "es": "pijama",
+     "example": "I always bring warm pajamas."
+    },
+    {
+     "id": "w-sandals",
+     "en": "sandals",
+     "es": "sandalias",
+     "example": "Sandals are good for the beach."
+    },
+    {
+     "id": "w-jacket",
+     "en": "jacket",
+     "es": "chamarra",
+     "example": "Take a jacket for the evening.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-headphones",
+     "en": "headphones",
+     "es": "audífonos",
+     "example": "I listen to music with headphones on the bus."
+    },
+    {
+     "id": "w-towel",
+     "en": "towel",
+     "es": "toalla",
+     "example": "Some hotels don't give you a beach towel.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "g-advice",
+   "kind": "grammar",
+   "title": "should, need to and could: advice and suggestions",
+   "html": "<p>Use these verbs to give advice. Change the <strong>strength</strong> of the advice.</p><table><thead><tr><th>Verb</th><th>Use</th><th>Example</th></tr></thead><tbody><tr><td><strong>should / shouldn't</strong></td><td>normal advice (\"you ought to\")</td><td>You should take a hat. / You shouldn't take high heels.</td></tr><tr><td><strong>need to</strong></td><td>very important advice (\"you have to\")</td><td>You need to have warm clothes.</td></tr><tr><td><strong>could</strong></td><td>soft suggestion (\"you might\")</td><td>You could borrow your dad's hat.</td></tr></tbody></table><ul><li>Question: <em>Should I take these shoes? — Yes, you should. / No, you shouldn't.</em></li><li>To soften advice: <em>I think you should…, Maybe you should…, You should probably…</em></li><li><em>Should</em> and <em>could</em> go with the base verb, <strong>without to and without -s</strong>. <em>Need</em> does take <em>to</em>.</li><li>To say something is not a good idea, use <em>shouldn't</em>; do not use <em>need to</em> or <em>could</em> in the negative to give advice.</li></ul>",
+   "watch": [
+    {
+     "wrong": "You should to take sunscreen.",
+     "right": "You should take sunscreen.",
+     "why": "After should, do not use to."
+    },
+    {
+     "wrong": "She shoulds buy a guidebook.",
+     "right": "She should buy a guidebook.",
+     "why": "Should does not change: no -s with he/she/it."
+    },
+    {
+     "wrong": "You need take your passport.",
+     "right": "You need to take your passport.",
+     "why": "Need takes to + verb."
+    },
+    {
+     "wrong": "Do I should take this jacket?",
+     "right": "Should I take this jacket?",
+     "why": "Should makes questions by itself, without do."
+    }
+   ]
+  },
+  {
+   "id": "v-camping",
+   "kind": "vocab",
+   "title": "Camping and sightseeing",
+   "words": [
+    {
+     "id": "w-camping-trip",
+     "en": "camping trip",
+     "es": "viaje de campamento",
+     "example": "We're going on a camping trip this weekend.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-tent",
+     "en": "tent",
+     "es": "tienda de campaña",
+     "example": "Our tent is big enough for four people.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-sleeping-bag",
+     "en": "sleeping bag",
+     "es": "bolsa de dormir",
+     "example": "Take a sleeping bag; the nights are cold.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-flashlight",
+     "en": "flashlight",
+     "es": "linterna",
+     "example": "I use a flashlight at night."
+    },
+    {
+     "id": "w-insect-repellent",
+     "en": "insect repellent",
+     "es": "repelente de insectos",
+     "example": "Insect repellent is important near the river.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-first-aid-kit",
+     "en": "first-aid kit",
+     "es": "botiquín",
+     "example": "Every group needs a first-aid kit.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-spare-batteries",
+     "en": "spare batteries",
+     "es": "pilas de repuesto",
+     "example": "Bring spare batteries for the flashlight.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-stay-overnight",
+     "en": "stay overnight",
+     "es": "pasar la noche",
+     "example": "We stay overnight in a small hotel.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-go-sightseeing",
+     "en": "go sightseeing",
+     "es": "hacer turismo",
+     "example": "We go sightseeing on the first day.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-tourist",
+     "en": "tourist",
+     "es": "turista",
+     "example": "There are many tourists in July.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-drive-along-the-coast",
+     "en": "drive along the coast",
+     "es": "manejar por la costa",
+     "example": "I'd love to drive along the coast.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-go-to-an-exhibition",
+     "en": "go to an exhibition",
+     "es": "ir a una exposición",
+     "example": "Let's go to an exhibition on Saturday.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "g-suggest",
+   "kind": "grammar",
+   "title": "Other ways to make suggestions",
+   "html": "<p>Besides <em>should</em> and <em>could</em>, there are softer phrases to suggest something to a friend or a roommate.</p><table><thead><tr><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td><strong>Why don't you</strong> + base verb</td><td>Why don't you take a hat?</td></tr><tr><td><strong>Do you want to</strong> + base verb</td><td>Do you want to pack some other shoes?</td></tr><tr><td><strong>It's a good idea to</strong> + base verb</td><td>It's a good idea to pack a jacket.</td></tr><tr><td>Imperative</td><td>Take a flashlight. / Don't forget to pack some batteries.</td></tr></tbody></table><ul><li>The imperative is used with people you know well, in a friendly tone.</li><li>To suggest doing something together: <em>Why don't we go sightseeing?</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "Why you don't take a map?",
+     "right": "Why don't you take a map?",
+     "why": "The order is Why + don't + subject + verb."
+    },
+    {
+     "wrong": "Why don't you to call the airline?",
+     "right": "Why don't you call the airline?",
+     "why": "After Why don't you, use the base verb, without to."
+    },
+    {
+     "wrong": "It's good idea to bring a guidebook.",
+     "right": "It's a good idea to bring a guidebook.",
+     "why": "The article a is missing."
+    },
+    {
+     "wrong": "Don't to forget your passport.",
+     "right": "Don't forget your passport.",
+     "why": "The negative imperative is Don't + base verb."
+    }
+   ]
+  },
+  {
+   "id": "e-respond",
+   "kind": "expressions",
+   "title": "Answering suggestions and using I guess",
+   "html": "<p>When someone suggests something, you can accept or decline politely.</p><ul><li><strong>Accept:</strong> That's a great idea. / That sounds great. / I'd love to.</li><li><strong>Hesitate or decline:</strong> Maybe. / I don't know. / I guess we could, but… / I'd like to, but…</li><li>After declining, give an <strong>excuse</strong>: <em>I'd like to, but I need to keep this job.</em></li><li><strong>I guess</strong> = I suppose, when you are not sure or want to sound less direct: <em>I guess I need to rest. / Yeah, me too, I guess.</em></li></ul><p><strong>A:</strong> We could take a few days off and go backpacking.<br><strong>B:</strong> I don't know. I'd like to, but I need to work.</p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Why: to + verb",
+   "instructions": "Complete with to + the verb in brackets, or choose or correct the sentence.",
+   "topic": "g-purpose",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "She goes online ___ a cheap flight. (find)",
+     "answers": [
+      "to find"
+     ],
+     "explain": "Purpose: to + base verb."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "We went to the market ___ some fruit. (buy)",
+     "answers": [
+      "to buy"
+     ],
+     "explain": "Purpose: to + base verb."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "He is taking a class ___ Italian. (learn)",
+     "answers": [
+      "to learn"
+     ],
+     "explain": "Purpose: to + base verb."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "Why are you going to the airport?",
+     "options": [
+      "To pick up my aunt.",
+      "For pick up my aunt.",
+      "Because pick up my aunt."
+     ],
+     "answer": 0,
+     "explain": "The short answer uses to + verb."
+    },
+    {
+     "id": "A5",
+     "type": "fix",
+     "prompt": "I went to the store for buy a suitcase.",
+     "answers": [
+      "I went to the store to buy a suitcase."
+     ],
+     "explain": "For + verb: use to + verb, not for."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "She needs a visa for travel to Canada.",
+     "answers": [
+      "She needs a visa to travel to Canada."
+     ],
+     "explain": "For + verb: use to + verb, not for."
+    },
+    {
+     "id": "A7",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "going",
+      "to",
+      "Cancún",
+      "cousins",
+      "my",
+      "to",
+      "I'm",
+      "see"
+     ],
+     "answers": [
+      "I'm going to Cancún to see my cousins.",
+      "I am going to Cancún to see my cousins."
+     ],
+     "explain": "Main sentence + to + verb."
+    },
+    {
+     "id": "A8",
+     "type": "choice",
+     "prompt": "I use my phone ___ take photos.",
+     "options": [
+      "for",
+      "to",
+      "for to"
+     ],
+     "answer": 1,
+     "explain": "Before a verb: to."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "It's + adjective + to",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-its-adj",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "___ important to take your passport.",
+     "answers": [
+      "It's",
+      "It is"
+     ],
+     "explain": "The subject It is required."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "It's hard ___ a taxi after midnight. (find)",
+     "answers": [
+      "to find"
+     ],
+     "explain": "Adjective + to + base verb."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "Is it expensive ___ travel by plane?",
+     "options": [
+      "to",
+      "for",
+      "that"
+     ],
+     "answer": 0,
+     "explain": "Adjective + to + verb."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "___ is a good idea to carry some cash.",
+     "options": [
+      "It",
+      "This",
+      "There"
+     ],
+     "answer": 0,
+     "explain": "It's a good idea to…"
+    },
+    {
+     "id": "B5",
+     "type": "fix",
+     "prompt": "Is easy to make friends when you travel.",
+     "answers": [
+      "It's easy to make friends when you travel.",
+      "It is easy to make friends when you travel."
+     ],
+     "explain": "The subject It is missing."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "It's difficult find a hotel in July.",
+     "answers": [
+      "It's difficult to find a hotel in July.",
+      "It is difficult to find a hotel in July."
+     ],
+     "explain": "To is missing before the verb."
+    },
+    {
+     "id": "B7",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "bring",
+      "a",
+      "idea",
+      "a",
+      "good",
+      "It's",
+      "guidebook",
+      "to"
+     ],
+     "answers": [
+      "It's a good idea to bring a guidebook.",
+      "It is a good idea to bring a guidebook."
+     ],
+     "explain": "It's a good idea to + verb."
+    },
+    {
+     "id": "B8",
+     "type": "gap",
+     "prompt": "It's nice ___ visit new places.",
+     "answers": [
+      "to"
+     ],
+     "explain": "Adjective + to + verb."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "should, need to and could",
+   "instructions": "Choose or complete with the right verb.",
+   "topic": "g-advice",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "Your suitcase is small. You ___ pack heavy shoes.",
+     "options": [
+      "shouldn't",
+      "don't should",
+      "should not to"
+     ],
+     "answer": 0,
+     "explain": "Negative advice: shouldn't + base verb."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "You ___ borrow your brother's suitcase. (sugerencia suave)",
+     "answers": [
+      "could"
+     ],
+     "explain": "Could = soft suggestion."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "You ___ to have a visa to enter. It's very important.",
+     "answers": [
+      "need"
+     ],
+     "explain": "Need to = very important."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "___ I take this jacket? — Yes, you should.",
+     "answers": [
+      "Should"
+     ],
+     "explain": "Question: Should + subject + verb."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "You should to take sunscreen.",
+     "answers": [
+      "You should take sunscreen."
+     ],
+     "explain": "Should does not take to."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "She shoulds buy a guidebook.",
+     "answers": [
+      "She should buy a guidebook."
+     ],
+     "explain": "Should does not take -s."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "You need take your passport.",
+     "answers": [
+      "You need to take your passport."
+     ],
+     "explain": "Need takes to."
+    },
+    {
+     "id": "C8",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Maybe",
+      "you",
+      "should",
+      "a",
+      "hat",
+      "take"
+     ],
+     "answers": [
+      "Maybe you should take a hat."
+     ],
+     "explain": "Maybe + you should + base verb."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Suggestions",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-suggest",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "Why don't you ___ a hat? (take)",
+     "answers": [
+      "take"
+     ],
+     "explain": "Why don't you + base verb."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "Do you want ___ pack some other shoes?",
+     "answers": [
+      "to"
+     ],
+     "explain": "Do you want to + verb."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "___ forget to pack some batteries.",
+     "options": [
+      "Don't",
+      "Not",
+      "No"
+     ],
+     "answer": 0,
+     "explain": "Negative imperative: Don't + verb."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "Why ___ you take a taxi?",
+     "options": [
+      "don't",
+      "aren't",
+      "doesn't"
+     ],
+     "answer": 0,
+     "explain": "Why don't you…?"
+    },
+    {
+     "id": "D5",
+     "type": "fix",
+     "prompt": "Why you don't take a map?",
+     "answers": [
+      "Why don't you take a map?"
+     ],
+     "explain": "Order: Why don't + you + verb."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "Why don't you to call the airline?",
+     "answers": [
+      "Why don't you call the airline?"
+     ],
+     "explain": "After Why don't you, do not use to."
+    },
+    {
+     "id": "D7",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "to",
+      "Do",
+      "sightseeing",
+      "you",
+      "want",
+      "go"
+     ],
+     "answers": [
+      "Do you want to go sightseeing?"
+     ],
+     "explain": "Do you want to + verb."
+    },
+    {
+     "id": "D8",
+     "type": "gap",
+     "prompt": "It's a good idea ___ book a hotel early.",
+     "answers": [
+      "to"
+     ],
+     "explain": "It's a good idea to + verb."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Answering suggestions",
+   "instructions": "Choose the best answer or complete.",
+   "topic": "e-respond",
+   "items": [
+    {
+     "id": "E1",
+     "type": "choice",
+     "prompt": "A: Why don't we go to an exhibition on Friday? B: (accept)",
+     "options": [
+      "That sounds great!",
+      "I'd like to, but I can't.",
+      "I don't know."
+     ],
+     "answer": 0,
+     "explain": "That sounds great! accepts the idea."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "A: Do you want to drive along the coast? B: (politely decline)",
+     "options": [
+      "No, never.",
+      "I'd like to, but I have to work.",
+      "That sounds great!"
+     ],
+     "answer": 1,
+     "explain": "I'd like to, but… + excuse."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "I'd like ___, but I have a meeting.",
+     "answers": [
+      "to"
+     ],
+     "explain": "I'd like to, but…"
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "That ___ great! Let's do it.",
+     "answers": [
+      "sounds"
+     ],
+     "explain": "That sounds great."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "A: Is this a good hotel? B: Yeah, it's nice, I ___.",
+     "answers": [
+      "guess"
+     ],
+     "explain": "I guess = I suppose."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "When you are not sure, you can say:",
+     "options": [
+      "I guess so.",
+      "I'm sure.",
+      "Of course not."
+     ],
+     "answer": 0,
+     "explain": "I guess so sounds less direct."
+    },
+    {
+     "id": "E7",
+     "type": "fix",
+     "prompt": "I'd like, but I need to work.",
+     "answers": [
+      "I'd like to, but I need to work.",
+      "I would like to, but I need to work."
+     ],
+     "explain": "To is missing after I'd like."
+    },
+    {
+     "id": "E8",
+     "type": "fix",
+     "prompt": "That sounds greatly.",
+     "answers": [
+      "That sounds great."
+     ],
+     "explain": "After sounds comes an adjective, not an adverb."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Travel vocabulary",
+   "instructions": "Complete with a word from the box: visa, passport, suitcase, guidebook, toiletries, sunglasses, phrasebook, credit card, cheap.",
+   "topic": "v-packing",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "At the airport you show your ___.",
+     "answers": [
+      "passport"
+     ],
+     "explain": "Travel document: passport."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "I put my clothes in a big ___.",
+     "answers": [
+      "suitcase"
+     ],
+     "explain": "Bag for clothes: suitcase."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "It's very sunny. Where are my ___?",
+     "answers": [
+      "sunglasses"
+     ],
+     "explain": "Glasses for the sun: sunglasses."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "I use a ___ to learn useful phrases in another language.",
+     "answers": [
+      "phrasebook"
+     ],
+     "explain": "Book of common phrases in another language: phrasebook."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "A ___ has maps and information about a city.",
+     "answers": [
+      "guidebook"
+     ],
+     "explain": "Book about a place for visitors: guidebook."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "Shampoo, soap and a toothbrush are my ___.",
+     "answers": [
+      "toiletries"
+     ],
+     "explain": "Personal items for washing: toiletries."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "I pay with my ___ in hotels.",
+     "answers": [
+      "credit card"
+     ],
+     "explain": "Card to pay later: credit card."
+    },
+    {
+     "id": "F8",
+     "type": "gap",
+     "prompt": "To save money, I always look for a ___ flight.",
+     "answers": [
+      "cheap"
+     ],
+     "explain": "Flight that does not cost much: cheap flight."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to make a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "kit",
+      "a",
+      "first-aid",
+      "should",
+      "You",
+      "take"
+     ],
+     "answers": [
+      "You should take a first-aid kit."
+     ],
+     "explain": "should + base verb."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "some",
+      "don't",
+      "Why",
+      "sunscreen",
+      "you",
+      "bring"
+     ],
+     "answers": [
+      "Why don't you bring some sunscreen?"
+     ],
+     "explain": "Why don't you + base verb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "to",
+      "flight",
+      "online",
+      "cheap",
+      "I",
+      "find",
+      "went",
+      "a"
+     ],
+     "answers": [
+      "I went online to find a cheap flight."
+     ],
+     "explain": "to + verb for purpose."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "at",
+      "change",
+      "the",
+      "money",
+      "to",
+      "It's",
+      "airport",
+      "easy"
+     ],
+     "answers": [
+      "It's easy to change money at the airport."
+     ],
+     "explain": "It's + adjective + to + verb."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "want",
+      "to",
+      "Do",
+      "you",
+      "with",
+      "camping",
+      "go",
+      "us"
+     ],
+     "answers": [
+      "Do you want to go camping with us?"
+     ],
+     "explain": "Do you want to + verb."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "to",
+      "I",
+      "but",
+      "like",
+      "I'd",
+      "to",
+      "need",
+      "work"
+     ],
+     "answers": [
+      "I'd like to, but I need to work."
+     ],
+     "explain": "Polite refusal + excuse."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Voy a Guadalajara para visitar a mis abuelos.",
+     "answers": [
+      "I'm going to Guadalajara to visit my grandparents.",
+      "I am going to Guadalajara to visit my grandparents.",
+      "I'm going to Guadalajara to see my grandparents.",
+      "I am going to Guadalajara to see my grandparents."
+     ],
+     "explain": "Purpose: to + verb."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Es fácil encontrar vuelos baratos en internet.",
+     "answers": [
+      "It's easy to find cheap flights online.",
+      "It is easy to find cheap flights online.",
+      "It's easy to find cheap flights on the internet.",
+      "It is easy to find cheap flights on the internet."
+     ],
+     "explain": "It's + adjective + to + verb."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Deberías llevar un sombrero.",
+     "answers": [
+      "You should take a hat.",
+      "You should bring a hat."
+     ],
+     "explain": "Should + base verb."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "¿Por qué no llevas una linterna?",
+     "answers": [
+      "Why don't you take a flashlight?",
+      "Why don't you bring a flashlight?"
+     ],
+     "explain": "Why don't you + base verb."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Me gustaría, pero necesito trabajar.",
+     "answers": [
+      "I'd like to, but I need to work.",
+      "I would like to, but I need to work.",
+      "I'd like to, but I have to work.",
+      "I would like to, but I have to work."
+     ],
+     "explain": "I'd like to, but… + excuse."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Podrías pedir prestada la maleta de tu papá.",
+     "answers": [
+      "You could borrow your dad's suitcase.",
+      "You could borrow your father's suitcase."
+     ],
+     "explain": "Could = soft suggestion."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from this unit (includes review of earlier units).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "I'm going to the bank ___ change money.",
+     "options": [
+      "to",
+      "for",
+      "in"
+     ],
+     "answer": 0,
+     "explain": "Purpose: to + verb."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "It's hard ___ a cheap hotel in December. (find)",
+     "answers": [
+      "to find"
+     ],
+     "explain": "It's + adjective + to + verb."
+    },
+    {
+     "id": "M3",
+     "type": "choice",
+     "prompt": "It's raining. You ___ drive fast.",
+     "options": [
+      "shouldn't",
+      "should to",
+      "don't should"
+     ],
+     "answer": 0,
+     "explain": "Negative advice: shouldn't."
+    },
+    {
+     "id": "M4",
+     "type": "fix",
+     "prompt": "You need bring a visa.",
+     "answers": [
+      "You need to bring a visa."
+     ],
+     "explain": "Need takes to."
+    },
+    {
+     "id": "M5",
+     "type": "gap",
+     "prompt": "I'm not sure, but I ___ it's a good plan.",
+     "answers": [
+      "guess"
+     ],
+     "explain": "I guess = I suppose."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "A: Do you want to go sightseeing? B: I'd like ___, but I'm tired.",
+     "answers": [
+      "to"
+     ],
+     "explain": "I'd like to, but…"
+    },
+    {
+     "id": "M7",
+     "type": "translate",
+     "prompt": "Necesito una maleta para mi viaje.",
+     "answers": [
+      "I need a suitcase for my trip.",
+      "I need a suitcase for the trip."
+     ],
+     "explain": "Suitcase; for + noun."
+    },
+    {
+     "id": "M8",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Which",
+      "jacket",
+      "should",
+      "take",
+      "I"
+     ],
+     "answers": [
+      "Which jacket should I take?"
+     ],
+     "explain": "Question with should: Which + noun + should I + verb."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "Last summer we ___ to Cancún. (go) (review: past simple)",
+     "answers": [
+      "went"
+     ],
+     "explain": "Go is irregular: went."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "This hotel is ___ than that one. (cheap) (review: comparatives)",
+     "answers": [
+      "cheaper"
+     ],
+     "explain": "Short adjective: cheap + -er."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write an email of 60 to 100 words to a friend from a trip (real or imaginary). Say why you went to that place (to + verb), give two opinions with It's + adjective + to + verb, and mention something you are going to do tomorrow. Example opening: Hi Ana! I'm writing from Mazatlán to …",
+   "targets": [
+    "to + verb (purpose)",
+    "It's + adjective + to + verb",
+    "travel vocabulary"
+   ],
+   "checklist": [
+    "Between 60 and 100 words",
+    "At least two sentences with to + base verb",
+    "Two opinions with It's + adjective + to",
+    "A plan for tomorrow",
+    "Greeting and goodbye"
+   ],
+   "model": "Hi Ana! I'm writing from Mazatlán to tell you about my trip. I came here to relax and to visit my cousin. The weather is great, and the beach is beautiful. It's nice to walk by the sea every morning. It's also fun to try the fresh seafood in the market. Tomorrow I'm going to take a boat to an island to see the birds. I'm going to send you some photos. I hope you are well. See you soon!\nTake care,\nLuis"
+  },
+  {
+   "id": "W2",
+   "prompt": "A friend is going to visit your city. Write a message of 60 to 100 words with advice: what to bring (should / need to), a soft suggestion (could or Why don't you…?) and an opinion with It's a good idea to…",
+   "targets": [
+    "should / need to / could",
+    "Why don't you…?",
+    "It's a good idea to…"
+   ],
+   "checklist": [
+    "Between 60 and 100 words",
+    "One sentence with should and another with need to",
+    "One suggestion with could or Why don't you",
+    "It's a good idea to + verb",
+    "No to after should/could"
+   ],
+   "model": "Hi Sam! I'm happy you are going to visit my city. You should bring a light jacket, because the evenings are cold. You need to bring comfortable shoes, too, because we are going to walk a lot. You could stay in a hotel near the center, or why don't you stay at my house? It's a good idea to buy your bus ticket early. You don't need to bring much money. You should try the street tacos. They are delicious. See you soon!"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "A weekend in Oaxaca",
+   "intro": "Read Elena's email and answer the questions.",
+   "paragraphs": [
+    "Hi Laura! I'm writing from Oaxaca. Last month I decided to take a few days off, so I went online to find a cheap bus ticket. It's easy to find bargains if you do some research, and I paid only 450 pesos. I brought a small suitcase, my sunglasses and a guidebook to learn about the city. The bus was comfortable, and the ride only took six hours.",
+    "On the first day I went to the market to buy some fruit and to try the famous chocolate. A friendly woman told me, \"You should visit Monte Albán early, and you need to take a hat.\" She was right! The sun is very strong at noon. I also went to a cooking class to learn how to make mole. It isn't hard to make, but it takes a lot of time.",
+    "Tomorrow my friend Pablo wants to go hiking in the mountains. I told him, \"I'd like to, but I need to rest my feet!\" Maybe we could take a short walk instead, and then eat at the restaurant near the hotel. I guess that is a good plan. Why don't you come with us next time? It's a great place to relax. See you soon! Elena"
+   ],
+   "glossary": [
+    {
+     "en": "take a few days off",
+     "def": "to take a few days away from work or school"
+    },
+    {
+     "en": "bargain",
+     "def": "something sold for a low price, a good deal"
+    },
+    {
+     "en": "research",
+     "def": "study of a topic to find out facts"
+    },
+    {
+     "en": "strong",
+     "def": "not weak; with a lot of power or energy"
+    },
+    {
+     "en": "noon",
+     "def": "twelve o'clock in the middle of the day"
+    },
+    {
+     "en": "hiking",
+     "def": "walking in nature on paths or trails"
+    },
+    {
+     "en": "rest",
+     "def": "to stop working or moving to get energy back"
+    },
+    {
+     "en": "instead",
+     "def": "as an alternative to something"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Elena paid 450 pesos for her bus ticket.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "She says: «I paid only 450 pesos»."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Elena found her ticket in a travel agency.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "It was online: «I went online»."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Why did she go to the market?",
+     "options": [
+      "To buy fruit and try the chocolate",
+      "To find a hotel",
+      "To buy a suitcase"
+     ],
+     "answer": 0,
+     "explain": "«to buy some fruit and to try the famous chocolate»."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "The woman said Elena needs to take a ___ to Monte Albán.",
+     "answers": [
+      "hat"
+     ],
+     "explain": "«You need to take a hat»."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "Why doesn't Elena want to go hiking?",
+     "options": [
+      "She needs to rest her feet",
+      "She is afraid of mountains",
+      "She has no boots"
+     ],
+     "answer": 0,
+     "explain": "«I need to rest my feet»."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Elena went to a cooking class to learn how to make ___.",
+     "answers": [
+      "mole"
+     ],
+     "explain": "«to learn how to make mole»."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "Elena thinks mole is hard to make.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "She says: «It isn't hard to make»."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Getting ready to camp",
+   "intro": "Listen to the conversation between Mia and Dan. You can repeat it.",
+   "lines": [
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "Hi Dan! Are you ready for the camping trip on Saturday?"
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Almost. I need to buy a sleeping bag. Do you have an extra one?"
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "No, but you could borrow my brother's. He doesn't use it."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "That's a great idea. What else should I bring?"
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "You should take a flashlight and some insect repellent. It's important to protect yourself at night."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Good point. Should I bring a tent?"
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "No, you don't need to. Carlos has a big tent for four people."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Perfect. Why don't we go to the store tonight to buy the food?"
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "I'd like to, but I have to work until nine. Maybe tomorrow morning?"
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Sure, that sounds great. I guess I can also pack the batteries and a first-aid kit."
+    },
+    {
+     "who": "Mia",
+     "voice": "airy",
+     "text": "Yes, and don't forget to bring sunscreen!"
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "OK. See you on Saturday!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What does Dan need to buy?",
+     "options": [
+      "A sleeping bag",
+      "A tent",
+      "A flashlight"
+     ],
+     "answer": 0,
+     "explain": "«I need to buy a sleeping bag»."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Where can Dan get a sleeping bag?",
+     "options": [
+      "From a store",
+      "From Mia's brother",
+      "From Carlos"
+     ],
+     "answer": 1,
+     "explain": "«You could borrow my brother's»."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Dan needs to bring a tent.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Carlos has a big store."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "Mia can't go shopping tonight because she has to ___ until nine.",
+     "answers": [
+      "work"
+     ],
+     "explain": "«I have to work until nine»."
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "They decide to go shopping tomorrow ___.",
+     "answers": [
+      "morning",
+      "in the morning"
+     ],
+     "explain": "Mia suggests «Maybe tomorrow morning?» and Dan agrees."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "What shouldn't Dan forget?",
+     "options": [
+      "Sunscreen",
+      "A hat",
+      "A map"
+     ],
+     "answer": 0,
+     "explain": "«Don't forget to bring sunscreen»."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "You should take a flashlight and some insect repellent.",
+     "answers": [
+      "You should take a flashlight and some insect repellent."
+     ],
+     "explain": "should + base verb."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "It's important to protect yourself at night.",
+     "answers": [
+      "It's important to protect yourself at night."
+     ],
+     "explain": "It's + adjective + to + verb."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "I'd like to, but I have to work until nine.",
+     "answers": [
+      "I'd like to, but I have to work until nine."
+     ],
+     "explain": "Polite refusal with an excuse."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Don't forget to bring sunscreen!",
+     "answers": [
+      "Don't forget to bring sunscreen!"
+     ],
+     "explain": "Negative imperative."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about a trip you want to take and how you get ready.",
+     "questions": [
+      "Where do you want to go?",
+      "Why do you want to go there?",
+      "How do you find cheap flights?",
+      "What do you need to pack?"
+     ],
+     "model": "I want to go to Yucatán to see the Mayan ruins. I go online to find cheap flights. It's easy to find bargains if you do some research. I need to pack sunscreen, sunglasses and a hat.",
+     "checklist": [
+      "to + verb for purpose",
+      "It's + adjective + to + verb",
+      "need to + base verb",
+      "Travel vocabulary"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Give advice to a friend who is going camping for the first time.",
+     "questions": [
+      "What should he take?",
+      "What shouldn't he forget?",
+      "Why don't you give him one suggestion?",
+      "Is it a good idea to go alone?"
+     ],
+     "model": "You should take a tent and a sleeping bag. You need to bring a flashlight. Why don't you take some insect repellent? It's a good idea to go with a friend. Don't forget to pack a first-aid kit.",
+     "checklist": [
+      "should / need to / could",
+      "Why don't you + base verb",
+      "It's a good idea to…",
+      "Imperative with Don't forget"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Respond to these suggestions: accept one and decline another with an excuse.",
+     "questions": [
+      "Why don't we go to an exhibition on Friday?",
+      "We could take a few days off and go backpacking.",
+      "Do you want to drive along the coast?",
+      "Do you want to go sightseeing tomorrow?"
+     ],
+     "model": "That sounds great! I'd love to. About backpacking, I don't know. I'd like to, but I need to keep my job. I guess we could go next year.",
+     "checklist": [
+      "That sounds great / I'd love to",
+      "I'd like to, but… + excuse",
+      "Use I guess",
+      "No mistakes with to + verb"
+     ]
+    }
+   ],
+   "repeat": [
+    "Why are you going to Mérida?",
+    "It's easy to find a cheap flight online.",
+    "You should take a hat.",
+    "Why don't you bring a flashlight?",
+    "That sounds great!",
+    "I'd like to, but I need to work."
+   ]
+  }
+ }
+}

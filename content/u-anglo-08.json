@@ -1,0 +1,1562 @@
+{
+ "id": "u-anglo-08",
+ "level": "B1",
+ "n": 8,
+ "title": "Housing",
+ "goals": [
+  "Compare homes and say which is the biggest, cheapest or quietest with superlatives.",
+  "Connect two actions in time with before, after and when.",
+  "Talk about general results with if + present, present: If you pay late, you pay a fine.",
+  "Ask a landlord or an agent about the rent, the deposit and the utilities.",
+  "Understand and complete a rental application.",
+  "Describe your home in a short text."
+ ],
+ "learn": [
+  {
+   "id": "g-superlatives",
+   "kind": "grammar",
+   "title": "Superlatives",
+   "html": "<p>Use a <strong>superlative</strong> to say that one thing is number one in a group: <em>the cheapest</em>, <em>the most expensive</em>. Always use <strong>the</strong> before it.</p><table><thead><tr><th>Adjective</th><th>Rule</th><th>Superlative</th></tr></thead><tbody><tr><td>cheap, small, quiet</td><td>short word: the + adjective + <strong>-est</strong></td><td>the cheap<strong>est</strong></td></tr><tr><td>nice, large</td><td>ends in -e: + -st</td><td>the nice<strong>st</strong></td></tr><tr><td>big, hot</td><td>one vowel + one consonant: double it</td><td>the big<strong>gest</strong></td></tr><tr><td>noisy, easy</td><td>ends in -y: change y to i + -est</td><td>the nois<strong>iest</strong></td></tr><tr><td>expensive, comfortable</td><td>long word: the <strong>most</strong> + adjective</td><td>the <strong>most</strong> expensive</td></tr><tr><td>good, bad, far</td><td>irregular</td><td>the <strong>best</strong>, the <strong>worst</strong>, the <strong>farthest</strong></td></tr></tbody></table><ul><li>After a superlative we use <strong>in</strong> + a place or group (<em>in the building</em>, <em>in the city</em>) or <strong>of</strong> + a number or a plural (<em>of the three</em>, <em>of all</em>).</li><li>Example: <em>This is the biggest room in the house.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "It is the most cheap apartment.",
+     "right": "It is the cheapest apartment.",
+     "why": "Short adjectives take -est, not most."
+    },
+    {
+     "wrong": "This is the biggest room of the house.",
+     "right": "This is the biggest room in the house.",
+     "why": "Use in with a place; use of with a number or a plural (of the three)."
+    },
+    {
+     "wrong": "It is the most better area.",
+     "right": "It is the best area.",
+     "why": "Good has an irregular superlative: the best."
+    },
+    {
+     "wrong": "She has biggest bedroom.",
+     "right": "She has the biggest bedroom.",
+     "why": "A superlative needs the."
+    }
+   ]
+  },
+  {
+   "id": "g-time-clauses",
+   "kind": "grammar",
+   "title": "Time clauses with before, after and when",
+   "html": "<p>A <strong>time clause</strong> starts with <em>before</em>, <em>after</em> or <em>when</em>. It says <strong>when</strong> something happens in relation to another action.</p><table><thead><tr><th>Word</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td><strong>before</strong></td><td>the first action comes second</td><td><strong>Before</strong> I sign the lease, I read every page.</td></tr><tr><td><strong>after</strong></td><td>the first action comes first</td><td><strong>After</strong> we moved in, we bought a table.</td></tr><tr><td><strong>when</strong></td><td>at the same time or right after</td><td><strong>When</strong> I get home, I take off my shoes.</td></tr></tbody></table><ul><li>Both parts of the sentence use the same tense: present for habits (<em>I always check...</em>) or simple past for finished actions (<em>I paid... I moved...</em>).</li><li>If the time clause comes first, we put a <strong>comma</strong>: <em>After I move in, I clean the kitchen.</em> If it comes second, no comma: <em>I clean the kitchen after I move in.</em></li><li>After before / after / when, use a subject + verb: <em>before I sign</em>. Do not use <em>will</em> in the time clause.</li></ul>",
+   "watch": [
+    {
+     "wrong": "Before I will sign the lease, I read it.",
+     "right": "Before I sign the lease, I read it.",
+     "why": "Do not use will in the time clause; use the simple present."
+    },
+    {
+     "wrong": "After she moved in, she buys a lamp.",
+     "right": "After she moved in, she bought a lamp.",
+     "why": "Keep the same tense in both parts: past with past."
+    },
+    {
+     "wrong": "After to finish work, I go home.",
+     "right": "After I finish work, I go home.",
+     "why": "After + subject + verb (or After finishing work)."
+    },
+    {
+     "wrong": "When I arrive home I cook dinner",
+     "right": "When I arrive home, I cook dinner.",
+     "why": "Put a comma after a time clause at the beginning of the sentence."
+    }
+   ]
+  },
+  {
+   "id": "g-conditional-real",
+   "kind": "grammar",
+   "title": "Present real conditional: if + present, present",
+   "html": "<p>Use <strong>if + simple present, simple present</strong> to talk about things that are always true or usually happen. The <em>if</em> part is the condition; the other part is the result.</p><table><thead><tr><th>Condition (if + present)</th><th>Result (present)</th></tr></thead><tbody><tr><td><strong>If</strong> you pay late,</td><td>you pay a fine.</td></tr><tr><td><strong>If</strong> it is hot,</td><td>I open the windows.</td></tr><tr><td><strong>If</strong> the heater doesn't work,</td><td>I call the landlord.</td></tr><tr><td>Do you call the landlord</td><td><strong>if</strong> something breaks?</td></tr></tbody></table><ul><li>Both verbs are in the simple present: <em>If I feel cold, I turn on the heater.</em></li><li>With a comma when <em>if</em> comes first; no comma when it comes second.</li><li><em>If</em> is almost the same as <em>when</em> here: <em>If / When the rent goes up, we look for a new place.</em></li><li>Do not use <em>will</em> after <em>if</em> in this structure.</li></ul>",
+   "watch": [
+    {
+     "wrong": "If you will pay late, you get a fine.",
+     "right": "If you pay late, you get a fine.",
+     "why": "No will after if; use the simple present."
+    },
+    {
+     "wrong": "If the heater doesn't works, I call the landlord.",
+     "right": "If the heater doesn't work, I call the landlord.",
+     "why": "After doesn't, use the base form of the verb."
+    },
+    {
+     "wrong": "If I am cold, I am turning on the heater.",
+     "right": "If I am cold, I turn on the heater.",
+     "why": "For habits and general results, use the simple present, not the continuous."
+    },
+    {
+     "wrong": "If you don't pay the rent, you not keep the apartment.",
+     "right": "If you don't pay the rent, you don't keep the apartment.",
+     "why": "Make the result negative with don't / doesn't."
+    }
+   ]
+  },
+  {
+   "id": "v-housing",
+   "kind": "vocab",
+   "title": "Homes, rooms and renting",
+   "words": [
+    {
+     "id": "w-landlord",
+     "en": "landlord",
+     "es": "arrendador, casero, dueño del inmueble",
+     "example": "The landlord fixed the heater yesterday.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-tenant",
+     "en": "tenant",
+     "es": "inquilino/a",
+     "example": "The new tenant moves in on Saturday.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-rent",
+     "en": "rent",
+     "es": "renta, alquiler; rentar",
+     "example": "The rent is five thousand pesos a month.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-deposit",
+     "en": "deposit",
+     "es": "depósito, fianza",
+     "example": "You get the deposit back if you leave the apartment clean.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-lease",
+     "en": "lease",
+     "es": "contrato de renta",
+     "example": "I signed a one-year lease."
+    },
+    {
+     "id": "w-utilities",
+     "en": "utilities",
+     "es": "servicios (agua, luz, gas)",
+     "example": "The rent doesn't include utilities.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-furnished",
+     "en": "furnished",
+     "es": "amueblado/a",
+     "example": "It is a furnished apartment, so we don't need to buy a bed."
+    },
+    {
+     "id": "w-neighborhood",
+     "en": "neighborhood",
+     "es": "colonia, barrio, vecindario",
+     "example": "It is a quiet neighborhood with many parks.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-balcony",
+     "en": "balcony",
+     "es": "balcón",
+     "example": "We have breakfast on the balcony."
+    },
+    {
+     "id": "w-elevator",
+     "en": "elevator",
+     "es": "elevador, ascensor",
+     "example": "The elevator doesn't work, so I use the stairs.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-roommate",
+     "en": "roommate",
+     "es": "compañero/a de casa o de cuarto",
+     "example": "My roommate and I split the rent."
+    },
+    {
+     "id": "w-move-in",
+     "en": "move in / move out",
+     "es": "mudarse a (una casa) / mudarse de (una casa)",
+     "example": "We move in on the first of the month.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-spacious",
+     "en": "spacious",
+     "es": "amplio/a, espacioso/a",
+     "example": "The living room is bright and spacious."
+    },
+    {
+     "id": "w-cozy",
+     "en": "cozy",
+     "es": "acogedor/a, cómodo/a",
+     "example": "My small apartment is cozy in the winter."
+    }
+   ]
+  },
+  {
+   "id": "v-application",
+   "kind": "vocab",
+   "title": "Life skills: the rental application",
+   "words": [
+    {
+     "id": "w-applicant",
+     "en": "applicant",
+     "es": "solicitante",
+     "example": "Each applicant must fill out the form.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-full-name",
+     "en": "full name",
+     "es": "nombre completo",
+     "example": "Write your full name at the top of the form.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-current-address",
+     "en": "current address",
+     "es": "domicilio actual",
+     "example": "Please write your current address and phone number.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-previous-landlord",
+     "en": "previous landlord",
+     "es": "arrendador anterior",
+     "example": "The agent called my previous landlord.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-employer",
+     "en": "employer",
+     "es": "empleador, empresa donde trabajas",
+     "example": "Write the name of your employer and your job title.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-monthly-income",
+     "en": "monthly income",
+     "es": "ingreso mensual",
+     "example": "Your monthly income must be higher than three times the rent.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-reference",
+     "en": "reference",
+     "es": "referencia (persona que te recomienda)",
+     "example": "I gave my old boss as a reference.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-emergency-contact",
+     "en": "emergency contact",
+     "es": "contacto de emergencia",
+     "example": "My emergency contact is my sister.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-occupants",
+     "en": "occupants",
+     "es": "personas que van a vivir en el lugar",
+     "example": "Write the number of occupants: two adults and one child."
+    },
+    {
+     "id": "w-move-in-date",
+     "en": "move-in date",
+     "es": "fecha de mudanza (de entrada)",
+     "example": "My move-in date is the first of March.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-signature",
+     "en": "signature",
+     "es": "firma",
+     "example": "Your signature is at the bottom of the page.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-credit-check",
+     "en": "credit check",
+     "es": "revisión de historial crediticio",
+     "example": "The landlord asks for a credit check before he approves you.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>Is the apartment still available?</strong> — the first question when you call.</li><li><strong>How much is the rent? / How much is the deposit?</strong> — asking about money.</li><li><strong>Are the utilities included in the rent?</strong> — asking what you pay.</li><li><strong>Can I have a pet? — It depends on the landlord.</strong> — asking and answering about rules.</li><li><strong>When can I move in?</strong> — asking about the date.</li><li><strong>What's the neighborhood like?</strong> — asking about the area.</li><li><strong>The best thing about it is the light. / The biggest problem is the noise.</strong> — evaluating a place.</li><li><strong>I'll think about it and call you tomorrow.</strong> — a polite way to wait before you decide.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Superlatives",
+   "instructions": "Complete, choose, correct or order.",
+   "topic": "g-superlatives",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "This is the ___ apartment in the building. (cheap)",
+     "answers": [
+      "cheapest"
+     ],
+     "explain": "Short adjective: the + -est."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "The kitchen is the ___ room in the house. (big)",
+     "answers": [
+      "biggest"
+     ],
+     "explain": "Big: double the g and add -est."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "Which apartment is the ___ expensive of the three?",
+     "answers": [
+      "most"
+     ],
+     "explain": "Long adjective: the most + adjective."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "It is the ___ street in the city. (noisy)",
+     "answers": [
+      "noisiest"
+     ],
+     "explain": "Noisy: change y to i and add -est."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "That was the ___ apartment I saw.",
+     "options": [
+      "best",
+      "most good",
+      "goodest"
+     ],
+     "answer": 0,
+     "explain": "Good has an irregular superlative: the best."
+    },
+    {
+     "id": "A6",
+     "type": "choice",
+     "prompt": "She has the ___ bedroom of all.",
+     "options": [
+      "smaller",
+      "smallest",
+      "most small"
+     ],
+     "answer": 1,
+     "explain": "Small is short: the smallest."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "It is the most cheap apartment in the area.",
+     "answers": [
+      "It is the cheapest apartment in the area.",
+      "It's the cheapest apartment in the area."
+     ],
+     "explain": "Cheap is short: the cheapest."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "the",
+      "is",
+      "This",
+      "apartment",
+      "in",
+      "quietest",
+      "building",
+      "the"
+     ],
+     "answers": [
+      "This is the quietest apartment in the building."
+     ],
+     "explain": "the + superlative + noun + in + place."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Time clauses: before, after, when",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-time-clauses",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "Before I ___ the lease, I read it carefully. (sign)",
+     "answers": [
+      "sign"
+     ],
+     "explain": "Simple present after before; no will."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "After we moved in, we ___ new curtains. (buy)",
+     "answers": [
+      "bought"
+     ],
+     "explain": "Past story: both verbs in the simple past."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "___ I get home, I take off my shoes.",
+     "answers": [
+      "When",
+      "After"
+     ],
+     "explain": "A habit at home: When / After + present."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "I look at the whole apartment ___ I pay the deposit.",
+     "options": [
+      "before",
+      "after",
+      "since"
+     ],
+     "answer": 0,
+     "explain": "First you look; then you pay: before."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "The landlord gives you the keys ___ you sign the lease.",
+     "options": [
+      "after",
+      "before",
+      "if"
+     ],
+     "answer": 0,
+     "explain": "First you sign; then you get the keys: after."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "Before I will sign the lease, I read every page.",
+     "answers": [
+      "Before I sign the lease, I read every page."
+     ],
+     "explain": "No will in the time clause."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "After they moved out, we paint the apartment.",
+     "answers": [
+      "After they moved out, we painted the apartment."
+     ],
+     "explain": "Both verbs in the simple past."
+    },
+    {
+     "id": "B8",
+     "type": "translate",
+     "prompt": "Después de que me mudé, conocí a mis vecinos.",
+     "answers": [
+      "After I moved in, I met my neighbors.",
+      "After I moved, I met my neighbors.",
+      "After I moved in, I met my neighbours.",
+      "After I moved, I met my neighbours."
+     ],
+     "explain": "After + subject + past, subject + past."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "If + present, present",
+   "instructions": "Complete, choose, correct, order or translate.",
+   "topic": "g-conditional-real",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "If you pay late, you ___ a fine. (get)",
+     "answers": [
+      "get"
+     ],
+     "explain": "Result in the simple present."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "If the heater ___ work, I call the landlord.",
+     "answers": [
+      "doesn't",
+      "does not"
+     ],
+     "explain": "Negative with it: doesn't + base verb."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "If it ___ hot, I open the windows. (be)",
+     "answers": [
+      "is",
+      "'s"
+     ],
+     "explain": "Simple present of be with it: is."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "If I ___ noise at night, I can't sleep.",
+     "options": [
+      "hear",
+      "will hear",
+      "heard"
+     ],
+     "answer": 0,
+     "explain": "If + simple present."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "The landlord keeps the deposit if you ___ the apartment.",
+     "options": [
+      "damage",
+      "will damage",
+      "damaged"
+     ],
+     "answer": 0,
+     "explain": "If + simple present; no will."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "If you will break the lease, you lose your deposit.",
+     "answers": [
+      "If you break the lease, you lose your deposit."
+     ],
+     "explain": "No will after if."
+    },
+    {
+     "id": "C7",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "If",
+      "you",
+      "don't",
+      "pay",
+      "the",
+      "rent",
+      "you",
+      "lose",
+      "the",
+      "apartment"
+     ],
+     "answers": [
+      "If you don't pay the rent, you lose the apartment."
+     ],
+     "explain": "If + present, present."
+    },
+    {
+     "id": "C8",
+     "type": "translate",
+     "prompt": "Si hace frío, enciendo la calefacción.",
+     "answers": [
+      "If it's cold, I turn on the heater.",
+      "If it is cold, I turn on the heater.",
+      "If it's cold, I turn on the heating.",
+      "If it is cold, I turn on the heating.",
+      "If it's cold, I turn the heater on.",
+      "If it is cold, I turn the heater on.",
+      "If it's cold, I turn the heating on.",
+      "If it is cold, I turn the heating on."
+     ],
+     "explain": "If + present, present."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Vocabulary: homes and renting",
+   "instructions": "Complete, choose or translate.",
+   "topic": "v-housing",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "The person who owns the apartment is the ___.",
+     "answers": [
+      "landlord"
+     ],
+     "explain": "The owner who rents a place is the landlord."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "The person who rents the apartment is the ___.",
+     "answers": [
+      "tenant"
+     ],
+     "explain": "The person who rents is the tenant."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "The money you pay every month to live in a place is the...",
+     "options": [
+      "rent",
+      "deposit",
+      "utilities"
+     ],
+     "answer": 0,
+     "explain": "Monthly payment: rent."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "Water, gas and electricity are called...",
+     "options": [
+      "utilities",
+      "furniture",
+      "references"
+     ],
+     "answer": 0,
+     "explain": "Services you pay for: utilities."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "An apartment with a bed, a sofa and a table is ___.",
+     "answers": [
+      "furnished"
+     ],
+     "explain": "With furniture: furnished."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "A small place outside a room, with a railing, is a...",
+     "options": [
+      "balcony",
+      "elevator",
+      "lease"
+     ],
+     "answer": 0,
+     "explain": "A balcony is outside a room."
+    },
+    {
+     "id": "D7",
+     "type": "gap",
+     "prompt": "I share my apartment with a ___. We split the rent.",
+     "answers": [
+      "roommate"
+     ],
+     "explain": "A person who shares your home: roommate."
+    },
+    {
+     "id": "D8",
+     "type": "translate",
+     "prompt": "Este departamento es muy espacioso.",
+     "answers": [
+      "This apartment is very spacious.",
+      "This apartment is really spacious.",
+      "This flat is very spacious."
+     ],
+     "explain": "Spacious = amplio."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Life skills: the rental application",
+   "instructions": "Complete, choose or translate.",
+   "topic": "v-application",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "Write your name on the line at the bottom of the form. This is your ___.",
+     "answers": [
+      "signature"
+     ],
+     "explain": "Your name written by hand: signature."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "The money you earn each month is your...",
+     "options": [
+      "monthly income",
+      "reference",
+      "emergency contact"
+     ],
+     "answer": 0,
+     "explain": "Money earned each month: monthly income."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "A ___ is a person, like a former boss, who can say good things about you.",
+     "answers": [
+      "reference"
+     ],
+     "explain": "A person who recommends you: reference."
+    },
+    {
+     "id": "E4",
+     "type": "choice",
+     "prompt": "The place where you live now is your ___ address.",
+     "options": [
+      "current",
+      "previous",
+      "future"
+     ],
+     "answer": 0,
+     "explain": "Where you live now: current address."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "The form asks: How many people will live with you? Write the number of ___.",
+     "answers": [
+      "occupants"
+     ],
+     "explain": "People who live in a place: occupants."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "The day you want to start living in the apartment is the...",
+     "options": [
+      "move-in date",
+      "credit check",
+      "full name"
+     ],
+     "answer": 0,
+     "explain": "Day you enter the home: move-in date."
+    },
+    {
+     "id": "E7",
+     "type": "translate",
+     "prompt": "Necesito escribir el nombre de mi empleador.",
+     "answers": [
+      "I need to write the name of my employer.",
+      "I need to write my employer's name."
+     ],
+     "explain": "Employer = empleador."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Useful expressions",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "e-useful",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "You want to know the price. You ask:",
+     "options": [
+      "How much is the rent?",
+      "How many is the rent?",
+      "What is the rent much?"
+     ],
+     "answer": 0,
+     "explain": "How much is the rent?"
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "___ the utilities included in the rent?",
+     "answers": [
+      "Are"
+     ],
+     "explain": "Utilities is plural: Are."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "What do you ___ of the kitchen? I think it is small.",
+     "answers": [
+      "think"
+     ],
+     "explain": "What do you think of...?"
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "A: Can I have a cat? B: Maybe. It ___ on the landlord.",
+     "options": [
+      "depends",
+      "depend",
+      "is depends"
+     ],
+     "answer": 0,
+     "explain": "It depends on..."
+    },
+    {
+     "id": "F5",
+     "type": "fix",
+     "prompt": "How much cost the rent?",
+     "answers": [
+      "How much is the rent?"
+     ],
+     "explain": "Use be: How much is the rent?"
+    },
+    {
+     "id": "F6",
+     "type": "fix",
+     "prompt": "Is include the water in the rent?",
+     "answers": [
+      "Is the water included in the rent?",
+      "Is water included in the rent?"
+     ],
+     "explain": "Is + subject + included."
+    },
+    {
+     "id": "F7",
+     "type": "translate",
+     "prompt": "¿Cuándo puedo mudarme?",
+     "answers": [
+      "When can I move in?"
+     ],
+     "explain": "When can I move in?"
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "This",
+      "is",
+      "the",
+      "room",
+      "biggest",
+      "in",
+      "the",
+      "house"
+     ],
+     "answers": [
+      "This is the biggest room in the house."
+     ],
+     "explain": "the + superlative + noun + in + place."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Before",
+      "I",
+      "sign",
+      "the",
+      "lease",
+      "I",
+      "read",
+      "it"
+     ],
+     "answers": [
+      "Before I sign the lease, I read it."
+     ],
+     "explain": "Time clause first, then a comma."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "If",
+      "you",
+      "pay",
+      "late",
+      "you",
+      "get",
+      "a",
+      "fine"
+     ],
+     "answers": [
+      "If you pay late, you get a fine."
+     ],
+     "explain": "If + present, present."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "What",
+      "is",
+      "the",
+      "important",
+      "most",
+      "thing",
+      "for",
+      "you"
+     ],
+     "answers": [
+      "What is the most important thing for you?"
+     ],
+     "explain": "the most + long adjective."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "After",
+      "we",
+      "moved",
+      "in",
+      "we",
+      "bought",
+      "a",
+      "table"
+     ],
+     "answers": [
+      "After we moved in, we bought a table."
+     ],
+     "explain": "After + past, past."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Are",
+      "the",
+      "utilities",
+      "included",
+      "in",
+      "the",
+      "rent"
+     ],
+     "answers": [
+      "Are the utilities included in the rent?"
+     ],
+     "explain": "Are + subject + included?"
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Es el departamento más barato del edificio.",
+     "answers": [
+      "It's the cheapest apartment in the building.",
+      "It is the cheapest apartment in the building.",
+      "It's the cheapest flat in the building.",
+      "It is the cheapest flat in the building."
+     ],
+     "explain": "the cheapest + in the building."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Antes de firmar el contrato, lo leo con cuidado.",
+     "answers": [
+      "Before I sign the contract, I read it carefully.",
+      "Before I sign the lease, I read it carefully.",
+      "Before I sign the contract, I carefully read it.",
+      "Before I sign the lease, I carefully read it."
+     ],
+     "explain": "Before + subject + present."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Si no pagas la renta, pierdes el departamento.",
+     "answers": [
+      "If you don't pay the rent, you lose the apartment.",
+      "If you do not pay the rent, you lose the apartment.",
+      "If you don't pay the rent, you lose the flat.",
+      "If you do not pay the rent, you lose the flat."
+     ],
+     "explain": "If + present, present."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "La cocina es el cuarto más luminoso de la casa.",
+     "answers": [
+      "The kitchen is the brightest room in the house.",
+      "The kitchen is the brightest room in the home."
+     ],
+     "explain": "the brightest + in the house."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Cuando llego a casa, preparo la cena.",
+     "answers": [
+      "When I get home, I make dinner.",
+      "When I get home, I cook dinner.",
+      "When I arrive home, I make dinner.",
+      "When I arrive home, I cook dinner.",
+      "When I get home, I prepare dinner.",
+      "When I arrive home, I prepare dinner."
+     ],
+     "explain": "When + present, present."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "¿Cuánto es el depósito?",
+     "answers": [
+      "How much is the deposit?"
+     ],
+     "explain": "How much is...?"
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes 2 review items from earlier topics).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "It is the ___ neighborhood in the city.",
+     "options": [
+      "safest",
+      "most safe",
+      "safer"
+     ],
+     "answer": 0,
+     "explain": "Short adjective: the safest."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "___ I move in, I buy a lamp for the living room.",
+     "answers": [
+      "After",
+      "When"
+     ],
+     "explain": "A time word + present."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "If the rent goes up, we looks for another place.",
+     "answers": [
+      "If the rent goes up, we look for another place."
+     ],
+     "explain": "With we, use the base form: look."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "El mejor departamento está en el tercer piso.",
+     "answers": [
+      "The best apartment is on the third floor.",
+      "The best flat is on the third floor."
+     ],
+     "explain": "the best + on the third floor."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "A person who rents an apartment is a...",
+     "options": [
+      "tenant",
+      "landlord",
+      "neighbor"
+     ],
+     "answer": 0,
+     "explain": "The person who rents: tenant."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "I always ask about the utilities ___ I rent a place.",
+     "answers": [
+      "before"
+     ],
+     "explain": "You ask first; then you rent: before."
+    },
+    {
+     "id": "M7",
+     "type": "translate",
+     "prompt": "¿Están incluidos los servicios en la renta?",
+     "answers": [
+      "Are the utilities included in the rent?",
+      "Are utilities included in the rent?"
+     ],
+     "explain": "Are + subject + included?"
+    },
+    {
+     "id": "M8",
+     "type": "fix",
+     "prompt": "It is the expensivest apartment.",
+     "answers": [
+      "It is the most expensive apartment.",
+      "It's the most expensive apartment."
+     ],
+     "explain": "Long adjective: the most expensive."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "Last year, we ___ to a new apartment. (move) (review: simple past)",
+     "answers": [
+      "moved"
+     ],
+     "explain": "Finished past action: moved."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "I ___ visit two apartments tomorrow. (review: be going to)",
+     "answers": [
+      "am going to",
+      "'m going to"
+     ],
+     "explain": "Plan for the future: am going to + base verb."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Describe your home or a home you like (120 to 160 words): where it is, the rooms, the best and the worst thing about it, and what you usually do there. Use at least two superlatives, one sentence with before / after / when, and one sentence with if. Opening: I live in...",
+   "targets": [
+    "superlatives",
+    "time clauses",
+    "if + present, present",
+    "housing vocabulary"
+   ],
+   "checklist": [
+    "120 to 160 words",
+    "At least two superlatives (the biggest, the most comfortable)",
+    "in + place after a superlative (in the house)",
+    "One sentence with before, after or when",
+    "One sentence with if + present, present (no will)",
+    "Housing vocabulary (balcony, spacious, neighborhood...)"
+   ],
+   "model": "I live in a small house in the north of Queretaro. It is not the biggest house on my street, but I think it is the most comfortable. When you enter, you see the living room. It has a large window, a gray sofa and a bookshelf. The kitchen is next to the living room, and it is the brightest room in the house because it gets sun all morning. Upstairs there are two bedrooms and a bathroom. My bedroom is the quietest room, so I study there. After dinner, my family usually sits in the small garden at the back. If it is warm, we eat outside. The neighborhood is safe, and the supermarket is five minutes away. The only problem is the parking: when my cousins visit, there is no space for their car. I love my home."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a short email (80 to 120 words) to a landlord about an apartment you visited. Say that you are interested, ask two questions (for example about the rent, the utilities or pets), and say when you can move in. Use before or after once, and if once.",
+   "targets": [
+    "asking about a rental",
+    "before / after / if",
+    "polite email"
+   ],
+   "checklist": [
+    "80 to 120 words",
+    "Greeting and polite closing",
+    "Two clear questions (Are utilities included...? Can I...?)",
+    "One time clause (before / after / when)",
+    "One if clause with the present"
+   ],
+   "model": "Dear Mr. Torres,\n\nI am writing about the apartment on Pine Street. I visited it yesterday, and I am very interested. Before I sign the lease, I have two questions. First, are the utilities included in the rent? Second, if I want to paint the walls, do I need your permission?\n\nI can send my documents tomorrow. After you review them, please tell me the next steps. If the apartment is still available, I would like to move in on the first of next month.\n\nThank you for your time.\n\nBest regards,\nLaura Mendez"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Choosing a Place to Live",
+   "intro": "Read about Marta's apartment search and answer.",
+   "paragraphs": [
+    "Finding a new home is exciting, but it can also be stressful. Before you sign anything, you need to think about what matters most to you. For some people, the most important thing is the price. For others, it is the location or the size of the place.",
+    "Marta is looking for an apartment in Guadalajara. She works downtown, so she wants to live near a metro station. When she compared three apartments, she made a list. The first one was the cheapest, but it was also the smallest and the noisiest. The second was the biggest, with two bedrooms and a balcony, but it was the farthest from her office. The third one was the most expensive, and it was the closest to the metro.",
+    "Marta visited each place twice: once in the morning and once at night. \"When you visit only once, you can miss problems,\" she says. At night she found out that the street near the cheapest apartment was very loud. In the morning she checked the water and the windows. After she talked to the neighbors, she learned that the building with the balcony had a problem with the elevator.",
+    "Her cousin Luis gave her some advice. \"If you pay more for a good location, you spend less on transportation,\" he said. \"If the apartment is far from work, you lose time every day.\" He also told her to read the lease carefully. If you break the lease, you usually lose your deposit. Before she signed, Marta asked about the rent, the deposit and the utilities.",
+    "In the end, Marta chose the second apartment. It was not the closest, but the landlord agreed to fix the elevator and lower the rent a little. After she moved in, she bought a bicycle. Now she rides to the metro station in ten minutes. \"It was the best decision,\" she says, \"because I took my time.\""
+   ],
+   "glossary": [
+    {
+     "en": "stressful",
+     "def": "making you feel worried or tired"
+    },
+    {
+     "en": "downtown",
+     "def": "the central part of a city"
+    },
+    {
+     "en": "compare",
+     "def": "to look at two or more things and see how they are different"
+    },
+    {
+     "en": "loud",
+     "def": "making a lot of noise"
+    },
+    {
+     "en": "advice",
+     "def": "an idea about what a person should do"
+    },
+    {
+     "en": "lower",
+     "def": "to make something smaller or cheaper"
+    },
+    {
+     "en": "decision",
+     "def": "a choice you make after you think about something"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Marta works downtown, so she wants to live near a metro station.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "She works downtown and wants to live near the metro."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Which apartment was the smallest and the noisiest?",
+     "options": [
+      "The first one",
+      "The second one",
+      "The third one"
+     ],
+     "answer": 0,
+     "explain": "The first one was the cheapest, the smallest and the noisiest."
+    },
+    {
+     "id": "R3",
+     "type": "gap",
+     "prompt": "The second apartment was the ___ of the three, with two bedrooms and a balcony.",
+     "answers": [
+      "biggest"
+     ],
+     "explain": "The second was the biggest."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Why did Marta visit each place twice?",
+     "options": [
+      "To find problems she could miss in only one visit",
+      "To ask for a lower rent",
+      "To meet her cousin"
+     ],
+     "answer": 0,
+     "explain": "When you visit only once, you can miss problems."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "What does Luis say about paying more for a good location?",
+     "options": [
+      "You spend less on transportation",
+      "You lose your deposit",
+      "You can break the lease"
+     ],
+     "answer": 0,
+     "explain": "If you pay more for a good location, you spend less on transportation."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "Marta signed the lease before she asked about the deposit.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Before she signed, she asked about the rent, the deposit and the utilities."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "The landlord agreed to fix the ___.",
+     "answers": [
+      "elevator"
+     ],
+     "explain": "He agreed to fix the elevator and lower the rent a little."
+    },
+    {
+     "id": "R8",
+     "type": "translate",
+     "prompt": "Es la decisión más importante.",
+     "answers": [
+      "It's the most important decision.",
+      "It is the most important decision."
+     ],
+     "explain": "the most + long adjective."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Visiting an apartment",
+   "intro": "Listen to a rental agent show an apartment to two people. You can repeat it.",
+   "lines": [
+    {
+     "who": "Agent",
+     "voice": "glassy",
+     "text": "Good morning. Welcome. Are you here to see the apartment on Pine Street?"
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Yes. I'm Ana, and this is my brother Pablo. He is going to share the apartment with me."
+    },
+    {
+     "who": "Agent",
+     "voice": "glassy",
+     "text": "Nice to meet you. It's on the third floor, and it's the quietest apartment in the building."
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "How much is the rent?"
+    },
+    {
+     "who": "Agent",
+     "voice": "glassy",
+     "text": "It's six thousand five hundred pesos a month. Water is included, but you pay for electricity and internet."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Is there a deposit?"
+    },
+    {
+     "who": "Agent",
+     "voice": "glassy",
+     "text": "Yes. You pay one month's rent as a deposit. If you leave the apartment clean, we return it."
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "Can we have a pet? I have a small cat."
+    },
+    {
+     "who": "Agent",
+     "voice": "glassy",
+     "text": "Usually no. But if you ask the landlord, he sometimes says yes for small pets."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "The kitchen is the biggest room! Is the stove new?"
+    },
+    {
+     "who": "Agent",
+     "voice": "glassy",
+     "text": "Yes, they changed it last month. Before you decide, please check the bedrooms too."
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "When can we move in?"
+    },
+    {
+     "who": "Agent",
+     "voice": "glassy",
+     "text": "After you sign the lease and pay the deposit, you can move in on the first of the month."
+    },
+    {
+     "who": "Ana",
+     "voice": "airy",
+     "text": "Great. We'll talk about it tonight and call you tomorrow."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "On which floor is the apartment?",
+     "options": [
+      "The second floor",
+      "The third floor",
+      "The fourth floor"
+     ],
+     "answer": 1,
+     "explain": "It's on the third floor."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Besides the rent, what do Ana and Pablo pay for?",
+     "options": [
+      "Water and gas",
+      "Electricity and internet",
+      "Only the internet"
+     ],
+     "answer": 1,
+     "explain": "Water is included; they pay for electricity and internet."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "How much is the deposit?",
+     "options": [
+      "One month's rent",
+      "Two months' rent",
+      "There is no deposit"
+     ],
+     "answer": 0,
+     "explain": "You pay one month's rent as a deposit."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "Pets are always allowed in this building.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Usually no; sometimes the landlord says yes for small pets."
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "Ana says the ___ is the biggest room.",
+     "answers": [
+      "kitchen"
+     ],
+     "explain": "Ana says: The kitchen is the biggest room."
+    },
+    {
+     "id": "L6",
+     "type": "gap",
+     "prompt": "They can move in after they sign the lease and pay the ___.",
+     "answers": [
+      "deposit"
+     ],
+     "explain": "After you sign the lease and pay the deposit, you can move in."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "It's the quietest apartment in the building.",
+     "answers": [
+      "It's the quietest apartment in the building.",
+      "It is the quietest apartment in the building."
+     ],
+     "explain": "Superlative: the quietest + in the building."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "If you leave the apartment clean, we return the deposit.",
+     "answers": [
+      "If you leave the apartment clean, we return the deposit."
+     ],
+     "explain": "If + present, present."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Before you decide, please check the bedrooms.",
+     "answers": [
+      "Before you decide, please check the bedrooms."
+     ],
+     "explain": "Before + subject + present."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "When can we move in?",
+     "answers": [
+      "When can we move in?"
+     ],
+     "explain": "Question with can: When can we...?"
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "You call about an apartment for rent. Ask the agent about the rent, the deposit, the utilities and the move-in date.",
+     "questions": [
+      "Hello. How can I help you?",
+      "What would you like to know about the apartment?",
+      "Do you have any other questions?",
+      "When do you want to move in?"
+     ],
+     "model": "Hello. I'm calling about the apartment on Pine Street. Is it still available? How much is the rent? Is there a deposit? Are the utilities included in the rent? Can I have a pet? If I like it, when can I move in?",
+     "checklist": [
+      "Is it still available?",
+      "How much is...? / Are the utilities included...?",
+      "A question about the deposit or pets",
+      "When can I move in?"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "You are visiting an apartment. Say what you like, what the problems are, and what you do before you decide.",
+     "questions": [
+      "What is the best thing about this apartment?",
+      "What is the biggest problem?",
+      "Is the neighborhood quiet?",
+      "What do you check before you rent a place?"
+     ],
+     "model": "The best thing about this apartment is the light. The living room is the brightest room, and it is very spacious. The biggest problem is the noise, because it is on a busy street. Before I rent a place, I check the water, the windows and the neighbors. If I like it, I ask for the lease.",
+     "checklist": [
+      "At least two superlatives",
+      "Before / after / when",
+      "If + present, present",
+      "Housing vocabulary"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about your own home: where you live, your favorite room, and what you do when you get home.",
+     "questions": [
+      "Where do you live?",
+      "What is your favorite room?",
+      "What do you do after you get home?",
+      "What do you do if you have a problem at home?"
+     ],
+     "model": "I live in an apartment near the center of my city. My favorite room is the kitchen, because it is the warmest room in the apartment. When I get home, I take off my shoes and make coffee. After dinner, I watch a series. If something breaks, I call the landlord.",
+     "checklist": [
+      "A superlative to describe your home",
+      "When / after + present",
+      "If + present, present",
+      "Clear details about your home"
+     ]
+    }
+   ],
+   "repeat": [
+    "Is the apartment still available?",
+    "How much is the rent?",
+    "Are the utilities included in the rent?",
+    "It's the quietest apartment in the building.",
+    "Before I sign the lease, I read every page.",
+    "If you pay late, you get a fine."
+   ]
+  }
+ }
+}

@@ -1,0 +1,1716 @@
+{
+ "id": "u-b1-01",
+ "level": "B1",
+ "n": 1,
+ "title": "When things go wrong",
+ "goals": [
+  "Talk about what was happening in the past with the past continuous (I was walking, we weren't looking).",
+  "Ask about events in progress in the past: What were you doing when you fell? / Were you skiing?",
+  "Connect ideas with when and while: I was walking to work when it started to rain.",
+  "Talk about accidents and injuries with body-part vocabulary (I sprained my ankle, I cut my finger).",
+  "Use reflexive pronouns (myself, herself, themselves) and by myself.",
+  "React when you hear a story (Oh, no! / You're kidding! / That's hilarious. / I bet…) and write an anecdote."
+ ],
+ "learn": [
+  {
+   "id": "g-past-cont",
+   "kind": "grammar",
+   "title": "Past continuous: positive and negative",
+   "html": "<p>The <strong>past continuous</strong> describes an action that was <em>in progress</em> at a moment in the past: the background of a story. It is usually a long action. The <strong>past simple</strong> tells the short action that already finished.</p><p><strong>Form:</strong> subject + <strong>was / were</strong> + verb with <strong>-ing</strong>. Negative: <strong>wasn't / weren't</strong> + verb with -ing.</p><table><thead><tr><th>Subject</th><th>Positive</th><th>Negative</th></tr></thead><tbody><tr><td>I / he / she / it</td><td>I <strong>was talking</strong> to a woman.</td><td>I <strong>wasn't paying</strong> attention.</td></tr><tr><td>you / we / they</td><td>We <strong>were trying</strong> to look cool.</td><td>We <strong>weren't looking</strong>.</td></tr></tbody></table><p><strong>Spelling of -ing:</strong></p><ul><li>Ends in -e: drop the e → <em>have → having, use → using</em>.</li><li>Vowel + consonant (not w): double the consonant → <em>swim → swimming, shop → shopping</em> (but <em>visit → visiting</em>).</li></ul><p><strong>Contrast:</strong> <em>I was talking to a woman</em> (long action, background) and <em>I missed my stop</em> (short action, finished).</p>",
+   "watch": [
+    {
+     "wrong": "I was walk to work.",
+     "right": "I was walking to work.",
+     "why": "Was / were always goes with the -ing verb."
+    },
+    {
+     "wrong": "We was looking at the map.",
+     "right": "We were looking at the map.",
+     "why": "With we, you and they, use were."
+    },
+    {
+     "wrong": "I didn't paying attention.",
+     "right": "I wasn't paying attention.",
+     "why": "The negative of the past continuous uses wasn't / weren't, not didn't."
+    },
+    {
+     "wrong": "She was use my computer.",
+     "right": "She was using my computer.",
+     "why": "Verbs ending in -e lose the e: use → using."
+    }
+   ]
+  },
+  {
+   "id": "v-accidents",
+   "kind": "vocab",
+   "title": "Events and accidents",
+   "words": [
+    {
+     "id": "w-accidentally",
+     "en": "accidentally",
+     "es": "sin querer, por accidente",
+     "example": "I accidentally deleted my music files.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-embarrassed",
+     "en": "embarrassed",
+     "es": "avergonzado/a (cómo te sientes)",
+     "example": "I was embarrassed when I forgot her name.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-embarrassing",
+     "en": "embarrassing",
+     "es": "vergonzoso/a (lo que causa la pena)",
+     "example": "It was an embarrassing moment.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-be-late-for",
+     "en": "be late for (a meeting)",
+     "es": "llegar tarde a (una junta)",
+     "example": "I was late for the meeting because of the traffic.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-break",
+     "en": "break (something)",
+     "es": "romper (algo) (pasado: broke)",
+     "example": "He broke his phone when he dropped it.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-damage",
+     "en": "damage (something)",
+     "es": "dañar (algo)",
+     "example": "The water damaged my laptop.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-delete",
+     "en": "delete (music files)",
+     "es": "borrar (archivos de música)",
+     "example": "A friend deleted all my photos by mistake.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-fall-into",
+     "en": "fall (into something)",
+     "es": "caer(se) (en algo) (pasado: fell)",
+     "example": "She fell into the pool with her clothes on.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-forget",
+     "en": "forget (something)",
+     "es": "olvidar (algo) (pasado: forgot)",
+     "example": "I forgot my keys at the office.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-lose",
+     "en": "lose (something)",
+     "es": "perder (algo) (pasado: lost)",
+     "example": "He lost his wallet on the bus.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-spill",
+     "en": "spill (coffee)",
+     "es": "derramar (café)",
+     "example": "I spilled coffee on my shirt.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-burn-yourself",
+     "en": "burn yourself",
+     "es": "quemarte",
+     "example": "Be careful, you can burn yourself.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-crash",
+     "en": "crash",
+     "es": "chocar, estrellarse",
+     "example": "He crashed his car into a tree.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-download",
+     "en": "download",
+     "es": "descargar",
+     "example": "I was downloading a movie when the power went out.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-end-a-call",
+     "en": "end a call",
+     "es": "terminar una llamada, colgar",
+     "example": "She ended the call and started to cry.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pay-attention",
+     "en": "pay attention",
+     "es": "poner atención",
+     "example": "I wasn't paying attention, so I missed my stop.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-realize",
+     "en": "realize",
+     "es": "darse cuenta (ojo: no es «realizar»)",
+     "example": "I realized my bag was open.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "g-when-while",
+   "kind": "grammar",
+   "title": "Connecting ideas with when and while",
+   "html": "<p>To tell a story, use the <strong>past continuous</strong> for the background (long action) and the <strong>past simple</strong> for the short action that happened at that moment. They are joined with <strong>when</strong> or <strong>while</strong>.</p><table><thead><tr><th>Two sentences</th><th>One sentence</th></tr></thead><tbody><tr><td>I was walking to work. It started to rain.</td><td>I was walking to work <strong>when</strong> it started to rain.<br><strong>When</strong> I was walking to work, it started to rain.</td></tr><tr><td>I was waiting. A young man offered me his umbrella.</td><td><strong>While</strong> I was waiting, a young man offered me his umbrella.</td></tr></tbody></table><ul><li><strong>While</strong> emphasizes that an action lasts for a period of time: it goes before the long action (<em>while I was waiting</em>).</li><li><strong>When</strong> also joins actions that happen one after another: <em>When I got to the corner, the light changed.</em> (first I arrived, then the light changed).</li><li>If the sentence starts with when / while, use a comma before the second part.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I was cooking when the phone was ringing.",
+     "right": "I was cooking when the phone rang.",
+     "why": "The short, interrupted action goes in the past simple."
+    },
+    {
+     "wrong": "When I was arrived at the corner, the light changed.",
+     "right": "When I arrived at the corner, the light changed.",
+     "why": "Actions one after another: past simple in both."
+    },
+    {
+     "wrong": "While I waited the bus, a man spoke to me.",
+     "right": "While I was waiting for the bus, a man spoke to me.",
+     "why": "After while we use the long action (past continuous), and wait takes for."
+    }
+   ]
+  },
+  {
+   "id": "g-past-cont-q",
+   "kind": "grammar",
+   "title": "Past continuous: questions",
+   "html": "<p>It is used to ask about what was happening. For finished actions, use the past simple (<em>Did you hurt yourself?</em>).</p><table><thead><tr><th>Type</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Yes / No</td><td>Was / Were + subject + verb-ing?</td><td><strong>Were</strong> you <strong>skiing</strong> with a friend?</td></tr><tr><td>Short answer</td><td>Yes, I was. / No, they weren't.</td><td>Yes, I <strong>was</strong>. / No, we <strong>weren't</strong>.</td></tr><tr><td>Information</td><td>Question word + was / were + subject + verb-ing?</td><td>What <strong>were</strong> you <strong>doing</strong> when you fell?</td></tr></tbody></table><p>The short answer repeats <em>was / were</em>, never the verb: <em>Yes, I was.</em> and never \"Yes, I did\".</p>",
+   "watch": [
+    {
+     "wrong": "What you were doing at seven?",
+     "right": "What were you doing at seven?",
+     "why": "The order is reversed: was / were goes before the subject."
+    },
+    {
+     "wrong": "Did you skiing with a friend?",
+     "right": "Were you skiing with a friend?",
+     "why": "With -ing, use was / were, not did."
+    },
+    {
+     "wrong": "Were you sleeping? — Yes, I did.",
+     "right": "Were you sleeping? — Yes, I was.",
+     "why": "The short answer repeats the auxiliary from the question."
+    },
+    {
+     "wrong": "Were you hurt yourself?",
+     "right": "Did you hurt yourself?",
+     "why": "Finished action: past simple with did + base verb."
+    }
+   ]
+  },
+  {
+   "id": "v-body",
+   "kind": "vocab",
+   "title": "Parts of the body",
+   "words": [
+    {
+     "id": "w-ankle",
+     "en": "ankle",
+     "es": "tobillo",
+     "example": "She sprained her ankle.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-arm",
+     "en": "arm",
+     "es": "brazo",
+     "example": "He broke his arm in a bike accident.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-back",
+     "en": "back",
+     "es": "espalda",
+     "example": "My back hurts after a long day.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-chest",
+     "en": "chest",
+     "es": "pecho",
+     "example": "He has a pain in his chest.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-elbow",
+     "en": "elbow",
+     "es": "codo",
+     "example": "I hit my elbow on the door.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-eye",
+     "en": "eye",
+     "es": "ojo",
+     "example": "She got a black eye from the ball.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-face",
+     "en": "face",
+     "es": "cara",
+     "example": "He washed his face.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-finger-thumb",
+     "en": "finger / thumb",
+     "es": "dedo (de la mano) / pulgar",
+     "example": "I cut my finger with a knife.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-foot-toe",
+     "en": "foot (pl. feet) / toe",
+     "es": "pie / dedo del pie",
+     "example": "She dropped a book on her foot and hurt her toe.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-hand",
+     "en": "hand",
+     "es": "mano",
+     "example": "Wash your hands before eating.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-head",
+     "en": "head",
+     "es": "cabeza",
+     "example": "He hit his head on the shelf.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-hip",
+     "en": "hip",
+     "es": "cadera",
+     "example": "My grandfather has a problem with his hip.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-knee",
+     "en": "knee",
+     "es": "rodilla",
+     "example": "I hurt my knee playing soccer.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-leg",
+     "en": "leg",
+     "es": "pierna",
+     "example": "The table has a broken leg.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-neck",
+     "en": "neck",
+     "es": "cuello",
+     "example": "My neck hurts when I work at the computer.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-nose",
+     "en": "nose",
+     "es": "nariz",
+     "example": "The ball hit him on the nose.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-shoulder",
+     "en": "shoulder",
+     "es": "hombro",
+     "example": "She carries a heavy bag on her shoulder.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-wrist",
+     "en": "wrist",
+     "es": "muñeca (del brazo)",
+     "example": "You wear a watch on your wrist.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "g-reflexive",
+   "kind": "grammar",
+   "title": "Reflexive pronouns and by + reflexive",
+   "html": "<p>They are used when the subject and the object of the verb are the <strong>same person</strong>: <em>I hurt <strong>myself</strong>.</em></p><table><thead><tr><th>Subject</th><th>Reflexive</th><th>Subject</th><th>Reflexive</th></tr></thead><tbody><tr><td>I</td><td>myself</td><td>we</td><td>ourselves</td></tr><tr><td>you</td><td>yourself</td><td>you (plural)</td><td>yourselves</td></tr><tr><td>he</td><td>himself</td><td>they</td><td>themselves</td></tr><tr><td>she</td><td>herself</td><td>it</td><td>itself</td></tr></tbody></table><ul><li><strong>by + reflexive</strong> means alone, without company: <em>I was skiing by myself.</em></li><li>In English you do NOT use a reflexive with routine actions like <em>wake up, get up, shower, get dressed</em>: <em>I get up at six</em> (not \"I get up myself\").</li><li>It is <strong>-self</strong> in the singular and <strong>-selves</strong> in the plural: <em>themselves</em>, not \"theirselves\".</li></ul>",
+   "watch": [
+    {
+     "wrong": "I hurt me yesterday.",
+     "right": "I hurt myself yesterday.",
+     "why": "Same subject and object: reflexive pronoun."
+    },
+    {
+     "wrong": "He cut hisself with a knife.",
+     "right": "He cut himself with a knife.",
+     "why": "The correct form is himself."
+    },
+    {
+     "wrong": "We enjoyed ourself a lot.",
+     "right": "We enjoyed ourselves a lot.",
+     "why": "Plural: -selves."
+    },
+    {
+     "wrong": "I wake up myself at six.",
+     "right": "I wake up at six.",
+     "why": "Routines (wake up, get dressed) don't take a reflexive."
+    }
+   ]
+  },
+  {
+   "id": "v-injuries",
+   "kind": "vocab",
+   "title": "Injuries, accidents and time expressions",
+   "words": [
+    {
+     "id": "w-break-arm",
+     "en": "break your arm",
+     "es": "romperte el brazo",
+     "example": "He broke his arm when he fell off the bike.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-black-eye",
+     "en": "get a black eye",
+     "es": "salirte un moretón en el ojo",
+     "example": "She got a black eye in the game.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-sprain",
+     "en": "sprain your ankle",
+     "es": "torcerte el tobillo",
+     "example": "I sprained my ankle on the stairs.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-cut-finger",
+     "en": "cut your finger",
+     "es": "cortarte el dedo",
+     "example": "I cut my finger while I was chopping onions.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-hurt-back",
+     "en": "hurt your back",
+     "es": "lastimarte la espalda",
+     "example": "He hurt his back lifting a box.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-hurt-yourself",
+     "en": "hurt yourself",
+     "es": "lastimarte",
+     "example": "Did you hurt yourself?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-car-accident",
+     "en": "have a car accident",
+     "es": "tener un accidente de coche",
+     "example": "My uncle had a car accident last year.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-by-myself",
+     "en": "by myself / by yourself…",
+     "es": "solo/a, sin compañía",
+     "example": "I was skiing by myself.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-couple-days-ago",
+     "en": "a couple of days ago",
+     "es": "hace un par de días",
+     "example": "I lost my wallet a couple of days ago.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-at-the-time",
+     "en": "at the time",
+     "es": "en ese momento",
+     "example": "I was living in Puebla at the time.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-recently",
+     "en": "recently",
+     "es": "recientemente, hace poco",
+     "example": "Recently, I broke my phone.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-one-time",
+     "en": "one time",
+     "es": "una vez (para empezar una anécdota)",
+     "example": "One time, I forgot my best friend's birthday.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-drop",
+     "en": "drop (something)",
+     "es": "dejar caer (algo)",
+     "example": "I dropped my phone in the sink.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "e-react",
+   "kind": "expressions",
+   "title": "Reacting to a story",
+   "html": "<p>When someone tells a story, react to show you are listening.</p><ul><li><strong>Oh, no! / Really? / You're kidding!</strong> — surprise.</li><li><strong>Oh, that's hilarious. / That's terrible. / That's so embarrassing.</strong> — that's + adjective.</li><li><strong>Oh, I love Thai food.</strong> — you give a fact or a personal opinion.</li><li><strong>I bet no one noticed.</strong> — I bet + sentence: \"I'm pretty sure that…\", when you are fairly certain.</li><li><strong>I bet.</strong> — answer on its own: \"I can imagine, of course.\"</li><li><strong>One time, … / A couple of days ago, …</strong> — ways to start an anecdote.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Past continuous: positive and negative",
+   "instructions": "Complete or correct with the past continuous.",
+   "topic": "g-past-cont",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "At nine o'clock last night, we ___ dinner. (have)",
+     "answers": [
+      "were having"
+     ],
+     "explain": "We + were + verb-ing."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "I ___ paying attention, so I missed my stop.",
+     "answers": [
+      "wasn't",
+      "was not"
+     ],
+     "explain": "Negative with I: wasn't."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "My brother ___ my laptop when it fell. (use)",
+     "answers": [
+      "was using"
+     ],
+     "explain": "He + was + using (drop the e)."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "They ___ looking at the road, so they crashed the car.",
+     "answers": [
+      "weren't",
+      "were not"
+     ],
+     "explain": "Negative with they: weren't."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "She ___ on the phone when I arrived.",
+     "options": [
+      "was talk",
+      "was talking",
+      "were talking"
+     ],
+     "answer": 1,
+     "explain": "She + was + verb-ing."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "We was swimming at the beach.",
+     "answers": [
+      "We were swimming at the beach."
+     ],
+     "explain": "With we, use were."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "He was runing in the park.",
+     "answers": [
+      "He was running in the park."
+     ],
+     "explain": "Vowel + consonant: double the n (running)."
+    },
+    {
+     "id": "A8",
+     "type": "gap",
+     "prompt": "The kids ___ in the yard when it started to rain. (play)",
+     "answers": [
+      "were playing"
+     ],
+     "explain": "The kids = they → were playing."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Past continuous: questions",
+   "instructions": "Form and answer questions about the past.",
+   "topic": "g-past-cont-q",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "___ you sleeping when I called? — Yes, I was.",
+     "answers": [
+      "Were"
+     ],
+     "explain": "With you: Were."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "What ___ she doing when she fell?",
+     "answers": [
+      "was"
+     ],
+     "explain": "With she: was."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "Was Pedro driving? — No, he ___.",
+     "answers": [
+      "wasn't",
+      "was not"
+     ],
+     "explain": "Negative short answer: No, he wasn't."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "Were they skiing with friends? — No, they ___.",
+     "answers": [
+      "weren't",
+      "were not"
+     ],
+     "explain": "Negative short answer: No, they weren't."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "___ you doing when the lights went out?",
+     "options": [
+      "What were",
+      "What did",
+      "What was"
+     ],
+     "answer": 0,
+     "explain": "What + were + you + verb-ing."
+    },
+    {
+     "id": "B6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "were",
+      "you",
+      "doing",
+      "what",
+      "when",
+      "you",
+      "fell"
+     ],
+     "answers": [
+      "What were you doing when you fell?"
+     ],
+     "explain": "Question word + were + subject + verb-ing."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "What you were doing at seven?",
+     "answers": [
+      "What were you doing at seven?"
+     ],
+     "explain": "In questions, were goes before the subject."
+    },
+    {
+     "id": "B8",
+     "type": "fix",
+     "prompt": "Did you skiing with a friend?",
+     "answers": [
+      "Were you skiing with a friend?"
+     ],
+     "explain": "Past continuous: Were + you + verb-ing."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "When and while: past continuous and past simple",
+   "instructions": "Choose or write the correct form of the verb.",
+   "topic": "g-when-while",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "I ___ to work when it started to rain.",
+     "options": [
+      "walked",
+      "was walking",
+      "walk"
+     ],
+     "answer": 1,
+     "explain": "Long background action: past continuous."
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "___ I was waiting, a man offered me his umbrella.",
+     "options": [
+      "While",
+      "But",
+      "Because"
+     ],
+     "answer": 0,
+     "explain": "While + long action."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "She was cooking when the phone ___. (ring)",
+     "answers": [
+      "rang"
+     ],
+     "explain": "Short, interrupted action: past simple."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "While we ___, the lights went out. (eat)",
+     "answers": [
+      "were eating"
+     ],
+     "explain": "Long action after while: past continuous."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "I was cooking when the phone was ringing.",
+     "answers": [
+      "I was cooking when the phone rang."
+     ],
+     "explain": "The short action goes in the past simple."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "When I was arrived at the corner, the light changed.",
+     "answers": [
+      "When I arrived at the corner, the light changed."
+     ],
+     "explain": "Actions one after another: past simple."
+    },
+    {
+     "id": "C7",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I",
+      "was",
+      "sleeping",
+      "when",
+      "the",
+      "alarm",
+      "rang"
+     ],
+     "answers": [
+      "I was sleeping when the alarm rang.",
+      "When the alarm rang, I was sleeping."
+     ],
+     "explain": "Past continuous + when + past simple."
+    },
+    {
+     "id": "C8",
+     "type": "gap",
+     "prompt": "When I ___ to the station, the train left. (get)",
+     "answers": [
+      "got"
+     ],
+     "explain": "One thing after another: past simple (got)."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Reflexive pronouns",
+   "instructions": "Write the reflexive pronoun or correct the sentence.",
+   "topic": "g-reflexive",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "I cut ___ with a knife.",
+     "answers": [
+      "myself"
+     ],
+     "explain": "I → myself."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "She hurt ___ when she fell.",
+     "answers": [
+      "herself"
+     ],
+     "explain": "She → herself."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "We enjoyed ___ at the party.",
+     "answers": [
+      "ourselves"
+     ],
+     "explain": "We → ourselves."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "My brother burned ___ with hot coffee.",
+     "answers": [
+      "himself"
+     ],
+     "explain": "My brother = he → himself."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "Be careful, kids! Don't hurt ___.",
+     "answers": [
+      "yourselves"
+     ],
+     "explain": "Several people: yourselves."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "He traveled to Oaxaca by ___.",
+     "options": [
+      "him",
+      "himself",
+      "itself"
+     ],
+     "answer": 1,
+     "explain": "by + reflexive = alone."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "I hurt me yesterday.",
+     "answers": [
+      "I hurt myself yesterday."
+     ],
+     "explain": "Same subject and object: myself."
+    },
+    {
+     "id": "D8",
+     "type": "fix",
+     "prompt": "They taught theirselves English.",
+     "answers": [
+      "They taught themselves English."
+     ],
+     "explain": "The form is themselves."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: accidents and the body",
+   "instructions": "Choose or write the correct word.",
+   "topic": "v-accidents",
+   "items": [
+    {
+     "id": "E1",
+     "type": "choice",
+     "prompt": "I ___ my keys, so I couldn't open the door.",
+     "options": [
+      "lost",
+      "spilled",
+      "deleted"
+     ],
+     "answer": 0,
+     "explain": "Lose: lose → lost."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "She ___ coffee on her white shirt.",
+     "options": [
+      "downloaded",
+      "spilled",
+      "realized"
+     ],
+     "answer": 1,
+     "explain": "Spill: spill."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "He ___ his ankle when he was playing soccer. (sprain)",
+     "answers": [
+      "sprained"
+     ],
+     "explain": "Sprain your ankle (to twist your ankle)."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "I was late ___ the meeting because of the traffic.",
+     "answers": [
+      "for"
+     ],
+     "explain": "Be late for + event."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "I cut my ___ while I was chopping onions.",
+     "answers": [
+      "finger",
+      "thumb"
+     ],
+     "explain": "With a knife you cut your fingers: finger / thumb."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "You wear a watch on your ___.",
+     "answers": [
+      "wrist"
+     ],
+     "explain": "Wrist: the joint between the hand and the arm."
+    },
+    {
+     "id": "E7",
+     "type": "choice",
+     "prompt": "That was so ___! Everyone saw me fall.",
+     "options": [
+      "embarrassing",
+      "embarrassed",
+      "embarrass"
+     ],
+     "answer": 0,
+     "explain": "Something that causes embarrassment: embarrassing."
+    },
+    {
+     "id": "E8",
+     "type": "choice",
+     "prompt": "I felt very ___ when I forgot her name.",
+     "options": [
+      "embarrassed",
+      "embarrassing",
+      "embarrass"
+     ],
+     "answer": 0,
+     "explain": "How you feel: embarrassed."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Reacting to a story",
+   "instructions": "Choose or complete the most natural reaction.",
+   "topic": "e-react",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "\"I dropped my phone in the toilet!\"",
+     "options": [
+      "Oh, no!",
+      "That's nice.",
+      "I'm fine."
+     ],
+     "answer": 0,
+     "explain": "Oh, no! shows surprise and sympathy."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "\"I hid the burned pan under the sink.\"",
+     "options": [
+      "That's hilarious!",
+      "I was cooking.",
+      "Is it Friday?"
+     ],
+     "answer": 0,
+     "explain": "That's + adjective is a natural reaction."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "\"I forgot my best friend's birthday.\"",
+     "options": [
+      "I bet she was really upset.",
+      "She was sleeping.",
+      "Because it was Monday."
+     ],
+     "answer": 0,
+     "explain": "I bet + sentence: I'm sure that…"
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "\"It didn't taste good. I freaked.\"",
+     "options": [
+      "I bet.",
+      "I can.",
+      "I do."
+     ],
+     "answer": 0,
+     "explain": "I bet as a short answer: I can imagine."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "A: I fell into a pool with my phone in my pocket! B: You're ___!",
+     "answers": [
+      "kidding"
+     ],
+     "explain": "You're kidding! = No way!"
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "A: We were making Thai food. B: Oh, I ___ Thai food!",
+     "answers": [
+      "love",
+      "like"
+     ],
+     "explain": "You can give a personal fact: I love Thai food."
+    },
+    {
+     "id": "F7",
+     "type": "fix",
+     "prompt": "That's hilariously!",
+     "answers": [
+      "That's hilarious!"
+     ],
+     "explain": "That's + adjective, not an adverb."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "was",
+      "reading",
+      "I",
+      "when",
+      "the",
+      "power",
+      "went",
+      "out"
+     ],
+     "answers": [
+      "I was reading when the power went out."
+     ],
+     "explain": "Past continuous + when + past simple."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "were",
+      "you",
+      "skiing",
+      "with",
+      "a",
+      "friend"
+     ],
+     "answers": [
+      "Were you skiing with a friend?"
+     ],
+     "explain": "Were + subject + verb-ing."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "hurt",
+      "he",
+      "himself",
+      "when",
+      "he",
+      "fell"
+     ],
+     "answers": [
+      "He hurt himself when he fell."
+     ],
+     "explain": "Reflexive himself after hurt."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "weren't",
+      "we",
+      "paying",
+      "attention"
+     ],
+     "answers": [
+      "We weren't paying attention."
+     ],
+     "explain": "Negative: weren't + verb-ing."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "were",
+      "what",
+      "you",
+      "doing",
+      "when",
+      "I",
+      "called"
+     ],
+     "answers": [
+      "What were you doing when I called?"
+     ],
+     "explain": "What + were + subject + verb-ing."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "skiing",
+      "she",
+      "by",
+      "was",
+      "herself"
+     ],
+     "answers": [
+      "She was skiing by herself."
+     ],
+     "explain": "by + reflexive = alone (she)."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Estaba hablando por teléfono cuando llegó mi mamá.",
+     "answers": [
+      "I was talking on the phone when my mom arrived.",
+      "I was talking on the phone when my mom got home.",
+      "I was talking on the phone when my mother arrived.",
+      "I was talking on the phone when my mother got home.",
+      "I was talking on my phone when my mom arrived.",
+      "I was talking on my phone when my mom got home.",
+      "I was talking on my phone when my mother arrived.",
+      "I was talking on my phone when my mother got home."
+     ],
+     "explain": "Past continuous + when + past simple."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿Qué estabas haciendo cuando te caíste?",
+     "answers": [
+      "What were you doing when you fell?"
+     ],
+     "explain": "What + were + you + verb-ing; fell is the past of fall."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "No estábamos poniendo atención.",
+     "answers": [
+      "We weren't paying attention.",
+      "We were not paying attention."
+     ],
+     "explain": "Negative past continuous: weren't + verb-ing."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Ella se lastimó la espalda.",
+     "answers": [
+      "She hurt her back."
+     ],
+     "explain": "With body parts use the possessive: her back. Hurt is the same in the past."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Mientras yo esperaba el autobús, empezó a llover.",
+     "answers": [
+      "While I was waiting for the bus, it started to rain.",
+      "While I was waiting for the bus, it started raining.",
+      "When I was waiting for the bus, it started to rain.",
+      "When I was waiting for the bus, it started raining.",
+      "It started to rain while I was waiting for the bus.",
+      "It started to rain when I was waiting for the bus.",
+      "It started raining while I was waiting for the bus.",
+      "It started raining when I was waiting for the bus."
+     ],
+     "explain": "While + past continuous; the short action goes in the past simple."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Fui al cine yo solo.",
+     "answers": [
+      "I went to the movies by myself.",
+      "I went to the movie theater by myself.",
+      "I went to the cinema by myself.",
+      "I went to the movies alone."
+     ],
+     "explain": "by myself = alone."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes review from A2).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Where were you at 8 p.m.? — I ___ dinner with my family.",
+     "options": [
+      "had",
+      "was having",
+      "have"
+     ],
+     "answer": 1,
+     "explain": "An action in progress at a specific time: past continuous."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "She ___ the road, so she hit a tree. (not / watch)",
+     "answers": [
+      "wasn't watching",
+      "was not watching"
+     ],
+     "explain": "Negative past continuous."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "I cut me when I was cooking.",
+     "answers": [
+      "I cut myself when I was cooking."
+     ],
+     "explain": "Reflexive: myself."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Me torcí el tobillo.",
+     "answers": [
+      "I sprained my ankle."
+     ],
+     "explain": "Sprain + possessive + body part."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "\"I spilled soup on my boss!\"",
+     "options": [
+      "Oh, no!",
+      "I like soup.",
+      "He was sleeping."
+     ],
+     "answer": 0,
+     "explain": "A reaction of surprise."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "I ___ an old friend at the mall yesterday. (see)",
+     "answers": [
+      "saw"
+     ],
+     "explain": "A2 review: irregular past simple (see → saw)."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "Her phone was ___ than mine.",
+     "options": [
+      "more cheap",
+      "cheaper",
+      "cheapest"
+     ],
+     "answer": 1,
+     "explain": "A2 review: short comparative with -er."
+    },
+    {
+     "id": "M8",
+     "type": "choice",
+     "prompt": "I was walking home when I ___ my wallet.",
+     "options": [
+      "was finding",
+      "found",
+      "find"
+     ],
+     "answer": 1,
+     "explain": "Short action: past simple."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write 120 to 180 words about a day when everything went wrong. Describe what you were doing when things happened (use when and while), at least one injury or accident with a body part, a reflexive (myself, herself…), and how you felt (embarrassed / embarrassing). Suggested opening: Last week I was ... when ...",
+   "targets": [
+    "past continuous",
+    "past simple",
+    "when / while",
+    "reflexive pronouns",
+    "body parts and accidents"
+   ],
+   "checklist": [
+    "120 to 180 words",
+    "At least 3 sentences with was / were + verb-ing",
+    "At least 3 sentences with when or while",
+    "Past simple for the short action (not 'when I was arrived')",
+    "One correct reflexive (hurt myself) and one body part",
+    "embarrassed (me) vs embarrassing (the situation) used correctly",
+    "-ing spelling (running, using)"
+   ],
+   "model": "Last week I was walking to work when my day started to go wrong. It was raining, and I was carrying a big coffee and my laptop bag. While I was running to catch the bus, I slipped on a wet step and fell. I hurt myself badly: I cut my knee and twisted my ankle. The coffee went all over my shirt, and everyone on the bus was looking at me.\n\nWhen I arrived at the office, I was feeling very embarrassed. I was trying to clean my shirt in the bathroom when my boss walked in. She laughed a little, but then she gave me a spare jacket. While I was using the computer, I realized that I didn't have my phone. I had left it on the bus. It was a really embarrassing and tiring morning.\n\nIn the afternoon, a friend was waiting for me outside, and she took me to a clinic. The doctor said that my ankle was not broken, but I had to rest. It was the most embarrassing day of the year!"
+  },
+  {
+   "id": "W2",
+   "prompt": "Write 120 to 180 words: a funny or embarrassing story that you tell a friend by message, and your friend's reply. Your friend must react with at least three expressions (Oh, no! / You're kidding! / That's hilarious. / I bet…) and ask you a question with What were you doing… or Were you…?",
+   "targets": [
+    "past continuous",
+    "reacting to a story",
+    "I bet",
+    "past continuous questions"
+   ],
+   "checklist": [
+    "120 to 180 words",
+    "Story with background (was / were + -ing) and a short action (past simple)",
+    "Three different reactions from your friend",
+    "One expression with I bet",
+    "One past continuous question with the correct word order",
+    "Correct short answer (Yes, I was. / No, I wasn't.)"
+   ],
+   "model": "Me: You won't believe what happened to me yesterday! I was talking on the phone in a busy restaurant when I walked into a glass door. I was looking at my phone and not at the door, so I hit my nose really hard. Everyone stopped eating and looked at me. I was so embarrassed that I just said, \"I'm fine!\" and sat down. While I was waiting for my food, my nose started to bleed, and the waiter brought me some ice.\n\nAnna: Oh, no! That sounds terrible. Were you walking fast?\n\nMe: Yes, I was. I was in a hurry because I was late to meet my sister.\n\nAnna: You're kidding! And what was your sister doing when you arrived?\n\nMe: She was laughing so hard that she couldn't talk.\n\nAnna: That's hilarious! I bet she took a photo. Were you crying?\n\nMe: No, I wasn't, but I was very red. I bet everyone in the restaurant remembers me now.\n\nAnna: Don't worry. Next time, just look where you're going!"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The worst Monday",
+   "intro": "Read the story of a bad Monday and answer.",
+   "paragraphs": [
+    "Last Monday was the worst day of my life. At 7:00 a.m., I was making breakfast and listening to music when my phone rang. It was my boss. I wasn't paying attention, so I spilled a whole cup of coffee on my laptop. The screen went black. I felt terrible, but I did not have time to cry. I had an important meeting at 9:00, and I was already late for it.",
+    "I ran out of the house and jumped on my bike. While I was riding to the office, I was thinking about the meeting, and I didn't see a small dog in the street. I stopped quickly and fell off my bike. I hurt my knee and sprained my wrist. A kind woman was walking nearby, and she helped me stand up. \"Are you OK?\" she asked. \"Yes, I'm fine,\" I said, but I was really embarrassed. Two children were laughing at me.",
+    "When I finally arrived at work, my boss was waiting for me. I told him about the coffee, the dog and the bike. At first he looked serious, but then he started to laugh. \"You had a very bad morning!\" he said. He gave me an old laptop and a cup of tea, and the meeting started ten minutes later. My co-worker Laura was sitting next to me, and she shared her cookies. \"You deserve them,\" she said. Everything was fine after that.",
+    "That evening, I was sitting on my sofa with ice on my knee when my sister called. I told her the whole story, and she thought it was hilarious. \"You always say you want an exciting life,\" she said. Now I realize something: when things go wrong, it is better to laugh at yourself. Next Monday, I am going to turn off my phone before breakfast!"
+   ],
+   "glossary": [
+    {
+     "en": "boss",
+     "def": "the person who is in charge of you at work"
+    },
+    {
+     "en": "stand up",
+     "def": "to get up onto your feet from sitting or lying down"
+    },
+    {
+     "en": "nearby",
+     "def": "close, not far away"
+    },
+    {
+     "en": "deserve",
+     "def": "to earn something because of what you did"
+    },
+    {
+     "en": "co-worker",
+     "def": "a person who works with you"
+    },
+    {
+     "en": "whole",
+     "def": "complete, all of it"
+    },
+    {
+     "en": "turn off",
+     "def": "to stop a device from working"
+    },
+    {
+     "en": "ice",
+     "def": "frozen water, very cold"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "The boss called while the writer was making breakfast.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "«I was making breakfast … when my phone rang. It was my boss»."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "The writer spilled tea on the laptop.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "He spilled coffee, not tea."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Why did the writer fall off the bike?",
+     "options": [
+      "A small dog was in the street",
+      "It was raining",
+      "The bike was broken"
+     ],
+     "answer": 0,
+     "explain": "He didn't see a small dog and braked suddenly."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "What did the writer hurt?",
+     "options": [
+      "Back and neck",
+      "Knee and wrist",
+      "Ankle and arm"
+     ],
+     "answer": 1,
+     "explain": "I hurt my knee and sprained my wrist."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Two ___ were laughing when the writer fell.",
+     "answers": [
+      "children",
+      "kids"
+     ],
+     "explain": "«Two children were laughing at me»."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "How did the boss react to the story?",
+     "options": [
+      "He was angry",
+      "He laughed",
+      "He cried"
+     ],
+     "answer": 1,
+     "explain": "At first he looked serious, but then he started to laugh."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "At the end, the writer says it is better to ___ at yourself.",
+     "answers": [
+      "laugh"
+     ],
+     "explain": "«It is better to laugh at yourself»."
+    },
+    {
+     "id": "R8",
+     "type": "translate",
+     "prompt": "Estaba haciendo el desayuno cuando sonó mi teléfono.",
+     "answers": [
+      "I was making breakfast when my phone rang.",
+      "I was making breakfast when my cell phone rang.",
+      "I was making breakfast when my cellphone rang.",
+      "I was making breakfast when the phone rang.",
+      "I was cooking breakfast when my phone rang."
+     ],
+     "explain": "Pasado continuo + when + pasado simple."
+    }
+   ]
+  },
+  "listening": {
+   "title": "A crazy weekend",
+   "intro": "Listen to the conversation between Dani and Rosa. You can repeat it.",
+   "lines": [
+    {
+     "who": "Dani",
+     "voice": "buttery",
+     "text": "Hey, Rosa! You look tired. What happened?"
+    },
+    {
+     "who": "Rosa",
+     "voice": "airy",
+     "text": "Oh, don't ask. I had a crazy weekend. On Saturday I was cooking dinner for my in-laws when the smoke alarm went off."
+    },
+    {
+     "who": "Dani",
+     "voice": "buttery",
+     "text": "Oh, no! What were you cooking?"
+    },
+    {
+     "who": "Rosa",
+     "voice": "airy",
+     "text": "Fish. I was talking to my sister on the phone, so I wasn't paying attention. The fish burned!"
+    },
+    {
+     "who": "Dani",
+     "voice": "buttery",
+     "text": "You're kidding! What did you do?"
+    },
+    {
+     "who": "Rosa",
+     "voice": "airy",
+     "text": "I opened all the windows and ordered pizza. Then, while I was opening the last window, I hit my elbow and hurt myself."
+    },
+    {
+     "who": "Dani",
+     "voice": "buttery",
+     "text": "Ouch! Are you OK now?"
+    },
+    {
+     "who": "Rosa",
+     "voice": "airy",
+     "text": "Yes, it's fine. But the funny part came later. My father-in-law arrived and said, I love pizza! He didn't know about the fish."
+    },
+    {
+     "who": "Dani",
+     "voice": "buttery",
+     "text": "That's hilarious! I bet everybody was happy."
+    },
+    {
+     "who": "Rosa",
+     "voice": "airy",
+     "text": "Yes, nobody was angry. But next time I'm going to cook by myself, with my phone in another room."
+    },
+    {
+     "who": "Dani",
+     "voice": "buttery",
+     "text": "Good idea! And please invite me for the pizza."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What was Rosa doing when the smoke alarm went off?",
+     "options": [
+      "Cooking dinner",
+      "Watching TV",
+      "Sleeping"
+     ],
+     "answer": 0,
+     "explain": "I was cooking dinner … when the smoke alarm went off."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Why did the fish burn?",
+     "options": [
+      "She was talking on the phone",
+      "She was sleeping",
+      "She was shopping"
+     ],
+     "answer": 0,
+     "explain": "She was talking to her sister on the phone and wasn't paying attention."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What did Rosa hurt?",
+     "options": [
+      "Her elbow",
+      "Her knee",
+      "Her wrist"
+     ],
+     "answer": 0,
+     "explain": "I hit my elbow and hurt myself."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "Rosa ordered ___.",
+     "answers": [
+      "pizza"
+     ],
+     "explain": "I opened all the windows and ordered pizza."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "Rosa's father-in-law was angry.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Nobody was angry."
+    },
+    {
+     "id": "L6",
+     "type": "gap",
+     "prompt": "Next time, Rosa is going to cook by ___.",
+     "answers": [
+      "herself"
+     ],
+     "explain": "by + reflexivo: by herself (ella dijo by myself)."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "I was talking on the phone, so I wasn't paying attention.",
+     "answers": [
+      "I was talking on the phone, so I wasn't paying attention.",
+      "I was talking on the phone, so I was not paying attention."
+     ],
+     "explain": "Pasado continuo afirmativo y negativo."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "What were you cooking?",
+     "answers": [
+      "What were you cooking?"
+     ],
+     "explain": "Information question in the past continuous."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "I hit my elbow and hurt myself.",
+     "answers": [
+      "I hit my elbow and hurt myself."
+     ],
+     "explain": "Hit y hurt no cambian en pasado; reflexivo myself."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "While I was opening the window, I hurt myself.",
+     "answers": [
+      "While I was opening the window, I hurt myself."
+     ],
+     "explain": "While + pasado continuo, coma, pasado simple."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Tell about an accident or a bad day you had: what you were doing, what happened and how it ended.",
+     "questions": [
+      "Tell me about a bad day you had.",
+      "What were you doing when it happened?",
+      "Did you hurt yourself?",
+      "How did you feel?"
+     ],
+     "model": "A couple of days ago, I was walking to work when I fell down the stairs. I was looking at my phone, so I wasn't paying attention. I hurt my knee and I felt really embarrassed. Now I'm OK, and I always look where I'm going.",
+     "checklist": [
+      "was / were + verb-ing for the background",
+      "Past simple for the short action",
+      "One body part and a reflexive if needed",
+      "embarrassed to say how you felt"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Say what you were doing at specific times yesterday.",
+     "questions": [
+      "What were you doing at 8:00 yesterday morning?",
+      "What were you doing at lunchtime?",
+      "Were you studying last night?",
+      "Who were you talking to at 9:00 p.m.?"
+     ],
+     "model": "At 8:00 yesterday morning, I was having breakfast. At lunchtime, I was working at my desk. Last night, I wasn't studying; I was watching a movie. At 9:00 p.m., I was talking to my mother on the phone.",
+     "checklist": [
+      "Was / were + verb-ing in each sentence",
+      "Short answers: Yes, I was. / No, I wasn't.",
+      "One negative with wasn't",
+      "Spelling and pronunciation of -ing"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Listen to a story and react. Then tell a funny story of your own.",
+     "questions": [
+      "I was making curry for my friends and it burned. Can you react?",
+      "I lost my phone and I found it in the fridge. What do you say?",
+      "Tell me one funny thing that happened to you.",
+      "Did you laugh at the time?"
+     ],
+     "model": "Oh, no! That's hilarious. I bet your friends were hungry! One time, I was looking for my glasses, and they were on my head. I felt embarrassed, but my family thought it was funny.",
+     "checklist": [
+      "A reaction of surprise (Oh, no! / You're kidding!)",
+      "That's + adjective",
+      "I bet + sentence",
+      "An anecdote with when or while"
+     ]
+    }
+   ],
+   "repeat": [
+    "I was talking on the phone when I missed my stop.",
+    "What were you doing when you fell?",
+    "We weren't paying attention.",
+    "She hurt herself while she was skiing by herself.",
+    "Oh, no! That's hilarious!",
+    "I bet nobody noticed."
+   ]
+  }
+ }
+}

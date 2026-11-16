@@ -1,0 +1,1563 @@
+{
+ "id": "u-a2-02",
+ "level": "A2",
+ "n": 2,
+ "title": "Busy lives",
+ "goals": [
+  "Talk about what you did, using regular verbs in the simple past (watched, studied, chatted).",
+  "Use very common irregular verbs in the past (went, had, bought, took, wrote).",
+  "Say what you didn't do with didn't, and ask questions with Did and What did…?",
+  "Place events in time with yesterday, last night, two days ago.",
+  "Order a story with before, after, when, and then, using commas correctly.",
+  "React to news with Congratulations!, Good luck!, I'm sorry to hear that, and You did?"
+ ],
+ "learn": [
+  {
+   "id": "g-past-reg",
+   "kind": "grammar",
+   "title": "Simple past: regular verbs",
+   "html": "<p>The simple past describes actions that finished at a moment in the past (yesterday, last Saturday, two days ago). It is <strong>the same for all persons</strong>: I watched, she watched, they watched. With regular verbs, add <strong>-ed</strong>.</p><table><thead><tr><th>Rule</th><th>Verb → past</th></tr></thead><tbody><tr><td>Regular: + -ed</td><td>watch → watch<strong>ed</strong>, cook → cook<strong>ed</strong>, play → play<strong>ed</strong></td></tr><tr><td>Ends in -e: + -d</td><td>invite → invite<strong>d</strong>, like → like<strong>d</strong></td></tr><tr><td>Consonant + y: y → i + -ed</td><td>study → stud<strong>ied</strong>, try → tr<strong>ied</strong></td></tr><tr><td>Vowel + y: + -ed</td><td>play → played, stay → stayed</td></tr><tr><td>One-syllable CVC: double the final consonant</td><td>chat → cha<strong>tted</strong>, stop → sto<strong>pped</strong></td></tr></tbody></table><p>Pronunciation of -ed: /t/ (watched, cooked), /d/ (played, studied), and /ɪd/ after t or d (invited, wanted). Time signals for the past: <em>yesterday, last night, two days ago, on Monday</em>.</p>",
+   "watch": [
+    {
+     "wrong": "I studyed English last night.",
+     "right": "I studied English last night.",
+     "why": "Consonant + y: y changes to i + -ed."
+    },
+    {
+     "wrong": "We chated online.",
+     "right": "We chatted online.",
+     "why": "Chat doubles the t: chatted."
+    },
+    {
+     "wrong": "She watch a movie yesterday.",
+     "right": "She watched a movie yesterday.",
+     "why": "In the past, the regular verb takes -ed."
+    },
+    {
+     "wrong": "He watcheds TV.",
+     "right": "He watched TV.",
+     "why": "The past doesn't change with he/she: no -s."
+    }
+   ]
+  },
+  {
+   "id": "g-past-irreg",
+   "kind": "grammar",
+   "title": "Simple past: irregular verbs",
+   "html": "<p>Many very common verbs don't follow the -ed rule: they have their <strong>own</strong> past form. You have to learn them by heart. They are also the same for all persons.</p><table><thead><tr><th>Base</th><th>Past</th><th>Base</th><th>Past</th></tr></thead><tbody><tr><td>go</td><td><strong>went</strong></td><td>make</td><td><strong>made</strong></td></tr><tr><td>have</td><td><strong>had</strong></td><td>meet</td><td><strong>met</strong></td></tr><tr><td>do</td><td><strong>did</strong></td><td>read</td><td><strong>read</strong> (spelled the same, sounds like /red/)</td></tr><tr><td>buy</td><td><strong>bought</strong></td><td>see</td><td><strong>saw</strong></td></tr><tr><td>get</td><td><strong>got</strong></td><td>take</td><td><strong>took</strong></td></tr><tr><td>eat</td><td><strong>ate</strong></td><td>write</td><td><strong>wrote</strong></td></tr></tbody></table><p>Examples: <em>I went to the bank. She bought new shoes. We had a piano lesson.</em> Don't add -ed to these verbs.</p>",
+   "watch": [
+    {
+     "wrong": "I goed to the supermarket.",
+     "right": "I went to the supermarket.",
+     "why": "Go is irregular: went."
+    },
+    {
+     "wrong": "She buyed a new bag.",
+     "right": "She bought a new bag.",
+     "why": "Buy is irregular: bought."
+    },
+    {
+     "wrong": "We eated at home.",
+     "right": "We ate at home.",
+     "why": "Eat is irregular: ate."
+    },
+    {
+     "wrong": "He writed a long report.",
+     "right": "He wrote a long report.",
+     "why": "Write is irregular: wrote."
+    }
+   ]
+  },
+  {
+   "id": "g-past-neg-q",
+   "kind": "grammar",
+   "title": "Negatives and questions in the past: didn't and Did",
+   "html": "<p>For negatives and questions we use the auxiliary <strong>did</strong>, and the main verb goes back to its <strong>base form</strong> (no -ed and no irregular form). The auxiliary already shows the past.</p><table><thead><tr><th>Type</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Negative</td><td>subject + <strong>didn't</strong> + base verb</td><td>I <strong>didn't</strong> work late. She <strong>didn't</strong> go out.</td></tr><tr><td>Yes/no question</td><td><strong>Did</strong> + subject + base verb?</td><td><strong>Did</strong> you meet your friends?</td></tr><tr><td>Short answer</td><td>Yes, subject + did. / No, subject + didn't.</td><td>Yes, I did. / No, we didn't.</td></tr><tr><td>Wh- question</td><td>Wh- + <strong>did</strong> + subject + base verb?</td><td>What <strong>did</strong> you do last weekend?</td></tr></tbody></table><p><em>Didn't</em> = <em>did not</em>. This applies to regular and irregular verbs: <em>I didn't watch</em>, <em>I didn't buy</em>.</p>",
+   "watch": [
+    {
+     "wrong": "I didn't went to school.",
+     "right": "I didn't go to school.",
+     "why": "After didn't, use the base verb."
+    },
+    {
+     "wrong": "Did you went to the party?",
+     "right": "Did you go to the party?",
+     "why": "After did, use the base verb."
+    },
+    {
+     "wrong": "Yes, I did it.",
+     "right": "Yes, I did.",
+     "why": "The short answer ends in did."
+    },
+    {
+     "wrong": "What you did yesterday?",
+     "right": "What did you do yesterday?",
+     "why": "Wh- + did + subject + base verb."
+    }
+   ]
+  },
+  {
+   "id": "g-seq",
+   "kind": "grammar",
+   "title": "Ordering events: before, after, when, and then",
+   "html": "<p>To describe a sequence of actions, we use order words. <strong>Before</strong>, <strong>after</strong>, and <strong>when</strong> can go at the start or in the middle. <strong>Then</strong> starts the next sentence.</p><table><thead><tr><th>Word</th><th>Use</th><th>Example</th></tr></thead><tbody><tr><td><strong>before</strong></td><td>earlier than something</td><td>I made a list before I went shopping.</td></tr><tr><td><strong>after</strong></td><td>later than something</td><td>After I finished work, I went to the gym.</td></tr><tr><td><strong>when</strong></td><td>at the time something happened</td><td>When I got home, I took a shower.</td></tr><tr><td><strong>then</strong></td><td>next, after that</td><td>I ate dinner. Then I washed the dishes.</td></tr></tbody></table><p><strong>Punctuation:</strong> if before, after, or when starts the sentence, put a comma after that part: <em>After class, I went home.</em> If they are in the middle, there is no comma: <em>I went home after class.</em></p>",
+   "watch": [
+    {
+     "wrong": "After I finished work I went home.",
+     "right": "After I finished work, I went home.",
+     "why": "Opening clause: comma before the next part."
+    },
+    {
+     "wrong": "I went home, after work.",
+     "right": "I went home after work.",
+     "why": "No comma if after is in the middle."
+    },
+    {
+     "wrong": "I ate dinner. After, I washed the dishes.",
+     "right": "I ate dinner. Then I washed the dishes.",
+     "why": "For the next action, use then; after needs something after it (after dinner)."
+    }
+   ]
+  },
+  {
+   "id": "v-chores",
+   "kind": "vocab",
+   "title": "Busy lives: weekly activities",
+   "words": [
+    {
+     "id": "w-cook-dinner",
+     "en": "cook dinner",
+     "es": "preparar la cena",
+     "example": "I cooked dinner for my family.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-grocery-shopping",
+     "en": "go grocery shopping",
+     "es": "ir al supermercado",
+     "example": "We went grocery shopping on Saturday.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-invite-someone-over",
+     "en": "invite (someone) over",
+     "es": "invitar a casa",
+     "example": "I invited my friends over last night.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-practice-an-instrument",
+     "en": "practice an instrument",
+     "es": "practicar un instrumento",
+     "example": "She practiced the flute after school.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-run-errands",
+     "en": "run errands",
+     "es": "hacer mandados, diligencias",
+     "example": "I ran errands all morning.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-stay-home",
+     "en": "stay home",
+     "es": "quedarse en casa",
+     "example": "On Sunday, we stayed home.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-work-late",
+     "en": "work late",
+     "es": "trabajar hasta tarde",
+     "example": "He worked late on Tuesday.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-do-homework",
+     "en": "do homework",
+     "es": "hacer la tarea",
+     "example": "I did my homework before dinner.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-have-an-appointment",
+     "en": "have an appointment",
+     "es": "tener una cita (médica, etc.)",
+     "example": "I had an appointment at the dentist.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-have-a-piano-lesson",
+     "en": "have a piano lesson",
+     "es": "tener una clase de piano",
+     "example": "She had a piano lesson on Wednesday.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-make-a-list",
+     "en": "make a list",
+     "es": "hacer una lista",
+     "example": "I made a list of things to buy.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-take-an-exam",
+     "en": "take an exam",
+     "es": "presentar un examen",
+     "example": "We took an exam in English class.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-write-a-report",
+     "en": "write a report",
+     "es": "escribir un informe",
+     "example": "He wrote a report for his boss.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-timepast",
+   "kind": "vocab",
+   "title": "Time expressions in the past (time phrases)",
+   "words": [
+    {
+     "id": "w-yesterday",
+     "en": "yesterday",
+     "es": "ayer",
+     "example": "Yesterday I stayed home.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-yesterday-morning",
+     "en": "yesterday morning",
+     "es": "ayer por la mañana",
+     "example": "Yesterday morning I ran errands.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-last-night",
+     "en": "last night",
+     "es": "anoche",
+     "example": "I worked late last night.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-two-days-ago",
+     "en": "two days ago",
+     "es": "hace dos días",
+     "example": "I met my cousin two days ago.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-a-week-ago",
+     "en": "a week ago",
+     "es": "hace una semana",
+     "example": "They moved a week ago.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-last-friday",
+     "en": "last Friday",
+     "es": "el viernes pasado",
+     "example": "We had a party last Friday.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-last-weekend",
+     "en": "last weekend",
+     "es": "el fin de semana pasado",
+     "example": "What did you do last weekend?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-last-week",
+     "en": "last week",
+     "es": "la semana pasada",
+     "example": "I took an exam last week.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-last-month",
+     "en": "last month",
+     "es": "el mes pasado",
+     "example": "She started a new job last month.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-last-year",
+     "en": "last year",
+     "es": "el año pasado",
+     "example": "He traveled to Peru last year.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-last-summer",
+     "en": "last summer",
+     "es": "el verano pasado",
+     "example": "We went to the beach last summer.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-all-week",
+     "en": "all week",
+     "es": "toda la semana",
+     "example": "I worked late all week.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-news",
+   "kind": "vocab",
+   "title": "News and events",
+   "words": [
+    {
+     "id": "w-have-an-interview",
+     "en": "have an interview",
+     "es": "tener una entrevista",
+     "example": "I had an interview at a bank.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-a-job",
+     "en": "get a job",
+     "es": "conseguir un trabajo",
+     "example": "My sister got a job in a hospital.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pass-a-test",
+     "en": "pass a test",
+     "es": "aprobar un examen",
+     "example": "He passed the test with a good grade.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-take-a-driver-s-test",
+     "en": "take a driver's test",
+     "es": "presentar el examen de manejo",
+     "example": "I took my driver's test on Monday.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-have-a-cold",
+     "en": "have a cold",
+     "es": "estar resfriado/a",
+     "example": "I had a cold all week.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-to-the-hospital",
+     "en": "go to the hospital",
+     "es": "ir al hospital",
+     "example": "My uncle went to the hospital last night.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-swimming",
+     "en": "go swimming",
+     "es": "ir a nadar",
+     "example": "We went swimming on Saturday.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-exhausted",
+     "en": "exhausted",
+     "es": "agotado/a",
+     "example": "I'm exhausted after a busy week."
+    },
+    {
+     "id": "w-relaxing",
+     "en": "relaxing",
+     "es": "relajante",
+     "example": "A walk by the river is relaxing.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-birthday",
+     "en": "birthday",
+     "es": "cumpleaños",
+     "example": "I had a big birthday party.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-problem",
+     "en": "problem",
+     "es": "problema",
+     "example": "I had a problem with my phone.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-remember",
+     "en": "remember",
+     "es": "recordar, acordarse",
+     "example": "I don't remember her name.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-news",
+   "kind": "expressions",
+   "title": "Reacting to news",
+   "html": "<ul><li><strong>Congratulations! / Good for you!</strong> — good news: <em>I passed my test! — Congratulations!</em></li><li><strong>Good luck!</strong> — something that is going to happen: <em>I have an interview tomorrow. — Good luck!</em></li><li><strong>That's great news!</strong> — very good news.</li><li><strong>I'm sorry to hear that. / Oh no!</strong> — bad news: <em>I had a cold all week. — I'm sorry to hear that.</em></li><li><strong>You did? / Did you?</strong> — to show interest or surprise. The auxiliary is repeated: <em>I got a new job. — You did?</em></li><li><strong>What happened?</strong> — asking for more details.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Regular past",
+   "instructions": "Write the verb in parentheses in the simple past.",
+   "topic": "g-past-reg",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "Yesterday I ___ (watch) a movie at home.",
+     "answers": [
+      "watched"
+     ],
+     "explain": "Regular: watch + -ed."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "We ___ (chat) online for an hour.",
+     "answers": [
+      "chatted"
+     ],
+     "explain": "One-syllable CVC: double the t."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "She ___ (study) for her exam last night.",
+     "answers": [
+      "studied"
+     ],
+     "explain": "Consonant + y: y → i + -ed."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "They ___ (invite) us to a party.",
+     "answers": [
+      "invited"
+     ],
+     "explain": "Ends in -e: + -d."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "Dan ___ (play) video games after dinner.",
+     "answers": [
+      "played"
+     ],
+     "explain": "Vowel + y: just + -ed."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "I ___ (try) to call you, but you didn't answer.",
+     "answers": [
+      "tried"
+     ],
+     "explain": "Consonant + y: y → i + -ed."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "My mother ___ (cook) a big dinner on Sunday.",
+     "answers": [
+      "cooked"
+     ],
+     "explain": "Regular: cook + -ed."
+    },
+    {
+     "id": "A8",
+     "type": "gap",
+     "prompt": "He ___ (stop) at the store on the way home.",
+     "answers": [
+      "stopped"
+     ],
+     "explain": "The p is doubled: stopped."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Irregular past",
+   "instructions": "Write the verb in parentheses in the simple past.",
+   "topic": "g-past-irreg",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "Last week I ___ (go) to the dentist.",
+     "answers": [
+      "went"
+     ],
+     "explain": "Go is irregular: went."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "She ___ (buy) new shoes on Saturday.",
+     "answers": [
+      "bought"
+     ],
+     "explain": "Buy is irregular: bought."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "We ___ (have) an appointment at ten.",
+     "answers": [
+      "had"
+     ],
+     "explain": "Have is irregular: had."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "He ___ (write) a long report last night.",
+     "answers": [
+      "wrote"
+     ],
+     "explain": "Write is irregular: wrote."
+    },
+    {
+     "id": "B5",
+     "type": "gap",
+     "prompt": "They ___ (see) a great movie.",
+     "answers": [
+      "saw"
+     ],
+     "explain": "See is irregular: saw."
+    },
+    {
+     "id": "B6",
+     "type": "gap",
+     "prompt": "My sister ___ (make) a list of things to do.",
+     "answers": [
+      "made"
+     ],
+     "explain": "Make is irregular: made."
+    },
+    {
+     "id": "B7",
+     "type": "gap",
+     "prompt": "I ___ (take) an exam yesterday.",
+     "answers": [
+      "took"
+     ],
+     "explain": "Take is irregular: took."
+    },
+    {
+     "id": "B8",
+     "type": "gap",
+     "prompt": "Pablo ___ (eat) tacos for lunch.",
+     "answers": [
+      "ate"
+     ],
+     "explain": "Eat is irregular: ate."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Negative with didn't",
+   "instructions": "Complete or correct the negative sentences.",
+   "topic": "g-past-neg-q",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "I ___ cook dinner last night. We ordered pizza.",
+     "answers": [
+      "didn't",
+      "did not"
+     ],
+     "explain": "Negative in the past: didn't + base verb."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "She didn't ___ (go) to work yesterday.",
+     "answers": [
+      "go"
+     ],
+     "explain": "After didn't, use the base verb."
+    },
+    {
+     "id": "C3",
+     "type": "fix",
+     "prompt": "He didn't went to school.",
+     "answers": [
+      "He didn't go to school."
+     ],
+     "explain": "After didn't, use the base verb."
+    },
+    {
+     "id": "C4",
+     "type": "fix",
+     "prompt": "We didn't watched the game.",
+     "answers": [
+      "We didn't watch the game."
+     ],
+     "explain": "After didn't, use the base verb."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "They ___ the report.",
+     "options": [
+      "didn't wrote",
+      "didn't write",
+      "not wrote"
+     ],
+     "answer": 1,
+     "explain": "Didn't + base verb."
+    },
+    {
+     "id": "C6",
+     "type": "gap",
+     "prompt": "Tom ___ (not / buy) a gift for her.",
+     "answers": [
+      "didn't buy",
+      "did not buy"
+     ],
+     "explain": "Didn't + base verb."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "I no studied last night.",
+     "answers": [
+      "I didn't study last night.",
+      "I did not study last night."
+     ],
+     "explain": "The negative in the past uses didn't + base verb."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Questions with Did",
+   "instructions": "Complete, order, or correct the questions and answers.",
+   "topic": "g-past-neg-q",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "___ you work late yesterday?",
+     "answers": [
+      "Did"
+     ],
+     "explain": "Question in the past: Did + subject + base verb."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "Did she ___ (meet) your parents?",
+     "answers": [
+      "meet"
+     ],
+     "explain": "After did, use the base verb."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "Did they go out? — No, they ___.",
+     "answers": [
+      "didn't",
+      "did not"
+     ],
+     "explain": "Short answer: No, they didn't."
+    },
+    {
+     "id": "D4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "did",
+      "What",
+      "you",
+      "do",
+      "last",
+      "weekend"
+     ],
+     "answers": [
+      "What did you do last weekend?"
+     ],
+     "explain": "Wh- + did + subject + base verb."
+    },
+    {
+     "id": "D5",
+     "type": "fix",
+     "prompt": "Did you went to the party?",
+     "answers": [
+      "Did you go to the party?"
+     ],
+     "explain": "After did, use the base verb."
+    },
+    {
+     "id": "D6",
+     "type": "gap",
+     "prompt": "Did Maria buy the tickets? — Yes, she ___.",
+     "answers": [
+      "did"
+     ],
+     "explain": "Short answer: Yes, she did."
+    },
+    {
+     "id": "D7",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Did",
+      "he",
+      "stay",
+      "home",
+      "last",
+      "night"
+     ],
+     "answers": [
+      "Did he stay home last night?"
+     ],
+     "explain": "Did + subject + base verb."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Before, after, when, and then",
+   "instructions": "Choose or complete with the correct order word.",
+   "topic": "g-seq",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "I ate dinner. ___ I washed the dishes.",
+     "answers": [
+      "Then"
+     ],
+     "explain": "Then: after that, next."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "___ I got home, I took a shower.",
+     "options": [
+      "After",
+      "Then",
+      "But"
+     ],
+     "answer": 0,
+     "explain": "After + clause + comma."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "___ I called her, she answered at once.",
+     "answers": [
+      "When"
+     ],
+     "explain": "When: at the time that."
+    },
+    {
+     "id": "E4",
+     "type": "choice",
+     "prompt": "Choose the correct sentence.",
+     "options": [
+      "After I finished work, I went to the gym.",
+      "After I finished work I, went to the gym.",
+      "After, I finished work I went to the gym."
+     ],
+     "answer": 0,
+     "explain": "Comma after the opening clause."
+    },
+    {
+     "id": "E5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Before",
+      "class",
+      "I",
+      "had",
+      "breakfast"
+     ],
+     "answers": [
+      "Before class, I had breakfast.",
+      "I had breakfast before class."
+     ],
+     "explain": "Before can go at the start or in the middle."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "Choose the correct sentence.",
+     "options": [
+      "After class, I went home.",
+      "After I class went home.",
+      "After class I, went home."
+     ],
+     "answer": 0,
+     "explain": "After + phrase + comma + sentence."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Reacting to news",
+   "instructions": "Choose the best reaction.",
+   "topic": "e-news",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "\"I passed my driver's test!\"",
+     "options": [
+      "Congratulations!",
+      "I'm sorry to hear that.",
+      "Good luck!"
+     ],
+     "answer": 0,
+     "explain": "Good news: Congratulations!"
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "\"I have a cold and I feel terrible.\"",
+     "options": [
+      "Good for you!",
+      "I'm sorry to hear that.",
+      "Congratulations!"
+     ],
+     "answer": 1,
+     "explain": "Bad news: I'm sorry to hear that."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "\"I have an interview tomorrow.\"",
+     "options": [
+      "Congratulations!",
+      "I'm sorry to hear that.",
+      "Good luck!"
+     ],
+     "answer": 2,
+     "explain": "Something in the future: Good luck!"
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "\"I got a new job last week!\"",
+     "options": [
+      "Good for you!",
+      "I'm sorry to hear that.",
+      "Good luck!"
+     ],
+     "answer": 0,
+     "explain": "Good news: Good for you!"
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "\"I went to the hospital last night.\"",
+     "options": [
+      "You did? What happened?",
+      "Congratulations!",
+      "Good for you!"
+     ],
+     "answer": 0,
+     "explain": "It shows interest and asks for more information."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "A: I won a prize! B: You ___? Congratulations!",
+     "answers": [
+      "did"
+     ],
+     "explain": "You did? repeats the past auxiliary."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I",
+      "studied",
+      "with",
+      "my",
+      "friend",
+      "yesterday"
+     ],
+     "answers": [
+      "I studied with my friend yesterday.",
+      "Yesterday I studied with my friend."
+     ],
+     "explain": "Subject + past verb + object + time."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "didn't",
+      "she",
+      "work",
+      "late",
+      "last",
+      "night"
+     ],
+     "answers": [
+      "She didn't work late last night.",
+      "She did not work late last night."
+     ],
+     "explain": "Negative: didn't + base verb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "did",
+      "buy",
+      "What",
+      "you",
+      "yesterday"
+     ],
+     "answers": [
+      "What did you buy yesterday?"
+     ],
+     "explain": "Wh- + did + subject + base verb."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "we",
+      "to",
+      "went",
+      "the",
+      "movies",
+      "last",
+      "weekend"
+     ],
+     "answers": [
+      "We went to the movies last weekend.",
+      "Last weekend we went to the movies."
+     ],
+     "explain": "Go is irregular: went."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Did",
+      "they",
+      "the",
+      "test",
+      "pass"
+     ],
+     "answers": [
+      "Did they pass the test?"
+     ],
+     "explain": "Did + subject + base verb."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I",
+      "went",
+      "home",
+      "after",
+      "work"
+     ],
+     "answers": [
+      "I went home after work.",
+      "After work, I went home."
+     ],
+     "explain": "After can go in the middle or at the start."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Ayer estudié inglés.",
+     "answers": [
+      "I studied English yesterday.",
+      "Yesterday I studied English."
+     ],
+     "explain": "Regular, with consonant + y: studied."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "No compré nada el sábado.",
+     "answers": [
+      "I didn't buy anything on Saturday.",
+      "I did not buy anything on Saturday."
+     ],
+     "explain": "Didn't + base verb."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "¿Qué hiciste el fin de semana pasado?",
+     "answers": [
+      "What did you do last weekend?"
+     ],
+     "explain": "Wh- + did + subject + base verb."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Mi hermana escribió un informe anoche.",
+     "answers": [
+      "My sister wrote a report last night.",
+      "Last night my sister wrote a report."
+     ],
+     "explain": "Write is irregular: wrote."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "¿Viste a tus amigos ayer?",
+     "answers": [
+      "Did you see your friends yesterday?"
+     ],
+     "explain": "Did + subject + base verb."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Después de la clase, fuimos a un café.",
+     "answers": [
+      "After class, we went to a café.",
+      "We went to a café after class.",
+      "After the class, we went to a café.",
+      "We went to a café after the class."
+     ],
+     "explain": "After + phrase + comma; go → went."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed review",
+   "instructions": "Exercises on different topics (including review of earlier units).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Yesterday I ___ to the market.",
+     "options": [
+      "went",
+      "goed",
+      "go"
+     ],
+     "answer": 0,
+     "explain": "Go is irregular: went."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "We ___ (not / watch) TV last night.",
+     "answers": [
+      "didn't watch",
+      "did not watch"
+     ],
+     "explain": "Didn't + base verb."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "Did she bought a ticket?",
+     "answers": [
+      "Did she buy a ticket?"
+     ],
+     "explain": "After did, use the base verb."
+    },
+    {
+     "id": "M4",
+     "type": "gap",
+     "prompt": "I ___ (invite) three friends over last Saturday.",
+     "answers": [
+      "invited"
+     ],
+     "explain": "Ends in -e: + -d."
+    },
+    {
+     "id": "M5",
+     "type": "translate",
+     "prompt": "Hace dos días tuve una cita.",
+     "answers": [
+      "I had an appointment two days ago.",
+      "Two days ago I had an appointment."
+     ],
+     "explain": "Have is irregular: had."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "___ you take the exam last Friday? — Yes, I did.",
+     "answers": [
+      "Did"
+     ],
+     "explain": "Question in the past: Did."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "\"My grandmother is in the hospital.\"",
+     "options": [
+      "Congratulations!",
+      "I'm sorry to hear that.",
+      "Good luck!"
+     ],
+     "answer": 1,
+     "explain": "Bad news: I'm sorry to hear that."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "I cooked dinner. ___ I ate with my family.",
+     "answers": [
+      "Then"
+     ],
+     "explain": "Then: after that, next."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "He ___ (study) English every day. (review: simple present)",
+     "answers": [
+      "studies"
+     ],
+     "explain": "Third-person singular: studies."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "Right now, she ___ (cook) dinner. (review: present continuous)",
+     "answers": [
+      "is cooking",
+      "'s cooking"
+     ],
+     "explain": "Right now: is + -ing verb."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a paragraph of 60 to 100 words about what you did last weekend. Use regular and irregular verbs, a negative with didn't, and the words before, after, when, or then. Starter: Last weekend, I …",
+   "targets": [
+    "regular past",
+    "irregular past",
+    "didn't + base verb",
+    "before / after / when / then"
+   ],
+   "checklist": [
+    "At least three regular verbs with -ed",
+    "At least three irregular verbs (went, had, bought…)",
+    "A negative with didn't + base verb",
+    "An order word (after, then…), with a comma if it starts the sentence",
+    "Between 60 and 100 words"
+   ],
+   "model": "Last weekend, I stayed at home on Saturday morning. I cleaned my room and washed my clothes. Then I went to the market and bought some fruit. After that, I had lunch with my mother. In the afternoon, I watched a movie. I didn't go out at night because I was tired. On Sunday, I visited my grandmother. When I got home, I cooked dinner and called my friend. It was a nice weekend."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a 6-line dialogue with a friend. He tells you some news (good or bad), you react with a suitable expression, and you ask him two questions with Did or What did. Starter: A: I got a new job! B: You did? Congratulations! …",
+   "targets": [
+    "Did + subject + base verb",
+    "reacting to news",
+    "You did? / Did you?",
+    "past time expressions"
+   ],
+   "checklist": [
+    "6 lines, two people",
+    "An appropriate reaction (Congratulations!, I'm sorry to hear that…)",
+    "You did? or Did you? to show interest",
+    "Two questions with Did / What did + base verb",
+    "Short answers (Yes, I did. / No, I didn't.)"
+   ],
+   "model": "A: I got a new job!\nB: You did? Congratulations! What did you do before this job?\nA: I worked in a small shop for two years, and last month I decided to look for something new.\nB: Did you like your first day? Did you eat lunch with the team?\nA: Yes, I did. It was great. And no, I didn't eat with them. I was too busy!\nB: That's okay. I'm happy for you. Let's celebrate this weekend!"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "A very busy week",
+   "intro": "Read María's email to her friend and answer.",
+   "paragraphs": [
+    "Hi Laura! Sorry I didn't write last week. I had a really busy week. On Monday, I worked late because I wrote a long report for my boss. I didn't cook dinner, so I bought tacos on the way home. After dinner, I made a list of things to do.",
+    "On Tuesday, I ran errands. First, I went to the bank. Then I bought some food at the supermarket and met my sister for coffee. We talked for an hour. When I got home, I practiced the piano for thirty minutes. I'm not very good, but I love it!",
+    "On Wednesday, I took an English exam. I studied for three nights before the exam, and I passed! My teacher said, \"Congratulations!\" I felt so happy. On Thursday, I had an interview at a new company. I didn't sleep well the night before, but the interview went well. They called me on Friday, and I got the job! I called my mom, and she felt so proud.",
+    "On Saturday, I invited some friends over. We ate pizza, watched a movie, and chatted until midnight. On Sunday, I stayed home and rested. I didn't do anything at all! After that week, I felt exhausted. What did you do last weekend? Write soon! Love, María"
+   ],
+   "glossary": [
+    {
+     "en": "boss",
+     "def": "a person who is in charge of other workers"
+    },
+    {
+     "en": "report",
+     "def": "a written document that describes or explains something"
+    },
+    {
+     "en": "errands",
+     "def": "errands: short tasks you do outside the home"
+    },
+    {
+     "en": "bank",
+     "def": "a place where you keep money and do financial transactions"
+    },
+    {
+     "en": "interview",
+     "def": "a meeting where you talk about a job you want"
+    },
+    {
+     "en": "company",
+     "def": "a company or business"
+    },
+    {
+     "en": "proud",
+     "def": "happy and pleased about something you did"
+    },
+    {
+     "en": "rest",
+     "def": "to rest and stop working or moving"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "María cooked dinner on Monday.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "She says: I didn't cook dinner, so I bought tacos."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "María passed her English exam.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "I studied for three nights … and I passed!"
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What did María do after she went to the bank?",
+     "options": [
+      "She practiced the piano.",
+      "She bought food at the supermarket.",
+      "She took an exam."
+     ],
+     "answer": 1,
+     "explain": "Then I bought some food at the supermarket."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "How many nights did María study before the exam?",
+     "options": [
+      "One",
+      "Two",
+      "Three"
+     ],
+     "answer": 2,
+     "explain": "I studied for three nights."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "María had an interview on ___.",
+     "answers": [
+      "Thursday"
+     ],
+     "explain": "The interview was on Thursday."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "The company called María on ___.",
+     "answers": [
+      "Friday"
+     ],
+     "explain": "They called me on Friday."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "What did María do on Sunday?",
+     "options": [
+      "She invited friends over.",
+      "She stayed home and rested.",
+      "She went to a party."
+     ],
+     "answer": 1,
+     "explain": "On Sunday, I stayed home and rested."
+    }
+   ]
+  },
+  "listening": {
+   "title": "What did you do last weekend?",
+   "intro": "Listen to the conversation. You can repeat it.",
+   "lines": [
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Hi, Sofia! What did you do last weekend?"
+    },
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "Hi, Dan! I had a great weekend. On Saturday, I went to my cousin's birthday party."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "You did? Did you take a gift?"
+    },
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "Yes, I did. I bought her a new bag. After the party, I went home and watched a movie."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Nice. What did you watch?"
+    },
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "I didn't watch a new movie. I saw an old comedy again. Then I went to bed early."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "What about Sunday?"
+    },
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "On Sunday, I stayed home. I cooked a big lunch for my parents. When we finished, I washed the dishes."
+    },
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "And you? Did you go out?"
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "No, I didn't. I worked all weekend. I wrote a report for my boss."
+    },
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "Oh, I'm sorry to hear that."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "It's OK. I finished it last night, so today I'm free!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Where did Sofia go on Saturday?",
+     "options": [
+      "To a concert",
+      "To her cousin's birthday party",
+      "To the supermarket"
+     ],
+     "answer": 1,
+     "explain": "I went to my cousin's birthday party."
+    },
+    {
+     "id": "L2",
+     "type": "gap",
+     "prompt": "Sofia bought her cousin a new ___.",
+     "answers": [
+      "bag"
+     ],
+     "explain": "I bought her a new bag."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Sofia watched a new movie.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "I didn't watch a new movie. I saw an old comedy."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What did Sofia cook on Sunday?",
+     "options": [
+      "A big lunch for her parents",
+      "Dinner for her cousin",
+      "Breakfast for Dan"
+     ],
+     "answer": 0,
+     "explain": "I cooked a big lunch for my parents."
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "Dan wrote a ___ for his boss.",
+     "answers": [
+      "report"
+     ],
+     "explain": "I wrote a report for my boss."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "I went to my cousin's birthday party.",
+     "answers": [
+      "I went to my cousin's birthday party."
+     ],
+     "explain": "Go is irregular: went."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "I didn't watch a new movie.",
+     "answers": [
+      "I didn't watch a new movie.",
+      "I did not watch a new movie."
+     ],
+     "explain": "Negative: didn't + base verb."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "After the party, I went home.",
+     "answers": [
+      "After the party, I went home."
+     ],
+     "explain": "After + phrase + comma."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Did you take a gift?",
+     "answers": [
+      "Did you take a gift?"
+     ],
+     "explain": "Did + subject + base verb."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Say what you did last weekend.",
+     "questions": [
+      "What did you do last weekend?",
+      "Did you go out?",
+      "Did you cook or eat out?",
+      "What did you do on Sunday?"
+     ],
+     "model": "Last weekend I went to the market on Saturday. I bought fruit and bread. Then I cooked lunch with my sister. On Sunday I stayed home and watched a movie. I didn't go out.",
+     "checklist": [
+      "Past verbs (regular and irregular)",
+      "A negative with didn't",
+      "Order words: then, after",
+      "Time expression: last weekend, on Sunday"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Tell about your day yesterday, step by step.",
+     "questions": [
+      "What did you do yesterday morning?",
+      "What did you do after lunch?",
+      "Did you work late?",
+      "What did you do before you went to bed?"
+     ],
+     "model": "Yesterday morning, I made breakfast and went to work. After lunch, I wrote some emails. I didn't work late. Before I went to bed, I read a book.",
+     "checklist": [
+      "Clear order with before, after, when, or then",
+      "Correct irregular verbs",
+      "didn't + base verb",
+      "Pronunciation of -ed"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Share some news with your partner and react to theirs.",
+     "questions": [
+      "Do you have any news?",
+      "Did you get a new job or pass a test?",
+      "How do you feel?",
+      "What did your friend say?"
+     ],
+     "model": "I passed my driver's test last week! My friend said, \"Congratulations!\" I felt really happy. And you? Did you have a good week?",
+     "checklist": [
+      "A piece of news in the past",
+      "Reaction expression (Congratulations!, Good for you!)",
+      "You did? / Did you?",
+      "Question with Did"
+     ]
+    }
+   ],
+   "repeat": [
+    "What did you do last weekend?",
+    "I didn't cook dinner last night.",
+    "Did you go out with your friends?",
+    "After class, I went home.",
+    "Congratulations! Good for you!",
+    "I'm sorry to hear that."
+   ]
+  }
+ }
+}

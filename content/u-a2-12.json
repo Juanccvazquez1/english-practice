@@ -1,0 +1,1807 @@
+{
+ "id": "u-a2-12",
+ "level": "A2",
+ "n": 12,
+ "title": "Make yourself at home",
+ "goals": [
+  "Ask whose things are with Whose, and answer with mine, yours, hers, his, ours, theirs.",
+  "Talk about where you keep your things and name furniture and objects in the house.",
+  "Describe and tell objects apart with adjectives in the correct order, and with one / ones.",
+  "Ask for permission and favors politely: Do you mind if I…? and Would you mind…-ing?, and answer them.",
+  "Tell a routine in order with First, Next, then, as soon as, while, before and after.",
+  "Write about your night routine and a message to a roommate."
+ ],
+ "learn": [
+  {
+   "id": "g-whose",
+   "kind": "grammar",
+   "title": "Whose…? and possessive pronouns",
+   "html": "<p><strong>Whose</strong> asks who something belongs to. It goes with a noun: <em>Whose + noun + be + this / these?</em> Use <em>this</em> for singular or uncountable nouns, and <em>these</em> for plural nouns.</p><table><thead><tr><th>Question</th><th>Answer</th></tr></thead><tbody><tr><td>Whose bathing suit is <strong>this</strong>?</td><td>It's <strong>mine</strong>. (= It's my bathing suit.)</td></tr><tr><td>Whose jewelry is <strong>this</strong>?</td><td>It's <strong>hers</strong>.</td></tr><tr><td>Whose clothes are <strong>these</strong>?</td><td>They're not <strong>ours</strong>.</td></tr></tbody></table><table><thead><tr><th>Subject</th><th>Possessive adjective + noun</th><th>Possessive pronoun</th></tr></thead><tbody><tr><td>I</td><td>my bag</td><td><strong>mine</strong></td></tr><tr><td>you</td><td>your bag</td><td><strong>yours</strong></td></tr><tr><td>he</td><td>his bag</td><td><strong>his</strong></td></tr><tr><td>she</td><td>her bag</td><td><strong>hers</strong></td></tr><tr><td>we</td><td>our bag</td><td><strong>ours</strong></td></tr><tr><td>they</td><td>their bag</td><td><strong>theirs</strong></td></tr></tbody></table><p>A possessive pronoun <strong>replaces the noun</strong>: it is never followed by a noun. Answers: <em>It's + pronoun</em> (singular) and <em>They're + pronoun</em> (plural).</p>",
+   "watch": [
+    {
+     "wrong": "Is this bag your?",
+     "right": "Is this bag yours?",
+     "why": "Without a noun after it, use the pronoun yours."
+    },
+    {
+     "wrong": "The blue car is our.",
+     "right": "The blue car is ours.",
+     "why": "Our needs a noun; ours replaces it."
+    },
+    {
+     "wrong": "Whose is this keys?",
+     "right": "Whose keys are these?",
+     "why": "Whose + noun + be + these (plural)."
+    },
+    {
+     "wrong": "It's mine bag.",
+     "right": "It's my bag. / It's mine.",
+     "why": "Mine does not go before a noun."
+    }
+   ]
+  },
+  {
+   "id": "v-rooms",
+   "kind": "vocab",
+   "title": "Rooms, furniture and places to keep things",
+   "words": [
+    {
+     "id": "w-bathroom",
+     "en": "bathroom",
+     "es": "baño",
+     "example": "The towels are in the bathroom.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-bedroom",
+     "en": "bedroom",
+     "es": "recámara",
+     "example": "My bedroom is small but quiet.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-kitchen",
+     "en": "kitchen",
+     "es": "cocina",
+     "example": "We eat breakfast in the kitchen.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-living-room",
+     "en": "living room",
+     "es": "sala",
+     "example": "The TV is in the living room.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-closet",
+     "en": "closet",
+     "es": "clóset",
+     "example": "I hang my clothes in the closet.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-drawer",
+     "en": "drawer",
+     "es": "cajón",
+     "example": "My passport is in a drawer."
+    },
+    {
+     "id": "w-dresser",
+     "en": "dresser",
+     "es": "cómoda",
+     "example": "My socks are in the dresser."
+    },
+    {
+     "id": "w-shelf-shelves",
+     "en": "shelf (shelves)",
+     "es": "repisa (repisas)",
+     "example": "The books are on the shelves.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-nightstand",
+     "en": "nightstand",
+     "es": "buró",
+     "example": "My keys are on top of the nightstand."
+    },
+    {
+     "id": "w-armchair",
+     "en": "armchair",
+     "es": "sillón individual",
+     "example": "Grandpa sits in the armchair."
+    },
+    {
+     "id": "w-sofa",
+     "en": "sofa",
+     "es": "sofá",
+     "example": "We watch movies on the sofa."
+    },
+    {
+     "id": "w-coffee-table",
+     "en": "coffee table",
+     "es": "mesa de centro",
+     "example": "The remote is on the coffee table.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-end-table",
+     "en": "end table",
+     "es": "mesa lateral",
+     "example": "There is a lamp on the end table.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-cabinet",
+     "en": "cabinet",
+     "es": "gabinete, alacena",
+     "example": "The glasses are in the kitchen cabinet.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-lamp",
+     "en": "lamp",
+     "es": "lámpara",
+     "example": "Turn on the lamp, please.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-locations",
+     "en": "on top of / under / by",
+     "es": "encima de / debajo de / junto a",
+     "example": "The box is under the bed, by the door.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "g-adj-order",
+   "kind": "grammar",
+   "title": "Order of adjectives",
+   "html": "<p>In English, adjectives go <strong>before the noun</strong> and in a fixed order (in Spanish they go after). They do not change in the plural.</p><table><thead><tr><th>1. Opinion</th><th>2. Size</th><th>3. Shape</th><th>4. Color</th><th>5. Origin</th><th>6. Material</th></tr></thead><tbody><tr><td>beautiful, nice, cute, awful</td><td>big, small, little, large</td><td>round, square, rectangular</td><td>blue, red, silver</td><td>Turkish, Chinese</td><td>wooden, plastic, wool, silk</td></tr></tbody></table><ul><li>They have a <strong>beautiful black leather</strong> cover.</li><li>I want those <strong>cute little round</strong> speakers.</li><li>She bought a <strong>nice Turkish wool</strong> rug.</li></ul><p>We almost never use more than three adjectives together. Remember the article: <em>a</em> before a consonant sound, <em>an</em> before a vowel sound (<em>an awful old lamp</em>).</p>",
+   "watch": [
+    {
+     "wrong": "She has a wool beautiful rug.",
+     "right": "She has a beautiful wool rug.",
+     "why": "Opinion comes before material."
+    },
+    {
+     "wrong": "I like those round little clocks.",
+     "right": "I like those little round clocks.",
+     "why": "Size comes before shape."
+    },
+    {
+     "wrong": "We have a table wooden.",
+     "right": "We have a wooden table.",
+     "why": "The adjective goes before the noun."
+    },
+    {
+     "wrong": "They are expensives lamps.",
+     "right": "They are expensive lamps.",
+     "why": "Adjectives do not take -s in the plural."
+    }
+   ]
+  },
+  {
+   "id": "v-home-things",
+   "kind": "vocab",
+   "title": "Things at home",
+   "words": [
+    {
+     "id": "w-bathtub",
+     "en": "bathtub",
+     "es": "tina de baño",
+     "example": "I take a bath in the bathtub."
+    },
+    {
+     "id": "w-shower",
+     "en": "shower",
+     "es": "regadera",
+     "example": "The shower is next to the toilet.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-sink",
+     "en": "sink",
+     "es": "lavabo, fregadero",
+     "example": "There are dishes in the sink.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-toilet",
+     "en": "toilet",
+     "es": "excusado",
+     "example": "The toilet is in a small room.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-faucet",
+     "en": "faucet",
+     "es": "llave de agua",
+     "example": "The faucet is broken."
+    },
+    {
+     "id": "w-mirror",
+     "en": "mirror",
+     "es": "espejo",
+     "example": "There is a big mirror in the hall.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-carpet",
+     "en": "carpet",
+     "es": "alfombra (fija)",
+     "example": "The carpet in the bedroom is soft.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-rug",
+     "en": "rug",
+     "es": "tapete",
+     "example": "We have a silk rug in the living room."
+    },
+    {
+     "id": "w-curtain",
+     "en": "curtain",
+     "es": "cortina",
+     "example": "Close the curtains, please.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-cushion",
+     "en": "cushion",
+     "es": "cojín",
+     "example": "The sofa has three blue cushions."
+    },
+    {
+     "id": "w-clock",
+     "en": "clock",
+     "es": "reloj de pared",
+     "example": "The clock is on the kitchen wall.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-picture-frame",
+     "en": "picture frame",
+     "es": "portarretrato",
+     "example": "I have a wooden picture frame on my desk.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-dishwasher",
+     "en": "dishwasher",
+     "es": "lavaplatos",
+     "example": "We load the dishwasher after dinner."
+    },
+    {
+     "id": "w-microwave",
+     "en": "microwave",
+     "es": "horno de microondas",
+     "example": "I heat my lunch in the microwave."
+    },
+    {
+     "id": "w-oven",
+     "en": "oven",
+     "es": "horno",
+     "example": "Turn on the oven, please.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-stove",
+     "en": "stove",
+     "es": "estufa",
+     "example": "She cooks beans on the stove.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "g-one-ones",
+   "kind": "grammar",
+   "title": "one and ones to avoid repeating a noun",
+   "html": "<p>Use <strong>one</strong> (singular) and <strong>ones</strong> (plural) instead of repeating a noun that was already mentioned.</p><table><thead><tr><th>Conversation</th><th>Meaning</th></tr></thead><tbody><tr><td>A: I like the black cover. B: I like the blue <strong>one</strong>.</td><td>one = cover</td></tr><tr><td>A: Those speakers are cool. B: I like the silver <strong>ones</strong> on the right.</td><td>ones = speakers</td></tr></tbody></table><ul><li>To ask: <em>Which one do you like? / Which ones do you like?</em></li><li>To identify: an adjective before (<em>the blue one</em>) or a phrase after (<em>the ones in the middle, the one on the left</em>).</li><li>Before <em>one/ones</em> there is almost always <em>the</em>. With an adjective and no article: <em>I want a new one</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "These chairs are old. I want new one.",
+     "right": "These chairs are old. I want new ones.",
+     "why": "Plural: ones."
+    },
+    {
+     "wrong": "I like the blue ones sofa.",
+     "right": "I like the blue one.",
+     "why": "One/ones replaces the noun; they are not written together."
+    },
+    {
+     "wrong": "Which ones lamp do you like?",
+     "right": "Which one do you like? / Which lamp do you like?",
+     "why": "Which one (no noun) or Which lamp (with a noun)."
+    },
+    {
+     "wrong": "I prefer the red.",
+     "right": "I prefer the red one.",
+     "why": "After an adjective with the, you need one/ones."
+    }
+   ]
+  },
+  {
+   "id": "v-adjectives",
+   "kind": "vocab",
+   "title": "Describing things: size, shape, material",
+   "words": [
+    {
+     "id": "w-large-medium-small",
+     "en": "large / medium / small",
+     "es": "grande / mediano / pequeño",
+     "example": "I need a medium table.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-round",
+     "en": "round",
+     "es": "redondo",
+     "example": "We have a round mirror.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-square",
+     "en": "square",
+     "es": "cuadrado",
+     "example": "I bought a square clock.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-rectangular",
+     "en": "rectangular",
+     "es": "rectangular",
+     "example": "The kitchen table is rectangular."
+    },
+    {
+     "id": "w-wooden",
+     "en": "wooden",
+     "es": "de madera",
+     "example": "My desk is wooden.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-leather",
+     "en": "leather",
+     "es": "de piel",
+     "example": "He wants a black leather sofa.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-metal",
+     "en": "metal",
+     "es": "de metal",
+     "example": "The old lamp is metal.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-plastic",
+     "en": "plastic",
+     "es": "de plástico",
+     "example": "These chairs are plastic.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-cotton",
+     "en": "cotton",
+     "es": "de algodón",
+     "example": "I like cotton curtains.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-silk",
+     "en": "silk",
+     "es": "de seda",
+     "example": "She has a silk rug.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-wool",
+     "en": "wool",
+     "es": "de lana",
+     "example": "The wool carpet is warm.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-cute",
+     "en": "cute",
+     "es": "bonito, lindo",
+     "example": "What a cute little cushion!",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-awful",
+     "en": "awful",
+     "es": "horrible",
+     "example": "That orange armchair is awful.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-antique",
+     "en": "antique",
+     "es": "antiguo",
+     "example": "They have an antique table."
+    }
+   ]
+  },
+  {
+   "id": "g-requests",
+   "kind": "grammar",
+   "title": "Polite requests: Do you mind… / Would you mind…",
+   "html": "<p>To ask for <strong>permission</strong> and to ask for a <strong>favor</strong> politely:</p><table><thead><tr><th>To</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Ask for permission (= Can I…?)</td><td><strong>Do you mind if I</strong> + verb</td><td>Do you mind if I look around?</td></tr><tr><td>Ask someone to do something (= Can you…?)</td><td><strong>Would you mind</strong> + verb-ing</td><td>Would you mind helping me in the kitchen?</td></tr></tbody></table><p><strong>How to answer.</strong> With <em>Can / Could</em>: <em>Yes. / Sure. / Go (right) ahead. / OK. / No problem.</em></p><p>With <em>Do you mind / Would you mind</em>, the question means «does it bother you?», so to <strong>accept</strong> you say <strong>No</strong>: <em>No, go right ahead. / No, not at all. / Oh, no. No problem.</em></p><p>To politely decline: <em>I'm sorry, but…</em> and give a reason.</p>",
+   "watch": [
+    {
+     "wrong": "Do you mind if I opening the window?",
+     "right": "Do you mind if I open the window?",
+     "why": "After if I, use the base verb."
+    },
+    {
+     "wrong": "Would you mind to help me?",
+     "right": "Would you mind helping me?",
+     "why": "Would you mind + verb with -ing."
+    },
+    {
+     "wrong": "Do you mind if I sit here? Yes, go ahead.",
+     "right": "Do you mind if I sit here? No, go ahead.",
+     "why": "With mind, answering No means «it doesn't bother me»."
+    },
+    {
+     "wrong": "Would you mind if you close the door?",
+     "right": "Would you mind closing the door?",
+     "why": "To ask for a favor: Would you mind + -ing."
+    }
+   ]
+  },
+  {
+   "id": "v-chores",
+   "kind": "vocab",
+   "title": "Around the house: tasks and requests",
+   "words": [
+    {
+     "id": "w-chop-the-onions",
+     "en": "chop the onions",
+     "es": "picar la cebolla",
+     "example": "Would you mind chopping the onions?",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-set-the-table",
+     "en": "set the table",
+     "es": "poner la mesa",
+     "example": "I set the table before dinner.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-help-with-the-dishes",
+     "en": "help with the dishes",
+     "es": "ayudar con los platos",
+     "example": "Can you help with the dishes?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-turn-on-the-oven",
+     "en": "turn on the oven",
+     "es": "prender el horno",
+     "example": "Please turn on the oven.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-charge-my-phone",
+     "en": "charge my phone",
+     "es": "cargar mi celular",
+     "example": "Do you mind if I charge my phone?",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-borrow",
+     "en": "borrow",
+     "es": "pedir prestado",
+     "example": "Can I borrow your charger?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-install-software",
+     "en": "install software",
+     "es": "instalar un programa",
+     "example": "I need to install new software.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-hang-clothes",
+     "en": "hang clothes",
+     "es": "colgar la ropa",
+     "example": "I hang my clothes in the closet.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-give-clothes-to-charity",
+     "en": "give clothes to charity",
+     "es": "donar ropa",
+     "example": "We give old clothes to charity.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-look-around",
+     "en": "look around",
+     "es": "echar un vistazo",
+     "example": "Do you mind if I look around?",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-sequence",
+   "kind": "grammar",
+   "title": "Ordering actions: first, next, then, as soon as, while",
+   "html": "<p>To tell a routine with more than two actions, use <strong>First, … Next, … (and) then …</strong></p><p><em>First, I change my clothes. Next, I turn on some music, and then I cook dinner.</em></p><table><thead><tr><th>Word</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td><strong>as soon as</strong></td><td>right after</td><td>As soon as I get home, I relax.</td></tr><tr><td><strong>while</strong></td><td>at the same time as + action</td><td>I listen to music while I'm making dinner.</td></tr><tr><td><strong>when</strong></td><td>when</td><td>When the kitchen is clean, I can relax.</td></tr><tr><td><strong>before / after</strong></td><td>before / after</td><td>I wash my face before I go to bed. / After dinner, I do the dishes.</td></tr><tr><td><strong>during</strong></td><td>during + noun</td><td>I like to watch TV during dinner.</td></tr></tbody></table><ul><li><em>During</em> goes with a noun; <em>while</em> goes with subject + verb.</li><li>If the sentence starts with <em>as soon as / when / after</em>, put a comma before the second part.</li></ul>",
+   "watch": [
+    {
+     "wrong": "While I get home, I relax.",
+     "right": "As soon as I get home, I relax.",
+     "why": "Right after = as soon as, not while."
+    },
+    {
+     "wrong": "I listen to music during I cook.",
+     "right": "I listen to music while I cook.",
+     "why": "With subject + verb, use while."
+    },
+    {
+     "wrong": "As soon as I will get home, I call you.",
+     "right": "As soon as I get home, I call you.",
+     "why": "After as soon as, use the simple present."
+    },
+    {
+     "wrong": "First I take a shower, then I eat breakfast.",
+     "right": "First, I take a shower. Then I eat breakfast.",
+     "why": "Put a comma after First and separate the ideas."
+    }
+   ]
+  },
+  {
+   "id": "e-home",
+   "kind": "expressions",
+   "title": "Expressions for the home",
+   "html": "<ul><li><strong>Whose … is this / are these?</strong> — Who does … belong to?</li><li><strong>It's mine. / They're theirs.</strong> — answers with a possessive pronoun.</li><li><strong>Which one do you like? — The blue one on the right.</strong> — to identify something.</li><li><strong>Do you mind if I…? — No, go right ahead.</strong> — to ask for and give permission.</li><li><strong>Would you mind …ing? — No, not at all. / No problem.</strong> — to ask for a favor.</li><li><strong>First, … Next, … Then …</strong> — to tell a routine.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Whose and possessive pronouns",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-whose",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "Whose keys are ___?",
+     "answers": [
+      "these"
+     ],
+     "explain": "Plural: these."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Whose jewelry is ___?",
+     "answers": [
+      "this"
+     ],
+     "explain": "Uncountable: this."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "That bike is Ana's. It's ___.",
+     "answers": [
+      "hers"
+     ],
+     "explain": "She → hers."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "This is my laptop. The laptop is ___.",
+     "answers": [
+      "mine"
+     ],
+     "explain": "I → mine."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "These are Tom and Eva's keys. They're ___.",
+     "answers": [
+      "theirs"
+     ],
+     "explain": "They → theirs."
+    },
+    {
+     "id": "A6",
+     "type": "choice",
+     "prompt": "Whose clothes ___ these?",
+     "options": [
+      "is",
+      "are",
+      "do"
+     ],
+     "answer": 1,
+     "explain": "Clothes is plural: are."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "Is this bag your?",
+     "answers": [
+      "Is this bag yours?"
+     ],
+     "explain": "No noun after it: yours."
+    },
+    {
+     "id": "A8",
+     "type": "fix",
+     "prompt": "The blue car is our.",
+     "answers": [
+      "The blue car is ours."
+     ],
+     "explain": "No noun after it: ours."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Order of adjectives",
+   "instructions": "Choose the correct order or complete.",
+   "topic": "g-adj-order",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "Choose the correct sentence:",
+     "options": [
+      "a small round table",
+      "a round small table",
+      "a table small round"
+     ],
+     "answer": 0,
+     "explain": "Size before shape."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "Choose the correct sentence:",
+     "options": [
+      "a leather black sofa",
+      "a black leather sofa",
+      "a sofa black leather"
+     ],
+     "answer": 1,
+     "explain": "Color before material."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "Choose the correct sentence:",
+     "options": [
+      "a nice big rug",
+      "a big nice rug",
+      "a rug big nice"
+     ],
+     "answer": 0,
+     "explain": "Opinion before size."
+    },
+    {
+     "id": "B4",
+     "type": "fix",
+     "prompt": "She has a wool beautiful rug.",
+     "answers": [
+      "She has a beautiful wool rug."
+     ],
+     "explain": "Opinion before material."
+    },
+    {
+     "id": "B5",
+     "type": "fix",
+     "prompt": "I like those round little clocks.",
+     "answers": [
+      "I like those little round clocks."
+     ],
+     "explain": "Size before shape."
+    },
+    {
+     "id": "B6",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "little",
+      "bought",
+      "cute",
+      "a",
+      "I",
+      "silver",
+      "clock"
+     ],
+     "answers": [
+      "I bought a cute little silver clock."
+     ],
+     "explain": "Opinion, size, color."
+    },
+    {
+     "id": "B7",
+     "type": "gap",
+     "prompt": "He wants a big ___ table. (wooden / round)",
+     "answers": [
+      "round wooden"
+     ],
+     "explain": "Shape before material."
+    },
+    {
+     "id": "B8",
+     "type": "gap",
+     "prompt": "I love the ___ silk curtains. (blue / beautiful)",
+     "answers": [
+      "beautiful blue"
+     ],
+     "explain": "Opinion before color."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "one and ones",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-one-ones",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "I like the blue cover. Do you like the black ___?",
+     "answers": [
+      "one"
+     ],
+     "explain": "Singular: one."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "These speakers are small. I prefer the big ___.",
+     "answers": [
+      "ones"
+     ],
+     "explain": "Plural: ones."
+    },
+    {
+     "id": "C3",
+     "type": "choice",
+     "prompt": "Which ___ do you prefer? These lamps or those lamps?",
+     "options": [
+      "one",
+      "ones",
+      "its"
+     ],
+     "answer": 1,
+     "explain": "Lamps = plural: ones."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "I need a new rug. The old ___ is very dirty.",
+     "options": [
+      "one",
+      "ones",
+      "it"
+     ],
+     "answer": 0,
+     "explain": "Singular: the old one."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "These chairs are old. I want new one.",
+     "answers": [
+      "These chairs are old. I want new ones."
+     ],
+     "explain": "Plural: ones."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "I like the blue ones sofa.",
+     "answers": [
+      "I like the blue one.",
+      "I like the blue sofa."
+     ],
+     "explain": "One/ones replaces the noun."
+    },
+    {
+     "id": "C7",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "on",
+      "silver",
+      "the",
+      "like",
+      "I",
+      "right",
+      "ones",
+      "the"
+     ],
+     "answers": [
+      "I like the silver ones on the right."
+     ],
+     "explain": "Adjective + ones + place phrase."
+    },
+    {
+     "id": "C8",
+     "type": "choice",
+     "prompt": "A: Which lamp do you like? B: The one ___ the middle.",
+     "options": [
+      "in",
+      "at",
+      "of"
+     ],
+     "answer": 0,
+     "explain": "In the middle."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Polite requests and answers",
+   "instructions": "Complete, put in order or choose the answer.",
+   "topic": "g-requests",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "Do you mind ___ I open the window?",
+     "answers": [
+      "if"
+     ],
+     "explain": "Do you mind if I + verb."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "Would you mind ___ me with the dishes? (help)",
+     "answers": [
+      "helping"
+     ],
+     "explain": "Would you mind + verb-ing."
+    },
+    {
+     "id": "D3",
+     "type": "fix",
+     "prompt": "Do you mind if I opening the window?",
+     "answers": [
+      "Do you mind if I open the window?"
+     ],
+     "explain": "After if I, use the base verb."
+    },
+    {
+     "id": "D4",
+     "type": "fix",
+     "prompt": "Would you mind to help me?",
+     "answers": [
+      "Would you mind helping me?"
+     ],
+     "explain": "Would you mind + -ing."
+    },
+    {
+     "id": "D5",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "setting",
+      "the",
+      "mind",
+      "you",
+      "table",
+      "Would"
+     ],
+     "answers": [
+      "Would you mind setting the table?"
+     ],
+     "explain": "Would you mind + verb-ing."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "A: Do you mind if I open the window? B: (accept)",
+     "options": [
+      "No, go ahead.",
+      "Yes, go ahead.",
+      "No, I do."
+     ],
+     "answer": 0,
+     "explain": "With mind, accepting = No."
+    },
+    {
+     "id": "D7",
+     "type": "choice",
+     "prompt": "A: Can I look around? B: (accept)",
+     "options": [
+      "Sure, go right ahead.",
+      "Yes, I mind.",
+      "No, I don't can."
+     ],
+     "answer": 0,
+     "explain": "With Can I: Sure / Go right ahead."
+    },
+    {
+     "id": "D8",
+     "type": "choice",
+     "prompt": "A: Do you mind if I charge my phone here? B: (politely decline)",
+     "options": [
+      "Sorry, but the plug doesn't work.",
+      "No, go ahead.",
+      "No problem."
+     ],
+     "answer": 0,
+     "explain": "Polite refusal + reason."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Ordering actions",
+   "instructions": "Complete with first, next, as soon as, while, before, after or during.",
+   "topic": "g-sequence",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "___ I get home, I take off my shoes. (as soon as)",
+     "answers": [
+      "As soon as"
+     ],
+     "explain": "Right after = as soon as."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "I like listening to music ___ I cook dinner.",
+     "answers": [
+      "while"
+     ],
+     "explain": "At the same time, with subject + verb: while."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "First, I take a shower. ___, I make breakfast.",
+     "answers": [
+      "Next",
+      "Then"
+     ],
+     "explain": "Next / Then = after that."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "I wash my face ___ I go to bed.",
+     "answers": [
+      "before"
+     ],
+     "explain": "Before going to sleep: before."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "___ dinner, we always watch the news.",
+     "answers": [
+      "After"
+     ],
+     "explain": "After dinner: After."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "I read a book ___ the flight.",
+     "options": [
+      "during",
+      "while",
+      "as soon as"
+     ],
+     "answer": 0,
+     "explain": "During + noun: during."
+    },
+    {
+     "id": "E7",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "my",
+      "I",
+      "then",
+      "coffee",
+      "and",
+      "I",
+      "First",
+      "check",
+      "make",
+      "email"
+     ],
+     "answers": [
+      "First, I make coffee, and then I check my email."
+     ],
+     "explain": "First… and then…"
+    },
+    {
+     "id": "E8",
+     "type": "fix",
+     "prompt": "While I get home, I relax.",
+     "answers": [
+      "As soon as I get home, I relax.",
+      "When I get home, I relax."
+     ],
+     "explain": "Right after = as soon as / when."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "House vocabulary",
+   "instructions": "Complete with a word from the box: sink, mirror, drawer, nightstand, closet, stove, bathtub, dishwasher.",
+   "topic": "v-home-things",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "I wash the dishes in the ___.",
+     "answers": [
+      "sink"
+     ],
+     "explain": "Sink: where you wash your hands and dishes."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "Look at yourself in the ___.",
+     "answers": [
+      "mirror"
+     ],
+     "explain": "Mirror: you look at yourself in it."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "I keep my socks in a ___ of my dresser.",
+     "answers": [
+      "drawer"
+     ],
+     "explain": "Drawer: a box you pull out of a table or dresser."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "My keys are on top of the ___ next to my bed.",
+     "answers": [
+      "nightstand"
+     ],
+     "explain": "Nightstand: a small table next to the bed."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "I hang my clothes in the ___.",
+     "answers": [
+      "closet"
+     ],
+     "explain": "Closet: a place to keep clothes."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "We cook rice on the ___.",
+     "answers": [
+      "stove"
+     ],
+     "explain": "Stove: where you cook food."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "I take a bath in the ___.",
+     "answers": [
+      "bathtub"
+     ],
+     "explain": "Bathtub: where you take a bath."
+    },
+    {
+     "id": "F8",
+     "type": "gap",
+     "prompt": "The machine that washes plates is the ___.",
+     "answers": [
+      "dishwasher"
+     ],
+     "explain": "Dishwasher: a machine that cleans dishes."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to make a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "bag",
+      "Whose",
+      "this",
+      "is"
+     ],
+     "answers": [
+      "Whose bag is this?"
+     ],
+     "explain": "Whose + noun + be + this."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "mine",
+      "Those",
+      "keys",
+      "are",
+      "not"
+     ],
+     "answers": [
+      "Those keys are not mine.",
+      "Those keys aren't mine."
+     ],
+     "explain": "Possessive pronoun with no noun."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "you",
+      "Which",
+      "like",
+      "one",
+      "do",
+      "best"
+     ],
+     "answers": [
+      "Which one do you like best?"
+     ],
+     "explain": "Which one + do you…?"
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "open",
+      "if",
+      "the",
+      "I",
+      "mind",
+      "Do",
+      "window",
+      "you"
+     ],
+     "answers": [
+      "Do you mind if I open the window?"
+     ],
+     "explain": "Do you mind if I + verb."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "a",
+      "wooden",
+      "She",
+      "has",
+      "beautiful",
+      "table"
+     ],
+     "answers": [
+      "She has a beautiful wooden table."
+     ],
+     "explain": "Opinion before material."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "as",
+      "get",
+      "I",
+      "soon",
+      "As",
+      "I",
+      "home",
+      "relax"
+     ],
+     "answers": [
+      "As soon as I get home, I relax."
+     ],
+     "explain": "As soon as + simple present."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "¿De quién es esta chamarra?",
+     "answers": [
+      "Whose jacket is this?"
+     ],
+     "explain": "Whose + noun + is this."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Esas llaves no son mías.",
+     "answers": [
+      "Those keys aren't mine.",
+      "Those keys are not mine."
+     ],
+     "explain": "Possessive pronoun: mine."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Me gustan los pequeños de la derecha.",
+     "answers": [
+      "I like the small ones on the right.",
+      "I like the little ones on the right."
+     ],
+     "explain": "Adjective + ones + place phrase."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "¿Te molesta si abro la ventana?",
+     "answers": [
+      "Do you mind if I open the window?"
+     ],
+     "explain": "Do you mind if I + verb."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "¿Te importaría ayudarme en la cocina?",
+     "answers": [
+      "Would you mind helping me in the kitchen?"
+     ],
+     "explain": "Would you mind + -ing."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "En cuanto llego a casa, preparo la cena.",
+     "answers": [
+      "As soon as I get home, I cook dinner.",
+      "As soon as I get home, I make dinner.",
+      "I cook dinner as soon as I get home.",
+      "I make dinner as soon as I get home."
+     ],
+     "explain": "As soon as + simple present."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from this unit (includes review of earlier units).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Whose book is this? — It's ___.",
+     "options": [
+      "mine",
+      "my",
+      "me"
+     ],
+     "answer": 0,
+     "explain": "No noun after it: mine."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "These are Ana and Luis's shoes. They're ___.",
+     "answers": [
+      "theirs"
+     ],
+     "explain": "They → theirs."
+    },
+    {
+     "id": "M3",
+     "type": "choice",
+     "prompt": "I want a ___ sofa.",
+     "options": [
+      "big brown leather",
+      "leather big brown",
+      "brown big leather"
+     ],
+     "answer": 0,
+     "explain": "Size, color, material."
+    },
+    {
+     "id": "M4",
+     "type": "gap",
+     "prompt": "I don't like the red lamp. I prefer the green ___.",
+     "answers": [
+      "one"
+     ],
+     "explain": "Singular: one."
+    },
+    {
+     "id": "M5",
+     "type": "fix",
+     "prompt": "Would you mind open the door?",
+     "answers": [
+      "Would you mind opening the door?"
+     ],
+     "explain": "Would you mind + -ing."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "Do you mind ___ I use your phone?",
+     "answers": [
+      "if"
+     ],
+     "explain": "Do you mind if I…?"
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "___ I finish work, I go home. (as soon as)",
+     "answers": [
+      "As soon as"
+     ],
+     "explain": "Right after = as soon as."
+    },
+    {
+     "id": "M8",
+     "type": "translate",
+     "prompt": "¿De quién son estas llaves?",
+     "answers": [
+      "Whose keys are these?"
+     ],
+     "explain": "Whose + plural + are these."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "Tomorrow we ___ going to paint the living room. (review: be going to)",
+     "answers": [
+      "are"
+     ],
+     "explain": "We → are going to."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "There ___ a big mirror in the hall. (review: there is / there are)",
+     "answers": [
+      "is"
+     ],
+     "explain": "Singular: There is."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write 60 to 100 words about your night routine. Use First, Next and then, as well as as soon as and while. Example opening: As soon as I get home, I …",
+   "targets": [
+    "First / Next / then",
+    "as soon as",
+    "while",
+    "before / after"
+   ],
+   "checklist": [
+    "Between 60 and 100 words",
+    "First, Next and then",
+    "As soon as + simple present",
+    "While + subject + verb",
+    "One sentence with before or after"
+   ],
+   "model": "As soon as I get home, I take off my shoes and relax for a few minutes. First, I make dinner. While I cook, I listen to music. Next, I eat with my family and we talk about our day. After dinner, I wash the dishes. Then I take a shower and put on my pajamas. Before I go to bed, I read a book for twenty minutes. While I read, my cat sleeps next to me. Finally, I turn off the light and go to sleep."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a message of 60 to 100 words to a roommate: ask whose things are some items (Whose…?), ask for permission (Do you mind if I…?) and a favor (Would you mind…-ing?), and describe a piece of furniture you want to buy with two adjectives and one/ones.",
+   "targets": [
+    "Whose / possessive pronouns",
+    "Do you mind if I… / Would you mind…-ing",
+    "adjective order",
+    "one / ones"
+   ],
+   "checklist": [
+    "Between 60 and 100 words",
+    "One question with Whose",
+    "Do you mind if I + base verb",
+    "Would you mind + verb with -ing",
+    "Two adjectives in the correct order",
+    "Use of one or ones"
+   ],
+   "model": "Hi Carla! Whose jacket is on the sofa? Is it yours? And whose books are on the table? Are they yours or mine? Do you mind if I use the kitchen tonight? I want to cook dinner for my friends. Would you mind turning down the music after ten? I have an exam tomorrow. By the way, I want to buy a new bookcase for the living room. I like a tall wooden one, but the ones in the shop are very expensive. What do you think? Thanks!"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Our first apartment",
+   "intro": "Read Daniel's text and answer the questions.",
+   "paragraphs": [
+    "Last month my girlfriend Sofia and I moved into our first apartment. It is small, but it has a bright living room and a kitchen with a big window. As soon as we arrived, we started to put our things away. Sofia keeps her books on the shelves in the living room, and I keep my music files and speakers on top of the dresser in the bedroom.",
+    "The first problem was the furniture. We wanted a beautiful round wooden table, but the one in the store was too expensive. So we bought a cheap old table from a neighbor and painted it white. Now it looks great! We also have two armchairs. The blue one is mine and the gray one is hers, but we usually sit together on the sofa.",
+    "In the evening we have a routine. First, we cook dinner together. Sofia chops the onions while I set the table. After dinner, I do the dishes because she hates the sink. Then we watch the news or a movie. Sometimes our neighbor asks, \"Would you mind turning down the music?\" We always say, \"No, not at all,\" and we lower the volume. Yesterday somebody left a jacket in the hall. We don't know whose it is, so we are asking everybody in the building."
+   ],
+   "glossary": [
+    {
+     "en": "put away",
+     "def": "to put things in their place, to tidy up"
+    },
+    {
+     "en": "bright",
+     "def": "full of light, not dark"
+    },
+    {
+     "en": "neighbor",
+     "def": "person who lives next door or nearby"
+    },
+    {
+     "en": "routine",
+     "def": "things you do in the same way every day"
+    },
+    {
+     "en": "chop",
+     "def": "to cut food into small pieces"
+    },
+    {
+     "en": "turn down",
+     "def": "to make a sound or light quieter or lower"
+    },
+    {
+     "en": "volume",
+     "def": "how loud a sound is"
+    },
+    {
+     "en": "hall",
+     "def": "the area inside a house that connects the rooms"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Daniel and Sofia's apartment is very large.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "She says: «It is small»."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Where does Sofia keep her books?",
+     "options": [
+      "On the shelves in the living room",
+      "In the closet",
+      "On the dresser"
+     ],
+     "answer": 0,
+     "explain": "«Sofia keeps her books on the shelves»."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What did they do to the old table?",
+     "options": [
+      "They painted it white",
+      "They sold it",
+      "They gave it to charity"
+     ],
+     "answer": 0,
+     "explain": "«painted it white»."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "The gray armchair is ___.",
+     "answers": [
+      "hers"
+     ],
+     "explain": "«The gray one is hers»."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Sofia chops the onions while Daniel ___ the table.",
+     "answers": [
+      "sets",
+      "is setting"
+     ],
+     "explain": "«while I set the table»."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "Why does Daniel do the dishes?",
+     "options": [
+      "Sofia hates the sink",
+      "They have a dishwasher",
+      "It's his neighbor's job"
+     ],
+     "answer": 0,
+     "explain": "«because she hates the sink»."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "They know who owns the jacket in the hall.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "«We don't know whose it is»."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Moving day",
+   "intro": "Listen to the conversation between Lena, Pablo and their neighbor. You can repeat it.",
+   "lines": [
+    {
+     "who": "Lena",
+     "voice": "airy",
+     "text": "Pablo, whose boxes are these in the hall?"
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "The big ones are ours, but the small ones are the neighbor's. She left them here yesterday."
+    },
+    {
+     "who": "Lena",
+     "voice": "airy",
+     "text": "OK. Where do you want the armchair? The brown leather one?"
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "Put it in the living room, next to the lamp. And the round mirror goes in the bathroom."
+    },
+    {
+     "who": "Lena",
+     "voice": "airy",
+     "text": "Which one, the silver one or the black one?"
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "The silver one. The black one is for the bedroom."
+    },
+    {
+     "who": "Neighbor",
+     "voice": "glassy",
+     "text": "Hi! Do you mind if I take my boxes now?"
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "No, go right ahead. They're by the door."
+    },
+    {
+     "who": "Neighbor",
+     "voice": "glassy",
+     "text": "Thanks. Would you mind helping me carry them to my apartment?"
+    },
+    {
+     "who": "Lena",
+     "voice": "airy",
+     "text": "No problem. As soon as we finish with the sofa, we can help you."
+    },
+    {
+     "who": "Neighbor",
+     "voice": "glassy",
+     "text": "That's very kind. Then you must come for coffee."
+    },
+    {
+     "who": "Pablo",
+     "voice": "buttery",
+     "text": "Sounds great!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Whose are the small boxes?",
+     "options": [
+      "Pablo and Lena's",
+      "The neighbor's",
+      "Lena's mother's"
+     ],
+     "answer": 1,
+     "explain": "«the small ones are the neighbor's»."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What color is the armchair?",
+     "options": [
+      "Brown",
+      "Black",
+      "Silver"
+     ],
+     "answer": 0,
+     "explain": "«The brown leather one»."
+    },
+    {
+     "id": "L3",
+     "type": "gap",
+     "prompt": "The silver mirror goes in the ___.",
+     "answers": [
+      "bathroom"
+     ],
+     "explain": "«the round mirror goes in the bathroom»; the silver one is the one for the bathroom."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What does the neighbor ask first?",
+     "options": [
+      "If she can take her boxes",
+      "If they can sell her a sofa",
+      "If she can use the bathroom"
+     ],
+     "answer": 0,
+     "explain": "«Do you mind if I take my boxes now?»"
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "When will Lena and Pablo help her?",
+     "options": [
+      "As soon as they finish with the sofa",
+      "Tomorrow morning",
+      "Before lunch"
+     ],
+     "answer": 0,
+     "explain": "«As soon as we finish with the sofa»."
+    },
+    {
+     "id": "L6",
+     "type": "gap",
+     "prompt": "The neighbor invites them for ___.",
+     "answers": [
+      "coffee"
+     ],
+     "explain": "«you must come for coffee»."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Whose boxes are these in the hall?",
+     "answers": [
+      "Whose boxes are these in the hall?"
+     ],
+     "explain": "Whose + plural + are these."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Do you mind if I take my boxes now?",
+     "answers": [
+      "Do you mind if I take my boxes now?"
+     ],
+     "explain": "Do you mind if I + base verb."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Would you mind helping me carry them?",
+     "answers": [
+      "Would you mind helping me carry them?"
+     ],
+     "explain": "Would you mind + -ing."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "As soon as we finish with the sofa, we can help you.",
+     "answers": [
+      "As soon as we finish with the sofa, we can help you."
+     ],
+     "explain": "As soon as + simple present."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Describe your bedroom or your living room: where you keep things and what furniture you have.",
+     "questions": [
+      "Where do you keep your clothes?",
+      "Where do you keep your keys?",
+      "What furniture is there in your bedroom?",
+      "Which one is your favorite?"
+     ],
+     "model": "I keep my clothes in the closet and my socks in a drawer. My keys are on top of the nightstand. I have a small wooden desk and a big comfortable bed. My favorite is the blue lamp on the desk.",
+     "checklist": [
+      "Places: in, on top of, by",
+      "Adjectives in order (small wooden)",
+      "Furniture vocabulary",
+      "Use one/ones if you can"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Practice requests: ask for permission and ask a friend for a favor in their home.",
+     "questions": [
+      "Do you mind if I open the window?",
+      "Would you mind helping me in the kitchen?",
+      "Can I borrow your charger?",
+      "Could you chop the onions?"
+     ],
+     "model": "Do you mind if I charge my phone? Would you mind turning on the oven? Sure, no problem. No, not at all. Go right ahead.",
+     "checklist": [
+      "Do you mind if I + base verb",
+      "Would you mind + verb with -ing",
+      "Answers: No, go ahead / No problem",
+      "Polite intonation"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Tell your night routine with First, Next, Then, as soon as and while.",
+     "questions": [
+      "What do you do as soon as you get home?",
+      "What do you do first?",
+      "What do you do while you cook dinner?",
+      "What do you do before you go to bed?"
+     ],
+     "model": "As soon as I get home, I take off my shoes. First, I cook dinner. Next, I watch the news while I eat. Then I do the dishes. Before I go to bed, I read a book.",
+     "checklist": [
+      "First, Next, Then",
+      "As soon as + simple present",
+      "while + subject + verb",
+      "before / after"
+     ]
+    }
+   ],
+   "repeat": [
+    "Whose keys are these?",
+    "It's mine. They're hers.",
+    "I like the silver ones on the right.",
+    "Do you mind if I open the window?",
+    "Would you mind helping me in the kitchen?",
+    "As soon as I get home, I relax."
+   ]
+  }
+ }
+}

@@ -1,0 +1,1710 @@
+{
+ "id": "u-a2-10",
+ "level": "A2",
+ "n": 10,
+ "title": "Finding your way",
+ "goals": [
+  "Ask if there is a place nearby with Is there…? and Are there any…?, and answer with one, some or any.",
+  "Say where something is with next to, between, across from, on the corner of, behind…",
+  "Offer help and ask for favors with Can I…? Can you…? Could you…?",
+  "Give and understand directions: turn right, go straight ahead, walk north for two blocks.",
+  "Name places and stores in a city and describe what a neighborhood is like.",
+  "Check what you did not understand with Did you say…? and echo questions (It's where?)."
+ ],
+ "learn": [
+  {
+   "id": "g-there-is",
+   "kind": "grammar",
+   "title": "Is there…? / Are there any…?",
+   "html": "<p>To ask if something exists in a place, we use <em>there is / there are</em> (in Spanish, «hay»).</p><table><thead><tr><th></th><th>Question</th><th>Answer</th></tr></thead><tbody><tr><td>Singular</td><td><strong>Is there a</strong> café near here?</td><td>Yes, there <strong>is</strong>. There's <strong>one</strong> on Main Street.<br>No, there <strong>isn't</strong>. There isn't <strong>one</strong> in this neighborhood.</td></tr><tr><td>Plural</td><td><strong>Are there any</strong> cash machines near here?</td><td>Yes, there <strong>are</strong>. There are <strong>some</strong> outside the bank.<br>No, there <strong>aren't</strong>. There aren't <strong>any</strong> nearby.</td></tr></tbody></table><ul><li><strong>a / an</strong> + singular noun; <strong>any</strong> + plural noun in questions and negatives; <strong>some</strong> in positive sentences.</li><li><strong>one</strong> replaces a singular noun that was already mentioned; <strong>some / any</strong> replace a plural one.</li><li>Short forms: there's, there isn't, there aren't.</li></ul>",
+   "watch": [
+    {
+     "wrong": "Is a bank near here?",
+     "right": "Is there a bank near here?",
+     "why": "«There» is always needed for «there is / there are». Do not leave it out."
+    },
+    {
+     "wrong": "Are there a cash machine?",
+     "right": "Is there a cash machine?",
+     "why": "Singular: is there."
+    },
+    {
+     "wrong": "Yes, there are one.",
+     "right": "Yes, there is one.",
+     "why": "One is singular: there is."
+    },
+    {
+     "wrong": "Are there some parks near here?",
+     "right": "Are there any parks near here?",
+     "why": "In questions, use any, not some."
+    }
+   ]
+  },
+  {
+   "id": "g-prep-place",
+   "kind": "grammar",
+   "title": "Where is it: place prepositions",
+   "html": "<p>To say where a place is, we use these expressions.</p><table><thead><tr><th>Expression</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td>next to</td><td>beside</td><td>The bank is <strong>next to</strong> the café.</td></tr><tr><td>between … and …</td><td>in the middle of two things</td><td>The café is <strong>between</strong> the bank <strong>and</strong> the drugstore.</td></tr><tr><td>across from / opposite</td><td>on the other side of the street</td><td>The museum is <strong>across from</strong> the park.</td></tr><tr><td>in front of / behind</td><td>before / after something</td><td>There's a bus stop <strong>in front of</strong> the school.</td></tr><tr><td>on the corner of … and …</td><td>at the corner of</td><td>It's <strong>on the corner of</strong> Main and First.</td></tr><tr><td>on + street</td><td>on (the street)</td><td>There's a deli <strong>on</strong> Oak Street.</td></tr><tr><td>near here / around here</td><td>close to here</td><td>Is there a bank <strong>around here</strong>?</td></tr><tr><td>inside / outside</td><td>in / out of a building</td><td>There are two ATMs <strong>outside</strong> the bank.</td></tr></tbody></table><p>Look at this: <em>next to</em>, <em>in front of</em>, <em>across from</em> and <em>on the corner of</em> end with <strong>to / of / from</strong>; you cannot leave them out.</p>",
+   "watch": [
+    {
+     "wrong": "The bank is in Main Street.",
+     "right": "The bank is on Main Street.",
+     "why": "With street names, use on."
+    },
+    {
+     "wrong": "The café is in front the bank.",
+     "right": "The café is in front of the bank.",
+     "why": "In front needs of."
+    },
+    {
+     "wrong": "The drugstore is next the bank.",
+     "right": "The drugstore is next to the bank.",
+     "why": "Next needs to."
+    },
+    {
+     "wrong": "The café is between the bank with the drugstore.",
+     "right": "The café is between the bank and the drugstore.",
+     "why": "Between goes with and."
+    }
+   ]
+  },
+  {
+   "id": "g-can-could",
+   "kind": "grammar",
+   "title": "Offering and asking with Can and Could",
+   "html": "<p><em>Can</em> and <em>could</em> are used to offer help and to ask for favors. After them, use the verb in its base form, without <em>to</em>.</p><table><thead><tr><th>Function</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Offer</td><td><strong>Can I</strong> + verb…?</td><td>Can I help you?</td></tr><tr><td>Offer</td><td>wh- word + <strong>can I</strong> + verb…?</td><td>How can I help? / What can I do?</td></tr><tr><td>Ask</td><td><strong>Can you</strong> + verb…?</td><td>Can you tell me how to get to the aquarium?</td></tr><tr><td>Ask (more polite)</td><td><strong>Could you</strong> + verb…?</td><td>Could you give me directions, please?</td></tr></tbody></table><p><em>Could you…?</em> sounds more polite than <em>Can you…?</em>; use it with strangers. Answer with: <em>Sure. / Of course. / Sorry, I'm not from here.</em></p>",
+   "watch": [
+    {
+     "wrong": "Could you to help me?",
+     "right": "Could you help me?",
+     "why": "After could, use the base form, without to."
+    },
+    {
+     "wrong": "Do you can give me directions?",
+     "right": "Can you give me directions?",
+     "why": "Can does not use do in questions."
+    },
+    {
+     "wrong": "Can you say me how to get to the museum?",
+     "right": "Can you tell me how to get to the museum?",
+     "why": "With directions, use tell me."
+    },
+    {
+     "wrong": "Can I helping you?",
+     "right": "Can I help you?",
+     "why": "Can + base verb."
+    }
+   ]
+  },
+  {
+   "id": "g-directions",
+   "kind": "grammar",
+   "title": "Giving directions: the imperative",
+   "html": "<p>To say how to get somewhere, we use the <strong>imperative</strong>: the verb in its base form, without a subject.</p><table><thead><tr><th>Verb</th><th>Example</th></tr></thead><tbody><tr><td>turn right / left</td><td><strong>Turn left</strong> on Oak Street.</td></tr><tr><td>make a right / a left</td><td>At the corner, <strong>make a right</strong>.</td></tr><tr><td>go straight ahead</td><td><strong>Go straight ahead</strong> for three blocks.</td></tr><tr><td>go down the street</td><td><strong>Go down</strong> this street to the end.</td></tr><tr><td>walk + north / south / east / west</td><td><strong>Walk north</strong> for two blocks.</td></tr><tr><td>continue + direction + on + street</td><td><strong>Continue east on</strong> Main Street.</td></tr><tr><td>walk back to</td><td><strong>Walk back to</strong> the entrance.</td></tr></tbody></table><ul><li>Amount: <em>go two <strong>blocks</strong></em> (plural).</li><li>Streets: <em>on Pine Avenue</em>; corner: <em>at the corner</em>; end: <em>at the end of the street</em>.</li><li>Useful ending: <em>You can't miss it. It's on the right.</em></li><li>Negative: <em>Don't turn left; turn right.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "Turn left in Main Street.",
+     "right": "Turn left on Main Street.",
+     "why": "With street names, use on."
+    },
+    {
+     "wrong": "Walk to north for two blocks.",
+     "right": "Walk north for two blocks.",
+     "why": "North is an adverb: no to."
+    },
+    {
+     "wrong": "Go two block and turn right.",
+     "right": "Go two blocks and turn right.",
+     "why": "After two, the noun is plural."
+    },
+    {
+     "wrong": "You turn right at the corner.",
+     "right": "Turn right at the corner.",
+     "why": "For directions, use the imperative, without you."
+    }
+   ]
+  },
+  {
+   "id": "v-places",
+   "kind": "vocab",
+   "title": "Places in the city",
+   "words": [
+    {
+     "id": "w-atm",
+     "en": "ATM / cash machine",
+     "es": "cajero automático",
+     "example": "Is there an ATM near here?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-bank",
+     "en": "bank",
+     "es": "banco",
+     "example": "The bank opens at nine.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-gas-station",
+     "en": "gas station",
+     "es": "gasolinera",
+     "example": "There's a gas station on the corner.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-parking-lot",
+     "en": "parking lot",
+     "es": "estacionamiento (al aire libre)",
+     "example": "Is there a parking lot near the stadium?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-parking-garage",
+     "en": "parking garage",
+     "es": "estacionamiento (edificio)",
+     "example": "The parking garage is behind the mall.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-public-restroom",
+     "en": "public restroom",
+     "es": "baño público",
+     "example": "Is there a public restroom in the park?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-museum",
+     "en": "museum",
+     "es": "museo",
+     "example": "The museum is across from the park.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-aquarium",
+     "en": "aquarium",
+     "es": "acuario",
+     "example": "We saw sharks at the aquarium."
+    },
+    {
+     "id": "w-stadium",
+     "en": "stadium",
+     "es": "estadio",
+     "example": "The stadium is next to the river.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-ferry-terminal",
+     "en": "ferry terminal",
+     "es": "terminal de ferry",
+     "example": "The ferry terminal is near the beach.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-airport",
+     "en": "airport",
+     "es": "aeropuerto",
+     "example": "How do I get to the airport?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-cab-company",
+     "en": "cab company",
+     "es": "empresa de taxis",
+     "example": "I called a cab company.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-wifi",
+     "en": "Wi-Fi",
+     "es": "internet inalámbrico",
+     "example": "This café has free Wi-Fi.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-map",
+     "en": "map",
+     "es": "mapa",
+     "example": "Can I see your map?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-zoo",
+     "en": "zoo",
+     "es": "zoológico",
+     "example": "The zoo is five blocks from here."
+    }
+   ]
+  },
+  {
+   "id": "v-stores",
+   "kind": "vocab",
+   "title": "Stores",
+   "words": [
+    {
+     "id": "w-convenience-store",
+     "en": "convenience store",
+     "es": "tienda de conveniencia",
+     "example": "I bought water at a convenience store.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-deli",
+     "en": "deli (delicatessen)",
+     "es": "tienda de carnes frías y sándwiches",
+     "example": "The deli sells good sandwiches."
+    },
+    {
+     "id": "w-department-store",
+     "en": "department store",
+     "es": "tienda departamental",
+     "example": "The department store has three floors.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-drugstore",
+     "en": "drugstore",
+     "es": "farmacia",
+     "example": "I need aspirin. Is there a drugstore here?"
+    },
+    {
+     "id": "w-electronics-store",
+     "en": "electronics store",
+     "es": "tienda de electrónica",
+     "example": "I bought a phone at an electronics store.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-furniture-store",
+     "en": "furniture store",
+     "es": "mueblería",
+     "example": "We looked for a sofa at a furniture store.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-jewelry-store",
+     "en": "jewelry store",
+     "es": "joyería",
+     "example": "She works in a jewelry store.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-shoe-store",
+     "en": "shoe store",
+     "es": "zapatería",
+     "example": "The shoe store is on Pine Street.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-bakery",
+     "en": "bakery",
+     "es": "panadería",
+     "example": "The bakery opens at six."
+    },
+    {
+     "id": "w-bookstore",
+     "en": "bookstore",
+     "es": "librería",
+     "example": "There's a bookstore next to the café."
+    }
+   ]
+  },
+  {
+   "id": "v-directions",
+   "kind": "vocab",
+   "title": "Directions and location words",
+   "words": [
+    {
+     "id": "w-give-directions",
+     "en": "give directions",
+     "es": "dar indicaciones",
+     "example": "Could you give me directions?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-turn-right",
+     "en": "turn right / left",
+     "es": "da vuelta a la derecha / izquierda",
+     "example": "Turn right at the light.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-make-right",
+     "en": "make a right / a left",
+     "es": "da vuelta a la derecha / izquierda (EE. UU.)",
+     "example": "Make a left on Oak Street.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-straight-ahead",
+     "en": "go straight ahead",
+     "es": "sigue derecho",
+     "example": "Go straight ahead for two blocks.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-go-down",
+     "en": "go down (the street)",
+     "es": "avanza por (la calle)",
+     "example": "Go down Main Street.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-block",
+     "en": "block",
+     "es": "cuadra",
+     "example": "The museum is two blocks away.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-corner",
+     "en": "corner",
+     "es": "esquina",
+     "example": "There's a bank on the corner.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-end-street",
+     "en": "the end of the street",
+     "es": "el final de la calle",
+     "example": "The zoo is at the end of the street.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-north-south",
+     "en": "north / south",
+     "es": "norte / sur",
+     "example": "Walk north for three blocks.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-east-west",
+     "en": "east / west",
+     "es": "este / oeste",
+     "example": "Continue east on Pine Street.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-continue",
+     "en": "continue",
+     "es": "continuar, seguir",
+     "example": "Continue straight for one block.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-walk-back",
+     "en": "walk back to",
+     "es": "regresar caminando a",
+     "example": "Walk back to the plaza.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-sight",
+     "en": "sight",
+     "es": "atracción, lugar de interés",
+     "example": "The old church is the best sight.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-cant-miss",
+     "en": "You can't miss it.",
+     "es": "No tiene pierde.",
+     "example": "It's the big white building. You can't miss it.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-city-life",
+   "kind": "vocab",
+   "title": "Talking about a neighborhood",
+   "words": [
+    {
+     "id": "w-easy-around",
+     "en": "It's easy to get around.",
+     "es": "Es fácil moverse por aquí.",
+     "example": "It's easy to get around because the buses are frequent.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-great-shopping",
+     "en": "It's great for shopping.",
+     "es": "Es excelente para ir de compras.",
+     "example": "This street is great for shopping.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-nightlife",
+     "en": "There's a lot of nightlife.",
+     "es": "Hay mucha vida nocturna.",
+     "example": "There's a lot of nightlife downtown.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-lot-to-see",
+     "en": "There's a lot to see.",
+     "es": "Hay mucho que ver.",
+     "example": "In this city, there's a lot to see.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-downtown",
+     "en": "downtown",
+     "es": "el centro de la ciudad",
+     "example": "I work downtown.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-neighborhood",
+     "en": "neighborhood",
+     "es": "barrio, colonia",
+     "example": "My neighborhood is quiet.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-public-transport",
+     "en": "public transportation",
+     "es": "transporte público",
+     "example": "Public transportation is cheap here.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-traffic",
+     "en": "traffic",
+     "es": "tráfico",
+     "example": "There's a lot of traffic at six.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-crowded",
+     "en": "crowded",
+     "es": "lleno de gente",
+     "example": "The market is very crowded on Sundays.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-safe",
+     "en": "safe",
+     "es": "seguro",
+     "example": "It's a safe neighborhood.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-within-walking",
+     "en": "within walking distance",
+     "es": "a poca distancia a pie",
+     "example": "The park is within walking distance.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "e-checking",
+   "kind": "expressions",
+   "title": "Checking what you heard",
+   "html": "<p>If you do not understand a direction well, do not pretend: ask again.</p><ul><li><strong>Excuse me? / I'm sorry?</strong> — ask someone to repeat.</li><li><strong>Did you say fifteen or fifty?</strong> — confirm between two options.</li><li><strong>What did you say?</strong> — ask someone to repeat what they said.</li><li><strong>Repeat one word with a question intonation:</strong> <em>Within walking distance?</em></li><li><strong>Echo questions:</strong> repeat the sentence and replace the part you did not hear with a question word: <em>There's a Vietnamese place where? / It opens at what time? / A what?</em></li><li><strong>You can start with:</strong> <em>Excuse me? It opens at what time?</em></li></ul><p>Example: A: <em>The museum is three blocks away.</em> B: <em>Sorry, it's how many blocks away?</em></p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Is there…? / Are there any…?",
+   "instructions": "Complete or correct.",
+   "topic": "g-there-is",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "___ there a bank near here?",
+     "answers": [
+      "Is"
+     ],
+     "explain": "Singular: Is there a…?"
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "___ there any cash machines around here?",
+     "answers": [
+      "Are"
+     ],
+     "explain": "Plural: Are there any…?"
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "Is there a café here? — Yes, there ___. There's one on Main Street.",
+     "answers": [
+      "is"
+     ],
+     "explain": "Singular short answer: Yes, there is."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "Are there any parks? — No, there ___. There aren't any nearby.",
+     "answers": [
+      "aren't",
+      "are not"
+     ],
+     "explain": "Plural negative short answer: No, there aren't."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "Is there ___ drugstore on this street?",
+     "options": [
+      "a",
+      "any",
+      "some"
+     ],
+     "answer": 0,
+     "explain": "Singular noun starting with a consonant: a."
+    },
+    {
+     "id": "A6",
+     "type": "choice",
+     "prompt": "Are there ___ parking lots near the stadium?",
+     "options": [
+      "an",
+      "any",
+      "one"
+     ],
+     "answer": 1,
+     "explain": "Plural in a question: any."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "Is there a deli here? — Yes, there's ___ next to the bank.",
+     "answers": [
+      "one"
+     ],
+     "explain": "One replaces the noun already mentioned."
+    },
+    {
+     "id": "A8",
+     "type": "fix",
+     "prompt": "Is a gas station near here?",
+     "answers": [
+      "Is there a gas station near here?"
+     ],
+     "explain": "For «hay» you need there."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Where is it",
+   "instructions": "Look at the map: on Main Street, north side (left to right): bank, café, drugstore. South side, across the street: parking lot, museum, bakery. The bank is on the corner of Main and First.",
+   "topic": "g-prep-place",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "The café is ___ the bank and the drugstore.",
+     "answers": [
+      "between"
+     ],
+     "explain": "The café is between the bank and the drugstore."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "The bank is next ___ the café.",
+     "answers": [
+      "to"
+     ],
+     "explain": "Next to = beside."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "The museum is ___ from the café.",
+     "answers": [
+      "across",
+      "opposite"
+     ],
+     "explain": "The museum is on the other side of the street: across from."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "The parking lot is across ___ the bank.",
+     "answers": [
+      "from"
+     ],
+     "explain": "Across from."
+    },
+    {
+     "id": "B5",
+     "type": "gap",
+     "prompt": "The bank is ___ the corner of Main Street and First Street.",
+     "answers": [
+      "on"
+     ],
+     "explain": "On the corner of."
+    },
+    {
+     "id": "B6",
+     "type": "choice",
+     "prompt": "The bakery is ___ the museum.",
+     "options": [
+      "next to",
+      "between",
+      "behind"
+     ],
+     "answer": 0,
+     "explain": "The bakery is next to the museum."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "The drugstore is next the café.",
+     "answers": [
+      "The drugstore is next to the café.",
+      "The drugstore is next to the cafe."
+     ],
+     "explain": "Next needs to."
+    },
+    {
+     "id": "B8",
+     "type": "fix",
+     "prompt": "My house is in Juárez Avenue.",
+     "answers": [
+      "My house is on Juárez Avenue.",
+      "My house is on Juarez Avenue."
+     ],
+     "explain": "With streets, use on."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Can and Could: offering and asking",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-can-could",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "___ I help you?",
+     "answers": [
+      "Can"
+     ],
+     "explain": "Offering help: Can I…?"
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "You want to ask politely. ___ you give me directions?",
+     "options": [
+      "Do",
+      "Could",
+      "Does"
+     ],
+     "answer": 1,
+     "explain": "Could is the more polite form."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "How ___ I help you?",
+     "answers": [
+      "can"
+     ],
+     "explain": "Wh- + can I + verb."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "Can you ___ me how to get to the museum?",
+     "answers": [
+      "tell"
+     ],
+     "explain": "Can you tell me how to…?"
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "\"Could you recommend a cheap hotel?\" is…",
+     "options": [
+      "an offer",
+      "a request"
+     ],
+     "answer": 1,
+     "explain": "Could you… asks for a favor."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "\"What can I do?\" is…",
+     "options": [
+      "an offer",
+      "a request"
+     ],
+     "answer": 0,
+     "explain": "Can I… offers help."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "Could you to help me?",
+     "answers": [
+      "Could you help me?"
+     ],
+     "explain": "After could, use the base form without to."
+    },
+    {
+     "id": "C8",
+     "type": "fix",
+     "prompt": "Do you can give me directions?",
+     "answers": [
+      "Can you give me directions?",
+      "Could you give me directions?"
+     ],
+     "explain": "Can does not use do."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Directions",
+   "instructions": "Complete, choose or correct the directions.",
+   "topic": "g-directions",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "___ left on Oak Street.",
+     "answers": [
+      "Turn"
+     ],
+     "explain": "Imperative: Turn left."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "Go straight ___ for three blocks.",
+     "answers": [
+      "ahead"
+     ],
+     "explain": "Go straight ahead."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "Walk ___ for two blocks. (toward the north)",
+     "answers": [
+      "north"
+     ],
+     "explain": "North is an adverb: Walk north."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "Go two ___ and turn right.",
+     "answers": [
+      "blocks"
+     ],
+     "explain": "Plural after two."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "Turn right ___ Pine Avenue.",
+     "options": [
+      "on",
+      "in",
+      "at"
+     ],
+     "answer": 0,
+     "explain": "With streets: on."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "At the corner, ___ a right.",
+     "options": [
+      "make",
+      "do",
+      "put"
+     ],
+     "answer": 0,
+     "explain": "Make a right = turn right."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "Turn left in Main Street.",
+     "answers": [
+      "Turn left on Main Street."
+     ],
+     "explain": "With streets: on."
+    },
+    {
+     "id": "D8",
+     "type": "fix",
+     "prompt": "Walk to north for two blocks.",
+     "answers": [
+      "Walk north for two blocks."
+     ],
+     "explain": "No to before north."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: places and stores",
+   "instructions": "Complete with the word that fits.",
+   "topic": "v-places",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "I need cash. Is there an ___ near here?",
+     "answers": [
+      "ATM"
+     ],
+     "explain": "Cash machine: ATM."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "I need gas for my car. Is there a gas ___ near here?",
+     "answers": [
+      "station"
+     ],
+     "explain": "Gas station."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "Where can I buy a gold ring? At a ___ store.",
+     "answers": [
+      "jewelry"
+     ],
+     "explain": "Jewelry store."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "I need aspirin. Is there a ___ near here?",
+     "answers": [
+      "drugstore"
+     ],
+     "explain": "Drugstore = a store that sells medicine and everyday items."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "You can see fish and sharks at the ___.",
+     "answers": [
+      "aquarium"
+     ],
+     "explain": "Aquarium."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "Where can you buy a sofa?",
+     "options": [
+      "A furniture store",
+      "A shoe store",
+      "A deli"
+     ],
+     "answer": 0,
+     "explain": "Sofa: furniture store."
+    },
+    {
+     "id": "E7",
+     "type": "choice",
+     "prompt": "Where do you park your car inside a building?",
+     "options": [
+      "A parking garage",
+      "A stadium",
+      "A ferry terminal"
+     ],
+     "answer": 0,
+     "explain": "Parking garage."
+    },
+    {
+     "id": "E8",
+     "type": "gap",
+     "prompt": "I need the internet. Is there free ___ in this café?",
+     "answers": [
+      "Wi-Fi",
+      "wifi",
+      "wi fi"
+     ],
+     "explain": "Wi-Fi = wireless internet."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Checking what you heard",
+   "instructions": "Choose or complete to ask someone to repeat.",
+   "topic": "e-checking",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "A: The pharmacy is behind the park. B: Sorry, it's ___?",
+     "options": [
+      "where",
+      "who",
+      "why"
+     ],
+     "answer": 0,
+     "explain": "Echo: repeat and change the unclear part to where."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "A: There's a café on Oak Street. B: I'm sorry, a ___?",
+     "options": [
+      "what",
+      "when",
+      "do"
+     ],
+     "answer": 0,
+     "explain": "A what? is an echo question."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "A: Walk two blocks. B: Did you ___ two or twelve?",
+     "answers": [
+      "say"
+     ],
+     "explain": "Did you say…?"
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "A: The museum opens at ten. B: Excuse me? It opens at what ___?",
+     "answers": [
+      "time"
+     ],
+     "explain": "Echo: at what time?"
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "You didn't hear well. Which is the best thing to say?",
+     "options": [
+      "I'm sorry? Did you say left or right?",
+      "Say again!",
+      "No understand."
+     ],
+     "answer": 0,
+     "explain": "The polite and complete option."
+    },
+    {
+     "id": "F6",
+     "type": "fix",
+     "prompt": "Did you said fifteen or fifty?",
+     "answers": [
+      "Did you say fifteen or fifty?"
+     ],
+     "explain": "After did, use the base form."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to make a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Is",
+      "there",
+      "a",
+      "bank",
+      "near",
+      "here"
+     ],
+     "answers": [
+      "Is there a bank near here?"
+     ],
+     "explain": "Is there + a + noun."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Can",
+      "you",
+      "tell",
+      "me",
+      "how",
+      "to",
+      "get",
+      "to",
+      "the",
+      "museum"
+     ],
+     "answers": [
+      "Can you tell me how to get to the museum?"
+     ],
+     "explain": "Can you + base verb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Turn",
+      "left",
+      "on",
+      "Main",
+      "Street"
+     ],
+     "answers": [
+      "Turn left on Main Street."
+     ],
+     "explain": "Imperative + on + street."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "The",
+      "café",
+      "is",
+      "between",
+      "the",
+      "bank",
+      "and",
+      "the",
+      "drugstore"
+     ],
+     "answers": [
+      "The café is between the bank and the drugstore."
+     ],
+     "explain": "Between … and …"
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Are",
+      "there",
+      "any",
+      "cash",
+      "machines",
+      "around",
+      "here"
+     ],
+     "answers": [
+      "Are there any cash machines around here?"
+     ],
+     "explain": "Are there any + plural."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Could",
+      "you",
+      "give",
+      "me",
+      "directions",
+      "to",
+      "the",
+      "stadium"
+     ],
+     "answers": [
+      "Could you give me directions to the stadium?"
+     ],
+     "explain": "Could you + base verb."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "¿Hay una farmacia cerca de aquí?",
+     "answers": [
+      "Is there a drugstore near here?",
+      "Is there a drugstore around here?",
+      "Is there a pharmacy near here?",
+      "Is there a pharmacy around here?"
+     ],
+     "explain": "Is there + a + noun + near here."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "No hay cajeros automáticos en esta calle.",
+     "answers": [
+      "There aren't any cash machines on this street.",
+      "There are no cash machines on this street.",
+      "There aren't any ATMs on this street.",
+      "There are no ATMs on this street."
+     ],
+     "explain": "Negative plural: aren't any / no."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "El banco está junto a la cafetería.",
+     "answers": [
+      "The bank is next to the café.",
+      "The bank is next to the cafe.",
+      "The bank is next to the coffee shop.",
+      "The bank is next to the cafeteria."
+     ],
+     "explain": "Next to = beside."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "¿Podría darme indicaciones, por favor?",
+     "answers": [
+      "Could you give me directions, please?",
+      "Could you give me directions?",
+      "Could you please give me directions?"
+     ],
+     "explain": "Could you + base verb."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Camina dos cuadras hacia el norte y da vuelta a la derecha.",
+     "answers": [
+      "Walk north for two blocks and turn right.",
+      "Walk two blocks north and turn right.",
+      "Walk north two blocks and turn right.",
+      "Walk north for two blocks and make a right.",
+      "Walk two blocks north and make a right."
+     ],
+     "explain": "Imperatives; blocks in plural; north without to."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "¿Puedo ayudarle?",
+     "answers": [
+      "Can I help you?",
+      "Can I help?"
+     ],
+     "explain": "Can I + base verb."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on several topics from this unit (the last two review earlier units of this level).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "___ there any stores near here?",
+     "options": [
+      "Is",
+      "Are",
+      "Do"
+     ],
+     "answer": 1,
+     "explain": "Plural: Are there any…?"
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "The bank is ___ the corner of Main and Pine.",
+     "answers": [
+      "on"
+     ],
+     "explain": "On the corner of."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "Can you to tell me where the zoo is?",
+     "answers": [
+      "Can you tell me where the zoo is?"
+     ],
+     "explain": "Can + base verb, without to."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "Go ___ ahead for two blocks.",
+     "options": [
+      "straight",
+      "right",
+      "north"
+     ],
+     "answer": 0,
+     "explain": "Go straight ahead."
+    },
+    {
+     "id": "M5",
+     "type": "gap",
+     "prompt": "Excuse me? Did you ___ fifteen or fifty?",
+     "answers": [
+      "say"
+     ],
+     "explain": "Did you say…?"
+    },
+    {
+     "id": "M6",
+     "type": "translate",
+     "prompt": "Hay un café en la esquina.",
+     "answers": [
+      "There's a café on the corner.",
+      "There is a café on the corner.",
+      "There's a cafe on the corner.",
+      "There is a cafe on the corner."
+     ],
+     "explain": "There's + a + noun; on the corner."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "Turn right ___ Oak Street.",
+     "answers": [
+      "on"
+     ],
+     "explain": "With streets: on."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "___ you help me, please?",
+     "answers": [
+      "Could",
+      "Can"
+     ],
+     "explain": "To ask for help: Could / Can you…?"
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "He ___ (go) to the gym on Mondays. (review: present simple)",
+     "answers": [
+      "goes"
+     ],
+     "explain": "Simple present with he: goes."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "Right now, I ___ (look) for a bank. (review: present continuous)",
+     "answers": [
+      "am looking",
+      "'m looking"
+     ],
+     "explain": "Right now: am + verb-ing."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write directions (60–100 words) for getting from your home or your work to a nearby place (a store, the subway, a park). Use imperatives, blocks, turn right / left, a direction (north, south…) and at least two place expressions (next to, across from, on the corner of…).",
+   "targets": [
+    "imperative",
+    "prepositions of place",
+    "turn / go / walk",
+    "vocabulary for places"
+   ],
+   "checklist": [
+    "Start with the starting point",
+    "Imperatives without you (Turn…, Go…)",
+    "Number + blocks in plural",
+    "on + street name",
+    "Two place expressions (next to, across from…)",
+    "End with You can't miss it or something similar",
+    "Between 60 and 100 words"
+   ],
+   "model": "I'm at home on Hidalgo Street. To get to the pharmacy, walk north on Hidalgo Street for two blocks. Turn right on Juárez Street and go straight for one block. Then turn left on Madero Avenue. The pharmacy is on the corner of Madero and Morelos, next to a bakery and across from the bank. It is about ten minutes on foot. You can't miss it, because it has a big green sign."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a dialogue of 6 lines (60–100 words) between a tourist and a neighbor: the tourist asks if there is a place nearby (Is there…? / Are there any…?), asks for help with Could you…? and the neighbor answers with directions. The tourist uses an echo question.",
+   "targets": [
+    "Is there / Are there any",
+    "Could you / Can I",
+    "echo questions",
+    "directions"
+   ],
+   "checklist": [
+    "One question with Is there a… or Are there any…",
+    "One request with Could you… or Can you…",
+    "One offer with Can I help you?",
+    "One echo question or Did you say…?",
+    "Directions with the imperative",
+    "Between 60 and 100 words"
+   ],
+   "model": "Tourist: Excuse me. Is there a bank near here?\nNeighbor: Yes, there is. Can I help you?\nTourist: Yes, please. Could you tell me how to get there?\nNeighbor: Sure. Go straight for two blocks, and turn left on Juárez Street.\nTourist: Turn left on Juárez Street. Did you say two blocks?\nNeighbor: Yes. The bank is next to the park. It is big and white, so you can't miss it. Have a nice day!"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "A weekend in San Mateo",
+   "intro": "Read the San Mateo tourist guide and answer the questions.",
+   "paragraphs": [
+    "San Mateo is a small city with a lot to see. It is easy to get around because the center is small, and you can walk everywhere. There is a big market, a museum, an old church and a lovely park. There are also many cafés, and some of them have free Wi-Fi.",
+    "Here is a short walking tour. The tour begins at the Central Plaza. Walk north on Hidalgo Street for two blocks. The museum is on the corner of Hidalgo and Juárez, across from the bank. It is closed on Mondays. Then turn right on Juárez Street and go straight ahead for three blocks. The market is on the left, next to a big bakery. It is great for shopping: you can buy shoes, bags and jewelry.",
+    "After the market, continue east on Juárez Street. At the end of the street, you can see the park. There is a small lake in the park, and there are some boats. Is there a place to eat near the lake? Yes, there is one. It's behind the lake, between a deli and a drugstore. Finally, walk back to the plaza on Morelos Street. If you need help, don't be shy. People in San Mateo are friendly, and they love to give directions. Can you find your way?"
+   ],
+   "glossary": [
+    {
+     "en": "get around",
+     "def": "to move around, to get from place to place"
+    },
+    {
+     "en": "lovely",
+     "def": "beautiful, pretty"
+    },
+    {
+     "en": "tour",
+     "def": "trip or visit around a place with a guide"
+    },
+    {
+     "en": "block",
+     "def": "block (a section of a street between two streets)"
+    },
+    {
+     "en": "closed",
+     "def": "not open"
+    },
+    {
+     "en": "lake",
+     "def": "lake"
+    },
+    {
+     "en": "boats",
+     "def": "small boats"
+    },
+    {
+     "en": "shy",
+     "def": "shy, not comfortable talking to new people"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "You need a car to get around San Mateo.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "It is easy to get around, and you can walk everywhere."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Where is the museum?",
+     "options": [
+      "Next to the market",
+      "On the corner of Hidalgo and Juárez",
+      "Behind the lake"
+     ],
+     "answer": 1,
+     "explain": "The museum is on the corner of Hidalgo and Juárez."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "The museum is open on Mondays.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "It is closed on Mondays."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "The market is next to a big ___.",
+     "answers": [
+      "bakery"
+     ],
+     "explain": "The market is next to a big bakery."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "Which direction do you walk after the market?",
+     "options": [
+      "North",
+      "East",
+      "West"
+     ],
+     "answer": 1,
+     "explain": "Continue east on Juárez Street."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "The place to eat is between a deli and a ___.",
+     "answers": [
+      "drugstore"
+     ],
+     "explain": "It's between a deli and a drugstore."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "Some cafés in San Mateo have free Wi-Fi.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Some of them have free Wi-Fi."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Is there a drugstore near here?",
+   "intro": "Listen to a tourist ask for directions. You can repeat it.",
+   "lines": [
+    {
+     "who": "Tourist",
+     "voice": "airy",
+     "text": "Excuse me. Is there a drugstore near here?"
+    },
+    {
+     "who": "Local",
+     "voice": "buttery",
+     "text": "A drugstore? Yes, there is one on Hidalgo Street."
+    },
+    {
+     "who": "Tourist",
+     "voice": "airy",
+     "text": "Sorry, where?"
+    },
+    {
+     "who": "Local",
+     "voice": "buttery",
+     "text": "On Hidalgo Street, across from the bank."
+    },
+    {
+     "who": "Tourist",
+     "voice": "airy",
+     "text": "Could you tell me how to get there?"
+    },
+    {
+     "who": "Local",
+     "voice": "buttery",
+     "text": "Sure. Go straight ahead for two blocks. Then turn left."
+    },
+    {
+     "who": "Tourist",
+     "voice": "airy",
+     "text": "Did you say left or right?"
+    },
+    {
+     "who": "Local",
+     "voice": "buttery",
+     "text": "Left. It's next to a bakery, on the corner."
+    },
+    {
+     "who": "Tourist",
+     "voice": "airy",
+     "text": "Great. Are there any cash machines near there?"
+    },
+    {
+     "who": "Local",
+     "voice": "buttery",
+     "text": "Yes, there are two outside the bank."
+    },
+    {
+     "who": "Tourist",
+     "voice": "airy",
+     "text": "Thank you so much!"
+    },
+    {
+     "who": "Local",
+     "voice": "buttery",
+     "text": "You're welcome. Enjoy the city!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What is the tourist looking for?",
+     "options": [
+      "A bank",
+      "A drugstore",
+      "A bakery"
+     ],
+     "answer": 1,
+     "explain": "Is there a drugstore near here?"
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Where is the drugstore?",
+     "options": [
+      "Across from the bank",
+      "Next to the park",
+      "Behind the school"
+     ],
+     "answer": 0,
+     "explain": "On Hidalgo Street, across from the bank."
+    },
+    {
+     "id": "L3",
+     "type": "gap",
+     "prompt": "She has to go straight ahead for ___ blocks.",
+     "answers": [
+      "two",
+      "2"
+     ],
+     "explain": "Go straight ahead for two blocks."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "Which way does she turn?",
+     "options": [
+      "Left",
+      "Right",
+      "She doesn't turn"
+     ],
+     "answer": 0,
+     "explain": "Then turn left."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "How many cash machines are outside the bank?",
+     "options": [
+      "One",
+      "Two",
+      "None"
+     ],
+     "answer": 1,
+     "explain": "There are two outside the bank."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Is there a drugstore near here?",
+     "answers": [
+      "Is there a drugstore near here?"
+     ],
+     "explain": "Is there + a + singular noun."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Go straight ahead for two blocks.",
+     "answers": [
+      "Go straight ahead for two blocks."
+     ],
+     "explain": "Imperative; blocks in plural."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Did you say left or right?",
+     "answers": [
+      "Did you say left or right?"
+     ],
+     "explain": "Did you say…? to confirm."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "There are two cash machines outside the bank.",
+     "answers": [
+      "There are two cash machines outside the bank."
+     ],
+     "explain": "There are + plural."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Ask about places near you as if you were a tourist.",
+     "questions": [
+      "Is there a bank near here?",
+      "Are there any cash machines around here?",
+      "Is there a good place to eat?",
+      "Is there a parking lot near the museum?"
+     ],
+     "model": "Excuse me. Is there a drugstore near here? Are there any restaurants on this street? Is there a parking lot next to the museum?",
+     "checklist": [
+      "Is there a + singular",
+      "Are there any + plural",
+      "near here / around here",
+      "Short answers: Yes, there is. / No, there aren't."
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Give directions from your home to a nearby store.",
+     "questions": [
+      "How do I get to the supermarket?",
+      "Where is it exactly?",
+      "Is it far from here?",
+      "What can I see on the way?"
+     ],
+     "model": "Go straight ahead for two blocks. Turn left on Pine Street. Walk one more block. The supermarket is on the corner, next to a bakery. You can't miss it.",
+     "checklist": [
+      "Imperatives (Turn, Go, Walk)",
+      "Blocks in plural",
+      "on + street",
+      "next to / across from"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Practice offering help, asking for a favor and checking what you heard.",
+     "questions": [
+      "Can I help you?",
+      "Could you give me directions to the airport?",
+      "The airport is ten kilometers from here.",
+      "Sorry, did you say ten or twenty?"
+     ],
+     "model": "Can I help you? Could you give me directions to the stadium? Sure. Turn right at the corner. Sorry, did you say right or left? Right, and then go two blocks.",
+     "checklist": [
+      "Can I… / Could you…",
+      "Base verb after can / could",
+      "Did you say…?",
+      "Polite tone (please, sure, sorry)"
+     ]
+    }
+   ],
+   "repeat": [
+    "Is there a bank near here?",
+    "Are there any cash machines around here?",
+    "The café is next to the bank.",
+    "Could you give me directions, please?",
+    "Turn left on Main Street and go two blocks.",
+    "Sorry, did you say left or right?"
+   ]
+  }
+ }
+}

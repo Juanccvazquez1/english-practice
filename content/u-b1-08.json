@@ -1,0 +1,1753 @@
+{
+ "id": "u-b1-08",
+ "level": "B1",
+ "n": 8,
+ "title": "Family Matters",
+ "goals": [
+  "Talk about permissions and duties at home with let, make and have + object + base verb.",
+  "Say what you expect from other people with want, ask, tell, get and help + object + to + verb.",
+  "Remember your childhood with used to and would, and tell past habits apart from past situations.",
+  "Name members of the extended family and of blended families (stepmother, half sister, brother-in-law).",
+  "Give your opinion and show agreement: If you ask me…, It seems to me that…, Absolutely.",
+  "Write about the past and the present using time markers (back then, nowadays)."
+ ],
+ "learn": [
+  {
+   "id": "v-family",
+   "kind": "vocab",
+   "title": "Family members",
+   "words": [
+    {
+     "id": "w-fm-spouse",
+     "en": "spouse",
+     "es": "cónyuge",
+     "example": "Her spouse works in another city.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-fm-husband-wife",
+     "en": "husband / wife",
+     "es": "esposo / esposa",
+     "example": "My wife is a pediatrician and my husband's brother is a chef.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fm-fianc-fianc-e",
+     "en": "fiancé / fiancée",
+     "es": "prometido / prometida",
+     "example": "My sister and her fiancé are planning the wedding."
+    },
+    {
+     "id": "w-fm-only-child",
+     "en": "only child",
+     "es": "hijo único",
+     "example": "I'm an only child, so I had a lot of attention.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fm-sibling",
+     "en": "sibling",
+     "es": "hermano o hermana",
+     "example": "I have three siblings: two brothers and a sister.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-fm-nephew-niece",
+     "en": "nephew / niece",
+     "es": "sobrino / sobrina",
+     "example": "My niece is five and my nephew is two."
+    },
+    {
+     "id": "w-fm-cousin",
+     "en": "cousin",
+     "es": "primo/a",
+     "example": "My first cousin lives next door; my second cousin lives in Spain.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fm-brother-in-law-sister-in-law",
+     "en": "brother-in-law / sister-in-law",
+     "es": "cuñado / cuñada",
+     "example": "My brother-in-law plays in a band."
+    },
+    {
+     "id": "w-fm-great-grandmother",
+     "en": "great-grandmother",
+     "es": "bisabuela",
+     "example": "My great-grandmother lived to be 98."
+    },
+    {
+     "id": "w-fm-stepfather-stepmother",
+     "en": "stepfather / stepmother",
+     "es": "padrastro / madrastra",
+     "example": "My stepmother is only ten years older than me."
+    },
+    {
+     "id": "w-fm-stepbrother-stepsister",
+     "en": "stepbrother / stepsister",
+     "es": "hermanastro / hermanastra",
+     "example": "I get along well with my stepsister."
+    },
+    {
+     "id": "w-fm-half-brother-half-sister",
+     "en": "half brother / half sister",
+     "es": "medio hermano / media hermana",
+     "example": "My half sister has the same father as me.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fm-stepson-stepdaughter",
+     "en": "stepson / stepdaughter",
+     "es": "hijastro / hijastra",
+     "example": "She loves her stepdaughter like her own child."
+    },
+    {
+     "id": "w-fm-grandparents",
+     "en": "grandparents",
+     "es": "abuelos",
+     "example": "My grandparents live in a small town.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fm-in-laws",
+     "en": "in-laws",
+     "es": "familia política",
+     "example": "We have dinner with my in-laws on Sundays."
+    }
+   ]
+  },
+  {
+   "id": "v-family-life",
+   "kind": "vocab",
+   "title": "Family life and gripes",
+   "words": [
+    {
+     "id": "w-fl-clean-up-your-room",
+     "en": "clean up (your room)",
+     "es": "ordenar / limpiar (tu cuarto)",
+     "example": "My mother asks me to clean up my room every Saturday.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fl-do-chores",
+     "en": "do chores",
+     "es": "hacer las tareas del hogar",
+     "example": "In our house, everybody does chores."
+    },
+    {
+     "id": "w-fl-fight-over-the-remote",
+     "en": "fight over (the remote)",
+     "es": "pelear por (el control remoto)",
+     "example": "My brothers always fight over the remote.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-fl-go-over-the-speed-limit",
+     "en": "go over the speed limit",
+     "es": "pasarse del límite de velocidad",
+     "example": "My dad never goes over the speed limit.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-fl-gripe-about",
+     "en": "gripe (about)",
+     "es": "quejarse (de)",
+     "example": "Stop griping about your homework and just do it."
+    },
+    {
+     "id": "w-fl-have-a-gripe-about",
+     "en": "have a gripe (about)",
+     "es": "tener una queja (sobre)",
+     "example": "I have a gripe about the noise in my building.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fl-start-a-family",
+     "en": "start a family",
+     "es": "formar una familia",
+     "example": "They want to start a family in a few years.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fl-stay-out-late",
+     "en": "stay out late",
+     "es": "quedarse fuera hasta tarde",
+     "example": "My parents don't like it when I stay out late.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fl-get-married-get-divorced",
+     "en": "get married / get divorced",
+     "es": "casarse / divorciarse",
+     "example": "They got married in 2010 and got divorced in 2018.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-fl-tease-someone",
+     "en": "tease (someone)",
+     "es": "burlarse (de alguien), molestar",
+     "example": "My older brother used to tease me about my glasses.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-fl-come-over-for-dinner",
+     "en": "come over (for dinner)",
+     "es": "venir (a casa, a cenar)",
+     "example": "Why don't you come over for dinner on Friday?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fl-be-part-of-a-big-family",
+     "en": "be part of a big family",
+     "es": "ser parte de una familia grande",
+     "example": "I love being part of a big family.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fl-grow-up",
+     "en": "grow up",
+     "es": "crecer, criarse",
+     "example": "I grew up in a small town in Jalisco.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fl-pressure",
+     "en": "pressure",
+     "es": "presión",
+     "example": "Students today have a lot of pressure.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "g-let-make-have",
+   "kind": "grammar",
+   "title": "let, make and have + person + base verb",
+   "html": "<p>These three verbs are used to talk about permission, obligations and orders. After them comes <strong>object + base form of the verb</strong> (without <em>to</em>).</p><table><thead><tr><th>Verb</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td><strong>let</strong> + object + base</td><td>allow, permit</td><td>My parents won't <strong>let me stay</strong> out late.</td></tr><tr><td><strong>make</strong> + object + base</td><td>force, make someone do something</td><td>They <strong>make me come</strong> home before 10:00.</td></tr><tr><td><strong>have</strong> + object + base</td><td>ask for, arrange (more neutral)</td><td>I <strong>have them do</strong> their homework before dinner.</td></tr></tbody></table><p>Watch the meaning: <em>make</em> sounds like a strong obligation (<em>My boss makes us work on Saturdays</em>); <em>have</em> is softer and more normal (<em>I have my assistant send the emails</em>); <em>let</em> means giving permission. In the negative: <em>They don't let me…</em>. With object pronouns, use me, you, him, her, us, them.</p>",
+   "watch": [
+    {
+     "wrong": "My parents don't let me to stay out late.",
+     "right": "My parents don't let me stay out late.",
+     "why": "After let + object comes the base verb, without to."
+    },
+    {
+     "wrong": "My mom makes me to clean my room.",
+     "right": "My mom makes me clean my room.",
+     "why": "Make + object + base verb, without to."
+    },
+    {
+     "wrong": "She makes that I wash the dishes.",
+     "right": "She makes me wash the dishes.",
+     "why": "English doesn't use a subjunctive here: object + base verb."
+    },
+    {
+     "wrong": "I have my kids to do their homework.",
+     "right": "I have my kids do their homework.",
+     "why": "Have + object + base verb, without to."
+    }
+   ]
+  },
+  {
+   "id": "g-get-want-ask-tell",
+   "kind": "grammar",
+   "title": "get, want, ask, tell and help + person + to + verb",
+   "html": "<p>With these verbs, the object is followed by <strong>to + verb</strong>. It is a very different structure from Spanish, which uses a subjunctive clause after the verb.</p><table><thead><tr><th>Verb</th><th>Example</th></tr></thead><tbody><tr><td><strong>get</strong> + object + to + verb (persuade)</td><td>I can't <strong>get them to clean up</strong> their rooms.</td></tr><tr><td><strong>want</strong> + object + to + verb</td><td>My parents <strong>want me to study</strong> law.</td></tr><tr><td><strong>ask</strong> + object + to + verb</td><td>I have to <strong>ask them to drive</strong> me everywhere.</td></tr><tr><td><strong>tell</strong> + object + to + verb</td><td>My wife is always <strong>telling me to slow</strong> down.</td></tr><tr><td><strong>help</strong> + object + (to) + verb</td><td>My kids never <strong>help me (to) clean</strong> the house.</td></tr></tbody></table><p>With <em>help</em>, you can use the base verb or to + verb, but the form without <em>to</em> is more common. In the negative: <em>I told her not to worry.</em></p>",
+   "watch": [
+    {
+     "wrong": "My dad wants that I study law.",
+     "right": "My dad wants me to study law.",
+     "why": "Want + object + to + verb; there is no “want that + subject”."
+    },
+    {
+     "wrong": "She told me call her.",
+     "right": "She told me to call her.",
+     "why": "Tell + object + to + verb."
+    },
+    {
+     "wrong": "I asked him help me.",
+     "right": "I asked him to help me.",
+     "why": "Ask + object + to + verb."
+    },
+    {
+     "wrong": "I can't get my kids clean their rooms.",
+     "right": "I can't get my kids to clean their rooms.",
+     "why": "Get takes to + verb (unlike make)."
+    }
+   ]
+  },
+  {
+   "id": "v-rules",
+   "kind": "vocab",
+   "title": "Rules and discipline",
+   "words": [
+    {
+     "id": "w-rd-ask-someone-to-do-something",
+     "en": "ask someone to do something",
+     "es": "pedirle a alguien que haga algo",
+     "example": "I asked my brother to turn down the music.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rd-get-someone-to-do-something",
+     "en": "get someone to do something",
+     "es": "lograr que alguien haga algo",
+     "example": "I can't get my kids to go to bed early.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rd-have-someone-do-something",
+     "en": "have someone do something",
+     "es": "pedirle a alguien que haga algo",
+     "example": "She has her son wash the dishes.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rd-help-someone-do-something",
+     "en": "help someone do something",
+     "es": "ayudar a alguien a hacer algo",
+     "example": "My dad helps me study for exams.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rd-let-someone-do-something",
+     "en": "let someone do something",
+     "es": "dejar que alguien haga algo",
+     "example": "My parents let me use the car on weekends.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rd-make-someone-do-something",
+     "en": "make someone do something",
+     "es": "obligar a alguien a hacer algo",
+     "example": "My teacher made us rewrite the essay.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rd-tell-someone-to-do-something",
+     "en": "tell someone to do something",
+     "es": "decirle a alguien que haga algo",
+     "example": "My mother told me to call her every night.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rd-want-someone-to-do-something",
+     "en": "want someone to do something",
+     "es": "querer que alguien haga algo",
+     "example": "My boss wants us to arrive early.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rd-rule",
+     "en": "rule",
+     "es": "regla",
+     "example": "The most important rule in our house is: no phones at dinner.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rd-curfew",
+     "en": "curfew",
+     "es": "hora límite para llegar a casa",
+     "example": "My curfew was 11:00 p.m. when I was seventeen."
+    },
+    {
+     "id": "w-rd-allowance",
+     "en": "allowance",
+     "es": "mesada",
+     "example": "I used to get a small allowance every Friday.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-rd-strict",
+     "en": "strict",
+     "es": "estricto/a",
+     "example": "My grandfather was strict, but he was fair.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-rd-punish-punishment",
+     "en": "punish / punishment",
+     "es": "castigar / castigo",
+     "example": "They didn't punish us often, but we remember it.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "g-used-would",
+   "kind": "grammar",
+   "title": "used to and would: past habits and situations",
+   "html": "<p>To talk about things that happened regularly in the past and no longer happen (in Spanish, the imperfect tense), there are two options.</p><table><thead><tr><th>Use</th><th>Form</th><th>Example</th></tr></thead><tbody><tr><td>Past habits</td><td><strong>used to</strong> + base, or <strong>would</strong> / <strong>'d</strong> + base</td><td>I <strong>used to go</strong> / I'd go to my sister's house a lot.</td></tr><tr><td>Situations or states that are no longer true</td><td>only <strong>used to</strong> + base</td><td>My sister <strong>used to live</strong> next door.</td></tr><tr><td>Negative</td><td>didn't <strong>use to</strong> + base</td><td>I didn't use to like jazz.</td></tr><tr><td>Question</td><td>Did + subject + <strong>use to</strong> + base?</td><td>What kind of music did you use to like?</td></tr></tbody></table><p><strong>Key rule:</strong> <em>would</em> only works for repeated actions (<em>we would play cards every Sunday</em>), not for states such as <em>live, have, be, like</em>. In negatives and questions you write <em>use to</em> (without -d), because <em>did</em> already marks the past.</p><p>Don't confuse <em>used to + verb</em> (a past habit) with <em>be used to + -ing</em> (to be accustomed to something).</p>",
+   "watch": [
+    {
+     "wrong": "I use to play outside every day.",
+     "right": "I used to play outside every day.",
+     "why": "In the affirmative, write used to (with -d)."
+    },
+    {
+     "wrong": "She didn't used to eat meat.",
+     "right": "She didn't use to eat meat.",
+     "why": "After didn't comes use to, without -d."
+    },
+    {
+     "wrong": "When I was a kid, I would have a dog.",
+     "right": "When I was a kid, I used to have a dog.",
+     "why": "Have here is a state, not a repeated action: only used to."
+    },
+    {
+     "wrong": "We used to going to the beach.",
+     "right": "We used to go to the beach.",
+     "why": "Used to + base verb, not -ing."
+    }
+   ]
+  },
+  {
+   "id": "v-time",
+   "kind": "vocab",
+   "title": "Time expressions",
+   "words": [
+    {
+     "id": "w-tm-when-i-was-17",
+     "en": "when I was (17)",
+     "es": "cuando tenía (17)",
+     "example": "When I was 17, I got my first job."
+    },
+    {
+     "id": "w-tm-when-we-were-kids",
+     "en": "when we were kids",
+     "es": "cuando éramos niños",
+     "example": "When we were kids, we played in the street.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-tm-back-then",
+     "en": "back then",
+     "es": "en aquel entonces",
+     "example": "Back then, we didn't have cell phones.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-tm-in-those-days",
+     "en": "in those days",
+     "es": "en aquellos días",
+     "example": "In those days, people wrote letters.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-tm-at-that-time",
+     "en": "at that time",
+     "es": "en ese momento / época",
+     "example": "At that time, I lived with my grandparents.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-tm-as-a-child",
+     "en": "as a child",
+     "es": "de niño/a",
+     "example": "As a child, I was very shy.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-tm-nowadays",
+     "en": "nowadays",
+     "es": "hoy en día",
+     "example": "Nowadays, many families eat dinner in front of a screen.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-tm-these-days",
+     "en": "these days",
+     "es": "en estos días, hoy en día",
+     "example": "These days, I work from home.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-tm-today",
+     "en": "today",
+     "es": "hoy, actualmente",
+     "example": "Today, kids have a lot more homework.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-tm-now",
+     "en": "now",
+     "es": "ahora",
+     "example": "Now I understand my parents better.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-tm-a-lot-of-pressure",
+     "en": "a lot of pressure",
+     "es": "mucha presión",
+     "example": "Teenagers feel a lot of pressure at school.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-tm-sibling",
+     "en": "sibling",
+     "es": "hermano o hermana",
+     "example": "My siblings and I used to roller-skate together.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "g-time-markers",
+   "kind": "grammar",
+   "title": "Writing: time markers (past and present)",
+   "html": "<p>To contrast the past with the present when writing, use time markers and keep the correct verb tense.</p><table><thead><tr><th>For the past</th><th>For the present</th></tr></thead><tbody><tr><td>When we were kids, … / When I was younger, …<br>In those days, … / Back then, …</td><td>Today, … / Now, … / Nowadays, … / These days, …</td></tr><tr><td>When I was younger, my sister and I <strong>used to roller-skate</strong> a lot.</td><td>Nowadays, kids <strong>wear</strong> a lot of safety equipment.</td></tr></tbody></table><p>If the marker is at the <strong>start</strong>, write a comma after it. At the end you don't need one: <em>Kids wear helmets nowadays.</em> Combine the two tenses to contrast: <em>Back then, we didn't have safety equipment, but nowadays kids wear it.</em></p>",
+   "watch": [
+    {
+     "wrong": "Back then, I am very shy.",
+     "right": "Back then, I was very shy.",
+     "why": "Back then marks the past: was."
+    },
+    {
+     "wrong": "Nowadays, we used to talk by video call.",
+     "right": "Nowadays, we talk by video call.",
+     "why": "Nowadays marks the present: simple present."
+    },
+    {
+     "wrong": "When I was a kid I have a bike.",
+     "right": "When I was a kid, I had a bike.",
+     "why": "After when I was… comes a past verb (had / used to have)."
+    }
+   ]
+  },
+  {
+   "id": "s-opinions",
+   "kind": "strategy",
+   "title": "Strategy: giving opinions and showing agreement",
+   "html": "<p><strong>To give an opinion:</strong></p><ul><li><strong>I think …</strong> — I think people should get more time off.</li><li><strong>I don't think …</strong> — I don't think we get enough time together. (In English, the negative goes on think, not on the second verb.)</li><li><strong>It seems like …</strong> — It seems like we don't get enough time to relax.</li><li><strong>It seems to me (that) …</strong> — It seems to me that people don't spend enough time with their families.</li><li><strong>If you ask me, …</strong> — If you ask me, we all work too much these days.</li></ul><p><strong>To show agreement:</strong> Absolutely. / Definitely. / Exactly. / You're right. / That's true. / That's for sure. / I agree (with you). / (Oh,) yeah. / (Oh,) I know.</p><p>A: If you ask me, we all work too much these days. B: Absolutely.</p>"
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>My parents won't let me stay out late.</strong> — talking about permission and limits.</li><li><strong>They make me come home before 10:00.</strong> — talking about obligations.</li><li><strong>I can't get them to clean up their rooms.</strong> — family frustration.</li><li><strong>My parents want me to study law.</strong> — other people's expectations.</li><li><strong>I used to … / We'd … when we were kids.</strong> — remembering childhood.</li><li><strong>If you ask me, … / It seems to me that …</strong> — giving your opinion.</li><li><strong>Absolutely. / That's for sure. / I know.</strong> — showing agreement.</li><li><strong>I have a gripe about …</strong> — complaining about something.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "let, make and have",
+   "instructions": "Complete or choose. After let, make and have comes the base verb.",
+   "topic": "g-let-make-have",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "My parents never let me ___ out late. (stay)",
+     "answers": [
+      "stay"
+     ],
+     "explain": "Let + object + base verb."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Mr. Ruiz makes his students ___ a lot of homework. (do)",
+     "answers": [
+      "do"
+     ],
+     "explain": "Make + object + base verb."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "I have my son ___ the dishes after dinner. (wash)",
+     "answers": [
+      "wash"
+     ],
+     "explain": "Have + object + base verb."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "My mom made me ___ my room.",
+     "options": [
+      "clean",
+      "to clean",
+      "cleaning"
+     ],
+     "answer": 0,
+     "explain": "Make + object + base verb, without to."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "They don't let us ___ TV on school nights.",
+     "options": [
+      "watch",
+      "to watch",
+      "watching"
+     ],
+     "answer": 0,
+     "explain": "Let + object + base verb."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "Our teacher lets us ___ our phones in class. (use)",
+     "answers": [
+      "use"
+     ],
+     "explain": "Let + object + base verb."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "My boss makes me to work late.",
+     "answers": [
+      "My boss makes me work late."
+     ],
+     "explain": "Make + object + base verb, without to."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Her",
+      "parents",
+      "let",
+      "her",
+      "go",
+      "to",
+      "the",
+      "concert"
+     ],
+     "answers": [
+      "Her parents let her go to the concert."
+     ],
+     "explain": "Let + object + base verb."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "get, want, ask, tell and help",
+   "instructions": "Complete or correct. After get, want, ask and tell comes object + to + verb.",
+   "topic": "g-get-want-ask-tell",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "My parents want me ___ a doctor. (be)",
+     "answers": [
+      "to be"
+     ],
+     "explain": "Want + object + to + verb."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "I asked my neighbor ___ the music down. (turn)",
+     "answers": [
+      "to turn"
+     ],
+     "explain": "Ask + object + to + verb."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "Can you help me ___ this box? (carry)",
+     "answers": [
+      "carry",
+      "to carry"
+     ],
+     "explain": "Help + object + base verb (or to + verb)."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "My wife is always telling me ___ down. (slow)",
+     "answers": [
+      "to slow"
+     ],
+     "explain": "Tell + object + to + verb."
+    },
+    {
+     "id": "B5",
+     "type": "gap",
+     "prompt": "I can't get my kids ___ their rooms. (clean)",
+     "answers": [
+      "to clean"
+     ],
+     "explain": "Get + object + to + verb."
+    },
+    {
+     "id": "B6",
+     "type": "choice",
+     "prompt": "My dad wants ___ study law.",
+     "options": [
+      "me to",
+      "that I",
+      "me"
+     ],
+     "answer": 0,
+     "explain": "Want + object + to + verb."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "I want that you call me tonight.",
+     "answers": [
+      "I want you to call me tonight."
+     ],
+     "explain": "Want + object + to + verb; “want that + subject” is not used."
+    },
+    {
+     "id": "B8",
+     "type": "fix",
+     "prompt": "She told me call her.",
+     "answers": [
+      "She told me to call her."
+     ],
+     "explain": "Tell + object + to + verb."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "used to and would",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-used-would",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "My sister ___ live next door, but now she lives in Monterrey.",
+     "answers": [
+      "used to"
+     ],
+     "explain": "A state that is no longer true: only used to."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "What kind of music did you ___ like?",
+     "answers": [
+      "use to"
+     ],
+     "explain": "After did, write use to."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "We didn't ___ have a car when I was little.",
+     "answers": [
+      "use to"
+     ],
+     "explain": "Negative: didn't use to."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "Which sentence is NOT correct?",
+     "options": [
+      "I used to have a big dog.",
+      "I would have a big dog when I was a kid.",
+      "I would visit my aunt every summer."
+     ],
+     "answer": 1,
+     "explain": "Have is a state: would doesn't work."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "I use to go to my grandma's house every weekend.",
+     "answers": [
+      "I used to go to my grandma's house every weekend."
+     ],
+     "explain": "In the affirmative, write used to."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "She didn't used to eat meat.",
+     "answers": [
+      "She didn't use to eat meat."
+     ],
+     "explain": "After didn't comes use to."
+    },
+    {
+     "id": "C7",
+     "type": "gap",
+     "prompt": "Every Sunday we ___ visit my grandparents and eat together.",
+     "answers": [
+      "would",
+      "used to",
+      "'d"
+     ],
+     "explain": "Repeated action: would or used to."
+    },
+    {
+     "id": "C8",
+     "type": "choice",
+     "prompt": "We ___ in a small apartment, but now we have a house.",
+     "options": [
+      "would live",
+      "used to live",
+      "use to live"
+     ],
+     "answer": 1,
+     "explain": "State that is no longer true: used to live."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Opinions and agreement",
+   "instructions": "Complete with the missing word.",
+   "topic": "s-opinions",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "If you ___ me, kids need more free time.",
+     "answers": [
+      "ask"
+     ],
+     "explain": "If you ask me, …"
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "I don't ___ people spend enough time with their families.",
+     "answers": [
+      "think"
+     ],
+     "explain": "I don't think + clause."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "It ___ like we don't get enough sleep these days.",
+     "answers": [
+      "seems"
+     ],
+     "explain": "It seems like …"
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "It seems ___ me that parents are very busy.",
+     "answers": [
+      "to"
+     ],
+     "explain": "It seems to me that …"
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "A: If you ask me, we work too much these days. B: ___",
+     "options": [
+      "Absolutely.",
+      "Of course not.",
+      "I don't agree."
+     ],
+     "answer": 0,
+     "explain": "Absolutely shows agreement."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "Which one does NOT show agreement?",
+     "options": [
+      "You're right.",
+      "Definitely.",
+      "I don't think so."
+     ],
+     "answer": 2,
+     "explain": "I don't think so = I don't agree."
+    },
+    {
+     "id": "D7",
+     "type": "gap",
+     "prompt": "A: Kids today have a lot of pressure. B: Oh, I ___.",
+     "answers": [
+      "know"
+     ],
+     "explain": "Oh, I know = I agree."
+    },
+    {
+     "id": "D8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "It",
+      "seems",
+      "to",
+      "me",
+      "that",
+      "people",
+      "work",
+      "too",
+      "much"
+     ],
+     "answers": [
+      "It seems to me that people work too much."
+     ],
+     "explain": "It seems to me that + clause."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Family vocabulary",
+   "instructions": "Write the word that matches.",
+   "topic": "v-family",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "My mother's brother is my ___.",
+     "answers": [
+      "uncle"
+     ],
+     "explain": "Your mom's brother: uncle."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "My sister's husband is my ___-in-law.",
+     "answers": [
+      "brother"
+     ],
+     "explain": "Brother-in-law: a spouse's brother, or your sister's husband."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "The son of my aunt is my ___.",
+     "answers": [
+      "cousin"
+     ],
+     "explain": "Cousin: your aunt's or uncle's child."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "My father's second wife is my ___.",
+     "answers": [
+      "stepmother"
+     ],
+     "explain": "Stepmother: your father's wife (not your mother)."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "A person with no brothers or sisters is an ___ child.",
+     "answers": [
+      "only"
+     ],
+     "explain": "Only child: a child with no brothers or sisters."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "My brother's daughter is my ___.",
+     "answers": [
+      "niece"
+     ],
+     "explain": "Niece: your brother's or sister's daughter."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "Brothers and sisters are also called ___.",
+     "answers": [
+      "siblings"
+     ],
+     "explain": "Siblings: brothers and sisters."
+    },
+    {
+     "id": "E8",
+     "type": "gap",
+     "prompt": "My husband or wife is my ___.",
+     "answers": [
+      "spouse"
+     ],
+     "explain": "Spouse: husband or wife."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Time markers and verb tenses",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-time-markers",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "___ we were kids, we played in the street every afternoon.",
+     "answers": [
+      "When"
+     ],
+     "explain": "When we were kids = when we were children."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "Back ___, we didn't have cell phones.",
+     "answers": [
+      "then"
+     ],
+     "explain": "Back then = at that time in the past."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "In those ___, people wrote letters.",
+     "answers": [
+      "days"
+     ],
+     "explain": "In those days = at that time."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "___ people spend hours on their phones.",
+     "answers": [
+      "Nowadays",
+      "These days",
+      "Today"
+     ],
+     "explain": "A present time marker at the start of the sentence."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "When I was young, we ___ a computer at home.",
+     "options": [
+      "didn't have",
+      "don't have",
+      "haven't"
+     ],
+     "answer": 0,
+     "explain": "Past time marker: simple past."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "Nowadays, kids ___ a lot of homework.",
+     "options": [
+      "had",
+      "have",
+      "used to have"
+     ],
+     "answer": 1,
+     "explain": "Nowadays marks the present."
+    },
+    {
+     "id": "F7",
+     "type": "fix",
+     "prompt": "Back then, I am very shy.",
+     "answers": [
+      "Back then, I was very shy."
+     ],
+     "explain": "Back then marks the past: was."
+    },
+    {
+     "id": "F8",
+     "type": "fix",
+     "prompt": "Nowadays, we used to talk by video call.",
+     "answers": [
+      "Nowadays, we talk by video call."
+     ],
+     "explain": "Nowadays marks the present: simple present."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to make a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "My",
+      "parents",
+      "let",
+      "me",
+      "stay",
+      "out",
+      "late"
+     ],
+     "answers": [
+      "My parents let me stay out late."
+     ],
+     "explain": "Let + object + base verb."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "She",
+      "makes",
+      "me",
+      "clean",
+      "my",
+      "room"
+     ],
+     "answers": [
+      "She makes me clean my room."
+     ],
+     "explain": "Make + object + base verb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I",
+      "used",
+      "to",
+      "go",
+      "to",
+      "my",
+      "grandmother's",
+      "house"
+     ],
+     "answers": [
+      "I used to go to my grandmother's house."
+     ],
+     "explain": "Used to + base verb."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "My",
+      "dad",
+      "wants",
+      "me",
+      "to",
+      "study",
+      "law"
+     ],
+     "answers": [
+      "My dad wants me to study law."
+     ],
+     "explain": "Want + object + to + verb."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "What",
+      "kind",
+      "of",
+      "music",
+      "did",
+      "you",
+      "use",
+      "to",
+      "like"
+     ],
+     "answers": [
+      "What kind of music did you use to like?"
+     ],
+     "explain": "Question: did + subject + use to."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "If",
+      "you",
+      "ask",
+      "me",
+      "we",
+      "all",
+      "work",
+      "too",
+      "much",
+      "these",
+      "days"
+     ],
+     "answers": [
+      "If you ask me, we all work too much these days."
+     ],
+     "explain": "Opinion with “If you ask me”."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Mis padres no me dejan quedarme fuera hasta tarde.",
+     "answers": [
+      "My parents don't let me stay out late.",
+      "My parents won't let me stay out late."
+     ],
+     "explain": "Let + object + base verb."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Mi mamá me hace limpiar mi cuarto.",
+     "answers": [
+      "My mom makes me clean my room.",
+      "My mother makes me clean my room.",
+      "My mom makes me clean up my room.",
+      "My mother makes me clean up my room."
+     ],
+     "explain": "Make + object + base verb."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Mi papá quiere que yo estudie derecho.",
+     "answers": [
+      "My dad wants me to study law.",
+      "My father wants me to study law."
+     ],
+     "explain": "Want + object + to + verb."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "De niño, solía visitar a mi abuela cada domingo.",
+     "answers": [
+      "When I was a kid, I used to visit my grandmother every Sunday.",
+      "When I was a child, I used to visit my grandmother every Sunday.",
+      "When I was a kid, I would visit my grandmother every Sunday.",
+      "As a kid, I used to visit my grandmother every Sunday."
+     ],
+     "explain": "Past habit: used to or would."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Antes no me gustaba el jazz.",
+     "answers": [
+      "I didn't use to like jazz.",
+      "I did not use to like jazz."
+     ],
+     "explain": "Negative with use to (without -d)."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Creo que la gente trabaja demasiado hoy en día.",
+     "answers": [
+      "I think people work too much these days.",
+      "I think people work too much nowadays.",
+      "I think people work too much today."
+     ],
+     "explain": "I think + clause; present time marker."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics in the unit (includes two review items from Unit 7).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "My mom ___ me clean the kitchen every Saturday.",
+     "options": [
+      "makes",
+      "wants",
+      "tells"
+     ],
+     "answer": 0,
+     "explain": "Without to after the object: make."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "My parents want me ___ home early. (come)",
+     "answers": [
+      "to come"
+     ],
+     "explain": "Want + object + to + verb."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "I didn't used to like vegetables.",
+     "answers": [
+      "I didn't use to like vegetables."
+     ],
+     "explain": "After didn't comes use to."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Hoy en día, los niños tienen mucha presión.",
+     "answers": [
+      "Nowadays, kids have a lot of pressure.",
+      "Nowadays, children have a lot of pressure.",
+      "These days, kids have a lot of pressure.",
+      "Kids have a lot of pressure nowadays.",
+      "Kids have a lot of pressure these days."
+     ],
+     "explain": "Present time marker + simple present."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "She let me to go.",
+      "She lets me go.",
+      "She lets me going."
+     ],
+     "answer": 1,
+     "explain": "Let + object + base verb."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "A: It's been a great weekend. B: It really ___.",
+     "answers": [
+      "has"
+     ],
+     "explain": "Present perfect: It really has. (review of Unit 7)"
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "My grandfather is ___ person in our family. (old) (review Unit 7)",
+     "answers": [
+      "the oldest"
+     ],
+     "explain": "Short superlative: the oldest."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "How ___ is your garden? — It's 20 meters long. (review Unit 7)",
+     "answers": [
+      "long"
+     ],
+     "explain": "Length: How long."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a text (120 to 180 words) about your childhood: what your family was like, what you used to do (used to / would), and what rules there were at home (let, make, want). Opening example: When I was a kid, I used to live with my grandparents…",
+   "targets": [
+    "used to / would",
+    "let, make + base verb",
+    "want / ask / tell + to + verb",
+    "past time markers",
+    "family vocabulary"
+   ],
+   "checklist": [
+    "Between 120 and 180 words",
+    "At least 3 sentences with used to or would (no mistakes with -d or -ing)",
+    "One sentence with let or make + base verb",
+    "One sentence with want / ask / tell + object + to + verb",
+    "Markers such as when I was…, back then, in those days, followed by a comma",
+    "At least 3 family words"
+   ],
+   "model": "When I was a kid, I used to live with my grandparents in a small town. My parents worked in the city, so they only came home on weekends. My grandmother used to cook delicious meals, and my grandfather would tell me stories every night before bed. Back then, we didn't have a computer, so I would play outside with my cousins all afternoon.\n\nMy grandparents were strict, but they were also kind. They let me watch cartoons after I did my homework. They didn't let me stay up late, and they made me clean my room every Saturday. My grandmother always wanted me to eat all my vegetables, and my grandfather told me to be polite to everyone. In those days, I thought their rules were boring, but now I understand them.\n\nI also had a little brother and an older sister. My sister used to help me with my homework, and my brother would follow me everywhere. In summer, my mother used to take us to the beach."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write an opinion text (120 to 180 words): do children today have more or fewer rules and pressure than in the past? Compare the past with the present, give at least three opinions, and mention one point that another person would agree with. Opening example: If you ask me, kids today have a lot of pressure…",
+   "targets": [
+    "expressions for giving opinions",
+    "expressions of agreement",
+    "past / present markers",
+    "used to"
+   ],
+   "checklist": [
+    "Between 120 and 180 words",
+    "If you ask me / It seems to me that / I think / I don't think",
+    "Past–present contrast with back then and nowadays",
+    "One agreement expression (Absolutely, That's for sure)",
+    "One example with let / make / have",
+    "Verbs in the correct tense after each marker"
+   ],
+   "model": "If you ask me, kids today have a lot of pressure. Back then, when I was a child, we used to play in the street until it was dark, and our parents didn't worry much. Nowadays, children have more homework and fewer free hours than in the past. It seems to me that many of them are always tired.\n\nI don't think that technology is all bad, but I think it makes children's lives more stressful. In the past, our parents didn't let us watch TV before we finished our homework, and they made us go to bed at eight o'clock. Today, parents let their kids use phones and tablets for hours. Some parents also have very high expectations, so they make their children take extra classes every afternoon.\n\nI think the rules of the past were stricter, but they were also simpler. Nowadays, kids have to be good at school, sports and music at the same time. A friend of mine says, \"Children should have more time to play.\" Absolutely! That's for sure."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Summers at my grandmother's house",
+   "intro": "Read Rosa's text about her childhood and answer the questions.",
+   "paragraphs": [
+    "When I was a kid, I used to spend every summer at my grandmother's house in a small town near Guadalajara. My parents worked a lot, so my brother Pablo, my cousin Lucía and I stayed with her for two months. Back then, I thought it was the best place in the world, and now I think so, too.",
+    "My grandmother was strict, but she was also very kind. She made us get up at seven, and she made us clean our rooms before breakfast. She didn't let us watch TV until the afternoon. Her rule was simple: first chores, then fun. I used to gripe about it all the time, and Lucía and Pablo would fight over the remote every night.",
+    "Every morning, my grandfather would ask us to help him in the garden. We would water the plants and pick fruit, and he never told us to hurry. Sometimes my grandmother got us to help her make tortillas, and she would tell stories about when she was young. In those days, she said, there was no electricity in her village, and children walked two hours to school.",
+    "Nowadays, things are very different. Kids have cell phones and tablets, and many of them don't spend much time outside. If you ask me, children today have a lot of pressure and too little free time. My nephew, for example, has classes every afternoon. It seems to me that families don't eat together as much as they used to. My mother agrees. \"That's for sure,\" she says.",
+    "Last year, my grandmother turned ninety. The whole family came over for dinner, even my uncle from Chicago and my sister-in-law with her twins. We cooked her recipes and looked at old photos. I really want my own kids to have the same memories someday. I'm going to ask them to spend a summer there, and I hope my grandmother will let them help in the kitchen."
+   ],
+   "glossary": [
+    {
+     "en": "strict",
+     "def": "following rules very closely and not allowing much freedom"
+    },
+    {
+     "en": "chores",
+     "def": "small daily jobs around the house, such as cleaning or cooking"
+    },
+    {
+     "en": "remote",
+     "def": "a device you use to change the channel or control a TV from a distance"
+    },
+    {
+     "en": "water the plants",
+     "def": "to give plants water so they stay alive"
+    },
+    {
+     "en": "pick fruit",
+     "def": "to take fruit from a tree or plant"
+    },
+    {
+     "en": "village",
+     "def": "a small town in the countryside"
+    },
+    {
+     "en": "twins",
+     "def": "two children born at the same time to the same mother"
+    },
+    {
+     "en": "memories",
+     "def": "things you remember from the past"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Rosa stayed with her grandmother for two weeks every summer.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Fueron dos meses (for two months)."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Their grandmother let them watch TV in the morning.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "She didn't let us watch TV until the afternoon."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What did their grandmother make them do before breakfast?",
+     "options": [
+      "Water the plants",
+      "Clean their rooms",
+      "Make tortillas"
+     ],
+     "answer": 1,
+     "explain": "She made us clean our rooms before breakfast."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "In those days, children walked ___ hours to school.",
+     "answers": [
+      "two",
+      "2"
+     ],
+     "explain": "Children walked two hours to school."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "What is Rosa's opinion about children today?",
+     "options": [
+      "They have too much free time",
+      "They have a lot of pressure and little free time",
+      "They spend too much time outside"
+     ],
+     "answer": 1,
+     "explain": "If you ask me, children today have a lot of pressure and too little free time."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Last year, her grandmother turned ___.",
+     "answers": [
+      "ninety",
+      "90"
+     ],
+     "explain": "Turned ninety."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "What does Rosa want her own kids to do someday?",
+     "options": [
+      "Live in Chicago",
+      "Spend a summer at her grandmother's house",
+      "Cook for the whole family"
+     ],
+     "answer": 1,
+     "explain": "I'm going to ask them to spend a summer there."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Remembering childhood rules",
+   "intro": "Listen to the conversation between Carla and her brother Dan. You can replay it.",
+   "lines": [
+    {
+     "who": "Carla",
+     "voice": "airy",
+     "text": "Do you remember when we were kids? Mom used to make us do the dishes every night."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Of course I do. And Dad wouldn't let us watch TV before we finished our homework."
+    },
+    {
+     "who": "Carla",
+     "voice": "airy",
+     "text": "That's for sure. You used to gripe about it all the time."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "I did! But now I do the same with my kids. I make them clean up their rooms on Saturdays."
+    },
+    {
+     "who": "Carla",
+     "voice": "airy",
+     "text": "Really? Can you get them to do it?"
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Not always. My daughter wants me to let her stay out late, but I don't let her."
+    },
+    {
+     "who": "Carla",
+     "voice": "airy",
+     "text": "If you ask me, you're doing the right thing. Kids today have too much freedom."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "I agree. It seems to me that rules are good for them."
+    },
+    {
+     "who": "Carla",
+     "voice": "airy",
+     "text": "Absolutely. By the way, Mom wants us to come over for dinner on Sunday."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Sure. I'll ask my wife to bring dessert."
+    },
+    {
+     "who": "Carla",
+     "voice": "airy",
+     "text": "Perfect. Mom will love it."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "She sure will."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What did their mom use to make them do every night?",
+     "options": [
+      "Do the dishes",
+      "Clean their rooms",
+      "Go to bed early"
+     ],
+     "answer": 0,
+     "explain": "Mom used to make us do the dishes every night."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Their dad let them watch TV before they finished their homework.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Dad wouldn't let us watch TV before we finished our homework."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What does Dan make his kids do on Saturdays?",
+     "options": [
+      "Cook dinner",
+      "Clean up their rooms",
+      "Do the dishes"
+     ],
+     "answer": 1,
+     "explain": "I make them clean up their rooms on Saturdays."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "Dan's daughter wants him to let her stay out ___.",
+     "answers": [
+      "late"
+     ],
+     "explain": "She wants to stay out late, but he doesn't let her."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What is Carla's opinion?",
+     "options": [
+      "Kids have too much freedom",
+      "Kids have too many rules",
+      "Kids don't do chores"
+     ],
+     "answer": 0,
+     "explain": "If you ask me… Kids today have too much freedom."
+    },
+    {
+     "id": "L6",
+     "type": "gap",
+     "prompt": "Their mom wants them to come over for dinner on ___.",
+     "answers": [
+      "Sunday"
+     ],
+     "explain": "Mom wants us to come over for dinner on Sunday."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Mom used to make us do the dishes every night.",
+     "answers": [
+      "Mom used to make us do the dishes every night."
+     ],
+     "explain": "Used to + base verb; make + object + base verb."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Dad wouldn't let us watch TV before we finished our homework.",
+     "answers": [
+      "Dad wouldn't let us watch TV before we finished our homework.",
+      "Dad would not let us watch TV before we finished our homework."
+     ],
+     "explain": "Let + objeto + verbo base."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "I make them clean up their rooms on Saturdays.",
+     "answers": [
+      "I make them clean up their rooms on Saturdays."
+     ],
+     "explain": "Make + objeto + verbo base."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "If you ask me, you're doing the right thing.",
+     "answers": [
+      "If you ask me, you're doing the right thing.",
+      "If you ask me, you are doing the right thing."
+     ],
+     "explain": "Expression for giving an opinion: If you ask me."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about the rules in your home when you were a child or a teenager.",
+     "questions": [
+      "What rules did your parents have?",
+      "What did your parents let you do?",
+      "What did they make you do?",
+      "Did you use to gripe about the rules?"
+     ],
+     "model": "My parents were strict. They didn't let me stay out late, and they made me clean my room every Saturday. They wanted me to study hard. I used to gripe about it, but now I understand.",
+     "checklist": [
+      "let / make + object + base verb",
+      "want + object + to + verb",
+      "used to + base verb",
+      "Past time markers"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Tell what your childhood was like and how it is today.",
+     "questions": [
+      "Where did you grow up?",
+      "What did you use to do when you were a kid?",
+      "Who did you spend time with?",
+      "How is your life different nowadays?"
+     ],
+     "model": "I grew up in Puebla. When I was a kid, I used to play soccer in the street with my cousins. We would also visit my grandparents on Sundays. Nowadays, I work a lot, and I don't have much free time.",
+     "checklist": [
+      "used to / would for habits",
+      "When I was a kid / back then",
+      "Nowadays / these days with the simple present",
+      "Family vocabulary"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Give your opinion on family life today and react when you agree.",
+     "questions": [
+      "Do families spend enough time together these days?",
+      "Do kids have too much pressure?",
+      "Who has more rules, parents or kids?",
+      "Do you agree with your partner?"
+     ],
+     "model": "If you ask me, families don't spend enough time together these days. It seems to me that everybody is too busy. I don't think kids have too much freedom. Absolutely, I agree with you.",
+     "checklist": [
+      "If you ask me / It seems to me that",
+      "I think / I don't think + clause",
+      "Agreement expressions (Absolutely, That's for sure)",
+      "Present time markers"
+     ]
+    }
+   ],
+   "repeat": [
+    "My parents won't let me stay out late.",
+    "They make me come home before ten.",
+    "I can't get my kids to clean up their rooms.",
+    "We used to go to my grandmother's house a lot.",
+    "If you ask me, we all work too much these days.",
+    "That's for sure."
+   ]
+  }
+ }
+}

@@ -1,0 +1,1650 @@
+{
+ "id": "u-b2-03",
+ "level": "B2",
+ "n": 3,
+ "title": "Plugged in",
+ "goals": [
+  "Ask more polite indirect questions: Do you know where the charger is? / I wonder if it works.",
+  "Use separable phrasal verbs with devices: turn it on, plug it in, set it up.",
+  "Ask for and give instructions with how to / where to / what to + verb.",
+  "Talk about technology, equipment problems and online safety (identity theft, scams).",
+  "Give a different opinion politely: I know what you mean, but… / On the other hand…",
+  "Write a short article about technology: plan ideas, choose them and revise."
+ ],
+ "learn": [
+  {
+   "id": "g-embedded",
+   "kind": "grammar",
+   "title": "Questions inside questions and statements (embedded questions)",
+   "html": "<p>An <strong>indirect question</strong> is a question that goes inside another sentence. It is used to sound more polite or when you don't know something: <em>Do you know…?</em>, <em>Can you tell me…?</em>, <em>I wonder…</em>, <em>I have no idea…</em>, <em>I don't know…</em>.</p><p><strong>Key rule:</strong> inside the indirect question the order is that of a statement (subject + verb). There is no inversion and <strong>do / does / did disappear</strong>; the verb returns to its normal form and the tense is kept.</p><table><thead><tr><th>Direct question</th><th>Indirect question</th></tr></thead><tbody><tr><td>What <strong>is</strong> the problem?</td><td>Do you know what the problem <strong>is</strong>?</td></tr><tr><td>Where <strong>did</strong> you <strong>buy</strong> it?</td><td>Can you tell me where you <strong>bought</strong> it?</td></tr><tr><td>What time <strong>does</strong> the store <strong>open</strong>?</td><td>I wonder what time the store <strong>opens</strong>.</td></tr><tr><td><strong>Is</strong> the battery charged?</td><td>Do you know <strong>if</strong> the battery <strong>is</strong> charged?</td></tr></tbody></table><ul><li>With yes/no questions use <strong>if</strong> (also <em>whether</em>): <em>I wonder if/whether it works.</em></li><li>If the main sentence is a question (<em>Do you know…?</em>) it ends with «?». If it is a statement (<em>I don't know…</em>) it ends with a period.</li><li>With subject questions the order does not change: <em>Who called?</em> → <em>I don't know who called.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "Do you know where is the charger?",
+     "right": "Do you know where the charger is?",
+     "why": "In the indirect question the verb goes after the subject."
+    },
+    {
+     "wrong": "I wonder what time does the store close.",
+     "right": "I wonder what time the store closes.",
+     "why": "No do/does: the verb returns to its normal form (closes)."
+    },
+    {
+     "wrong": "Do you know the battery is charged?",
+     "right": "Do you know if the battery is charged?",
+     "why": "A yes/no question needs if or whether."
+    },
+    {
+     "wrong": "I don't know why did the screen go black.",
+     "right": "I don't know why the screen went black.",
+     "why": "No did: the past is in the verb (went)."
+    }
+   ]
+  },
+  {
+   "id": "v-tech",
+   "kind": "vocab",
+   "title": "Tech and gadgets (technology and devices)",
+   "words": [
+    {
+     "id": "w-laptop",
+     "en": "laptop",
+     "es": "computadora portátil",
+     "example": "I take my laptop to the café to work.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-tablet",
+     "en": "tablet",
+     "es": "tableta",
+     "example": "She reads the news on her tablet every morning.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-app",
+     "en": "app",
+     "es": "aplicación",
+     "example": "This app tells me when the bus is coming.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-battery",
+     "en": "battery",
+     "es": "batería, pila",
+     "example": "The battery lasts about ten hours.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-charged",
+     "en": "charged",
+     "es": "cargado/a",
+     "example": "Is your phone charged? Mine is almost dead.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-power-cord",
+     "en": "power cord",
+     "es": "cable de corriente",
+     "example": "I forgot my power cord at the office.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-webcam",
+     "en": "webcam",
+     "es": "cámara web",
+     "example": "My webcam doesn't work, so I can't join the meeting."
+    },
+    {
+     "id": "w-website",
+     "en": "website",
+     "es": "sitio web",
+     "example": "The website is easy to use.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-wireless-connection",
+     "en": "wireless connection",
+     "es": "conexión inalámbrica",
+     "example": "The hotel has a fast wireless connection.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-tech-support",
+     "en": "tech support",
+     "es": "soporte técnico",
+     "example": "I called tech support, and they fixed it in five minutes.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-email-spam",
+     "en": "email spam",
+     "es": "correo no deseado",
+     "example": "Most of my email spam is advertising.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-virus",
+     "en": "virus",
+     "es": "virus",
+     "example": "A virus slowed down my whole computer.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-freeze-up",
+     "en": "freeze up",
+     "es": "congelarse, trabarse",
+     "example": "My laptop freezes up when I open too many windows.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-download",
+     "en": "download",
+     "es": "descargar",
+     "example": "I downloaded a free app and it asked for my personal data.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-stream",
+     "en": "stream",
+     "es": "ver o escuchar en línea (streaming)",
+     "example": "We stream movies on weekends.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-run-antivirus-software",
+     "en": "run antivirus software",
+     "es": "ejecutar un antivirus",
+     "example": "Run antivirus software once a week.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-savvy",
+     "en": "savvy",
+     "es": "experto/a, hábil (tech-savvy)",
+     "example": "My niece is very tech-savvy; she fixes everything."
+    },
+    {
+     "id": "w-social-networking-site",
+     "en": "social networking site",
+     "es": "red social",
+     "example": "Many people use a social networking site to share photos.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "g-phrasal",
+   "kind": "grammar",
+   "title": "Separable phrasal verbs (turn it on, plug it in)",
+   "html": "<p>A <strong>phrasal verb</strong> is a verb + particle (<em>on, off, up, down, in, away…</em>) with its own meaning. <strong>Separable</strong> ones allow the object to go between the verb and the particle.</p><table><thead><tr><th>Object</th><th>Possible positions</th><th>Example</th></tr></thead><tbody><tr><td>Noun</td><td>verb + particle + object <strong>or</strong> verb + object + particle</td><td>Turn on the TV. / Turn the TV on.</td></tr><tr><td>Pronoun (it, them, me…)</td><td>verb + <strong>pronoun</strong> + particle (required)</td><td>Turn <strong>it</strong> on. / Plug <strong>them</strong> in.</td></tr></tbody></table><ul><li>Common ones: <em>turn on/off/up/down, plug in, hook up, set up, print out, put on/off/away/down, pick up, look up, take apart, throw away.</em></li><li>With a pronoun never put the particle before it: <em>turn off it</em> is incorrect.</li><li>If the object is long it usually goes after the particle: <em>Turn off the old laptop that I never use.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "Please turn off it.",
+     "right": "Please turn it off.",
+     "why": "An object pronoun goes between the verb and the particle."
+    },
+    {
+     "wrong": "I looked up it in the manual.",
+     "right": "I looked it up in the manual.",
+     "why": "Look something up is separable: pronoun before the particle."
+    },
+    {
+     "wrong": "Can you plug in them?",
+     "right": "Can you plug them in?",
+     "why": "With them the particle goes at the end."
+    },
+    {
+     "wrong": "She took off them.",
+     "right": "She took them off.",
+     "why": "Object pronoun + particle."
+    }
+   ]
+  },
+  {
+   "id": "v-phrasal",
+   "kind": "vocab",
+   "title": "Phrasal verbs for gadgets (verbs with particles)",
+   "words": [
+    {
+     "id": "w-turn-on-turn-off",
+     "en": "turn on / turn off",
+     "es": "encender / apagar",
+     "example": "Turn the printer on, please.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-turn-up-turn-down",
+     "en": "turn up / turn down",
+     "es": "subir / bajar (volumen, temperatura)",
+     "example": "It's too loud. Turn it down.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-plug-in",
+     "en": "plug in",
+     "es": "enchufar, conectar a la corriente",
+     "example": "Plug the charger in before you go to bed.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-hook-up",
+     "en": "hook up",
+     "es": "conectar (cables, aparatos)",
+     "example": "I hooked the speakers up to my laptop.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-set-up",
+     "en": "set up",
+     "es": "configurar, instalar",
+     "example": "Can you help me set this game up?",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-print-out",
+     "en": "print out",
+     "es": "imprimir",
+     "example": "Print the tickets out before the trip.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-look-up",
+     "en": "look up",
+     "es": "buscar (en un libro o manual)",
+     "example": "Look the word up in the dictionary.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pick-up",
+     "en": "pick up",
+     "es": "levantar, recoger, contestar",
+     "example": "He picked his phone up and read the message.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-put-down",
+     "en": "put down",
+     "es": "dejar, poner en el suelo o mesa",
+     "example": "Put your tablet down and listen to me.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-put-on-take-off",
+     "en": "put on / take off",
+     "es": "ponerse / quitarse",
+     "example": "She put her ear buds on and took them off at the station.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-put-away",
+     "en": "put away",
+     "es": "guardar, ordenar",
+     "example": "Put the remote away when you finish.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-take-apart",
+     "en": "take apart",
+     "es": "desarmar",
+     "example": "He took the old radio apart to see how it works.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-throw-away",
+     "en": "throw away",
+     "es": "tirar a la basura",
+     "example": "Don't throw old batteries away; recycle them.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-remote",
+     "en": "remote",
+     "es": "control remoto",
+     "example": "Where's the remote? I can't find it.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-instruction-manual",
+     "en": "instruction manual",
+     "es": "manual de instrucciones",
+     "example": "The instruction manual is in three languages.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-ringtone",
+     "en": "ringtone",
+     "es": "tono de llamada",
+     "example": "I changed my ringtone because it was annoying."
+    }
+   ]
+  },
+  {
+   "id": "g-wh-to",
+   "kind": "grammar",
+   "title": "how to, where to, what to + verb",
+   "html": "<p>After <em>show me, tell me, know, no idea, wonder, explain, remember</em> you can use <strong>question word + to + verb</strong>. It is a short form of the indirect question when the subject is general (you, I, one).</p><table><thead><tr><th>Long form</th><th>Short form</th></tr></thead><tbody><tr><td>Can you show me how I can turn it on?</td><td>Can you show me <strong>how to turn</strong> it on?</td></tr><tr><td>Do you know where I should plug it in?</td><td>Do you know <strong>where to plug</strong> it in?</td></tr><tr><td>Let me show you what you have to do.</td><td>Let me show you <strong>what to do</strong>.</td></tr><tr><td>I don't know which button I should press.</td><td>I don't know <strong>which button to press</strong>.</td></tr></tbody></table><ul><li>It works with <em>how, where, what, which, when, who</em>; <strong>not</strong> with <em>why</em>.</li><li>The particles of phrasal verbs keep their place: <em>I don't know where to plug it in.</em></li><li>For yes/no meaning use <em>whether to</em>: <em>I can't decide whether to buy it.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "Can you show me how to I turn it on?",
+     "right": "Can you show me how to turn it on?",
+     "why": "With to + verb the subject no longer appears."
+    },
+    {
+     "wrong": "I don't know where to plugging it in.",
+     "right": "I don't know where to plug it in.",
+     "why": "to + verb in the base form, without -ing."
+    },
+    {
+     "wrong": "Do you know how use this app?",
+     "right": "Do you know how to use this app?",
+     "why": "to is missing before the verb."
+    }
+   ]
+  },
+  {
+   "id": "v-security",
+   "kind": "vocab",
+   "title": "Online safety and identity theft",
+   "words": [
+    {
+     "id": "w-identity-theft",
+     "en": "identity theft",
+     "es": "robo de identidad",
+     "example": "Identity theft can ruin your credit for years.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-internet-scam",
+     "en": "Internet scam",
+     "es": "fraude por Internet",
+     "example": "That prize message is an Internet scam.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-chain-email",
+     "en": "chain email",
+     "es": "cadena de correos",
+     "example": "Don't forward a chain email to your friends.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-password",
+     "en": "password",
+     "es": "contraseña",
+     "example": "Use a long password with numbers and symbols.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-pin",
+     "en": "PIN",
+     "es": "número de identificación personal",
+     "example": "Never tell anybody your PIN.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-victim",
+     "en": "victim",
+     "es": "víctima",
+     "example": "The victim of the scam lost a lot of money.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-data",
+     "en": "data",
+     "es": "datos",
+     "example": "Companies keep a lot of data about us.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-block",
+     "en": "block",
+     "es": "bloquear",
+     "example": "I blocked the sender so I don't get more spam.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-delete",
+     "en": "delete",
+     "es": "borrar",
+     "example": "Delete suspicious messages without opening them.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-forward",
+     "en": "forward",
+     "es": "reenviar",
+     "example": "She forwarded the invoice to her boss.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-give-away",
+     "en": "give away",
+     "es": "revelar, regalar",
+     "example": "Don't give your personal information away.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-charge",
+     "en": "charge",
+     "es": "cobrar",
+     "example": "They charged me two thousand pesos by mistake.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-cheat-someone-out-of-money",
+     "en": "cheat someone out of money",
+     "es": "estafar a alguien",
+     "example": "The seller cheated him out of his savings.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-open-an-account",
+     "en": "open an account",
+     "es": "abrir una cuenta",
+     "example": "Someone opened an account in her name.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-ruin-your-credit",
+     "en": "ruin your credit",
+     "es": "arruinar tu historial crediticio",
+     "example": "One scam can ruin your credit.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-shred-documents",
+     "en": "shred documents",
+     "es": "triturar documentos",
+     "example": "I shred my old bank statements.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-take-precautions",
+     "en": "take precautions",
+     "es": "tomar precauciones",
+     "example": "Take precautions when you shop online.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-opinions",
+   "kind": "expressions",
+   "title": "Giving a different opinion and finding agreement",
+   "html": "<p><strong>To disagree politely:</strong></p><ul><li><strong>I know what you mean, but…</strong> — <em>I know what you mean, but you can make real friends online.</em></li><li><strong>That's true. … , though.</strong> — <em>That's true. It's still useful, though.</em></li><li><strong>Maybe. On the other hand, …</strong> — <em>Maybe. On the other hand, it saves time.</em></li><li><strong>I don't know. / I'm not (so) sure. Don't you think …?</strong> — <em>I'm not so sure. Don't you think it's better to talk face-to-face?</em></li></ul><p><strong>To ask the other person to agree with you:</strong> <em>You know what I mean? / You know? / You know what I'm saying?</em></p><p><strong>Useful vocabulary:</strong> <em>spend time with someone, face-to-face, text (v.: send a text message), social networking site.</em></p><p><strong>To plan an article:</strong> write all your ideas without worrying about grammar, choose the best ones, number them, then write and check spelling and grammar.</p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Indirect questions",
+   "instructions": "Complete or choose the correct option.",
+   "topic": "g-embedded",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "Do you know what the problem ___?",
+     "answers": [
+      "is"
+     ],
+     "explain": "Indirect question: what + subject + verb (the problem is)."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Can you tell me where the nearest repair shop ___?",
+     "answers": [
+      "is"
+     ],
+     "explain": "Statement word order: where the shop is."
+    },
+    {
+     "id": "A3",
+     "type": "choice",
+     "prompt": "I have no idea ___ my phone keeps freezing up.",
+     "options": [
+      "why",
+      "why does",
+      "does why"
+     ],
+     "answer": 0,
+     "explain": "No inversion or do/does: why + subject + verb."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "Do you know ___ the Wi-Fi is working?",
+     "options": [
+      "if",
+      "that",
+      "is"
+     ],
+     "answer": 0,
+     "explain": "Indirect yes/no question: if."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "I wonder ___ the battery is fully charged.",
+     "answers": [
+      "if",
+      "whether"
+     ],
+     "explain": "Indirect yes/no: if or whether."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "Could you tell me how much this tablet ___?",
+     "answers": [
+      "costs"
+     ],
+     "explain": "No does: the verb takes -s (costs)."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "Do you remember which website you ___ to download the app? (use)",
+     "answers": [
+      "used"
+     ],
+     "explain": "The tense is kept: past, used."
+    },
+    {
+     "id": "A8",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "I don't know where did she buy her laptop.",
+      "I don't know where she bought her laptop.",
+      "I don't know where she did buy her laptop."
+     ],
+     "answer": 1,
+     "explain": "Subject + verb in the past, no did."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Correct the indirect questions",
+   "instructions": "Each sentence has a mistake. Write the corrected sentence.",
+   "topic": "g-embedded",
+   "items": [
+    {
+     "id": "B1",
+     "type": "fix",
+     "prompt": "Do you know where is the power cord?",
+     "answers": [
+      "Do you know where the power cord is?"
+     ],
+     "explain": "The verb goes after the subject."
+    },
+    {
+     "id": "B2",
+     "type": "fix",
+     "prompt": "I wonder what time does the store close.",
+     "answers": [
+      "I wonder what time the store closes."
+     ],
+     "explain": "No does; closes takes -s."
+    },
+    {
+     "id": "B3",
+     "type": "fix",
+     "prompt": "Can you tell me is the printer working?",
+     "answers": [
+      "Can you tell me if the printer is working?",
+      "Can you tell me whether the printer is working?"
+     ],
+     "explain": "Indirect yes/no: if/whether + subject + verb."
+    },
+    {
+     "id": "B4",
+     "type": "fix",
+     "prompt": "I don't know why did the screen go black.",
+     "answers": [
+      "I don't know why the screen went black."
+     ],
+     "explain": "No did; past in the verb."
+    },
+    {
+     "id": "B5",
+     "type": "fix",
+     "prompt": "Do you know how much does this cell phone cost?",
+     "answers": [
+      "Do you know how much this cell phone costs?"
+     ],
+     "explain": "No does; costs with -s."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "Do you know that the website is safe?",
+     "answers": [
+      "Do you know if the website is safe?",
+      "Do you know whether the website is safe?"
+     ],
+     "explain": "To ask a yes/no question use if or whether, not that."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Separable phrasal verbs",
+   "instructions": "Complete, order or correct.",
+   "topic": "g-phrasal",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "The music is too loud. Please turn it ___.",
+     "answers": [
+      "down"
+     ],
+     "explain": "Turn down = lower the volume."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "It's cold in here. Can you turn the air conditioning ___?",
+     "answers": [
+      "up"
+     ],
+     "explain": "Turn up = raise."
+    },
+    {
+     "id": "C3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "plug",
+      "it",
+      "in",
+      "Please"
+     ],
+     "answers": [
+      "Please plug it in."
+     ],
+     "explain": "Pronoun between verb and particle."
+    },
+    {
+     "id": "C4",
+     "type": "fix",
+     "prompt": "Please turn off it.",
+     "answers": [
+      "Please turn it off."
+     ],
+     "explain": "Object pronoun before the particle."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "I looked up it in the manual.",
+     "answers": [
+      "I looked it up in the manual."
+     ],
+     "explain": "Look it up: pronoun before the particle."
+    },
+    {
+     "id": "C6",
+     "type": "gap",
+     "prompt": "The class starts now. Please put your phones ___.",
+     "answers": [
+      "away"
+     ],
+     "explain": "Put away = store."
+    },
+    {
+     "id": "C7",
+     "type": "choice",
+     "prompt": "Which sentence is NOT possible?",
+     "options": [
+      "She took off her headphones.",
+      "She took her headphones off.",
+      "She took off them."
+     ],
+     "answer": 2,
+     "explain": "A pronoun never goes after the particle."
+    },
+    {
+     "id": "C8",
+     "type": "gap",
+     "prompt": "The battery died, so I'm going to throw it ___.",
+     "answers": [
+      "away"
+     ],
+     "explain": "Throw away = throw in the trash."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "how / where / what + to",
+   "instructions": "Complete, order or correct.",
+   "topic": "g-wh-to",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "Can you show me how ___ turn on this game controller?",
+     "answers": [
+      "to"
+     ],
+     "explain": "Question word + to + verb."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "I don't know where ___ plug in the charger.",
+     "answers": [
+      "to"
+     ],
+     "explain": "where + to + base verb."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "Let me show you ___ do.",
+     "options": [
+      "what to",
+      "what do",
+      "to what"
+     ],
+     "answer": 0,
+     "explain": "what to do = what you have to do."
+    },
+    {
+     "id": "D4",
+     "type": "fix",
+     "prompt": "Do you know where to I plug it in?",
+     "answers": [
+      "Do you know where to plug it in?"
+     ],
+     "explain": "With to + verb the subject is not repeated."
+    },
+    {
+     "id": "D5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "show",
+      "how",
+      "Can",
+      "me",
+      "you",
+      "to",
+      "set",
+      "it",
+      "up"
+     ],
+     "answers": [
+      "Can you show me how to set it up?"
+     ],
+     "explain": "Show me how to + verb; it goes before up."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "I have no idea ___ this app.",
+     "options": [
+      "how to use",
+      "how to using",
+      "how use"
+     ],
+     "answer": 0,
+     "explain": "how to + base verb."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Technology",
+   "instructions": "Complete with the right word.",
+   "topic": "v-tech",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "My phone keeps ___ up when I open too many apps.",
+     "answers": [
+      "freezing"
+     ],
+     "explain": "Freeze up = stop working."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "You can ___ movies online without downloading them.",
+     "answers": [
+      "stream"
+     ],
+     "explain": "Stream = watch online."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "I need a ___ cord because my laptop battery is almost dead.",
+     "answers": [
+      "power"
+     ],
+     "explain": "Power cord = electrical cable."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "You should run ___ software to look for the virus.",
+     "answers": [
+      "antivirus"
+     ],
+     "explain": "Run antivirus software."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "She's very tech-___; she fixes everyone's computers.",
+     "answers": [
+      "savvy"
+     ],
+     "explain": "Tech-savvy = good with technology."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "I got a lot of email ___ this morning: ads and strange offers.",
+     "answers": [
+      "spam"
+     ],
+     "explain": "Email spam = unwanted email."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "Is the battery ___? I want to use my tablet on the train.",
+     "answers": [
+      "charged"
+     ],
+     "explain": "Charged = full of power."
+    },
+    {
+     "id": "E8",
+     "type": "gap",
+     "prompt": "A ___ connection lets you use the Internet without a cable.",
+     "answers": [
+      "wireless"
+     ],
+     "explain": "Wireless = without cables."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Opinions and safety",
+   "instructions": "Choose or complete.",
+   "topic": "e-opinions",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "Someone says: \"Social networking sites make us lonely.\" Which answer disagrees politely?",
+     "options": [
+      "I know what you mean, but I've made good friends online.",
+      "Yes, exactly.",
+      "I don't care."
+     ],
+     "answer": 0,
+     "explain": "I know what you mean, but… softens the disagreement."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "That's true. It's cheaper online, ___.",
+     "answers": [
+      "though"
+     ],
+     "explain": "That's true… , though."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "Maybe. On the ___ hand, it saves a lot of time.",
+     "answers": [
+      "other"
+     ],
+     "explain": "On the other hand = from a different point of view."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "Someone uses your personal data to open accounts in your name. This is ___.",
+     "options": [
+      "identity theft",
+      "a ringtone",
+      "a webcam"
+     ],
+     "answer": 0,
+     "explain": "Identity theft = stealing someone's personal information to commit fraud."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "Never give ___ your PIN or your passwords to strangers.",
+     "answers": [
+      "away"
+     ],
+     "explain": "Give away = reveal."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "It's a good idea to ___ old bank documents before you throw them away.",
+     "answers": [
+      "shred"
+     ],
+     "explain": "Shred = cut into small pieces."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Do",
+      "you",
+      "know",
+      "where",
+      "the",
+      "charger",
+      "is"
+     ],
+     "answers": [
+      "Do you know where the charger is?"
+     ],
+     "explain": "Statement word order after where."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I",
+      "wonder",
+      "what",
+      "the",
+      "password",
+      "is"
+     ],
+     "answers": [
+      "I wonder what the password is."
+     ],
+     "explain": "I wonder + what + subject + verb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "it",
+      "Please",
+      "off",
+      "turn"
+     ],
+     "answers": [
+      "Please turn it off."
+     ],
+     "explain": "Pronoun before the particle."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Can",
+      "you",
+      "show",
+      "me",
+      "how",
+      "to",
+      "download",
+      "the",
+      "app"
+     ],
+     "answers": [
+      "Can you show me how to download the app?"
+     ],
+     "explain": "how to + base verb."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Do",
+      "you",
+      "know",
+      "if",
+      "the",
+      "battery",
+      "is",
+      "charged"
+     ],
+     "answers": [
+      "Do you know if the battery is charged?"
+     ],
+     "explain": "if + subject + verb."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I",
+      "know",
+      "what",
+      "you",
+      "mean,",
+      "but",
+      "I",
+      "disagree"
+     ],
+     "answers": [
+      "I know what you mean, but I disagree."
+     ],
+     "explain": "Expression for politely disagreeing."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "¿Sabes dónde está el cargador?",
+     "answers": [
+      "Do you know where the charger is?"
+     ],
+     "explain": "Indirect question: where + subject + is."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "No sé por qué mi teléfono se congela.",
+     "answers": [
+      "I don't know why my phone freezes.",
+      "I don't know why my phone freezes up.",
+      "I don't know why my phone is freezing.",
+      "I don't know why my phone is freezing up.",
+      "I don't know why my phone keeps freezing.",
+      "I don't know why my phone keeps freezing up."
+     ],
+     "explain": "Why + subject + verb, no do/does."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "¿Puedes enseñarme cómo conectar esta impresora?",
+     "answers": [
+      "Can you show me how to hook this printer up?",
+      "Can you show me how to hook up this printer?",
+      "Could you show me how to hook this printer up?",
+      "Could you show me how to hook up this printer?"
+     ],
+     "explain": "how to + verb; hook up is separable."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Apágalo, por favor.",
+     "answers": [
+      "Please turn it off.",
+      "Turn it off, please."
+     ],
+     "explain": "Pronoun before the particle."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Me pregunto si la contraseña es correcta.",
+     "answers": [
+      "I wonder if the password is correct.",
+      "I wonder if the password is right.",
+      "I wonder whether the password is correct.",
+      "I wonder whether the password is right."
+     ],
+     "explain": "if/whether in yes/no questions."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Entiendo lo que dices, pero no estoy muy seguro.",
+     "answers": [
+      "I know what you mean, but I'm not so sure.",
+      "I know what you mean, but I'm not very sure.",
+      "I know what you mean, but I am not so sure.",
+      "I know what you mean, but I am not very sure.",
+      "I know what you mean, but I'm not sure."
+     ],
+     "explain": "Expression for politely disagreeing."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises from different topics in the unit (includes 2 review items from earlier units).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Could you tell me where ___?",
+     "options": [
+      "the station is",
+      "is the station",
+      "the station does"
+     ],
+     "answer": 0,
+     "explain": "Statement word order after where."
+    },
+    {
+     "id": "M2",
+     "type": "fix",
+     "prompt": "Do you know what time does the store open?",
+     "answers": [
+      "Do you know what time the store opens?"
+     ],
+     "explain": "No does; opens takes -s."
+    },
+    {
+     "id": "M3",
+     "type": "gap",
+     "prompt": "Can you show me ___ to set up this game?",
+     "answers": [
+      "how"
+     ],
+     "explain": "how to + verb."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "Which one is correct?",
+     "options": [
+      "Please turn off it.",
+      "Please turn it off.",
+      "Please off turn it."
+     ],
+     "answer": 1,
+     "explain": "Pronoun between verb and particle."
+    },
+    {
+     "id": "M5",
+     "type": "translate",
+     "prompt": "Quiero saber si esta aplicación es gratis.",
+     "answers": [
+      "I want to know if this app is free.",
+      "I want to know whether this app is free."
+     ],
+     "explain": "Indirect yes/no question with if/whether."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "My battery is almost dead. I need to ___ my phone in.",
+     "answers": [
+      "plug"
+     ],
+     "explain": "Plug in = connect to a power source."
+    },
+    {
+     "id": "M7",
+     "type": "fix",
+     "prompt": "I wonder where did I leave my ear buds.",
+     "answers": [
+      "I wonder where I left my ear buds."
+     ],
+     "explain": "No did; past in the verb."
+    },
+    {
+     "id": "M8",
+     "type": "translate",
+     "prompt": "Nunca des tu contraseña a nadie.",
+     "answers": [
+      "Never give your password away to anyone.",
+      "Never give your password away to anybody.",
+      "Never give away your password to anyone.",
+      "Never give away your password to anybody.",
+      "Never give your password away.",
+      "Don't give your password to anyone.",
+      "Don't give your password to anybody."
+     ],
+     "explain": "Give away = reveal; never + base verb."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "While I ___ a file, the power went out. (download) (repaso: pasado continuo)",
+     "answers": [
+      "was downloading"
+     ],
+     "explain": "Interrupted action in progress: was + -ing."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "This new tablet is ___ than my old one. (light) (repaso: comparativos)",
+     "answers": [
+      "lighter"
+     ],
+     "explain": "Short adjective + -er."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write an article or blog post of 180 to 250 words about a technology problem you had (phone, computer, hacked account, etc.) and how you solved it. Include at least three indirect questions (I didn't know why…, I wondered if…), three phrasal verbs with an object (turned it off, looked it up…) and one sentence with how / where to. Before writing, note down ideas, choose the best ones and number them.",
+   "targets": [
+    "preguntas indirectas",
+    "phrasal verbs separables",
+    "how to / where to",
+    "technology vocabulary"
+   ],
+   "checklist": [
+    "180–250 words with an introduction, body and conclusion",
+    "At least 3 indirect questions with statement word order and no do/does/did",
+    "At least 3 phrasal verbs; pronoun between verb and particle (turn it off)",
+    "One how to / where to / what to + verb structure",
+    "if or whether in yes/no questions",
+    "Technology or online safety vocabulary from the unit",
+    "You checked spelling and grammar"
+   ],
+   "model": "Last month my phone suddenly stopped working, and I was in a panic. I didn't know why it had turned off, and I wondered if I had lost all my photos. Here is how I solved the problem, in case it ever happens to you.\n\nFirst, I tried to turn it on again, but nothing happened. I plugged it in and left it for an hour. Then I looked up the problem on the internet and found out that the battery could be damaged. I asked a friend whether she knew where to get it repaired, and she told me about a small shop near my house. The technician asked me to back up my files, so I saved everything in the cloud and then turned it off before he started. He fixed it in two days.\n\nI also realized I had not been careful with my online safety. I didn't know how to create a strong password, so I looked it up and changed all of mine. Now I use two-step verification and I never click on links from strangers, because scams are everywhere.\n\nIn conclusion, a technology problem can be stressful, but it is usually easy to solve. Ask yourself what you would do if you lost your data tomorrow. Remember to update your apps, and do not wait for an emergency to learn how to protect your accounts."
+  },
+  {
+   "id": "W2",
+   "prompt": "Do social media and technology bring us closer or push us apart? Write 180 to 250 words with two points of view: first one and then the opposite. Use at least three expressions to give a different opinion (I know what you mean, but… / That's true… , though. / Maybe. On the other hand, … / I'm not so sure. Don't you think…?) and mention one safety precaution.",
+   "targets": [
+    "different opinions",
+    "contrast connectors",
+    "safety vocabulary",
+    "indirect questions"
+   ],
+   "checklist": [
+    "180–250 words",
+    "At least 3 expressions for giving a different opinion",
+    "Two clear points of view with examples",
+    "One safety precaution (password, scam, shred…)",
+    "At least one well-formed indirect question",
+    "Paragraphs organized and revised"
+   ],
+   "model": "Do social media and technology bring us closer or push us apart? I think the answer depends on how we use them.\n\nOn the one hand, many people believe that technology brings us together. I have friends who live in other countries, and I talk to them every week by video call. Thanks to social media, my grandmother, who is eighty, can see photos of her grandchildren every day. I know what you mean when people say it feels cold, but for families like mine it is a great help.\n\nOn the other hand, some people argue that social media pushes us apart. Maybe. We are often together at dinner, but everyone is looking at their phone. I'm not so sure that a hundred online friends are better than one real conversation. Don't you think we are losing the skill of listening? That's true for many young people, though not for everyone.\n\nThere is also a problem with safety. Many people share their personal information without thinking, and scams are becoming more common. One simple precaution is to use a strong password and never share it. I also wonder if companies are doing enough to protect our data.\n\nIn my view, technology is not good or bad in itself. What matters is how we use it, and whether we remember to put the phone down and look at the person in front of us."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The day my phone died",
+   "intro": "Read the article and answer.",
+   "paragraphs": [
+    "Last Tuesday, my phone froze up in the middle of an important video call with a client in Guadalajara. I had no idea what the problem was. The screen went black, and when I turned it on again, nothing opened. I wondered if the battery was dead, so I plugged it in, but the charging light didn't come on. Then I realized I didn't know where the power cord I usually used was. After ten minutes of searching, I found it under a pile of old instruction manuals.",
+    "Eventually the phone started, but it was painfully slow. A coworker named Daniela, who is very tech-savvy, offered to help. \"Do you know how much storage you have left?\" she asked. I didn't know, so she looked it up in the settings and showed me what to do. My phone was almost full: hundreds of photos, three games I never play, and an app I couldn't even remember downloading. Daniela deleted the old files, took off the case, and ran antivirus software. She found a virus hidden in a free app, and she explained how it had probably gotten onto my phone.",
+    "\"You should be careful with free apps,\" she said. \"Some of them are scams. They steal your data, and in the worst cases someone can use your information to open an account in your name.\" She told me that I should never give away my password or my PIN, and that I should block suspicious emails instead of opening them. I had always thought these warnings were exaggerated. Now I know better, and I'm a little embarrassed that I needed a virus to learn the lesson.",
+    "Of course, not everyone agrees about technology. My brother says smartphones have ruined real conversation. I know what he means, but I think phones can also bring people closer. I talked to my grandmother in Oaxaca last week, and we saw each other face-to-face on a screen. On the other hand, I admit that I check my phone too often, and I'm not so sure that's healthy. He may be right about that, though.",
+    "Since that Tuesday, I've made a few changes. I back up my photos every Sunday, I turn my phone off at night, and I keep the power cord in a drawer where I can always find it. I also printed out a short list of safety tips and put it away next to my desk. It's a small list, but it can save me a lot of trouble: never click on strange links, update your apps, and ask for help when you don't know what to do. Technology is useful, but only if we learn how to use it carefully."
+   ],
+   "glossary": [
+    {
+     "en": "freeze up",
+     "def": "to stop working or responding suddenly"
+    },
+    {
+     "en": "tech-savvy",
+     "def": "good at understanding and using technology"
+    },
+    {
+     "en": "storage",
+     "def": "the space a device has for keeping files and apps"
+    },
+    {
+     "en": "scam",
+     "def": "a dishonest plan to trick people, usually to get money or personal information"
+    },
+    {
+     "en": "suspicious",
+     "def": "seeming likely to be dishonest or dangerous"
+    },
+    {
+     "en": "embarrassed",
+     "def": "uncomfortable because of something you did in front of others"
+    },
+    {
+     "en": "back up",
+     "def": "to make a copy of files in case the original is lost"
+    },
+    {
+     "en": "face-to-face",
+     "def": "in person, in the same place as the other people"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "What was the writer doing when the phone froze?",
+     "options": [
+      "Playing a game",
+      "On a video call with a client",
+      "Sending an email"
+     ],
+     "answer": 1,
+     "explain": "Dice: in the middle of an important video call with a client."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "The writer found the power cord quickly.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "It took ten minutes to find it."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Why was the phone so slow?",
+     "options": [
+      "The battery was old",
+      "The storage was almost full and there was a virus",
+      "The screen was broken"
+     ],
+     "answer": 1,
+     "explain": "It was almost full and had a virus."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Daniela is good with technology.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Se le describe como very tech-savvy."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Daniela ran ___ software to look for problems.",
+     "answers": [
+      "antivirus"
+     ],
+     "explain": "Ran antivirus software."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "The writer talked to her ___ in Oaxaca last week.",
+     "answers": [
+      "grandmother",
+      "grandma"
+     ],
+     "explain": "I talked to my grandmother in Oaxaca."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "What does the writer's brother think?",
+     "options": [
+      "Phones have ruined real conversation",
+      "Phones are always useful",
+      "Free apps are safe"
+     ],
+     "answer": 0,
+     "explain": "Says smartphones have ruined real conversation."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Calling tech support",
+   "intro": "Listen to the tech support call. You can repeat it.",
+   "lines": [
+    {
+     "who": "Agent",
+     "voice": "buttery",
+     "text": "Tech support, this is Laura. How can I help you?"
+    },
+    {
+     "who": "Marco",
+     "voice": "airy",
+     "text": "Hi. My tablet won't turn on, and I have no idea what the problem is."
+    },
+    {
+     "who": "Agent",
+     "voice": "buttery",
+     "text": "Do you know if the battery is charged?"
+    },
+    {
+     "who": "Marco",
+     "voice": "airy",
+     "text": "I'm not sure. I plugged it in last night, but I don't know where the charging light is."
+    },
+    {
+     "who": "Agent",
+     "voice": "buttery",
+     "text": "It's a small green light next to the power button. Can you see it?"
+    },
+    {
+     "who": "Marco",
+     "voice": "airy",
+     "text": "No. Wait, my sister is here. Camila, can you look at it?"
+    },
+    {
+     "who": "Camila",
+     "voice": "glassy",
+     "text": "Sure. Oh, the power cord isn't plugged in all the way! Let me plug it in again."
+    },
+    {
+     "who": "Agent",
+     "voice": "buttery",
+     "text": "Good. Now hold the power button for ten seconds and then turn it on."
+    },
+    {
+     "who": "Marco",
+     "voice": "airy",
+     "text": "It's working! Thank you. Can you tell me how to connect it to the wireless network?"
+    },
+    {
+     "who": "Agent",
+     "voice": "buttery",
+     "text": "Of course. Open Settings, choose your network, and type the password. I can also send you the instruction manual."
+    },
+    {
+     "who": "Marco",
+     "voice": "airy",
+     "text": "That would be great. Do you know if the manual costs anything?"
+    },
+    {
+     "who": "Agent",
+     "voice": "buttery",
+     "text": "No, it's free. I'll email it to you right now. Is there anything else I can help you with?"
+    },
+    {
+     "who": "Marco",
+     "voice": "airy",
+     "text": "No, that's everything. You've been really helpful."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What is the problem with Marco's tablet?",
+     "options": [
+      "It won't turn on",
+      "It's too slow",
+      "It has a virus"
+     ],
+     "answer": 0,
+     "explain": "My tablet won't turn on."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Where is the charging light?",
+     "options": [
+      "Next to the power button",
+      "On the back",
+      "Under the screen"
+     ],
+     "answer": 0,
+     "explain": "A small green light next to the power button."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What was the real problem?",
+     "options": [
+      "The battery was broken",
+      "The power cord wasn't plugged in all the way",
+      "The tablet was frozen"
+     ],
+     "answer": 1,
+     "explain": "Camila says the cord isn't plugged in all the way."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "Marco asks how to connect the tablet to the ___ network.",
+     "answers": [
+      "wireless"
+     ],
+     "explain": "Connect it to the wireless network."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "The instruction manual costs extra.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Dice: No, it's free."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Do you know if the battery is charged?",
+     "answers": [
+      "Do you know if the battery is charged?"
+     ],
+     "explain": "Indirect question: if + subject + verb."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Can you tell me how to connect it to the network?",
+     "answers": [
+      "Can you tell me how to connect it to the network?"
+     ],
+     "explain": "how to + verbo base."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "I have no idea what the problem is.",
+     "answers": [
+      "I have no idea what the problem is."
+     ],
+     "explain": "Statement word order: what the problem is."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Let me plug it in again.",
+     "answers": [
+      "Let me plug it in again."
+     ],
+     "explain": "Plug it in: pronoun goes before the particle."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Tell about a technology problem you had and how you solved it.",
+     "questions": [
+      "Have you ever had a problem with your phone or computer?",
+      "What was the problem?",
+      "Do you know why it happened?",
+      "How did you fix it?"
+     ],
+     "model": "My laptop froze up last month, and I had no idea what the problem was. I turned it off and on again, but it didn't work. I looked it up online and I found out how to run antivirus software. It was a virus! Now I know what to do.",
+     "checklist": [
+      "At least one indirect question (I had no idea what…)",
+      "One phrasal verb with a pronoun (turned it off)",
+      "how to / what to + verb",
+      "Correct simple past"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "You call tech support because your phone doesn't work. Answer the agent's questions and ask your own indirect questions.",
+     "questions": [
+      "Tech support. What's the problem?",
+      "Do you know if the battery is charged?",
+      "Have you tried to turn it off and on?",
+      "Is there anything else I can help you with?"
+     ],
+     "model": "My phone won't turn on, and I don't know what the problem is. I'm not sure if the battery is charged. Yes, I turned it off and on, but nothing happened. Can you tell me where to take it?",
+     "checklist": [
+      "Indirect questions with statement word order",
+      "if / whether in yes/no questions",
+      "Pronoun before the particle",
+      "Polite tone (Can you tell me…?)"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Give your opinion about social networking sites and react with a different opinion.",
+     "questions": [
+      "Do you think social networking sites help friendships?",
+      "Some people say we spend too much time on our phones. What do you think?",
+      "Do you prefer texting or talking face-to-face?",
+      "Do you take any precautions online?"
+     ],
+     "model": "I know what you mean, but I think social networking sites help friendships. Maybe. On the other hand, we spend too much time on our phones. I'm not so sure texting is better. I prefer to talk face-to-face, you know? I never give away my password.",
+     "checklist": [
+      "I know what you mean, but…",
+      "On the other hand…",
+      "You know?",
+      "A safety precaution"
+     ]
+    }
+   ],
+   "repeat": [
+    "Do you know where the charger is?",
+    "I have no idea what the problem is.",
+    "Can you show me how to set it up?",
+    "Please turn it off.",
+    "I know what you mean, but I'm not so sure.",
+    "Never give away your password."
+   ]
+  }
+ }
+}

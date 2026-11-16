@@ -1,0 +1,1557 @@
+{
+ "id": "u-c1-09",
+ "level": "C1",
+ "n": 9,
+ "title": "The power of persuasion",
+ "goals": [
+  "Connect ideas precisely using discourse markers: nevertheless, on the contrary, by the same token, albeit, hence.",
+  "Distinguish nuances between markers that seem equivalent (on the contrary vs. on the other hand, albeit vs. although).",
+  "Condense and formalise information through nominalisation, using the correct prepositions.",
+  "Choose the appropriate register (formal, semi-formal, informal) according to the reader and the purpose.",
+  "Talk about media and advertising: bias, spin, clickbait, credibility, fact-checking.",
+  "Analyse arguments and write a well-structured persuasive text."
+ ],
+ "learn": [
+  {
+   "id": "g-discourse-markers",
+   "kind": "grammar",
+   "title": "Discourse markers: contrast, concession, addition and consequence",
+   "html": "<p>At C1 level, <em>but</em>, <em>and</em> and <em>so</em> are no longer enough. An advanced text relies on markers that signal <strong>how each idea relates to the previous one</strong>, and that choose the exact nuance: contradicting is not the same as qualifying, and adding an argument is not the same as reinforcing it with the same logic.</p><table><thead><tr><th>Function</th><th>Markers</th><th>Nuance and use</th></tr></thead><tbody><tr><td>Contrast</td><td><strong>however, nevertheless, nonetheless, even so, that said</strong></td><td>They introduce a fact that clashes with what came before but does not cancel it. <em>Nevertheless / nonetheless</em> are more formal; <em>that said</em> and <em>even so</em> sound more natural in speech.</td></tr><tr><td>Contrast</td><td><strong>on the other hand / in contrast / whereas / while</strong></td><td>They compare two viewpoints or two realities. <em>Whereas</em> and <em>while</em> join two clauses into a single sentence.</td></tr><tr><td>Rejection</td><td><strong>on the contrary</strong></td><td>It is NOT the same as \"on the other hand\". It denies what has just been said (or assumed) and affirms the opposite: <em>It isn't a failure. On the contrary, it's a success.</em></td></tr><tr><td>Concession</td><td><strong>admittedly, granted, albeit, notwithstanding</strong></td><td><em>Admittedly / granted</em> acknowledge a point from the other side before counterarguing. <em>Albeit</em> (= \"although\") is followed by an adjective or a short phrase, not a full clause: <em>a good, albeit expensive, solution</em>. <em>Notwithstanding</em> works as a preposition (\"despite\").</td></tr><tr><td>Addition</td><td><strong>moreover, furthermore, what is more, besides, by the same token</strong></td><td><em>Moreover / furthermore</em> add a stronger argument. <em>By the same token</em> adds something that follows from the same logic (\"for the same reason, in the same way\").</td></tr><tr><td>Consequence</td><td><strong>consequently, as a result, hence, thus, thereby</strong></td><td><em>Hence</em> is very formal and is followed by a noun or a short phrase. <em>Thereby + -ing</em> expresses the result of an action: <em>…cutting costs, thereby raising profits.</em></td></tr><tr><td>Clarification / example</td><td><strong>in other words, namely, for instance, a case in point</strong></td><td><em>Namely</em> specifies (it identifies exact elements); <em>in other words</em> reformulates.</td></tr></tbody></table><p><strong>Punctuation.</strong> Adverbial markers usually go at the start and are followed by a comma, or come after a semicolon: <em>The ad was effective; nevertheless, it was withdrawn.</em> They can also go in the middle of the sentence, between commas: <em>The ad, however, was withdrawn.</em> Avoid using two markers at once for the same relationship (<em>Although… however</em>).</p><p><strong>Register.</strong> <em>Furthermore, nonetheless, hence</em> are typical of formal written texts; in a conversation or an informal email they sound stilted. There, <em>besides, still, even so, that said, so</em> work better.</p>",
+   "watch": [
+    {
+     "wrong": "The plan is cheap. On the contrary, it has serious flaws.",
+     "right": "The plan is cheap. On the other hand, it has serious flaws.",
+     "why": "On the contrary negates the previous statement; here only a contrast is being added, so on the other hand is the right choice."
+    },
+    {
+     "wrong": "Although he was tired, however he kept working.",
+     "right": "Although he was tired, he kept working. / He was tired; however, he kept working.",
+     "why": "A conjunction and a connector should not be combined to express the same idea of contrast."
+    },
+    {
+     "wrong": "Albeit he was exhausted, he finished the talk.",
+     "right": "Albeit exhausted, he finished the talk.",
+     "why": "Albeit does not introduce a clause with a subject and a verb; it goes with an adjective, a participle or a short phrase."
+    },
+    {
+     "wrong": "In the other hand, the results are encouraging.",
+     "right": "On the other hand, the results are encouraging.",
+     "why": "The fixed expression is on the other hand (with on, not in)."
+    }
+   ]
+  },
+  {
+   "id": "g-nominalization",
+   "kind": "grammar",
+   "title": "Nominalisation: turning actions and qualities into nouns",
+   "html": "<p><strong>Nominalisation</strong> means expressing with a noun what we would normally say with a verb or an adjective: <em>People distrust the media</em> → <em>There is widespread distrust of the media</em>. It is one of the most recognisable features of formal and academic written English, and it is essential in TOEFL-style essays.</p><table><thead><tr><th>Clause (more spoken)</th><th>Nominalisation (more formal)</th></tr></thead><tbody><tr><td>Prices rose sharply, which worried consumers.</td><td>The sharp <strong>rise in</strong> prices worried consumers.</td></tr><tr><td>Governments decided to regulate platforms.</td><td>The <strong>decision to regulate</strong> platforms was controversial.</td></tr><tr><td>Readers are aware that headlines can mislead.</td><td><strong>Awareness</strong> that headlines can mislead is growing.</td></tr><tr><td>It is important to verify sources.</td><td>The <strong>importance of verifying</strong> sources cannot be overstated.</td></tr></tbody></table><p><strong>Common endings:</strong> -tion/-sion (<em>decision, persuasion</em>), -ment (<em>manipulation, endorsement</em>), -ence/-ance (<em>reliance, influence</em>), -ity/-ness (<em>credibility, awareness</em>), -al (<em>refusal, approval</em>), -ure (<em>failure, exposure</em>). Some nouns are identical to the verb (<em>a rise, a cut, an increase</em>) and others change completely (<em>fail → failure, believe → belief</em>).</p><p><strong>What it is for:</strong> it condenses information (a noun can sum up an entire clause), gives an impersonal, objective tone and allows long, complex subjects. The price is density: too many nominalisations in a row make a text heavy. Balance them with action verbs: <em>lead to, give rise to, account for, contribute to</em> (<em>The spread of misinformation has given rise to a crisis of trust</em>).</p><p><strong>Prepositions that go with the noun</strong> (different from those of the original verb, and sometimes different from Spanish): <em>an increase/rise/decline in, demand for, reliance on, impact/influence on, solution to, attitude to/towards, a lack of, a tendency to, the failure to + verb</em>.</p>",
+   "watch": [
+    {
+     "wrong": "There was a sharp increase of prices.",
+     "right": "There was a sharp increase in prices.",
+     "why": "An increase \"in\" something: increase/rise/fall in. Of is used for quantities: an increase of 5%."
+    },
+    {
+     "wrong": "The importance of to be informed is clear.",
+     "right": "The importance of being informed is clear.",
+     "why": "After a preposition the verb takes -ing, not the infinitive."
+    },
+    {
+     "wrong": "The influence of social media in voters is huge.",
+     "right": "The influence of social media on voters is huge.",
+     "why": "The preposition used with influence/impact/effect is on."
+    },
+    {
+     "wrong": "Their refusal of cooperate surprised us.",
+     "right": "Their refusal to cooperate surprised us.",
+     "why": "Refusal, decision, failure and attempt take to + verb, just like the verbs they come from."
+    }
+   ]
+  },
+  {
+   "id": "g-register",
+   "kind": "grammar",
+   "title": "Formal vs. informal register",
+   "html": "<p>Mastering English at C1 means knowing <strong>when</strong> to say something, not just how. Register depends on three things: your relationship with the listener or reader, the medium (spoken or written) and the purpose. An email to a friend, a letter of complaint and an academic essay each call for a different kind of English.</p><table><thead><tr><th>Feature</th><th>Informal / neutral</th><th>Formal</th></tr></thead><tbody><tr><td>Verbs</td><td>look into, put up with, go up, find out, turn down</td><td>investigate, tolerate, rise, ascertain, reject</td></tr><tr><td>Quantifiers</td><td>a lot of, loads of, kids</td><td>a considerable number of, numerous, children</td></tr><tr><td>Connectors</td><td>but, so, plus, anyway</td><td>however, therefore, moreover, nevertheless</td></tr><tr><td>Structure</td><td>contractions, active voice, <em>I think</em></td><td>no contractions, passive and impersonal constructions (<em>It is widely believed that…</em>), abstract nouns</td></tr><tr><td>Politeness</td><td><em>Can you send me…? / Sorry about that.</em></td><td><em>I would be grateful if you could…; We apologise for any inconvenience.</em></td></tr></tbody></table><p><strong>Watch the extremes.</strong> More formal does not mean better. An overly elaborate register (<em>I would be most grateful were you to forward the aforementioned document</em> to a colleague) sounds pompous, even ironic. And in a <em>persuasive</em> text the register is usually <strong>semi-formal</strong>: precise vocabulary, but with devices that connect with the reader, such as the rhetorical question, the triad of ideas (<em>faster, cheaper, fairer</em>) or the short contrast.</p><p><strong>Coherence.</strong> The real problem is not being formal or informal, but <em>mixing</em> registers without intent: <em>Dear Sir, I wanna complain about your totally awesome mistake</em> is incoherent. In a TOEFL essay, avoid contractions, colloquial expressions and the generic <em>you</em>; but do not pile up nominalisations until nobody can read the text.</p>",
+   "watch": [
+    {
+     "wrong": "Dear Sir, I wanna complain because your ad is kinda misleading.",
+     "right": "Dear Sir, I am writing to complain that your advertisement is misleading.",
+     "why": "A formal letter does not use wanna, kinda or other colloquial contractions."
+    },
+    {
+     "wrong": "Loads of people think that kids are easily persuaded.",
+     "right": "Many people believe that children are easily persuaded.",
+     "why": "An academic text prefers many / numerous and children."
+    },
+    {
+     "wrong": "You can see that advertising has a big effect on people.",
+     "right": "It can be argued that advertising has a considerable effect on people.",
+     "why": "The generic you is avoided; the impersonal construction gives objectivity."
+    },
+    {
+     "wrong": "I would be most grateful if you could pass me the salt, my dear friend.",
+     "right": "Could you pass me the salt, please?",
+     "why": "A register that is too formal for the situation sounds artificial or sarcastic."
+    }
+   ]
+  },
+  {
+   "id": "v-media",
+   "kind": "vocab",
+   "title": "Media and advertising",
+   "words": [
+    {
+     "id": "w-bias",
+     "en": "bias",
+     "es": "sesgo, parcialidad",
+     "example": "The report showed a clear bias in favour of the government.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-spin",
+     "en": "spin",
+     "es": "enfoque interesado, 'maquillaje' de la información",
+     "example": "The minister put a positive spin on the poor figures.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-clickbait",
+     "en": "clickbait",
+     "es": "titular-anzuelo, contenido diseñado para obtener clics",
+     "example": "'You won't believe what happened next' is classic clickbait."
+    },
+    {
+     "id": "w-credible",
+     "en": "credible",
+     "es": "creíble, fiable",
+     "example": "A credible source is one you can trace and verify.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-headline",
+     "en": "headline",
+     "es": "titular",
+     "example": "The headline suggested a scandal, but the story was routine.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-outlet",
+     "en": "(media) outlet",
+     "es": "medio de comunicación",
+     "example": "Several news outlets repeated the claim without checking it.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-misleading",
+     "en": "misleading",
+     "es": "engañoso",
+     "example": "The graph was misleading because the axis started at 50.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-factcheck",
+     "en": "fact-check",
+     "es": "verificar datos; verificación de datos",
+     "example": "Independent groups fact-check politicians' speeches."
+    },
+    {
+     "id": "w-retraction",
+     "en": "retraction",
+     "es": "retractación, rectificación",
+     "example": "The paper published a retraction on page nine."
+    },
+    {
+     "id": "w-echochamber",
+     "en": "echo chamber",
+     "es": "cámara de eco (entorno que solo refuerza tus ideas)",
+     "example": "Social media can turn into an echo chamber.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-viral",
+     "en": "go viral",
+     "es": "hacerse viral",
+     "example": "The clip went viral within hours, despite being fake.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-endorsement",
+     "en": "endorsement",
+     "es": "respaldo, aval (p. ej. de una celebridad)",
+     "example": "The brand paid for a celebrity endorsement.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-sponsored",
+     "en": "sponsored content",
+     "es": "contenido patrocinado",
+     "example": "Sponsored content should always be clearly labelled.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-sensationalism",
+     "en": "sensationalism",
+     "es": "sensacionalismo",
+     "example": "Sensationalism sells, but it erodes public trust."
+    }
+   ]
+  },
+  {
+   "id": "v-persuasion",
+   "kind": "vocab",
+   "title": "Persuasion and argument",
+   "words": [
+    {
+     "id": "w-sway",
+     "en": "sway (voters/opinion)",
+     "es": "influir en, inclinar la opinión de",
+     "example": "A single emotional story can sway undecided voters."
+    },
+    {
+     "id": "w-compelling",
+     "en": "compelling",
+     "es": "convincente, de gran fuerza",
+     "example": "She presented a compelling case backed by data.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-claim",
+     "en": "claim",
+     "es": "afirmación, tesis; afirmar",
+     "example": "The central claim of the article is that prices will fall.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-rebuttal",
+     "en": "rebuttal",
+     "es": "refutación, réplica",
+     "example": "His rebuttal exposed the weakness of her argument."
+    },
+    {
+     "id": "w-counterargument",
+     "en": "counterargument",
+     "es": "contraargumento",
+     "example": "A strong essay anticipates a counterargument and answers it."
+    },
+    {
+     "id": "w-emotive",
+     "en": "emotive language",
+     "es": "lenguaje que apela a las emociones",
+     "example": "Words like 'crisis' and 'disaster' are emotive.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-loaded",
+     "en": "loaded (question/word)",
+     "es": "cargado, tendencioso",
+     "example": "'Have you stopped cheating?' is a loaded question.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-cherrypick",
+     "en": "cherry-pick",
+     "es": "seleccionar solo los datos favorables",
+     "example": "The report cherry-picked statistics that supported its view."
+    },
+    {
+     "id": "w-strawman",
+     "en": "straw man",
+     "es": "falacia del hombre de paja (caricaturizar el argumento ajeno)",
+     "example": "Attacking a distorted version of her view is a straw man.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-bandwagon",
+     "en": "bandwagon appeal",
+     "es": "apelación a la mayoría ('todos lo hacen')",
+     "example": "'Everyone is switching' is a bandwagon appeal.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-soundbite",
+     "en": "soundbite",
+     "es": "frase corta y pegadiza para los medios",
+     "example": "Politicians prefer soundbites to detailed explanations."
+    },
+    {
+     "id": "w-manipulate",
+     "en": "manipulate",
+     "es": "manipular",
+     "example": "Some adverts manipulate our fear of missing out.",
+     "cefr": "C1"
+    }
+   ]
+  },
+  {
+   "id": "e-analysing",
+   "kind": "expressions",
+   "title": "Analysing and presenting arguments",
+   "html": "<ul><li><strong>The author's central claim is that…</strong> — identifying the thesis of a text.</li><li><strong>This argument rests on the assumption that…</strong> — pointing out the implicit assumption.</li><li><strong>A case in point is…</strong> — introducing a representative example.</li><li><strong>Admittedly, … ; that said, …</strong> — conceding a point and counterarguing.</li><li><strong>That is not to say that…</strong> — avoiding an exaggerated interpretation: <em>That is not to say that all ads are dishonest.</em></li><li><strong>It would be naive to suppose that…</strong> — rejecting an idea politely.</li><li><strong>I would argue that… / It could be argued that…</strong> — presenting your opinion with some distance.</li><li><strong>Taken at face value, … ; however, a closer look reveals…</strong> — separating appearance from analysis.</li><li><strong>By the same token, … / Equally, …</strong> — applying the same reasoning to another case.</li><li><strong>To put it another way, … / In other words, …</strong> — reformulating.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Complete with the right marker",
+   "instructions": "Write the missing marker (one word).",
+   "topic": "g-discourse-markers",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "The new policy is popular with voters; ___, economists warn that it could prove costly.",
+     "answers": [
+      "nevertheless",
+      "nonetheless",
+      "however"
+     ],
+     "explain": "Formal contrast: nevertheless / nonetheless / however."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Critics say the campaign was dishonest. On the ___, every claim in it was independently verified.",
+     "answers": [
+      "contrary"
+     ],
+     "explain": "On the contrary negates the previous statement and affirms the opposite."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "If we distrust adverts that flatter us, then by the same ___ we should distrust polls that flatter us.",
+     "answers": [
+      "token"
+     ],
+     "explain": "Fixed expression: by the same token."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "It was an effective, ___ rather crude, advertising campaign.",
+     "answers": [
+      "albeit"
+     ],
+     "explain": "Albeit + adjective or short phrase (= although)."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "The headline was misleading and, ___, the article itself contained several factual errors.",
+     "answers": [
+      "moreover",
+      "furthermore",
+      "besides"
+     ],
+     "explain": "Strong addition: moreover / furthermore."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "Some outlets chase clicks at any cost, ___ others prioritise accuracy above all.",
+     "answers": [
+      "whereas",
+      "while"
+     ],
+     "explain": "Whereas / while contrast two realities in a single sentence."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "The broadcaster never corrected its error and, as a ___, lost much of its credibility.",
+     "answers": [
+      "result"
+     ],
+     "explain": "As a result = consequence."
+    },
+    {
+     "id": "A8",
+     "type": "gap",
+     "prompt": "___, it would be naive to assume that advertising has no effect on us; the question is how much.",
+     "answers": [
+      "admittedly",
+      "granted"
+     ],
+     "explain": "Admittedly / granted concede a point before the nuance."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Choose the marker with the right nuance",
+   "instructions": "Choose the option that fits both the meaning and the register.",
+   "topic": "g-discourse-markers",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "She is not hostile to social media; ___, she uses it every day.",
+     "options": [
+      "on the contrary",
+      "nevertheless",
+      "consequently"
+     ],
+     "answer": 0,
+     "explain": "A statement is denied and the opposite is affirmed: on the contrary."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "The data are inconclusive. ___, the minister insists that the policy is working.",
+     "options": [
+      "Consequently",
+      "Nevertheless",
+      "By the same token"
+     ],
+     "answer": 1,
+     "explain": "Contrast between the weak evidence and the minister's claim."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "If sweets adverts are restricted, ___ fast-food adverts should be restricted too.",
+     "options": [
+      "albeit",
+      "by the same token",
+      "on the contrary"
+     ],
+     "answer": 1,
+     "explain": "The same reasoning applied to another case: by the same token."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "___ the criticism, the campaign went ahead as planned.",
+     "options": [
+      "Albeit",
+      "Whereas",
+      "Notwithstanding"
+     ],
+     "answer": 2,
+     "explain": "Notwithstanding works as a preposition (= despite)."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "The article was spin: ___, selected facts arranged to look favourable.",
+     "options": [
+      "in other words",
+      "nevertheless",
+      "hence"
+     ],
+     "answer": 0,
+     "explain": "Reformulation: in other words."
+    },
+    {
+     "id": "B6",
+     "type": "choice",
+     "prompt": "The newspaper apologised; ___, the damage to its reputation had already been done.",
+     "options": [
+      "for instance",
+      "even so",
+      "as a result"
+     ],
+     "answer": 1,
+     "explain": "Even so introduces a fact that persists despite what came before."
+    },
+    {
+     "id": "B7",
+     "type": "choice",
+     "prompt": "Which sentence uses the marker correctly?",
+     "options": [
+      "Albeit it was expensive, the advert was memorable.",
+      "The advert was expensive; nevertheless, it was memorable.",
+      "Despite the advert was expensive, it was memorable."
+     ],
+     "answer": 1,
+     "explain": "Albeit does not take a full clause, and despite is not followed by a subject + conjugated verb."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Nominalisation",
+   "instructions": "Complete the nominalised version with the correct word or preposition (one only).",
+   "topic": "g-nominalization",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "People increasingly distrust the media. → There is growing ___ of the media.",
+     "answers": [
+      "distrust",
+      "mistrust"
+     ],
+     "explain": "Verb distrust → noun distrust / mistrust."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "Governments decided to regulate platforms. → The ___ to regulate platforms was controversial.",
+     "answers": [
+      "decision"
+     ],
+     "explain": "decide → decision (+ to + verb)."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "Prices rose sharply. → There was a sharp ___ in prices.",
+     "answers": [
+      "rise",
+      "increase"
+     ],
+     "explain": "Noun from rise/increase, followed by in."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "They refused to correct the story. → Their ___ to correct the story angered readers.",
+     "answers": [
+      "refusal"
+     ],
+     "explain": "refuse → refusal (+ to + verb)."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "Advertising influences voters. → The influence of advertising ___ voters is well documented.",
+     "answers": [
+      "on"
+     ],
+     "explain": "Influence on."
+    },
+    {
+     "id": "C6",
+     "type": "gap",
+     "prompt": "Teenagers rely heavily on social media. → Teenagers' heavy ___ on social media worries parents.",
+     "answers": [
+      "reliance"
+     ],
+     "explain": "rely on → reliance on."
+    },
+    {
+     "id": "C7",
+     "type": "gap",
+     "prompt": "It is important to verify sources. → The importance of ___ sources cannot be overstated.",
+     "answers": [
+      "verifying",
+      "checking"
+     ],
+     "explain": "After a preposition, use -ing."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Register: what sounds right?",
+   "instructions": "Choose the option that is most appropriate for the situation.",
+   "topic": "g-register",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "For a formal letter of complaint:",
+     "options": [
+      "I'm writing to complain 'cause your ad is totally misleading.",
+      "I am writing to express my concern regarding the misleading nature of your advertisement.",
+      "Your ad is rubbish, so sort it out."
+     ],
+     "answer": 1,
+     "explain": "No colloquialisms, with nominalisation and an impersonal tone."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "Formal equivalent of look into:",
+     "options": [
+      "investigate",
+      "check out",
+      "peek at"
+     ],
+     "answer": 0,
+     "explain": "Look into (informal) → investigate (formal)."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "Formal equivalent of put up with:",
+     "options": [
+      "stand for",
+      "tolerate",
+      "take on"
+     ],
+     "answer": 1,
+     "explain": "Put up with → tolerate."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "In an academic essay:",
+     "options": [
+      "Loads of people think ads are manipulative.",
+      "Many people consider advertising to be manipulative.",
+      "Lots of folks reckon ads trick you."
+     ],
+     "answer": 1,
+     "explain": "Many + consider: neutral-formal vocabulary."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "In an informal chat with a friend:",
+     "options": [
+      "It has been suggested that your enthusiasm is somewhat excessive.",
+      "Come on, you're going a bit overboard!",
+      "Your enthusiasm is, in my estimation, disproportionate."
+     ],
+     "answer": 1,
+     "explain": "A colloquial register is natural among friends."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "Which one sounds pompous and unnecessarily formal in a message to a colleague?",
+     "options": [
+      "Could you send me the file?",
+      "I would be most grateful were you to forward the aforementioned document.",
+      "Can you send me that file?"
+     ],
+     "answer": 1,
+     "explain": "More formal is not better: here it sounds stilted."
+    },
+    {
+     "id": "D7",
+     "type": "choice",
+     "prompt": "Best opening for a persuasive speech to a general audience:",
+     "options": [
+      "Is it right that a single headline can decide an election?",
+      "It is hereby acknowledged that headlines exert influence.",
+      "Headlines, like, matter a lot."
+     ],
+     "answer": 0,
+     "explain": "The rhetorical question connects with the audience; the others are too rigid or too colloquial."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Media vocabulary",
+   "instructions": "Complete with the right word from the vocabulary block.",
+   "topic": "v-media",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "The headline 'You won't believe what she did next!' is classic ___.",
+     "answers": [
+      "clickbait"
+     ],
+     "explain": "A sensational headline designed to lure readers: clickbait."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "The paper issued a ___ after admitting that the story was false.",
+     "answers": [
+      "retraction"
+     ],
+     "explain": "Retraction = a published correction."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "Before sharing that post, ___ it against reliable sources.",
+     "answers": [
+      "fact-check",
+      "fact check",
+      "factcheck"
+     ],
+     "explain": "Fact-check as a verb."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "She only follows people who agree with her, so she lives in an ___ chamber.",
+     "answers": [
+      "echo"
+     ],
+     "explain": "Echo chamber."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "The government's ___ turned a failure into a 'learning opportunity'.",
+     "answers": [
+      "spin"
+     ],
+     "explain": "Spin: presenting something with a self-serving slant."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "The study is not ___ because the sample was tiny and self-selected.",
+     "answers": [
+      "credible"
+     ],
+     "explain": "Credible = trustworthy, believable."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "The report shows a clear political ___ in the coverage.",
+     "answers": [
+      "bias"
+     ],
+     "explain": "Bias = a slant or prejudice in one direction."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Persuasion vocabulary",
+   "instructions": "Choose the correct option.",
+   "topic": "v-persuasion",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "She misrepresented my view to make it easier to attack. This is a ___.",
+     "options": [
+      "straw man",
+      "slippery slope",
+      "soundbite"
+     ],
+     "answer": 0,
+     "explain": "Straw man: attacking a distorted version of an argument."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "'Everyone is buying it, so you should too' is a ___ appeal.",
+     "options": [
+      "bandwagon",
+      "credible",
+      "loaded"
+     ],
+     "answer": 0,
+     "explain": "Bandwagon appeal: appealing to the majority."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "To sway voters means to:",
+     "options": [
+      "influence their opinion",
+      "ignore their opinion",
+      "count their votes"
+     ],
+     "answer": 0,
+     "explain": "Sway = to influence, to win over."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "A cherry-picked statistic is one that:",
+     "options": [
+      "selects only favourable evidence",
+      "has been checked by experts",
+      "is too complex to explain"
+     ],
+     "answer": 0,
+     "explain": "Cherry-pick: selecting only what suits your case."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "Emotive language is:",
+     "options": [
+      "words chosen to stir feelings",
+      "technical terminology",
+      "neutral wording"
+     ],
+     "answer": 0,
+     "explain": "Emotive = appeals to the emotions."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "A rebuttal is:",
+     "options": [
+      "a response that challenges an argument",
+      "a summary of an article",
+      "a paid endorsement"
+     ],
+     "answer": 0,
+     "explain": "Rebuttal = a refutation of an argument."
+    },
+    {
+     "id": "F7",
+     "type": "choice",
+     "prompt": "A ___ argument convinces because it is backed by strong evidence.",
+     "options": [
+      "compelling",
+      "loaded",
+      "vague"
+     ],
+     "answer": 0,
+     "explain": "Compelling = convincing."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Order the sentences",
+   "instructions": "Put the words in order to form a correct sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "On",
+      "the",
+      "contrary,",
+      "the",
+      "data",
+      "support",
+      "her",
+      "claim"
+     ],
+     "answers": [
+      "On the contrary, the data support her claim.",
+      "On the contrary the data support her claim."
+     ],
+     "explain": "On the contrary + opposite statement."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "Many",
+      "people",
+      "distrust",
+      "headlines",
+      "that",
+      "sound",
+      "too",
+      "good",
+      "to",
+      "be",
+      "true"
+     ],
+     "answers": [
+      "Many people distrust headlines that sound too good to be true."
+     ],
+     "explain": "Relative clause with that after headlines."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "The",
+      "decision",
+      "to",
+      "ban",
+      "the",
+      "advert",
+      "was",
+      "widely",
+      "criticised"
+     ],
+     "answers": [
+      "The decision to ban the advert was widely criticised."
+     ],
+     "explain": "Nominalisation: decision + to + verb."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "Not",
+      "all",
+      "sponsored",
+      "content",
+      "is",
+      "clearly",
+      "labelled",
+      "as",
+      "such"
+     ],
+     "answers": [
+      "Not all sponsored content is clearly labelled as such."
+     ],
+     "explain": "Not all + noun + verb."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "By",
+      "the",
+      "same",
+      "token,",
+      "we",
+      "should",
+      "question",
+      "claims",
+      "we",
+      "like"
+     ],
+     "answers": [
+      "By the same token, we should question claims we like.",
+      "By the same token we should question claims we like."
+     ],
+     "explain": "By the same token applies the same logic."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "Fact-checking",
+      "has",
+      "become",
+      "an",
+      "essential",
+      "part",
+      "of",
+      "modern",
+      "journalism"
+     ],
+     "answers": [
+      "Fact-checking has become an essential part of modern journalism."
+     ],
+     "explain": "Present perfect with become."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Sin embargo, mucha gente sigue creyendo esas noticias falsas.",
+     "answers": [
+      "However, many people still believe those fake news stories.",
+      "Nevertheless, many people still believe those fake news stories.",
+      "However, many people still believe that fake news.",
+      "Nevertheless, many people still believe that fake news.",
+      "However, many people still believe in that fake news."
+     ],
+     "explain": "Contrast marker + still + believe."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "El titular era engañoso, aunque técnicamente cierto.",
+     "answers": [
+      "The headline was misleading, albeit technically true.",
+      "The headline was misleading, although it was technically true.",
+      "The headline was misleading, though technically true.",
+      "The headline was misleading, although technically true."
+     ],
+     "explain": "Albeit + adjective/short phrase."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Hay una creciente desconfianza hacia los medios.",
+     "answers": [
+      "There is growing distrust of the media.",
+      "There is growing mistrust of the media.",
+      "There is increasing distrust of the media.",
+      "There is increasing mistrust of the media.",
+      "There is a growing distrust of the media.",
+      "There is a growing mistrust of the media.",
+      "There is growing distrust in the media.",
+      "There is increasing distrust in the media."
+     ],
+     "explain": "Nominalisation: distrust of / in."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Al contrario, la campaña tuvo un efecto muy limitado.",
+     "answers": [
+      "On the contrary, the campaign had a very limited effect.",
+      "On the contrary, the campaign had a very limited impact."
+     ],
+     "explain": "On the contrary negates the previous idea."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Por la misma razón, deberíamos cuestionar los estudios patrocinados.",
+     "answers": [
+      "By the same token, we should question sponsored studies.",
+      "By the same token, we ought to question sponsored studies.",
+      "By the same token, we should question the sponsored studies."
+     ],
+     "explain": "By the same token = for the same reason."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "El periódico publicó una retractación tras la queja.",
+     "answers": [
+      "The newspaper published a retraction after the complaint.",
+      "The newspaper published a retraction following the complaint.",
+      "The newspaper issued a retraction after the complaint.",
+      "The newspaper issued a retraction following the complaint.",
+      "The newspaper printed a retraction after the complaint."
+     ],
+     "explain": "Retraction = a public correction."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (including a review of units 3 and 6 of this level).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "The film was widely praised; ___, it flopped at the box office.",
+     "options": [
+      "nevertheless",
+      "hence",
+      "for instance"
+     ],
+     "answer": 0,
+     "explain": "Contrast: nevertheless."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "The ___ of misinformation has given rise to a crisis of trust. (spread)",
+     "answers": [
+      "spread"
+     ],
+     "explain": "Spread works as a noun: the spread of."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "Albeit he was exhausted, he kept presenting.",
+     "answers": [
+      "Albeit exhausted, he kept presenting.",
+      "Although he was exhausted, he kept presenting.",
+      "Even though he was exhausted, he kept presenting.",
+      "Though he was exhausted, he kept presenting."
+     ],
+     "explain": "Albeit does not introduce clauses with a subject and a verb."
+    },
+    {
+     "id": "M4",
+     "type": "fix",
+     "prompt": "The increase of prices worried consumers.",
+     "answers": [
+      "The increase in prices worried consumers."
+     ],
+     "explain": "Increase in + noun."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "Which version is more suitable for an academic essay?",
+     "options": [
+      "Kids today are totally glued to their phones.",
+      "Children today spend a considerable amount of time on their phones.",
+      "Kids spend loads of time on phones, you know."
+     ],
+     "answer": 1,
+     "explain": "Formal vocabulary, without filler words."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "Sensationalism sells; ___, it erodes public trust in the long run. (that is, 'however, that said')",
+     "answers": [
+      "that said",
+      "however",
+      "nevertheless",
+      "even so",
+      "nonetheless"
+     ],
+     "explain": "Contrast that qualifies what came before."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "A statistic chosen only because it supports your view is:",
+     "options": [
+      "cherry-picked",
+      "credible",
+      "retracted"
+     ],
+     "answer": 0,
+     "explain": "Cherry-picked."
+    },
+    {
+     "id": "M8",
+     "type": "translate",
+     "prompt": "La importancia de verificar las fuentes no puede subestimarse.",
+     "answers": [
+      "The importance of verifying sources cannot be overstated.",
+      "The importance of checking sources cannot be overstated.",
+      "The importance of verifying sources cannot be underestimated.",
+      "The importance of checking sources cannot be underestimated."
+     ],
+     "explain": "Nominalisation + modal passive. (overstated/underestimated are also accepted.)"
+    },
+    {
+     "id": "M9",
+     "type": "choice",
+     "prompt": "(Unit 3 review) She denied ___ the story to the press.",
+     "options": [
+      "to leak",
+      "leaking",
+      "leak"
+     ],
+     "answer": 1,
+     "explain": "Deny + -ing."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "(Unit 6 review) ___ I known the source was biased, I would never have shared it.",
+     "answers": [
+      "had"
+     ],
+     "explain": "Inverted conditional: Had I known = If I had known."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a persuasive text of 250 to 350 words for a university magazine, titled 'Should we trust what we read online?'. Present your position, develop at least two arguments with examples, acknowledge and refute an objection, and close with a call to action. Use a semi-formal register.",
+   "targets": [
+    "discourse markers",
+    "nominalization",
+    "persuasive semi-formal register",
+    "vocabulary of media and persuasion"
+   ],
+   "checklist": [
+    "Clear thesis in the introduction",
+    "At least 5 different markers (nevertheless, on the contrary, by the same token, admittedly, hence…)",
+    "Correct use of on the contrary vs. on the other hand",
+    "At least 4 nominalisations with the correct preposition (increase in, reliance on, influence on…)",
+    "A rhetorical question or a triad to persuade",
+    "Concession and refutation of an objection",
+    "Consistent register, with no colloquialisms or mixed styles",
+    "Between 250 and 350 words"
+   ],
+   "model": "Should we trust what we read online?\n\nEvery day, most of us read dozens of articles, posts and headlines, and we trust many of them without a second thought. My position is simple: we should read online content with curiosity, but not with blind faith.\n\nThe first reason is the sheer scale of misinformation. There has been a dramatic increase in the volume of false stories circulating on social media, and the speed at which they spread far exceeds that of any correction. Our reliance on a handful of platforms, whose algorithms reward outrage rather than accuracy, only makes matters worse. Hence the real danger is not that we are lied to, but that we are rarely invited to doubt.\n\nSecondly, the influence of repetition on our beliefs is well documented. A claim that we see ten times begins to feel familiar, and familiarity is easily mistaken for truth. By the same token, a decline in trust in traditional institutions has left many readers looking for comfort in sources that merely confirm what they already think.\n\nAdmittedly, it could be objected that the internet has also democratised knowledge. Anyone can now read a scientific paper, watch a lecture from a leading university or hear voices that were once excluded from the media. That is true, but it does not follow that every source is equally reliable. On the contrary, the abundance of information makes judgement more important, not less. Freedom to publish is valuable; on the other hand, it places a heavier burden on the reader.\n\nSo what should we do? Check the source, compare the evidence and pause before sharing. Be sceptical, be fair and be patient. Nevertheless, scepticism is not cynicism: if each of us took thirty seconds to verify a story before sharing it, the effect on public debate would be enormous. Let us start today."
+  },
+  {
+   "id": "W2",
+   "prompt": "In writing (250 to 300 words), analyse an advert, a headline or a real speech that you know: identify the central claim, the persuasive devices (emotive language, bandwagon, cherry-picking…) and assess whether the argument is credible. End with your personal evaluation.",
+   "targets": [
+    "analysing arguments",
+    "persuasion vocabulary",
+    "concession and contrast markers",
+    "analysis expressions"
+   ],
+   "checklist": [
+    "Summary of the central claim (The central claim is…)",
+    "At least two persuasive devices named and explained",
+    "An analytical expression (rests on the assumption that, taken at face value…)",
+    "Concession with admittedly / granted and contrast with that said / however",
+    "Justified final evaluation",
+    "Formal-neutral register, no contractions",
+    "Between 250 and 300 words"
+   ],
+   "model": "The advert I have chosen is a familiar one for a breakfast cereal, which claims that \"nine out of ten families who tried it now choose it every morning\". The central claim is that this cereal is the preferred choice of the great majority of families and, by implication, that it is therefore a healthy and sensible product.\n\nThe advert relies on several persuasive devices. The first is the bandwagon appeal: the phrase \"nine out of ten families\" invites viewers to join a crowd and suggests that not buying the product would make them an exception. The second is cherry-picking. The statistic refers only to families who tried it, so those who disliked it and never bought it again are quietly excluded, and no information is given about the size or selection of the sample. Emotive language reinforces the effect, since images of laughing children and sunlit kitchens associate the cereal with happiness rather than with nutrition.\n\nTaken at face value, the claim sounds impressive. However, it rests on the assumption that popularity is evidence of quality, which is clearly questionable. Moreover, the advert never mentions the sugar content, which is the very information a health-conscious parent would need.\n\nAdmittedly, the advert is skilfully made, and it is not entirely dishonest: it may well be true that many families enjoy the product. Granted, enjoyment is a legitimate reason to buy a cereal. That said, the argument does not establish what it implies, namely that the product is good for children.\n\nIn my evaluation, the advert is persuasive but not credible. It succeeds in appealing to emotion, yet it fails as an argument, and a careful consumer should treat it with caution."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Who is really persuading whom?",
+   "intro": "Read the essay and answer the questions.",
+   "paragraphs": [
+    "Every morning, before most of us have finished our first coffee, we have already been persuaded of something. A headline nudged us to feel outraged; a sponsored post suggested a product we had not known we needed; a friend's shared video convinced us, for a few seconds at least, that the world was either on fire or magnificently fine. Persuasion is not an occasional event in modern life but its constant background noise, and the sophisticated consumer of media is not the person who resists it entirely, which is impossible, but the one who notices it.",
+    "Consider the humble headline. Editors have always known that a title is an advertisement for the story beneath it, yet the economics of online publishing have pushed the practice to extremes. Revenue depends on clicks, and clicks depend on curiosity, anger or fear. Hence the proliferation of headlines that promise revelations they never deliver. Defenders of the practice argue that readers are not fools and that a catchy title is harmless provided the article is accurate. Admittedly, there is something in this. However, research on reading habits suggests that a large share of people never get past the headline at all, and for them the headline is the story. If it distorts, the distortion is the only version of events they receive.",
+    "Bias is a subtler matter, because it rarely takes the form of outright falsehood. More often it operates through selection and framing: which facts are included, which are buried in the twelfth paragraph, which adjectives accompany which names. Compare 'protesters clashed with police' and 'police cracked down on protesters'. Both may be literally true; neither is neutral. Politicians, of course, have turned such choices into a profession. Spin doctors do not lie so much as arrange the truth into a flattering shape, describing a cut as a 'savings opportunity' and a failure as a 'valuable lesson'. The reader who spots the framing is already half protected.",
+    "It would be comforting to believe that the remedy is simply more information, but the evidence is discouraging. People tend to seek out sources that confirm what they already think, and algorithms, designed to keep us engaged, oblige them. The result is the so-called echo chamber, in which one's views come back amplified and unchallenged. Fact-checking organisations do valuable work, yet corrections rarely travel as far or as fast as the original claim, and a retraction published on page nine does little to undo a headline seen by millions. Nor is scepticism a cure-all: when everything is suspect, nothing is credible, and a cynical shrug can be exactly what a manipulator hopes for.",
+    "What, then, can be done? The most promising answer is neither censorship nor naive trust but habit. Ask who is speaking and what they stand to gain. Look for the evidence behind a claim rather than the confidence with which it is delivered. Notice emotive language, and ask what it is doing in place of an argument. And, by the same token, apply the same scrutiny to the messages we agree with, since those are the ones we are least inclined to question. None of this makes persuasion go away, nor should it; a good argument deserves to persuade. The aim is not to become immune but to become a harder audience: one that can be convinced by reasons, and is rather less easily moved by tricks."
+   ],
+   "glossary": [
+    {
+     "en": "nudge",
+     "def": "to push gently or encourage someone to do something"
+    },
+    {
+     "en": "proliferation",
+     "def": "a rapid increase in number or amount"
+    },
+    {
+     "en": "framing",
+     "def": "the way information is presented"
+    },
+    {
+     "en": "buried",
+     "def": "hidden or concealed"
+    },
+    {
+     "en": "amplified",
+     "def": "made louder or stronger"
+    },
+    {
+     "en": "scrutiny",
+     "def": "close and careful examination"
+    },
+    {
+     "en": "cure-all",
+     "def": "a cure-all; a solution supposed to fix every problem"
+    },
+    {
+     "en": "immune",
+     "def": "protected from something; not affected by it"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "According to the writer, the sophisticated consumer of media is someone who:",
+     "options": [
+      "avoids persuasion completely",
+      "notices when they are being persuaded",
+      "ignores headlines and sponsored posts"
+     ],
+     "answer": 1,
+     "explain": "Says that completely resisting is impossible; the sophisticated thing is to notice persuasion."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "The writer believes catchy headlines are harmless in every case.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Concedes something to the defenders (\"Admittedly\"), but with \"However\" points out that many people only read the headline."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Why does the writer compare 'protesters clashed with police' and 'police cracked down on protesters'?",
+     "options": [
+      "To show that framing can shape meaning even when both are true",
+      "To prove that the police are always at fault",
+      "To show that headlines are usually false"
+     ],
+     "answer": 0,
+     "explain": "Both can be true, but neither is neutral: it is an example of framing."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "What problem does the writer identify with corrections?",
+     "options": [
+      "They are usually inaccurate",
+      "They rarely reach as many people as the original claim",
+      "They are banned by most outlets"
+     ],
+     "answer": 1,
+     "explain": "«Corrections rarely travel as far or as fast as the original claim»."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Algorithms, designed to keep us ___, give people the sources they already agree with.",
+     "answers": [
+      "engaged"
+     ],
+     "explain": "El texto dice: «algorithms, designed to keep us engaged, oblige them»."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "The writer recommends applying scepticism only to messages we disagree with.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "On the contrary: we also have to examine the messages we agree with."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "What is the aim proposed in the final paragraph?",
+     "options": [
+      "To become immune to persuasion",
+      "To become a harder audience to fool",
+      "To abolish spin doctors"
+     ],
+     "answer": 1,
+     "explain": "«The aim is not to become immune but to become a harder audience»."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Why do we fall for clickbait?",
+   "intro": "Listen to the radio programme with a guest and a listener. You can repeat it.",
+   "lines": [
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Welcome back to The Daily Lens. Today we're asking a simple question: why do we keep falling for clickbait? With me is media-literacy teacher Dr Elena Reyes. Elena, welcome."
+    },
+    {
+     "who": "Dr Reyes",
+     "voice": "airy",
+     "text": "Thanks for having me. Though I'd say 'falling for' is a bit harsh. These headlines are engineered by people who study our psychology for a living."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "Fair enough. But surely we're not that gullible?"
+    },
+    {
+     "who": "Dr Reyes",
+     "voice": "airy",
+     "text": "Gullible, no. Busy, yes. We read the headline, glance at the picture, and move on. That's precisely what the industry counts on."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "We have a caller on the line. Marcos, you're on air."
+    },
+    {
+     "who": "Marcos",
+     "voice": "glassy",
+     "text": "Hi there. I work in digital marketing, and I have to say, clickbait gets a bad press. If the article delivers, what's the harm?"
+    },
+    {
+     "who": "Dr Reyes",
+     "voice": "airy",
+     "text": "Fair point, Marcos, and I'd concede that some curiosity-driven headlines are harmless. That said, the problem arises when the headline promises far more than the story contains."
+    },
+    {
+     "who": "Marcos",
+     "voice": "glassy",
+     "text": "Sure, but it's up to readers to think critically, isn't it? I mean, nobody forces them to click."
+    },
+    {
+     "who": "Dr Reyes",
+     "voice": "airy",
+     "text": "On the contrary, the whole design is meant to make clicking feel automatic. By the same token, you wouldn't blame shoppers for impulse buys at the checkout, would you? The shelf is arranged to tempt them."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "That's a good analogy. So what should listeners actually do?"
+    },
+    {
+     "who": "Dr Reyes",
+     "voice": "airy",
+     "text": "Three quick habits. First, check who published it and whether you've heard of them. Second, look for a named source rather than 'experts say'. Third, pause before sharing, because outrage travels faster than accuracy."
+    },
+    {
+     "who": "Marcos",
+     "voice": "glassy",
+     "text": "I'll admit that last one hits home. I shared something last week that turned out to be a hoax."
+    },
+    {
+     "who": "Host",
+     "voice": "buttery",
+     "text": "You're in good company, Marcos. Elena, thank you, and Marcos, thanks for being honest about it."
+    },
+    {
+     "who": "Dr Reyes",
+     "voice": "airy",
+     "text": "Anytime. And remember, a retraction never gets as many views as the original mistake."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Why does Dr Reyes say that 'falling for' clickbait is a bit harsh?",
+     "options": [
+      "Because the headlines are designed by people who study psychology",
+      "Because clickbait is never misleading",
+      "Because nobody reads headlines any more"
+     ],
+     "answer": 0,
+     "explain": "Headlines are designed by psychology specialists."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What does Marcos do for a living?",
+     "options": [
+      "He is a journalist",
+      "He works in digital marketing",
+      "He teaches media literacy"
+     ],
+     "answer": 1,
+     "explain": "«I work in digital marketing»."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "How does Dr Reyes answer the claim that nobody forces readers to click?",
+     "options": [
+      "She agrees completely",
+      "She says the design makes clicking feel automatic",
+      "She says readers should be fined"
+     ],
+     "answer": 1,
+     "explain": "«On the contrary, the whole design is meant to make clicking feel automatic»."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "Which of these is NOT one of her three habits?",
+     "options": [
+      "Check who published the story",
+      "Look for a named source",
+      "Share it quickly to warn others"
+     ],
+     "answer": 2,
+     "explain": "She recommends pausing before sharing, not sharing quickly."
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "Outrage travels faster than ___.",
+     "answers": [
+      "accuracy"
+     ],
+     "explain": "«Outrage travels faster than accuracy»."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "Marcos has never shared false information.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Admite haber compartido un bulo (hoax) la semana pasada."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "We read the headline, glance at the picture, and move on.",
+     "answers": [
+      "We read the headline, glance at the picture, and move on."
+     ],
+     "explain": "Series of three verbs with a comma before the last one."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "That said, the problem arises when the headline promises far more than the story contains.",
+     "answers": [
+      "That said, the problem arises when the headline promises far more than the story contains."
+     ],
+     "explain": "That said = conector de contraste conversacional."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "By the same token, you wouldn't blame shoppers for impulse buys, would you?",
+     "answers": [
+      "By the same token, you wouldn't blame shoppers for impulse buys, would you?"
+     ],
+     "explain": "By the same token + question tag."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "A retraction never gets as many views as the original mistake.",
+     "answers": [
+      "A retraction never gets as many views as the original mistake."
+     ],
+     "explain": "As many … as para comparar cantidades."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Analyse an advert or a headline you have seen: what persuasion technique does it use, and does it work on you?",
+     "questions": [
+      "Can you describe an advert or headline that caught your attention recently?",
+      "What persuasion technique does it use?",
+      "Does it work on you? Why, or why not?",
+      "Is it ethical, in your view?"
+     ],
+     "model": "A headline I saw last week said 'Doctors hate this simple trick'. It's classic clickbait: it promises a secret and plays on curiosity. Admittedly, it worked on me for about ten seconds, since I clicked. Nevertheless, the article contained nothing new, so I felt manipulated. In my view it's borderline unethical, because it deliberately exploits our curiosity without delivering anything of value.",
+     "checklist": [
+      "Name the technique (clickbait, bandwagon, emotive language…)",
+      "At least two markers (admittedly, nevertheless, however…)",
+      "Justified opinion with because / since",
+      "Media vocabulary from the block"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Argue for or against: 'Advertising does more harm than good.' Present an argument, concede a point and counterargue.",
+     "questions": [
+      "Do you agree that advertising does more harm than good?",
+      "What is the strongest argument on the other side?",
+      "Is there a type of advertising you think is acceptable?",
+      "Who should be responsible for regulating it?"
+     ],
+     "model": "I'd argue that advertising does more harm than good, at least in its current form. It encourages consumption we don't need and targets vulnerable groups such as children. That said, I'd concede that it funds a great deal of free content and helps small businesses reach customers. By the same token, however, we should ask who benefits most: usually large corporations. On balance, I think stricter regulation is the answer, rather than a ban.",
+     "checklist": [
+      "Clear thesis (I'd argue that…)",
+      "Concession + counterargument (admittedly / that said)",
+      "By the same token, or another addition connector",
+      "Conclusion with On balance / Overall"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Register role-play: first, persuade a friend to use their phone less (informal); then ask your boss to reschedule a meeting (formal).",
+     "questions": [
+      "Friend: Why are you telling me to put my phone down?",
+      "Friend: But I'm only checking the news!",
+      "Manager: You wanted to see me about something?",
+      "Manager: Why can't the meeting stay at ten?"
+     ],
+     "model": "Friend version: Look, I'm not saying you're addicted, but you've checked it five times since we sat down. Give it a rest, will you? Manager version: Thank you for seeing me. I was wondering whether it would be possible to move tomorrow's meeting to eleven, as I have a prior commitment. I apologise for any inconvenience this may cause, and I would be happy to adjust my schedule in return.",
+     "checklist": [
+      "Informal register: contractions, colloquial expressions",
+      "Formal register: I was wondering whether…, I would be happy to…",
+      "Appropriate politeness in the request",
+      "Clear shift between the two registers"
+     ]
+    }
+   ],
+   "repeat": [
+    "Nevertheless, the campaign was remarkably effective.",
+    "On the contrary, the evidence points the other way.",
+    "By the same token, we should question claims we like.",
+    "A good, albeit expensive, solution.",
+    "There is growing distrust of the media.",
+    "That said, it would be naive to assume it has no effect."
+   ]
+  }
+ }
+}

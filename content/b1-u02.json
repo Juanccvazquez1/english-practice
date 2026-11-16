@@ -1,0 +1,1473 @@
+{
+ "id": "b1-u02",
+ "level": "A1",
+ "n": 2,
+ "title": "What do you do?",
+ "goals": [
+  "Say and ask what a person does for a living (He's an engineer, What do you do?).",
+  "Use a, an, the or no article correctly with jobs and other nouns.",
+  "Talk about your family and other people's families (my cousin's dad is a police officer).",
+  "Express possession with have/has, 's and possessive pronouns (mine, yours, hers…).",
+  "Write a short paragraph about a relative using capital letters and periods correctly.",
+  "Describe jobs and people's qualities (well-paid, hardworking, rewarding)."
+ ],
+ "learn": [
+  {
+   "id": "v-occupations",
+   "kind": "vocab",
+   "title": "Occupations (jobs)",
+   "words": [
+    {
+     "id": "w-doctor",
+     "en": "doctor",
+     "es": "médico/a",
+     "example": "My aunt is a doctor in a small clinic.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-firefighter",
+     "en": "firefighter",
+     "es": "bombero/a",
+     "example": "A firefighter's job is dangerous.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-taxi-driver",
+     "en": "taxi driver",
+     "es": "taxista",
+     "example": "A taxi driver knows the city very well.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-engineer",
+     "en": "engineer",
+     "es": "ingeniero/a",
+     "example": "He's an engineer.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-sound-engineer",
+     "en": "sound engineer",
+     "es": "ingeniero/a de sonido",
+     "example": "Max is a sound engineer.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-software-engineer",
+     "en": "software engineer",
+     "es": "ingeniero/a de software",
+     "example": "She's a software engineer.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-police-officer",
+     "en": "police officer",
+     "es": "policía",
+     "example": "His dad is a police officer.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-writer",
+     "en": "writer",
+     "es": "escritor/a",
+     "example": "She writes short stories.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-teacher",
+     "en": "teacher",
+     "es": "profesor/a, maestro/a",
+     "example": "Is your sister a teacher?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-singer",
+     "en": "singer",
+     "es": "cantante",
+     "example": "A singer needs a good voice.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-musician",
+     "en": "musician",
+     "es": "músico/a",
+     "example": "He's a musician.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-actor",
+     "en": "actor",
+     "es": "actor / actriz",
+     "example": "They're actors in a TV show.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-artist",
+     "en": "artist",
+     "es": "artista",
+     "example": "An artist sees things differently.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-lawyer",
+     "en": "lawyer",
+     "es": "abogado/a",
+     "example": "Brenda is a lawyer.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-architect",
+     "en": "architect",
+     "es": "arquitecto/a",
+     "example": "Is she an architect?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-journalist",
+     "en": "journalist",
+     "es": "periodista",
+     "example": "A journalist asks many questions.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-soldier",
+     "en": "soldier",
+     "es": "soldado",
+     "example": "He's a soldier.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-designer",
+     "en": "designer",
+     "es": "diseñador/a",
+     "example": "My brother wants to be a designer.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-manager",
+     "en": "manager",
+     "es": "gerente, jefe/a",
+     "example": "The manager has an office.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-florist",
+     "en": "florist",
+     "es": "florista",
+     "example": "Jenny is a florist."
+    },
+    {
+     "id": "w-physiotherapist",
+     "en": "physiotherapist",
+     "es": "fisioterapeuta",
+     "example": "Harry is a physiotherapist."
+    },
+    {
+     "id": "w-piano-teacher",
+     "en": "piano teacher",
+     "es": "profesor/a de piano",
+     "example": "His mom is a piano teacher.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-family",
+   "kind": "vocab",
+   "title": "Family members",
+   "words": [
+    {
+     "id": "w-mother-mom",
+     "en": "mother / mom",
+     "es": "madre / mamá",
+     "example": "My mom's name is Brenda.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-father-dad",
+     "en": "father / dad",
+     "es": "padre / papá",
+     "example": "His dad is a police officer.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-parents",
+     "en": "parents",
+     "es": "padres (papá y mamá)",
+     "example": "My parents live in Santiago.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-brother-sister",
+     "en": "brother / sister",
+     "es": "hermano / hermana",
+     "example": "I have two brothers and a sister.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-husband-wife",
+     "en": "husband / wife",
+     "es": "esposo / esposa",
+     "example": "Her husband is a doctor.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-son-daughter",
+     "en": "son / daughter",
+     "es": "hijo / hija",
+     "example": "Their daughter is a student.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-children-kids",
+     "en": "children / kids",
+     "es": "hijos, niños",
+     "example": "They have two children.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-grandparents",
+     "en": "grandparents",
+     "es": "abuelos",
+     "example": "His grandparents' house is near the school.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-grandfather-grandmother",
+     "en": "grandfather / grandmother",
+     "es": "abuelo / abuela",
+     "example": "My mom's dad is my grandfather.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-cousin",
+     "en": "cousin",
+     "es": "primo/a",
+     "example": "Max is my cousin.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-aunt-uncle",
+     "en": "aunt / uncle",
+     "es": "tía / tío",
+     "example": "My mom has a sister: she's my aunt.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-articles",
+   "kind": "grammar",
+   "title": "Articles: a / an / the / no article",
+   "html": "<p>English needs an article with a job in the singular: for example, <em>He is a doctor</em>. With plural nouns, we don't use <em>a/an</em>.</p><table><thead><tr><th>Case</th><th>Rule</th><th>Example</th></tr></thead><tbody><tr><td><strong>a</strong></td><td>Singular, starts with a consonant sound</td><td>a teacher, a singer, a university student</td></tr><tr><td><strong>an</strong></td><td>Singular, starts with a vowel sound</td><td>an actor, an engineer, an architect</td></tr><tr><td><strong>no article (–)</strong></td><td>Plural in general, or general ideas</td><td>writers, students, lawyers; <em>English teachers help students</em></td></tr><tr><td><strong>the</strong></td><td>Something already mentioned, or unique / known to everyone</td><td><em>a school… The school is in Boston</em>; the government, the internet</td></tr></tbody></table><p>Count the <strong>sound</strong>, not the letter: <em>an hour</em>, but <em>a university</em>.</p>",
+   "watch": [
+    {
+     "wrong": "He is musician.",
+     "right": "He is a musician.",
+     "why": "A job in the singular takes a/an."
+    },
+    {
+     "wrong": "They are a doctors.",
+     "right": "They are doctors.",
+     "why": "Never use a/an with plurals."
+    },
+    {
+     "wrong": "Is Dave an lawyer?",
+     "right": "Is Dave a lawyer?",
+     "why": "Lawyer starts with a consonant sound."
+    },
+    {
+     "wrong": "I am not student.",
+     "right": "I am not a student.",
+     "why": "The article is also needed in negative sentences."
+    },
+    {
+     "wrong": "A school is in Boston. (ya mencionada)",
+     "right": "The school is in Boston.",
+     "why": "Something already mentioned takes the."
+    }
+   ]
+  },
+  {
+   "id": "g-have",
+   "kind": "grammar",
+   "title": "Possession with have / has",
+   "html": "<p>Used to say what people have (family, objects). With <em>he / she / it</em> we use <strong>has</strong>.</p><table><thead><tr><th>Affirmative</th><th>Negative</th><th>Question</th><th>Short answer</th></tr></thead><tbody><tr><td>I/you/we/they <strong>have</strong> a laptop</td><td>I/you/we/they <strong>don't have</strong> a laptop</td><td><strong>Do</strong> you <strong>have</strong> a laptop?</td><td>Yes, I do. / No, I don't.</td></tr><tr><td>He/she/it <strong>has</strong> a brother</td><td>He/she/it <strong>doesn't have</strong> a brother</td><td><strong>Does</strong> she <strong>have</strong> a brother?</td><td>Yes, she does. / No, she doesn't.</td></tr></tbody></table><p>After <em>doesn't</em> and <em>does</em>, the verb goes back to <em>have</em>.</p>",
+   "watch": [
+    {
+     "wrong": "He have two brothers.",
+     "right": "He has two brothers.",
+     "why": "Third person singular: has."
+    },
+    {
+     "wrong": "She doesn't has a sister.",
+     "right": "She doesn't have a sister.",
+     "why": "After doesn't, the verb goes back to have."
+    },
+    {
+     "wrong": "Do she have a bike?",
+     "right": "Does she have a bike?",
+     "why": "With she, use does."
+    }
+   ]
+  },
+  {
+   "id": "g-possessive-s",
+   "kind": "grammar",
+   "title": "Possessive 's and s'",
+   "html": "<p>Shows who owns something or who is related to whom. The order is the reverse of Spanish: <em>the book of Laura</em> = <strong>Laura's book</strong>.</p><table><thead><tr><th>Situation</th><th>Form</th><th>Example</th></tr></thead><tbody><tr><td>Singular</td><td>name + <strong>'s</strong></td><td>my mother's best friend, Tom's parents</td></tr><tr><td>Regular plural (ends in -s)</td><td>name + <strong>'</strong></td><td>my grandparents' house, your parents' jobs</td></tr><tr><td>Irregular plural (doesn't end in -s)</td><td>name + <strong>'s</strong></td><td>the children's teacher</td></tr><tr><td>Family by last name</td><td>the + last name in the plural + <strong>'</strong></td><td>the Smiths' address</td></tr></tbody></table><p>Careful: <em>'s</em> can also mean <em>is</em> (<em>Max's a sound engineer</em> = Max <strong>is</strong>) or show possession (<em>Max's dad</em>). The context makes it clear.</p>",
+   "watch": [
+    {
+     "wrong": "My cats name is Tippy.",
+     "right": "My cat's name is Tippy.",
+     "why": "The possessive apostrophe is missing."
+    },
+    {
+     "wrong": "The house of my parents is big.",
+     "right": "My parents' house is big.",
+     "why": "In English, the owner goes first."
+    },
+    {
+     "wrong": "the childrens' toys",
+     "right": "the children's toys",
+     "why": "children is an irregular plural: add 's."
+    }
+   ]
+  },
+  {
+   "id": "g-possessives",
+   "kind": "grammar",
+   "title": "Possessive adjectives and pronouns (+ Whose)",
+   "html": "<p>They avoid repeating the noun. The <strong>adjective</strong> goes <em>before</em> the noun; the <strong>pronoun</strong> <em>replaces</em> it.</p><table><thead><tr><th>Subject</th><th>Adjective (+ noun)</th><th>Pronoun (alone)</th></tr></thead><tbody><tr><td>I</td><td>my (name)</td><td>mine</td></tr><tr><td>you</td><td>your</td><td>yours</td></tr><tr><td>he</td><td>his</td><td>his</td></tr><tr><td>she</td><td>her</td><td>hers</td></tr><tr><td>we</td><td>our</td><td>ours</td></tr><tr><td>they</td><td>their</td><td>theirs</td></tr></tbody></table><p><strong>Whose</strong> asks who owns something: <em>Whose is the pen? — It's Matt's. / It's his.</em></p>",
+   "watch": [
+    {
+     "wrong": "This bicycle is my.",
+     "right": "This bicycle is mine.",
+     "why": "Without a noun after it, use the pronoun."
+    },
+    {
+     "wrong": "Hers name is Tania.",
+     "right": "Her name is Tania.",
+     "why": "Before a noun, use the adjective."
+    },
+    {
+     "wrong": "The book is her's.",
+     "right": "The book is hers.",
+     "why": "hers, his, yours, ours and theirs don't take an apostrophe."
+    }
+   ]
+  },
+  {
+   "id": "g-capitals",
+   "kind": "grammar",
+   "title": "Capital letters",
+   "html": "<p>Used to write with correct spelling. English uses <strong>more capital letters</strong> than Spanish.</p><table><thead><tr><th>Capitalized</th><th>Example</th></tr></thead><tbody><tr><td>Start of a sentence</td><td>She writes stories.</td></tr><tr><td>The word <em>I</em>, always</td><td>My sister and I are doctors.</td></tr><tr><td>Names of people and titles with names</td><td>Mr Daniels</td></tr><tr><td>Cities, towns, states</td><td>Texas, London</td></tr><tr><td>Countries</td><td>Peru, Mexico</td></tr><tr><td>Languages and nationalities</td><td>English, Spanish, French</td></tr><tr><td>Days of the week and months</td><td>Wednesday, November</td></tr></tbody></table><p>At the end of a sentence, put a period (.).</p>",
+   "watch": [
+    {
+     "wrong": "They study english.",
+     "right": "They study English.",
+     "why": "Languages take a capital letter (in Spanish they don't)."
+    },
+    {
+     "wrong": "i am tired.",
+     "right": "I am tired.",
+     "why": "I always takes a capital letter."
+    },
+    {
+     "wrong": "Our class is on friday.",
+     "right": "Our class is on Friday.",
+     "why": "Days of the week take a capital letter."
+    }
+   ]
+  },
+  {
+   "id": "v-work",
+   "kind": "vocab",
+   "title": "Words for work (Down time)",
+   "words": [
+    {
+     "id": "w-well-paid",
+     "en": "well-paid",
+     "es": "bien pagado",
+     "example": "It's a well-paid job."
+    },
+    {
+     "id": "w-interesting-work",
+     "en": "interesting work",
+     "es": "trabajo interesante",
+     "example": "I like interesting work.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-good-salary",
+     "en": "good salary",
+     "es": "buen sueldo",
+     "example": "A good salary is important.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-hard-working",
+     "en": "hard-working",
+     "es": "trabajador, aplicado",
+     "example": "Maria is hard-working."
+    },
+    {
+     "id": "w-job-security",
+     "en": "job security",
+     "es": "estabilidad laboral",
+     "example": "Job security matters to my father.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-government",
+     "en": "government",
+     "es": "gobierno",
+     "example": "I love working for the government.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "v-adjectives",
+   "kind": "vocab",
+   "title": "Personality and job adjectives",
+   "words": [
+    {
+     "id": "w-independent",
+     "en": "independent",
+     "es": "independiente (no necesita ayuda de otros)",
+     "example": "He's independent and works alone.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-hardworking",
+     "en": "hardworking",
+     "es": "trabajador",
+     "example": "She's very hardworking."
+    },
+    {
+     "id": "w-lonely",
+     "en": "lonely",
+     "es": "solitario, que está solo",
+     "example": "He feels lonely in a new city.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-creative",
+     "en": "creative",
+     "es": "creativo",
+     "example": "Designers are creative.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-patient",
+     "en": "patient",
+     "es": "paciente (se mantiene calmado)",
+     "example": "A teacher must be patient.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-caring",
+     "en": "caring",
+     "es": "cariñoso, que cuida a otros",
+     "example": "Nurses are caring.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-challenging",
+     "en": "challenging",
+     "es": "desafiante",
+     "example": "It's a challenging job.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-rewarding",
+     "en": "rewarding",
+     "es": "gratificante",
+     "example": "Teaching is a rewarding job.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-colleagues",
+     "en": "colleagues",
+     "es": "colegas, compañeros de trabajo",
+     "example": "Work well with your colleagues.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-salary",
+     "en": "salary",
+     "es": "sueldo",
+     "example": "She earns a good salary.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-exciting",
+     "en": "exciting",
+     "es": "emocionante",
+     "example": "Her job is very exciting.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-dangerous",
+     "en": "dangerous",
+     "es": "peligroso",
+     "example": "Firefighters have a dangerous job.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>What do you do? / What does he do?</strong> — asking about a job.</li><li><strong>I'm a… / He's an…</strong> — saying what your job is.</li><li><strong>Where do you work?</strong> — asking where someone works.</li><li><strong>… is my cousin / my mom's sister.</strong> — introducing a family member.</li><li><strong>He/She loves his/her job because…</strong> — giving your opinion about a job.</li><li><strong>It's a well-paid / rewarding / challenging job.</strong> — describing a job.</li><li><strong>Whose is this? — It's mine / yours / hers.</strong> — asking and saying who something belongs to.</li><li><strong>He has a big family. / She doesn't have kids.</strong> — talking about your family.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Complete with a, an, the or no article",
+   "instructions": "Choose or write the correct article (a, an, the), or show that there is no article.",
+   "topic": "g-articles",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "My cousin is ___ electrician in Monterrey. (a / an / the)",
+     "answers": [
+      "an"
+     ],
+     "explain": "Electrician starts with a vowel sound → an."
+    },
+    {
+     "id": "A2",
+     "type": "choice",
+     "prompt": "Lucía and Rafael are ___ nurses.",
+     "options": [
+      "a",
+      "an",
+      "the",
+      "– (no article)"
+     ],
+     "answer": 3,
+     "explain": "Plural jobs: no article."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "I need ___ umbrella today. (a / an / the)",
+     "answers": [
+      "an"
+     ],
+     "explain": "Umbrella starts with a vowel sound → an."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "We live in Puebla. ___ city is beautiful. (a / an / the)",
+     "answers": [
+      "the"
+     ],
+     "explain": "We already mentioned the city (Puebla) → the."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "Is your uncle ___ accountant? (a / an / the)",
+     "answers": [
+      "an"
+     ],
+     "explain": "Accountant starts with a vowel sound → an."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "She is ___ university student. (a / an / the)",
+     "answers": [
+      "a"
+     ],
+     "explain": "University starts with a /ju/ sound (consonant) → a."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "Please close ___ door, it's cold. (a / an / the)",
+     "answers": [
+      "the"
+     ],
+     "explain": "It's a door both people know → the."
+    },
+    {
+     "id": "A8",
+     "type": "choice",
+     "prompt": "My parents are ___ teachers.",
+     "options": [
+      "a",
+      "an",
+      "the",
+      "– (no article)"
+     ],
+     "answer": 3,
+     "explain": "Plural jobs: no article."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Possessives: write the correct form",
+   "instructions": "Complete with the correct possessive ('s, s', adjective or pronoun).",
+   "topic": "g-possessive-s",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "my brother (the car of) → It's my ___ car.",
+     "answers": [
+      "brother's"
+     ],
+     "explain": "Singular: name + 's."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "the children (the toys of) → These are the ___ toys.",
+     "answers": [
+      "children's"
+     ],
+     "explain": "Children is an irregular plural: 's."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "my grandparents (the house of) → This is my ___ house.",
+     "options": [
+      "grandparent's",
+      "grandparents'",
+      "grandparents's"
+     ],
+     "answer": 1,
+     "explain": "Regular plural ending in -s: just an apostrophe."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "Ana (the phone of) → ___ phone is new.",
+     "answers": [
+      "Ana's"
+     ],
+     "explain": "Singular: name + 's."
+    },
+    {
+     "id": "B5",
+     "type": "gap",
+     "prompt": "This backpack belongs to me. It's ___.",
+     "answers": [
+      "mine"
+     ],
+     "explain": "No noun after it: pronoun mine."
+    },
+    {
+     "id": "B6",
+     "type": "gap",
+     "prompt": "Those keys belong to you. They're ___.",
+     "answers": [
+      "yours"
+     ],
+     "explain": "Pronoun for you: yours."
+    },
+    {
+     "id": "B7",
+     "type": "gap",
+     "prompt": "The tickets belong to Rosa and me. They're ___.",
+     "answers": [
+      "ours"
+     ],
+     "explain": "Rosa and me = we → ours."
+    },
+    {
+     "id": "B8",
+     "type": "gap",
+     "prompt": "Whose is that jacket? (Miguel) → It's ___.",
+     "answers": [
+      "his",
+      "Miguel's"
+     ],
+     "explain": "Miguel = he → his; Miguel's is also correct."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Complete with have / has",
+   "instructions": "Write the correct form of have (affirmative ✓ or negative ✗).",
+   "topic": "g-have",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "My sister ___ (✓) a car.",
+     "answers": [
+      "has"
+     ],
+     "explain": "My sister = she → has."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "We ___ (✗) a garden.",
+     "answers": [
+      "don't have",
+      "do not have"
+     ],
+     "explain": "Negative with we: don't have."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "Eduardo ___ (✗) a job right now.",
+     "answers": [
+      "doesn't have",
+      "does not have"
+     ],
+     "explain": "Eduardo = he → doesn't have."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "The kids ___ (✓) two dogs.",
+     "answers": [
+      "have"
+     ],
+     "explain": "The kids = they → have."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "I ___ (✗) a brother.",
+     "answers": [
+      "don't have",
+      "do not have"
+     ],
+     "explain": "Negative with I: don't have."
+    },
+    {
+     "id": "C6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Does",
+      "Laura",
+      "have",
+      "a",
+      "bike"
+     ],
+     "answers": [
+      "Does Laura have a bike?"
+     ],
+     "explain": "Question with Laura (she): Does + subject + have."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Capital letters: fix the mistake",
+   "instructions": "Each sentence has a capital letter mistake. Write the corrected sentence (keep the capital letters right).",
+   "topic": "g-capitals",
+   "items": [
+    {
+     "id": "D1",
+     "type": "fix",
+     "prompt": "My friend speaks Spanish and german.",
+     "answers": [
+      "My friend speaks Spanish and German."
+     ],
+     "explain": "Languages take a capital letter.",
+     "case": true
+    },
+    {
+     "id": "D2",
+     "type": "fix",
+     "prompt": "Our class is on friday.",
+     "answers": [
+      "Our class is on Friday."
+     ],
+     "explain": "Days of the week take a capital letter.",
+     "case": true
+    },
+    {
+     "id": "D3",
+     "type": "fix",
+     "prompt": "Today i am tired.",
+     "answers": [
+      "Today I am tired.",
+      "Today I'm tired."
+     ],
+     "explain": "I always takes a capital letter.",
+     "case": true
+    },
+    {
+     "id": "D4",
+     "type": "fix",
+     "prompt": "my brother is a nurse.",
+     "answers": [
+      "My brother is a nurse."
+     ],
+     "explain": "The sentence starts with a capital letter.",
+     "case": true
+    },
+    {
+     "id": "D5",
+     "type": "fix",
+     "prompt": "Sofia lives in oaxaca.",
+     "answers": [
+      "Sofia lives in Oaxaca."
+     ],
+     "explain": "Cities and states take a capital letter.",
+     "case": true
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "Mr lopez is my teacher.",
+     "answers": [
+      "Mr Lopez is my teacher.",
+      "Mr. Lopez is my teacher."
+     ],
+     "explain": "Names of people take a capital letter.",
+     "case": true
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "engineer",
+      "Is",
+      "an",
+      "father",
+      "your"
+     ],
+     "answers": [
+      "Is your father an engineer?"
+     ],
+     "explain": "Yes/No question with be; engineer takes an."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "do",
+      "does",
+      "What",
+      "mother",
+      "your"
+     ],
+     "answers": [
+      "What does your mother do?"
+     ],
+     "explain": "What + does + subject + do: asks about a job."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "is",
+      "house",
+      "big",
+      "My",
+      "grandparents'"
+     ],
+     "answers": [
+      "My grandparents' house is big."
+     ],
+     "explain": "Regular plural owner: grandparents' + noun."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "have",
+      "She",
+      "brother",
+      "a",
+      "doesn't"
+     ],
+     "answers": [
+      "She doesn't have a brother."
+     ],
+     "explain": "After doesn't, the verb is have."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "is",
+      "jacket",
+      "Whose",
+      "that"
+     ],
+     "answers": [
+      "Whose is that jacket?",
+      "Whose jacket is that?"
+     ],
+     "explain": "Whose asks who owns something."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "laptop",
+      "you",
+      "Do",
+      "a",
+      "have"
+     ],
+     "answers": [
+      "Do you have a laptop?"
+     ],
+     "explain": "Question with have: Do + subject + have."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Mi tía es abogada.",
+     "answers": [
+      "My aunt is a lawyer.",
+      "My aunt's a lawyer."
+     ],
+     "explain": "Job in the singular: a + lawyer."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿A qué te dedicas?",
+     "answers": [
+      "What do you do?",
+      "What do you do for a living?",
+      "What is your job?",
+      "What's your job?"
+     ],
+     "explain": "What do you do? asks about a job."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Los padres de mi amigo son maestros.",
+     "answers": [
+      "My friend's parents are teachers."
+     ],
+     "explain": "Owner first with 's; plural with no article."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Ese coche es mío.",
+     "answers": [
+      "That car is mine.",
+      "That car's mine.",
+      "That is my car.",
+      "That's my car."
+     ],
+     "explain": "No noun after it: mine."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Mi hermano no tiene trabajo.",
+     "answers": [
+      "My brother doesn't have a job.",
+      "My brother does not have a job.",
+      "My brother has no job."
+     ],
+     "explain": "Negative with he: doesn't have; job takes a."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "¿De quién es esta mochila?",
+     "answers": [
+      "Whose is this backpack?",
+      "Whose backpack is this?",
+      "Whose is this bag?",
+      "Whose bag is this?"
+     ],
+     "explain": "Whose asks who owns something."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises of different types and topics from the unit (includes be review).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "She is ___ architect.",
+     "options": [
+      "a",
+      "an",
+      "the"
+     ],
+     "answer": 1,
+     "explain": "Architect starts with a vowel sound → an."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "That isn't my phone. It's ___. (for her)",
+     "answers": [
+      "hers"
+     ],
+     "explain": "Pronoun for she: hers (no apostrophe)."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "She have two sisters.",
+     "answers": [
+      "She has two sisters."
+     ],
+     "explain": "Third person singular: has."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Mi papá es policía.",
+     "answers": [
+      "My dad is a police officer.",
+      "My father is a police officer.",
+      "My dad's a police officer.",
+      "My father's a police officer.",
+      "My dad is a policeman.",
+      "My father is a policeman."
+     ],
+     "explain": "Job in the singular: a + police officer."
+    },
+    {
+     "id": "M5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence.",
+     "words": [
+      "work",
+      "your",
+      "does",
+      "Where",
+      "sister"
+     ],
+     "answers": [
+      "Where does your sister work?"
+     ],
+     "explain": "Where + does + subject + verb."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "Is your sister a doctor? — No, she ___. (review Unit 1: be)",
+     "answers": [
+      "isn't",
+      "is not",
+      "'s not",
+      "s not"
+     ],
+     "explain": "Negative short answer with be: she isn't."
+    },
+    {
+     "id": "M7",
+     "type": "fix",
+     "prompt": "They is engineers. (review Unit 1: be)",
+     "answers": [
+      "They are engineers.",
+      "They're engineers."
+     ],
+     "explain": "Use are with They."
+    },
+    {
+     "id": "M8",
+     "type": "fix",
+     "prompt": "My cats name is Tippy.",
+     "answers": [
+      "My cat's name is Tippy.",
+      "My cats' name is Tippy."
+     ],
+     "explain": "The apostrophe is missing: cat's (one cat) or cats' (several cats)."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "F1",
+   "prompt": "Write 5 or 6 sentences about a relative of yours: their name, how they are related to you, how old they are, what they do for a living, where they live, and whether they like their job and why. Use a/an, 's and has, and check the capital letters and periods. Starter example: Lupe is my aunt. She's…",
+   "targets": [
+    "a/an with jobs",
+    "possessive 's",
+    "have/has",
+    "capital letters and periods",
+    "age with be"
+   ],
+   "checklist": [
+    "Name and relationship (Lupe is my aunt.)",
+    "Correct a/an with the job",
+    "has with he/she (She has two kids.)",
+    "'s for possession (my mom's sister)",
+    "Capital letters for names, cities, countries and languages, and for I",
+    "A period at the end of each sentence",
+    "Age with be, not have",
+    "5 to 6 sentences, with a subject in each one"
+   ],
+   "model": "Lupe is my aunt. She's my mom's sister, and she's 45 years old. She is an engineer, and she lives in Puebla, Mexico. She has two kids and a small dog. She likes her job because it is interesting."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "My family in Puebla",
+   "intro": "Read Laura's text about her family and answer.",
+   "paragraphs": [
+    "Hi! My name is Laura and I'm from Puebla. I have a small family. My parents are Javier and Rosa. My dad is a taxi driver. My mom is an English teacher. Her job is challenging, but it's rewarding.",
+    "My brother's name is Diego. He is a software engineer in Mexico City, and he has a good salary. His wife is Karen. She is a doctor. They have two children, a son and a daughter.",
+    "My mom's sister is my aunt Carmen. She doesn't have children, but she has three dogs. Her husband, Pedro, is a firefighter. It's a dangerous job, but he loves it.",
+    "My grandparents' house is big. We have dinner there on Sundays. Is your family big or small?"
+   ],
+   "glossary": [
+    {
+     "en": "taxi driver",
+     "def": "a person who drives a taxi"
+    },
+    {
+     "en": "challenging",
+     "def": "difficult, hard"
+    },
+    {
+     "en": "rewarding",
+     "def": "satisfying, worth the effort"
+    },
+    {
+     "en": "software engineer",
+     "def": "a person who designs or builds computer programs"
+    },
+    {
+     "en": "salary",
+     "def": "money you earn from your job"
+    },
+    {
+     "en": "firefighter",
+     "def": "a person whose job is to put out fires"
+    },
+    {
+     "en": "dangerous",
+     "def": "not safe, with risk"
+    },
+    {
+     "en": "grandparents",
+     "def": "your mom's or dad's parents"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Laura's dad is a teacher.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "His dad is a taxi driver; his mom is a teacher."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Diego has a good salary.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "He has a good salary."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What is Karen's job?",
+     "options": [
+      "Teacher",
+      "Doctor",
+      "Firefighter"
+     ],
+     "answer": 1,
+     "explain": "His wife is Karen. She is a doctor."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Who is Carmen?",
+     "options": [
+      "Laura's aunt",
+      "Laura's mom",
+      "Laura's sister"
+     ],
+     "answer": 0,
+     "explain": "Carmen is the sister of Laura's mom: her aunt."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Pedro is a ___.",
+     "answers": [
+      "firefighter"
+     ],
+     "explain": "Her husband, Pedro, is a firefighter."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Diego and Karen have two ___.",
+     "answers": [
+      "children",
+      "kids"
+     ],
+     "explain": "They have two children, a son and a daughter."
+    }
+   ]
+  },
+  "listening": {
+   "title": "A photo of the family",
+   "intro": "Listen to Elena and Ricardo talk about a photo. You can repeat the conversation.",
+   "lines": [
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "Ricardo, is that your brother in the photo?"
+    },
+    {
+     "who": "Ricardo",
+     "voice": "rounded",
+     "text": "Yes, he is. His name is Jorge. He's a lawyer."
+    },
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "A lawyer! Does he have a family?"
+    },
+    {
+     "who": "Ricardo",
+     "voice": "rounded",
+     "text": "Yes, he does. He has a wife and a daughter. His wife is an architect."
+    },
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "Nice! And your parents? What do they do?"
+    },
+    {
+     "who": "Ricardo",
+     "voice": "rounded",
+     "text": "My dad is a doctor, and my mom is a journalist. They're very hardworking."
+    },
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "What about you? What do you do?"
+    },
+    {
+     "who": "Ricardo",
+     "voice": "rounded",
+     "text": "I'm a designer. It's a creative job, and I love it."
+    },
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "That's great. Oh, is this phone yours?"
+    },
+    {
+     "who": "Ricardo",
+     "voice": "rounded",
+     "text": "No, it isn't mine. It's my brother's."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What is Jorge's job?",
+     "options": [
+      "Doctor",
+      "Lawyer",
+      "Designer"
+     ],
+     "answer": 1,
+     "explain": "He's a lawyer."
+    },
+    {
+     "id": "L2",
+     "type": "gap",
+     "prompt": "Ricardo's dad is a ___.",
+     "answers": [
+      "doctor"
+     ],
+     "explain": "My dad is a doctor."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What is Jorge's wife's job?",
+     "options": [
+      "Journalist",
+      "Lawyer",
+      "Architect"
+     ],
+     "answer": 2,
+     "explain": "His wife is an architect."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "Jorge has a wife and a ___.",
+     "answers": [
+      "daughter"
+     ],
+     "explain": "He has a wife and a daughter."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "Whose phone is it?",
+     "options": [
+      "Ricardo's",
+      "Jorge's",
+      "Elena's"
+     ],
+     "answer": 1,
+     "explain": "It isn't mine (de Ricardo). It's my brother's: de Jorge."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "D7",
+     "type": "dictation",
+     "text": "My mom is a journalist.",
+     "answers": [
+      "My mom is a journalist."
+     ],
+     "explain": "Singular job: a + noun."
+    },
+    {
+     "id": "D8",
+     "type": "dictation",
+     "text": "His wife is an architect.",
+     "answers": [
+      "His wife is an architect."
+     ],
+     "explain": "Architect empieza con sonido de vocal: an."
+    },
+    {
+     "id": "D9",
+     "type": "dictation",
+     "text": "Does he have a family?",
+     "answers": [
+      "Does he have a family?"
+     ],
+     "explain": "Con does, el verbo queda en have."
+    },
+    {
+     "id": "D10",
+     "type": "dictation",
+     "text": "It isn't mine. It's my brother's.",
+     "answers": [
+      "It isn't mine. It's my brother's.",
+      "It is not mine. It's my brother's.",
+      "It's not mine. It's my brother's.",
+      "It isn't mine. It is my brother's.",
+      "It is not mine. It is my brother's.",
+      "It's not mine. It is my brother's."
+     ],
+     "explain": "mine is a pronoun; brother's shows possession."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about your job or what you study, and say if you like it.",
+     "questions": [
+      "What do you do?",
+      "Where do you work or study?",
+      "Is your job or your school interesting?",
+      "Is it easy or challenging?"
+     ],
+     "model": "I'm a teacher. I work in a school in Toluca. It's a rewarding job, but it's challenging.",
+     "checklist": [
+      "Use a/an with your job (I'm a teacher)",
+      "Use be to describe the job (It's rewarding)",
+      "Name the place (in a school / in Toluca)"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about your family: brothers and sisters, your parents and what they do for a living.",
+     "questions": [
+      "Do you have brothers or sisters?",
+      "What's your mom's name?",
+      "What does your dad do?",
+      "Is your family big or small?"
+     ],
+     "model": "I have two brothers. My mom's name is Rosa. My dad is a taxi driver. My family is small.",
+     "checklist": [
+      "Use have with I (I have…)",
+      "Use 's for possession (my mom's name)",
+      "Use a/an with jobs"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about an uncle or aunt: their name, what they do and whether they have children.",
+     "questions": [
+      "What is your aunt's or uncle's name?",
+      "What does he or she do?",
+      "Does he or she have children?",
+      "Is his or her job dangerous or well-paid?"
+     ],
+     "model": "My aunt's name is Carmen. She is a nurse. She doesn't have children, but she has three dogs. Her job is rewarding.",
+     "checklist": [
+      "Use has / doesn't have with he/she",
+      "Use 's (my aunt's name)",
+      "Use her/his before a noun (her job)"
+     ]
+    }
+   ],
+   "repeat": [
+    "What do you do?",
+    "I'm an engineer.",
+    "She doesn't have children.",
+    "My grandparents' house is big.",
+    "Whose phone is this? It's mine.",
+    "It's a well-paid job."
+   ]
+  }
+ }
+}

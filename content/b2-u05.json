@@ -1,0 +1,1627 @@
+{
+ "id": "b2-u05",
+ "level": "A1",
+ "n": 5,
+ "title": "Here, there, and everywhere!",
+ "goals": [
+  "Say what is in a city and what is not. Use there is / there are with some, any, several, many and a lot of.",
+  "Name places and attractions in a city. Understand good and bad opinions in a travel blog.",
+  "Give and understand directions, orders and advice with the imperative, also in the negative (Don't forget…).",
+  "Show where a place is on a map: on the corner of, next to, between, across from.",
+  "Repeat directions to check them, and fix a mistake.",
+  "Describe a place with adjectives, give reasons (because, this way) and write a short paragraph that recommends it."
+ ],
+ "learn": [
+  {
+   "id": "g-there-is",
+   "kind": "grammar",
+   "title": "There is / There are with some, any, several, many, a lot of",
+   "html": "<p>We use it to say that something <strong>exists</strong> in a place. In English you always need <em>there</em>. <em>There is</em> is for singular nouns; <em>there are</em> is for plural nouns. The verb agrees with the word that comes <strong>after</strong>.</p><table><thead><tr><th>Affirmative</th><th>Negative</th><th>Question</th><th>Short answer</th></tr></thead><tbody><tr><td>There is a museum. (There's)</td><td>There isn't a museum.</td><td>Is there a museum?</td><td>Yes, there is. / No, there isn't.</td></tr><tr><td>There are some parks.</td><td>There aren't any parks.</td><td>Are there any parks?</td><td>Yes, there are. / No, there aren't.</td></tr><tr><td>There are several festivals.</td><td>There aren't many festivals.</td><td>Are there many festivals?</td><td>Yes, there are. / No, there aren't.</td></tr><tr><td>There are a lot of tourists.</td><td>There aren't a lot of tourists.</td><td>Are there a lot of tourists?</td><td>Yes, there are. / No, there aren't.</td></tr></tbody></table><table><thead><tr><th>Quantity</th><th>Where we use it</th><th>Example</th></tr></thead><tbody><tr><td><strong>some</strong></td><td>affirmative sentences</td><td>There are some good shows.</td></tr><tr><td><strong>several</strong></td><td>affirmative sentences</td><td>There are several hotels.</td></tr><tr><td><strong>a lot of</strong></td><td>affirmative, negative and questions</td><td>There are a lot of cafés.</td></tr><tr><td><strong>any</strong></td><td>negative and questions</td><td>There aren't any trains. / Are there any trains?</td></tr><tr><td><strong>many</strong></td><td>mostly negative and questions</td><td>There aren't many parks.</td></tr></tbody></table><p><em>There is</em> can be short: <em>there's</em>. <em>There are</em> is never short. With singular, use <em>a/an</em> (<em>There is a bank</em>).</p>",
+   "watch": [
+    {
+     "wrong": "Is a park near here.",
+     "right": "There is a park near here.",
+     "why": "In English, you need the word 'there'."
+    },
+    {
+     "wrong": "There is many tourists.",
+     "right": "There are many tourists.",
+     "why": "Agreement: tourists is plural, so we use are."
+    },
+    {
+     "wrong": "Are there some hotels?",
+     "right": "Are there any hotels?",
+     "why": "Use any in questions and negatives."
+    },
+    {
+     "wrong": "There are not some museums.",
+     "right": "There aren't any museums.",
+     "why": "Use any in negatives, not some."
+    }
+   ]
+  },
+  {
+   "id": "v-places",
+   "kind": "vocab",
+   "title": "Places and attractions in a city",
+   "words": [
+    {
+     "id": "w-movie-theater",
+     "en": "movie theater",
+     "es": "cine",
+     "example": "There is a movie theater next to the mall.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-museum",
+     "en": "museum",
+     "es": "museo",
+     "example": "The museum has a lot of old objects.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-shopping-mall",
+     "en": "shopping mall",
+     "es": "centro comercial",
+     "example": "We buy clothes at the shopping mall.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-art-gallery",
+     "en": "art gallery",
+     "es": "galería de arte",
+     "example": "There are several paintings in the art gallery.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-park",
+     "en": "park",
+     "es": "parque",
+     "example": "Let's take a walk in the park.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-zoo",
+     "en": "zoo",
+     "es": "zoológico",
+     "example": "The zoo has some interesting animals."
+    },
+    {
+     "id": "w-bank",
+     "en": "bank",
+     "es": "banco",
+     "example": "Is there a bank near here?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-cafe",
+     "en": "café",
+     "es": "cafetería",
+     "example": "We have coffee at the café."
+    },
+    {
+     "id": "w-bus-station",
+     "en": "bus station",
+     "es": "estación de autobuses",
+     "example": "The bus station is on Main Street.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-chocolate-factory",
+     "en": "chocolate factory",
+     "es": "fábrica de chocolate",
+     "example": "You can visit a chocolate factory and try free chocolates.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-police-station",
+     "en": "police station",
+     "es": "comisaría",
+     "example": "The police station is next to the park.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fountain",
+     "en": "fountain",
+     "es": "fuente",
+     "example": "The fountain is between the museum and the café."
+    },
+    {
+     "id": "w-library",
+     "en": "library",
+     "es": "biblioteca",
+     "example": "How do I get to the library?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-hotel",
+     "en": "hotel",
+     "es": "hotel",
+     "example": "There are a lot of hotels downtown.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-restaurant",
+     "en": "restaurant",
+     "es": "restaurante",
+     "example": "There are several good restaurants on this street.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-stadium",
+     "en": "stadium",
+     "es": "estadio",
+     "example": "The stadium is big, with a lot of seats.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-palace",
+     "en": "palace",
+     "es": "palacio",
+     "example": "A palace is a big building for a king or an emperor.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-square",
+     "en": "square",
+     "es": "plaza",
+     "example": "Red Square is in Moscow.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "v-blog-opinions",
+   "kind": "vocab",
+   "title": "Opinions in a travel blog",
+   "words": [
+    {
+     "id": "w-awesome",
+     "en": "awesome",
+     "es": "genial",
+     "example": "The gardens are awesome.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-amazing",
+     "en": "amazing",
+     "es": "increíble",
+     "example": "There are amazing walking trails.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-unforgettable-experience",
+     "en": "unforgettable experience",
+     "es": "experiencia inolvidable",
+     "example": "The trip was an unforgettable experience.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-is-a-must",
+     "en": "is a must",
+     "es": "es imprescindible",
+     "example": "This hotel is a must.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-enjoy",
+     "en": "to enjoy",
+     "es": "disfrutar",
+     "example": "You can enjoy a quiet breakfast.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-luxury",
+     "en": "elegance / luxury",
+     "es": "elegancia / lujo",
+     "example": "The hotel has elegance and luxury.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-large-comfortable",
+     "en": "large / comfortable",
+     "es": "grande / cómodo",
+     "example": "The rooms are large and comfortable.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-terrible",
+     "en": "terrible",
+     "es": "terrible, horrible",
+     "example": "The service is terrible.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-no-air-conditioning",
+     "en": "there isn't any air conditioning",
+     "es": "no hay aire acondicionado",
+     "example": "There isn't any air conditioning, so it's hot.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-cold-no-flavor",
+     "en": "cold / no flavor",
+     "es": "frío / sin sabor",
+     "example": "The food is cold and has no flavor.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-too-adjective",
+     "en": "too + adjetivo",
+     "es": "demasiado",
+     "example": "It's too expensive.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-dont-go",
+     "en": "Don't go!",
+     "es": "¡No vayas!",
+     "example": "Don't go to that restaurant.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-walking-trails",
+     "en": "walking trails",
+     "es": "senderos para caminar",
+     "example": "The park has walking trails.",
+     "cefr": "C1"
+    }
+   ]
+  },
+  {
+   "id": "g-imperative",
+   "kind": "grammar",
+   "title": "The imperative",
+   "html": "<p>We use it to give <strong>directions, instructions, advice or orders</strong>. It has no subject (the subject is <em>you</em>, but we don't say it).</p><table><thead><tr><th>Affirmative</th><th>Negative</th></tr></thead><tbody><tr><td>Base verb: <em>Go straight. Turn left.</em></td><td><strong>Don't</strong> + base verb: <em>Don't cross the street here. Don't worry.</em></td></tr></tbody></table><ul><li>With adjectives we use <em>be</em>: <em>Be quiet. Don't be late.</em></li><li>We can join orders: <em>Go straight, turn left and walk two blocks.</em></li><li>With <em>please</em> it sounds more polite: <em>Turn left, please.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "Don't to forget your umbrella.",
+     "right": "Don't forget your umbrella.",
+     "why": "After Don't, we use the verb without to."
+    },
+    {
+     "wrong": "No walk alone at night.",
+     "right": "Don't walk alone at night.",
+     "why": "The negative imperative is Don't, not No."
+    },
+    {
+     "wrong": "Doesn't forget your ticket.",
+     "right": "Don't forget your ticket.",
+     "why": "Always use Don't in the imperative."
+    },
+    {
+     "wrong": "Turn you left.",
+     "right": "Turn left.",
+     "why": "The imperative has no pronoun."
+    },
+    {
+     "wrong": "To sit here.",
+     "right": "Sit here.",
+     "why": "No to. Use the base verb."
+    }
+   ]
+  },
+  {
+   "id": "v-directions",
+   "kind": "vocab",
+   "title": "Location and directions",
+   "words": [
+    {
+     "id": "w-on-the-corner-of",
+     "en": "on the corner of … and …",
+     "es": "en la esquina de … y …",
+     "example": "It's on the corner of River Street and Elm Avenue.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-next-to",
+     "en": "next to",
+     "es": "junto a",
+     "example": "The café is next to the park.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-between",
+     "en": "between … and …",
+     "es": "entre … y …",
+     "example": "It's between the museum and the fountain.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-across-from",
+     "en": "across from (opposite)",
+     "es": "enfrente de",
+     "example": "The park is across from the art gallery.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-turn-left-right",
+     "en": "turn left / turn right",
+     "es": "gira a la izquierda / a la derecha",
+     "example": "Turn left at the bank.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-straight",
+     "en": "go straight",
+     "es": "sigue recto",
+     "example": "Go straight for two blocks.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-take-the-street",
+     "en": "take the first / second street on the left",
+     "es": "toma la primera / segunda calle a la izquierda",
+     "example": "Take the second street on the left.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-cross-the-bridge",
+     "en": "cross the bridge",
+     "es": "cruza el puente",
+     "example": "Cross the bridge and go straight.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-on-the-left-right",
+     "en": "It's on the left / on the right",
+     "es": "está a la izquierda / a la derecha",
+     "example": "The café is on the left.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-start-at",
+     "en": "start at",
+     "es": "empieza en",
+     "example": "Start at the zoo, on River Street.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "s-repeat-directions",
+   "kind": "strategy",
+   "title": "Repeat directions to check them",
+   "html": "<p>After you get directions, repeat them in your own words and end with <em>right?</em> to check. If you made a mistake, the other person corrects you.</p><ul><li><strong>Excuse me, how do I get to the library?</strong> — ask for directions.</li><li><strong>Turn left, then take the first street on the right.</strong> — give directions.</li><li><strong>So, I turn left and take the first street on the left, right?</strong> — repeat to check.</li><li><strong>No, the first street on the <em>right</em>.</strong> — correct.</li><li><strong>Got it, thanks!</strong> — confirm and thank.</li></ul>"
+  },
+  {
+   "id": "g-adjectives-reasons",
+   "kind": "grammar",
+   "title": "Adjectives and reasons (because, this way)",
+   "html": "<p>We use it to describe a place and to give a reason for our recommendation.</p><ul><li>The adjective goes <strong>before the noun</strong> and <strong>does not change in the plural</strong>: <em>a beautiful city, beautiful buildings</em>.</li><li>Nationalities start with a capital letter: <em>Scottish, Mexican</em>.</li><li><strong>because</strong> (gives a reason): <em>Take a map because the city is big.</em> <strong>This way</strong> (in that way): <em>Book early. This way, you have a good room.</em></li><li>Advice: <em>Don't forget…, Remember…, Visit…, Try…</em> Time: <em>In August…, At night…</em></li><li>City names do not use <em>the</em>: <em>Mexico City</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "because is a big city",
+     "right": "because it is a big city",
+     "why": "We always say the subject."
+    },
+    {
+     "wrong": "a one most beautiful places",
+     "right": "one of the most beautiful places",
+     "why": "Fixed structure: one of the most + adjective + plural noun."
+    },
+    {
+     "wrong": "The Mexico City is big.",
+     "right": "Mexico City is big.",
+     "why": "City names do not use the."
+    },
+    {
+     "wrong": "There are beautifuls buildings.",
+     "right": "There are beautiful buildings.",
+     "why": "The adjective does not change in the plural."
+    },
+    {
+     "wrong": "because have a lot of places",
+     "right": "because it has a lot of places",
+     "why": "The subject is missing. With it, we use has."
+    }
+   ]
+  },
+  {
+   "id": "v-describe",
+   "kind": "vocab",
+   "title": "Describing a place (Edinburgh)",
+   "words": [
+    {
+     "id": "w-interesting",
+     "en": "interesting",
+     "es": "interesante",
+     "example": "Edinburgh is an interesting city.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-old",
+     "en": "old",
+     "es": "antiguo, viejo",
+     "example": "The old town is full of history.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-beautiful",
+     "en": "beautiful",
+     "es": "hermoso",
+     "example": "There are beautiful buildings.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-historical",
+     "en": "historical",
+     "es": "histórico",
+     "example": "We visit historical monuments.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-scottish",
+     "en": "Scottish",
+     "es": "escocés (con mayúscula)",
+     "example": "Wear warm Scottish clothes in winter."
+    },
+    {
+     "id": "w-famous",
+     "en": "famous",
+     "es": "famoso",
+     "example": "It is famous for its festivals.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-warm",
+     "en": "warm",
+     "es": "abrigador, cálido",
+     "example": "Bring warm clothes.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-international",
+     "en": "international",
+     "es": "internacional",
+     "example": "There is an international arts event in August.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-walking-tour",
+     "en": "walking tour",
+     "es": "recorrido a pie",
+     "example": "Take a walking tour of the old town.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-comedy",
+     "en": "comedy",
+     "es": "comedia",
+     "example": "There are a lot of comedy shows.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-book-a-hotel",
+     "en": "to book a hotel",
+     "es": "reservar un hotel",
+     "example": "Book a hotel early in August.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-kings-queens",
+     "en": "kings and queens",
+     "es": "reyes y reinas",
+     "example": "The castle tells stories of kings and queens.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-festival",
+     "en": "festival",
+     "es": "festival",
+     "example": "The festival is in August.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-accommodations",
+     "en": "accommodations",
+     "es": "alojamiento",
+     "example": "Accommodations: hotels or apartments.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-tips",
+     "en": "tips",
+     "es": "consejos",
+     "example": "Important tips: take a map.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "v-video",
+   "kind": "vocab",
+   "title": "Chinese New Year and Beijing (video)",
+   "words": [
+    {
+     "id": "w-dragon",
+     "en": "dragon",
+     "es": "dragón",
+     "example": "The dragon is a mythical animal in China."
+    },
+    {
+     "id": "w-lantern",
+     "en": "lantern",
+     "es": "farol",
+     "example": "A lantern is a light made of paper."
+    },
+    {
+     "id": "w-riddle",
+     "en": "riddle",
+     "es": "acertijo",
+     "example": "Some lanterns have riddles."
+    },
+    {
+     "id": "w-dumpling",
+     "en": "dumpling",
+     "es": "dumpling (empanadilla)",
+     "example": "Dumplings are a typical food."
+    },
+    {
+     "id": "w-luck",
+     "en": "luck",
+     "es": "suerte",
+     "example": "Dragons bring luck.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-power",
+     "en": "power",
+     "es": "poder",
+     "example": "The dragon was a symbol of power.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-rice",
+     "en": "rice",
+     "es": "arroz",
+     "example": "People eat rice and dumplings.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-puppet",
+     "en": "puppet",
+     "es": "títere",
+     "example": "The paper dragon is a kind of puppet."
+    },
+    {
+     "id": "w-great-wall",
+     "en": "the Great Wall",
+     "es": "la Gran Muralla",
+     "example": "You can hike on parts of the Great Wall.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>Is there a bank near here? — Yes, there is. It's next to the park.</strong> — ask if something is nearby.</li><li><strong>Excuse me, how do I get to the library?</strong> — ask for directions.</li><li><strong>Turn left, then take the first street on the right.</strong> — give directions.</li><li><strong>So, I turn left and take the first street on the left, right?</strong> — repeat to check.</li><li><strong>Got it, thanks!</strong> — confirm and thank.</li><li><strong>Don't worry.</strong> — calm someone down.</li><li><strong>Don't forget / Don't miss …</strong> — give advice.</li><li><strong>… because … / This way, …</strong> — give reasons.</li><li><strong>It's on the corner of … and …</strong> — say where a place is.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Complete with there is / there are",
+   "instructions": "Write the correct form (there is, there are, there isn't, there aren't, is there, are there) or choose the quantity.",
+   "topic": "g-there-is",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "___ a bank near here?",
+     "answers": [
+      "Is there"
+     ],
+     "explain": "Question with singular: Is there a …?"
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "___ several good restaurants on this street.",
+     "answers": [
+      "There are"
+     ],
+     "explain": "Several + plural: there are."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "___ any tickets left for tonight. (negative)",
+     "answers": [
+      "There aren't",
+      "There are not"
+     ],
+     "explain": "Negative with plural + any: there aren't."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "___ a lot of tourists in the old town in summer.",
+     "answers": [
+      "There are"
+     ],
+     "explain": "Tourists is plural: there are."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "___ any hotels near the station?",
+     "answers": [
+      "Are there"
+     ],
+     "explain": "Question with plural + any: Are there any …?"
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "___ a swimming pool at the gym. (negative)",
+     "answers": [
+      "There isn't",
+      "There is not"
+     ],
+     "explain": "Negative singular: there isn't."
+    },
+    {
+     "id": "A7",
+     "type": "choice",
+     "prompt": "There are ___ museums in my city.",
+     "options": [
+      "some",
+      "any"
+     ],
+     "answer": 0,
+     "explain": "We use some in affirmative sentences."
+    },
+    {
+     "id": "A8",
+     "type": "choice",
+     "prompt": "There aren't ___ cafés on my street; I think there's only one.",
+     "options": [
+      "many",
+      "several"
+     ],
+     "answer": 0,
+     "explain": "In negatives: many (several is for affirmative sentences)."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Places and map",
+   "instructions": "Map in text. Main Street, north side, from left to right: bank, bakery, park, movie theater (on the corner of Main Street and Oak Avenue). South side, from left to right: library, pharmacy, café, art gallery (also on the corner of Main Street and Oak Avenue). Write the place.",
+   "topic": "v-directions",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "It's between the bank and the park. → ___",
+     "answers": [
+      "bakery",
+      "the bakery"
+     ],
+     "explain": "On the north side, between bank and park is the bakery."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "It's across from the bank. → ___",
+     "answers": [
+      "library",
+      "the library"
+     ],
+     "explain": "The bank is the first one on the north side; across from it (south) is the library."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "It's on the north side, on the corner of Main Street and Oak Avenue. → ___",
+     "answers": [
+      "movie theater",
+      "the movie theater"
+     ],
+     "explain": "The last place on the north side is the movie theater."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "It's between the library and the café. → ___",
+     "answers": [
+      "pharmacy",
+      "the pharmacy"
+     ],
+     "explain": "On the south side, between library and café is the pharmacy."
+    },
+    {
+     "id": "B5",
+     "type": "gap",
+     "prompt": "It's across from the park and next to the art gallery. → ___",
+     "answers": [
+      "café",
+      "cafe",
+      "the café",
+      "the cafe"
+     ],
+     "explain": "Across from the park (third) and next to the art gallery: the café."
+    },
+    {
+     "id": "B6",
+     "type": "gap",
+     "prompt": "It's on the south side, on the corner, across from the movie theater. → ___",
+     "answers": [
+      "art gallery",
+      "the art gallery"
+     ],
+     "explain": "Corner on the south side, across from the movie theater: art gallery."
+    },
+    {
+     "id": "B7",
+     "type": "gap",
+     "prompt": "It's a place with interesting animals. → ___",
+     "answers": [
+      "zoo",
+      "the zoo"
+     ],
+     "explain": "Interesting animals: zoo."
+    },
+    {
+     "id": "B8",
+     "type": "gap",
+     "prompt": "It's a place where you catch a bus. → ___",
+     "answers": [
+      "bus station",
+      "the bus station"
+     ],
+     "explain": "Where you catch a bus: bus station."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Imperative: complete",
+   "instructions": "Write the affirmative or negative imperative of the verb in brackets.",
+   "topic": "g-imperative",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "___ (turn) left at the traffic light.",
+     "answers": [
+      "Turn"
+     ],
+     "explain": "Affirmative imperative: base verb."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "___ (not / run) in the hallway!",
+     "answers": [
+      "Don't run",
+      "Do not run"
+     ],
+     "explain": "Negative: Don't + base verb."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "___ (be) careful with the hot soup.",
+     "answers": [
+      "Be"
+     ],
+     "explain": "With adjectives, the imperative uses be."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "___ (not / forget) your passport!",
+     "answers": [
+      "Don't forget",
+      "Do not forget"
+     ],
+     "explain": "Negative: Don't + base verb."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "___ (take) the second street on the right.",
+     "answers": [
+      "Take"
+     ],
+     "explain": "Affirmative imperative: base verb."
+    },
+    {
+     "id": "C6",
+     "type": "gap",
+     "prompt": "___ (not / park) here, please.",
+     "answers": [
+      "Don't park",
+      "Do not park"
+     ],
+     "explain": "Negative: Don't + base verb."
+    },
+    {
+     "id": "C7",
+     "type": "gap",
+     "prompt": "___ (cross) the bridge and go straight.",
+     "answers": [
+      "Cross"
+     ],
+     "explain": "Affirmative imperative: base verb."
+    },
+    {
+     "id": "C8",
+     "type": "gap",
+     "prompt": "___ (not / be) late for the tour.",
+     "answers": [
+      "Don't be",
+      "Do not be"
+     ],
+     "explain": "Negative with be: Don't be."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Find the mistake",
+   "instructions": "Write the corrected sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "D1",
+     "type": "fix",
+     "prompt": "There is many tourists in July.",
+     "answers": [
+      "There are many tourists in July.",
+      "There are a lot of tourists in July.",
+      "There are lots of tourists in July."
+     ],
+     "explain": "Tourists is plural: there are."
+    },
+    {
+     "id": "D2",
+     "type": "fix",
+     "prompt": "Don't to touch the paintings.",
+     "answers": [
+      "Don't touch the paintings.",
+      "Do not touch the paintings."
+     ],
+     "explain": "After Don't, the verb has no to."
+    },
+    {
+     "id": "D3",
+     "type": "fix",
+     "prompt": "Is there some cafés near the park?",
+     "answers": [
+      "Are there any cafés near the park?",
+      "Are there any cafes near the park?"
+     ],
+     "explain": "Plural + question: Are there any …?"
+    },
+    {
+     "id": "D4",
+     "type": "fix",
+     "prompt": "Turn you left at the corner.",
+     "answers": [
+      "Turn left at the corner."
+     ],
+     "explain": "The imperative has no pronoun."
+    },
+    {
+     "id": "D5",
+     "type": "fix",
+     "prompt": "No walk alone at night.",
+     "answers": [
+      "Don't walk alone at night.",
+      "Do not walk alone at night."
+     ],
+     "explain": "The negative imperative is Don't."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "There aren't some good hotels here.",
+     "answers": [
+      "There aren't any good hotels here.",
+      "There are not any good hotels here.",
+      "There are no good hotels here."
+     ],
+     "explain": "We use any in negatives."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Review of earlier lessons",
+   "instructions": "Review exercises: dates, have/has and questions.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "My birthday is on October ___.",
+     "answers": [
+      "twenty-second",
+      "twenty second",
+      "22nd"
+     ],
+     "explain": "Dates use ordinal numbers: twenty-second."
+    },
+    {
+     "id": "E2",
+     "type": "fix",
+     "prompt": "My cousin have a new bike, but I has an old one.",
+     "answers": [
+      "My cousin has a new bike, but I have an old one."
+     ],
+     "explain": "He/she → has; I → have."
+    },
+    {
+     "id": "E3",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "do",
+      "free",
+      "time",
+      "what",
+      "you",
+      "in",
+      "your",
+      "do"
+     ],
+     "answers": [
+      "What do you do in your free time?"
+     ],
+     "explain": "Wh- + do + subject + verb."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to make a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Is",
+      "there",
+      "a",
+      "bank",
+      "near",
+      "here"
+     ],
+     "answers": [
+      "Is there a bank near here?"
+     ],
+     "explain": "Is there + a + singular noun."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "There",
+      "aren't",
+      "any",
+      "good",
+      "hotels",
+      "downtown"
+     ],
+     "answers": [
+      "There aren't any good hotels downtown.",
+      "There are not any good hotels downtown."
+     ],
+     "explain": "Negative: There aren't any + plural noun."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Don't",
+      "forget",
+      "your",
+      "umbrella"
+     ],
+     "answers": [
+      "Don't forget your umbrella."
+     ],
+     "explain": "Don't + base verb."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Take",
+      "the",
+      "second",
+      "street",
+      "on",
+      "the",
+      "right"
+     ],
+     "answers": [
+      "Take the second street on the right."
+     ],
+     "explain": "Imperative with directions."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "The",
+      "café",
+      "is",
+      "between",
+      "the",
+      "museum",
+      "and",
+      "the",
+      "fountain"
+     ],
+     "answers": [
+      "The café is between the museum and the fountain."
+     ],
+     "explain": "between … and … to say where a place is."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Are",
+      "there",
+      "a",
+      "lot",
+      "of",
+      "tourists",
+      "in",
+      "summer"
+     ],
+     "answers": [
+      "Are there a lot of tourists in summer?"
+     ],
+     "explain": "Question: Are there + a lot of + plural noun."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "¿Hay un banco cerca de aquí?",
+     "answers": [
+      "Is there a bank near here?",
+      "Is there a bank around here?",
+      "Is there a bank nearby?",
+      "Is there a bank close to here?"
+     ],
+     "explain": "Is there + singular."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "No hay muchos turistas en invierno.",
+     "answers": [
+      "There aren't many tourists in winter.",
+      "There are not many tourists in winter.",
+      "There aren't many tourists in the winter.",
+      "There aren't a lot of tourists in winter."
+     ],
+     "explain": "Negative with plural: there aren't many."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Gira a la izquierda y sigue recto.",
+     "answers": [
+      "Turn left and go straight.",
+      "Turn left, then go straight.",
+      "Turn left and go straight ahead."
+     ],
+     "explain": "Imperatives joined with and."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "No olvides tu mapa.",
+     "answers": [
+      "Don't forget your map.",
+      "Do not forget your map."
+     ],
+     "explain": "Negative imperative: Don't + verb."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "El museo está entre el banco y el parque.",
+     "answers": [
+      "The museum is between the bank and the park.",
+      "The museum's between the bank and the park."
+     ],
+     "explain": "between … and … to say where something is."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Hay varios hoteles cerca de la estación.",
+     "answers": [
+      "There are several hotels near the station.",
+      "There are several hotels next to the station.",
+      "There are several hotels close to the station."
+     ],
+     "explain": "Several + plural: there are."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed practice",
+   "instructions": "Exercises on different topics from the unit, with review of earlier lessons.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "___ any good restaurants near here?",
+     "options": [
+      "Is there",
+      "Are there",
+      "There are"
+     ],
+     "answer": 1,
+     "explain": "Question with plural + any: Are there."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Don't ___ late for the class. (be)",
+     "answers": [
+      "be"
+     ],
+     "explain": "Don't + be with adjectives."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "The Mexico City has a lot of festivals.",
+     "answers": [
+      "Mexico City has a lot of festivals."
+     ],
+     "explain": "Cities do not use the.",
+     "case": true
+    },
+    {
+     "id": "M4",
+     "type": "fix",
+     "prompt": "I like this city because is very big.",
+     "answers": [
+      "I like this city because it is very big.",
+      "I like this city because it's very big."
+     ],
+     "explain": "The subject it is missing after because."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "The park is ___ the art gallery. (across from)",
+     "options": [
+      "across from",
+      "between",
+      "on the corner"
+     ],
+     "answer": 0,
+     "explain": "across from = in front of."
+    },
+    {
+     "id": "M6",
+     "type": "fix",
+     "prompt": "There are beautifuls buildings in the old town.",
+     "answers": [
+      "There are beautiful buildings in the old town."
+     ],
+     "explain": "The adjective does not change in the plural."
+    },
+    {
+     "id": "M7",
+     "type": "fix",
+     "prompt": "He have two sisters.",
+     "answers": [
+      "He has two sisters."
+     ],
+     "explain": "Review of earlier lessons: he → has."
+    },
+    {
+     "id": "M8",
+     "type": "translate",
+     "prompt": "Mi mamá es doctora.",
+     "answers": [
+      "My mom is a doctor.",
+      "My mom's a doctor.",
+      "My mother is a doctor.",
+      "My mother's a doctor."
+     ],
+     "explain": "Review of earlier lessons: jobs use a with singular nouns."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "F1",
+   "prompt": "Write a paragraph of 6 to 8 sentences recommending a city or a neighborhood you know to a tourist. Include two or three adjectives, There is / There are with some, a lot of or several, one reason with because, and one tip with Don't forget… or Don't miss….",
+   "targets": [
+    "there is / there are",
+    "adjectives",
+    "because + subject",
+    "negative imperative"
+   ],
+   "checklist": [
+    "there is with singular and there are with plural",
+    "any in negatives and questions",
+    "Adjective before the noun and without -s",
+    "Subject in the reasons (because it is…)",
+    "A tip with Don't + verb without to",
+    "City names without the",
+    "Between 6 and 8 sentences"
+   ],
+   "model": "I recommend Oaxaca for tourists. It is a beautiful and colorful city. There is a big market in the center. There are a lot of good restaurants, and there are several old churches. I like Oaxaca because it is friendly. There aren't any big malls, but you can walk everywhere. Don't forget your hat. Don't miss the main square."
+  },
+  {
+   "id": "F2",
+   "prompt": "Write 5 directions with imperatives to go from your home to the nearest store or park, using turn, go straight, take the … street and next to / on the corner of.",
+   "targets": [
+    "imperative",
+    "directions",
+    "next to / on the corner of"
+   ],
+   "checklist": [
+    "Imperatives without a subject",
+    "Turn left / turn right used correctly",
+    "At least one take the … street",
+    "One location with next to or on the corner of",
+    "5 directions in logical order"
+   ],
+   "model": "Go straight on Main Street for two blocks.\nTurn left on Hidalgo Street.\nTake the second street on the right.\nTurn right at the traffic light.\nStop at the store next to the bank, on the corner of Juarez Street."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "A weekend in Guanajuato",
+   "intro": "Read Sofía's blog post and answer.",
+   "paragraphs": [
+    "Hi everyone! I'm in Guanajuato this weekend, and it's a beautiful city. There are a lot of colorful houses and several old churches downtown. There's a big market near the main square, and there are some cafés next to the theater. The people are friendly, and there aren't many tourists on weekdays.",
+    "My hotel is on the corner of Alonso Street and Sopeña Street. It's small, but it's comfortable. There isn't any air conditioning, but it isn't a problem because the mornings are cool.",
+    "Here are my tips for visitors. Don't drive in the center, because the streets are very narrow. Walk, or take a bus. Go to the Alley of the Kiss in the afternoon, and don't forget your camera! Is there a good place for lunch? Yes, there is. Try the small restaurant across from the university. The enchiladas are awesome.",
+    "I love this city. It's a must for your next vacation!"
+   ],
+   "glossary": [
+    {
+     "en": "narrow",
+     "def": "not wide"
+    },
+    {
+     "en": "tips",
+     "def": "useful advice"
+    },
+    {
+     "en": "comfortable",
+     "def": "nice to be in or use"
+    },
+    {
+     "en": "air conditioning",
+     "def": "a machine that makes a room cool"
+    },
+    {
+     "en": "across from",
+     "def": "on the other side, facing"
+    },
+    {
+     "en": "a must",
+     "def": "something you should not miss"
+    },
+    {
+     "en": "awesome",
+     "def": "very good, great"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "True or False: There are old churches downtown.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Dice: 'several old churches downtown'."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "True or False: The hotel has air conditioning.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Dice: 'There isn't any air conditioning'."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Why shouldn't visitors drive in the center?",
+     "options": [
+      "The streets are very narrow.",
+      "There isn't any parking.",
+      "The buses are expensive."
+     ],
+     "answer": 0,
+     "explain": "Dice: 'Don't drive in the center, because the streets are very narrow'."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Where is the small restaurant?",
+     "options": [
+      "Next to the theater.",
+      "Across from the university.",
+      "On the corner of Alonso Street."
+     ],
+     "answer": 1,
+     "explain": "Dice: 'across from the university'."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "There ___ a big market near the main square.",
+     "answers": [
+      "is",
+      "'s"
+     ],
+     "explain": "Market es singular: there is / there's."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Don't ___ your camera!",
+     "answers": [
+      "forget"
+     ],
+     "explain": "Imperativo negativo: Don't + verbo base."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Is there a bank near here?",
+   "intro": "Listen to the conversation. You can repeat it.",
+   "lines": [
+    {
+     "who": "Marcos",
+     "voice": "airy",
+     "text": "Excuse me, is there a bank near here?"
+    },
+    {
+     "who": "Local woman",
+     "voice": "glassy",
+     "text": "Yes, there is. It's on Juárez Street, next to the pharmacy."
+    },
+    {
+     "who": "Marcos",
+     "voice": "airy",
+     "text": "How do I get there?"
+    },
+    {
+     "who": "Local woman",
+     "voice": "glassy",
+     "text": "Go straight for two blocks. Then turn left at the traffic light. The bank is across from the park."
+    },
+    {
+     "who": "Marcos",
+     "voice": "airy",
+     "text": "So, I go straight for two blocks and turn right, right?"
+    },
+    {
+     "who": "Local woman",
+     "voice": "glassy",
+     "text": "No, turn left."
+    },
+    {
+     "who": "Marcos",
+     "voice": "airy",
+     "text": "Oh, turn left. Got it. Is there a café near the bank?"
+    },
+    {
+     "who": "Local woman",
+     "voice": "glassy",
+     "text": "Yes, there are two cafés near the bank. Don't go to the small one, because it's very expensive."
+    },
+    {
+     "who": "Marcos",
+     "voice": "airy",
+     "text": "Thank you very much!"
+    },
+    {
+     "who": "Local woman",
+     "voice": "glassy",
+     "text": "You're welcome. Don't forget your umbrella. It rains in the afternoon."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What is Marcos looking for first?",
+     "options": [
+      "A bank",
+      "A café",
+      "A pharmacy"
+     ],
+     "answer": 0,
+     "explain": "Pregunta: 'Is there a bank near here?'"
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "How many blocks does he go straight?",
+     "options": [
+      "One",
+      "Two",
+      "Three"
+     ],
+     "answer": 1,
+     "explain": "Oyes: 'Go straight for two blocks'."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What does he do at the traffic light?",
+     "options": [
+      "Turns right",
+      "Goes straight",
+      "Turns left"
+     ],
+     "answer": 2,
+     "explain": "Ella corrige: 'No, turn left'."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "The bank is across from...",
+     "options": [
+      "the pharmacy",
+      "the park",
+      "the café"
+     ],
+     "answer": 1,
+     "explain": "'The bank is across from the park'; the pharmacy is next to it."
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "The small café is very ___.",
+     "answers": [
+      "expensive"
+     ],
+     "explain": "Dice: 'because it's very expensive'."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "D11",
+     "type": "dictation",
+     "text": "Excuse me, is there a bank near here?",
+     "answers": [
+      "Excuse me, is there a bank near here?"
+     ],
+     "explain": "There is → pregunta: Is there…?"
+    },
+    {
+     "id": "D12",
+     "type": "dictation",
+     "text": "Go straight for two blocks and turn left.",
+     "answers": [
+      "Go straight for two blocks and turn left."
+     ],
+     "explain": "Chained imperatives, without a subject."
+    },
+    {
+     "id": "D13",
+     "type": "dictation",
+     "text": "There are two cafés near the bank.",
+     "answers": [
+      "There are two cafés near the bank.",
+      "There are two cafes near the bank."
+     ],
+     "explain": "Plural → there are."
+    },
+    {
+     "id": "D14",
+     "type": "dictation",
+     "text": "Don't forget your umbrella. It rains in the afternoon.",
+     "answers": [
+      "Don't forget your umbrella. It rains in the afternoon.",
+      "Do not forget your umbrella. It rains in the afternoon."
+     ],
+     "explain": "Don't + verbo base."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Describe your city or neighborhood: what is there and what is not.",
+     "questions": [
+      "Where do you live?",
+      "Is there a park near your home?",
+      "Are there any good restaurants in your neighborhood?",
+      "What isn't there in your neighborhood?"
+     ],
+     "model": "I live in Puebla. There is a big park near my house. There are a lot of restaurants and several old churches downtown. There isn't a movie theater in my neighborhood, but there is one at the mall.",
+     "checklist": [
+      "there is with singular, there are with plural",
+      "Use some, several or a lot of",
+      "Use isn't / aren't any in negatives",
+      "City name without the"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Give directions from your home to a nearby place (store, pharmacy or park).",
+     "questions": [
+      "Excuse me, is there a pharmacy near your house?",
+      "How do I get there from your house?",
+      "Is it on the left or on the right?",
+      "What is it next to?"
+     ],
+     "model": "Yes, there is. Go straight for two blocks. Then turn left at the corner. The pharmacy is on the right, next to the bakery.",
+     "checklist": [
+      "Imperatives without a subject",
+      "Use go straight and turn left/right",
+      "Use next to, across from or on the corner of",
+      "Speak in order: first, then"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Recommend a place in Mexico to a tourist and give a tip.",
+     "questions": [
+      "What is a good place to visit in Mexico?",
+      "Why is it good?",
+      "What is there to do there?",
+      "What shouldn't a tourist forget?"
+     ],
+     "model": "Oaxaca is a good place to visit. It's beautiful, because it has a lot of old buildings. There are several good markets and there are some great restaurants. Don't forget your camera!",
+     "checklist": [
+      "Use adjectives (beautiful, old, famous)",
+      "Give a reason with because it is / it has",
+      "Use there is / there are",
+      "Give a tip with Don't forget"
+     ]
+    }
+   ],
+   "repeat": [
+    "Is there a bank near here?",
+    "Turn left at the traffic light.",
+    "Go straight for two blocks.",
+    "It's next to the park.",
+    "There aren't any hotels here.",
+    "Don't forget your passport."
+   ]
+  }
+ }
+}

@@ -1,0 +1,1655 @@
+{
+ "id": "u-b1-04",
+ "level": "B1",
+ "n": 4,
+ "title": "Looking ahead",
+ "goals": [
+  "Make confident predictions about the future with will and won't.",
+  "Talk about possibilities with may, might and expressions like maybe and probably.",
+  "Use the simple present with if, when, after and before to talk about the future.",
+  "Offer help and make promises with I'll and I won't, and accept requests with All right / OK.",
+  "Talk about work, life plans and jobs.",
+  "Write about the future, ordering your ideas with First, Second, Next and Finally."
+ ],
+ "learn": [
+  {
+   "id": "g-will",
+   "kind": "grammar",
+   "title": "will and won't: confident predictions",
+   "html": "<p>We use <strong>will</strong> for facts and predictions about the future that we are <strong>very sure</strong> about. It is the same for all persons: no -s, and it is followed by the base verb (without <em>to</em>).</p><table><thead><tr><th>Form</th><th>Example</th></tr></thead><tbody><tr><td>Positive: will / 'll + verb</td><td>I'll be 30 in June. The baby will keep us busy.</td></tr><tr><td>Negative: won't (= will not) + verb</td><td>It won't be easy to find a job.</td></tr><tr><td>Question: Will + subject + verb?</td><td>Will you travel next year? — Yes, I will. / No, I won't.</td></tr></tbody></table><ul><li><strong>will</strong> = prediction or future fact; for <em>plans already decided</em> use <em>be going to</em> or the present continuous: <em>I'm going to Europe next year.</em></li><li>For predictions with visible evidence, use <em>be going to</em>: <em>Look at those clouds. It's going to rain.</em></li><li>With <em>I think, I guess, maybe, probably</em> you can use will even if you are not 100% sure: <em>We'll probably take some time off.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "I will to call you tomorrow.",
+     "right": "I will call you tomorrow.",
+     "why": "After will, use the base verb, without to."
+    },
+    {
+     "wrong": "She will goes to the party.",
+     "right": "She will go to the party.",
+     "why": "Will doesn't change and the verb after it has no -s."
+    },
+    {
+     "wrong": "I will go to Cancún next week; I already bought the tickets.",
+     "right": "I'm going to Cancún next week; I already bought the tickets.",
+     "why": "For plans already decided, use be going to or the present continuous, not will."
+    },
+    {
+     "wrong": "Will you to help me?",
+     "right": "Will you help me?",
+     "why": "Will + subject + base verb."
+    }
+   ]
+  },
+  {
+   "id": "g-may-might",
+   "kind": "grammar",
+   "title": "may and might: when you're not sure",
+   "html": "<p>We use <strong>may</strong> or <strong>might</strong> when something is <strong>possible</strong> but not certain. In this use they mean almost the same thing (\"maybe\", \"it could be\").</p><table><thead><tr><th>Form</th><th>Example</th></tr></thead><tbody><tr><td>Positive: may / might + verb</td><td>I may go on for a master's degree.</td></tr><tr><td>Negative: may / might + <strong>not</strong> + verb</td><td>I might not be able to afford it.</td></tr><tr><td>With will + a doubt word</td><td>We'll probably take some time off. Maybe we'll move.</td></tr></tbody></table><ul><li>Don't use <em>can</em> to predict when you're not sure: <em>It may rain</em> (not <em>It can rain</em>).</li><li><em>may / might</em> don't take <em>to</em> or <em>-s</em>: <em>She might leave.</em></li><li><em>mayn't</em> and <em>mightn't</em> are not used in everyday English; say <em>may not / might not</em>.</li><li><em>Maybe</em> (one word) goes at the beginning: <em>Maybe I'll study abroad.</em> <em>May be</em> (two words) is the verb: <em>It may be true.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "He can come to the party, but I'm not sure.",
+     "right": "He might come to the party, but I'm not sure.",
+     "why": "For an uncertain possibility use may / might, not can."
+    },
+    {
+     "wrong": "I might to travel around Europe.",
+     "right": "I might travel around Europe.",
+     "why": "Might doesn't take to."
+    },
+    {
+     "wrong": "She mights go abroad.",
+     "right": "She might go abroad.",
+     "why": "Might doesn't change: no -s."
+    },
+    {
+     "wrong": "May be I'll move to Monterrey.",
+     "right": "Maybe I'll move to Monterrey.",
+     "why": "At the start of a sentence write maybe, as one word."
+    }
+   ]
+  },
+  {
+   "id": "g-time-clauses",
+   "kind": "grammar",
+   "title": "Simple present with future meaning: if, when, after, before",
+   "html": "<p>In sentences with two parts about the future, the part that begins with <strong>if, when, after</strong> or <strong>before</strong> goes in the <strong>simple present</strong>, even when you are talking about the future. The other part uses will, may, might or be going to.</p><table><thead><tr><th>Connector</th><th>Example</th></tr></thead><tbody><tr><td>if</td><td>If I get good grades, I may go to law school.</td></tr><tr><td>when</td><td>What are you going to do when you graduate?</td></tr><tr><td>after</td><td>After I graduate, I'll be able to work in my parents' firm.</td></tr><tr><td>before</td><td>I need to decide before I go home for the summer.</td></tr></tbody></table><ul><li>If the part with <em>if / when</em> comes first, put a comma: <em>When I graduate, I'll look for a job.</em> If it comes at the end, no comma: <em>I'll look for a job when I graduate.</em></li><li>English uses the simple present here, where Spanish often uses the subjunctive: <em>when I graduate</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "When I will graduate, I'll look for a job.",
+     "right": "When I graduate, I'll look for a job.",
+     "why": "After when, don't use will: simple present."
+    },
+    {
+     "wrong": "If you will study, you'll pass.",
+     "right": "If you study, you'll pass.",
+     "why": "After if, use the simple present."
+    },
+    {
+     "wrong": "After I will finish, I'll call you.",
+     "right": "After I finish, I'll call you.",
+     "why": "After after, use the simple present."
+    },
+    {
+     "wrong": "I'll call you when I will arrive.",
+     "right": "I'll call you when I arrive.",
+     "why": "The when clause uses the simple present even when it refers to the future."
+    }
+   ]
+  },
+  {
+   "id": "g-offers-promises",
+   "kind": "grammar",
+   "title": "Offers and promises with I'll and I won't",
+   "html": "<p>With <strong>I'll</strong> we offer help in the moment; with <strong>I will / I won't</strong> we promise something.</p><table><thead><tr><th>Function</th><th>Example</th></tr></thead><tbody><tr><td>Offer: I'll + verb</td><td>I'll get some steaks. I'll drive.</td></tr><tr><td>Promise: I'll / I won't + verb</td><td>I'll call you. I won't forget the drinks.</td></tr><tr><td>Short answer to a promise</td><td>A: Make sure you buy gas. B: All right. I will.</td></tr><tr><td>Accepting a request</td><td>A: Remind me to bring my umbrella. B: All right. / OK.</td></tr></tbody></table><ul><li>The short answer to a promise uses full <em>will</em>, without a contraction: <em>I will.</em> (not <em>I'll.</em>)</li><li><em>remind (someone) to + verb</em>: <em>Remind me to call Mom.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "I'll to call you later.",
+     "right": "I'll call you later.",
+     "why": "I'll + base verb, no to."
+    },
+    {
+     "wrong": "I don't forget your birthday, I promise.",
+     "right": "I won't forget your birthday, I promise.",
+     "why": "Promises about the future use will / won't."
+    },
+    {
+     "wrong": "A: Please call me. B: Yes, I'll.",
+     "right": "A: Please call me. B: Yes, I will.",
+     "why": "A positive short answer is not contracted."
+    },
+    {
+     "wrong": "Remind me call Sara.",
+     "right": "Remind me to call Sara.",
+     "why": "Remind someone + to + verb."
+    }
+   ]
+  },
+  {
+   "id": "v-work",
+   "kind": "vocab",
+   "title": "Talking about work",
+   "words": [
+    {
+     "id": "w-ask-promotion",
+     "en": "ask for a promotion",
+     "es": "pedir un ascenso",
+     "example": "I'm going to ask for a promotion next month.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-become-millionaire",
+     "en": "become a millionaire",
+     "es": "volverse millonario/a",
+     "example": "Maybe I'll become a millionaire one day.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-earn-money",
+     "en": "earn (a lot of) money",
+     "es": "ganar (mucho) dinero",
+     "example": "Doctors earn a lot of money.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-go-away",
+     "en": "go away for vacation",
+     "es": "irse de vacaciones",
+     "example": "We may go away for vacation in July.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rewarding-job",
+     "en": "have a rewarding job",
+     "es": "tener un trabajo gratificante",
+     "example": "She has a rewarding job helping children.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-look-for-job",
+     "en": "look for a (better) job",
+     "es": "buscar un (mejor) trabajo",
+     "example": "I'm going to look for a better job.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-retire",
+     "en": "retire",
+     "es": "jubilarse, retirarse",
+     "example": "My father will retire at 65.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-time-off",
+     "en": "take some time off (work)",
+     "es": "tomarse unos días libres",
+     "example": "We'll take some time off in December.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-earn-degree",
+     "en": "get a degree",
+     "es": "obtener un título",
+     "example": "She wants to get a degree in medicine.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-career",
+     "en": "career",
+     "es": "carrera profesional",
+     "example": "He has a great career in sales.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-salary",
+     "en": "salary",
+     "es": "sueldo",
+     "example": "The salary isn't high, but the job is interesting.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-boss",
+     "en": "boss",
+     "es": "jefe/a",
+     "example": "My boss will be happy if we finish early.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "v-plans",
+   "kind": "vocab",
+   "title": "Talking about life plans",
+   "words": [
+    {
+     "id": "w-find-place",
+     "en": "find your own place",
+     "es": "encontrar tu propio lugar donde vivir",
+     "example": "I want to find my own place next year.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-finish-course",
+     "en": "finish this course",
+     "es": "terminar este curso",
+     "example": "After I finish this course, I'll travel.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-get-degree",
+     "en": "get / go on for a degree",
+     "es": "seguir estudiando para obtener una licenciatura",
+     "example": "I may go on for a degree in design.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-masters",
+     "en": "get / go on for a master's degree",
+     "es": "seguir estudiando una maestría",
+     "example": "She may go on for a master's degree.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-certificate",
+     "en": "get / go on for a certificate",
+     "es": "obtener un certificado",
+     "example": "He's going to get a certificate in English.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-good-grades",
+     "en": "get good grades",
+     "es": "sacar buenas calificaciones",
+     "example": "If you get good grades, you may get a scholarship.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-graduate",
+     "en": "graduate from college",
+     "es": "graduarse de la universidad",
+     "example": "I'll graduate from college in June.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-have-baby",
+     "en": "have a baby",
+     "es": "tener un bebé",
+     "example": "They're going to have a baby in May.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-study-abroad",
+     "en": "study abroad",
+     "es": "estudiar en el extranjero",
+     "example": "I might study abroad next year.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-travel-around",
+     "en": "travel around (Europe)",
+     "es": "viajar por (Europa)",
+     "example": "We'll travel around Europe after graduation.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-move",
+     "en": "move to (a new city)",
+     "es": "mudarse a (una ciudad nueva)",
+     "example": "Maybe we'll move to Guadalajara.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-afford",
+     "en": "afford (something)",
+     "es": "tener dinero para pagar algo",
+     "example": "I might not be able to afford a car.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "v-jobs",
+   "kind": "vocab",
+   "title": "Jobs",
+   "words": [
+    {
+     "id": "w-architect",
+     "en": "architect",
+     "es": "arquitecto/a",
+     "example": "An architect designs buildings.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-assistant",
+     "en": "assistant",
+     "es": "asistente",
+     "example": "She works as an assistant in a law firm.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-business-executive",
+     "en": "business executive",
+     "es": "ejecutivo/a de negocios",
+     "example": "A business executive travels a lot.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-carpenter",
+     "en": "carpenter",
+     "es": "carpintero/a",
+     "example": "The carpenter made a new table."
+    },
+    {
+     "id": "w-computer-specialist",
+     "en": "computer specialist",
+     "es": "especialista en computación",
+     "example": "A computer specialist fixed my laptop.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-dentist",
+     "en": "dentist",
+     "es": "dentista",
+     "example": "I have an appointment with the dentist.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-electrician",
+     "en": "electrician",
+     "es": "electricista",
+     "example": "Call an electrician to fix the lights."
+    },
+    {
+     "id": "w-firefighter",
+     "en": "firefighter",
+     "es": "bombero/a",
+     "example": "A firefighter puts out fires.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-interior-designer",
+     "en": "interior designer",
+     "es": "diseñador/a de interiores",
+     "example": "An interior designer chooses furniture and colors.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-journalist",
+     "en": "journalist",
+     "es": "periodista",
+     "example": "A journalist writes news articles.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-letter-carrier",
+     "en": "letter carrier",
+     "es": "cartero/a",
+     "example": "The letter carrier comes at noon.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-paramedic",
+     "en": "paramedic",
+     "es": "paramédico/a",
+     "example": "A paramedic helps people in an accident."
+    },
+    {
+     "id": "w-plumber",
+     "en": "plumber",
+     "es": "plomero/a",
+     "example": "The plumber will fix the pipe today."
+    },
+    {
+     "id": "w-police-officer",
+     "en": "police officer",
+     "es": "policía",
+     "example": "A police officer helped us find the street.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-receptionist",
+     "en": "receptionist",
+     "es": "recepcionista",
+     "example": "The receptionist answers the phone."
+    },
+    {
+     "id": "w-sales-representative",
+     "en": "sales representative",
+     "es": "representante de ventas",
+     "example": "A sales representative visits customers.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-veterinarian",
+     "en": "veterinarian",
+     "es": "veterinario/a",
+     "example": "The veterinarian looked at my dog."
+    }
+   ]
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>I'll be 30 in June. / It won't be easy.</strong> — safe predictions.</li><li><strong>I may / might go on for a master's degree.</strong> — possibility.</li><li><strong>Maybe we'll move. / We'll probably take some time off.</strong> — predictions with doubt.</li><li><strong>I'll drive. / I'll get some steaks.</strong> — offering help.</li><li><strong>I'll call you. / I won't forget.</strong> — promising. Reply: <strong>All right. I will.</strong></li><li><strong>All right. / OK.</strong> — accepting a request.</li><li><strong>First, ... Second, ... Next, ... Finally, ...</strong> — ordering ideas when writing: <em>First, you won't need to drive. Second, you'll never get lost.</em></li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "will and won't",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-will",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "Nobody believes it: the exam ___ be easy. (negative)",
+     "answers": [
+      "won't",
+      "will not"
+     ],
+     "explain": "Negative: won't + verb."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Next year I ___ be thirty. (I'm sure)",
+     "answers": [
+      "will",
+      "'ll"
+     ],
+     "explain": "Confident prediction: will / 'll."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "The baby ___ keep us very busy!",
+     "answers": [
+      "will",
+      "'ll"
+     ],
+     "explain": "Prediction: will + base verb."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "She studies every day. She ___ pass the exam. (I'm sure)",
+     "options": [
+      "will",
+      "may not",
+      "won't"
+     ],
+     "answer": 0,
+     "explain": "Very sure and positive: will."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "Maybe we ___ move to Guadalajara.",
+     "answers": [
+      "will",
+      "'ll"
+     ],
+     "explain": "Maybe + will for a possibility."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "I will to call you tomorrow.",
+     "answers": [
+      "I will call you tomorrow.",
+      "I'll call you tomorrow."
+     ],
+     "explain": "Will + base form, no to."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "She will goes to the party.",
+     "answers": [
+      "She will go to the party.",
+      "She'll go to the party."
+     ],
+     "explain": "After will: base form, no -s."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "won't",
+      "It",
+      "easy",
+      "be",
+      "to",
+      "find",
+      "a",
+      "job"
+     ],
+     "answers": [
+      "It won't be easy to find a job."
+     ],
+     "explain": "Negative: won't + be + adjective."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "may and might",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-may-might",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "I ___ go on for a master's degree. (maybe)",
+     "answers": [
+      "may",
+      "might"
+     ],
+     "explain": "Possibility: may / might."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "She might not ___ able to afford it.",
+     "answers": [
+      "be"
+     ],
+     "explain": "Might not + base verb: be."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "Take an umbrella. It ___ rain tomorrow. (I'm not sure)",
+     "answers": [
+      "may",
+      "might"
+     ],
+     "explain": "Doubt about the future: may / might."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "I'm not sure. I ___ study abroad next year.",
+     "options": [
+      "will",
+      "may",
+      "am"
+     ],
+     "answer": 1,
+     "explain": "Possibility: may."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "We ___ probably take some time off in December.",
+     "options": [
+      "will",
+      "are",
+      "do"
+     ],
+     "answer": 0,
+     "explain": "Will + probably to predict with doubt."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "He can come to the party, but I'm not sure.",
+     "answers": [
+      "He may come to the party, but I'm not sure.",
+      "He might come to the party, but I'm not sure."
+     ],
+     "explain": "For a possibility use may / might, not can."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "I might to travel around Europe.",
+     "answers": [
+      "I might travel around Europe.",
+      "I may travel around Europe."
+     ],
+     "explain": "Might doesn't take to."
+    },
+    {
+     "id": "B8",
+     "type": "translate",
+     "prompt": "Quizá mi hermana estudie en el extranjero.",
+     "answers": [
+      "My sister may study abroad.",
+      "My sister might study abroad.",
+      "Maybe my sister will study abroad."
+     ],
+     "explain": "may / might + base verb, or Maybe + will."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Simple present with if, when, after, before",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-time-clauses",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "What are you going to do when you ___? (graduate)",
+     "answers": [
+      "graduate"
+     ],
+     "explain": "After when: simple present."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "If I ___ good grades, I may go to law school. (get)",
+     "answers": [
+      "get"
+     ],
+     "explain": "After if: simple present."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "After I ___ this course, I'll take some time off. (finish)",
+     "answers": [
+      "finish"
+     ],
+     "explain": "After after: simple present."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "I need to decide before I ___ home. (go)",
+     "answers": [
+      "go"
+     ],
+     "explain": "After before: simple present."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "If it ___ tomorrow, we'll stay home.",
+     "options": [
+      "rains",
+      "will rain",
+      "rain"
+     ],
+     "answer": 0,
+     "explain": "After if: simple present (third person with -s)."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "I'll call you when I ___ at the airport.",
+     "options": [
+      "arrive",
+      "will arrive",
+      "arrived"
+     ],
+     "answer": 0,
+     "explain": "After when: simple present."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "When I will graduate, I'll look for a job.",
+     "answers": [
+      "When I graduate, I'll look for a job.",
+      "When I graduate, I will look for a job."
+     ],
+     "explain": "After when, don't use will."
+    },
+    {
+     "id": "C8",
+     "type": "fix",
+     "prompt": "If you will study, you'll pass.",
+     "answers": [
+      "If you study, you'll pass.",
+      "If you study, you will pass."
+     ],
+     "explain": "After if, the simple present is used."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Offers and promises",
+   "instructions": "Complete, choose, correct or translate.",
+   "topic": "g-offers-promises",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "A: I don't have a ride. B: I ___ drive you.",
+     "answers": [
+      "will",
+      "'ll"
+     ],
+     "explain": "Offer: I'll + verb."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "I ___ forget your birthday, I promise.",
+     "answers": [
+      "won't",
+      "will not"
+     ],
+     "explain": "Negative promise: I won't."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "A: Make sure you buy the tickets. B: All right. I ___.",
+     "answers": [
+      "will"
+     ],
+     "explain": "Short answer to a promise: I will."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "A: Remind me to bring my umbrella. B: ___",
+     "options": [
+      "All right.",
+      "I won't.",
+      "I'll be."
+     ],
+     "answer": 0,
+     "explain": "All right / OK accept a request."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "Your friend has heavy bags. What do you say to make an offer?",
+     "options": [
+      "I'll carry them.",
+      "I won't carry them.",
+      "I carried them."
+     ],
+     "answer": 0,
+     "explain": "Offer: I'll + verb."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "I'll to call you later.",
+     "answers": [
+      "I'll call you later.",
+      "I will call you later."
+     ],
+     "explain": "I'll + base verb, no to."
+    },
+    {
+     "id": "D7",
+     "type": "translate",
+     "prompt": "Yo cocino esta noche. (oferta)",
+     "answers": [
+      "I'll cook tonight.",
+      "I will cook tonight.",
+      "I'll cook dinner.",
+      "I will cook dinner."
+     ],
+     "explain": "Offer: I'll + verb."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: work and plans",
+   "instructions": "Complete or choose the correct word.",
+   "topic": "v-plans",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "A person who stops working at 65 will ___.",
+     "answers": [
+      "retire"
+     ],
+     "explain": "Stop working: retire."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "I want to ___ for a better job. (search)",
+     "answers": [
+      "look"
+     ],
+     "explain": "Look for = search for."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "To ask your boss for a higher position, you ask for a...",
+     "options": [
+      "promotion",
+      "vacation",
+      "degree"
+     ],
+     "answer": 0,
+     "explain": "Promotion: moving up to a higher position."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "He earns a lot of money; he may become a ___.",
+     "answers": [
+      "millionaire"
+     ],
+     "explain": "Become a millionaire."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "She wants to study ___ in Canada for a year.",
+     "answers": [
+      "abroad"
+     ],
+     "explain": "Study abroad: study in another country."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "A job that makes you feel happy and useful is a ___ job.",
+     "options": [
+      "rewarding",
+      "boring",
+      "tiny"
+     ],
+     "answer": 0,
+     "explain": "Rewarding: makes you feel happy and useful."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "After the project, we'll take some time ___ work.",
+     "answers": [
+      "off"
+     ],
+     "explain": "Take some time off: take a break from work."
+    },
+    {
+     "id": "E8",
+     "type": "gap",
+     "prompt": "I'd like to ___ my own place next year.",
+     "answers": [
+      "find"
+     ],
+     "explain": "Find your own place."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Vocabulary: jobs",
+   "instructions": "Complete or choose the job.",
+   "topic": "v-jobs",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "A ___ fixes water pipes.",
+     "answers": [
+      "plumber"
+     ],
+     "explain": "Plumber."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "A ___ puts out fires.",
+     "answers": [
+      "firefighter"
+     ],
+     "explain": "Firefighter."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "An ___ designs houses and buildings.",
+     "answers": [
+      "architect"
+     ],
+     "explain": "Architect (an)."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "Who delivers mail to your house?",
+     "options": [
+      "letter carrier",
+      "paramedic",
+      "receptionist"
+     ],
+     "answer": 0,
+     "explain": "Letter carrier."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "Who writes news articles?",
+     "options": [
+      "journalist",
+      "dentist",
+      "carpenter"
+     ],
+     "answer": 0,
+     "explain": "Journalist."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "An ___ repairs electrical problems.",
+     "answers": [
+      "electrician"
+     ],
+     "explain": "Electrician (an)."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "A ___ answers the phone at the front desk.",
+     "answers": [
+      "receptionist"
+     ],
+     "explain": "Receptionist."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I'll",
+      "you",
+      "call",
+      "tomorrow"
+     ],
+     "answers": [
+      "I'll call you tomorrow."
+     ],
+     "explain": "I'll + base verb."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "might",
+      "She",
+      "not",
+      "come"
+     ],
+     "answers": [
+      "She might not come."
+     ],
+     "explain": "Might + not + base verb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "If",
+      "I",
+      "study,",
+      "I'll",
+      "pass"
+     ],
+     "answers": [
+      "If I study, I'll pass."
+     ],
+     "explain": "If + simple present, will + verb."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "won't",
+      "I",
+      "forget",
+      "the",
+      "tickets"
+     ],
+     "answers": [
+      "I won't forget the tickets."
+     ],
+     "explain": "Promise: I won't + verb."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "What",
+      "will",
+      "you",
+      "do",
+      "after",
+      "you",
+      "graduate"
+     ],
+     "answers": [
+      "What will you do after you graduate?"
+     ],
+     "explain": "Will in the question; after + simple present."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Maybe",
+      "we'll",
+      "abroad",
+      "study"
+     ],
+     "answers": [
+      "Maybe we'll study abroad."
+     ],
+     "explain": "Maybe + subject + will + verb."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Creo que mañana lloverá.",
+     "answers": [
+      "I think it will rain tomorrow.",
+      "I think it'll rain tomorrow.",
+      "I think it's going to rain tomorrow."
+     ],
+     "explain": "I think + will / going to."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Quizá me vaya de vacaciones en julio.",
+     "answers": [
+      "I may go away for vacation in July.",
+      "I might go away for vacation in July.",
+      "Maybe I'll go away for vacation in July.",
+      "I may go on vacation in July.",
+      "I might go on vacation in July.",
+      "Maybe I'll go on vacation in July."
+     ],
+     "explain": "May / might + base verb."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Cuando me gradúe, buscaré un mejor trabajo.",
+     "answers": [
+      "When I graduate, I'll look for a better job.",
+      "When I graduate, I will look for a better job.",
+      "I'll look for a better job when I graduate.",
+      "I will look for a better job when I graduate."
+     ],
+     "explain": "When + simple present."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "No voy a olvidar tu cumpleaños, lo prometo.",
+     "answers": [
+      "I won't forget your birthday, I promise.",
+      "I won't forget your birthday. I promise.",
+      "I will not forget your birthday, I promise.",
+      "I will not forget your birthday. I promise."
+     ],
+     "explain": "Promise: I won't + verb."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Si no estudias, no vas a pasar el examen.",
+     "answers": [
+      "If you don't study, you won't pass the exam.",
+      "If you do not study, you will not pass the exam.",
+      "If you don't study, you're not going to pass the exam."
+     ],
+     "explain": "If + simple present, will + verb."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Yo manejo. (oferta)",
+     "answers": [
+      "I'll drive.",
+      "I will drive."
+     ],
+     "explain": "Offer: I'll + verb."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes 2 review items from the previous unit).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "If she ___ the exam, she'll be happy.",
+     "options": [
+      "passes",
+      "will pass",
+      "pass"
+     ],
+     "answer": 0,
+     "explain": "After if: simple present."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "I ___ not be able to afford a new car. (I'm not sure)",
+     "answers": [
+      "might",
+      "may"
+     ],
+     "explain": "Negative possibility: might / may not."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "I will go to Mérida next week; I already have the tickets.",
+     "answers": [
+      "I'm going to Mérida next week; I already have the tickets.",
+      "I am going to Mérida next week; I already have the tickets.",
+      "I'm going to go to Mérida next week; I already have the tickets."
+     ],
+     "explain": "A decided plan: be going to or the present continuous."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Mi hermano será doctor algún día.",
+     "answers": [
+      "My brother will be a doctor one day.",
+      "My brother will be a doctor someday.",
+      "My brother is going to be a doctor one day.",
+      "My brother is going to be a doctor someday."
+     ],
+     "explain": "Prediction: will + be."
+    },
+    {
+     "id": "M5",
+     "type": "gap",
+     "prompt": "A: The bags are heavy. B: I ___ help you.",
+     "answers": [
+      "will",
+      "'ll"
+     ],
+     "explain": "Offer: I'll + verb."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "She wants to ___ for a master's degree.",
+     "answers": [
+      "study",
+      "go on"
+     ],
+     "explain": "Study / go on for a master's degree."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "What does your new boss ___ like? (review from the previous unit)",
+     "options": [
+      "look",
+      "looks",
+      "looking"
+     ],
+     "answer": 0,
+     "explain": "What does + subject + look like?"
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "He's the man ___ a gray suit. (wear) (review from the previous unit)",
+     "answers": [
+      "wearing"
+     ],
+     "explain": "Noun + verb with -ing."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a text of 120 to 180 words about your plans for the next five years: work, studies and personal life. Use will / won't for what you think is certain, may / might for what is possible, and at least three sentences with if, when, after or before. Opening: In five years, I'll probably...",
+   "targets": [
+    "will / won't",
+    "may / might",
+    "if / when / after / before + simple present",
+    "work and plans vocabulary"
+   ],
+   "checklist": [
+    "120 to 180 words",
+    "Two predictions with will or won't",
+    "Two possibilities with may or might",
+    "Three sentences with if, when, after or before + simple present",
+    "No will after if / when / after / before",
+    "Work or plans vocabulary (retire, get a degree, study abroad...)"
+   ],
+   "model": "In five years, I'll probably be a manager in my company. I'm studying at night now, so I think I'll get a degree in business next year. After I finish my studies, I will look for a better job. I won't stay in the same position forever, because I want to learn new things.\n\nI may change cities, and I might study abroad for one year. If I save enough money, I'll travel to Canada. When I live there, I will improve my English a lot. I might also learn a little French, but I'm not sure.\n\nIn my personal life, I will probably get married and buy a small house. I won't have children before I'm thirty-two, I think. Before I buy a house, I will talk to a bank about a loan. If everything goes well, my parents will visit me every summer. I hope I'll be healthy and happy. When I retire, many years later, I'll relax in a small town by the sea, and I won't need to wake up early every day."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write an article of 120 to 180 words titled Life in 2050: how life and work will be. Organize your ideas with First, Second, Next and Finally, and use will, won't and might. Opening: First, people won't need to...",
+   "targets": [
+    "will / won't / might",
+    "First, Second, Next, Finally",
+    "jobs of the future"
+   ],
+   "checklist": [
+    "120 to 180 words",
+    "The four connectors First, Second, Next, Finally at the start of ideas",
+    "Three predictions with will or won't",
+    "One possibility with might or may",
+    "Base verb after will / won't / might",
+    "At least one job (journalist, plumber...)"
+   ],
+   "model": "Life in 2050\n\nFirst, people won't need to go to an office every day. Most workers will do their jobs from home, and they will have meetings with 3D holograms. Some companies might even have a four-day work week.\n\nSecond, transportation will be very different. Cars will drive themselves, and there won't be many accidents. Cities will be cleaner, because most vehicles will use electricity. I think trains will be faster than planes, and we might travel to other countries in two hours.\n\nNext, jobs will change. Robots will do boring and dangerous work, so factories won't need many people. However, there will still be jobs for plumbers, nurses and teachers because machines can't care for people like humans can. A journalist will use computers to write reports, but he will check the facts himself. New jobs may appear that we can't imagine today.\n\nFinally, I think people will live longer and healthier lives. Doctors will cure many diseases, and we might live to be one hundred years old. It will be an exciting world."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Four Friends, Four Futures",
+   "intro": "Read the article about four friends who finish university and answer.",
+   "paragraphs": [
+    "Next June, four friends from Monterrey will graduate from college. They are excited, but they are also a little nervous. What will they do after graduation? We asked each of them about their plans.",
+    "Ana studied architecture. She says she'll find a job right away. \"I'm sure it won't be easy, but I'll work hard,\" she says. \"My uncle has a design company. If he has a place for me, I'll start there in July. Maybe I'll find my own place in a year or two. Before that, I need to save some money.\" She also might go on for a master's degree, but only if she gets a scholarship.",
+    "Luis is the family's future doctor, but he won't start his career soon. \"When I finish college, I'm going to study for six more years,\" he explains. \"It'll be a long road. After I graduate, I'll take some time off. I'm going to travel around Europe with my brother for a month. We'll probably visit Italy and Spain.\" Luis thinks he may study abroad, but he's not sure yet.",
+    "Marta wants to be a journalist. \"I'll look for a job at a newspaper,\" she says. \"If I get good grades, I might get an interview with a big magazine. I think I'll earn less money than my friends, but I'll have a very rewarding job.\" Marta also has a surprise: she's going to have a baby in October! \"The baby will keep us busy, but my husband and I are very happy,\" she says.",
+    "Finally, there's Diego. He is the only one who doesn't know what to do. \"I may work for my father's company, or I might become a firefighter. I really don't know. Maybe I'll decide after I come back from my vacation. Before I make a decision, I'll talk to my friends.\" His friends laughed and said, \"We'll help you, Diego. We promise!\"",
+    "Four friends, four different futures. What will happen? Only time will tell."
+   ],
+   "glossary": [
+    {
+     "en": "graduate",
+     "def": "to finish university and receive a diploma"
+    },
+    {
+     "en": "scholarship",
+     "def": "money given to a student to help pay for their studies"
+    },
+    {
+     "en": "save money",
+     "def": "to keep money for the future instead of spending it"
+    },
+    {
+     "en": "interview",
+     "def": "a meeting where someone asks you questions to see if you suit a job"
+    },
+    {
+     "en": "surprise",
+     "def": "something unexpected and pleasant"
+    },
+    {
+     "en": "career",
+     "def": "the work and jobs you do over your life"
+    },
+    {
+     "en": "company",
+     "def": "a business"
+    },
+    {
+     "en": "only time will tell",
+     "def": "the answer will be known in the future"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "The four friends will graduate next June.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Next June, four friends will graduate from college."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Ana is sure that finding a job...",
+     "options": [
+      "will be easy",
+      "won't be easy",
+      "will be impossible"
+     ],
+     "answer": 1,
+     "explain": "Dice: I'm sure it won't be easy."
+    },
+    {
+     "id": "R3",
+     "type": "gap",
+     "prompt": "Luis is going to travel around ___ with his brother.",
+     "answers": [
+      "Europe"
+     ],
+     "explain": "Travel around Europe for a month."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Luis is sure he will study abroad.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Says they might study abroad, but they aren't sure."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "What is Marta going to do in October?",
+     "options": [
+      "Start at a magazine",
+      "Have a baby",
+      "Go on vacation"
+     ],
+     "answer": 1,
+     "explain": "She's going to have a baby in October."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "What does Diego say about his future?",
+     "options": [
+      "He knows exactly what to do",
+      "He may work for his father or become a firefighter",
+      "He will study medicine"
+     ],
+     "answer": 1,
+     "explain": "I may work for my father's company, or I might become a firefighter."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "Marta thinks she'll have a very ___ job.",
+     "answers": [
+      "rewarding"
+     ],
+     "explain": "A very rewarding job."
+    },
+    {
+     "id": "R8",
+     "type": "translate",
+     "prompt": "Si me dan una beca, voy a estudiar en el extranjero.",
+     "answers": [
+      "If I get a scholarship, I'll study abroad.",
+      "If I get a scholarship, I will study abroad.",
+      "If I get a scholarship, I'm going to study abroad.",
+      "If I get a scholarship, I may study abroad.",
+      "If I get a scholarship, I might study abroad."
+     ],
+     "explain": "If + presente simple, y will / may / might + verbo."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Planning a beach trip",
+   "intro": "Listen to two friends planning a trip to the beach. You can repeat the conversation.",
+   "lines": [
+    {
+     "who": "Sara",
+     "voice": "airy",
+     "text": "OK, Tom. The trip to the beach is on Saturday. What do we need?"
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "Let's see. I'll drive, because my car is bigger. And I'll bring the GPS."
+    },
+    {
+     "who": "Sara",
+     "voice": "airy",
+     "text": "Great. I'll make the sandwiches. Maybe I'll also bring some fruit."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "Good idea. Please remind me to buy gas on Friday. Last time we almost ran out of gas!"
+    },
+    {
+     "who": "Sara",
+     "voice": "airy",
+     "text": "All right. I will. And you have to leave early. If we leave at seven, we'll miss the traffic."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "OK. I'll pick you up at seven. I won't be late, I promise."
+    },
+    {
+     "who": "Sara",
+     "voice": "airy",
+     "text": "Thanks. What about the beach umbrella? It'll be very sunny."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "Oh, I might forget it. Remind me to bring it."
+    },
+    {
+     "who": "Sara",
+     "voice": "airy",
+     "text": "Sure. I'll send you a message on Friday night. Also, after we get there, we'll probably have lunch first."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "Sounds good. When we finish lunch, we may go swimming."
+    },
+    {
+     "who": "Sara",
+     "voice": "airy",
+     "text": "And if it rains, we'll go to the museum in town."
+    },
+    {
+     "who": "Tom",
+     "voice": "buttery",
+     "text": "Perfect. I'm sure it won't rain, though. See you Saturday!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Who will drive to the beach?",
+     "options": [
+      "Sara",
+      "Tom",
+      "Sara's brother"
+     ],
+     "answer": 1,
+     "explain": "Tom says: I'll drive."
+    },
+    {
+     "id": "L2",
+     "type": "gap",
+     "prompt": "Sara will make the ___.",
+     "answers": [
+      "sandwiches"
+     ],
+     "explain": "I'll make the sandwiches."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What does Tom want Sara to remind him to do on Friday?",
+     "options": [
+      "Buy gas",
+      "Buy tickets",
+      "Call a friend"
+     ],
+     "answer": 0,
+     "explain": "Remind me to buy gas on Friday."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What time will Tom pick Sara up?",
+     "options": [
+      "At six",
+      "At seven",
+      "At eight"
+     ],
+     "answer": 1,
+     "explain": "I'll pick you up at seven."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What will they do if it rains?",
+     "options": [
+      "Go home",
+      "Go to the museum",
+      "Stay in the car"
+     ],
+     "answer": 1,
+     "explain": "If it rains, we'll go to the museum."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "Tom is sure it will rain on Saturday.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Dice: I'm sure it won't rain."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "I'll pick you up at seven.",
+     "answers": [
+      "I'll pick you up at seven.",
+      "I will pick you up at seven."
+     ],
+     "explain": "Oferta con I'll + verbo base."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "I won't be late, I promise.",
+     "answers": [
+      "I won't be late, I promise.",
+      "I will not be late, I promise."
+     ],
+     "explain": "Promesa con won't."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "If we leave early, we'll miss the traffic.",
+     "answers": [
+      "If we leave early, we'll miss the traffic."
+     ],
+     "explain": "If + presente simple, will + verbo."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "When we finish lunch, we may go swimming.",
+     "answers": [
+      "When we finish lunch, we may go swimming."
+     ],
+     "explain": "When + presente simple; may + verbo base."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about your plans after you finish this course or this year.",
+     "questions": [
+      "What will you do after you finish this course?",
+      "Where will you be in five years?",
+      "Will you study abroad?",
+      "What do you want to do when you retire?"
+     ],
+     "model": "After I finish this course, I'll take some time off. In five years, I'll probably have a better job. I may study abroad, but I'm not sure. When I retire, I'll travel around the world.",
+     "checklist": [
+      "will / won't",
+      "may / might + base verb",
+      "after / when + simple present",
+      "probably / maybe"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Offer help and make promises in real situations (a trip, a party, a move).",
+     "questions": [
+      "I don't have a car. Can you help?",
+      "Can you buy the drinks?",
+      "Please remind me to call Mom.",
+      "Don't forget the tickets!"
+     ],
+     "model": "Don't worry. I'll drive. I'll buy the drinks, too. All right. I'll remind you to call your mom. I won't forget the tickets, I promise.",
+     "checklist": [
+      "I'll + base verb to offer",
+      "I won't + verb to promise",
+      "All right / OK to accept",
+      "Short answer: I will."
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about jobs: which job you would like to have and which you wouldn't, and why.",
+     "questions": [
+      "What job would you like to have?",
+      "What does a plumber or an electrician do?",
+      "Is a rewarding job more important than a high salary?",
+      "What will your job be like in the future?"
+     ],
+     "model": "I'd like to be an architect. An architect designs buildings. I think I'll have a rewarding job, but I may not earn a lot of money at first. If I get good grades, I might go on for a master's degree.",
+     "checklist": [
+      "Jobs (architect, plumber...)",
+      "will / may / might",
+      "if + simple present",
+      "Opinion with I think"
+     ]
+    }
+   ],
+   "repeat": [
+    "I'll drive, and I'll bring the GPS.",
+    "It won't be easy to find a job.",
+    "I may go on for a master's degree.",
+    "When I graduate, I'll take some time off.",
+    "All right. I will.",
+    "First, you won't need to drive."
+   ]
+  }
+ }
+}

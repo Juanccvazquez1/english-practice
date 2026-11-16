@@ -1,0 +1,1658 @@
+{
+ "id": "u-a2-01",
+ "level": "A2",
+ "n": 1,
+ "title": "Around the world",
+ "goals": [
+  "Give tourist information about a place using can and can't.",
+  "Ask what you can do, where, when, and how, using What, Where, When, How, and Who + can.",
+  "Talk about countries, nationalities, and the languages you can speak.",
+  "Explain a word you don't know using a kind of, like, and kind of like.",
+  "Give examples with like and write lists with commas.",
+  "Write a short paragraph for tourists about your city or your food."
+ ],
+ "learn": [
+  {
+   "id": "g-can-possible",
+   "kind": "grammar",
+   "title": "can / can't: what is possible in a place",
+   "html": "<p>You already used <em>can</em> to talk about abilities. Now it also means <strong>what is possible</strong> or <strong>what is allowed</strong> in a place: \"you can…\" or \"it's possible to…\". It's very common in tourist information.</p><table><thead><tr><th>Type</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Affirmative</td><td>subject + <strong>can</strong> + base verb</td><td>You <strong>can</strong> take a ferry to the island.</td></tr><tr><td>Negative</td><td>subject + <strong>can't</strong> (cannot) + base verb</td><td>Tourists <strong>can't</strong> go inside the palace today.</td></tr><tr><td>Yes/no question</td><td><strong>Can</strong> + subject + base verb?</td><td><strong>Can</strong> we take photos here?</td></tr><tr><td>Short answer</td><td>Yes, subject + can. / No, subject + can't.</td><td>Yes, you can. / No, you can't.</td></tr></tbody></table><ul><li><em>Can</em> is the same for all subjects: <em>he can</em>, not <em>he cans</em>.</li><li>After <em>can</em> comes the base verb, without <em>to</em> and without -s.</li><li>In a guide, <em>you</em> means \"anyone\": <em>You can see a show every night.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "She can goes to the top of the tower.",
+     "right": "She can go to the top of the tower.",
+     "why": "After can, use the base verb, without -s."
+    },
+    {
+     "wrong": "We can to take a bus tour.",
+     "right": "We can take a bus tour.",
+     "why": "Can doesn't take to."
+    },
+    {
+     "wrong": "Do tourists can visit the castle?",
+     "right": "Can tourists visit the castle?",
+     "why": "Can forms the question by itself; do/does is not used."
+    },
+    {
+     "wrong": "Yes, you cans.",
+     "right": "Yes, you can.",
+     "why": "Can never changes form."
+    }
+   ]
+  },
+  {
+   "id": "g-wh-can",
+   "kind": "grammar",
+   "title": "Questions with What, Where, When, How, and Who + can",
+   "html": "<p>To ask for specific information, we put a question word at the start and <em>can</em> after it: <strong>question word + can + subject + base verb</strong>.</p><table><thead><tr><th>Question</th><th>Possible answer</th></tr></thead><tbody><tr><td><strong>What can</strong> you do in Cusco?</td><td>You can visit old temples.</td></tr><tr><td><strong>Where can</strong> tourists go on a rainy day?</td><td>They can go to a museum.</td></tr><tr><td><strong>When can</strong> we visit the castle?</td><td>You can visit it after ten.</td></tr><tr><td><strong>How can</strong> I get to the zoo?</td><td>You can take the bus.</td></tr><tr><td><strong>Who can</strong> speak Japanese?</td><td>Aiko can.</td></tr><tr><td><strong>What languages can</strong> you speak?</td><td>I can speak Spanish and English.</td></tr></tbody></table><p>Order: the <strong>subject goes between can and the verb</strong> (<em>Where can tourists go?</em>). With <em>who</em> there is no separate subject: <em>Who can help me?</em> If you ask about a noun, put it next to the question word: <em>What languages can you speak?</em></p>",
+   "watch": [
+    {
+     "wrong": "Where can go tourists?",
+     "right": "Where can tourists go?",
+     "why": "The subject goes between can and the verb."
+    },
+    {
+     "wrong": "What do you can do here?",
+     "right": "What can you do here?",
+     "why": "Don't use do with can."
+    },
+    {
+     "wrong": "How I can get to the castle?",
+     "right": "How can I get to the castle?",
+     "why": "Can goes before the subject in questions."
+    },
+    {
+     "wrong": "What languages you can speak?",
+     "right": "What languages can you speak?",
+     "why": "Question word + can + subject + verb."
+    }
+   ]
+  },
+  {
+   "id": "g-kind-of",
+   "kind": "grammar",
+   "title": "Explaining words: a kind of, like, and kind of like",
+   "html": "<p>When you don't know a word, you can explain it with other words. Three very useful phrases:</p><table><thead><tr><th>Phrase</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td><strong>a kind of</strong> + noun</td><td>a type of</td><td>A tamal is <strong>a kind of</strong> food made with corn.</td></tr><tr><td><strong>like</strong> + noun</td><td>similar to</td><td>It's <strong>like</strong> a small taco.</td></tr><tr><td><strong>kind of like</strong> + noun</td><td>a little bit like</td><td>It's <strong>kind of like</strong> a sweet bread.</td></tr><tr><td>noun + <strong>like</strong> + examples</td><td>such as, for example</td><td>You can eat desserts <strong>like</strong> cake and ice cream.</td></tr></tbody></table><p><em>A kind of</em> takes the article <em>a</em>. With plural: <em>They're a kind of candy</em> (the \"type\" is singular). <em>Such as</em> also works for giving examples.</p>",
+   "watch": [
+    {
+     "wrong": "They are kind like sugar.",
+     "right": "They are kind of like sugar.",
+     "why": "The full phrase is kind of like."
+    },
+    {
+     "wrong": "It is kind of food.",
+     "right": "It is a kind of food.",
+     "why": "A kind of takes the article a."
+    },
+    {
+     "wrong": "I like desserts like, cake and ice cream.",
+     "right": "I like desserts like cake and ice cream.",
+     "why": "No comma after like (examples)."
+    }
+   ]
+  },
+  {
+   "id": "g-lists",
+   "kind": "grammar",
+   "title": "Writing lists: the comma",
+   "html": "<p>When you name <strong>three or more</strong> items, separate them with commas and put <em>and</em> before the last one. With only <strong>two</strong> items there is no comma.</p><table><thead><tr><th>Case</th><th>Example</th></tr></thead><tbody><tr><td>Three or more items</td><td>Bangkok is famous for its palaces<strong>,</strong> temples<strong>,</strong> and river.</td></tr><tr><td>Two items</td><td>I like tea <strong>and</strong> coffee. (no comma)</td></tr><tr><td>Verbs in a list</td><td>You can walk, take photos, and eat street food.</td></tr></tbody></table><p>The comma before <em>and</em> (the last comma) is optional in English, but it is very common. Don't put a comma if you only join two words with <em>and</em>.</p>",
+   "watch": [
+    {
+     "wrong": "We saw a bridge a statue and a tower.",
+     "right": "We saw a bridge, a statue, and a tower.",
+     "why": "In a list of three, separate the items with commas."
+    },
+    {
+     "wrong": "I bought postcards, and stamps.",
+     "right": "I bought postcards and stamps.",
+     "why": "With two items, don't use a comma."
+    },
+    {
+     "wrong": "Mexico, Peru and, Chile are in America.",
+     "right": "Mexico, Peru, and Chile are in America.",
+     "why": "The comma goes before and, not after."
+    }
+   ]
+  },
+  {
+   "id": "v-tourism",
+   "kind": "vocab",
+   "title": "Tourist activities (things to do as a visitor)",
+   "words": [
+    {
+     "id": "w-get-a-view-of-the-city",
+     "en": "get a view of the city",
+     "es": "ver la ciudad desde las alturas",
+     "example": "From the tower, you can get a view of the city.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-go-to-the-top-of-a-tall-building",
+     "en": "go to the top of a tall building",
+     "es": "subir a lo más alto de un edificio",
+     "example": "We went to the top of a tall building.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-see-a-show",
+     "en": "see a show",
+     "es": "ver un espectáculo",
+     "example": "Let's see a show tonight.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-sit-at-an-outdoor-caf",
+     "en": "sit at an outdoor café",
+     "es": "sentarse en un café al aire libre",
+     "example": "I like to sit at an outdoor café in the morning.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-take-a-bus-tour",
+     "en": "take a bus tour",
+     "es": "tomar un recorrido en autobús",
+     "example": "A bus tour is a good way to see the city.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-take-a-ferry",
+     "en": "take a ferry",
+     "es": "tomar un transbordador",
+     "example": "You can take a ferry to the island.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-take-a-walk",
+     "en": "take a walk",
+     "es": "dar un paseo",
+     "example": "After lunch, we took a walk by the river.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-take-a-walking-tour",
+     "en": "take a walking tour",
+     "es": "hacer un recorrido a pie",
+     "example": "The walking tour starts at nine.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-visit-historic-areas",
+     "en": "visit historic areas",
+     "es": "visitar zonas históricas",
+     "example": "Many tourists visit historic areas in Mexico City.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-walk-around-a-neighborhood",
+     "en": "walk around a neighborhood",
+     "es": "caminar por un barrio",
+     "example": "It's fun to walk around a neighborhood with a map.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-buy-souvenirs",
+     "en": "buy souvenirs",
+     "es": "comprar recuerdos",
+     "example": "I always buy souvenirs for my family.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-take-photos",
+     "en": "take photos",
+     "es": "tomar fotos",
+     "example": "You can't take photos inside the church.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-places",
+   "kind": "vocab",
+   "title": "Travel and tourism (places and things)",
+   "words": [
+    {
+     "id": "w-bridge",
+     "en": "bridge",
+     "es": "puente",
+     "example": "The old bridge is very famous.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-castle",
+     "en": "castle",
+     "es": "castillo",
+     "example": "The castle is on a hill.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-historic-district",
+     "en": "historic district",
+     "es": "zona histórica",
+     "example": "The historic district has beautiful buildings.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-island",
+     "en": "island",
+     "es": "isla",
+     "example": "You can take a boat to the island.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-palace",
+     "en": "palace",
+     "es": "palacio",
+     "example": "A king and queen live in the palace.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-pyramid",
+     "en": "pyramid",
+     "es": "pirámide",
+     "example": "The Pyramid of the Sun is very tall."
+    },
+    {
+     "id": "w-souvenir",
+     "en": "souvenir",
+     "es": "recuerdo, souvenir",
+     "example": "This small statue is a nice souvenir."
+    },
+    {
+     "id": "w-statue",
+     "en": "statue",
+     "es": "estatua",
+     "example": "There is a big statue in the park.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-tower",
+     "en": "tower",
+     "es": "torre",
+     "example": "You can see the whole city from the tower.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-zoo",
+     "en": "zoo",
+     "es": "zoológico",
+     "example": "Children love the zoo."
+    },
+    {
+     "id": "w-temple",
+     "en": "temple",
+     "es": "templo",
+     "example": "The temple is quiet and old.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-tourist-attraction",
+     "en": "tourist attraction",
+     "es": "atracción turística",
+     "example": "The beach is the best tourist attraction in town.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "v-countries",
+   "kind": "vocab",
+   "title": "Countries, nationalities and languages (a country, its nationality, and its language)",
+   "words": [
+    {
+     "id": "w-mexico-mexican-spanish",
+     "en": "Mexico - Mexican - Spanish",
+     "es": "México - mexicano/a - español",
+     "example": "I'm Mexican, and I speak Spanish."
+    },
+    {
+     "id": "w-brazil-brazilian-portuguese",
+     "en": "Brazil - Brazilian - Portuguese",
+     "es": "Brasil - brasileño/a - portugués",
+     "example": "People in Brazil speak Portuguese."
+    },
+    {
+     "id": "w-japan-japanese-japanese",
+     "en": "Japan - Japanese - Japanese",
+     "es": "Japón - japonés/a - japonés",
+     "example": "Aiko is Japanese. She speaks Japanese."
+    },
+    {
+     "id": "w-china-chinese-chinese",
+     "en": "China - Chinese - Chinese",
+     "es": "China - chino/a - chino",
+     "example": "Many people in China speak Chinese."
+    },
+    {
+     "id": "w-germany-german-german",
+     "en": "Germany - German - German",
+     "es": "Alemania - alemán/a - alemán",
+     "example": "Anna is German; she speaks German."
+    },
+    {
+     "id": "w-france-french-french",
+     "en": "France - French - French",
+     "es": "Francia - francés/a - francés",
+     "example": "My teacher is French."
+    },
+    {
+     "id": "w-italy-italian-italian",
+     "en": "Italy - Italian - Italian",
+     "es": "Italia - italiano/a - italiano",
+     "example": "Italian food is delicious."
+    },
+    {
+     "id": "w-russia-russian-russian",
+     "en": "Russia - Russian - Russian",
+     "es": "Rusia - ruso/a - ruso",
+     "example": "Can you speak Russian?"
+    },
+    {
+     "id": "w-turkey-turkish-turkish",
+     "en": "Turkey - Turkish - Turkish",
+     "es": "Turquía - turco/a - turco",
+     "example": "He is Turkish and lives in Istanbul."
+    },
+    {
+     "id": "w-thailand-thai-thai",
+     "en": "Thailand - Thai - Thai",
+     "es": "Tailandia - tailandés/a - tailandés",
+     "example": "I love Thai food."
+    },
+    {
+     "id": "w-egypt-egyptian-arabic",
+     "en": "Egypt - Egyptian - Arabic",
+     "es": "Egipto - egipcio/a - árabe",
+     "example": "In Egypt, people speak Arabic."
+    },
+    {
+     "id": "w-the-united-states-american-english",
+     "en": "the United States - American - English",
+     "es": "Estados Unidos - estadounidense - inglés",
+     "example": "She's American and speaks English.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-britain-british-english",
+     "en": "Britain - British - English",
+     "es": "Gran Bretaña - británico/a - inglés",
+     "example": "The British flag is red, white, and blue."
+    }
+   ]
+  },
+  {
+   "id": "v-food",
+   "kind": "vocab",
+   "title": "Sweets and snacks",
+   "words": [
+    {
+     "id": "w-cake",
+     "en": "cake",
+     "es": "pastel",
+     "example": "We have chocolate cake for dessert.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-candy",
+     "en": "candy",
+     "es": "dulce, caramelo",
+     "example": "Children love candy.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-chocolate",
+     "en": "chocolate",
+     "es": "chocolate",
+     "example": "Oaxaca is famous for its chocolate.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-milkshake",
+     "en": "milkshake",
+     "es": "malteada",
+     "example": "A milkshake is cold and sweet."
+    },
+    {
+     "id": "w-pancake",
+     "en": "pancake",
+     "es": "hot cake",
+     "example": "I have pancakes for breakfast on Sundays."
+    },
+    {
+     "id": "w-sprinkles",
+     "en": "sprinkles",
+     "es": "grageas, chispas de colores",
+     "example": "Put sprinkles on the cake."
+    },
+    {
+     "id": "w-sugar",
+     "en": "sugar",
+     "es": "azúcar",
+     "example": "I don't take sugar in my coffee.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-bread",
+     "en": "bread",
+     "es": "pan",
+     "example": "Fresh bread is great with butter.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-soup",
+     "en": "soup",
+     "es": "sopa",
+     "example": "Chicken soup is good on a cold day.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-juice",
+     "en": "juice",
+     "es": "jugo",
+     "example": "Orange juice is my favorite drink.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-dessert",
+     "en": "dessert",
+     "es": "postre",
+     "example": "What's the dessert today?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-ice-cream",
+     "en": "ice cream",
+     "es": "helado",
+     "example": "We eat ice cream at the beach.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-travel",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>What can you do in…? / You can do a million things.</strong> — asking and answering about a place.</li><li><strong>Can I take a photo here? — Yes, you can. / No, you can't.</strong> — asking for permission.</li><li><strong>Where can I buy…? / How can I get to…?</strong> — asking for information.</li><li><strong>What languages can you speak?</strong> — asking about languages.</li><li><strong>It's a kind of… / It's kind of like…</strong> — explaining a word you don't know.</li><li><strong>Things like…</strong> — giving examples: <em>You can buy things like bags and hats.</em></li><li><strong>You can't miss it!</strong> — it means it's impossible to overlook it.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "can or can't (what is possible)",
+   "instructions": "Complete the sentences about what you can do in a city.",
+   "topic": "g-can-possible",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "In Mexico City, you ___ visit the pyramids at Teotihuacán.",
+     "answers": [
+      "can"
+     ],
+     "explain": "It's possible to visit them: can."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "You ___ take photos inside the museum. It isn't allowed.",
+     "answers": [
+      "can't",
+      "cannot"
+     ],
+     "explain": "It's not allowed: can't."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "___ we take a ferry to the island? — Yes, you can.",
+     "answers": [
+      "Can"
+     ],
+     "explain": "Yes/no question: Can + subject + base verb."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "Tourists ___ a bus tour at the station.",
+     "options": [
+      "can takes",
+      "can take",
+      "can to take"
+     ],
+     "answer": 1,
+     "explain": "Can + base verb, with no -s and no to."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "We ___ see the show tonight. All the tickets are sold out.",
+     "answers": [
+      "can't",
+      "cannot"
+     ],
+     "explain": "There are no tickets: can't."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "Can I sit at that outdoor café? — No, you ___. It's closed.",
+     "answers": [
+      "can't",
+      "cannot"
+     ],
+     "explain": "Negative short answer: No, you can't."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "She can goes to the top of the tower.",
+     "answers": [
+      "She can go to the top of the tower."
+     ],
+     "explain": "After can, base form with no -s."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Questions with can",
+   "instructions": "Complete, choose, or order the words to ask for information.",
+   "topic": "g-wh-can",
+   "items": [
+    {
+     "id": "B1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "can",
+      "do",
+      "What",
+      "you",
+      "in",
+      "Cusco"
+     ],
+     "answers": [
+      "What can you do in Cusco?"
+     ],
+     "explain": "Question word + can + subject + verb."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "___ can tourists buy souvenirs? — At the market.",
+     "answers": [
+      "Where"
+     ],
+     "explain": "Asking about a place: Where."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "What languages ___ speak?",
+     "options": [
+      "can you",
+      "you can",
+      "do can you"
+     ],
+     "answer": 0,
+     "explain": "Question word + can + subject."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "___ can I get a view of the city? — From the top of that tower.",
+     "answers": [
+      "Where"
+     ],
+     "explain": "We ask about a place: Where."
+    },
+    {
+     "id": "B5",
+     "type": "fix",
+     "prompt": "Where can go tourists on a rainy day?",
+     "answers": [
+      "Where can tourists go on a rainy day?"
+     ],
+     "explain": "The subject goes between can and the verb."
+    },
+    {
+     "id": "B6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "How",
+      "can",
+      "get",
+      "I",
+      "to",
+      "the",
+      "castle"
+     ],
+     "answers": [
+      "How can I get to the castle?"
+     ],
+     "explain": "How + can + subject + base verb."
+    },
+    {
+     "id": "B7",
+     "type": "gap",
+     "prompt": "___ can help me with this map? — The guide can.",
+     "answers": [
+      "Who"
+     ],
+     "explain": "We ask about a person: Who."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Explain the word",
+   "instructions": "Choose or complete with a kind of, like, or kind of like.",
+   "topic": "g-kind-of",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "Sprinkles are ___ candy for cakes.",
+     "options": [
+      "a kind of",
+      "kind of like",
+      "like"
+     ],
+     "answer": 0,
+     "explain": "A type of: a kind of."
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "A milkshake is ___ ice cream, but you drink it.",
+     "options": [
+      "kind of like",
+      "a kind of",
+      "such a"
+     ],
+     "answer": 0,
+     "explain": "A little like: kind of like."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "You can eat desserts ___ cake and ice cream.",
+     "answers": [
+      "like",
+      "such as"
+     ],
+     "explain": "To give examples: like / such as."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "A pancake is a ___ of bread. (type)",
+     "answers": [
+      "kind",
+      "type"
+     ],
+     "explain": "a kind of / a type of: a type of."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "They're kind like sugar.",
+     "answers": [
+      "They're kind of like sugar.",
+      "They are kind of like sugar."
+     ],
+     "explain": "The full phrase is kind of like."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "\"It's a ___ soup. It's made with corn.\"",
+     "options": [
+      "kind of",
+      "kind like",
+      "like of"
+     ],
+     "answer": 0,
+     "explain": "a kind of + noun."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Commas in lists",
+   "instructions": "Choose the correctly written sentence.",
+   "topic": "g-lists",
+   "items": [
+    {
+     "id": "D1",
+     "type": "choice",
+     "prompt": "Choose the correct sentence.",
+     "options": [
+      "Rio is famous for its beaches mountains and food.",
+      "Rio is famous for its beaches, mountains, and food.",
+      "Rio is famous for, its beaches, mountains and food."
+     ],
+     "answer": 1,
+     "explain": "Three items: separate them with commas."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "Choose the correct sentence.",
+     "options": [
+      "Cairo is big, and exciting.",
+      "Cairo is big and exciting.",
+      "Cairo, is big and exciting."
+     ],
+     "answer": 1,
+     "explain": "Two items: no comma."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "Choose the correct sentence.",
+     "options": [
+      "We saw a bridge, a statue, and a tower.",
+      "We saw, a bridge a statue and a tower.",
+      "We saw a bridge a statue, and a tower."
+     ],
+     "answer": 0,
+     "explain": "Commas between the items in the list."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "Choose the correct sentence.",
+     "options": [
+      "In Bangkok you can take a boat tour, visit temples, and eat street food.",
+      "In Bangkok you can take a boat tour visit temples and eat street food.",
+      "In Bangkok, you can, take a boat tour visit temples and eat street food."
+     ],
+     "answer": 0,
+     "explain": "Verbs in a list: commas, and and before the last one."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "Choose the sentence that does NOT need commas.",
+     "options": [
+      "He speaks English, French, and Thai.",
+      "She speaks Spanish and English.",
+      "We visited Rome, Paris, and Berlin."
+     ],
+     "answer": 1,
+     "explain": "Only two items: no comma needed."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "Choose the correct sentence.",
+     "options": [
+      "I bought postcards, and stamps.",
+      "I bought postcards and stamps.",
+      "I bought, postcards and stamps."
+     ],
+     "answer": 1,
+     "explain": "Two items joined with and: no comma."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Countries, nationalities, and languages",
+   "instructions": "Write the correct word.",
+   "topic": "v-countries",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "People in Brazil speak ___.",
+     "answers": [
+      "Portuguese"
+     ],
+     "explain": "In Brazil, Portuguese is spoken."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "A person from Japan is ___.",
+     "answers": [
+      "Japanese"
+     ],
+     "explain": "Nationality from Japan: Japanese."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "I'm from Mexico. I'm ___.",
+     "answers": [
+      "Mexican"
+     ],
+     "explain": "Nationality from Mexico: Mexican."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "In Egypt, people speak ___.",
+     "answers": [
+      "Arabic"
+     ],
+     "explain": "In Egypt, Arabic is spoken."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "Anna is from Germany. She's ___.",
+     "answers": [
+      "German"
+     ],
+     "explain": "Nationality from Germany: German."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "Thai food comes from ___.",
+     "answers": [
+      "Thailand"
+     ],
+     "explain": "The country is Thailand."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "The capital of France is Paris, and people there speak ___.",
+     "answers": [
+      "French"
+     ],
+     "explain": "In France, French is spoken."
+    },
+    {
+     "id": "E8",
+     "type": "gap",
+     "prompt": "My friend is from the United States. He's ___.",
+     "answers": [
+      "American"
+     ],
+     "explain": "Nationality from the United States: American."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Tourism",
+   "instructions": "Complete with the correct word or phrase.",
+   "topic": "v-tourism",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "On a rainy day, we can ___ a show.",
+     "answers": [
+      "see"
+     ],
+     "explain": "See a show: to watch a performance."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "At the top of the tower, you can get a ___ of the city.",
+     "options": [
+      "view",
+      "walk",
+      "ferry"
+     ],
+     "answer": 0,
+     "explain": "Get a view of the city."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "To cross the river, you can take a ___.",
+     "answers": [
+      "ferry"
+     ],
+     "explain": "Take a ferry: to travel on a ferry boat."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "I always buy a ___ for my mother when I travel.",
+     "answers": [
+      "souvenir"
+     ],
+     "explain": "A keepsake from a trip: souvenir."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "A ___ is a big house for a king or a queen, with beautiful rooms.",
+     "options": [
+      "palace",
+      "bridge",
+      "zoo"
+     ],
+     "answer": 0,
+     "explain": "Palace: a grand home for a king or queen."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "We can take a walking ___ of the historic district.",
+     "answers": [
+      "tour"
+     ],
+     "explain": "Walking tour: a tour on foot."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "Elephants and giraffes live in the ___.",
+     "answers": [
+      "zoo"
+     ],
+     "explain": "Zoo: a place where you can see animals."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "can",
+      "tourists",
+      "take",
+      "a",
+      "bus",
+      "tour"
+     ],
+     "answers": [
+      "Tourists can take a bus tour."
+     ],
+     "explain": "Subject + can + base verb."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "can't",
+      "we",
+      "go",
+      "to",
+      "the",
+      "top",
+      "of",
+      "the",
+      "tower"
+     ],
+     "answers": [
+      "We can't go to the top of the tower.",
+      "We cannot go to the top of the tower."
+     ],
+     "explain": "Negative: can't + base verb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "languages",
+      "you",
+      "What",
+      "can",
+      "speak"
+     ],
+     "answers": [
+      "What languages can you speak?"
+     ],
+     "explain": "Question word + can + subject + verb."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "kind",
+      "of",
+      "a",
+      "candy",
+      "They're"
+     ],
+     "answers": [
+      "They're a kind of candy."
+     ],
+     "explain": "a kind of + noun."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "can",
+      "Where",
+      "I",
+      "souvenirs",
+      "buy"
+     ],
+     "answers": [
+      "Where can I buy souvenirs?"
+     ],
+     "explain": "Where + can + subject + verb."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Can",
+      "I",
+      "take",
+      "a",
+      "ferry",
+      "to",
+      "the",
+      "island"
+     ],
+     "answers": [
+      "Can I take a ferry to the island?"
+     ],
+     "explain": "Can + subject + base verb."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Puedes visitar el castillo los domingos.",
+     "answers": [
+      "You can visit the castle on Sundays.",
+      "You can visit the castle on Sunday."
+     ],
+     "explain": "Can + base verb; on + day."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿Qué puedo hacer en Guadalajara?",
+     "answers": [
+      "What can I do in Guadalajara?"
+     ],
+     "explain": "What + can + subject + verb."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "No pueden tomar fotos aquí.",
+     "answers": [
+      "They can't take photos here.",
+      "They cannot take photos here.",
+      "You can't take photos here.",
+      "You cannot take photos here.",
+      "They can't take pictures here.",
+      "You can't take pictures here."
+     ],
+     "explain": "Negative: can't + base verb."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Son un tipo de dulce.",
+     "answers": [
+      "They're a kind of candy.",
+      "They are a kind of candy.",
+      "They're a type of candy.",
+      "They are a type of candy."
+     ],
+     "explain": "a kind of / a type of."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Puedo hablar español e inglés, pero no puedo hablar japonés.",
+     "answers": [
+      "I can speak Spanish and English, but I can't speak Japanese.",
+      "I can speak Spanish and English, but I cannot speak Japanese.",
+      "I speak Spanish and English, but I can't speak Japanese."
+     ],
+     "explain": "Can + base verb; language names are capitalized."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "¿Dónde puedo comprar boletos?",
+     "answers": [
+      "Where can I buy tickets?",
+      "Where can I buy the tickets?"
+     ],
+     "explain": "Where + can + subject + verb."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed review",
+   "instructions": "Exercises on different topics (including review of previous units).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "You ___ a view of the city from the tower.",
+     "options": [
+      "can get",
+      "can gets",
+      "can to get"
+     ],
+     "answer": 0,
+     "explain": "Can + base verb."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Where ___ I buy a map?",
+     "answers": [
+      "can"
+     ],
+     "explain": "Where + can + subject + verb."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "Can you speaks French?",
+     "answers": [
+      "Can you speak French?"
+     ],
+     "explain": "After can, base form with no -s."
+    },
+    {
+     "id": "M4",
+     "type": "gap",
+     "prompt": "People in Colombia speak ___.",
+     "answers": [
+      "Spanish"
+     ],
+     "explain": "In Colombia, Spanish is spoken."
+    },
+    {
+     "id": "M5",
+     "type": "translate",
+     "prompt": "Es un poco como el azúcar.",
+     "answers": [
+      "It's kind of like sugar.",
+      "It is kind of like sugar."
+     ],
+     "explain": "A little like: kind of like."
+    },
+    {
+     "id": "M6",
+     "type": "choice",
+     "prompt": "My friends are from Italy. They speak ___.",
+     "options": [
+      "Italian",
+      "Italy",
+      "Italians"
+     ],
+     "answer": 0,
+     "explain": "Italy's language: Italian."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "My brother ___ (work) in a hotel near the beach. (review: simple present)",
+     "answers": [
+      "works"
+     ],
+     "explain": "Third-person singular: works."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "Mexico City is ___ (big) than Puebla. (review: comparatives)",
+     "answers": [
+      "bigger"
+     ],
+     "explain": "Big + -er: bigger."
+    },
+    {
+     "id": "M9",
+     "type": "choice",
+     "prompt": "Choose the correct sentence.",
+     "options": [
+      "You can eat things like tacos tamales and pozole.",
+      "You can eat things like tacos, tamales, and pozole.",
+      "You can eat things like, tacos tamales and pozole."
+     ],
+     "answer": 1,
+     "explain": "Three-item list: use commas."
+    },
+    {
+     "id": "M10",
+     "type": "choice",
+     "prompt": "___ can I take a bus tour? — At the station.",
+     "options": [
+      "Where",
+      "Who",
+      "What"
+     ],
+     "answer": 0,
+     "explain": "We ask about a place: Where."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a paragraph of 60 to 100 words for a tourist visiting your city: three things they can do (use a list with commas), one thing they can't do, and where they can buy souvenirs. Starter: In my city, you can …",
+   "targets": [
+    "can / can't",
+    "Where can…?",
+    "lists with commas",
+    "tourism vocabulary"
+   ],
+   "checklist": [
+    "At least three things you can do, using can + base verb",
+    "One thing you can't do, using can't",
+    "A three-item list with commas and and",
+    "Where to buy souvenirs (Where…, At…)",
+    "Between 60 and 100 words"
+   ],
+   "model": "In my city, you can visit the old market, walk in the big park, and eat tacos in the main square. You can also take a boat ride on the lake. You can't swim in the lake, because it is not clean. Where can you buy souvenirs? You can buy nice things at the Craft Market, near the cathedral. At the small shops on Juárez Street, you can find bags, hats and colorful blankets. Welcome to my city!"
+  },
+  {
+   "id": "W2",
+   "prompt": "Explain a food or drink from your country to a foreign friend (60 to 100 words). Use a kind of and kind of like, give examples with like, and say in which cities or countries it is eaten. Starter: Pozole is a kind of soup. It's kind of like …",
+   "targets": [
+    "a kind of",
+    "kind of like",
+    "like for examples",
+    "countries and languages"
+   ],
+   "checklist": [
+    "One sentence with a kind of",
+    "One sentence with kind of like",
+    "Examples with like or such as",
+    "A list of three or more items with commas",
+    "Between 60 and 100 words"
+   ],
+   "model": "Pozole is a kind of soup. It's kind of like chicken soup, but it is made with corn and meat. People eat it with many things, like lettuce, radishes, onions and lime. You can eat pozole in many cities, such as Mexico City, Guadalajara and Acapulco. It is also popular in the United States. We usually eat it on special days, for example, on Independence Day. I think you will love it! It is a little spicy, but it is delicious."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "A weekend in Oaxaca",
+   "intro": "Read the travel guide and answer.",
+   "paragraphs": [
+    "Oaxaca is a beautiful city in southern Mexico, and it is a great place for a weekend trip. You can walk around the historic center, visit old churches, and sit at an outdoor café in the main square. It is easy to see a lot in two days.",
+    "On Saturday morning, you can take a walking tour of the city. A guide shows you markets, murals, and colorful streets. In the afternoon, you can visit Monte Albán, a very old site on a hill. From the top, you can get a great view of the valleys. You can't go inside every building, but you can take photos of everything.",
+    "The food is amazing. Try a tlayuda, which is kind of like a big, crispy tortilla with beans, cheese, and meat. For dessert, you can have hot chocolate. Oaxaca is famous for its mole, chocolate, and cheese.",
+    "Where can you buy souvenirs? At the big market, you can find bags, pottery, and clothes. Tourists can also take a bus tour to a small town nearby, but the buses don't go on Sundays. Many people there speak Zapotec and Spanish, and some speak English, too. If you don't speak Spanish, don't worry: you can use a translation app. The weather is warm, so don't forget your hat!"
+   ],
+   "glossary": [
+    {
+     "en": "trip",
+     "def": "a journey to visit a place"
+    },
+    {
+     "en": "guide",
+     "def": "a person who shows people around a place"
+    },
+    {
+     "en": "site",
+     "def": "a place or area"
+    },
+    {
+     "en": "valley",
+     "def": "a low area of land between hills or mountains"
+    },
+    {
+     "en": "crispy",
+     "def": "hard and crunchy, not soft"
+    },
+    {
+     "en": "pottery",
+     "def": "objects made of baked clay, such as bowls and cups"
+    },
+    {
+     "en": "nearby",
+     "def": "not far away"
+    },
+    {
+     "en": "translation app",
+     "def": "a phone app that translates words for you"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Oaxaca is a city in northern Mexico.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "The text says: southern Mexico."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "On the walking tour, you can see markets and murals.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "A guide shows you markets, murals, and colorful streets."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What can you do at Monte Albán?",
+     "options": [
+      "Get a view of the valleys",
+      "Buy bags and pottery",
+      "Take a ferry"
+     ],
+     "answer": 0,
+     "explain": "From the top, you can get a great view of the valleys."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "What is a tlayuda?",
+     "options": [
+      "A kind of dessert",
+      "Kind of like a big, crispy tortilla",
+      "A small town"
+     ],
+     "answer": 1,
+     "explain": "It is kind of like a big, crispy tortilla."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "The buses to the small town don't go on ___.",
+     "answers": [
+      "Sundays"
+     ],
+     "explain": "Bus tours to the small town don't leave on Sundays."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Oaxaca is famous for its mole, chocolate, and ___.",
+     "answers": [
+      "cheese"
+     ],
+     "explain": "The list ends with cheese."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "Which languages do many people in the small town speak?",
+     "options": [
+      "Zapotec and Spanish",
+      "French and English",
+      "Arabic and Spanish"
+     ],
+     "answer": 0,
+     "explain": "Many people there speak Zapotec and Spanish."
+    }
+   ]
+  },
+  "listening": {
+   "title": "At the tourist information desk",
+   "intro": "Listen to the conversation. You can repeat it.",
+   "lines": [
+    {
+     "who": "Agent",
+     "voice": "buttery",
+     "text": "Good morning. Can I help you?"
+    },
+    {
+     "who": "Tourist",
+     "voice": "airy",
+     "text": "Yes, please. We're in Lisbon for two days. What can we do here?"
+    },
+    {
+     "who": "Agent",
+     "voice": "buttery",
+     "text": "You can do a lot! You can take a walking tour of the old neighborhood, or you can ride the old yellow tram."
+    },
+    {
+     "who": "Tourist",
+     "voice": "airy",
+     "text": "Can we visit the castle?"
+    },
+    {
+     "who": "Agent",
+     "voice": "buttery",
+     "text": "Yes, you can. It's open every day, and from the top you can get a great view of the river."
+    },
+    {
+     "who": "Tourist",
+     "voice": "airy",
+     "text": "Wonderful. Where can we buy tickets?"
+    },
+    {
+     "who": "Agent",
+     "voice": "buttery",
+     "text": "You can buy them here, but you can't buy them at the castle on Sundays."
+    },
+    {
+     "who": "Tourist",
+     "voice": "airy",
+     "text": "OK. And where can we eat something typical?"
+    },
+    {
+     "who": "Agent",
+     "voice": "buttery",
+     "text": "Try a café near the river. The pastries called pastéis de nata are kind of like small egg pies. They're sweet and delicious."
+    },
+    {
+     "who": "Tourist",
+     "voice": "airy",
+     "text": "Great. Can we pay with a credit card?"
+    },
+    {
+     "who": "Agent",
+     "voice": "buttery",
+     "text": "Yes, you can, in most places. But you can't use a card on the tram. Take some cash."
+    },
+    {
+     "who": "Tourist",
+     "voice": "airy",
+     "text": "Thank you so much for your help!"
+    },
+    {
+     "who": "Agent",
+     "voice": "buttery",
+     "text": "You're welcome. Enjoy your trip!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "How long are the tourists in Lisbon?",
+     "options": [
+      "One day",
+      "Two days",
+      "A week"
+     ],
+     "answer": 1,
+     "explain": "We're in Lisbon for two days."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What can they see from the top of the castle?",
+     "options": [
+      "The sea",
+      "A big park",
+      "The river"
+     ],
+     "answer": 2,
+     "explain": "You can get a great view of the river."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Tourists can buy castle tickets at the castle on Sundays.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "You can't buy them at the castle on Sundays."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "Pastéis de nata are kind of like small ___ pies.",
+     "answers": [
+      "egg"
+     ],
+     "explain": "They're kind of like small egg pies."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "Can they use a credit card on the tram?",
+     "options": [
+      "Yes, they can.",
+      "No, they can't."
+     ],
+     "answer": 1,
+     "explain": "You can't use a card on the tram."
+    },
+    {
+     "id": "L6",
+     "type": "gap",
+     "prompt": "On the tram, the tourists need to take some ___.",
+     "answers": [
+      "cash"
+     ],
+     "explain": "Take some cash."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "You can take a walking tour of the old neighborhood.",
+     "answers": [
+      "You can take a walking tour of the old neighborhood."
+     ],
+     "explain": "Can + base verb, with no to and no -s."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Where can we buy tickets?",
+     "answers": [
+      "Where can we buy tickets?"
+     ],
+     "explain": "Where + can + subject + base verb."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "You can't use a card on the tram.",
+     "answers": [
+      "You can't use a card on the tram.",
+      "You cannot use a card on the tram."
+     ],
+     "explain": "Negative: can't + base verb."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "They're kind of like small egg pies.",
+     "answers": [
+      "They're kind of like small egg pies.",
+      "They are kind of like small egg pies."
+     ],
+     "explain": "Kind of like: a little like."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about your city as if you were a tour guide.",
+     "questions": [
+      "What can tourists do in your city?",
+      "Where can they buy souvenirs?",
+      "What can't they do?",
+      "Can they take a bus tour?"
+     ],
+     "model": "In my city, tourists can visit the historic center, take photos, and sit at an outdoor café. They can buy souvenirs at the big market. They can't go to the top of the church, but they can take a bus tour.",
+     "checklist": [
+      "can / can't + base verb",
+      "List of three items",
+      "Where + can + subject",
+      "Clear pronunciation of can and can't"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about the languages you can speak and about other countries.",
+     "questions": [
+      "What languages can you speak?",
+      "Can you speak French or Japanese?",
+      "How well can you speak English?",
+      "What country do you want to visit?"
+     ],
+     "model": "I can speak Spanish and English. I can't speak French. I speak English a little. I want to visit Japan because I love Japanese food.",
+     "checklist": [
+      "Language names capitalized",
+      "can / can't + base verb",
+      "Short answer: Yes, I can. / No, I can't.",
+      "Name of a country"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Explain a food from your country to a foreigner.",
+     "questions": [
+      "What is your favorite Mexican food?",
+      "What is it?",
+      "Is it like something from another country?",
+      "What can you eat with it?"
+     ],
+     "model": "My favorite food is pozole. It's a kind of soup. It's kind of like chicken soup, but with corn. You can eat it with things like lettuce, radishes, and lime.",
+     "checklist": [
+      "a kind of",
+      "kind of like",
+      "like for giving examples",
+      "List of three items"
+     ]
+    }
+   ],
+   "repeat": [
+    "Can we take photos here?",
+    "What can you do in your city?",
+    "Where can I buy souvenirs?",
+    "You can't go inside today.",
+    "They're kind of like small egg pies.",
+    "What languages can you speak?"
+   ]
+  }
+ }
+}

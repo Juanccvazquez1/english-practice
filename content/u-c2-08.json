@@ -1,0 +1,2107 @@
+{
+ "id": "u-c2-08",
+ "level": "C2",
+ "n": 8,
+ "title": "The More Things Change",
+ "goals": [
+  "Close the course by integrating the advanced C1 and C2 structures: inversion, cleft sentences, mixed and inverted conditionals, subjunctive and concessives.",
+  "Talk about social and technological change with precise vocabulary: tipping point, entrenched, obsolete, digital divide.",
+  "Use proverbs and cultural allusions naturally and without cliché (Pandora's box, Achilles' heel, old habits die hard).",
+  "Structure an oral presentation: open, move from one point to another, concede, qualify and close.",
+  "Reflect in writing on change and continuity with a mature, well-cohesive register.",
+  "Synthesise readings and debates: reconstruct arguments and take a position with nuance."
+ ],
+ "learn": [
+  {
+   "id": "g-inversion",
+   "kind": "grammar",
+   "title": "Subject–auxiliary inversion (full review)",
+   "html": "<p>When an adverb or phrase of <strong>negative, restrictive or emphatic meaning</strong> opens the sentence, the subject and auxiliary invert, as in a question. If there is no auxiliary, one is added <em>do / does / did</em>. The effect is solemn or literary emphasis; in a speech or essay it adds rhythm and authority.</p><table><thead><tr><th>Apertura</th><th>Estructura</th><th>Ejemplo</th></tr></thead><tbody><tr><td>Never, rarely, seldom, scarcely ever, little</td><td>+ aux + subject + past participle / verb</td><td>Rarely have we seen such a rapid transformation. Little did they know that the factory would close.</td></tr><tr><td>Not only … (but also)</td><td>Not only + aux + subject …</td><td>Not only did the reform fail; it also deepened inequality.</td></tr><tr><td>Hardly / Scarcely … when / before; No sooner … than</td><td>Had + subject + past participle, + when / than</td><td>No sooner had the law passed than critics began to object.</td></tr><tr><td>Under no circumstances, On no account, In no way, At no point</td><td>+ aux + subject</td><td>Under no circumstances should the data be shared.</td></tr><tr><td>Only when / after / by / then; Not until</td><td>+ aux + subject (in the main clause)</td><td>Only after the crisis did the government act. Not until the data leaked did the firm apologise.</td></tr><tr><td>So + adj / Such + noun … that</td><td>So rapid was the change that …</td><td>Such was the pace of change that nobody could keep up.</td></tr><tr><td>Nor / Neither / Nor did</td><td>+ aux + subject</td><td>The plan was costly; nor was it popular.</td></tr></tbody></table><ul><li>The inversion affects the main clause: <em>Not until the system collapsed <strong>did anyone</strong> question it</em>; the subordinate clause (<em>the system collapsed</em>) keeps the normal order.</li><li>If the negative adverb does not open the sentence, there is no inversion: <em>We have rarely seen…</em></li><li>Inversion with <em>only</em> and <em>not until</em> is the one Spanish speakers get wrong most often, because Spanish does not invert.</li></ul>",
+   "watch": [
+    {
+     "wrong": "Never I have seen such a dramatic shift.",
+     "right": "Never have I seen such a dramatic shift.",
+     "why": "After Never at the start, the auxiliary comes before the subject."
+    },
+    {
+     "wrong": "Not until the data leaked, the company apologised.",
+     "right": "Not until the data leaked did the company apologise.",
+     "why": "The main verb takes did; the verb returns to its base form."
+    },
+    {
+     "wrong": "Hardly he had arrived when the meeting began.",
+     "right": "Hardly had he arrived when the meeting began.",
+     "why": "Hardly + had + subject + past participle; completed with when."
+    },
+    {
+     "wrong": "Only then I understood the problem.",
+     "right": "Only then did I understand the problem.",
+     "why": "Only + a time adverb at the start requires inversion with do/did."
+    }
+   ]
+  },
+  {
+   "id": "g-cleft",
+   "kind": "grammar",
+   "title": "Cleft sentences and emphasis",
+   "html": "<p>Cleft sentences (<em>cleft sentences</em>) split a statement into two parts to focus on one element. They are English's tool for what Spanish achieves with word order or intonation.</p><table><thead><tr><th>Tipo</th><th>Estructura</th><th>Ejemplo</th></tr></thead><tbody><tr><td>It-cleft</td><td>It is/was + foco + that / who …</td><td>It was the printing press that transformed European society. It is not until you try it that you understand.</td></tr><tr><td>Wh-cleft (pseudo-hendida)</td><td>What + clause + is/was + focus</td><td>What worries me most is the speed of the change.</td></tr><tr><td>Inverted wh-cleft</td><td>Foco + is/was + what …</td><td>The speed of the change is what worries me most.</td></tr><tr><td>All / The thing / The reason why</td><td>All (that) I … is …; The reason why … is that …</td><td>All I ask is that you give it a fair hearing. The reason why it failed is that nobody explained it.</td></tr><tr><td>Emphasis with do / did</td><td>subject + do/does/did + base verb</td><td>I do appreciate the effort, even if the results disappoint.</td></tr></tbody></table><ul><li><strong>Who</strong> for people, <strong>that</strong> for things, places and times: <em>It was in 2007 <strong>that</strong> the first smartphone appeared</em> (not <em>when</em>).</li><li>In wh-clefts, the part with <em>what</em> works as the subject: <em>What I need <strong>is</strong> more time</em>, with no repeated pronoun (<em>What I need it is</em> is a mistake).</li><li>With <em>what</em>, the verb be agrees with the focus: <em>What we need are clear rules</em> (also acceptable: <em>is</em>).</li></ul>",
+   "watch": [
+    {
+     "wrong": "It was in 2007 when the first smartphone appeared.",
+     "right": "It was in 2007 that the first smartphone appeared.",
+     "why": "In the it-cleft the second part is introduced by that, not by when."
+    },
+    {
+     "wrong": "What I need it is more time.",
+     "right": "What I need is more time.",
+     "why": "What already acts as the object; the pronoun is not repeated."
+    },
+    {
+     "wrong": "It is the council who decide the budget.",
+     "right": "It is the council that decides the budget.",
+     "why": "If the focus is an institution (a thing), it takes that and a singular verb."
+    },
+    {
+     "wrong": "The reason because it failed is that nobody explained it.",
+     "right": "The reason why it failed is that nobody explained it.",
+     "why": "The reason why …, not because."
+    }
+   ]
+  },
+  {
+   "id": "g-conditionals",
+   "kind": "grammar",
+   "title": "Mixed conditionals, inverted conditionals and wish / if only",
+   "html": "<p>Beyond the three basic types, a competent speaker mixes tenses to link past and present, and inverts to sound formal.</p><table><thead><tr><th>Tipo</th><th>Estructura</th><th>Ejemplo</th></tr></thead><tbody><tr><td>Mixed: past cause → present effect</td><td>If + past perfect, would + base verb</td><td>If I had accepted that job, I would be living in Berlin now.</td></tr><tr><td>Mixed: permanent present condition → past effect</td><td>If + past simple, would have + past participle</td><td>If she weren't so stubborn, she would have been promoted.</td></tr><tr><td>Inversion (past)</td><td>Had + subject + past participle …</td><td>Had I known the risks, I would have acted differently.</td></tr><tr><td>Inversion (improbable hypothesis)</td><td>Were + subject + to + verb; Should + subject + verb</td><td>Were the plan to fail, we'd start again. Should you need help, ask.</td></tr><tr><td>wish / if only + past</td><td>wish about the present</td><td>I wish I knew the answer. If only we had more time.</td></tr><tr><td>wish / if only + past perfect</td><td>regret about the past</td><td>I wish I had listened. If only they hadn't left.</td></tr><tr><td>wish + would</td><td>complaint about someone else's behaviour</td><td>I wish you would stop interrupting.</td></tr><tr><td>It's (high) time / would rather + past</td><td>present with an unreal meaning</td><td>It's high time the government did something. I'd rather you didn't tell anyone.</td></tr></tbody></table><ul><li><strong>Never would in the if-clause</strong> (except for politeness: <em>If you would wait here…</em>). Tampoco <em>wish … would have</em>: <em>I wish he had listened</em>, not <em>would have listened</em>.</li><li><em>Wish … would</em> is not used with one's own subject: you do not say <em>I wish I would</em>.</li><li>With <em>were</em> in all persons (<em>If I were you</em>) the register is formal; <em>If I was</em> is common in spoken language.</li></ul>",
+   "watch": [
+    {
+     "wrong": "If I would have known, I would have told you.",
+     "right": "If I had known, I would have told you.",
+     "why": "The if-clause takes the past perfect, never would have."
+    },
+    {
+     "wrong": "I wish he would have listened to our warnings.",
+     "right": "I wish he had listened to our warnings.",
+     "why": "Regret about the past: wish + past perfect."
+    },
+    {
+     "wrong": "It's high time the government does something.",
+     "right": "It's high time the government did something.",
+     "why": "It's time + past simple (unreal meaning)."
+    },
+    {
+     "wrong": "I'd rather you don't tell anyone.",
+     "right": "I'd rather you didn't tell anyone.",
+     "why": "Would rather + different subject + past simple."
+    }
+   ]
+  },
+  {
+   "id": "g-subjunctive",
+   "kind": "grammar",
+   "title": "The subjunctive in English",
+   "html": "<p>The English subjunctive is almost invisible because it matches the base form of the verb, but it is still alive in formal, legal and journalistic register. There are three main uses.</p><table><thead><tr><th>Use</th><th>Form</th><th>Example</th></tr></thead><tbody><tr><td><strong>Mandative</strong>: after demand, insist, propose, recommend, suggest, require; after essential, vital, imperative, crucial, important, desirable</td><td>that + subject + base verb (no -s, no will). Negative: that + subject + <strong>not</strong> + base. British English allows <em>should</em>.</td><td>It is essential that every candidate be informed. The committee demanded that the report be published. I insisted that she not travel alone.</td></tr><tr><td><strong>Unreal with were</strong>: if, as if / as though, wish, suppose</td><td>were for all persons</td><td>If I were you, I'd think twice. He talks as if he were the owner.</td></tr><tr><td><strong>Fixed formulas</strong></td><td>inherited base form</td><td>Long live the king. God forbid. Suffice it to say … Be that as it may. Come what may. So be it. Far be it from me to criticise.</td></tr></tbody></table><ul><li>Spanish requires the subjunctive after “es importante que…”; everyday English replaces it with <em>should</em> (<em>It's important that he should know</em>) or with an infinitive structure (<em>It's important for him to know</em>).</li><li>The mandative subjunctive sounds <em>natural</em> in American English; in formal British English <em>should</em>. Both are correct, but the form <strong>indicative</strong> (<em>that he is informed</em>) is incorrect in careful register.</li><li>After <em>suggest</em>, <em>recommend</em> and <em>propose</em> is not used with person + <em>to</em>: <em>She recommended that he apply</em>, not <em>She recommended him to apply</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "It is vital that he is informed of the decision.",
+     "right": "It is vital that he be informed of the decision.",
+     "why": "Mandative subjunctive: base verb, also with be."
+    },
+    {
+     "wrong": "The committee demanded that the report was published.",
+     "right": "The committee demanded that the report be published.",
+     "why": "After demand: subjunctive (be published) or should be published."
+    },
+    {
+     "wrong": "I insisted that she doesn't travel alone.",
+     "right": "I insisted that she not travel alone.",
+     "why": "Negation of the subjunctive: not + base verb, without do."
+    },
+    {
+     "wrong": "She recommended him to apply.",
+     "right": "She recommended that he apply.",
+     "why": "Recommend is not built with person + to."
+    }
+   ]
+  },
+  {
+   "id": "g-concessive",
+   "kind": "grammar",
+   "title": "Concesivas: Much as, Try as they might, Albeit, Be that as it may",
+   "html": "<p>Concessive structures acknowledge a fact that seems to contradict the conclusion, and uphold the conclusion anyway (“although”, “despite”, “however much”).</p><table><thead><tr><th>Estructura</th><th>Ejemplo</th><th>Notas</th></tr></thead><tbody><tr><td>Much as + subject + verb</td><td>Much as I admire her courage, I cannot support the decision.</td><td>“However much…”; with verbs of feeling and judgement.</td></tr><tr><td>Verb / adjective / noun + as + subject + may/might/be</td><td>Try as they might, they couldn't change the system. Strange as it may seem, … Young as she was, …</td><td>Emphatic fronting; no article (<em>Child though he was</em>).</td></tr><tr><td>However + adj / adv; Whatever, Whoever, No matter how</td><td>However hard he works, he never gets ahead.</td><td>“However + adjective…”; however is attached to its adjective.</td></tr><tr><td>Be that as it may; Granted (that); Admittedly</td><td>Be that as it may, we still have to meet the deadline.</td><td>Global concession that departs from the previous argument.</td></tr><tr><td>Albeit + adjective / adverb / phrase</td><td>The reform was a success, albeit a limited one.</td><td>Formal; does not take a subject and a conjugated verb.</td></tr><tr><td>Notwithstanding / Despite / In spite of + noun or -ing</td><td>Despite the criticism, the project went ahead.</td><td><em>Despite of</em> does not exist.</td></tr><tr><td>Although / Even though / Though + clause; While / Whereas (contrast)</td><td>Although he was tired, he kept working.</td><td>Never combined with <em>but</em> in the same sentence.</td></tr></tbody></table>",
+   "watch": [
+    {
+     "wrong": "Although he was tired, but he continued working.",
+     "right": "Although he was tired, he continued working.",
+     "why": "Although and but are not used together; the Spanish “aunque… pero” is acceptable, but not in English."
+    },
+    {
+     "wrong": "Despite of the criticism, the project went ahead.",
+     "right": "Despite the criticism, the project went ahead.",
+     "why": "Despite does not take of; In spite of does."
+    },
+    {
+     "wrong": "The reform worked, albeit it was limited.",
+     "right": "The reform worked, albeit to a limited extent.",
+     "why": "Albeit is used with an adjective, adverb or phrase, not with a conjugated verb."
+    },
+    {
+     "wrong": "However he tries hard, he never succeeds.",
+     "right": "However hard he tries, he never succeeds.",
+     "why": "However + adjective/adverb together at the start."
+    }
+   ]
+  },
+  {
+   "id": "v-change",
+   "kind": "vocab",
+   "title": "Change in society",
+   "words": [
+    {
+     "id": "w-paradigm-shift",
+     "en": "paradigm shift",
+     "es": "cambio de paradigma",
+     "example": "The internet triggered a paradigm shift in how we access information.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-upheaval",
+     "en": "upheaval",
+     "es": "convulsión, trastorno profundo",
+     "example": "The country endured years of political upheaval."
+    },
+    {
+     "id": "w-disruption",
+     "en": "disruption",
+     "es": "disrupción, alteración",
+     "example": "Automation has caused major disruption in manufacturing.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-tipping-point",
+     "en": "tipping point",
+     "es": "punto de inflexión (cuando algo ya es irreversible)",
+     "example": "Public opinion reached a tipping point after the scandal.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-watershed",
+     "en": "watershed (moment)",
+     "es": "hito, momento decisivo",
+     "example": "The 1990s were a watershed in the country's history."
+    },
+    {
+     "id": "w-sea-change",
+     "en": "sea change",
+     "es": "cambio radical",
+     "example": "There has been a sea change in attitudes to mental health.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-backlash",
+     "en": "backlash",
+     "es": "reacción adversa, rechazo",
+     "example": "The new law provoked a fierce backlash."
+    },
+    {
+     "id": "w-incremental",
+     "en": "incremental",
+     "es": "gradual, por pequeños pasos",
+     "example": "Progress has been incremental rather than dramatic."
+    },
+    {
+     "id": "w-sweeping",
+     "en": "sweeping (reforms)",
+     "es": "de gran alcance, radical",
+     "example": "The government announced sweeping reforms.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-entrenched",
+     "en": "entrenched",
+     "es": "arraigado, atrincherado",
+     "example": "Entrenched habits are hard to dislodge."
+    },
+    {
+     "id": "w-status-quo",
+     "en": "the status quo",
+     "es": "el statu quo",
+     "example": "Powerful groups have an interest in preserving the status quo.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-usher-in",
+     "en": "usher in",
+     "es": "dar paso a, inaugurar",
+     "example": "The invention ushered in a new era of mass communication."
+    },
+    {
+     "id": "w-take-hold",
+     "en": "take hold",
+     "es": "arraigar, imponerse",
+     "example": "Remote working took hold during the pandemic.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-fall-by-wayside",
+     "en": "fall by the wayside",
+     "es": "quedarse en el camino, caer en desuso",
+     "example": "Many traditional crafts have fallen by the wayside.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-grassroots",
+     "en": "grassroots",
+     "es": "de base, popular",
+     "example": "The reform began as a grassroots movement."
+    },
+    {
+     "id": "w-trailblazer",
+     "en": "trailblazer",
+     "es": "pionero/a",
+     "example": "She was a trailblazer for women in engineering."
+    }
+   ]
+  },
+  {
+   "id": "v-tech",
+   "kind": "vocab",
+   "title": "Technology and its consequences",
+   "words": [
+    {
+     "id": "w-automation",
+     "en": "automation",
+     "es": "automatización",
+     "example": "Automation is replacing routine clerical jobs."
+    },
+    {
+     "id": "w-digital-divide",
+     "en": "the digital divide",
+     "es": "la brecha digital",
+     "example": "Rural areas suffer most from the digital divide.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-surveillance",
+     "en": "surveillance",
+     "es": "vigilancia",
+     "example": "Mass surveillance raises serious privacy concerns.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-obsolete",
+     "en": "obsolete",
+     "es": "obsoleto",
+     "example": "Within a decade the device was obsolete."
+    },
+    {
+     "id": "w-algorithm",
+     "en": "algorithm",
+     "es": "algoritmo",
+     "example": "The algorithm decides which posts appear first.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-disinformation",
+     "en": "disinformation",
+     "es": "desinformación (deliberada)",
+     "example": "Disinformation spreads faster than corrections."
+    },
+    {
+     "id": "w-early-adopter",
+     "en": "early adopter",
+     "es": "adoptante temprano",
+     "example": "Early adopters paid a premium for the first model.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-ubiquitous",
+     "en": "ubiquitous",
+     "es": "omnipresente",
+     "example": "Smartphones have become ubiquitous."
+    },
+    {
+     "id": "w-tech-savvy",
+     "en": "tech-savvy",
+     "es": "diestro en tecnología",
+     "example": "Younger employees are generally more tech-savvy."
+    },
+    {
+     "id": "w-double-edged-sword",
+     "en": "a double-edged sword",
+     "es": "arma de doble filo",
+     "example": "Social media is a double-edged sword.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-unprecedented",
+     "en": "unprecedented",
+     "es": "sin precedentes",
+     "example": "The pace of change is unprecedented.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-hype",
+     "en": "hype",
+     "es": "bombo publicitario, exageración",
+     "example": "Much of the hype around the product was unjustified."
+    },
+    {
+     "id": "w-reliance",
+     "en": "reliance (on)",
+     "es": "dependencia (de)",
+     "example": "Our reliance on technology leaves us vulnerable."
+    },
+    {
+     "id": "w-scalable",
+     "en": "scalable",
+     "es": "escalable",
+     "example": "The startup needs a scalable business model."
+    },
+    {
+     "id": "w-outsource",
+     "en": "outsource",
+     "es": "subcontratar",
+     "example": "The company outsourced its customer service."
+    }
+   ]
+  },
+  {
+   "id": "v-proverbs",
+   "kind": "vocab",
+   "title": "Proverbs and cultural allusions",
+   "words": [
+    {
+     "id": "w-more-things-change",
+     "en": "The more things change, the more they stay the same.",
+     "es": "Cuanto más cambian las cosas, más siguen igual (del francés plus ça change…)",
+     "example": "Despite the new software, the same bureaucracy persists: the more things change…",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rome-built",
+     "en": "Rome wasn't built in a day.",
+     "es": "Zamora no se ganó en una hora.",
+     "example": "Be patient with the reform; Rome wasn't built in a day.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-old-habits",
+     "en": "Old habits die hard.",
+     "es": "La costumbre es una segunda naturaleza / los hábitos arraigados cuesta dejarlos.",
+     "example": "He still writes everything by hand; old habits die hard.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-leopard-spots",
+     "en": "A leopard can't change its spots.",
+     "es": "Genio y figura hasta la sepultura.",
+     "example": "He promised reform, but a leopard can't change its spots.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-baby-bathwater",
+     "en": "Don't throw the baby out with the bathwater.",
+     "es": "No tirar lo bueno junto con lo malo.",
+     "example": "Reform the system, but don't throw the baby out with the bathwater.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-pot-kettle",
+     "en": "the pot calling the kettle black",
+     "es": "el que tiene cola de paja / ver la paja en el ojo ajeno",
+     "example": "Criticising her for being late? That's the pot calling the kettle black.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-pandora",
+     "en": "Pandora's box",
+     "es": "la caja de Pandora",
+     "example": "The new law opened a Pandora's box of legal challenges.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-achilles",
+     "en": "Achilles' heel",
+     "es": "talón de Aquiles",
+     "example": "Cost remains the technology's Achilles' heel.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-catch-22",
+     "en": "a Catch-22",
+     "es": "un círculo vicioso sin salida (de la novela de Joseph Heller)",
+     "example": "It's a Catch-22: you need experience to get a job, and a job to get experience."
+    },
+    {
+     "id": "w-elephant-room",
+     "en": "the elephant in the room",
+     "es": "el problema evidente que todos evitan mencionar",
+     "example": "Nobody mentioned the budget cuts, the elephant in the room.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-trojan-horse",
+     "en": "a Trojan horse",
+     "es": "un caballo de Troya",
+     "example": "The free software turned out to be a Trojan horse.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-cross-rubicon",
+     "en": "cross the Rubicon",
+     "es": "cruzar el Rubicón (dar un paso irreversible)",
+     "example": "By signing the treaty, the nation crossed the Rubicon.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-orwellian",
+     "en": "Orwellian",
+     "es": "orwelliano (propio de la vigilancia totalitaria de 1984)",
+     "example": "The proposal for constant monitoring sounded Orwellian."
+    },
+    {
+     "id": "w-luddite",
+     "en": "Luddite",
+     "es": "ludita (opuesto a la tecnología)",
+     "example": "He's no Luddite; he simply questions the hype."
+    },
+    {
+     "id": "w-sisyphean",
+     "en": "Sisyphean",
+     "es": "sisífico (trabajo interminable e inútil)",
+     "example": "Updating the old database was a Sisyphean task."
+    },
+    {
+     "id": "w-writing-on-wall",
+     "en": "the writing on the wall",
+     "es": "señales claras de un mal desenlace",
+     "example": "The falling sales were the writing on the wall.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-synthesis",
+   "kind": "expressions",
+   "title": "Formulas for summarising, presenting and reflecting",
+   "html": "<ul><li><strong>I'd like to begin by …</strong> / <strong>I want to start with a question.</strong> — opening a presentation.</li><li><strong>This brings me to …</strong> / <strong>Let me turn to …</strong> — moving on to the next point.</li><li><strong>What strikes me most is …</strong> — introducing a personal observation with a cleft sentence.</li><li><strong>Looking back, …</strong> / <strong>In hindsight, …</strong> — evaluating the past; they often go with mixed conditionals.</li><li><strong>It would be a mistake to assume that …</strong> — qualifying carefully.</li><li><strong>Not only … but also …</strong> — adding arguments with emphasis.</li><li><strong>Taking everything into account, …</strong> / <strong>To sum up, …</strong> — closing with a summary.</li><li><strong>What remains to be seen is whether …</strong> — leaving a question open.</li><li><strong>I'll leave you with one thought: …</strong> — cierre memorable.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Inversion",
+   "instructions": "Complete, choose, correct or order. Every sentence begins with an emphatic structure.",
+   "topic": "g-inversion",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "Not only ___ the policy fail, it also made things worse.",
+     "answers": [
+      "did"
+     ],
+     "explain": "Not only + did + subject + base verb."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Rarely ___ such a rapid transformation been witnessed.",
+     "answers": [
+      "has"
+     ],
+     "explain": "Rarely + auxiliary + subject: has … been witnessed."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "No sooner had the app launched ___ users began reporting problems.",
+     "answers": [
+      "than"
+     ],
+     "explain": "No sooner … than."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "Hardly had she sat down ___ the phone rang.",
+     "answers": [
+      "when",
+      "before"
+     ],
+     "explain": "Hardly … when (or before)."
+    },
+    {
+     "id": "A5",
+     "type": "choice",
+     "prompt": "Little ___ they know that the factory would close within a year.",
+     "options": [
+      "did",
+      "had",
+      "were"
+     ],
+     "answer": 0,
+     "explain": "Little did + subject + base verb."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "Never I have seen such a dramatic shift in public opinion.",
+     "answers": [
+      "Never have I seen such a dramatic shift in public opinion."
+     ],
+     "explain": "Never at the start requires inversion: have I seen."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "Not until the data were leaked, the company apologised.",
+     "answers": [
+      "Not until the data were leaked did the company apologise.",
+      "Not until the data were leaked did the company apologize."
+     ],
+     "explain": "Not until + clause, + did + subject + base verb."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Only",
+      "after",
+      "the",
+      "crisis",
+      "did",
+      "the",
+      "government",
+      "acknowledge",
+      "the",
+      "problem"
+     ],
+     "answers": [
+      "Only after the crisis did the government acknowledge the problem."
+     ],
+     "explain": "Only after + phrase, + did + subject + base verb."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Oraciones hendidas",
+   "instructions": "Complete, choose or correct for emphasis.",
+   "topic": "g-cleft",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "It was the printing press ___ transformed European society.",
+     "answers": [
+      "that",
+      "which"
+     ],
+     "explain": "It-cleft with a thing: that / which."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "What worries me most ___ the speed of the change.",
+     "answers": [
+      "is"
+     ],
+     "explain": "What … is + foco."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "All I ask ___ that you give the proposal a fair hearing.",
+     "answers": [
+      "is"
+     ],
+     "explain": "All (that) I ask is that …"
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "The reason ___ the reform failed is that nobody explained it.",
+     "answers": [
+      "why"
+     ],
+     "explain": "The reason why …"
+    },
+    {
+     "id": "B5",
+     "type": "fix",
+     "prompt": "It was in 2007 when the first smartphone appeared.",
+     "answers": [
+      "It was in 2007 that the first smartphone appeared."
+     ],
+     "explain": "It-cleft: that, not when."
+    },
+    {
+     "id": "B6",
+     "type": "fix",
+     "prompt": "What I need it is more time.",
+     "answers": [
+      "What I need is more time."
+     ],
+     "explain": "The pronoun is not repeated in the wh-cleft."
+    },
+    {
+     "id": "B7",
+     "type": "choice",
+     "prompt": "Which sentence puts the focus on WHO ignored the warnings?",
+     "options": [
+      "It was the council that ignored the warnings.",
+      "What the council ignored was the warnings.",
+      "The warnings were ignored the council."
+     ],
+     "answer": 0,
+     "explain": "It was + foco + that + resto."
+    },
+    {
+     "id": "B8",
+     "type": "gap",
+     "prompt": "I ___ appreciate the effort you've put in, even if the results disappoint.",
+     "answers": [
+      "do"
+     ],
+     "explain": "Emphasis with do + base verb."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Mixed, inverted conditionals and wish",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-conditionals",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "If I had accepted that job offer, I ___ living in Berlin now.",
+     "answers": [
+      "would be",
+      "'d be"
+     ],
+     "explain": "Mixed: past cause, present effect: would be."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "If she weren't so stubborn, she ___ have been promoted last year.",
+     "answers": [
+      "would"
+     ],
+     "explain": "Mixed: present condition, past effect: would have + past participle."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "___ I known the risks, I would have acted differently.",
+     "answers": [
+      "Had"
+     ],
+     "explain": "Inversion of If I had known."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "If you ___ to change your mind, let us know.",
+     "answers": [
+      "were"
+     ],
+     "explain": "Were + subject + to + verb: improbable hypothesis."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "I wish I ___ more attention in class.",
+     "options": [
+      "paid",
+      "had paid",
+      "would pay"
+     ],
+     "answer": 1,
+     "explain": "Regret about the past: wish + past perfect."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "It's high time the government ___ something about housing.",
+     "options": [
+      "do",
+      "did",
+      "will do"
+     ],
+     "answer": 1,
+     "explain": "It's high time + past simple."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "I wish he would have listened to our warnings.",
+     "answers": [
+      "I wish he had listened to our warnings."
+     ],
+     "explain": "Wish + past perfect; not would have."
+    },
+    {
+     "id": "C8",
+     "type": "fix",
+     "prompt": "If I would have known, I would have told you.",
+     "answers": [
+      "If I had known, I would have told you.",
+      "If I'd known, I would have told you.",
+      "If I had known, I'd have told you.",
+      "If I'd known, I'd have told you.",
+      "Had I known, I would have told you.",
+      "Had I known, I'd have told you."
+     ],
+     "explain": "The if-clause takes the past perfect."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Subjunctive",
+   "instructions": "Complete, choose or correct using the subjunctive.",
+   "topic": "g-subjunctive",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "It is essential that every candidate ___ informed of the procedure.",
+     "answers": [
+      "be"
+     ],
+     "explain": "Mandative subjunctive: that + subject + be."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "The board recommended that he ___ his resignation immediately.",
+     "answers": [
+      "submit",
+      "tender",
+      "should submit",
+      "should tender"
+     ],
+     "explain": "Mandative subjunctive: base form, no -s."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "I insisted that she not ___ alone.",
+     "answers": [
+      "travel"
+     ],
+     "explain": "Negation: not + base verb."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "If I ___ you, I would think twice.",
+     "options": [
+      "was",
+      "were",
+      "am"
+     ],
+     "answer": 1,
+     "explain": "Formal unreal with were."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "He talks as if he ___ the owner of the place.",
+     "options": [
+      "is",
+      "were",
+      "would be"
+     ],
+     "answer": 1,
+     "explain": "As if + were: unreal situation."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "The committee demanded that the report was published in full.",
+     "answers": [
+      "The committee demanded that the report be published in full.",
+      "The committee demanded that the report should be published in full."
+     ],
+     "explain": "After demand: mandative subjunctive (be published)."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "It is vital that he doesn't know about the plan.",
+     "answers": [
+      "It is vital that he not know about the plan.",
+      "It is vital that he should not know about the plan.",
+      "It is vital that he shouldn't know about the plan."
+     ],
+     "explain": "Negation of the subjunctive: not + base."
+    },
+    {
+     "id": "D8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Suffice",
+      "it",
+      "to",
+      "say",
+      "that",
+      "the",
+      "plan",
+      "did",
+      "not",
+      "work"
+     ],
+     "answers": [
+      "Suffice it to say that the plan did not work."
+     ],
+     "explain": "Fixed formula with the subjunctive: Suffice it to say."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Concesivas",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-concessive",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "___ as I admire her courage, I cannot support her decision.",
+     "answers": [
+      "Much"
+     ],
+     "explain": "Much as + subject + verb: “however much”."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "Try as they ___, they could not change the old system.",
+     "answers": [
+      "might"
+     ],
+     "explain": "Try as they might."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "___ hard he works, he never seems to get ahead.",
+     "answers": [
+      "However"
+     ],
+     "explain": "However + adjective/adverb + subject + verb."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "Be that as it ___, we still have to meet the deadline.",
+     "answers": [
+      "may"
+     ],
+     "explain": "Be that as it may: fixed formula."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "The reform was a success, ___ a limited one.",
+     "options": [
+      "albeit",
+      "although it was",
+      "even"
+     ],
+     "answer": 0,
+     "explain": "Albeit + phrase, with no conjugated verb."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "___ she was exhausted, she kept working.",
+     "options": [
+      "Although",
+      "Despite",
+      "Albeit"
+     ],
+     "answer": 0,
+     "explain": "Although + a complete clause."
+    },
+    {
+     "id": "E7",
+     "type": "fix",
+     "prompt": "Although he was tired, but he continued working.",
+     "answers": [
+      "Although he was tired, he continued working.",
+      "Tired as he was, he continued working.",
+      "He was tired, but he continued working."
+     ],
+     "explain": "Although and but do not combine."
+    },
+    {
+     "id": "E8",
+     "type": "fix",
+     "prompt": "Despite of the criticism, the project went ahead.",
+     "answers": [
+      "Despite the criticism, the project went ahead.",
+      "In spite of the criticism, the project went ahead."
+     ],
+     "explain": "Despite takes no of."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Change, technology and proverbs",
+   "instructions": "Complete or choose.",
+   "topic": "v-change",
+   "items": [
+    {
+     "id": "F1",
+     "type": "gap",
+     "prompt": "The merger heralded a sea ___ in how the industry operates.",
+     "answers": [
+      "change"
+     ],
+     "explain": "A sea change = a radical change."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "The unveiling of the plan marked a ___ in the history of the town.",
+     "answers": [
+      "watershed"
+     ],
+     "explain": "A watershed = a turning point."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "Opening the archive turned out to be a Pandora's ___.",
+     "options": [
+      "box",
+      "gift",
+      "key"
+     ],
+     "answer": 0,
+     "explain": "Pandora's box."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "Despite the reforms, old ___ die hard.",
+     "answers": [
+      "habits"
+     ],
+     "explain": "Old habits die hard."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "Criticising others for being untidy while your own desk is a mess is like the pot calling the ___ black.",
+     "answers": [
+      "kettle"
+     ],
+     "explain": "The pot calling the kettle black."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "«The more things change, the more they stay the same» suggests that",
+     "options": [
+      "superficial change often hides deep continuity",
+      "change always improves things",
+      "nothing can ever change"
+     ],
+     "answer": 0,
+     "explain": "Superficial changes with an underlying continuity."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "Automation threatens to make many routine skills ___.",
+     "answers": [
+      "obsolete"
+     ],
+     "explain": "Obsolete = obsoleto."
+    },
+    {
+     "id": "F8",
+     "type": "gap",
+     "prompt": "Unequal broadband access widens the digital ___.",
+     "answers": [
+      "divide"
+     ],
+     "explain": "The digital divide = the gap in access to digital technology."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Not",
+      "only",
+      "did",
+      "the",
+      "reform",
+      "fail",
+      "but",
+      "it",
+      "also",
+      "deepened",
+      "inequality"
+     ],
+     "answers": [
+      "Not only did the reform fail, but it also deepened inequality."
+     ],
+     "explain": "Not only + did + subject + base."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "What",
+      "changed",
+      "everything",
+      "was",
+      "the",
+      "arrival",
+      "of",
+      "the",
+      "internet"
+     ],
+     "answers": [
+      "What changed everything was the arrival of the internet."
+     ],
+     "explain": "Wh-cleft: What + verb + was + focus."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Had",
+      "I",
+      "known",
+      "about",
+      "the",
+      "change",
+      "I",
+      "would",
+      "have",
+      "prepared",
+      "differently"
+     ],
+     "answers": [
+      "Had I known about the change, I would have prepared differently."
+     ],
+     "explain": "Had + subject + past participle."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Much",
+      "as",
+      "we",
+      "admire",
+      "tradition",
+      "we",
+      "cannot",
+      "ignore",
+      "progress"
+     ],
+     "answers": [
+      "Much as we admire tradition, we cannot ignore progress."
+     ],
+     "explain": "Much as + subject + verb."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "It",
+      "is",
+      "vital",
+      "that",
+      "the",
+      "process",
+      "be",
+      "reviewed",
+      "regularly"
+     ],
+     "answers": [
+      "It is vital that the process be reviewed regularly."
+     ],
+     "explain": "Mandative subjunctive with the passive: be + past participle."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "No",
+      "sooner",
+      "had",
+      "the",
+      "law",
+      "passed",
+      "than",
+      "critics",
+      "began",
+      "to",
+      "object"
+     ],
+     "answers": [
+      "No sooner had the law passed than critics began to object."
+     ],
+     "explain": "No sooner + had + subject + past participle + than."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate using the advanced structure that fits.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Pocas veces se había visto un cambio tan rápido.",
+     "answers": [
+      "Rarely had such rapid change been seen.",
+      "Rarely had such rapid change been witnessed.",
+      "Rarely had such rapid change been observed.",
+      "Rarely had such a rapid change been seen.",
+      "Rarely had such a rapid change been witnessed.",
+      "Rarely had such a rapid change been observed.",
+      "Rarely had such rapid changes been seen.",
+      "Rarely had such rapid changes been witnessed.",
+      "Rarely had such rapid changes been observed.",
+      "Seldom had such rapid change been seen.",
+      "Seldom had such rapid change been witnessed.",
+      "Seldom had such rapid change been observed.",
+      "Seldom had such a rapid change been seen.",
+      "Seldom had such a rapid change been witnessed.",
+      "Seldom had such a rapid change been observed.",
+      "Seldom had such rapid changes been seen.",
+      "Seldom had such rapid changes been witnessed.",
+      "Seldom had such rapid changes been observed."
+     ],
+     "explain": "Rarely/Seldom + had + subject + past participle."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Lo que más me preocupa es que nadie hable del futuro.",
+     "answers": [
+      "What worries me most is that nobody talks about the future.",
+      "What worries me most is that nobody talks of the future.",
+      "What worries me most is that nobody speaks about the future.",
+      "What worries me most is that nobody speaks of the future.",
+      "What worries me most is that no one talks about the future.",
+      "What worries me most is that no one talks of the future.",
+      "What worries me most is that no one speaks about the future.",
+      "What worries me most is that no one speaks of the future.",
+      "What worries me the most is that nobody talks about the future.",
+      "What worries me the most is that nobody talks of the future.",
+      "What worries me the most is that nobody speaks about the future.",
+      "What worries me the most is that nobody speaks of the future.",
+      "What worries me the most is that no one talks about the future.",
+      "What worries me the most is that no one talks of the future.",
+      "What worries me the most is that no one speaks about the future.",
+      "What worries me the most is that no one speaks of the future.",
+      "What concerns me most is that nobody talks about the future.",
+      "What concerns me most is that nobody talks of the future.",
+      "What concerns me most is that nobody speaks about the future.",
+      "What concerns me most is that nobody speaks of the future.",
+      "What concerns me most is that no one talks about the future.",
+      "What concerns me most is that no one talks of the future.",
+      "What concerns me most is that no one speaks about the future.",
+      "What concerns me most is that no one speaks of the future.",
+      "What concerns me the most is that nobody talks about the future.",
+      "What concerns me the most is that nobody talks of the future.",
+      "What concerns me the most is that nobody speaks about the future.",
+      "What concerns me the most is that nobody speaks of the future.",
+      "What concerns me the most is that no one talks about the future.",
+      "What concerns me the most is that no one talks of the future.",
+      "What concerns me the most is that no one speaks about the future.",
+      "What concerns me the most is that no one speaks of the future.",
+      "What troubles me most is that nobody talks about the future.",
+      "What troubles me most is that nobody talks of the future.",
+      "What troubles me most is that nobody speaks about the future.",
+      "What troubles me most is that nobody speaks of the future.",
+      "What troubles me most is that no one talks about the future.",
+      "What troubles me most is that no one talks of the future.",
+      "What troubles me most is that no one speaks about the future.",
+      "What troubles me most is that no one speaks of the future.",
+      "What I worry about most is that nobody talks about the future.",
+      "What I worry about most is that nobody talks of the future.",
+      "What I worry about most is that nobody speaks about the future.",
+      "What I worry about most is that nobody speaks of the future.",
+      "What I worry about most is that no one talks about the future.",
+      "What I worry about most is that no one talks of the future.",
+      "What I worry about most is that no one speaks about the future.",
+      "What I worry about most is that no one speaks of the future.",
+      "What I'm most worried about is that nobody talks about the future.",
+      "What I'm most worried about is that nobody talks of the future.",
+      "What I'm most worried about is that nobody speaks about the future.",
+      "What I'm most worried about is that nobody speaks of the future.",
+      "What I'm most worried about is that no one talks about the future.",
+      "What I'm most worried about is that no one talks of the future.",
+      "What I'm most worried about is that no one speaks about the future.",
+      "What I'm most worried about is that no one speaks of the future.",
+      "What I am most worried about is that nobody talks about the future.",
+      "What I am most worried about is that nobody talks of the future.",
+      "What I am most worried about is that nobody speaks about the future.",
+      "What I am most worried about is that nobody speaks of the future.",
+      "What I am most worried about is that no one talks about the future.",
+      "What I am most worried about is that no one talks of the future.",
+      "What I am most worried about is that no one speaks about the future.",
+      "What I am most worried about is that no one speaks of the future.",
+      "What worries me most is that nobody is talking about the future.",
+      "What worries me most is that no one is talking about the future.",
+      "What worries me the most is that nobody is talking about the future.",
+      "What worries me the most is that no one is talking about the future.",
+      "What concerns me most is that nobody is talking about the future.",
+      "What concerns me most is that no one is talking about the future.",
+      "What troubles me most is that nobody is talking about the future.",
+      "What troubles me most is that no one is talking about the future."
+     ],
+     "explain": "Wh-cleft: What … is that …"
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Si hubiera aceptado ese empleo, ahora viviría en Berlín.",
+     "answers": [
+      "If I had accepted that job, I would be living in Berlin now.",
+      "If I had accepted that job, I would be living in Berlin today.",
+      "If I had accepted that job, I 'd be living in Berlin now.",
+      "If I had accepted that job, I 'd be living in Berlin today.",
+      "If I had accepted that job offer, I would be living in Berlin now.",
+      "If I had accepted that job offer, I would be living in Berlin today.",
+      "If I had accepted that job offer, I 'd be living in Berlin now.",
+      "If I had accepted that job offer, I 'd be living in Berlin today.",
+      "If I had taken that job, I would be living in Berlin now.",
+      "If I had taken that job, I would be living in Berlin today.",
+      "If I had taken that job, I 'd be living in Berlin now.",
+      "If I had taken that job, I 'd be living in Berlin today.",
+      "If I had taken that job offer, I would be living in Berlin now.",
+      "If I had taken that job offer, I would be living in Berlin today.",
+      "If I had taken that job offer, I 'd be living in Berlin now.",
+      "If I had taken that job offer, I 'd be living in Berlin today.",
+      "Had I accepted that job, I would be living in Berlin now.",
+      "Had I accepted that job, I would be living in Berlin today.",
+      "Had I accepted that job, I 'd be living in Berlin now.",
+      "Had I accepted that job, I 'd be living in Berlin today.",
+      "Had I accepted that job offer, I would be living in Berlin now.",
+      "Had I accepted that job offer, I would be living in Berlin today.",
+      "Had I accepted that job offer, I 'd be living in Berlin now.",
+      "Had I accepted that job offer, I 'd be living in Berlin today.",
+      "Had I taken that job, I would be living in Berlin now.",
+      "Had I taken that job, I would be living in Berlin today.",
+      "Had I taken that job, I 'd be living in Berlin now.",
+      "Had I taken that job, I 'd be living in Berlin today.",
+      "Had I taken that job offer, I would be living in Berlin now.",
+      "Had I taken that job offer, I would be living in Berlin today.",
+      "Had I taken that job offer, I 'd be living in Berlin now.",
+      "Had I taken that job offer, I 'd be living in Berlin today.",
+      "If I'd accepted that job, I would be living in Berlin now.",
+      "If I'd accepted that job, I would be living in Berlin today.",
+      "If I'd accepted that job, I 'd be living in Berlin now.",
+      "If I'd accepted that job, I 'd be living in Berlin today.",
+      "If I'd accepted that job offer, I would be living in Berlin now.",
+      "If I'd accepted that job offer, I would be living in Berlin today.",
+      "If I'd accepted that job offer, I 'd be living in Berlin now.",
+      "If I'd accepted that job offer, I 'd be living in Berlin today.",
+      "If I'd taken that job, I would be living in Berlin now.",
+      "If I'd taken that job, I would be living in Berlin today.",
+      "If I'd taken that job, I 'd be living in Berlin now.",
+      "If I'd taken that job, I 'd be living in Berlin today.",
+      "If I'd taken that job offer, I would be living in Berlin now.",
+      "If I'd taken that job offer, I would be living in Berlin today.",
+      "If I'd taken that job offer, I 'd be living in Berlin now.",
+      "If I'd taken that job offer, I 'd be living in Berlin today."
+     ],
+     "explain": "Mixed conditional or inversion with Had."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Es fundamental que se revise el reglamento.",
+     "answers": [
+      "It is essential that the regulations be reviewed.",
+      "It is essential that the regulations be revised.",
+      "It is essential that the regulations should be reviewed.",
+      "It is essential that the regulations should be revised.",
+      "It is essential that the rules be reviewed.",
+      "It is essential that the rules be revised.",
+      "It is essential that the rules should be reviewed.",
+      "It is essential that the rules should be revised.",
+      "It is essential that the regulation be reviewed.",
+      "It is essential that the regulation be revised.",
+      "It is essential that the regulation should be reviewed.",
+      "It is essential that the regulation should be revised.",
+      "It is essential that the rulebook be reviewed.",
+      "It is essential that the rulebook be revised.",
+      "It is essential that the rulebook should be reviewed.",
+      "It is essential that the rulebook should be revised.",
+      "It is vital that the regulations be reviewed.",
+      "It is vital that the regulations be revised.",
+      "It is vital that the regulations should be reviewed.",
+      "It is vital that the regulations should be revised.",
+      "It is vital that the rules be reviewed.",
+      "It is vital that the rules be revised.",
+      "It is vital that the rules should be reviewed.",
+      "It is vital that the rules should be revised.",
+      "It is vital that the regulation be reviewed.",
+      "It is vital that the regulation be revised.",
+      "It is vital that the regulation should be reviewed.",
+      "It is vital that the regulation should be revised.",
+      "It is vital that the rulebook be reviewed.",
+      "It is vital that the rulebook be revised.",
+      "It is vital that the rulebook should be reviewed.",
+      "It is vital that the rulebook should be revised.",
+      "It is crucial that the regulations be reviewed.",
+      "It is crucial that the regulations be revised.",
+      "It is crucial that the regulations should be reviewed.",
+      "It is crucial that the regulations should be revised.",
+      "It is crucial that the rules be reviewed.",
+      "It is crucial that the rules be revised.",
+      "It is crucial that the rules should be reviewed.",
+      "It is crucial that the rules should be revised.",
+      "It is crucial that the regulation be reviewed.",
+      "It is crucial that the regulation be revised.",
+      "It is crucial that the regulation should be reviewed.",
+      "It is crucial that the regulation should be revised.",
+      "It is crucial that the rulebook be reviewed.",
+      "It is crucial that the rulebook be revised.",
+      "It is crucial that the rulebook should be reviewed.",
+      "It is crucial that the rulebook should be revised.",
+      "It is imperative that the regulations be reviewed.",
+      "It is imperative that the regulations be revised.",
+      "It is imperative that the regulations should be reviewed.",
+      "It is imperative that the regulations should be revised.",
+      "It is imperative that the rules be reviewed.",
+      "It is imperative that the rules be revised.",
+      "It is imperative that the rules should be reviewed.",
+      "It is imperative that the rules should be revised.",
+      "It is imperative that the regulation be reviewed.",
+      "It is imperative that the regulation be revised.",
+      "It is imperative that the regulation should be reviewed.",
+      "It is imperative that the regulation should be revised.",
+      "It is imperative that the rulebook be reviewed.",
+      "It is imperative that the rulebook be revised.",
+      "It is imperative that the rulebook should be reviewed.",
+      "It is imperative that the rulebook should be revised.",
+      "It is fundamental that the regulations be reviewed.",
+      "It is fundamental that the regulations be revised.",
+      "It is fundamental that the regulations should be reviewed.",
+      "It is fundamental that the regulations should be revised.",
+      "It is fundamental that the rules be reviewed.",
+      "It is fundamental that the rules be revised.",
+      "It is fundamental that the rules should be reviewed.",
+      "It is fundamental that the rules should be revised.",
+      "It is fundamental that the regulation be reviewed.",
+      "It is fundamental that the regulation be revised.",
+      "It is fundamental that the regulation should be reviewed.",
+      "It is fundamental that the regulation should be revised.",
+      "It is fundamental that the rulebook be reviewed.",
+      "It is fundamental that the rulebook be revised.",
+      "It is fundamental that the rulebook should be reviewed.",
+      "It is fundamental that the rulebook should be revised."
+     ],
+     "explain": "Mandative subjunctive: that + subject + be."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Por mucho que lo intentaron, no lograron cambiar el sistema.",
+     "answers": [
+      "Try as they might, they couldn't change the system.",
+      "Try as they might, they could not change the system.",
+      "Try as they might, they were unable to change the system.",
+      "Try as they might, they failed to change the system.",
+      "Try as they might, they didn't manage to change the system.",
+      "However hard they tried, they couldn't change the system.",
+      "However hard they tried, they could not change the system.",
+      "However hard they tried, they were unable to change the system.",
+      "However hard they tried, they failed to change the system.",
+      "However hard they tried, they didn't manage to change the system.",
+      "No matter how hard they tried, they couldn't change the system.",
+      "No matter how hard they tried, they could not change the system.",
+      "No matter how hard they tried, they were unable to change the system.",
+      "No matter how hard they tried, they failed to change the system.",
+      "No matter how hard they tried, they didn't manage to change the system.",
+      "Hard as they tried, they couldn't change the system.",
+      "Hard as they tried, they could not change the system.",
+      "Hard as they tried, they were unable to change the system.",
+      "Hard as they tried, they failed to change the system.",
+      "Hard as they tried, they didn't manage to change the system."
+     ],
+     "explain": "Emphatic concessive: Try as they might."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Ojalá hubiéramos escuchado las advertencias.",
+     "answers": [
+      "I wish we had listened to the warnings.",
+      "I wish we had listened to the warning.",
+      "I wish we had heeded the warnings.",
+      "I wish we had heeded the warning.",
+      "I wish we had paid attention to the warnings.",
+      "I wish we had paid attention to the warning.",
+      "If only we had listened to the warnings.",
+      "If only we had listened to the warning.",
+      "If only we had heeded the warnings.",
+      "If only we had heeded the warning.",
+      "If only we had paid attention to the warnings.",
+      "If only we had paid attention to the warning."
+     ],
+     "explain": "Wish / if only + past perfect for regret."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "End-of-course review: C1 and C2",
+   "instructions": "Integrating review: inversion, cleft sentences, mixed and inverted conditionals, subjunctive and concessives.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "gap",
+     "prompt": "Under no circumstances ___ you open the door to strangers.",
+     "answers": [
+      "should",
+      "must",
+      "may",
+      "can",
+      "would"
+     ],
+     "explain": "Under no circumstances + auxiliary + subject."
+    },
+    {
+     "id": "M2",
+     "type": "choice",
+     "prompt": "___ I admire most about her is her patience.",
+     "options": [
+      "What",
+      "That",
+      "It"
+     ],
+     "answer": 0,
+     "explain": "Wh-cleft: What I admire most … is …"
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "If I would have studied law, I would be a judge now.",
+     "answers": [
+      "If I had studied law, I would be a judge now.",
+      "If I'd studied law, I would be a judge now.",
+      "If I had studied law, I'd be a judge now.",
+      "If I'd studied law, I'd be a judge now.",
+      "Had I studied law, I would be a judge now.",
+      "Had I studied law, I'd be a judge now."
+     ],
+     "explain": "Mixed: if + past perfect, would + base."
+    },
+    {
+     "id": "M4",
+     "type": "gap",
+     "prompt": "___ you need any help, don't hesitate to ask.",
+     "answers": [
+      "Should"
+     ],
+     "explain": "Should + subject + base verb."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "The manual insists that every user ___ the safety guide.",
+     "options": [
+      "reads",
+      "read",
+      "to read"
+     ],
+     "answer": 1,
+     "explain": "Mandative subjunctive: that + subject + base."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "Strange ___ it may seem, the old system worked better.",
+     "answers": [
+      "as"
+     ],
+     "explain": "Adjective + as + subject + may."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "I'd rather you ___ tell anyone about this.",
+     "options": [
+      "don't",
+      "didn't",
+      "won't"
+     ],
+     "answer": 1,
+     "explain": "Would rather + different subject + past simple."
+    },
+    {
+     "id": "M8",
+     "type": "fix",
+     "prompt": "Hardly he had arrived when the meeting began.",
+     "answers": [
+      "Hardly had he arrived when the meeting began.",
+      "Hardly had he arrived before the meeting began."
+     ],
+     "explain": "Hardly + had + subject + past participle."
+    },
+    {
+     "id": "M9",
+     "type": "translate",
+     "prompt": "A menos que actuemos ahora, el daño será irreversible.",
+     "answers": [
+      "Unless we act now, the damage will be irreversible.",
+      "Unless we act now, the damage will be irreparable.",
+      "Unless we act immediately, the damage will be irreversible.",
+      "Unless we act immediately, the damage will be irreparable.",
+      "Unless we act at once, the damage will be irreversible.",
+      "Unless we act at once, the damage will be irreparable.",
+      "If we don't act now, the damage will be irreversible.",
+      "If we don't act now, the damage will be irreparable.",
+      "If we don't act immediately, the damage will be irreversible.",
+      "If we don't act immediately, the damage will be irreparable.",
+      "If we don't act at once, the damage will be irreversible.",
+      "If we don't act at once, the damage will be irreparable.",
+      "Unless action is taken now, the damage will be irreversible.",
+      "Unless action is taken now, the damage will be irreparable.",
+      "Unless action is taken immediately, the damage will be irreversible.",
+      "Unless action is taken immediately, the damage will be irreparable.",
+      "Unless action is taken at once, the damage will be irreversible.",
+      "Unless action is taken at once, the damage will be irreparable.",
+      "Unless action are taken now, the damage will be irreversible.",
+      "Unless action are taken now, the damage will be irreparable.",
+      "Unless action are taken immediately, the damage will be irreversible.",
+      "Unless action are taken immediately, the damage will be irreparable.",
+      "Unless action are taken at once, the damage will be irreversible.",
+      "Unless action are taken at once, the damage will be irreparable.",
+      "Unless measures is taken now, the damage will be irreversible.",
+      "Unless measures is taken now, the damage will be irreparable.",
+      "Unless measures is taken immediately, the damage will be irreversible.",
+      "Unless measures is taken immediately, the damage will be irreparable.",
+      "Unless measures is taken at once, the damage will be irreversible.",
+      "Unless measures is taken at once, the damage will be irreparable.",
+      "Unless measures are taken now, the damage will be irreversible.",
+      "Unless measures are taken now, the damage will be irreparable.",
+      "Unless measures are taken immediately, the damage will be irreversible.",
+      "Unless measures are taken immediately, the damage will be irreparable.",
+      "Unless measures are taken at once, the damage will be irreversible.",
+      "Unless measures are taken at once, the damage will be irreparable.",
+      "Unless steps is taken now, the damage will be irreversible.",
+      "Unless steps is taken now, the damage will be irreparable.",
+      "Unless steps is taken immediately, the damage will be irreversible.",
+      "Unless steps is taken immediately, the damage will be irreparable.",
+      "Unless steps is taken at once, the damage will be irreversible.",
+      "Unless steps is taken at once, the damage will be irreparable.",
+      "Unless steps are taken now, the damage will be irreversible.",
+      "Unless steps are taken now, the damage will be irreparable.",
+      "Unless steps are taken immediately, the damage will be irreversible.",
+      "Unless steps are taken immediately, the damage will be irreparable.",
+      "Unless steps are taken at once, the damage will be irreversible.",
+      "Unless steps are taken at once, the damage will be irreparable."
+     ],
+     "explain": "Unless = if … not."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "Rome wasn't ___ in a day, so be patient with the reform.",
+     "answers": [
+      "built"
+     ],
+     "explain": "Proverbio: Rome wasn't built in a day."
+    },
+    {
+     "id": "M11",
+     "type": "choice",
+     "prompt": "The sudden collapse of the old system was a ___ moment in the country's history.",
+     "options": [
+      "watershed",
+      "negligible",
+      "impartial"
+     ],
+     "answer": 0,
+     "explain": "Watershed moment = momento decisivo."
+    },
+    {
+     "id": "M12",
+     "type": "gap",
+     "prompt": "Not until the system collapsed ___ anyone question its design.",
+     "answers": [
+      "did",
+      "would"
+     ],
+     "explain": "Not until + clause, + did + subject + base verb."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a reflective essay of 300 to 400 words: “What has changed and what has stayed the same in my life as a learner (of English, of a profession or of a city)?” Combine narrative, analysis and a nuanced conclusion. It must include at least: an inversion (Rarely / Not only / Only after…), a cleft sentence, a mixed conditional, a mandative subjunctive and a concessive (Much as / Try as … might / Albeit).",
+   "targets": [
+    "inversion",
+    "cleft sentences",
+    "mixed or inverted conditionals",
+    "subjunctive",
+    "concessives",
+    "vocabulary of change and continuity",
+    "cohesion and register"
+   ],
+   "checklist": [
+    "A correct inversion with a negative adverb or Only/Not until",
+    "A cleft sentence (It was… that / What … is)",
+    "A mixed or inverted conditional (Had I… / If I had …, I would be …)",
+    "A mandative subjunctive or if I were / as if + were",
+    "A concessive (Much as… / Try as … might / Albeit…)",
+    "At least one proverb or allusion used naturally",
+    "Clear introduction, development and conclusion; between 300 and 400 words"
+   ],
+   "model": "Rarely do I think about how much has changed since I first opened an English textbook, yet the distance travelled is considerable. Ten years ago I could barely order a coffee in English; today I write essays, argue in meetings and, on good days, even joke. Change, however, is only half the story, because some things have remained stubbornly the same.\n\nWhat has changed most is my attitude to mistakes. Not only did I once fear them, I also took them as proof of inadequacy. Only after a teacher pointed out that fluency is built on error did I begin to relax. It was that remark, more than any grammar rule, that unlocked my speaking. If I had not met her, I would still be waiting for perfection before I opened my mouth, and my English would be far poorer for it. Much as I would like to claim a steady upward curve, the truth is more uneven: progress came in bursts, followed by long plateaus.\n\nWhat has stayed the same is the role of curiosity. It is my need to know why a phrase is used, not the quantity of vocabulary I have memorised, that drives my learning. Try as I might to turn study into a routine, I always end up following a question down a rabbit hole. I suspect that if I were more disciplined, I would learn faster; but I doubt I would enjoy it, and enjoyment is what keeps me going.\n\nIt is essential that learners be allowed to find their own rhythm. Insisting that everyone follow the same path is, to borrow an old proverb, like trying to make a horse drink: you can lead it to water, but you cannot force it. Albeit slow, my own route has taught me patience.\n\nLooking back, then, the more things change, the more they stay the same: the languages, the tools and the teachers have changed, but the learner behind them has not. And that, I think, is reassuring."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write the script for a 3-minute oral presentation (300 to 400 words) titled “Change and continuity in my country over the last twenty years”. Use opening, transition and closing formulas; include a cautious prediction and at least one point you concede to the opposing view. Keep a formal but lively register.",
+   "targets": [
+    "presentation formulas",
+    "integrated advanced structures",
+    "vocabulary of social and technological change",
+    "concession and nuance"
+   ],
+   "checklist": [
+    "An opening that grabs attention (I'd like to begin by… / a question)",
+    "Two transitions (This brings me to… / Let me turn to…)",
+    "At least two advanced structures (inversion, cleft sentence, concessive, subjunctive)",
+    "Vocabulary of change and technology (tipping point, entrenched, obsolete, digital divide…)",
+    "A cautious prediction (might well / is likely to / It would be a mistake to assume…)",
+    "A memorable close (I'll leave you with one thought…)",
+    "Between 300 and 400 words"
+   ],
+   "model": "Good morning, everyone. I'd like to begin with a question: if someone had fallen asleep in Mexico in 2004 and woken up today, what would astonish them most? The answer, I think, is not what we might expect.\n\nLet me start with the obvious. Technology has transformed daily life. Rarely did anyone in 2004 pay a bill from a phone; today it is unremarkable. Mobile banking, delivery apps and video calls have reached places that were once cut off, and the smartphone has become, for many families, the only computer they own. That, however, is where the digital divide becomes visible: it is in rural areas that connections remain slow and costly, and the benefits are unevenly shared.\n\nThis brings me to a second change, in how we work. Remote work, once a curiosity, is now entrenched in many sectors, and the traditional office is no longer the default. Much as I welcome this flexibility, I would be the first to admit that it has left some people isolated.\n\nLet me turn now to what has not changed. It is the family that remains the centre of social life. Sunday lunches, endless cousins and the habit of arriving late to everything have survived every wave of innovation. What strikes me is that technology has not replaced these customs; it has simply carried them onto screens, where grandparents now join the family table by video.\n\nAdmittedly, not everything has moved in a good direction. Inequality persists, and some industries have become obsolete almost overnight, leaving workers behind. I would not wish to suggest that progress has been painless.\n\nSo where might we be in another twenty years? It would be a mistake to assume that the next changes will resemble the last. Artificial intelligence might well reshape work as profoundly as the mobile phone reshaped communication, and we are likely to reach another tipping point sooner than we expect.\n\nI'll leave you with one thought. Countries, like people, change their tools far faster than they change their habits. The challenge for the next generation will be to choose which of the two deserves to be kept. Thank you."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The Last Typewriter Repair Shop",
+   "intro": "Read the feature article and answer. Notice how the author combines anecdote, history and reflection.",
+   "paragraphs": [
+    "On the corner of Calle Allende, between a phone-repair kiosk and a shop that sells nothing but phone cases, there is a narrow door whose sign has faded almost beyond reading. \"Typewriters & Calculators: Repairs\", it says. Few people go in. Fewer still know that the man behind the counter, Don Ernesto, has fixed machines in this room for fifty-three years, and that he can tell what is wrong with a stuck carriage merely by listening to it.",
+    "It would be easy to cast him as a relic, and it is a temptation that journalists have rarely resisted. A television crew visited last spring, filmed the dust and the brass levers, and left with a charming little report about \"vanishing trades\". What the report failed to mention is that the shop has not been losing money. Not only has business held steady; it has, in the last three years, quietly grown. Few of his new customers are nostalgic pensioners. Most are students, novelists and a surprising number of office workers who say, in one form or another, that they simply cannot think on a screen.",
+    "Ernesto himself is sceptical of the romance. \"People say the typewriter is back,\" he told me, wiping his hands on a cloth, \"but it never really left. What has happened is that the world got louder, and some people went looking for quiet.\" He was not always so calm about it. When the first personal computers arrived in the early nineties, he assumed that his trade would be dead within a decade. Had he followed his own prediction, he would have closed the shop and retrained as an electrician, as his brother urged him to. Much as he regrets the years of worry, he concedes that the scare taught him to diversify: he now repairs sewing machines, mechanical clocks and, to his own amusement, the occasional vinyl turntable.",
+    "The pattern he describes is familiar to historians of technology, who have long observed that old tools seldom disappear outright. Rather, they are displaced from the centre of life to its edges, where they survive for those who value what they do differently. Radio did not kill the newspaper, nor did television kill radio, though each, in turn, was confidently expected to. Were every prophecy of extinction borne out, we would by now be living in a world with no books, no cinemas and no letters. Technologies do not so much replace one another as rearrange themselves, and the rearrangement is rarely complete.",
+    "None of this means that nothing changes. Ernesto's apprentice, a twenty-three-year-old named Luz, learned the trade from videos before she ever touched a machine, and she posts her repairs online, where they are watched by thousands of strangers in countries Ernesto could not find on a map. It was her idea, not his, to start selling restored typewriters over the internet. \"At first I objected,\" he admits. \"I said it was a betrayal. Then the first crate went to Oslo, and I understood that the thing I was defending was not the shop. It was the work.\"",
+    "Perhaps that is the lesson hidden in this corner of the city. Change is rarely the clean break that headlines promise; it is a negotiation between what a society is ready to abandon and what it cannot bear to lose. The more things change, the old French proverb has it, the more they stay the same, though it would be more accurate to say that they stay the same only because someone, somewhere, is patient enough to keep them going. Were it not for people like Ernesto and Luz, continuity would be little more than a word. As the afternoon light falls across the workbench, he lifts a typewriter's carriage, listens, and smiles. Old habits, he says, die hard; and so, it seems, do the things worth keeping."
+   ],
+   "glossary": [
+    {
+     "en": "carriage",
+     "def": "the moving part of a typewriter that carries the paper along the line"
+    },
+    {
+     "en": "relic",
+     "def": "a relic or leftover from the past, something no longer common"
+    },
+    {
+     "en": "vanishing trades",
+     "def": "jobs that are disappearing and are rarely done today"
+    },
+    {
+     "en": "sceptical",
+     "def": "doubtful; not easily convinced without proof"
+    },
+    {
+     "en": "diversify",
+     "def": "to make something include a wider range of things"
+    },
+    {
+     "en": "displaced",
+     "def": "forced to leave your home or country, often because of war or a disaster"
+    },
+    {
+     "en": "borne out",
+     "def": "shown to be true by the facts"
+    },
+    {
+     "en": "apprentice",
+     "def": "a person who learns a job or skill by working with an experienced person"
+    },
+    {
+     "en": "crate",
+     "def": "a large box, usually made of wood or plastic, for packing or storing things"
+    },
+    {
+     "en": "scare",
+     "def": "a sudden feeling of fear or alarm"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "What did the television report fail to mention?",
+     "options": [
+      "That the shop's business has not declined",
+      "That Ernesto is fifty-three years old",
+      "That typewriters are sold abroad"
+     ],
+     "answer": 0,
+     "explain": "«The shop has not been losing money»; incluso ha crecido."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Most of Ernesto's new customers are nostalgic pensioners.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Most are students, novelists and office workers."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "According to Ernesto, why have people returned to the typewriter?",
+     "options": [
+      "The world got louder and some seek quiet",
+      "Typewriters are cheaper than computers",
+      "They are fashionable among tourists"
+     ],
+     "answer": 0,
+     "explain": "«The world got louder, and some people went looking for quiet»."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "Besides typewriters, Ernesto now repairs sewing machines, mechanical clocks and the occasional ___ turntable.",
+     "answers": [
+      "vinyl"
+     ],
+     "explain": "«The occasional vinyl turntable»."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "The author's view of technological change is that",
+     "options": [
+      "old technologies are rearranged rather than fully replaced",
+      "new inventions always eliminate older ones",
+      "nothing really changes over time"
+     ],
+     "answer": 0,
+     "explain": "«Technologies do not so much replace one another as rearrange themselves»."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "Whose idea was it to sell restored typewriters online?",
+     "options": [
+      "Luz's",
+      "Ernesto's",
+      "His brother's"
+     ],
+     "answer": 0,
+     "explain": "«It was her idea, not his»."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "What did Ernesto realise when the first crate went to Oslo?",
+     "options": [
+      "What he was defending was the work, not the shop",
+      "That the shop had to close",
+      "That online sales were a betrayal"
+     ],
+     "answer": 0,
+     "explain": "«The thing I was defending was not the shop. It was the work»."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Open Question: does technology change us?",
+   "intro": "Listen to the radio debate between a presenter, a sociologist and an engineer. You can replay it.",
+   "lines": [
+    {
+     "who": "Marcus (host)",
+     "voice": "buttery",
+     "text": "Welcome back to Open Question. Tonight's topic: does new technology change society, or does society simply bend technology to its own habits? With me are sociologist Dr Rahman and software engineer Tom Whitfield. Dr Rahman, you first."
+    },
+    {
+     "who": "Dr Rahman",
+     "voice": "airy",
+     "text": "Thank you. I'd say the answer is both, but the second half is usually forgotten. Rarely does a technology arrive and impose a single outcome. What happens is that people adapt it in ways its inventors never imagined."
+    },
+    {
+     "who": "Tom",
+     "voice": "glassy",
+     "text": "I'd agree, up to a point. Take text messaging. Little did the engineers know that it would become the main way teenagers talked. It was a feature meant for network technicians."
+    },
+    {
+     "who": "Marcus (host)",
+     "voice": "buttery",
+     "text": "So what you're saying is that users, not designers, write the real manual?"
+    },
+    {
+     "who": "Dr Rahman",
+     "voice": "airy",
+     "text": "Precisely. Though, much as I admire the ingenuity of users, I don't want to romanticise it. Not only can technology amplify our best habits, it can entrench our worst ones."
+    },
+    {
+     "who": "Tom",
+     "voice": "glassy",
+     "text": "Granted. Recommendation algorithms are a case in point. Had we foreseen how they'd shape what people read, we would have built them differently. But hindsight is easy."
+    },
+    {
+     "who": "Marcus (host)",
+     "voice": "buttery",
+     "text": "Tom, is it fair to say the industry was careless?"
+    },
+    {
+     "who": "Tom",
+     "voice": "glassy",
+     "text": "Careless, perhaps; malicious, no. Be that as it may, the effects are real, and it is vital that engineers be held accountable for them."
+    },
+    {
+     "who": "Dr Rahman",
+     "voice": "airy",
+     "text": "I'd go further. It's essential that these systems be audited by people with no financial stake in them. Under no circumstances should a company mark its own homework."
+    },
+    {
+     "who": "Marcus (host)",
+     "voice": "buttery",
+     "text": "Is there a risk, though, that we regulate too early and strangle innovation?"
+    },
+    {
+     "who": "Dr Rahman",
+     "voice": "airy",
+     "text": "There's always that risk. But the reason why regulation tends to arrive late is that nobody wants to be first. If we'd acted when the warning signs first appeared, we'd be having a very different conversation today."
+    },
+    {
+     "who": "Tom",
+     "voice": "glassy",
+     "text": "I'd rather we proceeded with caution than waited for a disaster. Don't throw the baby out with the bathwater, though. Some of this technology has genuinely saved lives."
+    },
+    {
+     "who": "Marcus (host)",
+     "voice": "buttery",
+     "text": "A fair note to end on. Old habits die hard, but perhaps new ones can form. Dr Rahman, Tom, thank you both."
+    },
+    {
+     "who": "Dr Rahman",
+     "voice": "airy",
+     "text": "Thank you. It's been a pleasure."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What does Dr Rahman say about how technologies usually develop?",
+     "options": [
+      "People adapt them in ways their inventors never imagined",
+      "Inventors fully control their use",
+      "They rarely change daily habits"
+     ],
+     "answer": 0,
+     "explain": "«People adapt it in ways its inventors never imagined»."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Text messaging was originally intended for",
+     "options": [
+      "network technicians",
+      "teenagers",
+      "journalists"
+     ],
+     "answer": 0,
+     "explain": "«A feature meant for network technicians»."
+    },
+    {
+     "id": "L3",
+     "type": "gap",
+     "prompt": "Dr Rahman wants systems audited by people with no ___ stake in them.",
+     "answers": [
+      "financial"
+     ],
+     "explain": "«No financial stake in them»."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "How does Tom describe the industry?",
+     "options": [
+      "Careless, perhaps, but not malicious",
+      "Deliberately harmful",
+      "Fully responsible and transparent"
+     ],
+     "answer": 0,
+     "explain": "«Careless, perhaps; malicious, no»."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "Why, according to Dr Rahman, does regulation tend to arrive late?",
+     "options": [
+      "Nobody wants to be first",
+      "Engineers resist all regulation",
+      "Governments lack the data"
+     ],
+     "answer": 0,
+     "explain": "«The reason why regulation tends to arrive late is that nobody wants to be first»."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "What is Tom's closing stance?",
+     "options": [
+      "Proceed with caution without discarding everything",
+      "Ban recommendation algorithms",
+      "Leave the industry to regulate itself"
+     ],
+     "answer": 0,
+     "explain": "Prefers caution, but warns against «throwing the baby out with the bathwater»."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Rarely does a technology arrive and impose a single outcome.",
+     "answers": [
+      "Rarely does a technology arrive and impose a single outcome."
+     ],
+     "explain": "Rarely + does + subject + base verb."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Had we foreseen how they'd shape what people read, we would have built them differently.",
+     "answers": [
+      "Had we foreseen how they'd shape what people read, we would have built them differently.",
+      "Had we foreseen how they would shape what people read, we would have built them differently.",
+      "Had we foreseen how they'd shape what people read, we'd have built them differently.",
+      "Had we foreseen how they would shape what people read, we'd have built them differently."
+     ],
+     "explain": "Inversion of If we had foreseen…"
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "It is vital that engineers be held accountable for them.",
+     "answers": [
+      "It is vital that engineers be held accountable for them.",
+      "It's vital that engineers be held accountable for them."
+     ],
+     "explain": "Mandative subjunctive: that + subject + be."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Under no circumstances should a company mark its own homework.",
+     "answers": [
+      "Under no circumstances should a company mark its own homework."
+     ],
+     "explain": "Under no circumstances + should + subject."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Final presentation (2–3 minutes): “Change and continuity in my country”. Open, structure it with transitions, concede one point and close with a memorable idea.",
+     "questions": [
+      "What has changed most in your country over the last twenty years?",
+      "What has stayed the same, and why?",
+      "Which change do you regard as a genuine tipping point?",
+      "What do you expect over the next twenty years?"
+     ],
+     "model": "I'd like to begin with a question: what has really changed in Mexico over the last twenty years? Rarely has any country experienced such a rapid transformation in communication. What strikes me most is how entrenched some habits remain. Much as we embrace new technology, family life still revolves around the table. This brings me to my main point: the change that matters most is not the one we see on screens. Admittedly, I may be wrong, but it would be a mistake to assume that tradition is disappearing. I'll leave you with one thought: the more things change, the more we choose what to keep.",
+     "checklist": [
+      "Clear opening and closing",
+      "One inversion and one cleft sentence",
+      "A concessive (Much as / Admittedly)",
+      "A transition (This brings me to…)",
+      "A proverb or allusion"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Debate: does technology change us, or do we change it? Use cleft sentences, concessives and the subjunctive.",
+     "questions": [
+      "Does technology change us, or do we change it?",
+      "What worries you most about our reliance on technology?",
+      "Who should be accountable for its effects?",
+      "Is it fair to call someone a Luddite for questioning new technology?"
+     ],
+     "model": "It is both, I think, though what interests me is how rarely people question the change. Try as we might to control technology, it often changes us first. What worries me most is our reliance on algorithms. It is essential that these systems be audited independently. That said, I wouldn't call anyone a Luddite for asking questions; it would be a mistake to confuse caution with hostility.",
+     "checklist": [
+      "Hendida (What worries me most is…)",
+      "Concesiva (Try as we might…)",
+      "Mandative subjunctive (be audited)",
+      "A nuance or concession (That said…)"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Personal closing reflection: how you have changed as an English learner and what you would have done differently.",
+     "questions": [
+      "How has your English changed since you started?",
+      "What do you wish you had done differently?",
+      "If you had started earlier, where would you be now?",
+      "What will you do to keep improving?"
+     ],
+     "model": "Looking back, I'm struck by how much has changed. Not only can I follow films without subtitles, I can also argue a point. I wish I had practised speaking earlier. If I had started at fifteen, I would be fully bilingual now. Then again, it's high time I stopped regretting and kept going. It is essential that I read every day, and I intend to.",
+     "checklist": [
+      "wish + past perfect",
+      "Mixed conditional",
+      "Inversion or Not only",
+      "Subjunctive or It's high time + past"
+     ]
+    }
+   ],
+   "repeat": [
+    "Rarely have we seen such a rapid transformation.",
+    "What worries me most is the speed of the change.",
+    "Had I known, I would have acted differently.",
+    "It is essential that the process be reviewed.",
+    "Much as I admire her, I can't support the decision.",
+    "The more things change, the more they stay the same."
+   ]
+  }
+ }
+}

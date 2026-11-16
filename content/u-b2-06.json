@@ -1,0 +1,1642 @@
+{
+ "id": "u-b2-06",
+ "level": "B2",
+ "n": 6,
+ "title": "Breaking News",
+ "goals": [
+  "Tell what happened with the passive voice in the past simple (was / were + participle), with and without an agent.",
+  "Use by + agent and place adverbs (badly, completely, seriously) between was/were and the participle.",
+  "Extend the passive to other tenses: present, present continuous, present perfect, future and modals.",
+  "Talk about natural disasters, extreme weather and news with precise vocabulary.",
+  "Introduce news with Did you hear…? and mark ideas with The thing is… / The other thing is…",
+  "Write statistics about groups of people with correct subject-verb agreement."
+ ],
+ "learn": [
+  {
+   "id": "g-passive-past",
+   "kind": "grammar",
+   "title": "Passive voice in the past simple (was / were + participle)",
+   "html": "<p>In an <strong>active</strong> sentence the subject does the action (<em>A student found a bag</em>). In a <strong>passive</strong> sentence the subject receives the action (<em>A bag was found on a bus</em>). The passive is used when what happened matters more than who did it, or when we don't know or don't care who did it (very common in the news).</p><table><thead><tr><th></th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Affirmative</td><td>subject + was / were + participle</td><td>The airport was closed. Two cars were stolen.</td></tr><tr><td>Negative</td><td>subject + wasn't / weren't + participle</td><td>The passengers weren't injured.</td></tr><tr><td>Question</td><td>Was / Were + subject + participle?</td><td>Was the flight delayed? Were the roads closed?</td></tr><tr><td>Wh-</td><td>Wh- + was / were + subject + participle?</td><td>When was the bridge built?</td></tr></tbody></table><ul><li>Active → passive: the object becomes the subject: <em>The police arrested two men.</em> → <em>Two men were arrested.</em></li><li>Only <strong>transitive</strong> verbs (with an object) have a passive. <em>happen, arrive, die, occur</em> are not used in the passive.</li><li>Irregular past participles are key: <em>steal → stolen, break → broken, find → found, hit → hit, strike → struck</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "The bag was find on a bus.",
+     "right": "The bag was found on a bus.",
+     "why": "After was/were we use the participle (found), not the base form."
+    },
+    {
+     "wrong": "Two cars stolen last night.",
+     "right": "Two cars were stolen last night.",
+     "why": "In the passive, was/were is missing."
+    },
+    {
+     "wrong": "The accident was happened at noon.",
+     "right": "The accident happened at noon.",
+     "why": "Happen has no passive voice."
+    },
+    {
+     "wrong": "Were the passengers injured? Yes, they was.",
+     "right": "Were the passengers injured? Yes, they were.",
+     "why": "The short answer repeats the verb: they were."
+    }
+   ]
+  },
+  {
+   "id": "v-disasters",
+   "kind": "vocab",
+   "title": "Disasters and extreme weather",
+   "words": [
+    {
+     "id": "w-aftershock",
+     "en": "aftershock",
+     "es": "réplica (de un sismo)",
+     "example": "A strong aftershock shook the city an hour later."
+    },
+    {
+     "id": "w-minor-earthquake",
+     "en": "minor earthquake",
+     "es": "sismo leve",
+     "example": "A minor earthquake woke us up at dawn.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-flash-flood",
+     "en": "flash flood",
+     "es": "inundación repentina",
+     "example": "A flash flood covered the streets in minutes.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-catastrophic-wildfire",
+     "en": "catastrophic wildfire",
+     "es": "incendio forestal catastrófico",
+     "example": "A catastrophic wildfire destroyed hundreds of homes.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-hailstones",
+     "en": "hailstones",
+     "es": "granizo, piedras de granizo",
+     "example": "The hailstones were the size of golf balls."
+    },
+    {
+     "id": "w-freak-hailstorm",
+     "en": "freak hailstorm",
+     "es": "granizada inusual",
+     "example": "A freak hailstorm damaged cars all over town."
+    },
+    {
+     "id": "w-heavy-rains",
+     "en": "heavy rains",
+     "es": "lluvias fuertes",
+     "example": "Heavy rains caused landslides in the mountains.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-strong-winds",
+     "en": "strong winds",
+     "es": "vientos fuertes",
+     "example": "Strong winds knocked down several trees.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-thunder-and-lightning",
+     "en": "thunder and lightning",
+     "es": "truenos y relámpagos",
+     "example": "There was thunder and lightning all night."
+    },
+    {
+     "id": "w-severe-thunderstorm",
+     "en": "severe thunderstorm",
+     "es": "tormenta eléctrica fuerte",
+     "example": "A severe thunderstorm is expected tonight.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-tornado",
+     "en": "tornado",
+     "es": "tornado",
+     "example": "A tornado struck the small town in the afternoon."
+    },
+    {
+     "id": "w-typhoon",
+     "en": "typhoon",
+     "es": "tifón",
+     "example": "The typhoon forced thousands to leave their homes."
+    },
+    {
+     "id": "w-hurricane",
+     "en": "hurricane",
+     "es": "huracán",
+     "example": "The hurricane approached the coast on Friday.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-measure",
+     "en": "measure",
+     "es": "medir; registrar (magnitud)",
+     "example": "The earthquake measured 6.1 on the scale.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-emergency-worker",
+     "en": "emergency worker",
+     "es": "personal de emergencias",
+     "example": "Emergency workers helped the families all night.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-news-anchor",
+     "en": "news anchor",
+     "es": "presentador/a de noticias",
+     "example": "The news anchor read the latest update.",
+     "cefr": "C1"
+    }
+   ]
+  },
+  {
+   "id": "g-passive-agent",
+   "kind": "grammar",
+   "title": "by + agent and the position of adverbs",
+   "html": "<p>When the person who did the action (the <strong>agent</strong>) is important, it is added at the end with <strong>by</strong>: <em>Three families were rescued <strong>by</strong> emergency workers.</em> If the agent is unknown, obvious or unimportant, it is left out: <em>My car was stolen.</em></p><table><thead><tr><th>Active</th><th>Passive with by</th></tr></thead><tbody><tr><td>An earthquake struck a town.</td><td>A town was struck <strong>by</strong> an earthquake.</td></tr><tr><td>Careless campers caused the fires.</td><td>The fires were caused <strong>by</strong> careless campers.</td></tr><tr><td>A tornado damaged a shopping mall.</td><td>A shopping mall was damaged <strong>by</strong> a tornado.</td></tr></tbody></table><p><strong>Adverbs:</strong> in the past passive, adverbs usually go between <em>was / were (not)</em> and the participle: <em>The mall was badly damaged. No one was seriously injured. The forest was completely destroyed. Power was temporarily disrupted. Homes were partially destroyed.</em></p><ul><li>The agent with <em>by</em> goes at the end: <em>damaged badly by a tornado</em> sounds wrong; say <em>badly damaged by a tornado</em>.</li><li>After <em>by</em> use a noun or an object pronoun: <em>by them</em>, not <em>by they</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "The forest destroyed was completely.",
+     "right": "The forest was completely destroyed.",
+     "why": "The adverb goes between was and the participle."
+    },
+    {
+     "wrong": "A town was hit an earthquake.",
+     "right": "A town was hit by an earthquake.",
+     "why": "For the agent, by is missing."
+    },
+    {
+     "wrong": "The fires were caused by they.",
+     "right": "The fires were caused by them.",
+     "why": "After by comes an object pronoun (them)."
+    },
+    {
+     "wrong": "No one was injured seriously.",
+     "right": "No one was seriously injured.",
+     "why": "The degree adverb goes between was and the participle."
+    }
+   ]
+  },
+  {
+   "id": "v-news-verbs",
+   "kind": "vocab",
+   "title": "Verbs often used in the passive",
+   "words": [
+    {
+     "id": "w-break-into-be-broken-into",
+     "en": "break into / be broken into",
+     "es": "entrar a robar / ser asaltado",
+     "example": "My car was broken into last Thursday.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-delay-be-delayed",
+     "en": "delay / be delayed",
+     "es": "retrasar / ser retrasado",
+     "example": "All flights were delayed because of fog.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-find-be-found",
+     "en": "find / be found",
+     "es": "encontrar / ser encontrado",
+     "example": "The missing hikers were found safe.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-hit-be-hit-by",
+     "en": "hit / be hit by",
+     "es": "golpear / ser golpeado por",
+     "example": "The coast was hit by a powerful storm.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-injure-be-injured",
+     "en": "injure / be injured",
+     "es": "herir / resultar herido",
+     "example": "Two drivers were injured in the crash.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-steal-be-stolen",
+     "en": "steal / be stolen",
+     "es": "robar / ser robado",
+     "example": "A painting was stolen from the museum.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-cancel-be-canceled",
+     "en": "cancel / be canceled",
+     "es": "cancelar / ser cancelado",
+     "example": "The concert was canceled due to the rain.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-cause-be-caused-by",
+     "en": "cause / be caused by",
+     "es": "causar / ser causado por",
+     "example": "The blackout was caused by a fallen tree.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-damage-be-damaged",
+     "en": "damage / be damaged",
+     "es": "dañar / ser dañado",
+     "example": "Several roofs were badly damaged.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-destroy-be-destroyed",
+     "en": "destroy / be destroyed",
+     "es": "destruir / ser destruido",
+     "example": "Hundreds of homes were destroyed.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-disrupt-be-disrupted",
+     "en": "disrupt / be disrupted",
+     "es": "interrumpir / verse interrumpido",
+     "example": "Train service was temporarily disrupted.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-report-be-reported",
+     "en": "report / be reported",
+     "es": "informar / ser reportado",
+     "example": "Several accidents were reported overnight.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rescue-be-rescued-by",
+     "en": "rescue / be rescued by",
+     "es": "rescatar / ser rescatado por",
+     "example": "Two climbers were rescued by helicopter.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-strike-be-struck-by",
+     "en": "strike / be struck by",
+     "es": "golpear, azotar / ser azotado por",
+     "example": "The town was struck by lightning.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "g-passive-more",
+   "kind": "grammar",
+   "title": "The passive in other tenses",
+   "html": "<p>The passive is not only for the past simple. It is formed with <strong>be</strong> in the tense you need + <strong>participle</strong>.</p><table><thead><tr><th>Tense</th><th>Form</th><th>Example</th></tr></thead><tbody><tr><td>Present simple</td><td>am / is / are + participle</td><td>English is spoken in many countries.</td></tr><tr><td>Present continuous</td><td>is / are being + participle</td><td>Many houses are still being repaired.</td></tr><tr><td>Present perfect</td><td>has / have been + participle</td><td>The suspect has been found.</td></tr><tr><td>Future</td><td>will be + participle</td><td>The bridge will be rebuilt next year.</td></tr><tr><td>With modals</td><td>can / must / should be + participle</td><td>Disasters can't be avoided, but their effects can be reduced.</td></tr></tbody></table><p>In all cases the past participle goes at the end and <em>be</em> is the only thing that changes tense. The passive cannot be used with verbs without an object (<em>happen, occur, arrive</em>).</p>",
+   "watch": [
+    {
+     "wrong": "The bridge will rebuilt next year.",
+     "right": "The bridge will be rebuilt next year.",
+     "why": "Future passive: will be + participle."
+    },
+    {
+     "wrong": "The match has been cancel because of the rain.",
+     "right": "The match has been canceled because of the rain.",
+     "why": "Has been + participle (canceled)."
+    },
+    {
+     "wrong": "Many houses are still repairing.",
+     "right": "Many houses are still being repaired.",
+     "why": "Present continuous passive: are being + participle."
+    },
+    {
+     "wrong": "The meeting was happened yesterday.",
+     "right": "The meeting happened yesterday.",
+     "why": "Happen does not allow the passive."
+    }
+   ]
+  },
+  {
+   "id": "g-stats",
+   "kind": "grammar",
+   "title": "Writing statistics: subject-verb agreement",
+   "html": "<p>When writing percentages and fractions of a group of people, the verb agrees with the <strong>noun</strong> that follows <em>of</em>, not with the number.</p><table><thead><tr><th>Noun</th><th>Verb</th><th>Example</th></tr></thead><tbody><tr><td>Plural (students, people, us)</td><td>plural</td><td>80% of the students <strong>are</strong> interested in the news. The majority of students <strong>have</strong> Internet access.</td></tr><tr><td>Collective singular (class, population, group)</td><td>singular</td><td>80% of the class <strong>is</strong> interested in the news. About half of the class <strong>is</strong> interested in current events.</td></tr></tbody></table><ul><li><em>Four out of ten students <strong>read</strong> a newspaper</em> (students is plural).</li><li><em>Approximately 20% of us <strong>get</strong> the news from TV</em> (us is plural).</li><li>Useful expressions: <em>the majority of, about half of, approximately, almost, only a quarter of, X out of ten</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "Four out of ten students reads a newspaper.",
+     "right": "Four out of ten students read a newspaper.",
+     "why": "Students is plural: read."
+    },
+    {
+     "wrong": "Half of the students is interested in the news.",
+     "right": "Half of the students are interested in the news.",
+     "why": "The verb agrees with students (plural)."
+    },
+    {
+     "wrong": "About half of the class are interested in current events.",
+     "right": "About half of the class is interested in current events.",
+     "why": "Class is singular: is."
+    },
+    {
+     "wrong": "The majority of students has access to the Internet.",
+     "right": "The majority of students have access to the Internet.",
+     "why": "The majority of + plural: plural verb."
+    }
+   ]
+  },
+  {
+   "id": "v-media",
+   "kind": "vocab",
+   "title": "Reporting the news",
+   "words": [
+    {
+     "id": "w-foreign-correspondent",
+     "en": "foreign correspondent",
+     "es": "corresponsal en el extranjero",
+     "example": "A foreign correspondent reports from another country.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-current-events",
+     "en": "current events",
+     "es": "actualidad, eventos actuales",
+     "example": "He reads the paper to learn about current events.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-national-newspaper",
+     "en": "national newspaper",
+     "es": "periódico nacional",
+     "example": "She writes for a national newspaper.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-local-newspaper",
+     "en": "local newspaper",
+     "es": "periódico local",
+     "example": "The local newspaper covered the fair.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-objectivity",
+     "en": "objectivity",
+     "es": "objetividad",
+     "example": "Objectivity is essential in good journalism."
+    },
+    {
+     "id": "w-tolerance",
+     "en": "tolerance",
+     "es": "tolerancia",
+     "example": "Travel teaches tolerance.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-overnight-success",
+     "en": "overnight success",
+     "es": "éxito de la noche a la mañana",
+     "example": "Her blog became an overnight success.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-keep-up-with-the-news",
+     "en": "keep up with the news",
+     "es": "mantenerse al día con las noticias",
+     "example": "I keep up with the news on my phone.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-see-firsthand",
+     "en": "see firsthand",
+     "es": "ver con tus propios ojos",
+     "example": "He wanted to see the situation firsthand.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-bridge-differences",
+     "en": "bridge differences",
+     "es": "tender puentes entre diferencias",
+     "example": "Good journalism can bridge differences between cultures.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-fulfill-a-responsibility",
+     "en": "fulfill a responsibility",
+     "es": "cumplir una responsabilidad",
+     "example": "The media must fulfill its responsibility to inform.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-take-a-leap-of-faith",
+     "en": "take a leap of faith",
+     "es": "dar un salto de fe",
+     "example": "She took a leap of faith and moved abroad to report.",
+     "cefr": "C1"
+    }
+   ]
+  },
+  {
+   "id": "e-news",
+   "kind": "expressions",
+   "title": "Introducing news: Did you hear…? and The thing is…",
+   "html": "<ul><li><strong>Did you hear (about)…? / Have you heard (about)…?</strong> — to open a piece of news: <em>Did you hear about all the trouble here last night?</em></li><li><strong>Did I tell you?</strong> — <em>Did I tell you? My car was broken into last Thursday night.</em></li><li><strong>Guess what? / You know what?</strong> — to get attention before giving the news.</li><li><strong>You know…?</strong> — to identify someone: <em>You know that older guy on the first floor? His car was stolen.</em></li><li><strong>The thing is, …</strong> — points out the key problem: <em>The thing is, there aren't enough police on duty at night.</em></li><li><strong>The other thing is, …</strong> — adds another problem.</li><li><strong>The only thing is / was, …</strong> — presents a drawback: <em>The only thing was, they damaged the ignition.</em></li><li><strong>The best / funny / scary thing is, …</strong> — adds a nuance: <em>The best thing was, the thieves didn't damage the car.</em></li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Passive voice in the past simple",
+   "instructions": "Choose, complete or correct with the right passive form.",
+   "topic": "g-passive-past",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "The airport ___ closed because of the storm.",
+     "answers": [
+      "was"
+     ],
+     "explain": "Singular subject: was + participle."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Three cars ___ stolen last night.",
+     "answers": [
+      "were"
+     ],
+     "explain": "Plural subject: were + participle."
+    },
+    {
+     "id": "A3",
+     "type": "choice",
+     "prompt": "No one ___ injured in the accident.",
+     "options": [
+      "was",
+      "were",
+      "did"
+     ],
+     "answer": 0,
+     "explain": "No one is singular: was injured."
+    },
+    {
+     "id": "A4",
+     "type": "fix",
+     "prompt": "The bag was find on a bus.",
+     "answers": [
+      "The bag was found on a bus."
+     ],
+     "explain": "Past participle of find: found."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "The passengers ___ injured; they were only delayed.",
+     "answers": [
+      "weren't",
+      "were not"
+     ],
+     "explain": "Plural negative: weren't."
+    },
+    {
+     "id": "A6",
+     "type": "choice",
+     "prompt": "The police arrested two men. → Two men ___ by the police.",
+     "options": [
+      "were arrested",
+      "was arrested",
+      "arrested"
+     ],
+     "answer": 0,
+     "explain": "Plural subject + were + participle."
+    },
+    {
+     "id": "A7",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "house",
+      "The",
+      "was",
+      "broken",
+      "into",
+      "last",
+      "night"
+     ],
+     "answers": [
+      "The house was broken into last night."
+     ],
+     "explain": "was + participle (broken into)."
+    },
+    {
+     "id": "A8",
+     "type": "gap",
+     "prompt": "___ the flights canceled yesterday? — Yes, they were.",
+     "answers": [
+      "Were"
+     ],
+     "explain": "Passive question with a plural subject: Were…?"
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "by + agent and adverbs",
+   "instructions": "Use by when the agent matters and place the adverbs correctly.",
+   "topic": "g-passive-agent",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "A town was struck ___ an earthquake.",
+     "options": [
+      "by",
+      "from",
+      "with"
+     ],
+     "answer": 0,
+     "explain": "The agent of the passive takes by."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "The fires were caused ___ careless campers.",
+     "answers": [
+      "by"
+     ],
+     "explain": "Agent: by + noun."
+    },
+    {
+     "id": "B3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "was",
+      "badly",
+      "The",
+      "mall",
+      "damaged"
+     ],
+     "answers": [
+      "The mall was badly damaged."
+     ],
+     "explain": "Adverb between was and the participle."
+    },
+    {
+     "id": "B4",
+     "type": "fix",
+     "prompt": "The forest destroyed was completely.",
+     "answers": [
+      "The forest was completely destroyed."
+     ],
+     "explain": "was + adverb + participle."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "Which sentence is best when we don't know who did it?",
+     "options": [
+      "Someone stole my car.",
+      "My car was stolen.",
+      "My car stole someone."
+     ],
+     "answer": 1,
+     "explain": "If the agent is unknown, the passive without by is natural."
+    },
+    {
+     "id": "B6",
+     "type": "translate",
+     "prompt": "La casa fue parcialmente destruida por un incendio.",
+     "answers": [
+      "The house was partially destroyed by a fire.",
+      "The house was partially destroyed by a wildfire.",
+      "The house was partially destroyed by the fire.",
+      "The house was partially destroyed by the wildfire."
+     ],
+     "explain": "was + partially + destroyed + by + agent."
+    },
+    {
+     "id": "B7",
+     "type": "gap",
+     "prompt": "Two hikers ___ rescued by emergency workers.",
+     "answers": [
+      "were"
+     ],
+     "explain": "Plural subject: were rescued."
+    },
+    {
+     "id": "B8",
+     "type": "fix",
+     "prompt": "No one was injured seriously.",
+     "answers": [
+      "No one was seriously injured."
+     ],
+     "explain": "Adverb between was and the participle."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "The passive in other tenses",
+   "instructions": "Complete or correct using be in the right tense.",
+   "topic": "g-passive-more",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "The bridge ___ next year.",
+     "options": [
+      "will be rebuilt",
+      "will rebuilt",
+      "is rebuilding"
+     ],
+     "answer": 0,
+     "explain": "Future passive: will be + participle."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "English ___ spoken in many countries.",
+     "answers": [
+      "is"
+     ],
+     "explain": "Present simple passive: is + participle."
+    },
+    {
+     "id": "C3",
+     "type": "fix",
+     "prompt": "The match has been cancel because of the rain.",
+     "answers": [
+      "The match has been canceled because of the rain.",
+      "The match has been cancelled because of the rain."
+     ],
+     "explain": "Has been + participle."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "The suspect ___ been found by the police.",
+     "answers": [
+      "has"
+     ],
+     "explain": "Present perfect passive: has been + participle."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "Which verb can NOT be used in the passive?",
+     "options": [
+      "steal",
+      "happen",
+      "break"
+     ],
+     "answer": 1,
+     "explain": "Happen is intransitive: it has no passive."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "The accident was happened at noon.",
+     "answers": [
+      "The accident happened at noon."
+     ],
+     "explain": "Happen does not allow the passive."
+    },
+    {
+     "id": "C7",
+     "type": "translate",
+     "prompt": "Las clases serán canceladas mañana.",
+     "answers": [
+      "The classes will be canceled tomorrow.",
+      "The classes will be cancelled tomorrow.",
+      "classes will be canceled tomorrow.",
+      "classes will be cancelled tomorrow."
+     ],
+     "explain": "Future passive: will be + participle."
+    },
+    {
+     "id": "C8",
+     "type": "gap",
+     "prompt": "Many houses ___ still being repaired.",
+     "answers": [
+      "are"
+     ],
+     "explain": "Present continuous passive: are being + participle."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Vocabulary: disasters and news",
+   "instructions": "Complete with the missing word.",
+   "topic": "v-disasters",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "After the big earthquake, smaller ___ shook the city for days.",
+     "answers": [
+      "aftershocks",
+      "quakes"
+     ],
+     "explain": "Aftershock = a smaller quake after the main one."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "A sudden flash ___ filled the streets with water after two hours of heavy rain.",
+     "answers": [
+      "flood"
+     ],
+     "explain": "Flash flood = a sudden, strong flood."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "The ___ dropped hailstones the size of golf balls.",
+     "answers": [
+      "hailstorm",
+      "storm",
+      "thunderstorm"
+     ],
+     "explain": "Hailstorm = a storm with hailstones."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "A catastrophic ___ burned thousands of acres of forest.",
+     "answers": [
+      "wildfire"
+     ],
+     "explain": "Wildfire = a forest fire."
+    },
+    {
+     "id": "D5",
+     "type": "gap",
+     "prompt": "The news ___ read the headlines on live TV.",
+     "answers": [
+      "anchor"
+     ],
+     "explain": "News anchor = the presenter of the news."
+    },
+    {
+     "id": "D6",
+     "type": "gap",
+     "prompt": "Firefighters and other emergency ___ worked all night.",
+     "answers": [
+      "workers"
+     ],
+     "explain": "Emergency workers = people who respond to emergencies."
+    },
+    {
+     "id": "D7",
+     "type": "gap",
+     "prompt": "The earthquake ___ 6.1 on the scale.",
+     "answers": [
+      "measured"
+     ],
+     "explain": "The quake measured… = it registered a magnitude of…"
+    },
+    {
+     "id": "D8",
+     "type": "gap",
+     "prompt": "A hurricane in the Pacific near Asia is called a ___.",
+     "answers": [
+      "typhoon"
+     ],
+     "explain": "Typhoon = a tropical storm."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Statistics and agreement",
+   "instructions": "Choose or correct the right verb.",
+   "topic": "g-stats",
+   "items": [
+    {
+     "id": "E1",
+     "type": "choice",
+     "prompt": "Eighty percent of the students ___ interested in the news.",
+     "options": [
+      "are",
+      "is"
+     ],
+     "answer": 0,
+     "explain": "Students is plural: are."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "About half of the class ___ interested in current events.",
+     "options": [
+      "is",
+      "are"
+     ],
+     "answer": 0,
+     "explain": "Class is singular: is."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "Four out of ten students ___ a newspaper.",
+     "options": [
+      "reads",
+      "read"
+     ],
+     "answer": 1,
+     "explain": "Students is plural: read."
+    },
+    {
+     "id": "E4",
+     "type": "fix",
+     "prompt": "The majority of students has access to the Internet.",
+     "answers": [
+      "The majority of students have access to the Internet."
+     ],
+     "explain": "The majority of + plural: have."
+    },
+    {
+     "id": "E5",
+     "type": "fix",
+     "prompt": "Twenty percent of the population get their news from TV.",
+     "answers": [
+      "Twenty percent of the population gets their news from TV."
+     ],
+     "explain": "Population is singular: gets."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "Approximately 20% of us ___ the news from social media. (get)",
+     "answers": [
+      "get"
+     ],
+     "explain": "Us is plural: get."
+    },
+    {
+     "id": "E7",
+     "type": "translate",
+     "prompt": "La mayoría de los estudiantes tiene acceso a Internet.",
+     "answers": [
+      "The majority of the students have access to the Internet.",
+      "The majority of students have access to the Internet."
+     ],
+     "explain": "Students is plural: have."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Introducing news",
+   "instructions": "Choose or complete the expression to tell a piece of news.",
+   "topic": "e-news",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "___ about the accident on Main Street? It was terrible.",
+     "options": [
+      "Did you hear",
+      "Do you hearing",
+      "Have you hear"
+     ],
+     "answer": 0,
+     "explain": "Did you hear about…?"
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "___ what? Our neighbor's car was stolen last night.",
+     "answers": [
+      "Guess"
+     ],
+     "explain": "Guess what? introduces a piece of news."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "The ___ is, they don't have enough police on duty at night.",
+     "answers": [
+      "thing"
+     ],
+     "explain": "The thing is… points out the key problem."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "Our house was broken into. ___ thing was, nothing valuable was taken.",
+     "options": [
+      "The best",
+      "The goodest",
+      "The better"
+     ],
+     "answer": 0,
+     "explain": "The best thing was… adds the positive side."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "To add another issue, you can say:",
+     "options": [
+      "The other thing is…",
+      "The only other…",
+      "Another the thing…"
+     ],
+     "answer": 0,
+     "explain": "The other thing is… adds another problem."
+    },
+    {
+     "id": "F6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I",
+      "Did",
+      "tell",
+      "you"
+     ],
+     "answers": [
+      "Did I tell you?"
+     ],
+     "explain": "Fixed expression to introduce a piece of news."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "was",
+      "The",
+      "closed",
+      "airport",
+      "yesterday"
+     ],
+     "answers": [
+      "The airport was closed yesterday."
+     ],
+     "explain": "Subject + was + participle."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "were",
+      "completely",
+      "Homes",
+      "destroyed"
+     ],
+     "answers": [
+      "Homes were completely destroyed."
+     ],
+     "explain": "were + adverb + participle."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "by",
+      "rescued",
+      "were",
+      "firefighters",
+      "Three",
+      "families"
+     ],
+     "answers": [
+      "Three families were rescued by firefighters."
+     ],
+     "explain": "Agent with by at the end."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Were",
+      "injured",
+      "any",
+      "passengers"
+     ],
+     "answers": [
+      "Were any passengers injured?"
+     ],
+     "explain": "Passive question: Were + subject + participle."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "be",
+      "will",
+      "The",
+      "rebuilt",
+      "bridge"
+     ],
+     "answers": [
+      "The bridge will be rebuilt."
+     ],
+     "explain": "Future passive: will be + participle."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "thing",
+      "is",
+      "The",
+      "only",
+      "they",
+      "were",
+      "late"
+     ],
+     "answers": [
+      "The only thing is, they were late."
+     ],
+     "explain": "The only thing is… introduces a drawback."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Mi coche fue robado el jueves.",
+     "answers": [
+      "My car was stolen on Thursday."
+     ],
+     "explain": "Passive in the past: was stolen."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Nadie resultó gravemente herido.",
+     "answers": [
+      "No one was seriously injured.",
+      "Nobody was seriously injured."
+     ],
+     "explain": "Adverb between was and the participle."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "El puente fue dañado por una tormenta.",
+     "answers": [
+      "The bridge was damaged by a storm.",
+      "The bridge was hit by a storm.",
+      "The bridge was struck by a storm."
+     ],
+     "explain": "Agent with by."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "¿Supiste lo del incendio de anoche?",
+     "answers": [
+      "Did you hear about the fire last night?",
+      "Have you heard about the fire last night?",
+      "Did you hear about last night's fire?",
+      "Have you heard about last night's fire?"
+     ],
+     "explain": "Did you hear about…?"
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Los vuelos fueron cancelados por el clima.",
+     "answers": [
+      "The flights were canceled because of the weather.",
+      "The flights were cancelled because of the weather."
+     ],
+     "explain": "Passive + because of."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Cerca de la mitad de la clase lee noticias todos los días.",
+     "answers": [
+      "About half of the class reads the news every day.",
+      "About half of the class read the news every day."
+     ],
+     "explain": "Class is singular: reads (the British plural is also accepted)."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises from different topics (includes 2 review items from the previous unit).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "The mall ___ badly damaged by the tornado.",
+     "options": [
+      "was",
+      "were",
+      "is been"
+     ],
+     "answer": 0,
+     "explain": "Singular subject: was."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Eighty percent of the people ___ interested in the news. (be)",
+     "answers": [
+      "are"
+     ],
+     "explain": "People is plural: are."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "The fires was caused by careless campers.",
+     "answers": [
+      "The fires were caused by careless campers."
+     ],
+     "explain": "Plural subject: were."
+    },
+    {
+     "id": "M4",
+     "type": "translate",
+     "prompt": "Les robaron la casa anoche.",
+     "answers": [
+      "Their house was broken into last night.",
+      "Their house was robbed last night.",
+      "Their home was broken into last night."
+     ],
+     "explain": "Passive without agent: was broken into."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "A: My car was stolen! B: I'm not surprised. ___ thing is, there aren't enough police on duty at night.",
+     "options": [
+      "The",
+      "A",
+      "An"
+     ],
+     "answer": 0,
+     "explain": "The thing is, … fixed expression."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "Guess ___? My neighbor's car was stolen.",
+     "answers": [
+      "what"
+     ],
+     "explain": "Guess what? to introduce a piece of news."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "That ___ be Marta; she's on vacation this week. (repaso)",
+     "answers": [
+      "can't",
+      "cannot"
+     ],
+     "explain": "Review U05: can't be for the impossible."
+    },
+    {
+     "id": "M8",
+     "type": "choice",
+     "prompt": "I was really ___ by the news. (repaso)",
+     "options": [
+      "shocked",
+      "shocking",
+      "shock"
+     ],
+     "answer": 0,
+     "explain": "Review U05: feeling = -ed."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write an informative news report of 180 to 250 words about a real or invented natural disaster (storm, earthquake, fire, flood) in a city. Use the passive voice in the past simple with at least three agents introduced by by, at least three adverbs (badly, completely, partially, seriously, temporarily) and a quote from a witness or an authority. Include a final detail about what will be done next, using the passive in the future (will be repaired).",
+   "targets": [
+    "was / were + past participle",
+    "by + agent",
+    "adverbs between was/were and the participle",
+    "disaster vocabulary",
+    "future passive"
+   ],
+   "checklist": [
+    "Between 180 and 250 words",
+    "At least 6 sentences in the passive past simple",
+    "At least 3 sentences with by + agent",
+    "At least 3 adverbs placed between was/were and the participle",
+    "Correct irregular participles (stolen, broken, struck)",
+    "At least one sentence in the future passive (will be + participle)",
+    "No intransitive verbs in the passive (happen, occur)"
+   ],
+   "model": "A powerful earthquake struck the city of Puerto Alegre early on Tuesday morning. The quake, which measured 6.8, was felt across the whole region at 5:12 a.m. Dozens of buildings were badly damaged, and the old market was completely destroyed by the shaking. Two bridges were seriously weakened by cracks, and one road was temporarily closed by the army.\n\nMore than 300 people were taken to shelters by volunteers, and food and blankets were delivered by the Red Cross. Many families were left without electricity because the main power line was partially broken. Several shops were robbed during the night, and some valuable items were stolen. A hospital in the north of the city was evacuated by doctors and nurses, and all the patients were safely moved to other clinics. Nobody was killed, but fifteen people were injured.\n\n\"We were sleeping when everything started shaking,\" said Marta López, a witness. \"I have never been so scared.\" The mayor, Eduardo Rivas, said that the city had been lucky: \"The response was quick, and I thank everyone who helped.\"\n\nThe damaged bridges will be repaired by engineers over the next month, and the market will be rebuilt with government funds. Schools will be inspected before classes begin again, and a new emergency plan will be presented to the public next week."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a text of 180 to 250 words that summarizes a survey (real or invented) about how students or people around you keep informed. Present at least five statistics (percentages, fractions, X out of ten) with the right verb according to the noun, and end with your opinion (In my opinion, … / It seems to me that…) about whether it is important to keep up with the news.",
+   "targets": [
+    "agreement with percentages and fractions",
+    "the majority of / about half of / X out of ten",
+    "media vocabulary",
+    "opinion with In my opinion / It seems to me that"
+   ],
+   "checklist": [
+    "Between 180 and 250 words",
+    "At least 5 different statistics",
+    "Plural verb with plural nouns (students are, people read)",
+    "Singular verb with collective nouns (the class is)",
+    "Variety: the majority of, about half of, X out of ten",
+    "A final opinion with In my opinion / It seems to me that",
+    "Media vocabulary (current events, keep up with the news)"
+   ],
+   "model": "Last month I carried out a small survey among 100 university students to find out how they keep up with the news. The results were interesting.\n\nThe majority of the students are interested in current events, but they do not read newspapers. About half of them get their information from social media, and 30 percent follow the headlines on news apps. Only 8 percent of the respondents watch television news every day. One out of ten students listens to podcasts, and two thirds of the group say that they check the news at least once a day. Seven out of ten people think that the press is not always honest, and a quarter of the students say they only read the headlines.\n\nThe class is divided on one point: a third of the students believe that online news is more reliable than television, while the rest disagree. The group is also young, so the figures show a clear trend. Most people read the news on their phones, and the number of readers who pay for a subscription is very low. Nobody in the survey reads a printed newspaper every day, which surprised me.\n\nIn my opinion, it is important to keep up with the news, because informed people make better decisions. It seems to me that we should check more than one source before we believe a story."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "After the Storm in San Rafael",
+   "intro": "Read the news article and answer.",
+   "paragraphs": [
+    "On Tuesday night, a freak storm hit the town of San Rafael, a community of about 12,000 people in the mountains. According to the local weather service, the storm began at 9:40 p.m. with heavy rain, strong winds and, strangely, hailstones the size of golf balls. By midnight, a flash flood was rushing through the lower part of town.",
+    "Several streets were completely covered with water and dozens of cars were swept away. A small bridge near the market was badly damaged, and power was temporarily disrupted in most neighborhoods. Because of the weather, all flights from the regional airport were canceled, and schools were closed on Wednesday. Fortunately, no one was seriously injured. Thirty-two residents were rescued from their homes by firefighters and emergency workers, and most of them spent the night in the sports center.",
+    "Officials say that the main problem was not the rain itself, but the drainage system. \"The pipes were built forty years ago,\" said the mayor, Elena Ruiz, \"and they were never designed for storms like this.\" An investigation has been opened, and a report is expected next month. In the meantime, the bridge will be repaired, and the damaged roofs will be fixed with money from the state emergency fund.",
+    "The real story, however, was not the damage but the response. By Wednesday morning, more than two hundred volunteers had arrived at the sports center. Students carried water bottles, bakers donated bread, and a local radio station was turned into an emergency information line. \"I didn't know most of my neighbors,\" said Carlos Medina, a retired teacher whose garage was flooded. \"Now I know all of their names.\"",
+    "A recent survey of the town shows how important local news was during the emergency. Almost 70 percent of residents say they received their first alert from the radio or from neighbors, and only about a quarter of them got it from the website of a national newspaper. The majority of people are still waiting for permanent repairs, but about half of the town is already planning a community meeting to discuss a better warning system.",
+    "Local businesses also helped. The owner of a hardware store, Rosa Beltrán, gave away tools and plastic sheets to families whose roofs were damaged. \"Nobody was asked to pay,\" she said. \"We were all affected by the same storm.\" Several hotels in nearby towns offered free rooms to residents whose homes were badly flooded, and a regional newspaper started a fund that has already collected about $8,000.",
+    "\"The thing is,\" Mayor Ruiz added, \"disasters can't be avoided, but their effects can be reduced. Preparation is what makes the difference.\""
+   ],
+   "glossary": [
+    {
+     "en": "freak",
+     "def": "unusual and unexpected; not normal"
+    },
+    {
+     "en": "hailstones",
+     "def": "small balls of ice that fall from clouds during a storm"
+    },
+    {
+     "en": "flash flood",
+     "def": "a sudden, very strong flood, often after heavy rain"
+    },
+    {
+     "en": "swept away",
+     "def": "carried away by the force of water or wind"
+    },
+    {
+     "en": "drainage",
+     "def": "the system of pipes and channels that takes water away from an area"
+    },
+    {
+     "en": "fund",
+     "def": "an amount of money saved or set aside for a particular purpose"
+    },
+    {
+     "en": "donate",
+     "def": "to give money or things to help a person or cause"
+    },
+    {
+     "en": "survey",
+     "def": "a set of questions asked to many people to collect their opinions or information"
+    },
+    {
+     "en": "residents",
+     "def": "people who live in a particular place"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "The storm began at 9:40 a.m.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Began at 9:40 p.m., Tuesday night."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Nobody was seriously injured.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Fortunately, no one was seriously injured."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Why were the flights canceled?",
+     "options": [
+      "Because of the weather",
+      "Because of a strike",
+      "Because of a damaged bridge"
+     ],
+     "answer": 0,
+     "explain": "Because of the weather, all flights were canceled."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "According to officials, what was the main problem?",
+     "options": [
+      "The drainage system",
+      "The strong winds",
+      "Careless campers"
+     ],
+     "answer": 0,
+     "explain": "The pipes were built forty years ago."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Thirty-two residents were rescued by firefighters and ___ workers.",
+     "answers": [
+      "emergency"
+     ],
+     "explain": "…by firefighters and emergency workers."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "How did most people receive their first alert?",
+     "options": [
+      "From the radio or from neighbors",
+      "From a national newspaper",
+      "From the mayor's speech"
+     ],
+     "answer": 0,
+     "explain": "Almost 70 percent got the first alert from radio or neighbors."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "A local radio station was turned into an emergency ___ line.",
+     "answers": [
+      "information"
+     ],
+     "explain": "…an emergency information line."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Trouble on our street",
+   "intro": "Listen to the conversation between two neighbors. You can repeat it.",
+   "lines": [
+    {
+     "who": "Maya",
+     "voice": "airy",
+     "text": "Did you hear about all the trouble on our street last night?"
+    },
+    {
+     "who": "Sam",
+     "voice": "rounded",
+     "text": "No, what happened?"
+    },
+    {
+     "who": "Maya",
+     "voice": "airy",
+     "text": "Guess what? Mr. Torres's car was stolen from the parking lot."
+    },
+    {
+     "who": "Sam",
+     "voice": "rounded",
+     "text": "You're kidding! Was anyone hurt?"
+    },
+    {
+     "who": "Maya",
+     "voice": "airy",
+     "text": "No, nobody was injured, but the police came too late. The thing is, there weren't enough officers on duty at night."
+    },
+    {
+     "who": "Sam",
+     "voice": "rounded",
+     "text": "That's true. And the other thing is, the car alarm was never repaired. Did I tell you? My car was broken into last month."
+    },
+    {
+     "who": "Maya",
+     "voice": "airy",
+     "text": "Seriously? What was taken?"
+    },
+    {
+     "who": "Sam",
+     "voice": "rounded",
+     "text": "Just a bag and some tools. The only thing was, the ignition was damaged when they tried to start it."
+    },
+    {
+     "who": "Maya",
+     "voice": "airy",
+     "text": "That's awful. Was the car found?"
+    },
+    {
+     "who": "Sam",
+     "voice": "rounded",
+     "text": "Yes, it was found two days later by a neighbor. The best thing is, the thieves didn't take the engine!"
+    },
+    {
+     "who": "Maya",
+     "voice": "airy",
+     "text": "Ha! Well, I'm glad it was recovered. Is there anything in the news about it?"
+    },
+    {
+     "who": "Sam",
+     "voice": "rounded",
+     "text": "Yes. A short report was published this morning in the local newspaper. I saw it online."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What happened to Mr. Torres's car?",
+     "options": [
+      "It was stolen",
+      "It was damaged by a storm",
+      "It was found by the police"
+     ],
+     "answer": 0,
+     "explain": "Mr. Torres's car was stolen."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Mr. Torres was injured.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Nobody was injured."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Why did the police come late, according to Maya?",
+     "options": [
+      "There weren't enough officers on duty at night",
+      "They got lost",
+      "Nobody called them"
+     ],
+     "answer": 0,
+     "explain": "The thing is, there weren't enough officers on duty."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "Sam's car was broken into last ___.",
+     "answers": [
+      "month"
+     ],
+     "explain": "My car was broken into last month."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What was damaged when the thieves tried to start Sam's car?",
+     "options": [
+      "The ignition",
+      "The windows",
+      "The alarm"
+     ],
+     "answer": 0,
+     "explain": "The ignition was damaged."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "Who found Sam's car?",
+     "options": [
+      "A neighbor",
+      "The police",
+      "Mr. Torres"
+     ],
+     "answer": 0,
+     "explain": "It was found two days later by a neighbor."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Mr. Torres's car was stolen from the parking lot.",
+     "answers": [
+      "Mr. Torres's car was stolen from the parking lot."
+     ],
+     "explain": "Pasiva en pasado: was stolen."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Nobody was injured, but the police came too late.",
+     "answers": [
+      "Nobody was injured, but the police came too late."
+     ],
+     "explain": "Nobody + was injured; came es activo."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "My car was broken into last month.",
+     "answers": [
+      "My car was broken into last month."
+     ],
+     "explain": "Break into en pasiva: was broken into."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "The ignition was damaged when they tried to start it.",
+     "answers": [
+      "The ignition was damaged when they tried to start it."
+     ],
+     "explain": "Pasiva en pasado: was damaged."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Tell a piece of news (real or invented) about an accident, extreme weather or a robbery using the passive voice.",
+     "questions": [
+      "What happened?",
+      "Where did it happen?",
+      "Who was affected or rescued?",
+      "What was damaged or destroyed?"
+     ],
+     "model": "A flash flood hit the north of the city yesterday. Several streets were covered with water and some cars were swept away. Nobody was seriously injured, and two families were rescued by firefighters. The main road was temporarily closed, but it will be reopened tomorrow.",
+     "checklist": [
+      "was / were + participle",
+      "by + agent",
+      "An adverb between was/were and the participle",
+      "A sentence in the future passive (will be…)"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about how you keep up with the news and compare with your surroundings using statistics.",
+     "questions": [
+      "How do you keep up with the news?",
+      "Where do most of your friends get the news?",
+      "Do you read a national or a local newspaper?",
+      "Is it important to follow current events?"
+     ],
+     "model": "I keep up with the news on my phone. Almost half of my friends get the news from social media, and only two out of ten read a newspaper. The majority of my co-workers watch the news on TV. In my opinion, it's important to follow current events.",
+     "checklist": [
+      "Percentages or fractions with the right verb",
+      "Media vocabulary",
+      "In my opinion, …",
+      "Complete answers"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Tell a friend a piece of news about your neighborhood as if it were a conversation: open with Did you hear…? and add with The thing is… / The other thing is…",
+     "questions": [
+      "Did you hear about what happened in your neighborhood?",
+      "What was stolen or damaged?",
+      "What was the problem?",
+      "What was the best thing about it?"
+     ],
+     "model": "Did you hear about the trouble on my street? Guess what? A neighbor's car was broken into last night. The thing is, nobody heard the alarm. And the other thing is, the police came too late. The best thing was, the car wasn't damaged.",
+     "checklist": [
+      "Did you hear about…? / Guess what?",
+      "The thing is… / The other thing is…",
+      "Passive voice in the past",
+      "Natural intonation when telling news"
+     ]
+    }
+   ],
+   "repeat": [
+    "Did you hear about the accident?",
+    "Guess what? My car was stolen.",
+    "The bridge was badly damaged by the storm.",
+    "No one was seriously injured.",
+    "The thing is, there aren't enough police at night.",
+    "About half of the class is interested in the news."
+   ]
+  }
+ }
+}

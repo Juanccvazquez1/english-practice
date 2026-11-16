@@ -1,0 +1,1703 @@
+{
+ "id": "u-a2-07",
+ "level": "A2",
+ "n": 7,
+ "title": "Stay healthy!",
+ "goals": [
+  "Talk about your exercise and eating routines with the simple present (Does she eat red meat?).",
+  "Say what you are doing these days or this month with the present continuous (I'm studying for an exam).",
+  "Tell when to use the simple present (habit) and the present continuous (temporary).",
+  "Explain what you do when you feel bad, using if and when (When I have a cold, I stay in bed).",
+  "React with surprise and ask follow-up questions (Really? How come?).",
+  "Write correct commas in sentences with if and when."
+ ],
+ "learn": [
+  {
+   "id": "g-present-simple",
+   "kind": "grammar",
+   "title": "Simple present: habits and routines",
+   "html": "<p>Use the <strong>simple present</strong> for habits, routines, and things that are true all the time. With <em>he / she / it</em>, the verb takes <strong>-s</strong> (go → goes, do → does, study → studies, have → has).</p><table><thead><tr><th>Affirmative</th><th>Negative</th><th>Question</th></tr></thead><tbody><tr><td>I walk to work.</td><td>I <strong>don't</strong> walk to work.</td><td><strong>Do</strong> you walk to work?</td></tr><tr><td>She exercises six days a week.</td><td>She <strong>doesn't</strong> exercise on Sundays.</td><td><strong>Does</strong> she exercise every day?</td></tr><tr><td>They eat a balanced diet.</td><td>They <strong>don't</strong> eat red meat.</td><td>How often <strong>do</strong> they go to the gym?</td></tr></tbody></table><ul><li>With <em>doesn't</em> and <em>does</em>, the verb goes back to the base form, with no -s: <em>Does Brian eat red meat?</em></li><li>Frequency words (<em>usually, generally, always, never</em>) go before the verb; <em>once in a while</em>, <em>every other day</em>, and <em>six days a week</em> usually go at the end.</li><li>Short answers: <em>Yes, I do. / No, she doesn't.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "She don't eat meat.",
+     "right": "She doesn't eat meat.",
+     "why": "With she / he / it, the negative is doesn't."
+    },
+    {
+     "wrong": "Does your brother eats fast food?",
+     "right": "Does your brother eat fast food?",
+     "why": "After does, the verb is in the base form, with no -s."
+    },
+    {
+     "wrong": "He go to the gym every day.",
+     "right": "He goes to the gym every day.",
+     "why": "With he / she / it, the verb takes -s (go → goes)."
+    },
+    {
+     "wrong": "I am walk to work.",
+     "right": "I walk to work.",
+     "why": "The simple present doesn't use be + verb."
+    }
+   ]
+  },
+  {
+   "id": "g-present-continuous",
+   "kind": "grammar",
+   "title": "Present continuous: now and these days",
+   "html": "<p>Use the <strong>present continuous</strong> for what is happening <strong>now</strong> or <strong>these days / this month</strong> (something temporary, not a permanent habit). Form: <strong>be (am / is / are) + verb-ing</strong>.</p><table><thead><tr><th>Affirmative</th><th>Negative</th><th>Question</th></tr></thead><tbody><tr><td>I'm studying for an exam this month.</td><td>She <strong>isn't</strong> eating junk food these days.</td><td><strong>Are</strong> you exercising these days?</td></tr><tr><td>He's trying to lose weight.</td><td>We <strong>aren't</strong> going to the gym now.</td><td>What <strong>are</strong> you doing for your stress?</td></tr></tbody></table><p><strong>Comparison:</strong></p><table><thead><tr><th>Simple present (always)</th><th>Present continuous (now / these days)</th></tr></thead><tbody><tr><td>I usually walk to work.</td><td>Today I'm taking the bus.</td></tr><tr><td>He doesn't go to the gym.</td><td>He isn't going to the gym this month.</td></tr></tbody></table><ul><li>Spelling: run → running, swim → swimming, make → making, lie → lying.</li><li>Typical signal words: <em>now, right now, today, these days, this week / month</em>.</li><li>Stative verbs (<em>need, want, like, know</em>, and <em>have</em> meaning to own) almost never take -ing: <em>I need more sleep.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "I studying for an exam this month.",
+     "right": "I'm studying for an exam this month.",
+     "why": "The present continuous needs be: I'm studying."
+    },
+    {
+     "wrong": "She is go to the gym these days.",
+     "right": "She is going to the gym these days.",
+     "why": "Be + verb-ing."
+    },
+    {
+     "wrong": "Do you exercising these days?",
+     "right": "Are you exercising these days?",
+     "why": "The question form in the continuous uses be, not do."
+    },
+    {
+     "wrong": "I'm needing more sleep.",
+     "right": "I need more sleep.",
+     "why": "Need is a stative verb: it is used in the simple present."
+    }
+   ]
+  },
+  {
+   "id": "g-if-when",
+   "kind": "grammar",
+   "title": "if and when: what you do and when",
+   "html": "<p><em>If</em> and <em>when</em> connect two ideas: <strong>when something happens + what you do</strong>. In these habit sentences, use the <strong>simple present in both parts</strong> (no <em>will</em>).</p><table><thead><tr><th>With when</th><th>With if</th></tr></thead><tbody><tr><td>I take medicine <strong>when</strong> I have a cold.</td><td>I take medicine <strong>if</strong> I have a cold.</td></tr><tr><td><strong>When</strong> I have a cold, I drink hot tea.</td><td><strong>If</strong> I get a bad fever, I go to the doctor.</td></tr></tbody></table><ul><li><strong>when</strong> = usual events, “every time”: <em>What do you take when you have a cold?</em></li><li><strong>if</strong> = rare or less certain events: <em>What do you do if you get the flu?</em></li><li>If the if / when clause is at the <strong>start</strong>, put a <strong>comma</strong> after it: <em>If I have a cold, I stay in bed.</em></li><li>If it is at the <strong>end</strong>, <strong>no comma</strong>: <em>I stay in bed if I have a cold.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "If I will get a cold, I drink tea.",
+     "right": "If I get a cold, I drink tea.",
+     "why": "After if / when, use the simple present, not will."
+    },
+    {
+     "wrong": "I stay in bed, when I have a fever.",
+     "right": "I stay in bed when I have a fever.",
+     "why": "When the if / when clause comes at the end, no comma is written."
+    },
+    {
+     "wrong": "When I have a headache I take an aspirin.",
+     "right": "When I have a headache, I take an aspirin.",
+     "why": "When the when clause comes at the start, a comma is written."
+    },
+    {
+     "wrong": "When I have a headache, I am taking an aspirin.",
+     "right": "When I have a headache, I take an aspirin.",
+     "why": "For a habit, use the simple present in both parts."
+    }
+   ]
+  },
+  {
+   "id": "v-habits",
+   "kind": "vocab",
+   "title": "Healthy and unhealthy habits",
+   "words": [
+    {
+     "id": "w-balanced-diet",
+     "en": "balanced diet",
+     "es": "dieta balanceada",
+     "example": "A balanced diet has fruit, vegetables and protein.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-junk-food",
+     "en": "junk food",
+     "es": "comida chatarra",
+     "example": "I try not to eat junk food.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fast-food",
+     "en": "fast food",
+     "es": "comida rápida",
+     "example": "Fast food is cheap, but it isn't very healthy.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-red-meat",
+     "en": "eat red meat",
+     "es": "comer carne roja",
+     "example": "My father doesn't eat red meat.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-lose-weight",
+     "en": "lose weight",
+     "es": "bajar de peso",
+     "example": "She is trying to lose weight this month.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-get-in-shape",
+     "en": "get in shape",
+     "es": "ponerse en forma",
+     "example": "I want to get in shape before summer.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-stay-in-shape",
+     "en": "stay in shape",
+     "es": "mantenerse en forma",
+     "example": "How do you stay in shape?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-go-to-gym",
+     "en": "go to the gym",
+     "es": "ir al gimnasio",
+     "example": "He goes to the gym every other day.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-running",
+     "en": "go running",
+     "es": "salir a correr",
+     "example": "I go running before work.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-feel-stressed",
+     "en": "feel stressed",
+     "es": "sentirse estresado/a",
+     "example": "I feel stressed when I have a lot of work.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-cope-with",
+     "en": "cope with stress",
+     "es": "sobrellevar el estrés",
+     "example": "Meditation helps her cope with stress.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-meditation",
+     "en": "meditation",
+     "es": "meditación",
+     "example": "She does ten minutes of meditation every morning.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-take-breaks",
+     "en": "take regular breaks",
+     "es": "tomar descansos con regularidad",
+     "example": "You should take regular breaks when you study.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-long-hours",
+     "en": "work long hours",
+     "es": "trabajar muchas horas",
+     "example": "My uncle works long hours at the hospital.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-once-in-a-while",
+     "en": "once in a while",
+     "es": "de vez en cuando",
+     "example": "I eat fast food once in a while.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-every-other-day",
+     "en": "every other day",
+     "es": "un día sí y otro no",
+     "example": "We go swimming every other day.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-six-days-a-week",
+     "en": "six days a week",
+     "es": "seis días a la semana",
+     "example": "She exercises six days a week.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-ailments",
+   "kind": "vocab",
+   "title": "Aches, pains and remedies",
+   "words": [
+    {
+     "id": "w-cough",
+     "en": "cough",
+     "es": "toser / tos",
+     "example": "I cough a lot at night."
+    },
+    {
+     "id": "w-sneeze",
+     "en": "sneeze",
+     "es": "estornudar",
+     "example": "I sneeze when I have allergies."
+    },
+    {
+     "id": "w-have-cold",
+     "en": "have a cold",
+     "es": "tener un resfriado",
+     "example": "I have a terrible cold.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-have-flu",
+     "en": "have the flu",
+     "es": "tener gripa",
+     "example": "He has the flu, so he's in bed.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-headache",
+     "en": "have a headache",
+     "es": "tener dolor de cabeza",
+     "example": "I get a headache when I read for hours.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-sore-throat",
+     "en": "have a sore throat",
+     "es": "tener dolor de garganta",
+     "example": "She has a sore throat and a bad cough.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-stomachache",
+     "en": "have a stomachache",
+     "es": "tener dolor de estómago",
+     "example": "I have a stomachache because I ate too much.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-toothache",
+     "en": "have a toothache",
+     "es": "tener dolor de muela",
+     "example": "He has a toothache, so he's going to the dentist.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-fever",
+     "en": "have a fever",
+     "es": "tener fiebre",
+     "example": "The child has a high fever.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-allergies",
+     "en": "have allergies",
+     "es": "tener alergias",
+     "example": "My sister has allergies in spring.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-feel-run-down",
+     "en": "feel run down",
+     "es": "sentirse agotado/a, sin energía",
+     "example": "I feel run down after a long week.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-feel-awful",
+     "en": "feel awful",
+     "es": "sentirse fatal",
+     "example": "I feel awful today. I think I'm sick.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-take-medicine",
+     "en": "take medicine",
+     "es": "tomar medicina",
+     "example": "I take medicine when I have a fever.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-gargle",
+     "en": "gargle salt water",
+     "es": "hacer gárgaras con agua con sal",
+     "example": "I gargle salt water when my throat hurts.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-cough-drop",
+     "en": "suck on a cough drop",
+     "es": "chupar una pastilla para la tos",
+     "example": "She sucks on a cough drop in class.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-stay-in-bed",
+     "en": "stay in bed",
+     "es": "quedarse en cama",
+     "example": "When I have the flu, I stay in bed.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-sleep",
+   "kind": "vocab",
+   "title": "Sleep and dreams",
+   "words": [
+    {
+     "id": "w-alarm-clock",
+     "en": "alarm clock",
+     "es": "despertador",
+     "example": "My alarm clock rings at 6:30.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-fall-asleep",
+     "en": "fall asleep",
+     "es": "quedarse dormido/a",
+     "example": "I fall asleep quickly when I'm tired.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-wake-up",
+     "en": "wake up",
+     "es": "despertarse",
+     "example": "I wake up at seven on weekdays.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-take-a-nap",
+     "en": "take a nap",
+     "es": "tomar una siesta",
+     "example": "He takes a nap after lunch.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-snore",
+     "en": "snore",
+     "es": "roncar",
+     "example": "My husband snores every night."
+    },
+    {
+     "id": "w-dream",
+     "en": "dream",
+     "es": "sueño (al dormir); soñar",
+     "example": "I have a strange dream every week.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-nightmare",
+     "en": "nightmare",
+     "es": "pesadilla",
+     "example": "I had a nightmare last night.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-talk-in-sleep",
+     "en": "talk in your sleep",
+     "es": "hablar dormido/a",
+     "example": "My sister talks in her sleep.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-eye-mask",
+     "en": "eye mask",
+     "es": "antifaz para dormir",
+     "example": "I use an eye mask because I sleep with the light on.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-stay-up-late",
+     "en": "stay up late",
+     "es": "desvelarse, acostarse tarde",
+     "example": "I stay up late on Saturdays.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-surprise",
+   "kind": "expressions",
+   "title": "Showing surprise and asking for more information",
+   "html": "<p>To encourage the other person to keep talking, <strong>react</strong> with an expression of surprise and then ask a <strong>follow-up question</strong>.</p><ul><li><strong>Really? / Oh! / Oh, wow! / Wow!</strong> — normal surprise; these work with almost anyone.</li><li><strong>You're kidding! / No way! / Are you serious? / Oh, my gosh!</strong> — strong surprise; better with friends and people you know.</li><li><strong>How come? / Like what? / What's it about? / What do you do?</strong> — follow-up questions.</li><li><strong>That's too bad. / Oh, no!</strong> — when the news is bad (don't react with a joke or a happy surprise).</li></ul><table><thead><tr><th>A says…</th><th>B responds…</th></tr></thead><tbody><tr><td>I work out twelve hours a week.</td><td>You're kidding! What do you do?</td></tr><tr><td>I don't like to exercise.</td><td>Oh, really? How come?</td></tr><tr><td>I have a terrible toothache.</td><td>That's too bad. Do you have a dentist's appointment?</td></tr></tbody></table><p>With people you don't know well, use <em>Oh!</em> or <em>Really?</em>; avoid very strong surprise.</p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Simple present",
+   "instructions": "Complete, choose, or correct.",
+   "topic": "g-present-simple",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "My brother ___ to the gym every other day. (go)",
+     "answers": [
+      "goes"
+     ],
+     "explain": "He → go + -es: goes."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Brian ___ eat junk food. He's very careful with his diet.",
+     "answers": [
+      "doesn't",
+      "does not"
+     ],
+     "explain": "With Brian (he), the negative is doesn't."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "___ you usually walk to work?",
+     "answers": [
+      "Do"
+     ],
+     "explain": "Question with you: Do."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "___ your sister exercise on weekends?",
+     "answers": [
+      "Does"
+     ],
+     "explain": "Question with your sister (she): Does."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "How ___ Paula stay in shape?",
+     "answers": [
+      "does"
+     ],
+     "explain": "Wh- question: How + does + subject + base verb."
+    },
+    {
+     "id": "A6",
+     "type": "choice",
+     "prompt": "My parents ___ every morning.",
+     "options": [
+      "jogs",
+      "jog",
+      "jogging"
+     ],
+     "answer": 1,
+     "explain": "With my parents (they), there is no -s: jog."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "She don't drink coffee.",
+     "answers": [
+      "She doesn't drink coffee.",
+      "She does not drink coffee."
+     ],
+     "explain": "With she, use doesn't."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "often",
+      "How",
+      "you",
+      "do",
+      "go",
+      "to",
+      "the",
+      "gym"
+     ],
+     "answers": [
+      "How often do you go to the gym?"
+     ],
+     "explain": "Wh- + do + subject + base verb."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Present continuous",
+   "instructions": "Complete, choose, or correct.",
+   "topic": "g-present-continuous",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "Right now I ___ for an English exam. (study)",
+     "answers": [
+      "'m studying",
+      "am studying"
+     ],
+     "explain": "Right now: am + verb-ing."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "Carlos ___ trying to lose weight this month.",
+     "answers": [
+      "is",
+      "'s"
+     ],
+     "explain": "This month (temporary): is + verb-ing."
+    },
+    {
+     "id": "B3",
+     "type": "gap",
+     "prompt": "We ___ taking a yoga class these days.",
+     "answers": [
+      "are",
+      "'re"
+     ],
+     "explain": "These days: are + verb-ing."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "___ you exercising these days?",
+     "answers": [
+      "Are"
+     ],
+     "explain": "Continuous question: Are + subject + verb-ing."
+    },
+    {
+     "id": "B5",
+     "type": "gap",
+     "prompt": "She isn't ___ junk food this month. (eat)",
+     "answers": [
+      "eating"
+     ],
+     "explain": "Is not + verb-ing."
+    },
+    {
+     "id": "B6",
+     "type": "choice",
+     "prompt": "Usually I walk to work, but today I ___ the bus.",
+     "options": [
+      "take",
+      "am taking",
+      "taking"
+     ],
+     "answer": 1,
+     "explain": "Today is temporary: am taking."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "I studying for my exam this month.",
+     "answers": [
+      "I'm studying for my exam this month.",
+      "I am studying for my exam this month."
+     ],
+     "explain": "Missing be: I'm studying."
+    },
+    {
+     "id": "B8",
+     "type": "choice",
+     "prompt": "Look! The children ___ in the park.",
+     "options": [
+      "play",
+      "are playing",
+      "plays"
+     ],
+     "answer": 1,
+     "explain": "Look! (right now): are playing."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "if and when",
+   "instructions": "Complete, choose, or correct.",
+   "topic": "g-if-when",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "___ I have a headache, I take an aspirin.",
+     "answers": [
+      "If",
+      "When"
+     ],
+     "explain": "Habit: when or if are both possible."
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "___ I get a really bad fever, I go to the doctor. (this almost never happens)",
+     "options": [
+      "When",
+      "If"
+     ],
+     "answer": 1,
+     "explain": "Rare event: if."
+    },
+    {
+     "id": "C3",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "I",
+      "stay",
+      "in",
+      "bed",
+      "when",
+      "I",
+      "have",
+      "a",
+      "fever"
+     ],
+     "answers": [
+      "I stay in bed when I have a fever.",
+      "When I have a fever, I stay in bed."
+     ],
+     "explain": "Simple present in both parts."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "If I have a toothache, I go to the dentist.",
+      "If I will have a toothache, I go to the dentist.",
+      "If I having a toothache, I go to the dentist."
+     ],
+     "answer": 0,
+     "explain": "Simple present in both parts; with if at the start, use a comma."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "I stay home ___ I have the flu. (this happens rarely)",
+     "answers": [
+      "if"
+     ],
+     "explain": "Rare event: if. With if at the end, no comma."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "If I will get a cold, I drink tea.",
+     "answers": [
+      "If I get a cold, I drink tea."
+     ],
+     "explain": "After if, don't use will."
+    },
+    {
+     "id": "C7",
+     "type": "gap",
+     "prompt": "What do you do ___ you have a sore throat?",
+     "answers": [
+      "when",
+      "if"
+     ],
+     "explain": "Habit question: when or if."
+    },
+    {
+     "id": "C8",
+     "type": "fix",
+     "prompt": "When Peter has a cough, he is taking medicine.",
+     "answers": [
+      "When Peter has a cough, he takes medicine."
+     ],
+     "explain": "For a habit: simple present."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Healthy habits",
+   "instructions": "Choose or complete with habit vocabulary.",
+   "topic": "v-habits",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "Eating a ___ diet means eating many different healthy foods.",
+     "answers": [
+      "balanced"
+     ],
+     "explain": "Balanced diet = a diet with a mix of healthy foods."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "Burgers, fries and pizza are examples of ___ food.",
+     "options": [
+      "junk",
+      "healthy",
+      "dry"
+     ],
+     "answer": 0,
+     "explain": "Junk food = food that is not healthy."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "I want to lose weight, so I go to the ___ three times a week.",
+     "answers": [
+      "gym"
+     ],
+     "explain": "Go to the gym."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "My uncle works long ___: from 7 a.m. to 9 p.m.",
+     "answers": [
+      "hours"
+     ],
+     "explain": "Work long hours."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "I go running every other day. That means ___.",
+     "options": [
+      "every day",
+      "one day yes, one day no",
+      "never"
+     ],
+     "answer": 1,
+     "explain": "Every other day = one day yes, one day no."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "I do ten minutes of ___ every morning to cope with stress.",
+     "options": [
+      "meditation",
+      "junk food",
+      "an alarm clock"
+     ],
+     "answer": 0,
+     "explain": "Meditation helps you manage stress."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Aches and remedies",
+   "instructions": "Complete with health vocabulary.",
+   "topic": "v-ailments",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "She has a ___ throat, so it hurts when she swallows.",
+     "answers": [
+      "sore"
+     ],
+     "explain": "Sore throat = pain in the throat."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "He has a high ___: his temperature is 39 degrees.",
+     "answers": [
+      "fever"
+     ],
+     "explain": "Have a fever = to have a high body temperature."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "My tooth really hurts. I have a ___.",
+     "options": [
+      "toothache",
+      "headache",
+      "stomachache"
+     ],
+     "answer": 0,
+     "explain": "Toothache = pain in a tooth."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "When I have a sore throat, I suck on a cough ___.",
+     "answers": [
+      "drop"
+     ],
+     "explain": "Cough drop = a small sweet medicine for a cough."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "I sneeze a lot in spring. I think I have ___.",
+     "answers": [
+      "allergies",
+      "allergy",
+      "an allergy"
+     ],
+     "explain": "Allergies = a bad reaction to things like pollen."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "I feel awful. I think I need to ___.",
+     "options": [
+      "stay in bed",
+      "go running",
+      "eat junk food"
+     ],
+     "answer": 0,
+     "explain": "If you feel bad, you stay in bed."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Showing surprise",
+   "instructions": "Choose the response that shows interest or the right reaction.",
+   "topic": "e-surprise",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "A: I work out twelve hours a week. B: ___",
+     "options": [
+      "You're kidding! What do you do?",
+      "That's nice.",
+      "OK."
+     ],
+     "answer": 0,
+     "explain": "Surprise + follow-up question."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "A: I don't like to exercise. B: ___",
+     "options": [
+      "Oh, really? How come?",
+      "That's too bad.",
+      "See you."
+     ],
+     "answer": 0,
+     "explain": "Really? + How come? encourages the speaker to keep talking."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "A: I never sleep more than four hours. B: ___",
+     "options": [
+      "Good.",
+      "Are you serious? How do you do it?",
+      "I'm sleepy."
+     ],
+     "answer": 1,
+     "explain": "Are you serious? shows surprise."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "A: I have a terrible toothache. B: ___",
+     "options": [
+      "Really? That's funny!",
+      "That's too bad. Do you have a dentist's appointment?",
+      "No way!"
+     ],
+     "answer": 1,
+     "explain": "It's bad news: That's too bad."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "A: I talk in my sleep. B: ___",
+     "options": [
+      "Oh, wow! What do you say?",
+      "I can't.",
+      "Yes, I do."
+     ],
+     "answer": 0,
+     "explain": "Surprise + follow-up question."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "A: My dog snores every night! B: ___?! Does it wake you up?",
+     "answers": [
+      "Really",
+      "Seriously",
+      "No way",
+      "You're kidding",
+      "Are you serious",
+      "Wow"
+     ],
+     "explain": "A surprise expression at the start."
+    }
+   ]
+  },
+  {
+   "id": "G",
+   "title": "Sleep",
+   "instructions": "Complete with sleep vocabulary.",
+   "topic": "v-sleep",
+   "items": [
+    {
+     "id": "G1",
+     "type": "gap",
+     "prompt": "I set my ___ clock for 6:30 so I wake up on time.",
+     "answers": [
+      "alarm"
+     ],
+     "explain": "Alarm clock = a clock that wakes you up."
+    },
+    {
+     "id": "G2",
+     "type": "gap",
+     "prompt": "He is very tired, so he usually takes a ___ after lunch.",
+     "answers": [
+      "nap"
+     ],
+     "explain": "Take a nap = to sleep for a short time during the day."
+    },
+    {
+     "id": "G3",
+     "type": "choice",
+     "prompt": "My husband ___ loudly at night, and I can't sleep.",
+     "options": [
+      "snores",
+      "dreams",
+      "wakes"
+     ],
+     "answer": 0,
+     "explain": "Snore = to make noise while sleeping."
+    },
+    {
+     "id": "G4",
+     "type": "gap",
+     "prompt": "I had a bad ___ last night: I dreamed I was late for an exam.",
+     "answers": [
+      "nightmare"
+     ],
+     "explain": "Nightmare = a bad dream."
+    },
+    {
+     "id": "G5",
+     "type": "choice",
+     "prompt": "I use an eye ___ because I sleep with the light on.",
+     "options": [
+      "mask",
+      "clock",
+      "drop"
+     ],
+     "answer": 0,
+     "explain": "Eye mask = a cover for the eyes that blocks light."
+    },
+    {
+     "id": "G6",
+     "type": "gap",
+     "prompt": "I can't fall ___ when I drink coffee at night.",
+     "answers": [
+      "asleep"
+     ],
+     "explain": "Fall asleep = to start sleeping."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "does",
+      "How",
+      "Brian",
+      "stay",
+      "in",
+      "shape"
+     ],
+     "answers": [
+      "How does Brian stay in shape?"
+     ],
+     "explain": "Wh- + does + subject + base verb."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "I'm",
+      "studying",
+      "for",
+      "an",
+      "exam",
+      "this",
+      "month"
+     ],
+     "answers": [
+      "I'm studying for an exam this month."
+     ],
+     "explain": "Present continuous with this month."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "If",
+      "I",
+      "get",
+      "a",
+      "cold",
+      "I",
+      "drink",
+      "hot",
+      "tea"
+     ],
+     "answers": [
+      "If I get a cold, I drink hot tea."
+     ],
+     "explain": "If at the start: simple present in both parts."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "Does",
+      "your",
+      "sister",
+      "eat",
+      "red",
+      "meat"
+     ],
+     "answers": [
+      "Does your sister eat red meat?"
+     ],
+     "explain": "Does + subject + base verb."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "She",
+      "isn't",
+      "eating",
+      "junk",
+      "food",
+      "these",
+      "days"
+     ],
+     "answers": [
+      "She isn't eating junk food these days."
+     ],
+     "explain": "Negative continuous: isn't + verb-ing."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to make a sentence or question.",
+     "words": [
+      "I",
+      "go",
+      "to",
+      "the",
+      "gym",
+      "six",
+      "days",
+      "a",
+      "week"
+     ],
+     "answers": [
+      "I go to the gym six days a week."
+     ],
+     "explain": "Frequency at the end: six days a week."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Mi hermano no come carne roja.",
+     "answers": [
+      "My brother doesn't eat red meat.",
+      "My brother does not eat red meat."
+     ],
+     "explain": "With he: doesn't + base verb."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿Con qué frecuencia vas al gimnasio?",
+     "answers": [
+      "How often do you go to the gym?"
+     ],
+     "explain": "How often + do + subject + base verb."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Estoy tratando de bajar de peso este mes.",
+     "answers": [
+      "I'm trying to lose weight this month.",
+      "I am trying to lose weight this month."
+     ],
+     "explain": "This month: present continuous."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Cuando me duele la cabeza, tomo medicina.",
+     "answers": [
+      "When I have a headache, I take medicine.",
+      "When I get a headache, I take medicine.",
+      "If I have a headache, I take medicine.",
+      "If I get a headache, I take medicine.",
+      "I take medicine when I have a headache.",
+      "I take medicine when I get a headache.",
+      "I take medicine if I have a headache.",
+      "I take medicine if I get a headache."
+     ],
+     "explain": "When / if + simple present + comma if it comes first."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Mi esposo ronca todas las noches.",
+     "answers": [
+      "My husband snores every night."
+     ],
+     "explain": "With he: snores."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "¿Tu hermana está haciendo ejercicio estos días?",
+     "answers": [
+      "Is your sister exercising these days?",
+      "Is your sister working out these days?",
+      "Is your sister doing exercise these days?"
+     ],
+     "explain": "These days: present continuous."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes review of earlier units).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "She ___ to the gym on Mondays and Thursdays.",
+     "options": [
+      "go",
+      "goes",
+      "is going"
+     ],
+     "answer": 1,
+     "explain": "Routine with she: goes."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Look at Tom! He ___ in the park right now. (run)",
+     "answers": [
+      "is running",
+      "'s running"
+     ],
+     "explain": "Right now: is + verb-ing (run → running)."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "Does your brother eats red meat?",
+     "answers": [
+      "Does your brother eat red meat?"
+     ],
+     "explain": "After does, base verb."
+    },
+    {
+     "id": "M4",
+     "type": "gap",
+     "prompt": "I take medicine ___ I have a fever.",
+     "answers": [
+      "when",
+      "if"
+     ],
+     "explain": "Habit: when or if."
+    },
+    {
+     "id": "M5",
+     "type": "translate",
+     "prompt": "Estoy muy estresado este mes.",
+     "answers": [
+      "I'm very stressed this month.",
+      "I'm really stressed this month.",
+      "I am very stressed this month.",
+      "I am really stressed this month."
+     ],
+     "explain": "This month: be + adjective."
+    },
+    {
+     "id": "M6",
+     "type": "choice",
+     "prompt": "A: I have a stomachache. B: ___",
+     "options": [
+      "Oh, that's too bad.",
+      "You're kidding!",
+      "No way!"
+     ],
+     "answer": 0,
+     "explain": "For bad news: That's too bad."
+    },
+    {
+     "id": "M7",
+     "type": "choice",
+     "prompt": "A: My parents go swimming every other day. B: ___",
+     "options": [
+      "Wow! That's a lot of exercise.",
+      "I'm sorry.",
+      "Me too."
+     ],
+     "answer": 0,
+     "explain": "Wow shows positive surprise."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "When I feel stressed, I ___ a short break. (take)",
+     "answers": [
+      "take"
+     ],
+     "explain": "Habit with I: simple present."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "Yesterday I ___ too much junk food, so I felt sick. (eat) (past simple review)",
+     "answers": [
+      "ate"
+     ],
+     "explain": "Eat is irregular: ate."
+    },
+    {
+     "id": "M10",
+     "type": "choice",
+     "prompt": "I don't eat ___ sugar. (uncountable nouns review)",
+     "options": [
+      "many",
+      "much",
+      "a few"
+     ],
+     "answer": 1,
+     "explain": "Sugar is uncountable: much."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write 60 to 100 words about your healthy habits and those of someone in your family. Include what you always do (simple present), what you are doing these days (present continuous), and one habit you want to change. Start with: I usually ... but these days I'm ...",
+   "targets": [
+    "simple present",
+    "present continuous",
+    "frequency (once in a while, every other day)",
+    "vocabulary for habits"
+   ],
+   "checklist": [
+    "60–100 words",
+    "Simple present with -s for he/she",
+    "One thing you are doing these days with be + verb-ing",
+    "One frequency expression (six days a week, once in a while)",
+    "Negative with don't / doesn't + base verb"
+   ],
+   "model": "I usually walk to work, but these days I'm riding my bike because it is good exercise. I exercise six days a week. I don't eat junk food. My mother takes care of her health too. She walks every morning, and she drinks a lot of water. She doesn't drink soda. These days she's learning yoga with her friends. I eat fast food once in a while, but I want to change one habit. I don't sleep enough, and I go to bed very late."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write 60 to 100 words with advice for someone who feels bad (a cold, a headache, or stress). Use if and when. Start with: When I have a cold, I ... If you feel stressed, you can ...",
+   "targets": [
+    "if / when",
+    "comma after the first clause",
+    "vocabulary for health problems",
+    "advice"
+   ],
+   "checklist": [
+    "60–100 words",
+    "At least two sentences with when and two with if",
+    "A comma when if / when comes first, and no comma when it comes last",
+    "Simple present in both parts (no will)",
+    "Health vocabulary (headache, take medicine, stay in bed…)"
+   ],
+   "model": "When I have a cold, I stay in bed and drink a lot of hot tea. If you feel stressed, you can take a short walk. When you have a headache, you should drink some water. If your headache is strong, take some medicine. You can also rest in a dark room if the light hurts your eyes. When you don't sleep well, you feel tired, so go to bed early. If you have a fever, call a doctor. I always feel better when I rest."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "A year of small changes",
+   "intro": "Read the text about Valeria and answer.",
+   "paragraphs": [
+    "Last January, my friend Valeria decided to change her habits. She works long hours in an office in Guadalajara, and she was always tired. “I eat fast food almost every day, and I don't sleep enough,” she told me. “Once in a while is OK, but every day is too much.”",
+    "Now she is trying to stay in shape. She walks to the office three days a week, and she goes to the gym every other day. On Saturdays she takes a yoga class with her sister. These days she is also learning to cook, so she isn't buying so much junk food. Her favorite new dish is chicken with vegetables.",
+    "Valeria has a simple plan for hard days. When she feels stressed, she takes a short break and listens to music for ten minutes. If she gets a headache, she drinks water and rests before she takes any medicine. And if she has trouble sleeping, she doesn't use her phone in bed. She puts it in the kitchen and reads a book.",
+    "Is her life perfect now? “No way!” she laughs. “This month I'm studying for an important exam, so I'm sleeping only six hours. But I'm not eating junk food, and that's a good start.”"
+   ],
+   "glossary": [
+    {
+     "en": "habit",
+     "def": "something you do regularly"
+    },
+    {
+     "en": "once in a while",
+     "def": "sometimes, not often"
+    },
+    {
+     "en": "every other day",
+     "def": "one day yes, one day no"
+    },
+    {
+     "en": "stay in shape",
+     "def": "keep your body healthy and fit"
+    },
+    {
+     "en": "break",
+     "def": "a short rest from work or study"
+    },
+    {
+     "en": "trouble sleeping",
+     "def": "difficulty falling or staying asleep"
+    },
+    {
+     "en": "dish",
+     "def": "a type of food prepared to be eaten"
+    },
+    {
+     "en": "rest",
+     "def": "to stop working or moving for a while"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Valeria eats fast food every day now.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Now she tries not to eat junk food."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "How often does Valeria go to the gym?",
+     "options": [
+      "Every day",
+      "Every other day",
+      "Once in a while"
+     ],
+     "answer": 1,
+     "explain": "She goes to the gym every other day."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What does Valeria do on Saturdays?",
+     "options": [
+      "She goes running",
+      "She takes a yoga class with her sister",
+      "She cooks for her family"
+     ],
+     "answer": 1,
+     "explain": "On Saturdays she takes a yoga class with her sister."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "These days Valeria is learning to ___.",
+     "answers": [
+      "cook"
+     ],
+     "explain": "She is learning to cook."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "When she feels stressed, she listens to ___ for ten minutes.",
+     "answers": [
+      "music"
+     ],
+     "explain": "Takes a short break and listens to music."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "Valeria is sleeping eight hours this month.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "She says she sleeps only six hours."
+    },
+    {
+     "id": "R7",
+     "type": "translate",
+     "prompt": "Ella camina a la oficina tres días a la semana.",
+     "answers": [
+      "She walks to the office three days a week.",
+      "She walks to work three days a week."
+     ],
+     "explain": "With she: walks."
+    }
+   ]
+  },
+  "listening": {
+   "title": "A cold and a karate class",
+   "intro": "Listen to the conversation between two coworkers. You can repeat it.",
+   "lines": [
+    {
+     "who": "Mark",
+     "voice": "buttery",
+     "text": "Hi, Elena. You look tired. Are you OK?"
+    },
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "Hi, Mark. Not really. I have a terrible cold, and I'm not sleeping well these days."
+    },
+    {
+     "who": "Mark",
+     "voice": "buttery",
+     "text": "Oh, that's too bad. What do you do when you have a cold?"
+    },
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "I drink hot tea with honey and I stay in bed. If I feel really awful, I take medicine."
+    },
+    {
+     "who": "Mark",
+     "voice": "buttery",
+     "text": "Really? I never take medicine. I gargle salt water when I have a sore throat."
+    },
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "Salt water? You're kidding!"
+    },
+    {
+     "who": "Mark",
+     "voice": "buttery",
+     "text": "No, it works! And I exercise six days a week, so I don't get sick very often."
+    },
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "Six days a week? Wow! What do you do?"
+    },
+    {
+     "who": "Mark",
+     "voice": "buttery",
+     "text": "I go running in the morning, and I go to the gym on Saturdays. This month I'm also taking a karate class."
+    },
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "Are you serious? Karate? I only walk to the bus stop!"
+    },
+    {
+     "who": "Mark",
+     "voice": "buttery",
+     "text": "Come with me on Saturday. Do you want to try?"
+    },
+    {
+     "who": "Elena",
+     "voice": "airy",
+     "text": "Maybe when I feel better. Thanks, Mark."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What is wrong with Elena?",
+     "options": [
+      "She has a toothache",
+      "She has a terrible cold",
+      "She has allergies"
+     ],
+     "answer": 1,
+     "explain": "I have a terrible cold."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What does Elena do when she has a cold?",
+     "options": [
+      "She drinks hot tea with honey and stays in bed",
+      "She goes running",
+      "She gargles salt water"
+     ],
+     "answer": 0,
+     "explain": "Tea with honey and stays in bed."
+    },
+    {
+     "id": "L3",
+     "type": "gap",
+     "prompt": "Mark gargles ___ water when he has a sore throat.",
+     "answers": [
+      "salt"
+     ],
+     "explain": "I gargle salt water."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "How often does Mark exercise?",
+     "options": [
+      "Once in a while",
+      "Six days a week",
+      "Every other day"
+     ],
+     "answer": 1,
+     "explain": "I exercise six days a week."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "This month Mark is taking a yoga class.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "He is taking a karate class."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "When does Elena want to try karate?",
+     "options": [
+      "On Saturday",
+      "When she feels better",
+      "Never"
+     ],
+     "answer": 1,
+     "explain": "Maybe when I feel better."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "I drink hot tea with honey when I have a cold.",
+     "answers": [
+      "I drink hot tea with honey when I have a cold."
+     ],
+     "explain": "When + simple present."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "I exercise six days a week, so I don't get sick very often.",
+     "answers": [
+      "I exercise six days a week, so I don't get sick very often."
+     ],
+     "explain": "Frequency at the end; don't + base verb."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "This month I'm taking a karate class.",
+     "answers": [
+      "This month I'm taking a karate class."
+     ],
+     "explain": "This month: present continuous."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "What do you do when you have a sore throat?",
+     "answers": [
+      "What do you do when you have a sore throat?"
+     ],
+     "explain": "Wh- + do + subject + base verb."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about your health routine.",
+     "questions": [
+      "How often do you exercise?",
+      "What do you eat on a normal day?",
+      "Do you sleep enough?",
+      "What do you do to cope with stress?"
+     ],
+     "model": "I exercise three days a week. I walk to work and I go to the gym on Saturdays. I usually eat a balanced diet, but I eat fast food once in a while. I don't sleep enough because I work long hours. When I feel stressed, I listen to music.",
+     "checklist": [
+      "Simple present with I (no -s)",
+      "A frequency expression (three days a week, once in a while)",
+      "A negative with don't",
+      "A sentence with when"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about what you are doing these days and what someone in your family does.",
+     "questions": [
+      "What are you doing to stay healthy these days?",
+      "Are you studying or working a lot this month?",
+      "What is your brother or sister doing these days?"
+     ],
+     "model": "These days I'm trying to lose weight. I'm walking every morning, and I'm not eating junk food. This month I'm working a lot, so I'm sleeping only six hours. My sister is taking a yoga class.",
+     "checklist": [
+      "be + verb + -ing",
+      "A negative with isn't / aren't / I'm not",
+      "These days / this month",
+      "Spelling of -ing forms (run → running)"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Explain what you do when you feel bad, and react with surprise to what another person says.",
+     "questions": [
+      "What do you do when you have a cold?",
+      "What do you do if you get a really bad headache?",
+      "Do you ever take a nap?"
+     ],
+     "model": "When I have a cold, I drink hot tea and I stay in bed. If I get a really bad headache, I take medicine. I take a nap on Sundays. Really? You don't take naps? How come?",
+     "checklist": [
+      "when / if + simple present",
+      "A comma at the start of the sentence",
+      "A surprise expression (Really? / You're kidding!)",
+      "A follow-up question (How come?)"
+     ]
+    }
+   ],
+   "repeat": [
+    "She exercises six days a week.",
+    "I don't eat red meat.",
+    "Are you exercising these days?",
+    "When I have a cold, I stay in bed.",
+    "You're kidding! What do you do?",
+    "My husband snores every night."
+   ]
+  }
+ }
+}

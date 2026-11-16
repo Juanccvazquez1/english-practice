@@ -1,0 +1,1838 @@
+{
+ "id": "u-c2-04",
+ "level": "C2",
+ "n": 4,
+ "title": "Making your case",
+ "goals": [
+  "Concede gracefully and then push back, using advanced concessives (Much as…, Try as they might, Be that as it may).",
+  "Handle albeit, notwithstanding, however + adjective and other concessive resources with their syntax and register.",
+  "Use the mandative subjunctive and fixed formulas (It is essential that he be…, Suffice it to say, Heaven forbid).",
+  "Build rhetorical parallelism: tricolon, anaphora, antithesis and correlatives without formal errors.",
+  "Refute courteously, identify fallacies (straw man, red herring, ad hominem) and attack arguments, not people.",
+  "Write and deliver a persuasive speech and rebuttal with precise debate vocabulary."
+ ],
+ "learn": [
+  {
+   "id": "g-conc-as",
+   "kind": "grammar",
+   "title": "Inverted concessives: Much as I…, Try as they might, Strange as it may seem",
+   "html": "<p>A rhetorical and formal structure for conceding something <em>before</em> opposing it: <strong>adjective / adverb / verb + as + subject + verb</strong>, followed by the main idea. It is equivalent to <em>although</em>, but with more force, since the conceded element is \"brought forward\" for dramatic effect.</p>\n<table><thead><tr><th>Pattern</th><th>Example</th><th>Meaning</th></tr></thead><tbody>\n<tr><td><strong>Much as</strong> + subject + verb of desire/appreciation</td><td>Much as I admire her courage, I can't endorse her plan.</td><td>Although I admire her greatly…</td></tr>\n<tr><td><strong>Try as</strong> + subject + <em>might / may</em></td><td>Try as they might, they could not close the gap.</td><td>However hard they tried…</td></tr>\n<tr><td>Adjective + <strong>as</strong> + subject + <em>be</em></td><td>Brilliant as the argument is, it rests on a false premise.</td><td>However brilliant the argument is…</td></tr>\n<tr><td>Adverb + <strong>as</strong> + subject + verb</td><td>Hard as she tried, she failed to persuade them.</td><td>However hard she tried…</td></tr>\n<tr><td><strong>Strange as it may seem</strong></td><td>Strange as it may seem, the quietest speaker won.</td><td>Odd as it may sound…</td></tr>\n<tr><td>Noun + <strong>as</strong> + subject + <em>be</em> (literary)</td><td>Child as she was, she grasped the stakes.</td><td>Although she was only a child…</td></tr>\n</tbody></table>\n<ul>\n<li><strong>Inversion is obligatory:</strong> the concessive element goes <em>first</em>. Without that inversion, <em>as</em> means \"while / because / as\": <em>As he spoke, we listened.</em></li>\n<li><strong>Interchangeable with <em>though</em></strong> (<em>Brilliant though it is…</em>), but <em>although</em> does not allow this inversion: <em>Although brilliant it is</em> is an error.</li>\n<li><strong>No \"but\" or \"yet\":</strong> the main clause follows directly, just as with <em>although</em>.</li>\n<li><strong>Much as</strong> is used with verbs of feeling or desire (<em>admire, like, enjoy, regret, want, wish</em>) and with <em>would like to</em>: <em>Much as I would like to help, my hands are tied.</em></li>\n<li><strong>Register:</strong> formal, oratorical. In spontaneous conversation <em>as much as I…</em> or <em>although I…</em> sounds more natural; in a speech, an essay or a debate, <em>Much as…</em> gives elegance and control.</li>\n<li><strong>Rhetorical effect:</strong> by conceding first, the speaker seems reasonable and has already \"won over\" the listener before contradicting them.</li>\n</ul>",
+   "watch": [
+    {
+     "wrong": "Much as I like her, but I can't vote for her.",
+     "right": "Much as I like her, I can't vote for her.",
+     "why": "As with \"although\", \"but\" is not added: the main clause follows directly."
+    },
+    {
+     "wrong": "Strange as seems, it works.",
+     "right": "Strange as it may seem, it works.",
+     "why": "The full formula is \"Strange as it may seem\"; the subject \"it\" is obligatory."
+    },
+    {
+     "wrong": "As clever he is, he never listens.",
+     "right": "Clever as he is, he never listens.",
+     "why": "The adjective goes first, followed by \"as\": Clever as he is."
+    },
+    {
+     "wrong": "Much as I would like helping you, I can't.",
+     "right": "Much as I would like to help you, I can't.",
+     "why": "\"Would like\" is followed by to + infinitive."
+    }
+   ]
+  },
+  {
+   "id": "g-conc-other",
+   "kind": "grammar",
+   "title": "Other concessives: Be that as it may, however + adjective, albeit, notwithstanding, for all",
+   "html": "<p>Each concessive resource has its own syntax, register and \"direction\". Mastering them lets you <strong>recognise the strength of your opponent's argument without giving up ground</strong>.</p>\n<table><thead><tr><th>Resource</th><th>Syntax</th><th>Example and nuance</th></tr></thead><tbody>\n<tr><td><strong>Be that as it may</strong></td><td>Fixed phrase that opens a sentence</td><td>Be that as it may, we must decide today. (\"Regardless\": accepts the previous point and moves on.)</td></tr>\n<tr><td><strong>However / no matter how</strong> + adj/adv + subject + verb</td><td>Fixed order: never However + subject + adjective</td><td>However talented she is, she lacks discipline.</td></tr>\n<tr><td><strong>Whatever / whoever</strong> + noun</td><td>Clause with concessive value</td><td>Whatever the merits of the proposal, it will not pass.</td></tr>\n<tr><td><strong>albeit</strong> + adjective / adverb / short phrase</td><td>Does not introduce a full clause; very formal</td><td>He agreed, albeit reluctantly. / a modest, albeit significant, gain.</td></tr>\n<tr><td><strong>notwithstanding</strong> + noun</td><td>Formal preposition; can follow the noun</td><td>Notwithstanding these objections, the motion carried. / These objections notwithstanding, …</td></tr>\n<tr><td><strong>for all / with all</strong> + noun</td><td>Concessive preposition</td><td>For all her experience, she still made a basic error.</td></tr>\n<tr><td><strong>despite / in spite of</strong> + noun or -ing</td><td>Never <em>despite of</em></td><td>Despite the evidence, he denied it.</td></tr>\n<tr><td><strong>Granted, / Admittedly, / I grant you that…</strong></td><td>One-off concession, followed by \"but\" or a turn</td><td>Granted, the data are thin; even so, the trend is clear.</td></tr>\n<tr><td><strong>Even so / All the same / Nonetheless</strong></td><td>Connectors between sentences</td><td>The plan is flawed. Even so, it is better than nothing.</td></tr>\n</tbody></table>\n<ul>\n<li><strong>albeit</strong> is not a free synonym of <em>although</em>: it is used with a reduced phrase (<em>albeit slowly, albeit tired</em>). With a full subject and verb, use <em>although / though</em>.</li>\n<li><strong>Be that as it may</strong> is not a real concession but a <em>transition</em>: \"I'll leave it there and move on\". It is one of the most useful and most imitated formulas in formal speech.</li>\n<li><strong>Contrast vs. concession:</strong> <em>whereas / while</em> contrast two facts (<em>Whereas Ana speaks first, Luis prefers to listen</em>); <em>although / even though / much as</em> concede.</li>\n<li><strong>Argumentative direction:</strong> the conceded information comes first or between commas; the thesis goes in the main clause. If you reverse the order, you change what seems important.</li>\n</ul>",
+   "watch": [
+    {
+     "wrong": "Despite of the evidence, he denied it.",
+     "right": "Despite the evidence, he denied it.",
+     "why": "\"Despite\" takes no \"of\"; with \"of\" you say \"in spite of\"."
+    },
+    {
+     "wrong": "Albeit he was tired, he kept speaking.",
+     "right": "Though he was tired, he kept speaking.",
+     "why": "\"Albeit\" is used with a reduced phrase (albeit tired), not with a full subject and verb."
+    },
+    {
+     "wrong": "However she is talented, she doesn't work hard.",
+     "right": "However talented she is, she doesn't work hard.",
+     "why": "Order: however + adjective + subject + verb."
+    },
+    {
+     "wrong": "Be that as it may be, we must go on.",
+     "right": "Be that as it may, we must go on.",
+     "why": "The formula is fixed: Be that as it may."
+    }
+   ]
+  },
+  {
+   "id": "g-subj",
+   "kind": "grammar",
+   "title": "The subjunctive: mandative, 'were' and fixed formulas",
+   "html": "<p>English keeps living remnants of the subjunctive, especially in formal register and in the language of debates, minutes and laws. They are short, but very revealing of level.</p>\n<p><strong>1. Mandative subjunctive:</strong> after verbs and adjectives of demand, recommendation or necessity, the verb takes the <strong>base form</strong> (no <em>-s</em>, <em>be</em> for <em>to be</em>, no <em>do</em> in the negative).</p>\n<table><thead><tr><th>Trigger</th><th>Example</th></tr></thead><tbody>\n<tr><td>demand, insist, propose, recommend, suggest, require, urge, request, order</td><td>The board demanded that she <strong>resign</strong>. / I suggest that he <strong>not speak</strong> first.</td></tr>\n<tr><td>essential, vital, crucial, imperative, important, necessary, desirable</td><td>It is essential that every member <strong>be</strong> informed. / It is vital that nobody <strong>leave</strong> early.</td></tr>\n</tbody></table>\n<ul>\n<li><strong>Negative:</strong> <em>that he not speak</em> (not <em>doesn't</em>).</li>\n<li><strong>British alternative:</strong> <em>should + infinitive</em> (<em>that she should resign</em>) or, more informally, the indicative (<em>that she resigns</em>). The pure subjunctive is more common in American English and in formal texts.</li>\n<li><strong>Nuance:</strong> <em>insist</em> with the subjunctive expresses demand (<em>He insisted that I go</em>); with the indicative, it asserts a fact (<em>He insisted that I was wrong</em>). <em>Suggest</em> with the subjunctive means proposing; with the indicative it means \"indicate\" (<em>The data suggest that he is lying</em>).</li>\n</ul>\n<p><strong>2. Were-subjunctive (unreal):</strong> <em>If I were you…</em>, <em>I wish it were Friday</em>, <em>as if she were a stranger</em>. In careful register <em>were</em> is kept for all persons; <em>was</em> is common in informal speech.</p>\n<p><strong>3. Fixed formulas</strong> (learned as blocks): <em>Come what may</em> (whatever happens), <em>Suffice it to say…</em> (it is enough to say…), <em>Be that as it may</em>, <em>So be it</em>, <em>Heaven forbid</em> / <em>God forbid</em> (God forbid), <em>Far be it from me to…</em> (I would never presume to…), <em>Perish the thought</em> (no way), <em>as it were</em> (so to speak), <em>Long live…</em>.</p>",
+   "watch": [
+    {
+     "wrong": "The board demanded that she resigns.",
+     "right": "The board demanded that she resign.",
+     "why": "After \"demand\" comes the base form, without -s: that she resign."
+    },
+    {
+     "wrong": "It is vital that nobody to leave early.",
+     "right": "It is vital that nobody leave early.",
+     "why": "In the mandative \"to\" is not used: straight to the base form."
+    },
+    {
+     "wrong": "Suffice to say, it didn't go well.",
+     "right": "Suffice it to say, it didn't go well.",
+     "why": "Fixed formula: Suffice it to say."
+    }
+   ]
+  },
+  {
+   "id": "g-parallel",
+   "kind": "grammar",
+   "title": "Parallelism and rhetorical devices",
+   "html": "<p><strong>Parallelism</strong> consists of repeating the same grammatical structure in elements that perform the same function. It is the backbone of almost all effective rhetoric: it aids tracking, creates rhythm and gives an appearance of logical balance.</p>\n<table><thead><tr><th>Device</th><th>What it is</th><th>Original example</th></tr></thead><tbody>\n<tr><td><strong>Tricolon</strong></td><td>Three parallel elements; the third is usually the strongest</td><td>We aim to inform, to persuade and, above all, to inspire.</td></tr>\n<tr><td><strong>Anaphora</strong></td><td>Repeating the opening of successive sentences</td><td>We will not tire. We will not falter. We will not fail.</td></tr>\n<tr><td><strong>Antithesis</strong></td><td>Setting ideas against each other in a symmetrical structure</td><td>Not a ceiling but a floor; not a favour but a right.</td></tr>\n<tr><td><strong>Chiasmus</strong></td><td>Crossed structure A-B / B-A</td><td>We do not debate to win; we win only when we have debated well.</td></tr>\n<tr><td><strong>Rhetorical question</strong></td><td>A question whose purpose is to assert</td><td>Is this the kind of transparency we want?</td></tr>\n<tr><td><strong>Correlatives</strong></td><td>both… and / either… or / not only… but also / the more… the more</td><td>The more we delay, the more it costs.</td></tr>\n</tbody></table>\n<ul>\n<li><strong>Golden rule:</strong> the elements of a list or a correlative pair have <strong>the same form</strong>: three infinitives, three gerunds, three adjectives. <em>She likes debating, writing and reading</em> (not <em>debating, to write and reading</em>).</li>\n<li><strong>Correlatives:</strong> what follows each part must be of the same type: <em>not only intelligent but also diligent</em> (adjective + adjective), <em>either we compromise or the talks collapse</em> (clause + clause).</li>\n<li><strong>Parallel comparatives:</strong> <em>the more … the more</em> requires <em>the</em> in both halves.</li>\n<li><strong>Beware of hollow rhythm:</strong> a sentence can sound magnificent and assert nothing. Ask yourself what it actually claims.</li>\n<li><strong>Intensification:</strong> in a tricolon, order from weakest to strongest; in an antithesis, put what you want remembered second.</li>\n</ul>",
+   "watch": [
+    {
+     "wrong": "She is not only intelligent but also she works hard.",
+     "right": "She is not only intelligent but also hard-working.",
+     "why": "\"Not only… but also\" requires parallel elements: adjective + adjective."
+    },
+    {
+     "wrong": "The proposal is cheap, effective and it is easy to implement.",
+     "right": "The proposal is cheap, effective and easy to implement.",
+     "why": "The three elements of the list must be adjectives."
+    },
+    {
+     "wrong": "We must either compromise or the talks will collapse.",
+     "right": "Either we must compromise or the talks will collapse.",
+     "why": "\"Either… or\" connects parallel elements: clause with clause."
+    },
+    {
+     "wrong": "The more we delay, more it costs.",
+     "right": "The more we delay, the more it costs.",
+     "why": "The structure is the + comparative, the + comparative."
+    }
+   ]
+  },
+  {
+   "id": "s-rebut",
+   "kind": "strategy",
+   "title": "Strategy: refuting with courtesy",
+   "html": "<p>A good rebuttal has <strong>four moves</strong>: (1) <em>acknowledge</em> what is valid, (2) <em>mark the disagreement</em> gently, (3) <em>counter-argue</em> with reason or evidence and (4) <em>steer back</em> to the central point. Attack the <strong>argument</strong>, never the <strong>person</strong>.</p>\n<ul>\n<li><strong>Acknowledge:</strong> <em>I take your point.</em> / <em>That's fair as far as it goes.</em> / <em>I'll grant you that.</em></li>\n<li><strong>Mark disagreement:</strong> <em>…but I wonder whether that's the whole story.</em> / <em>With respect, I'd question…</em> / <em>If I may, I'd push back on…</em></li>\n<li><strong>Counter-argue:</strong> <em>The evidence points the other way: …</em> / <em>That overlooks the fact that…</em> / <em>The problem with that view is…</em></li>\n<li><strong>Steer back:</strong> <em>Which brings us back to…</em> / <em>Let's not lose sight of…</em> / <em>The real issue is surely…</em> (with <em>surely</em> you put pressure on the listener: use it with care).</li>\n<li><strong>To avoid:</strong> <em>You're wrong.</em> / <em>That's ridiculous.</em> (direct attack); <em>No, but…</em>; and the typical error of Spanish speakers: <em>I'm not agree</em> (correct: <em>I don't agree</em>).</li>\n<li><strong>Intonation:</strong> lowering both volume and speed when disagreeing sounds firmer than raising the pitch. Courtesy does not reduce force; it sustains it.</li>\n<li><strong>Paraphrase first:</strong> summarising the rival argument to the satisfaction of the person who made it, before refuting it, avoids the <em>straw man</em> and disarms their defence.</li>\n</ul>"
+  },
+  {
+   "id": "v-debate",
+   "kind": "vocab",
+   "title": "Debate, rhetoric and fallacies",
+   "words": [
+    {
+     "id": "w-concede",
+     "en": "concede",
+     "es": "conceder, admitir (un punto) a regañadientes o con elegancia",
+     "example": "I concede that official correspondence is a different matter.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-rebut",
+     "en": "rebut",
+     "es": "rebatir, refutar (con argumentos o pruebas)",
+     "example": "She spent ten minutes rebutting each of the opposition's claims."
+    },
+    {
+     "id": "w-refute",
+     "en": "refute",
+     "es": "refutar con éxito, demostrar que es falso (en inglés cuidado: implica probarlo)",
+     "example": "The data effectively refute his claim."
+    },
+    {
+     "id": "w-premise",
+     "en": "premise",
+     "es": "premisa (punto de partida de un razonamiento)",
+     "example": "The conclusion is sound, but the premise is shaky.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-fallacy",
+     "en": "fallacy",
+     "es": "falacia (error de razonamiento que parece válido)",
+     "example": "Appealing to popularity is a common fallacy."
+    },
+    {
+     "id": "w-straw-man",
+     "en": "straw man",
+     "es": "hombre de paja (deformar la postura ajena para atacarla fácilmente)",
+     "example": "He attacked a straw man: nobody had proposed abolishing the exam.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-ad-hominem",
+     "en": "ad hominem",
+     "es": "ataque a la persona en vez de al argumento",
+     "example": "Calling her a liar was a pure ad hominem attack.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-red-herring",
+     "en": "red herring",
+     "es": "pista falsa, desviación irrelevante de la discusión",
+     "example": "The budget figures were a red herring; the real problem was trust.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-slippery-slope",
+     "en": "slippery slope",
+     "es": "pendiente resbaladiza (si se permite A, vendrá Z)",
+     "example": "The slippery slope argument assumes the first step makes the last inevitable.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-cogent",
+     "en": "cogent",
+     "es": "contundente y bien razonado, convincente",
+     "example": "She made a cogent case for reform in under five minutes."
+    },
+    {
+     "id": "w-tenable",
+     "en": "tenable / untenable",
+     "es": "sostenible, defendible / insostenible (una posición, una tesis)",
+     "example": "After the new evidence, his position became untenable."
+    },
+    {
+     "id": "w-devils-advocate",
+     "en": "play devil's advocate",
+     "es": "hacer de abogado del diablo (defender lo contrario por argumentar)",
+     "example": "Let me play devil's advocate for a moment.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-burden-of-proof",
+     "en": "the burden of proof",
+     "es": "la carga de la prueba (le toca demostrar a quien afirma)",
+     "example": "The burden of proof lies with the person making the claim.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-rejoinder",
+     "en": "rejoinder",
+     "es": "réplica, respuesta rápida y aguda",
+     "example": "Her rejoinder drew applause from the gallery."
+    },
+    {
+     "id": "w-motion",
+     "en": "motion",
+     "es": "moción, propuesta formal sometida a debate o votación",
+     "example": "The motion was carried by twelve votes to nine.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-take-the-floor",
+     "en": "take / have the floor",
+     "es": "tomar / tener la palabra (en un debate o reunión formal)",
+     "example": "I now give the floor to the proposer.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "v-argue",
+   "kind": "vocab",
+   "title": "Verbs and collocations of argument",
+   "words": [
+    {
+     "id": "w-contend",
+     "en": "contend",
+     "es": "sostener, afirmar (con convicción; formal)",
+     "example": "She contends that the policy will cost jobs.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-posit",
+     "en": "posit",
+     "es": "postular, plantear como hipótesis",
+     "example": "He posits that debate skills are learned, not innate."
+    },
+    {
+     "id": "w-advocate",
+     "en": "advocate (a policy)",
+     "es": "abogar por, defender (una política)",
+     "example": "They advocate a gradual reform rather than a revolution.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-dispute",
+     "en": "dispute",
+     "es": "poner en duda, cuestionar (un hecho o una afirmación)",
+     "example": "Nobody disputes that the figures are accurate.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-undermine",
+     "en": "undermine",
+     "es": "socavar, minar (credibilidad, argumento)",
+     "example": "The new data seriously undermine his claim.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-bolster",
+     "en": "bolster",
+     "es": "reforzar, apuntalar (un argumento)",
+     "example": "She bolstered her case with three independent studies.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-pre-empt",
+     "en": "pre-empt",
+     "es": "adelantarse a, anticiparse a (una objeción)",
+     "example": "A good speaker pre-empts the strongest objection before it is raised."
+    },
+    {
+     "id": "w-sidestep",
+     "en": "sidestep",
+     "es": "esquivar, eludir (una pregunta)",
+     "example": "He sidestepped the question by changing the subject."
+    },
+    {
+     "id": "w-harp-on",
+     "en": "harp on (about)",
+     "es": "insistir machaconamente en, dar la lata con",
+     "example": "Stop harping on about the same point; we have heard it."
+    },
+    {
+     "id": "w-stand-ground",
+     "en": "stand / hold your ground",
+     "es": "mantenerse firme, no ceder terreno",
+     "example": "She held her ground under heavy questioning.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-back-down",
+     "en": "back down",
+     "es": "dar marcha atrás, ceder",
+     "example": "He refused to back down, even after the evidence changed.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-dig-heels-in",
+     "en": "dig your heels in",
+     "es": "ponerse terco, aferrarse a una postura",
+     "example": "The more we pressed him, the more he dug his heels in.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-common-ground",
+     "en": "common ground",
+     "es": "terreno común, puntos de acuerdo",
+     "example": "Let's start by identifying some common ground.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-score-a-point",
+     "en": "score a point",
+     "es": "apuntarse un tanto (en un debate)",
+     "example": "He scored a point by quoting her own words back to her.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "v-phrasal-debate",
+   "kind": "vocab",
+   "title": "Phrasal verbs for argument and persuasion",
+   "words": [
+    {
+     "id": "w-hammer-home",
+     "en": "hammer home",
+     "es": "machacar, insistir hasta que quede claro",
+     "example": "The campaign hammered home the same three messages.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-back-up",
+     "en": "back up (a claim)",
+     "es": "respaldar, sustentar (una afirmación) con pruebas",
+     "example": "Can you back that up with evidence?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-water-down",
+     "en": "water down",
+     "es": "diluir, rebajar (una propuesta, un argumento)",
+     "example": "The amendments watered down the original proposal.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-rule-out",
+     "en": "rule out",
+     "es": "descartar",
+     "example": "I wouldn't rule out a compromise.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-boil-down-to",
+     "en": "boil down to",
+     "es": "reducirse a, resumirse en lo esencial",
+     "example": "It all boils down to who bears the cost.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-take-issue-with",
+     "en": "take issue with",
+     "es": "discrepar de, no estar de acuerdo con (formal)",
+     "example": "I take issue with your characterisation of the data.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-weigh-up",
+     "en": "weigh up",
+     "es": "sopesar",
+     "example": "The jury weighed up both sides before deciding.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-bring-up",
+     "en": "bring up",
+     "es": "sacar a colación, plantear (un tema)",
+     "example": "Nobody brought up the cost until the end.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-win-over",
+     "en": "win (someone) over",
+     "es": "ganarse a alguien, convencerlo",
+     "example": "She won over even the sceptics in the audience.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-drive-at",
+     "en": "be driving at",
+     "es": "querer decir, insinuar (What are you driving at?)",
+     "example": "I'm not sure what you're driving at.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-come-down-to",
+     "en": "come down to",
+     "es": "depender en última instancia de, reducirse a",
+     "example": "In the end, it comes down to trust.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-talk-round",
+     "en": "talk (someone) round",
+     "es": "convencer a alguien con insistencia, hacerlo cambiar de parecer",
+     "example": "It took an hour to talk him round.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "e-debate",
+   "kind": "expressions",
+   "title": "Phrases for moderating, interrupting and concluding",
+   "html": "<ul>\n<li><strong>Taking the floor:</strong> <em>If I might come in here…</em> / <em>May I make a point of information?</em> / <em>If I could just finish my point…</em></li>\n<li><strong>Conceding gracefully:</strong> <em>Point taken.</em> / <em>I'll grant you that.</em> / <em>I stand corrected.</em> / <em>That's a fair challenge.</em></li>\n<li><strong>Disagreeing courteously:</strong> <em>With respect, that rather misses the point.</em> / <em>I take your point, but I wonder whether it's the whole story.</em> / <em>I'd respectfully disagree.</em></li>\n<li><strong>Diverting without offending:</strong> <em>That's somewhat beside the point.</em> / <em>Let's not lose sight of…</em> / <em>Be that as it may…</em></li>\n<li><strong>Summarising and closing:</strong> <em>To sum up…</em> / <em>All things considered…</em> / <em>Which brings me to my final point.</em></li>\n<li><strong>Softening a strong criticism:</strong> <em>Far be it from me to criticise, but…</em> / <em>I don't mean to be rude, but…</em> / <em>With the greatest respect,…</em> (note: in British English \"with respect\" usually announces a serious disagreement).</li>\n<li><strong>Asking for clarification:</strong> <em>What exactly are you driving at?</em> / <em>Could you spell out what you mean?</em></li>\n</ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Concessives with 'as': Much as, Try as…",
+   "instructions": "Complete or correct.",
+   "topic": "g-conc-as",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "___ as I admire her courage, I cannot endorse her strategy.",
+     "answers": [
+      "much"
+     ],
+     "explain": "Much as + subject + verb of appreciation."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Try ___ they might, the negotiators could not close the gap.",
+     "answers": [
+      "as"
+     ],
+     "explain": "Try as they might = however hard they tried."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "Strange as it may ___, the quietest candidate won the debate.",
+     "answers": [
+      "seem"
+     ],
+     "explain": "Strange as it may seem."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "Brilliant ___ the argument is, it rests on a false premise.",
+     "answers": [
+      "as",
+      "though"
+     ],
+     "explain": "Brilliant as / though + subject + be."
+    },
+    {
+     "id": "A5",
+     "type": "fix",
+     "prompt": "Much as I like her, but I can't vote for her.",
+     "answers": [
+      "Much as I like her, I can't vote for her.",
+      "Much as I like her, I cannot vote for her."
+     ],
+     "explain": "No \"but\": the main clause follows directly."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "As clever he is, he never listens.",
+     "answers": [
+      "Clever as he is, he never listens.",
+      "Clever though he is, he never listens."
+     ],
+     "explain": "The adjective goes first: Clever as he is."
+    },
+    {
+     "id": "A7",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "Hard as she tried, she failed to convince them.",
+      "Hard she tried as, she failed to convince them.",
+      "As hard she tried, she failed to convince them."
+     ],
+     "answer": 0,
+     "explain": "Concessive order: adverb + as + subject + verb."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Other concessives",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-conc-other",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "___ that as it may, we still have to decide by Friday.",
+     "answers": [
+      "be"
+     ],
+     "explain": "Be that as it may: a fixed formula."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "___ talented she is, she lacks discipline.",
+     "options": [
+      "However",
+      "Although",
+      "Despite"
+     ],
+     "answer": 0,
+     "explain": "However + adjective + subject + verb."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "He accepted the offer, ___ he was reluctant.",
+     "options": [
+      "although",
+      "albeit",
+      "notwithstanding"
+     ],
+     "answer": 0,
+     "explain": "\"Albeit\" does not introduce a clause with subject and verb."
+    },
+    {
+     "id": "B4",
+     "type": "fix",
+     "prompt": "Despite of the objections, the motion passed.",
+     "answers": [
+      "Despite the objections, the motion passed.",
+      "In spite of the objections, the motion passed."
+     ],
+     "explain": "\"Despite\" takes no \"of\"; with \"of\" use \"in spite of\"."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "Which is the most formal?",
+     "options": [
+      "All the same, we lost.",
+      "Notwithstanding these objections, the motion carried.",
+      "Still, we lost."
+     ],
+     "answer": 1,
+     "explain": "\"Notwithstanding\" is the most formal."
+    },
+    {
+     "id": "B6",
+     "type": "gap",
+     "prompt": "___ all her experience, she still made a basic error. (concession)",
+     "answers": [
+      "for",
+      "with"
+     ],
+     "explain": "For / With all her experience = despite her experience."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "Albeit he was tired, he kept speaking.",
+     "answers": [
+      "Though he was tired, he kept speaking.",
+      "Although he was tired, he kept speaking.",
+      "He kept speaking, albeit tired.",
+      "Albeit tired, he kept speaking."
+     ],
+     "explain": "With a subject and verb, use though/although; albeit goes with a reduced phrase."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Mandative subjunctive and formulas",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-subj",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "The committee recommended that she ___ immediately. (resign)",
+     "answers": [
+      "resign"
+     ],
+     "explain": "Mandative: base form."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "It is essential that every member ___ informed in advance. (be)",
+     "answers": [
+      "be"
+     ],
+     "explain": "Mandative with be: it is essential that… be."
+    },
+    {
+     "id": "C3",
+     "type": "choice",
+     "prompt": "The rules require that each speaker ___ allowed two minutes.",
+     "options": [
+      "be",
+      "being",
+      "to be"
+     ],
+     "answer": 0,
+     "explain": "Mandative: base form be."
+    },
+    {
+     "id": "C4",
+     "type": "fix",
+     "prompt": "The board demanded that she resigns.",
+     "answers": [
+      "The board demanded that she resign.",
+      "The board demanded that she should resign."
+     ],
+     "explain": "After \"demand\" comes the base form."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "Suffice to say, the talks failed.",
+     "answers": [
+      "Suffice it to say, the talks failed."
+     ],
+     "explain": "Fixed formula: Suffice it to say."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "Which sentence uses the negative mandative subjunctive correctly?",
+     "options": [
+      "I suggest that he not speak first.",
+      "I suggest that he doesn't speaking first.",
+      "I suggest that he not to speak first."
+     ],
+     "answer": 0,
+     "explain": "Negative: that he not + base form."
+    },
+    {
+     "id": "C7",
+     "type": "gap",
+     "prompt": "If I ___ you, I would concede the point. (be, formal)",
+     "answers": [
+      "were"
+     ],
+     "explain": "Were-subjunctive: If I were you."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Parallelism and rhetorical devices",
+   "instructions": "Correct or choose.",
+   "topic": "g-parallel",
+   "items": [
+    {
+     "id": "D1",
+     "type": "fix",
+     "prompt": "The plan is cheap, effective and it is easy to implement.",
+     "answers": [
+      "The plan is cheap, effective and easy to implement."
+     ],
+     "explain": "List of parallel adjectives."
+    },
+    {
+     "id": "D2",
+     "type": "fix",
+     "prompt": "She likes debating, to write and reading.",
+     "answers": [
+      "She likes debating, writing and reading."
+     ],
+     "explain": "Three parallel gerunds."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "Which is an example of anaphora?",
+     "options": [
+      "We will not tire. We will not falter. We will not fail.",
+      "Fair is foul, and foul is fair.",
+      "Is this a time for silence?"
+     ],
+     "answer": 0,
+     "explain": "Anaphora = repetition of the opening of sentences."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "'Not a ceiling but a floor' is an example of:",
+     "options": [
+      "antithesis",
+      "tricolon",
+      "anaphora"
+     ],
+     "answer": 0,
+     "explain": "Antithesis = opposing ideas in a symmetrical structure."
+    },
+    {
+     "id": "D5",
+     "type": "fix",
+     "prompt": "The more we delay, more it costs.",
+     "answers": [
+      "The more we delay, the more it costs."
+     ],
+     "explain": "the + comparative, the + comparative."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "She is not only intelligent but also she works hard.",
+     "answers": [
+      "She is not only intelligent but also hard-working.",
+      "She is not only intelligent but also hardworking.",
+      "She is not only intelligent but also diligent.",
+      "She not only is intelligent but also works hard."
+     ],
+     "explain": "Parallel elements after \"not only… but also\"."
+    },
+    {
+     "id": "D7",
+     "type": "choice",
+     "prompt": "Which sentence has faulty parallelism?",
+     "options": [
+      "We aim to inform, to persuade and to inspire.",
+      "We aim to inform, persuading and inspire.",
+      "We aim to inform, persuade and inspire."
+     ],
+     "answer": 1,
+     "explain": "Mixes an infinitive and a gerund."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Debate and fallacies",
+   "instructions": "Complete or choose.",
+   "topic": "v-debate",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "Her task was to ___ each claim with evidence. (formal: to prove it false or answer it)",
+     "answers": [
+      "rebut",
+      "refute"
+     ],
+     "explain": "rebut / refute = to counter a claim."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "Calling your opponent a liar instead of answering the point is an ___ attack.",
+     "options": [
+      "ad hominem",
+      "a priori",
+      "ad hoc"
+     ],
+     "answer": 0,
+     "explain": "Ad hominem = an attack against the person."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "A 'red herring' is:",
+     "options": [
+      "a distraction from the real issue",
+      "a decisive argument",
+      "a polite concession"
+     ],
+     "answer": 0,
+     "explain": "Red herring = an irrelevant diversion."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "He misrepresented my view and attacked that instead: a classic straw ___.",
+     "answers": [
+      "man"
+     ],
+     "explain": "Straw man = a distorted version of the opponent's argument."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "'If we allow one exception, soon there will be no rules at all.' This is a ___ argument.",
+     "options": [
+      "slippery slope",
+      "circular",
+      "cogent"
+     ],
+     "answer": 0,
+     "explain": "Slippery slope = a chain of consequences presented as inevitable."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "A 'cogent' argument is one that is:",
+     "options": [
+      "clear, logical and convincing",
+      "long and emotional",
+      "deliberately provocative"
+     ],
+     "answer": 0,
+     "explain": "Cogent = forceful and well reasoned."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "The ___ of proof lies with whoever makes the claim.",
+     "answers": [
+      "burden"
+     ],
+     "explain": "Burden of proof = responsibility for providing evidence."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Argument verbs and collocations",
+   "instructions": "Complete, choose or correct.",
+   "topic": "v-argue",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "She ___ that the policy would cost jobs, and offered figures to prove it.",
+     "options": [
+      "contended",
+      "denied",
+      "conceded"
+     ],
+     "answer": 0,
+     "explain": "Contend = to maintain firmly."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "We should try to find some common ___ before we negotiate.",
+     "answers": [
+      "ground"
+     ],
+     "explain": "Common ground = shared territory."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "She refused to give way: she ___ her ground.",
+     "options": [
+      "stood",
+      "kept",
+      "sat"
+     ],
+     "answer": 0,
+     "explain": "Stand / hold your ground."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "The new data have seriously ___ the credibility of his claims. (starts with u-)",
+     "answers": [
+      "undermined"
+     ],
+     "explain": "Undermine = to weaken, to damage gradually."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "To 'pre-empt' an objection is to:",
+     "options": [
+      "deal with it before it is raised",
+      "ignore it",
+      "repeat it"
+     ],
+     "answer": 0,
+     "explain": "Pre-empt = to anticipate and deal with something before it happens."
+    },
+    {
+     "id": "F6",
+     "type": "fix",
+     "prompt": "He sidestepped from the question by changing the subject.",
+     "answers": [
+      "He sidestepped the question by changing the subject."
+     ],
+     "explain": "\"Sidestep\" is transitive: no \"from\"."
+    },
+    {
+     "id": "F7",
+     "type": "gap",
+     "prompt": "Don't keep harping ___ the same point; we have heard it.",
+     "answers": [
+      "on",
+      "about"
+     ],
+     "explain": "Harp on / about."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Much",
+      "as",
+      "I",
+      "respect",
+      "your",
+      "view",
+      "I",
+      "must",
+      "disagree"
+     ],
+     "answers": [
+      "Much as I respect your view, I must disagree."
+     ],
+     "explain": "Much as + subject + verb, main clause."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Be",
+      "that",
+      "as",
+      "it",
+      "may",
+      "the",
+      "motion",
+      "still",
+      "stands"
+     ],
+     "answers": [
+      "Be that as it may, the motion still stands."
+     ],
+     "explain": "Be that as it may: a fixed formula."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "It",
+      "is",
+      "essential",
+      "that",
+      "every",
+      "voice",
+      "be",
+      "heard"
+     ],
+     "answers": [
+      "It is essential that every voice be heard."
+     ],
+     "explain": "Mandative: that + subject + be."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Try",
+      "as",
+      "they",
+      "might",
+      "they",
+      "could",
+      "not",
+      "win",
+      "her",
+      "over"
+     ],
+     "answers": [
+      "Try as they might, they could not win her over."
+     ],
+     "explain": "Try as they might + win someone over."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "The",
+      "more",
+      "we",
+      "delay",
+      "the",
+      "harder",
+      "the",
+      "decision",
+      "becomes"
+     ],
+     "answers": [
+      "The more we delay, the harder the decision becomes."
+     ],
+     "explain": "the + comparative, the + comparative."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I",
+      "take",
+      "your",
+      "point",
+      "but",
+      "I",
+      "wonder",
+      "whether",
+      "it",
+      "tells",
+      "the",
+      "whole",
+      "story"
+     ],
+     "answers": [
+      "I take your point, but I wonder whether it tells the whole story."
+     ],
+     "explain": "Acknowledge + disagree courteously."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English; follow the hints in brackets.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Por mucho que admire su valentía, no puedo respaldar su plan. (ella)",
+     "answers": [
+      "Much as I admire her courage, I can't back her plan.",
+      "Much as I admire her courage, I can't back her strategy.",
+      "Much as I admire her courage, I can't support her plan.",
+      "Much as I admire her courage, I can't support her strategy.",
+      "Much as I admire her courage, I can't endorse her plan.",
+      "Much as I admire her courage, I can't endorse her strategy.",
+      "Much as I admire her courage, I cannot back her plan.",
+      "Much as I admire her courage, I cannot back her strategy.",
+      "Much as I admire her courage, I cannot support her plan.",
+      "Much as I admire her courage, I cannot support her strategy.",
+      "Much as I admire her courage, I cannot endorse her plan.",
+      "Much as I admire her courage, I cannot endorse her strategy.",
+      "Much as I admire her bravery, I can't back her plan.",
+      "Much as I admire her bravery, I can't back her strategy.",
+      "Much as I admire her bravery, I can't support her plan.",
+      "Much as I admire her bravery, I can't support her strategy.",
+      "Much as I admire her bravery, I can't endorse her plan.",
+      "Much as I admire her bravery, I can't endorse her strategy.",
+      "Much as I admire her bravery, I cannot back her plan.",
+      "Much as I admire her bravery, I cannot back her strategy.",
+      "Much as I admire her bravery, I cannot support her plan.",
+      "Much as I admire her bravery, I cannot support her strategy.",
+      "Much as I admire her bravery, I cannot endorse her plan.",
+      "Much as I admire her bravery, I cannot endorse her strategy."
+     ],
+     "explain": "Much as + verb of appreciation."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Es fundamental que cada miembro sea informado con antelación. (be)",
+     "answers": [
+      "It is essential that every member be informed in advance.",
+      "It is essential that every member be informed beforehand.",
+      "It is essential that every member should be informed in advance.",
+      "It is essential that every member should be informed beforehand.",
+      "It is essential that each member be informed in advance.",
+      "It is essential that each member be informed beforehand.",
+      "It is essential that each member should be informed in advance.",
+      "It is essential that each member should be informed beforehand.",
+      "It is vital that every member be informed in advance.",
+      "It is vital that every member be informed beforehand.",
+      "It is vital that every member should be informed in advance.",
+      "It is vital that every member should be informed beforehand.",
+      "It is vital that each member be informed in advance.",
+      "It is vital that each member be informed beforehand.",
+      "It is vital that each member should be informed in advance.",
+      "It is vital that each member should be informed beforehand.",
+      "It is crucial that every member be informed in advance.",
+      "It is crucial that every member be informed beforehand.",
+      "It is crucial that every member should be informed in advance.",
+      "It is crucial that every member should be informed beforehand.",
+      "It is crucial that each member be informed in advance.",
+      "It is crucial that each member be informed beforehand.",
+      "It is crucial that each member should be informed in advance.",
+      "It is crucial that each member should be informed beforehand.",
+      "It is imperative that every member be informed in advance.",
+      "It is imperative that every member be informed beforehand.",
+      "It is imperative that every member should be informed in advance.",
+      "It is imperative that every member should be informed beforehand.",
+      "It is imperative that each member be informed in advance.",
+      "It is imperative that each member be informed beforehand.",
+      "It is imperative that each member should be informed in advance.",
+      "It is imperative that each member should be informed beforehand.",
+      "It is important that every member be informed in advance.",
+      "It is important that every member be informed beforehand.",
+      "It is important that every member should be informed in advance.",
+      "It is important that every member should be informed beforehand.",
+      "It is important that each member be informed in advance.",
+      "It is important that each member be informed beforehand.",
+      "It is important that each member should be informed in advance.",
+      "It is important that each member should be informed beforehand."
+     ],
+     "explain": "Mandative: that + subject + be."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Sea como sea, tenemos que decidir hoy. (Be that as it may)",
+     "answers": [
+      "Be that as it may, we have to decide today.",
+      "Be that as it may, we must decide today.",
+      "Be that as it may, we need to decide today."
+     ],
+     "explain": "Be that as it may."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Por más que lo intentaron, no lograron convencer al jurado. (Try as they might)",
+     "answers": [
+      "Try as they might, they failed to convince the jury.",
+      "Try as they might, they failed to convince the panel.",
+      "Try as they might, they failed to convince the judges.",
+      "Try as they might, they could not convince the jury.",
+      "Try as they might, they could not convince the panel.",
+      "Try as they might, they could not convince the judges.",
+      "Try as they might, they couldn't convince the jury.",
+      "Try as they might, they couldn't convince the panel.",
+      "Try as they might, they couldn't convince the judges.",
+      "Try as they might, they were unable to convince the jury.",
+      "Try as they might, they were unable to convince the panel.",
+      "Try as they might, they were unable to convince the judges.",
+      "Try as they might, they didn't manage to convince the jury.",
+      "Try as they might, they didn't manage to convince the panel.",
+      "Try as they might, they didn't manage to convince the judges."
+     ],
+     "explain": "Try as they might + main clause."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "(Él) no solo es persuasivo, sino también honesto.",
+     "answers": [
+      "He is not only persuasive but also honest.",
+      "He's not only persuasive but also honest.",
+      "He is not just persuasive but also honest.",
+      "He's not just persuasive but also honest."
+     ],
+     "explain": "Not only… but also with parallel elements."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Reconozco que tienes razón, pero eso no resuelve el problema. (concede)",
+     "answers": [
+      "I concede that you're right, but that doesn't solve the problem.",
+      "I concede that you're right, but that doesn't solve the issue.",
+      "I concede that you're right, but that doesn't resolve the problem.",
+      "I concede that you're right, but that doesn't resolve the issue.",
+      "I concede that you're right, but that does not solve the problem.",
+      "I concede that you're right, but that does not solve the issue.",
+      "I concede that you're right, but that does not resolve the problem.",
+      "I concede that you're right, but that does not resolve the issue.",
+      "I concede that you are right, but that doesn't solve the problem.",
+      "I concede that you are right, but that doesn't solve the issue.",
+      "I concede that you are right, but that doesn't resolve the problem.",
+      "I concede that you are right, but that doesn't resolve the issue.",
+      "I concede that you are right, but that does not solve the problem.",
+      "I concede that you are right, but that does not solve the issue.",
+      "I concede that you are right, but that does not resolve the problem.",
+      "I concede that you are right, but that does not resolve the issue.",
+      "I grant that you're right, but that doesn't solve the problem.",
+      "I grant that you're right, but that doesn't solve the issue.",
+      "I grant that you're right, but that doesn't resolve the problem.",
+      "I grant that you're right, but that doesn't resolve the issue.",
+      "I grant that you're right, but that does not solve the problem.",
+      "I grant that you're right, but that does not solve the issue.",
+      "I grant that you're right, but that does not resolve the problem.",
+      "I grant that you're right, but that does not resolve the issue.",
+      "I grant that you are right, but that doesn't solve the problem.",
+      "I grant that you are right, but that doesn't solve the issue.",
+      "I grant that you are right, but that doesn't resolve the problem.",
+      "I grant that you are right, but that doesn't resolve the issue.",
+      "I grant that you are right, but that does not solve the problem.",
+      "I grant that you are right, but that does not solve the issue.",
+      "I grant that you are right, but that does not resolve the problem.",
+      "I grant that you are right, but that does not resolve the issue.",
+      "I admit that you're right, but that doesn't solve the problem.",
+      "I admit that you're right, but that doesn't solve the issue.",
+      "I admit that you're right, but that doesn't resolve the problem.",
+      "I admit that you're right, but that doesn't resolve the issue.",
+      "I admit that you're right, but that does not solve the problem.",
+      "I admit that you're right, but that does not solve the issue.",
+      "I admit that you're right, but that does not resolve the problem.",
+      "I admit that you're right, but that does not resolve the issue.",
+      "I admit that you are right, but that doesn't solve the problem.",
+      "I admit that you are right, but that doesn't solve the issue.",
+      "I admit that you are right, but that doesn't resolve the problem.",
+      "I admit that you are right, but that doesn't resolve the issue.",
+      "I admit that you are right, but that does not solve the problem.",
+      "I admit that you are right, but that does not solve the issue.",
+      "I admit that you are right, but that does not resolve the problem.",
+      "I admit that you are right, but that does not resolve the issue.",
+      "I accept that you're right, but that doesn't solve the problem.",
+      "I accept that you're right, but that doesn't solve the issue.",
+      "I accept that you're right, but that doesn't resolve the problem.",
+      "I accept that you're right, but that doesn't resolve the issue.",
+      "I accept that you're right, but that does not solve the problem.",
+      "I accept that you're right, but that does not solve the issue.",
+      "I accept that you're right, but that does not resolve the problem.",
+      "I accept that you're right, but that does not resolve the issue.",
+      "I accept that you are right, but that doesn't solve the problem.",
+      "I accept that you are right, but that doesn't solve the issue.",
+      "I accept that you are right, but that doesn't resolve the problem.",
+      "I accept that you are right, but that doesn't resolve the issue.",
+      "I accept that you are right, but that does not solve the problem.",
+      "I accept that you are right, but that does not solve the issue.",
+      "I accept that you are right, but that does not resolve the problem.",
+      "I accept that you are right, but that does not resolve the issue."
+     ],
+     "explain": "Concede + that; \"but\" marks the turn."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Mixed exercises covering the whole unit (the last two review Units 1 and 2).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Much ___ I'd like to help, my hands are tied.",
+     "options": [
+      "as",
+      "so",
+      "that"
+     ],
+     "answer": 0,
+     "explain": "Much as + subject + verb."
+    },
+    {
+     "id": "M2",
+     "type": "choice",
+     "prompt": "A straw man is when someone:",
+     "options": [
+      "misrepresents an opponent's view and attacks that version",
+      "quotes a statistic",
+      "concedes a point"
+     ],
+     "answer": 0,
+     "explain": "Straw man = distorting the other person's position."
+    },
+    {
+     "id": "M3",
+     "type": "gap",
+     "prompt": "Whether you like it ___ not, the deadline stands.",
+     "answers": [
+      "or"
+     ],
+     "explain": "Whether… or not: correlative."
+    },
+    {
+     "id": "M4",
+     "type": "fix",
+     "prompt": "I'm not agree with that argument.",
+     "answers": [
+      "I don't agree with that argument.",
+      "I do not agree with that argument."
+     ],
+     "explain": "\"Agree\" is a verb: it is negated with \"don't\"."
+    },
+    {
+     "id": "M5",
+     "type": "translate",
+     "prompt": "Eso es irrelevante: es una pista falsa. (red herring)",
+     "answers": [
+      "That's irrelevant; it's a red herring.",
+      "That's irrelevant; it is a red herring.",
+      "That is irrelevant; it's a red herring.",
+      "That is irrelevant; it is a red herring.",
+      "That's beside the point; it's a red herring.",
+      "That's beside the point; it is a red herring.",
+      "That is beside the point; it's a red herring.",
+      "That is beside the point; it is a red herring."
+     ],
+     "explain": "Red herring = a false lead."
+    },
+    {
+     "id": "M6",
+     "type": "choice",
+     "prompt": "She tried to ___ his objection before he could raise it.",
+     "options": [
+      "pre-empt",
+      "pre-test",
+      "preach"
+     ],
+     "answer": 0,
+     "explain": "Pre-empt = to anticipate."
+    },
+    {
+     "id": "M7",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Fine",
+      "as",
+      "the",
+      "argument",
+      "is",
+      "it",
+      "rests",
+      "on",
+      "a",
+      "weak",
+      "premise"
+     ],
+     "answers": [
+      "Fine as the argument is, it rests on a weak premise.",
+      "Fine as the argument is it rests on a weak premise."
+     ],
+     "explain": "Adjective + as + subject + be."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "Heaven ___! I would never accuse anyone without evidence.",
+     "answers": [
+      "forbid"
+     ],
+     "explain": "Heaven forbid = God forbid."
+    },
+    {
+     "id": "M9",
+     "type": "choice",
+     "prompt": "(Unit 1 review) We booked a translator, but the host spoke perfect Spanish. We ___ have bothered.",
+     "options": [
+      "needn't",
+      "mustn't",
+      "couldn't"
+     ],
+     "answer": 0,
+     "explain": "needn't have + past participle: something done that was not necessary."
+    },
+    {
+     "id": "M10",
+     "type": "choice",
+     "prompt": "(Unit 2 review) ___ the days when a debate was settled by a single speech.",
+     "options": [
+      "Gone are",
+      "Are gone",
+      "Gone is"
+     ],
+     "answer": 0,
+     "explain": "Inversion for emphasis: \"Gone are the days when…\""
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Persuasive speech of 300 to 400 words for or against the motion: \"This house believes that social media has made public debate worse.\" Open by conceding a point with Much as… or Granted,…, use at least one inverted concessive (Try as…, Brilliant as…), one mandative subjunctive (It is essential that…), a tricolon and an antithesis, and close with a rhetorical question or a formula such as Be that as it may.",
+   "targets": [
+    "advanced concessives",
+    "mandative subjunctive",
+    "parallelism and tricolon",
+    "antithesis",
+    "vocabulario de debate"
+   ],
+   "checklist": [
+    "Between 300 and 400 words with an opening, development and close",
+    "A clear position on the motion from the first paragraph",
+    "A concession with Much as… / Granted,… before opposing",
+    "At least one inverted concessive (Try as… / adjective + as)",
+    "A correct mandative subjunctive (It is essential that… be / that she resign)",
+    "Impeccable parallelism in lists and correlatives (tricolon, not only… but also)",
+    "An explicit rhetorical device (antithesis, anaphora or rhetorical question) and a closing formula such as Be that as it may"
+   ],
+   "model": "Madam Speaker, honourable members, I stand in support of the motion.\n\nMuch as I admire the connectivity that social media has given us, I cannot pretend that it has improved the way we argue. Granted, it has opened the conversation to millions who were once excluded from it; but access is not the same as quality, and a louder debate is not a better one.\n\nConsider what these platforms reward. They reward speed over thought, outrage over reason, and certainty over curiosity. A considered paragraph is ignored; a cruel one-liner is shared a thousand times. Brilliant as the technology is, it was built to hold our attention, not to inform our judgement, and attention is most easily held by anger.\n\nTry as we might to engage with opponents online, the format works against us. Not only do we meet fewer opposing views, but we are also sorted, silently and efficiently, into communities that agree with us. We came for a public square; we have been given a thousand private echo chambers. The square was crowded and noisy, yes, but it was shared. The echo chamber is crowded and noisy, and it is ours alone.\n\nWhat, then, should be done? It is essential that platforms be held accountable for what their algorithms amplify. It is vital that every citizen learn to question a source before sharing it. And it is imperative that we, as speakers, insist that our disagreements remain disagreements and never become wars.\n\nOpponents will tell us that debate has always been rough, that pamphlets were once as vicious as posts. They are right, to a point. But pamphlets did not follow us into our pockets, and they did not learn what would enrage us most. Never before has a tool so cheap rewarded cruelty so reliably.\n\nBe that as it may, I do not ask the House to condemn technology. I ask it to be honest about what it has done: it has given everyone a voice, and made almost no one a listener. If we want a public debate worthy of the name, must we not first learn to listen?\n\nI beg to propose."
+  },
+  {
+   "id": "W2",
+   "prompt": "Written rebuttal of 300 to 400 words to this argument: \"Standardised exams are the only fair way to assess students; everything else just rewards charm.\" Acknowledge what is valid, disagree courteously, set against it evidence or reasoning, and name at least one fallacy (for example, the straw man or the slippery slope) without attacking the person who made the claim.",
+   "targets": [
+    "polite refutation",
+    "fallacies",
+    "concessives",
+    "argumentation vocabulary"
+   ],
+   "checklist": [
+    "Between 300 and 400 words in a formal and courteous tone",
+    "An opening acknowledgement (I take your point / I'll grant you that)",
+    "A gentle disagreement and a counter-argument with reason or evidence",
+    "At least one advanced concessive (Much as…, Be that as it may…, albeit)",
+    "One fallacy identified by name and explained",
+    "Varied argument verbs (contend, undermine, pre-empt, bolster)",
+    "No personal attacks or expressions such as \"I'm not agree\""
+   ],
+   "model": "I take your point that standardised exams have real virtues, and I will grant you at the outset that they offer something few other methods can: every student answers the same questions, under the same conditions, and is marked by the same criteria. That consistency is not trivial, and I would not wish to dismiss it.\n\nMuch as I respect that argument, however, I cannot accept that exams are the only fair way to assess students. You contend that everything else merely rewards charm, but this seems to me a straw man: nobody seriously defending coursework, portfolios or oral assessment claims that students should be graded on personality. Such methods are judged against explicit criteria, moderated by second markers and, albeit imperfectly, designed to measure skills that a timed paper cannot capture, such as sustained research, collaboration and revision. To reduce them to charm is to attack a weaker version of the position than the one actually held, and that is precisely what a straw man does. I raise this not to criticise you, but because the distinction matters for the rest of the debate.\n\nThere is also evidence that undermines the claim of exam fairness. Research on test anxiety suggests that the pressure of a single high-stakes sitting disadvantages some capable students, while others benefit from expensive coaching that is not available to everyone. A test may be uniform in procedure and still unequal in effect. Fairness, in other words, is not only a matter of identical conditions; it is a matter of whether those conditions give every candidate a genuine opportunity to show what they know.\n\nNor does the case for a mixed approach rely on abandoning exams. Examinations can bolster a broader picture of achievement, and a well-designed portfolio can pre-empt the objection that written coursework is easy to outsource. Used together, each method compensates for the weaknesses of the other.\n\nBe that as it may, I suspect we agree on more than it appears: that assessment should be rigorous, transparent and trusted. Where we differ is whether a single instrument can deliver all three. I would argue that it cannot, and that students are better served by several."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "In defence of losing an argument",
+   "intro": "Read the essay and answer the questions. Pay attention to the author's position and to the nuances.",
+   "paragraphs": [
+    "There is a moment in almost every heated debate when one speaker realises that the other has a point. The sensible response, it might seem, is to say so. In practice, a surprising number of people do the opposite: they dig their heels in, reach for a louder tone, or change the subject with a flourish. The psychology is well documented. To concede is to risk looking as though you have lost, and in a culture that treats argument as combat, losing feels like a personal failure.",
+    "Yet the history of rhetoric suggests that this instinct has things backwards. Classical teachers of oratory did not prize the speaker who never yielded; they prized the one who could state the opposing case so fairly that its own defenders would nod in recognition. Much as modern audiences enjoy a good takedown, the arguments that persuade over time are rarely the ones that humiliate. They are the ones that begin by granting what is true in the other side's position and then explain, patiently, why it is not the whole truth.",
+    "Consider the three most common traps. The first is the straw man: restating an opponent's view in a weakened form so that it can be knocked over with ease. The second is the red herring, a dramatic but irrelevant detail introduced to pull the discussion away from where it is going badly. The third, and perhaps the most corrosive, is the ad hominem, in which the speaker attacks the person rather than the point. All three create the impression of victory while leaving the question untouched. Audiences, it turns out, are more discerning than debaters assume. Studies of televised exchanges suggest that viewers quietly mark down a speaker who resorts to such tactics, even when they happen to agree with the conclusion.",
+    "The alternative is not meekness. A good rebuttal can be courteous and ruthless at once. Try as one might to soften it, 'I take your point, but' is a perfectly firm sentence; its power lies in the order of its parts. Acknowledgement comes first, disagreement second and, ideally, a reason the listener can examine. Formal debating societies train this habit deliberately. At one university club I visited, novices are required to open every reply by summarising the previous speaker's argument to that speaker's satisfaction. Only when the opponent says 'yes, that is what I meant' may the novice proceed to attack it. The rule is tiresome for about a week, and then it changes how members listen for the rest of their lives.",
+    "Structure helps, too. Skilled speakers lean on parallelism: three examples, three verbs, a phrase repeated at the head of successive sentences. It is not mere ornament. Repetition gives the listener a framework in which to place each new idea, and a well-built contrast, not a ban but a boundary, not a punishment but a promise, can lodge in the memory long after the evidence has faded. The danger, of course, is that rhythm can disguise thin reasoning. A sentence can sound magnificent and say nothing. The discipline is to ask of any ringing line what, precisely, it claims.",
+    "Then there are the conventions of formal speech and writing that survive in the mandative subjunctive: it is essential that the chair be impartial; the committee requested that each member submit a statement. These forms sound old-fashioned to some ears, yet they signal exactly what the debating chamber values: procedure, restraint and respect for the rules that keep disagreement productive. Be that as it may, no rule can replace the willingness to be moved.",
+    "Which brings us back to the concession. The best debaters I have watched are not those who never lose a point, but those who lose points gracefully and visibly, so that the points they hold carry more weight. 'I was wrong about that' is a short sentence, and it is remarkably expensive to say. Perhaps that is exactly why it persuades."
+   ],
+   "glossary": [
+    {
+     "en": "flourish",
+     "def": "A showy gesture or decorative movement; a dramatic or ornate way of doing something."
+    },
+    {
+     "en": "yield",
+     "def": "To give way or concede; to stop resisting."
+    },
+    {
+     "en": "discerning",
+     "def": "Having good judgement; able to distinguish quality and subtle differences."
+    },
+    {
+     "en": "corrosive",
+     "def": "Gradually destroying or weakening something; insidiously harmful."
+    },
+    {
+     "en": "meekness",
+     "def": "Quiet, gentle submissiveness; a lack of aggression or pride."
+    },
+    {
+     "en": "ruthless",
+     "def": "Without pity or mercy; willing to do whatever it takes."
+    },
+    {
+     "en": "lodge in the memory",
+     "def": "To stay firmly in someone's mind; to be remembered."
+    },
+    {
+     "en": "impartial",
+     "def": "Fair and unbiased; not favouring one side over another."
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Why do many people refuse to concede, according to the essay?",
+     "options": [
+      "In a culture that sees argument as combat, conceding feels like personal failure",
+      "They lack evidence for the opposing view",
+      "Debating rules forbid it"
+     ],
+     "answer": 0,
+     "explain": "The first paragraph attributes it to the culture of argument as combat."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Classical teachers of oratory prized speakers who never yielded.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "They valued whoever stated the opposing case so fairly that its defenders would nod in agreement."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "What do studies of televised exchanges suggest?",
+     "options": [
+      "Viewers quietly mark down speakers who use fallacious tactics, even if they share the conclusion",
+      "Viewers prefer aggressive speakers",
+      "Viewers ignore rhetorical tactics"
+     ],
+     "answer": 0,
+     "explain": "Audiences quietly penalize those tactics."
+    },
+    {
+     "id": "R4",
+     "type": "gap",
+     "prompt": "The writer says the power of 'I take your point, but' lies in the ___ of its parts.",
+     "answers": [
+      "order"
+     ],
+     "explain": "«its power lies in the order of its parts»."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "What rule do novices at the university club follow?",
+     "options": [
+      "They must summarise the previous speaker's argument to that speaker's satisfaction before attacking it",
+      "They must speak for no longer than three minutes",
+      "They must never concede a point"
+     ],
+     "answer": 0,
+     "explain": "It is the rule from the fourth paragraph."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "According to the essay, the danger of rhythm and parallelism is that it:",
+     "options": [
+      "can disguise thin reasoning",
+      "is too slow for modern audiences",
+      "has become old-fashioned"
+     ],
+     "answer": 0,
+     "explain": "«Rhythm can disguise thin reasoning»."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "A speaker who attacks the person rather than the point commits the ___ hominem fallacy.",
+     "answers": [
+      "ad"
+     ],
+     "explain": "Ad hominem."
+    },
+    {
+     "id": "R8",
+     "type": "choice",
+     "prompt": "What is the main point of the final paragraph?",
+     "options": [
+      "Conceding well strengthens the points you keep",
+      "Debating societies should be abolished",
+      "Short sentences are always better"
+     ],
+     "answer": 0,
+     "explain": "The points you keep carry more weight when you concede others gracefully."
+    }
+   ]
+  },
+  "listening": {
+   "title": "The motion before the house",
+   "intro": "Listen to an excerpt from a university debate. You can repeat it.",
+   "lines": [
+    {
+     "who": "Chair",
+     "voice": "buttery",
+     "text": "Order, order. We now come to the main motion: 'This house believes that politicians should be required to publish their private emails.' Imogen, you have the floor for four minutes."
+    },
+    {
+     "who": "Imogen",
+     "voice": "airy",
+     "text": "Thank you, Madam Chair. Much as I respect the right to privacy, I contend that public office changes the terms. Citizens aren't asking for gossip; they're asking for accountability."
+    },
+    {
+     "who": "Imogen",
+     "voice": "airy",
+     "text": "Transparency isn't a luxury; it's a condition of trust. And trust, once lost, can't be legislated back."
+    },
+    {
+     "who": "Chair",
+     "voice": "buttery",
+     "text": "Thank you. Tariq, for the opposition."
+    },
+    {
+     "who": "Tariq",
+     "voice": "glassy",
+     "text": "Thank you, Madam Chair. I take the proposer's point about trust, I really do. But let's be clear about what she's actually asking for. Every message, every draft, every awkward joke on the public record?"
+    },
+    {
+     "who": "Tariq",
+     "voice": "glassy",
+     "text": "Be that as it may on transparency, the likely result is that officials will simply stop writing anything down. Is that the accountability we want? Or will decisions just move to phone calls that leave no trace?"
+    },
+    {
+     "who": "Imogen",
+     "voice": "airy",
+     "text": "Point of information?"
+    },
+    {
+     "who": "Tariq",
+     "voice": "glassy",
+     "text": "Not just now, thank you. Let me finish this thought."
+    },
+    {
+     "who": "Tariq",
+     "voice": "glassy",
+     "text": "It is essential that we distinguish between the public record and the private person. Try as I might to see a workable line, I can't find one in this motion."
+    },
+    {
+     "who": "Imogen",
+     "voice": "airy",
+     "text": "Might I say, with respect, that the member is attacking a version of the motion that nobody proposed? We said official business, not private life."
+    },
+    {
+     "who": "Chair",
+     "voice": "buttery",
+     "text": "I'll allow that. Tariq, you may respond."
+    },
+    {
+     "who": "Tariq",
+     "voice": "glassy",
+     "text": "Fair enough. The proposer has narrowed her claim, and I concede that official correspondence is a different matter. Even so, the burden of proof still lies with her."
+    },
+    {
+     "who": "Chair",
+     "voice": "buttery",
+     "text": "Thank you both. Let's turn now to the floor."
+    },
+    {
+     "who": "Imogen",
+     "voice": "airy",
+     "text": "And may I just say that, for all our disagreements, that was a thoroughly enjoyable exchange."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What is the motion about?",
+     "options": [
+      "Politicians publishing their private emails",
+      "Banning social media in schools",
+      "Extending the length of debates"
+     ],
+     "answer": 0,
+     "explain": "«publish their private emails»."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "How does Imogen describe transparency?",
+     "options": [
+      "A condition of trust",
+      "A luxury",
+      "A favour"
+     ],
+     "answer": 0,
+     "explain": "Transparency isn't a luxury; it's a condition of trust."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What is Tariq's main fear?",
+     "options": [
+      "Officials will stop writing things down and move decisions to untraceable calls",
+      "Officials will leak documents",
+      "Citizens will lose interest in politics"
+     ],
+     "answer": 0,
+     "explain": "Decisions would move to phone calls that leave no trace."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What does Imogen accuse Tariq of?",
+     "options": [
+      "Attacking a version of the motion nobody proposed",
+      "Interrupting the chair",
+      "Misusing statistics"
+     ],
+     "answer": 0,
+     "explain": "It is an accusation of a straw man, without naming it."
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "Tariq concedes that official ___ is a different matter.",
+     "answers": [
+      "correspondence"
+     ],
+     "explain": "«official correspondence is a different matter»."
+    },
+    {
+     "id": "L6",
+     "type": "choice",
+     "prompt": "Who, in Tariq's view, still carries the burden of proof?",
+     "options": [
+      "Imogen",
+      "The chair",
+      "The audience"
+     ],
+     "answer": 0,
+     "explain": "«the burden of proof still lies with her»."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Transparency isn't a luxury; it's a condition of trust.",
+     "answers": [
+      "Transparency isn't a luxury; it's a condition of trust.",
+      "Transparency is not a luxury; it is a condition of trust.",
+      "Transparency is not a luxury, it's a condition of trust.",
+      "Transparency isn't a luxury, it is a condition of trust."
+     ],
+     "explain": "Brief antithesis: not X; Y."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Try as I might to see a workable line, I can't find one in this motion.",
+     "answers": [
+      "Try as I might to see a workable line, I can't find one in this motion.",
+      "Try as I might to see a workable line, I cannot find one in this motion."
+     ],
+     "explain": "Concessive with inversion: Try as I might…"
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "It is essential that we distinguish between the public record and the private person.",
+     "answers": [
+      "It is essential that we distinguish between the public record and the private person."
+     ],
+     "explain": "Mandativo: it is essential that we distinguish (forma base)."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "I concede that official correspondence is a different matter.",
+     "answers": [
+      "I concede that official correspondence is a different matter."
+     ],
+     "explain": "Concede + that: a single concession."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Defend or reject the motion: \"Remote work should be the default for office jobs.\" Speak for one minute, with a concession, an argument and a conclusion that uses parallelism.",
+     "questions": [
+      "Do you support the motion? Why?",
+      "What is the strongest argument against your position?",
+      "How would you concede that point and still defend your view?",
+      "Can you sum up your case in three parallel phrases?"
+     ],
+     "model": "I'd argue in favour. Much as I value office life, I contend that flexibility should be the default, not the exception. It saves time, it widens the talent pool, and it trusts people to do their job. Be that as it may on collaboration, which is a fair concern, the evidence suggests it can be managed with good planning. In short: more freedom, more focus, more fairness.",
+     "checklist": [
+      "A clear position from the start",
+      "A concession with Much as… or Granted,…",
+      "A parallel closing tricolon",
+      "Be that as it may or a similar formula to steer back"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Courteously refute this claim from an interlocutor: \"Social media has made debate worse, and nobody can disagree.\" Use the four moves: acknowledge, disagree, counter-argue, steer back.",
+     "questions": [
+      "How would you acknowledge what is true in that claim?",
+      "How would you disagree without attacking the speaker?",
+      "What evidence or example would you offer?",
+      "How would you bring the discussion back to the real issue?"
+     ],
+     "model": "I take your point, and there is plenty of toxicity online. But I'd push back on 'nobody can disagree'. Take recent election debates: many citizens say they heard views they would never meet otherwise. That doesn't excuse abuse, though it does complicate the picture. Which brings us back to the real issue: the design of platforms, not the existence of debate itself.",
+     "checklist": [
+      "Acknowledge first (I take your point)",
+      "Disagree courteously (I'd push back on…)",
+      "Give an example or piece of evidence",
+      "Steer back to the central point (Which brings us back to…)"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Tell about an occasion when you changed your mind in a discussion: which argument convinced you and how you conceded it.",
+     "questions": [
+      "When did you last change your mind in an argument?",
+      "What argument persuaded you?",
+      "How did you concede the point?",
+      "What did you learn about arguing well?"
+     ],
+     "model": "Last year I argued that remote exams were unfair. Strange as it may seem, a classmate won me over with a very simple point: the unfairness was in the access, not the format. I conceded on the spot. Far from feeling beaten, I felt I had understood the issue better. It taught me that losing a point gracefully makes the points you keep stronger.",
+     "checklist": [
+      "A brief, clear narrative",
+      "One concessive (Strange as it may seem / Much as…)",
+      "Debate verbs (concede, win over, persuade)",
+      "A final reflection with nuance"
+     ]
+    }
+   ],
+   "repeat": [
+    "Much as I admire your argument, I can't agree.",
+    "Be that as it may, the facts remain.",
+    "With respect, that rather misses the point.",
+    "It is essential that every voice be heard.",
+    "I take your point, but I wonder whether it's the whole story.",
+    "Point taken; I stand corrected."
+   ]
+  }
+ }
+}

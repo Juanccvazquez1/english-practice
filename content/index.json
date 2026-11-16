@@ -1,0 +1,469 @@
+{
+ "levels": [
+  {
+   "id": "anglo",
+   "title": "The Anglo · My class",
+   "desc": "Extra practice that follows your class course, one unit for each course unit.",
+   "units": [
+    {
+     "id": "u-anglo-01",
+     "n": 1,
+     "title": "Personal Information",
+     "file": "u-anglo-01.json"
+    },
+    {
+     "id": "u-anglo-02",
+     "n": 2,
+     "title": "Education",
+     "file": "u-anglo-02.json"
+    },
+    {
+     "id": "u-anglo-03",
+     "n": 3,
+     "title": "Getting a Job",
+     "file": "u-anglo-03.json"
+    },
+    {
+     "id": "u-anglo-04",
+     "n": 4,
+     "title": "Money Matters",
+     "file": "u-anglo-04.json"
+    },
+    {
+     "id": "u-anglo-05",
+     "n": 5,
+     "title": "Health",
+     "file": "u-anglo-05.json"
+    },
+    {
+     "id": "u-anglo-06",
+     "n": 6,
+     "title": "In the Workplace",
+     "file": "u-anglo-06.json"
+    },
+    {
+     "id": "u-anglo-07",
+     "n": 7,
+     "title": "Safety",
+     "file": "u-anglo-07.json"
+    },
+    {
+     "id": "u-anglo-08",
+     "n": 8,
+     "title": "Housing",
+     "file": "u-anglo-08.json"
+    },
+    {
+     "id": "u-anglo-09",
+     "n": 9,
+     "title": "In the Community",
+     "file": "u-anglo-09.json"
+    },
+    {
+     "id": "u-anglo-10",
+     "n": 10,
+     "title": "Government & Law",
+     "file": "u-anglo-10.json"
+    }
+   ]
+  },
+  {
+   "id": "a1",
+   "title": "A1 · Beginner",
+   "desc": "Introduce yourself and talk about your routine, family and city.",
+   "units": [
+    {
+     "id": "b1-u01",
+     "n": 1,
+     "title": "Nice to meet you!",
+     "file": "b1-u01.json",
+     "store": "b1"
+    },
+    {
+     "id": "b1-u02",
+     "n": 2,
+     "title": "What do you do?",
+     "file": "b1-u02.json",
+     "store": "b1"
+    },
+    {
+     "id": "b1-u03",
+     "n": 3,
+     "title": "Down time",
+     "file": "b1-u03.json",
+     "store": "b1"
+    },
+    {
+     "id": "b1-u04",
+     "n": 4,
+     "title": "Day in, day out",
+     "file": "b1-u04.json",
+     "store": "b1"
+    },
+    {
+     "id": "b2-u05",
+     "n": 5,
+     "title": "Here, there, and everywhere!",
+     "file": "b2-u05.json",
+     "store": "b2"
+    },
+    {
+     "id": "b2-u06",
+     "n": 6,
+     "title": "Different strokes",
+     "file": "b2-u06.json",
+     "store": "b2"
+    },
+    {
+     "id": "b2-u07",
+     "n": 7,
+     "title": "You have talent!",
+     "file": "b2-u07.json",
+     "store": "b2"
+    },
+    {
+     "id": "b2-u08",
+     "n": 8,
+     "title": "Shopping around",
+     "file": "b2-u08.json",
+     "store": "b2"
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "A2 · Elementary",
+   "desc": "Talk about past experiences, make plans and handle everyday situations.",
+   "units": [
+    {
+     "id": "u-a2-01",
+     "n": 1,
+     "title": "Around the world",
+     "file": "u-a2-01.json"
+    },
+    {
+     "id": "u-a2-02",
+     "n": 2,
+     "title": "Busy lives",
+     "file": "u-a2-02.json"
+    },
+    {
+     "id": "u-a2-03",
+     "n": 3,
+     "title": "Looking back",
+     "file": "u-a2-03.json"
+    },
+    {
+     "id": "u-a2-04",
+     "n": 4,
+     "title": "Let's eat!",
+     "file": "u-a2-04.json"
+    },
+    {
+     "id": "u-a2-05",
+     "n": 5,
+     "title": "Friends and small talk",
+     "file": "u-a2-05.json"
+    },
+    {
+     "id": "u-a2-06",
+     "n": 6,
+     "title": "What are you into?",
+     "file": "u-a2-06.json"
+    },
+    {
+     "id": "u-a2-07",
+     "n": 7,
+     "title": "Stay healthy!",
+     "file": "u-a2-07.json"
+    },
+    {
+     "id": "u-a2-08",
+     "n": 8,
+     "title": "Let's celebrate!",
+     "file": "u-a2-08.json"
+    },
+    {
+     "id": "u-a2-09",
+     "n": 9,
+     "title": "When I was a kid",
+     "file": "u-a2-09.json"
+    },
+    {
+     "id": "u-a2-10",
+     "n": 10,
+     "title": "Finding your way",
+     "file": "u-a2-10.json"
+    },
+    {
+     "id": "u-a2-11",
+     "n": 11,
+     "title": "Pack your bags!",
+     "file": "u-a2-11.json"
+    },
+    {
+     "id": "u-a2-12",
+     "n": 12,
+     "title": "Make yourself at home",
+     "file": "u-a2-12.json"
+    }
+   ]
+  },
+  {
+   "id": "b1",
+   "title": "B1 · Intermediate",
+   "desc": "Chat with ease about experiences, opinions and plans.",
+   "units": [
+    {
+     "id": "u-b1-01",
+     "n": 1,
+     "title": "When things go wrong",
+     "file": "u-b1-01.json"
+    },
+    {
+     "id": "u-b1-02",
+     "n": 2,
+     "title": "Keeping in touch",
+     "file": "u-b1-02.json"
+    },
+    {
+     "id": "u-b1-03",
+     "n": 3,
+     "title": "Who do you look like?",
+     "file": "u-b1-03.json"
+    },
+    {
+     "id": "u-b1-04",
+     "n": 4,
+     "title": "Looking ahead",
+     "file": "u-b1-04.json"
+    },
+    {
+     "id": "u-b1-05",
+     "n": 5,
+     "title": "Personality plus",
+     "file": "u-b1-05.json"
+    },
+    {
+     "id": "u-b1-06",
+     "n": 6,
+     "title": "Been there, done that!",
+     "file": "u-b1-06.json"
+    },
+    {
+     "id": "u-b1-07",
+     "n": 7,
+     "title": "Wonders of the World",
+     "file": "u-b1-07.json"
+    },
+    {
+     "id": "u-b1-08",
+     "n": 8,
+     "title": "Family Matters",
+     "file": "u-b1-08.json"
+    },
+    {
+     "id": "u-b1-09",
+     "n": 9,
+     "title": "Eat smart",
+     "file": "u-b1-09.json"
+    },
+    {
+     "id": "u-b1-10",
+     "n": 10,
+     "title": "Plans and priorities",
+     "file": "u-b1-10.json"
+    }
+   ]
+  },
+  {
+   "id": "b2",
+   "title": "B2 · Upper intermediate",
+   "desc": "Argue a point, add nuance and understand complex texts.",
+   "units": [
+    {
+     "id": "u-b2-01",
+     "n": 1,
+     "title": "Close Ties",
+     "file": "u-b2-01.json"
+    },
+    {
+     "id": "u-b2-02",
+     "n": 2,
+     "title": "If Only…",
+     "file": "u-b2-02.json"
+    },
+    {
+     "id": "u-b2-03",
+     "n": 3,
+     "title": "Plugged in",
+     "file": "u-b2-03.json"
+    },
+    {
+     "id": "u-b2-04",
+     "n": 4,
+     "title": "What have you been up to?",
+     "file": "u-b2-04.json"
+    },
+    {
+     "id": "u-b2-05",
+     "n": 5,
+     "title": "Reading Between the Lines",
+     "file": "u-b2-05.json"
+    },
+    {
+     "id": "u-b2-06",
+     "n": 6,
+     "title": "Breaking News",
+     "file": "u-b2-06.json"
+    },
+    {
+     "id": "u-b2-07",
+     "n": 7,
+     "title": "Stories Worth Telling",
+     "file": "u-b2-07.json"
+    },
+    {
+     "id": "u-b2-08",
+     "n": 8,
+     "title": "Looks That Work",
+     "file": "u-b2-08.json"
+    },
+    {
+     "id": "u-b2-09",
+     "n": 9,
+     "title": "Do as the locals do",
+     "file": "u-b2-09.json"
+    },
+    {
+     "id": "u-b2-10",
+     "n": 10,
+     "title": "Count me in!",
+     "file": "u-b2-10.json"
+    }
+   ]
+  },
+  {
+   "id": "c1",
+   "title": "C1 · Advanced",
+   "desc": "Express yourself fluently and precisely in academic and professional settings.",
+   "units": [
+    {
+     "id": "u-c1-01",
+     "n": 1,
+     "title": "First impressions",
+     "file": "u-c1-01.json"
+    },
+    {
+     "id": "u-c1-02",
+     "n": 2,
+     "title": "The future of work",
+     "file": "u-c1-02.json"
+    },
+    {
+     "id": "u-c1-03",
+     "n": 3,
+     "title": "Getting the message across",
+     "file": "u-c1-03.json"
+    },
+    {
+     "id": "u-c1-04",
+     "n": 4,
+     "title": "Science and doubt",
+     "file": "u-c1-04.json"
+    },
+    {
+     "id": "u-c1-05",
+     "n": 5,
+     "title": "Places we call home",
+     "file": "u-c1-05.json"
+    },
+    {
+     "id": "u-c1-06",
+     "n": 6,
+     "title": "Turning points",
+     "file": "u-c1-06.json"
+    },
+    {
+     "id": "u-c1-07",
+     "n": 7,
+     "title": "Mind and memory",
+     "file": "u-c1-07.json"
+    },
+    {
+     "id": "u-c1-08",
+     "n": 8,
+     "title": "Money talks",
+     "file": "u-c1-08.json"
+    },
+    {
+     "id": "u-c1-09",
+     "n": 9,
+     "title": "The power of persuasion",
+     "file": "u-c1-09.json"
+    },
+    {
+     "id": "u-c1-10",
+     "n": 10,
+     "title": "Global challenges",
+     "file": "u-c1-10.json"
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "C2 · Proficient",
+   "desc": "Master nuance, style and register like an expert user.",
+   "units": [
+    {
+     "id": "u-c2-01",
+     "n": 1,
+     "title": "Shades of meaning",
+     "file": "u-c2-01.json"
+    },
+    {
+     "id": "u-c2-02",
+     "n": 2,
+     "title": "The art of storytelling",
+     "file": "u-c2-02.json"
+    },
+    {
+     "id": "u-c2-03",
+     "n": 3,
+     "title": "In our own words",
+     "file": "u-c2-03.json"
+    },
+    {
+     "id": "u-c2-04",
+     "n": 4,
+     "title": "Making your case",
+     "file": "u-c2-04.json"
+    },
+    {
+     "id": "u-c2-05",
+     "n": 5,
+     "title": "Writing with precision",
+     "file": "u-c2-05.json"
+    },
+    {
+     "id": "u-c2-06",
+     "n": 6,
+     "title": "Humour and irony",
+     "file": "u-c2-06.json"
+    },
+    {
+     "id": "u-c2-07",
+     "n": 7,
+     "title": "The Letter and the Spirit",
+     "file": "u-c2-07.json"
+    },
+    {
+     "id": "u-c2-08",
+     "n": 8,
+     "title": "The More Things Change",
+     "file": "u-c2-08.json"
+    }
+   ]
+  }
+ ]
+}

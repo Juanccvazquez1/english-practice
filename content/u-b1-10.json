@@ -1,0 +1,1699 @@
+{
+ "id": "u-b1-10",
+ "level": "B1",
+ "n": 10,
+ "title": "Plans and priorities",
+ "goals": [
+  "Choose the correct form to talk about the future: will, be going to, present continuous and simple present.",
+  "Give advice with had better, ought to and might want to.",
+  "Say what is necessary, not necessary, or preferable with have got to, don't have to and would rather.",
+  "Use expressions with do and make to talk about problems, decisions and work.",
+  "Talk about work, priorities and deadlines (multitasking, set priorities, meet a deadline).",
+  "Connect ideas with as long as, provided that and unless; end calls and say goodbye informally."
+ ],
+ "learn": [
+  {
+   "id": "v-plans-work",
+   "kind": "vocab",
+   "title": "Plans and work",
+   "words": [
+    {
+     "id": "w-schedule",
+     "en": "schedule",
+     "es": "horario, agenda",
+     "example": "My schedule is full on Mondays.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-deadline",
+     "en": "deadline",
+     "es": "fecha límite",
+     "example": "The deadline for the report is Friday.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-afterwards",
+     "en": "afterwards",
+     "es": "después, luego",
+     "example": "We have class, and afterwards we go for coffee.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-catch-up",
+     "en": "catch up with someone",
+     "es": "ponerse al día con alguien",
+     "example": "I'd like to catch up with my old friends this weekend.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-colleague",
+     "en": "colleague",
+     "es": "colega (del trabajo)",
+     "example": "My colleague helps me with the project.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-co-worker",
+     "en": "co-worker",
+     "es": "compañero/a de trabajo",
+     "example": "A co-worker is going to take my place."
+    },
+    {
+     "id": "w-promotion",
+     "en": "promotion",
+     "es": "ascenso",
+     "example": "She's hoping for a promotion this year.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-news",
+     "en": "news",
+     "es": "noticias (incontable)",
+     "example": "I have good news for you.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-meeting",
+     "en": "meeting",
+     "es": "reunión",
+     "example": "The meeting starts at nine.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-presentation",
+     "en": "presentation",
+     "es": "presentación",
+     "example": "I'm giving a presentation on Monday.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-by-next-week",
+     "en": "by next week",
+     "es": "para la próxima semana (a más tardar)",
+     "example": "I've got to finish it by next week.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-for-first-time",
+     "en": "for the first time",
+     "es": "por primera vez",
+     "example": "I'm visiting Oaxaca for the first time.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-future",
+   "kind": "grammar",
+   "title": "Talking about the future: will, be going to, present continuous and simple present",
+   "html": "<p>In English there isn't just one «future»: the form depends on <strong>why</strong> you are talking about the future.</p><table><thead><tr><th>Form</th><th>When it is used</th><th>Example</th></tr></thead><tbody><tr><td><strong>will</strong> + verb</td><td>you decide something <strong>at the moment</strong> you speak; predictions based on what you know</td><td>I'll get it! Our project won't be finished on time.</td></tr><tr><td><strong>be going to</strong> + verb</td><td>plans already decided; predictions with evidence</td><td>We're going to have dinner together. My boss is going to make us work late.</td></tr><tr><td><strong>present continuous</strong></td><td>fixed, specific plans (they sound more definite)</td><td>I'm meeting Anna after my class.</td></tr><tr><td><strong>simple present</strong></td><td>schedules and timetables</td><td>The class starts at 7:00 tomorrow.</td></tr></tbody></table><ul><li>For information about the future (facts), you can use <em>will</em> or <em>be going to</em>: <em>You'll be back on Friday? / You're going to be out of town.</em></li><li>For personal plans that are already decided, <strong>don't use will</strong>: say <em>I'm going to call her</em> or <em>I'm calling her at five</em>.</li><li>Negative form: <em>won't</em> (will not), <em>isn't going to</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "A: I need a pen. B: I'm going to get you one right now.",
+     "right": "I'll get you one right now.",
+     "why": "Spontaneous decision when speaking: will."
+    },
+    {
+     "wrong": "The meeting is starting at 9:00 every Monday.",
+     "right": "The meeting starts at 9:00 every Monday.",
+     "why": "Timetables use the simple present."
+    },
+    {
+     "wrong": "I will visit my grandparents on Sunday. We bought the tickets already.",
+     "right": "I'm visiting my grandparents on Sunday. We already bought the tickets.",
+     "why": "Plan already decided and organized: present continuous or be going to."
+    },
+    {
+     "wrong": "I'm going to to call you later.",
+     "right": "I'm going to call you later.",
+     "why": "Be going to + base verb, without another to."
+    }
+   ]
+  },
+  {
+   "id": "v-do-make",
+   "kind": "vocab",
+   "title": "do and make: expressions with problems and decisions",
+   "words": [
+    {
+     "id": "w-do-good",
+     "en": "do some good (for)",
+     "es": "hacer algo de bien (por)",
+     "example": "Volunteers do some good for the community.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-do-volunteer",
+     "en": "do volunteer work",
+     "es": "hacer trabajo voluntario",
+     "example": "I do volunteer work on Saturdays.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-do-best",
+     "en": "do your best",
+     "es": "dar tu mejor esfuerzo",
+     "example": "Just do your best in the interview.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-make-difference",
+     "en": "make a difference",
+     "es": "marcar la diferencia",
+     "example": "One person can make a difference.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-make-effort",
+     "en": "make an effort to do something",
+     "es": "hacer un esfuerzo por hacer algo",
+     "example": "He makes an effort to arrive on time.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-do-research",
+     "en": "do research",
+     "es": "investigar, hacer investigación",
+     "example": "I did some research before buying the phone.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-do-the-math",
+     "en": "do the math",
+     "es": "hacer las cuentas",
+     "example": "Do the math: you can't pay that every month.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-do-something-about",
+     "en": "do something about a problem",
+     "es": "hacer algo respecto a un problema",
+     "example": "You have to do something about the noise.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-ignore-problem",
+     "en": "ignore a problem",
+     "es": "ignorar un problema",
+     "example": "If you ignore a problem, it gets bigger.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-make-decision",
+     "en": "make a decision to do something",
+     "es": "tomar la decisión de hacer algo",
+     "example": "She made a decision to change jobs.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-make-list",
+     "en": "make a list (of)",
+     "es": "hacer una lista (de)",
+     "example": "Make a list of your priorities.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-make-living",
+     "en": "make a living",
+     "es": "ganarse la vida",
+     "example": "He makes a living as a photographer.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-make-mistake",
+     "en": "make a mistake",
+     "es": "cometer un error",
+     "example": "Everyone makes mistakes.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-make-excuses",
+     "en": "make excuses",
+     "es": "poner pretextos",
+     "example": "Stop making excuses and start working.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-make-sense",
+     "en": "make sense",
+     "es": "tener sentido",
+     "example": "Your plan makes sense to me.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-make-up-mind",
+     "en": "make up your mind (if)",
+     "es": "decidirse (si)",
+     "example": "I can't make up my mind if I should go.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "g-advice",
+   "kind": "grammar",
+   "title": "What's advisable: had better, ought to, might want to",
+   "html": "<p>To give advice or say what is advisable, use these expressions followed by the <strong>base form of the verb</strong> (without <em>to</em>, except <em>ought to</em>).</p><table><thead><tr><th>Expression</th><th>Strength</th><th>Example</th></tr></thead><tbody><tr><td><strong>had better</strong> (<strong>'d better</strong>)</td><td>strong; there are consequences if you don't do it</td><td>You'd better do something quickly.</td></tr><tr><td><strong>ought to</strong></td><td>medium; advice or a good idea</td><td>I ought to do some volunteer work.</td></tr><tr><td><strong>might want to</strong></td><td>soft; a friendly suggestion</td><td>You might want to take a colleague with you.</td></tr></tbody></table><ul><li>Negative of <em>had better</em>: <em>You'd better not be late.</em></li><li><strong>Don't use had better for general advice</strong> (about everyone): for that, use <em>ought to</em> or <em>should</em>. <em>People ought to exercise more.</em></li><li><em>Had better</em> looks like a past form because of <em>had</em>, but it refers to the present or future. It is contracted to <em>'d</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "You had better to call your boss.",
+     "right": "You had better call your boss.",
+     "why": "Had better + base verb, without to."
+    },
+    {
+     "wrong": "I ought go to the gym more often.",
+     "right": "I ought to go to the gym more often.",
+     "why": "Ought always takes to."
+    },
+    {
+     "wrong": "You better not be late.",
+     "right": "You'd better not be late.",
+     "why": "You need 'd (had) before better."
+    },
+    {
+     "wrong": "Everybody had better exercise every day.",
+     "right": "Everybody ought to exercise every day.",
+     "why": "Had better isn't used for general advice."
+    }
+   ]
+  },
+  {
+   "id": "g-necessity-preference",
+   "kind": "grammar",
+   "title": "What's necessary and what you prefer: have got to, going to have to, don't have to, would rather",
+   "html": "<p>These structures are also followed by the base form of the verb.</p><table><thead><tr><th>Idea</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>necessary (strong)</td><td><strong>have got to</strong> (<strong>'ve got to</strong>)</td><td>I've got to decide by next week.</td></tr><tr><td>necessary (in the future)</td><td><strong>be going to have to</strong></td><td>I'm going to have to do something about it.</td></tr><tr><td>not necessary</td><td><strong>don't / doesn't have to</strong></td><td>You don't have to spend time on this.</td></tr><tr><td>preference</td><td><strong>would rather</strong> (<strong>'d rather</strong>)</td><td>I'd rather stay in my current job.</td></tr><tr><td>negative preference</td><td><strong>would rather not</strong></td><td>I'd rather not change jobs.</td></tr></tbody></table><ul><li><em>Have got to</em> is stronger than <em>going to have to</em>.</li><li><strong>Don't have to does NOT mean «you must not»</strong>: it means «it isn't necessary». To prohibit, use <em>mustn't</em> or <em>can't</em>.</li><li>With <em>would rather</em> there is no <em>to</em>: <em>I'd rather stay</em>, not <em>I'd rather to stay</em>. To compare: <em>I'd rather stay home than go out.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "She doesn't has to wake up early.",
+     "right": "She doesn't have to wake up early.",
+     "why": "After doesn't comes the base form: have."
+    },
+    {
+     "wrong": "I'd rather to stay at home.",
+     "right": "I'd rather stay at home.",
+     "why": "Would rather + base verb, without to."
+    },
+    {
+     "wrong": "I've got finish this report today.",
+     "right": "I've got to finish this report today.",
+     "why": "Have got to takes to."
+    },
+    {
+     "wrong": "You don't have to smoke here. It's forbidden.",
+     "right": "You can't smoke here. It's forbidden.",
+     "why": "Don't have to = not necessary; the prohibition is can't / mustn't."
+    }
+   ]
+  },
+  {
+   "id": "v-people",
+   "kind": "vocab",
+   "title": "Interacting with people",
+   "words": [
+    {
+     "id": "w-do-talking",
+     "en": "do the talking",
+     "es": "hablar tú (llevar la conversación)",
+     "example": "Let me do the talking at the meeting.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-be-yourself",
+     "en": "just be yourself",
+     "es": "simplemente sé tú mismo/a",
+     "example": "Don't be nervous. Just be yourself.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-make-appointment",
+     "en": "make an appointment to see someone",
+     "es": "hacer una cita para ver a alguien",
+     "example": "I made an appointment to see the dentist.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-good-impression",
+     "en": "make a good impression on someone",
+     "es": "causar una buena impresión en alguien",
+     "example": "Wear a suit to make a good impression on the boss.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-make-an-excuse",
+     "en": "make an excuse",
+     "es": "poner un pretexto",
+     "example": "He made an excuse and left early.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-make-fun",
+     "en": "make fun of",
+     "es": "burlarse de",
+     "example": "Don't make fun of people who are learning English.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-nice-comments",
+     "en": "make (nice) comments",
+     "es": "hacer comentarios (amables)",
+     "example": "She always makes nice comments about my work.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-take-colleague",
+     "en": "take a colleague with you",
+     "es": "llevar a un colega contigo",
+     "example": "You might want to take a colleague with you.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-be-honest",
+     "en": "be honest with someone",
+     "es": "ser sincero/a con alguien",
+     "example": "Be honest with your boss about your schedule.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-volunteer-work",
+     "en": "volunteer work",
+     "es": "trabajo voluntario",
+     "example": "Volunteer work gives me a lot of satisfaction.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "v-multitasking",
+   "kind": "vocab",
+   "title": "Multitasking and priorities",
+   "words": [
+    {
+     "id": "w-drive-crazy",
+     "en": "drive someone crazy",
+     "es": "volver loco a alguien",
+     "example": "The noise in the office drives me crazy.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-distracted",
+     "en": "get distracted by",
+     "es": "distraerse con",
+     "example": "I get distracted by my phone.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-make-progress",
+     "en": "make progress on",
+     "es": "avanzar en",
+     "example": "We're making progress on the new project.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-meet-deadline",
+     "en": "meet a deadline",
+     "es": "cumplir con una fecha límite",
+     "example": "She always meets her deadlines.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-multitask",
+     "en": "multitask",
+     "es": "hacer varias cosas a la vez",
+     "example": "I can't multitask. I work better on one thing."
+    },
+    {
+     "id": "w-trick",
+     "en": "play a trick on someone",
+     "es": "hacerle una broma a alguien",
+     "example": "They played a trick on me on April Fools' Day.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-tight-deadline",
+     "en": "set a tight deadline",
+     "es": "poner un plazo muy justo",
+     "example": "The client set a tight deadline.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-set-priorities",
+     "en": "set priorities",
+     "es": "establecer prioridades",
+     "example": "First, set your priorities.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-take-on",
+     "en": "take on (too many jobs)",
+     "es": "asumir, aceptar (demasiados trabajos)",
+     "example": "Don't take on too many jobs at the same time.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-attachment",
+     "en": "attachment",
+     "es": "archivo adjunto",
+     "example": "I sent the report as an attachment.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-distraction",
+     "en": "distraction",
+     "es": "distracción",
+     "example": "My phone is a big distraction."
+    },
+    {
+     "id": "w-stress-level",
+     "en": "stress level",
+     "es": "nivel de estrés",
+     "example": "My stress level is high before exams.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-make-sure",
+     "en": "make sure (that)",
+     "es": "asegurarse (de que)",
+     "example": "Make sure that you save the file.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-linking",
+   "kind": "grammar",
+   "title": "Connecting ideas: as long as, provided that, unless",
+   "html": "<p>These expressions join two conditional ideas. They are mainly used in writing.</p><table><thead><tr><th>Expression</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td><strong>as long as</strong></td><td>if, only if</td><td>You can go out <strong>as long as</strong> you finish your work.</td></tr><tr><td><strong>provided that</strong></td><td>if, only if (more formal)</td><td>I'll help you <strong>provided that</strong> you tell me the truth.</td></tr><tr><td><strong>unless</strong></td><td>unless; if ... not</td><td><strong>Unless</strong> you find time, there is no point in having the recordings.</td></tr></tbody></table><ul><li><em>Unless = if ... not</em>: <em>Unless you study, you'll fail = If you don't study, you'll fail.</em></li><li>After <em>unless</em> the verb is affirmative (it already contains the «no»): <em>unless it rains</em>, not <em>unless it doesn't rain</em>.</li><li>With future time, the verb in the clause with <em>as long as / unless</em> is in the present: <em>unless you finish</em>, not <em>unless you will finish</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "I won't go unless it doesn't rain.",
+     "right": "I won't go unless it rains.",
+     "why": "Unless already means «if not»; the verb is affirmative."
+    },
+    {
+     "wrong": "You can borrow my car as long you drive carefully.",
+     "right": "You can borrow my car as long as you drive carefully.",
+     "why": "The full expression is as long as."
+    },
+    {
+     "wrong": "I'll call you unless I will have time.",
+     "right": "I'll call you unless I have time.",
+     "why": "After unless / as long as, use the present, not will."
+    }
+   ]
+  },
+  {
+   "id": "e-ending-calls",
+   "kind": "expressions",
+   "title": "Ending a call and saying goodbye",
+   "html": "<p><strong>To try to end a call:</strong></p><ul><li><strong>I'd better go. / I've got to get going. / I've really got to go.</strong></li><li><strong>I'm going to have to run.</strong></li><li><strong>Can I call you back? / I'll call you later.</strong></li></ul><p><strong>Informal goodbyes</strong> (the words in parentheses are usually left out):</p><ul><li><strong>(I'll) Talk to you later. / (I'll) Catch you later. / (I'll) See you later.</strong></li><li><strong>(I've) Got to go. / (I'd) Better go.</strong></li><li><strong>(It was) Nice talking to you.</strong></li></ul><p>Example: <em>A: Is this a good time to talk? B: Not really. Can I call you back?</em></p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Future forms",
+   "instructions": "Choose or write the appropriate future form (will, be going to, present continuous or simple present).",
+   "topic": "g-future",
+   "items": [
+    {
+     "id": "A1",
+     "type": "choice",
+     "prompt": "The phone is ringing! ___ it.",
+     "options": [
+      "I'll get",
+      "I'm getting",
+      "I get"
+     ],
+     "answer": 0,
+     "explain": "Spontaneous decision when speaking: will."
+    },
+    {
+     "id": "A2",
+     "type": "choice",
+     "prompt": "The train ___ at 6:15 tomorrow morning.",
+     "options": [
+      "leaves",
+      "is going to leave",
+      "will leave"
+     ],
+     "answer": 0,
+     "explain": "Transport timetable: simple present."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "I ___ (meet) Anna at 8 tonight. We already have a table.",
+     "answers": [
+      "am meeting",
+      "'m meeting"
+     ],
+     "explain": "Fixed, already organized plan: present continuous."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "We ___ (have) dinner together on Saturday. I booked the restaurant.",
+     "answers": [
+      "are having",
+      "'re having",
+      "are going to have",
+      "'re going to have"
+     ],
+     "explain": "Decided plan: present continuous or be going to."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "Our project ___ be finished on time. We still have too much to do.",
+     "answers": [
+      "won't",
+      "will not",
+      "isn't going to",
+      "is not going to"
+     ],
+     "explain": "Negative prediction: won't / isn't going to."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "The meeting is starting at 9:00 tomorrow.",
+     "answers": [
+      "The meeting starts at 9:00 tomorrow.",
+      "The meeting begins at 9:00 tomorrow."
+     ],
+     "explain": "Timetables use the simple present."
+    },
+    {
+     "id": "A7",
+     "type": "fix",
+     "prompt": "Oh, you don't have a pen? I'm going to get you one right now.",
+     "answers": [
+      "Oh, you don't have a pen? I'll get you one right now."
+     ],
+     "explain": "Decision at the moment of speaking: will."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "going",
+      "We're",
+      "dinner",
+      "to",
+      "have",
+      "together"
+     ],
+     "answers": [
+      "We're going to have dinner together.",
+      "We are going to have dinner together."
+     ],
+     "explain": "Be going to + base verb."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Consejos: had better, ought to, might want to",
+   "instructions": "Complete or correct.",
+   "topic": "g-advice",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "You ___ better see a doctor today. That cough is terrible.",
+     "answers": [
+      "had",
+      "'d"
+     ],
+     "explain": "Had better: 'd better."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "You'd better not ___ late for the interview.",
+     "answers": [
+      "be"
+     ],
+     "explain": "Had better not + base verb."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "You ___ want to take a colleague with you. It's only a suggestion.",
+     "options": [
+      "might",
+      "ought",
+      "had"
+     ],
+     "answer": 0,
+     "explain": "Might want to is the softest suggestion."
+    },
+    {
+     "id": "B4",
+     "type": "fix",
+     "prompt": "I ought go to the gym more often.",
+     "answers": [
+      "I ought to go to the gym more often."
+     ],
+     "explain": "Ought always takes to."
+    },
+    {
+     "id": "B5",
+     "type": "fix",
+     "prompt": "You had better to call your boss.",
+     "answers": [
+      "You had better call your boss.",
+      "You'd better call your boss."
+     ],
+     "explain": "Had better + base verb, without to."
+    },
+    {
+     "id": "B6",
+     "type": "choice",
+     "prompt": "Which sentence gives general advice?",
+     "options": [
+      "People ought to exercise regularly.",
+      "People had better exercise regularly.",
+      "People are going to exercise regularly."
+     ],
+     "answer": 0,
+     "explain": "For general advice, had better is not used."
+    },
+    {
+     "id": "B7",
+     "type": "translate",
+     "prompt": "Deberías hacer trabajo voluntario.",
+     "answers": [
+      "You ought to do some volunteer work.",
+      "You ought to do volunteer work.",
+      "You might want to do some volunteer work.",
+      "You might want to do volunteer work.",
+      "You should do some volunteer work.",
+      "You should do volunteer work."
+     ],
+     "explain": "Advice: ought to / might want to + base verb."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Necesidad y preferencia",
+   "instructions": "Complete or correct.",
+   "topic": "g-necessity-preference",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "I've ___ to finish this report by Friday. It's very important.",
+     "answers": [
+      "got"
+     ],
+     "explain": "Have got to expresses strong necessity."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "We're going ___ have to work late tonight.",
+     "answers": [
+      "to"
+     ],
+     "explain": "Be going to have to + verb."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "You ___ have to come with me. It's your choice.",
+     "answers": [
+      "don't",
+      "do not"
+     ],
+     "explain": "Don't have to = not necessary."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "I'd ___ stay home tonight than go to a party.",
+     "answers": [
+      "rather"
+     ],
+     "explain": "Would rather + base verb."
+    },
+    {
+     "id": "C5",
+     "type": "gap",
+     "prompt": "I'd rather ___ change jobs because I like mine.",
+     "answers": [
+      "not"
+     ],
+     "explain": "Would rather not + base verb."
+    },
+    {
+     "id": "C6",
+     "type": "choice",
+     "prompt": "Which sentence is the strongest?",
+     "options": [
+      "I'm going to have to leave.",
+      "I've got to leave.",
+      "I might leave."
+     ],
+     "answer": 1,
+     "explain": "Have got to is stronger than going to have to."
+    },
+    {
+     "id": "C7",
+     "type": "fix",
+     "prompt": "She doesn't has to wake up early on Sundays.",
+     "answers": [
+      "She doesn't have to wake up early on Sundays."
+     ],
+     "explain": "Doesn't + base verb."
+    },
+    {
+     "id": "C8",
+     "type": "fix",
+     "prompt": "I'd rather to stay at home.",
+     "answers": [
+      "I'd rather stay at home.",
+      "I would rather stay at home."
+     ],
+     "explain": "Would rather + base verb, without to."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "do and make",
+   "instructions": "Complete with do or make in the correct form, or choose the option.",
+   "topic": "v-do-make",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "I want to ___ a difference, so I do volunteer work.",
+     "answers": [
+      "make"
+     ],
+     "explain": "Make a difference."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "Let's ___ a list of things to do today.",
+     "answers": [
+      "make"
+     ],
+     "explain": "Make a list."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "He always does his ___ at work.",
+     "answers": [
+      "best"
+     ],
+     "explain": "Do your best."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "I need to ___ research before I buy a laptop.",
+     "options": [
+      "make",
+      "do",
+      "take"
+     ],
+     "answer": 1,
+     "explain": "Do research."
+    },
+    {
+     "id": "D5",
+     "type": "choice",
+     "prompt": "Don't ___ excuses. Tell the truth.",
+     "options": [
+      "make",
+      "do",
+      "have"
+     ],
+     "answer": 0,
+     "explain": "Make excuses."
+    },
+    {
+     "id": "D6",
+     "type": "gap",
+     "prompt": "She can't decide. She needs to make up her ___.",
+     "answers": [
+      "mind"
+     ],
+     "explain": "Make up your mind = to decide."
+    },
+    {
+     "id": "D7",
+     "type": "choice",
+     "prompt": "I ___ a mistake in the email.",
+     "options": [
+      "did",
+      "made",
+      "took"
+     ],
+     "answer": 1,
+     "explain": "Make a mistake."
+    },
+    {
+     "id": "D8",
+     "type": "gap",
+     "prompt": "Let's ___ the math: it costs $300 and I have $250.",
+     "answers": [
+      "do"
+     ],
+     "explain": "Do the math = to work out the numbers."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "as long as, provided that, unless",
+   "instructions": "Complete or correct.",
+   "topic": "g-linking",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "You can borrow my car ___ long as you drive carefully.",
+     "answers": [
+      "as"
+     ],
+     "explain": "As long as = provided that."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "We'll go to the beach ___ it rains.",
+     "answers": [
+      "unless"
+     ],
+     "explain": "Unless means «if not»."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "\"Unless you study, you won't pass.\" means: ___ you don't study, you won't pass.",
+     "options": [
+      "If",
+      "Unless",
+      "As long as"
+     ],
+     "answer": 0,
+     "explain": "Unless = if ... not."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "I'll lend you the money, provided ___ you pay me back next month.",
+     "answers": [
+      "that"
+     ],
+     "explain": "Provided that."
+    },
+    {
+     "id": "E5",
+     "type": "fix",
+     "prompt": "I won't go unless it doesn't rain.",
+     "answers": [
+      "I won't go unless it rains.",
+      "I won't go if it doesn't rain."
+     ],
+     "explain": "Unless already means «if not»."
+    },
+    {
+     "id": "E6",
+     "type": "translate",
+     "prompt": "Puedes quedarte, siempre y cuando seas silencioso.",
+     "answers": [
+      "You can stay as long as you're quiet.",
+      "You can stay as long as you are quiet.",
+      "You can stay provided that you're quiet.",
+      "You can stay provided that you are quiet.",
+      "You can stay provided you are quiet.",
+      "You can stay provided you're quiet."
+     ],
+     "explain": "Meaning «siempre y cuando» = as long as / provided that."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Ending calls and saying goodbye",
+   "instructions": "Choose the most natural answer.",
+   "topic": "e-ending-calls",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "Which expression helps you end a call politely?",
+     "options": [
+      "I'd better go.",
+      "I'll be there.",
+      "Can I help you?"
+     ],
+     "answer": 0,
+     "explain": "I'd better go is used to end a call."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "A: Is this a good time to talk? B: ___",
+     "options": [
+      "Not really. Can I call you back?",
+      "Yes, I'm fine.",
+      "I don't know."
+     ],
+     "answer": 0,
+     "explain": "Natural answer when you're busy."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "Which one is an informal good-bye?",
+     "options": [
+      "Catch you later.",
+      "How do you do?",
+      "Thank you very much."
+     ],
+     "answer": 0,
+     "explain": "Catch you later is an informal goodbye."
+    },
+    {
+     "id": "F4",
+     "type": "choice",
+     "prompt": "\"I'm really late. ___\"",
+     "options": [
+      "I've got to go.",
+      "I've got news.",
+      "I'm going home yet."
+     ],
+     "answer": 0,
+     "explain": "I've got to go is used to end the call."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "The other person keeps talking. You say:",
+     "options": [
+      "I've really got to go. I'll call you later.",
+      "Tell me more.",
+      "Go ahead."
+     ],
+     "answer": 0,
+     "explain": "Politely saying that you need to hang up."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "A: Oh, OK. Talk to you later. B: ___",
+     "options": [
+      "Yeah, see you later!",
+      "Not really.",
+      "I'm OK for now."
+     ],
+     "answer": 0,
+     "explain": "Natural answer to an informal goodbye."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Anna",
+      "meeting",
+      "I'm",
+      "my",
+      "after",
+      "class"
+     ],
+     "answers": [
+      "I'm meeting Anna after my class.",
+      "I am meeting Anna after my class."
+     ],
+     "explain": "Fixed plan: present continuous."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "make",
+      "You'd",
+      "excuses",
+      "not",
+      "better"
+     ],
+     "answers": [
+      "You'd better not make excuses."
+     ],
+     "explain": "'d better not + base verb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "by",
+      "got",
+      "I've",
+      "next",
+      "to",
+      "decide",
+      "week"
+     ],
+     "answers": [
+      "I've got to decide by next week."
+     ],
+     "explain": "Have got to + base verb."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "it",
+      "unless",
+      "We'll",
+      "go",
+      "rains"
+     ],
+     "answers": [
+      "We'll go unless it rains."
+     ],
+     "explain": "Unless + affirmative present."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "rather",
+      "you",
+      "Would",
+      "home",
+      "stay"
+     ],
+     "answers": [
+      "Would you rather stay home?"
+     ],
+     "explain": "Would + subject + rather + verb."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "time",
+      "The",
+      "on",
+      "won't",
+      "be",
+      "finished",
+      "project"
+     ],
+     "answers": [
+      "The project won't be finished on time."
+     ],
+     "explain": "Won't + base verb."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Voy a hacer una lista de cosas por hacer.",
+     "answers": [
+      "I'm going to make a list of things to do.",
+      "I am going to make a list of things to do.",
+      "I'm going to make a to-do list.",
+      "I am going to make a to-do list."
+     ],
+     "explain": "Plan: be going to; make a list."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Tengo que decidir antes de la próxima semana.",
+     "answers": [
+      "I've got to decide by next week.",
+      "I have got to decide by next week.",
+      "I have to decide by next week.",
+      "I've got to decide before next week.",
+      "I have to decide before next week."
+     ],
+     "explain": "Necessity: have got to + verb."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "No tienes que pagar hoy.",
+     "answers": [
+      "You don't have to pay today.",
+      "You do not have to pay today."
+     ],
+     "explain": "Not necessary: don't have to."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Prefiero no cambiar de trabajo.",
+     "answers": [
+      "I'd rather not change jobs.",
+      "I would rather not change jobs.",
+      "I'd rather not change my job.",
+      "I would rather not change my job."
+     ],
+     "explain": "Negative preference: would rather not."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Será mejor que te vayas ahora.",
+     "answers": [
+      "You'd better go now.",
+      "You had better go now.",
+      "You'd better leave now.",
+      "You had better leave now."
+     ],
+     "explain": "Strong advice: had better + base verb."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Puedes ir, a menos que llueva.",
+     "answers": [
+      "You can go unless it rains.",
+      "Unless it rains, you can go."
+     ],
+     "explain": "Unless + affirmative present."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit review mix",
+   "instructions": "Exercises on different topics from the unit, with review of earlier units.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Our meeting ___ at 3:00 on Friday. It's on the schedule.",
+     "options": [
+      "starts",
+      "start",
+      "starting"
+     ],
+     "answer": 0,
+     "explain": "Fixed timetable or schedule: simple present with -s (the meeting = it). In real life you also hear will start, but for timetables the simple present is preferred."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "I ___ (visit) my grandparents this weekend. We've planned it.",
+     "answers": [
+      "am visiting",
+      "'m visiting",
+      "am going to visit",
+      "'m going to visit"
+     ],
+     "explain": "Decided plan: present continuous or be going to."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "You had better to hurry.",
+     "answers": [
+      "You had better hurry.",
+      "You'd better hurry."
+     ],
+     "explain": "Had better + base verb."
+    },
+    {
+     "id": "M4",
+     "type": "gap",
+     "prompt": "Let's ___ sure that the files are saved.",
+     "answers": [
+      "make"
+     ],
+     "explain": "Make sure = to make certain."
+    },
+    {
+     "id": "M5",
+     "type": "translate",
+     "prompt": "A menos que termines el reporte, no podrás salir.",
+     "answers": [
+      "Unless you finish the report, you can't leave.",
+      "Unless you finish the report, you won't be able to leave.",
+      "Unless you finish the report, you will not be able to leave.",
+      "Unless you finish the report, you cannot leave.",
+      "Unless you finish the report, you can't go out."
+     ],
+     "explain": "Unless + present; the other part expresses the consequence."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "There's not ___ time to finish. It's already 5:00. (review Unit 9)",
+     "answers": [
+      "enough"
+     ],
+     "explain": "Enough before the noun."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "Last week I ___ (go) to the gym three times. (review: simple past)",
+     "answers": [
+      "went"
+     ],
+     "explain": "Go is irregular: went."
+    },
+    {
+     "id": "M8",
+     "type": "choice",
+     "prompt": "She has lived in Monterrey ___ 2019. (review: present perfect)",
+     "options": [
+      "for",
+      "since",
+      "ago"
+     ],
+     "answer": 1,
+     "explain": "Since + starting point in time."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write 120 to 180 words about your plans for next week. Use will for a decision, be going to and the present continuous for plans, the simple present for a timetable, two things you have got to do (have got to / going to have to), one thing you don't have to do (don't have to) and a condition with as long as or unless.",
+   "targets": [
+    "will / be going to / present continuous / simple present",
+    "have got to / don't have to",
+    "would rather",
+    "as long as / unless"
+   ],
+   "checklist": [
+    "A decision with will",
+    "A plan with be going to and another with present continuous",
+    "A timetable with simple present",
+    "A have got to or going to have to",
+    "A don't have to",
+    "A condition with as long as or unless",
+    "Between 120 and 180 words"
+   ],
+   "model": "Next week is going to be very busy. On Monday, I'm meeting my boss at nine o'clock because we have a long meeting about a new project. The meeting starts at nine and finishes at eleven. I've got to prepare a report before that, so I'm going to start tonight. On Tuesday, I'm going to visit my grandmother, and I'm having lunch with my cousin on Wednesday.\n\nI forgot to buy a gift for my sister's birthday, so I'll go to the mall tomorrow and buy her a book. I think she will like it. On Thursday, I'm going to have to go to the dentist because my tooth hurts. I don't have to work on Friday because it's a holiday, so I'm going to sleep late.\n\nThe bus to the beach leaves at seven on Saturday morning, and I'll go with my friends as long as the weather is good. Unless it rains, we are going to stay all day. I'd rather relax on the sand than go to a party, so I'll bring a book."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write 120 to 160 words: an email to a colleague about a work problem (too many tasks or a deadline). Give them three pieces of advice (had better, ought to, might want to), say what you would rather do (would rather) and use two expressions with do or make.",
+   "targets": [
+    "had better / ought to / might want to",
+    "would rather",
+    "do / make",
+    "unless / as long as"
+   ],
+   "checklist": [
+    "Advice with 'd better + base verb",
+    "Advice with ought to and another with might want to",
+    "A would rather (not)",
+    "Two expressions with do or make (make a list, do research)",
+    "An unless or as long as",
+    "Between 120 and 160 words"
+   ],
+   "model": "Hi Sara,\n\nI know you have too many tasks this week, and the deadline for the report is on Friday. I want to help you, so here is some advice. First, you'd better make a list of everything you have to do. Then you ought to start with the most important work. You might want to ask our manager for one more day, because the report is very long.\n\nI'd rather not work this weekend, but I will help you if it is necessary. Unless we finish the data by Thursday, we will have a problem. As long as you send me the numbers tomorrow, I can do some research for the last part. I also think we should make a plan together and make an appointment with the boss to talk about the deadline.\n\nPlease don't worry. We can do this! Let me know what you think.\n\nBest,\nPablo"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Less is more at work",
+   "intro": "Read the text about Marcela and answer.",
+   "paragraphs": [
+    "Marcela is a project manager at a software company in Monterrey. Last year she had too many things to do: three projects, five meetings a day and about two hundred emails every morning. She tried to do everything at the same time. She answered emails during meetings, wrote reports on the phone and ate lunch at her desk. She was always tired, and she made a lot of mistakes.",
+    "One Friday, a colleague told her, \"You'd better stop multitasking. You're going to get sick.\" Marcela didn't want to listen at first, but she read some research about it. The research said that people who multitask make progress more slowly and get distracted more easily. She decided to do something about the problem.",
+    "First, she made a list of her priorities. She also set a rule: she answers emails only twice a day, at 10:00 and at 4:00. She learned to say no, too. \"I'm not going to take on any new jobs unless I have enough time,\" she told her boss. She had to make some difficult decisions, but she made up her mind quickly.",
+    "Now her day is different. In the morning she works on the most important task, and she doesn't check her phone. Her team can interrupt her as long as it is urgent. She goes to fewer meetings, and she usually leaves the office at six. Next week she's going to start a volunteer program with her colleagues. They're meeting on Saturday morning to plan it.",
+    "Marcela says her stress level is much lower now. \"I meet my deadlines, I make fewer mistakes, and I sleep better,\" she says. \"You ought to try it. You don't have to change everything in one day, but you'd better start soon. Unless you set priorities, your work will drive you crazy.\""
+   ],
+   "glossary": [
+    {
+     "en": "project manager",
+     "def": "the person who is in charge of a project"
+    },
+    {
+     "en": "research",
+     "def": "careful study to find facts about something"
+    },
+    {
+     "en": "priorities",
+     "def": "things you need to do first, because they are the most important"
+    },
+    {
+     "en": "rule",
+     "def": "an instruction that says what you must or must not do"
+    },
+    {
+     "en": "urgent",
+     "def": "needing immediate attention"
+    },
+    {
+     "en": "deadline",
+     "def": "the last time or date by which something must be finished"
+    },
+    {
+     "en": "stress level",
+     "def": "how stressed you feel"
+    },
+    {
+     "en": "volunteer",
+     "def": "a person who offers to do something without being paid"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Marcela had too many tasks last year.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Had three projects, five meetings a day, and many emails."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Marcela's boss told her to stop multitasking.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Fue una colega (a colleague) quien se lo dijo."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "According to the research, people who multitask ___.",
+     "options": [
+      "make progress more slowly",
+      "work faster",
+      "never get distracted"
+     ],
+     "answer": 0,
+     "explain": "The research says they progress more slowly and get distracted more."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "When does Marcela answer emails?",
+     "options": [
+      "All day",
+      "Twice a day",
+      "Only on Fridays"
+     ],
+     "answer": 1,
+     "explain": "Answers emails only twice a day."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Her team can interrupt her as long as it is ___.",
+     "answers": [
+      "urgent"
+     ],
+     "explain": "As long as it is urgent."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "She and her colleagues are ___ on Saturday morning to plan the volunteer program.",
+     "answers": [
+      "meeting"
+     ],
+     "explain": "Plan fijo: presente continuo (They're meeting)."
+    },
+    {
+     "id": "R7",
+     "type": "translate",
+     "prompt": "Marcela normalmente sale de la oficina a las seis.",
+     "answers": [
+      "Marcela usually leaves the office at six.",
+      "Marcela usually leaves the office at 6:00.",
+      "Marcela usually leaves the office at 6.",
+      "Marcela usually leaves the office at 6 o'clock.",
+      "Marcela usually leaves work at six."
+     ],
+     "explain": "Simple present with she: leaves; usually goes before the verb."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Plans for the weekend",
+   "intro": "Listen to Diego and Laura's phone call. You can repeat it.",
+   "lines": [
+    {
+     "who": "Diego",
+     "voice": "buttery",
+     "text": "Hi, Laura. Is this a good time to talk?"
+    },
+    {
+     "who": "Laura",
+     "voice": "airy",
+     "text": "Hi, Diego. Sort of. I'm walking to the gym, but go ahead."
+    },
+    {
+     "who": "Diego",
+     "voice": "buttery",
+     "text": "I just wanted to ask about this weekend. Are you free on Saturday?"
+    },
+    {
+     "who": "Laura",
+     "voice": "airy",
+     "text": "On Saturday morning I'm meeting Anna for coffee. But I'm free in the afternoon."
+    },
+    {
+     "who": "Diego",
+     "voice": "buttery",
+     "text": "Great. I'm going to have a barbecue at my place. Would you like to come?"
+    },
+    {
+     "who": "Laura",
+     "voice": "airy",
+     "text": "Sure! Should I bring something?"
+    },
+    {
+     "who": "Diego",
+     "voice": "buttery",
+     "text": "You don't have to. But you might want to bring a dessert, if you like."
+    },
+    {
+     "who": "Laura",
+     "voice": "airy",
+     "text": "OK. I'll make an apple pie. What time does it start?"
+    },
+    {
+     "who": "Diego",
+     "voice": "buttery",
+     "text": "At four. But you'd better call me if you're going to be late."
+    },
+    {
+     "who": "Laura",
+     "voice": "airy",
+     "text": "I will. Oh, I've got to get going. I'm at the gym now."
+    },
+    {
+     "who": "Diego",
+     "voice": "buttery",
+     "text": "No problem. Talk to you later."
+    },
+    {
+     "who": "Laura",
+     "voice": "airy",
+     "text": "Catch you later. Bye!"
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "Where is Laura going?",
+     "options": [
+      "To the gym",
+      "To work",
+      "To Anna's house"
+     ],
+     "answer": 0,
+     "explain": "Laura: «I'm walking to the gym»."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What is Laura doing on Saturday morning?",
+     "options": [
+      "Going to the gym",
+      "Meeting Anna for coffee",
+      "Having a barbecue"
+     ],
+     "answer": 1,
+     "explain": "On Saturday morning I'm meeting Anna for coffee."
+    },
+    {
+     "id": "L3",
+     "type": "gap",
+     "prompt": "Diego is going to have a ___ at his place.",
+     "answers": [
+      "barbecue"
+     ],
+     "explain": "Diego dice: «I'm going to have a barbecue»."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "What does Diego say Laura might want to bring?",
+     "options": [
+      "A dessert",
+      "Drinks",
+      "Meat"
+     ],
+     "answer": 0,
+     "explain": "You might want to bring a dessert."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What time does the barbecue start?",
+     "options": [
+      "Two",
+      "Four",
+      "Six"
+     ],
+     "answer": 1,
+     "explain": "Diego: «At four»."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "I'm meeting Anna for coffee on Saturday morning.",
+     "answers": [
+      "I'm meeting Anna for coffee on Saturday morning."
+     ],
+     "explain": "Presente continuo para un plan fijo."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "You might want to bring a dessert.",
+     "answers": [
+      "You might want to bring a dessert."
+     ],
+     "explain": "Might want to + verbo base: sugerencia suave."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "You'd better call me if you're going to be late.",
+     "answers": [
+      "You'd better call me if you're going to be late."
+     ],
+     "explain": "'d better + verbo base."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "I've got to get going.",
+     "answers": [
+      "I've got to get going."
+     ],
+     "explain": "Common phrase for ending a call."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about your plans for this weekend and about one you already have arranged.",
+     "questions": [
+      "What are you doing this weekend?",
+      "Are you going to see anyone?",
+      "What time does your first class or activity start?",
+      "Is there something you've got to do?"
+     ],
+     "model": "I'm meeting my friends on Saturday afternoon. We're going to watch a movie, and afterwards we're going to have dinner. On Sunday I've got to clean my apartment, but I don't have to wake up early.",
+     "checklist": [
+      "Present continuous for a fixed plan",
+      "be going to for another plan",
+      "have got to / don't have to",
+      "A timetable with the simple present"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Give advice to a friend who works too much and is stressed.",
+     "questions": [
+      "What should he do about his stress?",
+      "What had he better not do?",
+      "Should he ask a colleague for help?",
+      "What would you rather do if you were him?"
+     ],
+     "model": "You'd better stop working late every night. You ought to set priorities, and you might want to ask a colleague for help. I'd rather take a short break every two hours.",
+     "checklist": [
+      "'d better + verbo base",
+      "ought to + verbo base",
+      "might want to + verbo base",
+      "would rather + verbo base"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Act out the end of a phone call: you are busy and want to hang up politely.",
+     "questions": [
+      "Is this a good time to talk?",
+      "I just wanted to ask about tomorrow.",
+      "Can we talk now for a minute?",
+      "OK, talk to you later."
+     ],
+     "model": "Not really. I'm in a meeting. Can I call you back? I've really got to go, but I'll call you later. Talk to you later!",
+     "checklist": [
+      "Not really. Can I call you back?",
+      "I've got to go / I'd better go",
+      "Informal goodbye",
+      "Friendly tone"
+     ]
+    }
+   ],
+   "repeat": [
+    "I'm meeting Anna after my class.",
+    "You'd better not make excuses.",
+    "I've got to decide by next week.",
+    "You don't have to pay today.",
+    "We'll go unless it rains.",
+    "Catch you later."
+   ]
+  }
+ }
+}

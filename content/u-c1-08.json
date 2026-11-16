@@ -1,0 +1,1719 @@
+{
+ "id": "u-c1-08",
+ "level": "C1",
+ "n": 8,
+ "title": "Money talks",
+ "goals": [
+  "Deduce what happened in the past with must have / can't have / might have + past participle, grading the certainty.",
+  "Use the continuous form (must have been working) and distinguish present deduction (must be) from past deduction.",
+  "Differentiate deduction from reproach or regret: should have, shouldn't have, needn't have, could have.",
+  "Speculate with nuance and register: presumably, be bound to, seem to have, for all we know.",
+  "Talk about personal finance, ethical consumption and money idioms (break the bank, make ends meet).",
+  "Debate dilemmas and speculate about causes with a polite tone and balanced arguments."
+ ],
+ "learn": [
+  {
+   "id": "g-past-deduction",
+   "kind": "grammar",
+   "title": "Deduction about the past: must / can't / might + have + past participle",
+   "html": "<p>When something has already happened but <strong>you are not sure</strong> and you reason from clues, you use a modal verb + <em>have</em> + past participle. The <strong>modal shows how certain you are</strong>; the verb only says what you think happened. Think of a scale:</p><table><thead><tr><th>Certainty</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>~95% (yes)</td><td><strong>must have</strong> + past participle</td><td>The safe is open: someone <strong>must have</strong> known the code.</td></tr><tr><td>~95% (no)</td><td><strong>can't / couldn't have</strong> + past participle</td><td>She <strong>can't have</strong> seen the email; her account was locked.</td></tr><tr><td>Possible</td><td><strong>may / might / could have</strong> + past participle</td><td>He <strong>might have</strong> lost it on the train.</td></tr><tr><td>Possibly not</td><td><strong>may not / might not have</strong> + past participle</td><td>They <strong>might not have</strong> received the invoice.</td></tr></tbody></table><p><strong>Watch out for Spanish:</strong> «debe de haber» and «tiene que haber» are both translated with <em>must have</em>; but the opposite of «debe de haber» is NOT <em>mustn't have</em>. To say «no puede haber» (certainty), English uses <em>can't have</em> or <em>couldn't have</em>. <em>Mustn't</em> expresses prohibition, not deduction.</p><p><strong>Key difference:</strong> <em>can't have</em> and <em>may not have</em> are not equivalent: <em>She can't have known</em> = I am almost sure she did NOT know; <em>She may not have known</em> = perhaps she did not know (I do not rule out the opposite).</p><p><strong>Continuous aspect and passive:</strong> for activities that were in progress: <em>He must have been working all night</em> (he looks exhausted). For the passive: <em>The card might have been stolen</em>. With <em>could have</em>, context decides between past possibility («podría haber pasado») and a missed opportunity («podría haberlo hecho»).</p>",
+   "watch": [
+    {
+     "wrong": "She must had spent all her savings on that trip.",
+     "right": "She must have spent all her savings on that trip.",
+     "why": "After a modal comes have (base form), not had."
+    },
+    {
+     "wrong": "He mustn't have known about the debt.",
+     "right": "He can't have known about the debt.",
+     "why": "To deny something with certainty use can't/couldn't have, not mustn't have."
+    },
+    {
+     "wrong": "They can't have been knowing the risks.",
+     "right": "They can't have known the risks.",
+     "why": "Know is a stative verb: it is not used in the continuous."
+    },
+    {
+     "wrong": "He should of checked the interest rate.",
+     "right": "He should have checked the interest rate.",
+     "why": "It sounds like 'of' because 've is pronounced like 'of', but the correct form is have."
+    }
+   ]
+  },
+  {
+   "id": "g-deduction-time",
+   "kind": "grammar",
+   "title": "Present, past and continuous: contrast",
+   "html": "<p>The modal stays the same; what changes is the infinitive that follows it and therefore the <strong>time</strong> the deduction refers to.</p><table><thead><tr><th>Time</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Present state</td><td>must / can't / might + <strong>be</strong></td><td>She <strong>must be</strong> rich; look at that car.</td></tr><tr><td>Action in progress now</td><td>must / might + <strong>be + V-ing</strong></td><td>They <strong>must be having</strong> dinner; nobody answers.</td></tr><tr><td>Past (completed action)</td><td>must / can't / might + <strong>have + past participle</strong></td><td>He <strong>must have taken</strong> a loan.</td></tr><tr><td>Past in progress</td><td>must / might + <strong>have been + V-ing</strong></td><td>He <strong>must have been saving</strong> for years.</td></tr><tr><td>Future / sure habit</td><td>be bound to / is likely to + infinitive</td><td>Prices <strong>are bound to</strong> rise.</td></tr></tbody></table><p><strong>couldn't vs. can't:</strong> with <em>have</em> they are almost interchangeable in current English (<em>She can't / couldn't have forgotten</em>); <em>couldn't</em> sounds slightly more natural and less absolute in past narration. <em>Could have</em> (affirmative), by contrast, expresses only possibility: <em>It could have been a fraud</em>.</p><p><strong>If there is direct evidence, you do not need to deduce:</strong> <em>He spent a fortune</em> (I know it) vs. <em>He must have spent a fortune</em> (I infer it). Using <em>must</em> when you know the fact sounds odd.</p><p><strong>Register:</strong> in speech, <em>must've, can't've, might've</em> are contracted; in formal writing they are written in full.</p>",
+   "watch": [
+    {
+     "wrong": "He must be left early; his desk is empty.",
+     "right": "He must have left early; his desk is empty.",
+     "why": "Past event: must have + past participle."
+    },
+    {
+     "wrong": "She must be working all night; she looks exhausted.",
+     "right": "She must have been working all night; she looks exhausted.",
+     "why": "The work happened in the past: must have been + V-ing."
+    },
+    {
+     "wrong": "The shop is closed. It must have been a holiday today.",
+     "right": "The shop is closed. It must be a holiday today.",
+     "why": "You are talking about the present: must be."
+    },
+    {
+     "wrong": "I'm sure they have been won the lottery.",
+     "right": "I'm sure they must have won the lottery.",
+     "why": "To deduce you need the modal; won is the past participle."
+    }
+   ]
+  },
+  {
+   "id": "g-regret-modals",
+   "kind": "grammar",
+   "title": "Modals of reproach and regret (not to be confused with deduction)",
+   "html": "<p>The same <em>modal + have + past participle</em> structure is also used to <strong>judge what happened</strong>, not to guess it. The context completely changes the meaning:</p><table><thead><tr><th>Structure</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td><strong>should / ought to have</strong> + past participle</td><td>It was the right or advisable thing to do and it was not done (reproach, regret)</td><td>You <strong>should have</strong> read the small print.</td></tr><tr><td><strong>shouldn't have</strong> + past participle</td><td>Something was done that should not have been</td><td>I <strong>shouldn't have</strong> lent him the money.</td></tr><tr><td><strong>could have</strong> + past participle</td><td>Missed opportunity: it was possible and was not done</td><td>We <strong>could have</strong> saved more.</td></tr><tr><td><strong>needn't have</strong> + past participle</td><td>Something was done that was NOT necessary</td><td>You <strong>needn't have</strong> paid the whole bill (but you did).</td></tr><tr><td><strong>didn't need to</strong> + base</td><td>It was not necessary (and perhaps it was not done)</td><td>You <strong>didn't need to</strong> pay (so maybe you didn't).</td></tr></tbody></table><p><strong>Politeness and register:</strong> <em>You should have told me</em> sounds like a direct reproach. Soften it: <em>It might have been better to check first; Perhaps you could have mentioned it earlier</em>. In formal contexts: <em>It would have been preferable to…</em>.</p><p><strong>How to tell deduction from reproach:</strong> ask yourself whether you are talking about <em>what probably happened</em> (must/can't/might) or <em>what should have happened and did not</em> (should/could/needn't). <em>She must have saved a lot</em> (conclusion) vs. <em>She should have saved more</em> (judgement).</p>",
+   "watch": [
+    {
+     "wrong": "You mustn't have paid so much; it's far too expensive.",
+     "right": "You can't have paid so much; it's far too expensive.",
+     "why": "It is a negative deduction, not a prohibition."
+    },
+    {
+     "wrong": "You needn't to have bought a present.",
+     "right": "You needn't have bought a present.",
+     "why": "Needn't is a modal: no to, followed by have + past participle."
+    },
+    {
+     "wrong": "I should have went to the bank earlier.",
+     "right": "I should have gone to the bank earlier.",
+     "why": "Should have + past participle (gone), not simple past."
+    },
+    {
+     "wrong": "She shouldn't to have said that.",
+     "right": "She shouldn't have said that.",
+     "why": "Shouldn't is a modal: no to, and it is followed by have + past participle."
+    }
+   ]
+  },
+  {
+   "id": "g-speculation",
+   "kind": "grammar",
+   "title": "Other ways to speculate and qualify",
+   "html": "<p>At C1 level, <em>must / might</em> are not enough. To speculate with nuance and a varied register you have adverbs, perception verbs and impersonal structures. Ordered by degree of certainty:</p><table><thead><tr><th>Degree</th><th>Resources</th><th>Example</th></tr></thead><tbody><tr><td>Very likely</td><td>must have, be bound to have, in all likelihood, presumably</td><td><em>Presumably</em> he has already left; he's <em>bound to have</em> heard.</td></tr><tr><td>Likely</td><td>be likely to have, I'd imagine / I suspect (that), it seems / appears that</td><td>They're <em>likely to have</em> overpaid; <em>I suspect</em> the fee was hidden.</td></tr><tr><td>Possible</td><td>may / might / could have, quite possibly, conceivably, it's possible that</td><td><em>Conceivably</em>, the bank misread the form.</td></tr><tr><td>Unlikely</td><td>be unlikely to have, hardly / can't possibly have, it's highly improbable that</td><td>She <em>can't possibly have</em> known.</td></tr><tr><td>No information</td><td>for all we know, who knows whether</td><td><em>For all we know</em>, he gave it all away.</td></tr></tbody></table><p><strong>Seem / appear to have + past participle:</strong> <em>He seems to have lost interest</em> (≈ it appears that he has lost interest). The impersonal form is more academic: <em>It appears that the funds were transferred twice.</em> With <em>is thought / said / believed to have + past participle</em> one reports a general opinion (see the passive units).</p><p><strong>To debate a dilemma:</strong> <em>It could be argued that…; On the one hand… on the other…; That would explain why…; The most plausible explanation is that…</em></p>",
+   "watch": [
+    {
+     "wrong": "She is probably have forgotten the password.",
+     "right": "She has probably forgotten the password.",
+     "why": "Probably + present perfect or modal; they do not combine."
+    },
+    {
+     "wrong": "He's likely have gone bankrupt.",
+     "right": "He's likely to have gone bankrupt.",
+     "why": "Be likely + to have + past participle."
+    },
+    {
+     "wrong": "Maybe he might have lost the receipt.",
+     "right": "He might have lost the receipt.",
+     "why": "Maybe and might repeat the doubt: use only one."
+    },
+    {
+     "wrong": "It seems that he have spent too much.",
+     "right": "It seems that he has spent too much.",
+     "why": "After it seems that, use a finite verb: has spent; or seem to have + past participle."
+    }
+   ]
+  },
+  {
+   "id": "v-finance",
+   "kind": "vocab",
+   "title": "Personal finance",
+   "words": [
+    {
+     "id": "w-debt",
+     "en": "debt",
+     "es": "deuda",
+     "example": "He's still paying off a huge debt from his student years.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-budget",
+     "en": "budget (v/n)",
+     "es": "presupuesto; presupuestar",
+     "example": "We stick to a strict monthly budget.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-income",
+     "en": "income",
+     "es": "ingreso(s)",
+     "example": "Her income barely covers the rent.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-outgoings",
+     "en": "outgoings",
+     "es": "gastos fijos, egresos",
+     "example": "Add up your outgoings before you buy anything."
+    },
+    {
+     "id": "w-overdraft",
+     "en": "overdraft",
+     "es": "sobregiro",
+     "example": "An overdraft can cost you a lot in fees."
+    },
+    {
+     "id": "w-mortgage",
+     "en": "mortgage",
+     "es": "hipoteca",
+     "example": "They took out a 25-year mortgage.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-interest-rate",
+     "en": "interest rate",
+     "es": "tasa de interés",
+     "example": "A rise in the interest rate hits borrowers hardest.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-loan",
+     "en": "loan",
+     "es": "préstamo",
+     "example": "He took out a loan to start a business.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-instalment",
+     "en": "instalment (US instalment/installment)",
+     "es": "mensualidad, pago a plazos",
+     "example": "I paid for the laptop in twelve instalments."
+    },
+    {
+     "id": "w-afford",
+     "en": "afford",
+     "es": "permitirse, costear",
+     "example": "We can't afford a holiday this year.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-savings",
+     "en": "savings",
+     "es": "ahorros",
+     "example": "Her savings disappeared in six months.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-pension",
+     "en": "pension",
+     "es": "pensión, jubilación",
+     "example": "Start contributing to a pension early.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-credit-score",
+     "en": "credit score",
+     "es": "historial crediticio",
+     "example": "A low credit score can block a loan.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-cash-strapped",
+     "en": "cash-strapped",
+     "es": "escaso de dinero, apretado",
+     "example": "After the move, we were cash-strapped for months."
+    }
+   ]
+  },
+  {
+   "id": "v-ethics",
+   "kind": "vocab",
+   "title": "Ethical consumption",
+   "words": [
+    {
+     "id": "w-fair-trade",
+     "en": "fair trade",
+     "es": "comercio justo",
+     "example": "I buy fair-trade coffee whenever I can.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-greenwashing",
+     "en": "greenwashing",
+     "es": "lavado de imagen ecológico",
+     "example": "The ad was pure greenwashing."
+    },
+    {
+     "id": "w-boycott",
+     "en": "boycott (v/n)",
+     "es": "boicotear; boicot",
+     "example": "Customers boycotted the brand after the scandal."
+    },
+    {
+     "id": "w-sweatshop",
+     "en": "sweatshop",
+     "es": "taller de explotación laboral",
+     "example": "Cheap clothing is often made in sweatshops."
+    },
+    {
+     "id": "w-impulse-buy",
+     "en": "impulse buying",
+     "es": "compras impulsivas",
+     "example": "Impulse buying empties wallets faster than rent does.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-obsolescence",
+     "en": "planned obsolescence",
+     "es": "obsolescencia programada",
+     "example": "Planned obsolescence forces us to replace gadgets too soon."
+    },
+    {
+     "id": "w-conspicuous",
+     "en": "conspicuous consumption",
+     "es": "consumo ostentoso",
+     "example": "Conspicuous consumption is about status, not need.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-frugal",
+     "en": "frugal",
+     "es": "frugal, ahorrativo",
+     "example": "They lead a frugal life by choice."
+    },
+    {
+     "id": "w-thrifty",
+     "en": "thrifty",
+     "es": "ahorrativo, cuidadoso con el dinero",
+     "example": "A thrifty shopper compares prices first."
+    },
+    {
+     "id": "w-exploit",
+     "en": "exploit",
+     "es": "explotar (a personas, recursos)",
+     "example": "Some firms exploit cheap labour.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-transparency",
+     "en": "transparency",
+     "es": "transparencia",
+     "example": "Consumers demand transparency about supply chains.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-accountable",
+     "en": "accountable",
+     "es": "responsable, que rinde cuentas",
+     "example": "Companies should be held accountable.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-philanthropy",
+     "en": "philanthropy",
+     "es": "filantropía",
+     "example": "His philanthropy funded three libraries."
+    },
+    {
+     "id": "w-donate",
+     "en": "donate",
+     "es": "donar",
+     "example": "She donates a tenth of her income.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "v-money-idioms",
+   "kind": "vocab",
+   "title": "Money idioms",
+   "words": [
+    {
+     "id": "w-break-bank",
+     "en": "break the bank",
+     "es": "arruinarse; costar una fortuna",
+     "example": "A weekend away won't break the bank.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-make-ends-meet",
+     "en": "make ends meet",
+     "es": "llegar a fin de mes",
+     "example": "They struggle to make ends meet.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-arm-leg",
+     "en": "cost an arm and a leg",
+     "es": "costar un ojo de la cara",
+     "example": "That car cost an arm and a leg.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-hand-to-mouth",
+     "en": "live hand to mouth",
+     "es": "vivir al día",
+     "example": "After the layoff, we lived hand to mouth.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-in-the-red",
+     "en": "in the red / in the black",
+     "es": "en números rojos / con saldo positivo",
+     "example": "The company has been in the red for two years.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-splash-out",
+     "en": "splash out (on)",
+     "es": "gastar mucho en un capricho",
+     "example": "He splashed out on a new watch.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-dutch",
+     "en": "go Dutch",
+     "es": "pagar cada quien lo suyo",
+     "example": "Let's go Dutch tonight.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-foot-the-bill",
+     "en": "foot the bill",
+     "es": "pagar la cuenta, hacerse cargo del gasto",
+     "example": "Who will foot the bill for the repairs?",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-nest-egg",
+     "en": "nest egg",
+     "es": "ahorros para el futuro, 'guardadito'",
+     "example": "They built a nest egg for retirement.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-tighten-belt",
+     "en": "tighten one's belt",
+     "es": "apretarse el cinturón",
+     "example": "We had to tighten our belts after the pay cut.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-rip-off",
+     "en": "rip-off",
+     "es": "timo, precio abusivo",
+     "example": "Fifty dollars for a sandwich? What a rip-off!"
+    },
+    {
+     "id": "w-bargain",
+     "en": "a bargain / a steal",
+     "es": "una ganga",
+     "example": "At that price, it's a steal.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-drop-ocean",
+     "en": "a drop in the ocean",
+     "es": "una gota en el océano",
+     "example": "Her donation was a drop in the ocean.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-penny-pinching",
+     "en": "penny-pinching",
+     "es": "tacaño, cuidando cada centavo",
+     "example": "His penny-pinching annoys his friends."
+    }
+   ]
+  },
+  {
+   "id": "e-speculate-debate",
+   "kind": "expressions",
+   "title": "Speculating and debating a dilemma",
+   "html": "<ul><li><strong>That would explain why …</strong> — link a clue to a cause: <em>That would explain why he stopped going out.</em></li><li><strong>There has to be an explanation.</strong> / <strong>There must be a logical reason.</strong> — insist that there is a cause.</li><li><strong>For all we know, …</strong> — remind yourself that information is missing.</li><li><strong>It could be argued that … / One could say that …</strong> — introduce an argument with some distance.</li><li><strong>On the one hand … on the other (hand) …</strong> — set out the sides of a dilemma.</li><li><strong>I'd say it's a toss-up.</strong> — it's evenly balanced; you cannot tell.</li><li><strong>If I were in her shoes, I'd …</strong> — put yourself in the other person's position.</li><li><strong>Let's not jump to conclusions.</strong> — stop a hasty speculation.</li><li><strong>Fair point. / Good point, but …</strong> — concede and qualify.</li></ul><p><strong>Tone:</strong> when speculating about other people, use <em>might / may</em> and <em>seem to</em> so as not to sound accusatory.</p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Past deduction: choose the modal",
+   "instructions": "Write the missing modal, according to the degree of certainty in brackets.",
+   "topic": "g-past-deduction",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "The lights are off and there's no reply. They ___ have gone out. (I'm sure)",
+     "answers": [
+      "must"
+     ],
+     "explain": "High certainty, positive: must have."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "He ___ have forgotten; I reminded him twice this morning. (impossible)",
+     "answers": [
+      "can't",
+      "cannot",
+      "couldn't"
+     ],
+     "explain": "High certainty, negative: can't/couldn't have."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "I'm not certain, but she ___ have missed the bus. (possible)",
+     "answers": [
+      "may",
+      "might",
+      "could"
+     ],
+     "explain": "Only possibility: may/might/could have."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "Look at those wet footprints. Someone ___ have come in through the window. (I'm sure)",
+     "answers": [
+      "must"
+     ],
+     "explain": "Clear clue: must have."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "Her hands were covered in flour; she ___ have been baking. (I'm sure)",
+     "answers": [
+      "must"
+     ],
+     "explain": "Certain deduction about an action in progress: must have been + V-ing."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "She ___ have been joking; nobody could be that serious. (impossible)",
+     "answers": [
+      "can't",
+      "cannot",
+      "couldn't"
+     ],
+     "explain": "Impossible: can't have been."
+    },
+    {
+     "id": "A7",
+     "type": "gap",
+     "prompt": "I wonder why Ana didn't reply. She ___ have been busy. (possible)",
+     "answers": [
+      "may",
+      "might",
+      "could"
+     ],
+     "explain": "Possibility: may/might/could."
+    },
+    {
+     "id": "A8",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "He",
+      "must",
+      "have",
+      "spent",
+      "a",
+      "fortune",
+      "on",
+      "that",
+      "watch"
+     ],
+     "answers": [
+      "He must have spent a fortune on that watch."
+     ],
+     "explain": "must + have + past participle."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Certainty, possibility or reproach",
+   "instructions": "Choose the correct option.",
+   "topic": "g-deduction-time",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "The safe was opened without force, so the thief ___ known the code.",
+     "options": [
+      "must have",
+      "can't have",
+      "might not have"
+     ],
+     "answer": 0,
+     "explain": "Strong, positive clue: must have."
+    },
+    {
+     "id": "B2",
+     "type": "choice",
+     "prompt": "She ___ been the one who sent the email; she was on a plane at the time.",
+     "options": [
+      "must have",
+      "can't have",
+      "needn't have"
+     ],
+     "answer": 1,
+     "explain": "Alibi: negative certainty, can't have."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "What does 'He may have lied' mean?",
+     "options": [
+      "It is possible that he lied.",
+      "He was obliged to lie.",
+      "It is certain that he lied."
+     ],
+     "answer": 0,
+     "explain": "May have = possibility."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "Which one is correct to say you are sure he did NOT know?",
+     "options": [
+      "He mustn't have known.",
+      "He can't have known.",
+      "He hasn't must known."
+     ],
+     "answer": 1,
+     "explain": "Mustn't is not used for deduction."
+    },
+    {
+     "id": "B5",
+     "type": "choice",
+     "prompt": "They ___ when we arrived; the table was still warm.",
+     "options": [
+      "must have been eating",
+      "must be eating",
+      "can't have been eaten"
+     ],
+     "answer": 0,
+     "explain": "Past action in progress: must have been + V-ing."
+    },
+    {
+     "id": "B6",
+     "type": "choice",
+     "prompt": "Why is the shop closed? It ___ a public holiday today.",
+     "options": [
+      "must be",
+      "must have been",
+      "can't have been"
+     ],
+     "answer": 0,
+     "explain": "You are talking about the present: must be."
+    },
+    {
+     "id": "B7",
+     "type": "choice",
+     "prompt": "Nobody saw him leave, but he ___ gone by the back door. (only a possibility)",
+     "options": [
+      "could have",
+      "must have",
+      "can't have"
+     ],
+     "answer": 0,
+     "explain": "Possibility: could have."
+    },
+    {
+     "id": "B8",
+     "type": "choice",
+     "prompt": "He's lost his job. He ___ more careful with the client. (reproach)",
+     "options": [
+      "should have been",
+      "must have been",
+      "can't have been"
+     ],
+     "answer": 0,
+     "explain": "Reproach for what was not done: should have."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Deduction vs. reproach",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-regret-modals",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "You ___ have bought me a gift; I didn't expect anything. (it was not necessary)",
+     "answers": [
+      "needn't",
+      "need not"
+     ],
+     "explain": "Needn't have = you did something unnecessary."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "I ___ have taken a taxi; it cost me a fortune. (I regret it)",
+     "answers": [
+      "shouldn't",
+      "should not"
+     ],
+     "explain": "Regret for something done: shouldn't have."
+    },
+    {
+     "id": "C3",
+     "type": "choice",
+     "prompt": "She didn't buy the shares, and they tripled in value. She ___ .",
+     "options": [
+      "should have bought them",
+      "must have bought them",
+      "can't have bought them"
+     ],
+     "answer": 0,
+     "explain": "Regret for what she did not do: should have."
+    },
+    {
+     "id": "C4",
+     "type": "fix",
+     "prompt": "You mustn't have paid so much; it's far too expensive.",
+     "answers": [
+      "You can't have paid so much; it's far too expensive.",
+      "You cannot have paid so much; it's far too expensive.",
+      "You couldn't have paid so much; it's far too expensive."
+     ],
+     "explain": "Negative deduction: can't/couldn't have."
+    },
+    {
+     "id": "C5",
+     "type": "choice",
+     "prompt": "Which sentence expresses a logical conclusion (not a reproach)?",
+     "options": [
+      "You should have saved more.",
+      "You must have saved a lot.",
+      "You needn't have saved so much."
+     ],
+     "answer": 1,
+     "explain": "Must have = conclusion; should/needn't = judgement."
+    },
+    {
+     "id": "C6",
+     "type": "gap",
+     "prompt": "If we had asked, they ___ have given us a discount. (missed opportunity)",
+     "answers": [
+      "could",
+      "might",
+      "would"
+     ],
+     "explain": "After a past conditional: would / could / might have + past participle."
+    },
+    {
+     "id": "C7",
+     "type": "translate",
+     "prompt": "Debió de olvidar la contraseña.",
+     "answers": [
+      "He must have forgotten the password.",
+      "She must have forgotten the password.",
+      "He must have forgotten his password.",
+      "She must have forgotten her password.",
+      "They must have forgotten the password."
+     ],
+     "explain": "Equivalent of «debió de» = must have + past participle."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Find the error (modals)",
+   "instructions": "Each sentence has an error. Write the corrected sentence.",
+   "topic": "g-speculation",
+   "items": [
+    {
+     "id": "D1",
+     "type": "fix",
+     "prompt": "She must had spent all her savings on that trip.",
+     "answers": [
+      "She must have spent all her savings on that trip."
+     ],
+     "explain": "Modal + have, not had."
+    },
+    {
+     "id": "D2",
+     "type": "fix",
+     "prompt": "He can't have been knowing about the debt.",
+     "answers": [
+      "He can't have known about the debt.",
+      "He couldn't have known about the debt."
+     ],
+     "explain": "Know is not used in the continuous."
+    },
+    {
+     "id": "D3",
+     "type": "fix",
+     "prompt": "They mustn't have noticed the mistake; they would have said something.",
+     "answers": [
+      "They can't have noticed the mistake; they would have said something.",
+      "They couldn't have noticed the mistake; they would have said something.",
+      "They cannot have noticed the mistake; they would have said something."
+     ],
+     "explain": "Negative deduction: can't/couldn't have."
+    },
+    {
+     "id": "D4",
+     "type": "fix",
+     "prompt": "She might spent the money on a car.",
+     "answers": [
+      "She might have spent the money on a car.",
+      "She may have spent the money on a car.",
+      "She could have spent the money on a car."
+     ],
+     "explain": "Missing have: might have + past participle."
+    },
+    {
+     "id": "D5",
+     "type": "fix",
+     "prompt": "The bank must make a mistake yesterday.",
+     "answers": [
+      "The bank must have made a mistake yesterday."
+     ],
+     "explain": "Past: must have made."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "He should of checked the interest rate.",
+     "answers": [
+      "He should have checked the interest rate.",
+      "He should've checked the interest rate."
+     ],
+     "explain": "It is written have / 've, never 'of'."
+    },
+    {
+     "id": "D7",
+     "type": "fix",
+     "prompt": "They must won the lottery; they just bought a yacht.",
+     "answers": [
+      "They must have won the lottery; they just bought a yacht."
+     ],
+     "explain": "Modal + have + past participle."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Financial vocabulary",
+   "instructions": "Complete with a suitable word.",
+   "topic": "v-finance",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "After the divorce, he was left with a huge ___ and no savings.",
+     "answers": [
+      "debt"
+     ],
+     "explain": "Debt = money that is owed to someone."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "We stick to a monthly ___, so we never overspend.",
+     "answers": [
+      "budget"
+     ],
+     "explain": "Budget = a plan for how much money to spend."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "Her ___ is lower than her outgoings, so she's in the red.",
+     "options": [
+      "income",
+      "interest",
+      "pension"
+     ],
+     "answer": 0,
+     "explain": "Income = money received, such as wages."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "They took out a 25-year ___ to buy the flat.",
+     "answers": [
+      "mortgage"
+     ],
+     "explain": "Mortgage = a loan to buy property, repaid over many years."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "If you can't ___ a car, you could lease one.",
+     "options": [
+      "afford",
+      "avoid",
+      "allow"
+     ],
+     "answer": 0,
+     "explain": "Afford = to have enough money to pay for something."
+    },
+    {
+     "id": "E6",
+     "type": "gap",
+     "prompt": "The bank charges a high rate of ___ on credit cards.",
+     "answers": [
+      "interest"
+     ],
+     "explain": "Interest rate = the percentage charged on borrowed money."
+    },
+    {
+     "id": "E7",
+     "type": "choice",
+     "prompt": "'Overdraft' means:",
+     "options": [
+      "spending more money than is in your account",
+      "a type of investment",
+      "a fee for opening an account"
+     ],
+     "answer": 0,
+     "explain": "Overdraft = a negative balance in a bank account, caused by spending more than is available."
+    },
+    {
+     "id": "E8",
+     "type": "gap",
+     "prompt": "Paying in monthly ___ makes the laptop easier to afford.",
+     "answers": [
+      "instalments",
+      "installments"
+     ],
+     "explain": "Instalments = payments made in regular parts over time."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Ethical consumption and money idioms",
+   "instructions": "Complete, choose or translate.",
+   "topic": "v-ethics",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "A company that pretends to be eco-friendly in its marketing is guilty of ___.",
+     "options": [
+      "greenwashing",
+      "fair trade",
+      "crowdfunding"
+     ],
+     "answer": 0,
+     "explain": "Greenwashing = misleading claims that a product or company is environmentally friendly."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "Many shoppers ___ brands that exploit workers.",
+     "answers": [
+      "boycott"
+     ],
+     "explain": "Boycott = to refuse to buy from or support something as a protest."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "Buying things you don't need on a whim is ___ buying.",
+     "options": [
+      "impulse",
+      "impatient",
+      "instant"
+     ],
+     "answer": 0,
+     "explain": "Impulse buying = buying things suddenly, without planning."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "Five-star hotels every night would ___ the bank.",
+     "answers": [
+      "break"
+     ],
+     "explain": "Break the bank = to cost a fortune."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "Since the layoff, they've been living ___ to mouth.",
+     "options": [
+      "hand",
+      "head",
+      "foot"
+     ],
+     "answer": 0,
+     "explain": "Live hand to mouth = to spend everything you earn, with no savings."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "Let's ___ Dutch: you pay for yours and I'll pay for mine.",
+     "answers": [
+      "go"
+     ],
+     "explain": "Go Dutch = each person pays for themselves."
+    },
+    {
+     "id": "F7",
+     "type": "choice",
+     "prompt": "She ___ on a designer jacket last weekend.",
+     "options": [
+      "splashed out",
+      "tightened up",
+      "footed in"
+     ],
+     "answer": 0,
+     "explain": "Splash out (on) = to spend a lot of money on something."
+    },
+    {
+     "id": "F8",
+     "type": "translate",
+     "prompt": "Esa reparación nos costó un ojo de la cara.",
+     "answers": [
+      "That repair cost us an arm and a leg.",
+      "The repair cost us an arm and a leg.",
+      "That repair cost an arm and a leg."
+     ],
+     "explain": "Cost an arm and a leg."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "He",
+      "must",
+      "have",
+      "been",
+      "working",
+      "all",
+      "night"
+     ],
+     "answers": [
+      "He must have been working all night."
+     ],
+     "explain": "must have been + V-ing."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "They",
+      "can't",
+      "have",
+      "afforded",
+      "such",
+      "a",
+      "big",
+      "house"
+     ],
+     "answers": [
+      "They can't have afforded such a big house.",
+      "They cannot have afforded such a big house."
+     ],
+     "explain": "can't have + past participle."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "She",
+      "might",
+      "have",
+      "lost",
+      "her",
+      "job",
+      "last",
+      "year"
+     ],
+     "answers": [
+      "She might have lost her job last year."
+     ],
+     "explain": "might have + past participle."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "Someone",
+      "must",
+      "have",
+      "been",
+      "using",
+      "my",
+      "card"
+     ],
+     "answers": [
+      "Someone must have been using my card."
+     ],
+     "explain": "must have been + V-ing."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "He",
+      "shouldn't",
+      "have",
+      "spent",
+      "so",
+      "much",
+      "on",
+      "shoes"
+     ],
+     "answers": [
+      "He shouldn't have spent so much on shoes."
+     ],
+     "explain": "shouldn't have = reproach."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a correct sentence.",
+     "words": [
+      "There",
+      "must",
+      "be",
+      "an",
+      "explanation",
+      "for",
+      "the",
+      "missing",
+      "money"
+     ],
+     "answers": [
+      "There must be an explanation for the missing money."
+     ],
+     "explain": "must be: deduction about the present."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Él debe de haber gastado una fortuna en esa boda.",
+     "answers": [
+      "He must have spent a fortune on that wedding.",
+      "He must have spent a fortune at that wedding.",
+      "He must have spent a fortune on the wedding."
+     ],
+     "explain": "Debe de haber = must have + past participle."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "No pueden haber ahorrado tanto con ese sueldo.",
+     "answers": [
+      "They can't have saved that much on that salary.",
+      "They can't have saved so much on that salary.",
+      "They can't have saved that much with that salary.",
+      "They can't have saved so much with that salary.",
+      "They couldn't have saved that much on that salary.",
+      "They couldn't have saved so much on that salary.",
+      "They cannot have saved that much on that salary."
+     ],
+     "explain": "«No pueden haber» = can't have."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Quizá Luis se quedó sin dinero.",
+     "answers": [
+      "Luis may have run out of money.",
+      "Luis might have run out of money.",
+      "Luis could have run out of money.",
+      "Maybe Luis ran out of money.",
+      "Perhaps Luis ran out of money."
+     ],
+     "explain": "Possibility: may/might have + past participle."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Deberías haber leído la letra pequeña.",
+     "answers": [
+      "You should have read the small print.",
+      "You should have read the fine print.",
+      "You ought to have read the small print.",
+      "You ought to have read the fine print."
+     ],
+     "explain": "Reproach: should have."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "No tenías por qué pagar la cuenta entera.",
+     "answers": [
+      "You needn't have paid the whole bill.",
+      "You needn't have paid the entire bill.",
+      "You didn't need to pay the whole bill.",
+      "You didn't have to pay the whole bill.",
+      "You didn't need to pay the entire bill.",
+      "You didn't have to pay the entire bill."
+     ],
+     "explain": "Needn't have = unnecessary."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Han de haber estado ahorrando durante años.",
+     "answers": [
+      "They must have been saving for years.",
+      "They must have been saving up for years."
+     ],
+     "explain": "Deduction about a long activity: must have been + V-ing."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit mix",
+   "instructions": "Exercises on different topics from the unit (includes review of units 6 and 7).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Her bag has disappeared. She ___ it on the train.",
+     "options": [
+      "might have left",
+      "should leave",
+      "must leaving"
+     ],
+     "answer": 0,
+     "explain": "Past possibility: might have + past participle."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "I can't find my wallet. I ___ have dropped it on the way. (possible)",
+     "answers": [
+      "may",
+      "might",
+      "could"
+     ],
+     "explain": "Past possibility."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "He must have being working too hard.",
+     "answers": [
+      "He must have been working too hard."
+     ],
+     "explain": "Have been + V-ing."
+    },
+    {
+     "id": "M4",
+     "type": "gap",
+     "prompt": "No one answered the door. They ___ be at home. (I'm sure they're not)",
+     "answers": [
+      "can't",
+      "cannot"
+     ],
+     "explain": "Negative present deduction: can't be."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "'Greenwashing' is...",
+     "options": [
+      "marketing that exaggerates environmental benefits",
+      "washing clothes with eco products",
+      "a tax"
+     ],
+     "answer": 0,
+     "explain": "Greenwashing = misleading environmental claims."
+    },
+    {
+     "id": "M6",
+     "type": "translate",
+     "prompt": "Tuvo que haber sido un error del banco.",
+     "answers": [
+      "It must have been a bank error.",
+      "It must have been a mistake by the bank.",
+      "It must have been the bank's mistake.",
+      "It must have been an error by the bank.",
+      "It must have been a mistake on the bank's part."
+     ],
+     "explain": "Must have been + noun."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "We can barely make ___ meet on one salary.",
+     "answers": [
+      "ends"
+     ],
+     "explain": "Make ends meet = to have enough money for basic needs."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "The company ___ have known about the fraud; it was in the internal report. (I'm sure)",
+     "answers": [
+      "must"
+     ],
+     "explain": "Certain clue: must have."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "___ (not / have) enough savings, they took out a loan. (Review Unit 7)",
+     "answers": [
+      "Not having"
+     ],
+     "explain": "Negative participle clause."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "___ I known the fees were so high, I'd never have opened the account. (Review Unit 6)",
+     "answers": [
+      "Had"
+     ],
+     "explain": "Inverted conditional: Had I known = If I had known."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write an essay of 250 to 350 words: «Should we judge people by how they spend their money?». Present both sides (ethical consumption, saving, spending), use at least three speculations about the past (must have / can't have / might have) and two modals of reproach or regret (should have / needn't have). Include financial vocabulary and two money idioms.",
+   "targets": [
+    "past modal verbs of deduction",
+    "modals of reproach",
+    "financial and ethical vocabulary",
+    "money idioms",
+    "balanced argumentation"
+   ],
+   "checklist": [
+    "Between 250 and 350 words, with introduction, two sides of the debate and conclusion",
+    "3 or more deductions/speculations about the past with the correct structure",
+    "2 modals of reproach (should have / needn't have / shouldn't have)",
+    "Distinguish can't have from may not have",
+    "Vocabulary: afford, budget, debt, ethical consumption, frugal, accountable",
+    "2 idioms (break the bank, make ends meet…)",
+    "Debate expressions (It could be argued…, On the one hand…)"
+   ],
+   "model": "It is tempting to judge people by the way they spend their money. A neighbour arrives in a new sports car, and we assume he must have received a promotion. A colleague turns up in the same worn coat every winter, and we think she must be frugal, or perhaps struggling. But how reliable are such judgements?\n\nOn the one hand, it could be argued that spending reveals values. Someone who buys only second-hand clothes or supports local producers is practising ethical consumption, and it seems fair to hold such people accountable when they preach sustainability while flying abroad every month. Similarly, those who run up large debts on luxuries might be seen as reckless; they should have kept a budget, and a family that can barely afford its rent surely needn't have bought the latest television.\n\nOn the other hand, appearances can be deeply misleading. The man with the sports car may have inherited it, or he may be leasing it at great sacrifice. He can't have received a promotion, since the firm froze salaries last year, yet he may not have paid for it himself either. Likewise, the woman in the worn coat might have been saving for her children's education, or she could simply have been making ends meet after losing a job. Nor does an expensive purchase necessarily break the bank; for some people, a single treat is a rare relief from months of caution.\n\nMoreover, judgements about money ignore circumstance. Those who live on a tight income often have little choice, and criticising them is as unfair as praising the wealthy for choices that cost them nothing.\n\nIn conclusion, while spending can tell us something about priorities, it rarely tells the whole story. We should have been more careful before drawing conclusions from a stranger's wallet. It seems wiser to ask what people value than to count what they buy."
+  },
+  {
+   "id": "W2",
+   "prompt": "In 250 to 350 words, write a short news report about an invented financial mystery (for example, an employee who suddenly changes their lifestyle, or a huge anonymous donation). Put forward at least four hypotheses with different degrees of certainty and rule one out with can't have.",
+   "targets": [
+    "speculating about the past",
+    "degrees of certainty",
+    "journalistic register",
+    "cohesion"
+   ],
+   "checklist": [
+    "Between 250 and 350 words",
+    "4 hypotheses with different degrees of certainty (must / might / could / can't have)",
+    "At least one continuous modal (must have been + V-ing)",
+    "Other devices: presumably, for all we know, seem to have",
+    "Financial vocabulary",
+    "Journalistic style and well-connected paragraphs",
+    "No 'mustn't have' or 'should of'"
+   ],
+   "model": "MYSTERY SURROUNDS ACCOUNTANT'S SUDDEN WEALTH\n\nResidents of the small town of Alderbury are puzzled by the transformation of a local accountant who, within the space of three months, has swapped a ten-year-old hatchback for a luxury car, donated generously to the church roof appeal and booked a year-long trip abroad.\n\nHenry Vaughn, 42, has worked at the town's only accountancy firm since 2012. Colleagues describe him as modest and cautious with money, which makes the change all the more striking. Speculation has been rife.\n\nThe most obvious explanation is that he must have won a large sum of money. A lottery syndicate operating from the local pub has confirmed that he was not a member, however, so he can't have won there. Others suggest that he might have inherited a fortune from a distant relative, although a family friend says he has no known relatives. Presumably he was paid handsomely for some private consultancy, and for all we know, it could have been a bonus, although the firm's director insists that no such payments were made last year.\n\nA third theory is more worrying. Some residents believe that he must have been taking funds from clients' accounts over a long period. If so, the sudden spending seems to have followed years of careful concealment. The firm has denied any irregularity, and the police say they have received no complaint, so the allegation may well be unfounded. A neighbour, who asked not to be named, claims to have seen him carrying boxes of documents late at night; he may have been shredding evidence, or he could simply have been tidying his office.\n\nOne explanation can be ruled out. Mr Vaughn can't have sold his house, since it is still registered in his name, according to local records.\n\nFor now, the accountant is away and cannot be reached for comment. Until he returns, the town will have to live with the mystery. As one resident put it, \"Whatever the truth is, someone knows more than they are saying.\""
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The Quiet Millionaire",
+   "intro": "Read this opinion piece about an invented case and answer the questions.",
+   "paragraphs": [
+    "When Walter Brandt died last spring at the age of eighty-one, the residents of Alder Street were astonished to learn that the quiet retired caretaker in number 14 had left more than three million dollars to the city's public library. By all accounts, Brandt had lived modestly. He wore the same grey coat for two decades, ate his lunch from a flask on a bench by the canal and, as one neighbour put it, \"counted pennies as if they were gold coins\". How, people wondered, had he come by such a fortune?",
+    "The speculation began almost immediately. Some argued that he must have inherited the money from a wealthy relative, though no such relative has been found. Others, pointing to his habit of reading the financial pages every morning, suggested that he might have been investing shrewdly for decades. A few, more romantic, insisted that he could have won a lottery and kept it secret, but lottery winners are rarely so disciplined, and the dates did not fit. One local paper even speculated that he may have been a retired spy, an idea that made for a good headline and very little else.",
+    "The truth, pieced together by his solicitor, was less dramatic but more instructive. Brandt had started saving at nineteen, when his first wage packet taught him that security was a form of freedom. He had never taken out a loan, never bought a new car and never, as far as anyone can tell, been tempted by an impulse purchase. Every month he had put aside a third of his income in a low-cost index fund and then, crucially, left it alone. Compound interest had done the rest. Anyone looking at the statements today can see that most of the fortune is simply growth on growth: the reward for patience.",
+    "Yet the story did not end there, and it is here that opinion divides. Several former colleagues recalled that Brandt had turned down invitations to dinners, weddings and even a retirement party, apparently to avoid chipping in for gifts. His one nephew, who lives abroad, insists that he can't have been happy: \"A man who never spent a penny on himself must have been afraid of something.\" Others disagree. Someone who volunteered at the library three afternoons a week, remembered every borrower's name and left behind a note describing the reading room as \"the best place I ever worked\" can hardly have been unhappy. He may simply have valued different things.",
+    "The case raises uncomfortable questions about how we judge other people's money. We tend to assume that spending signals enjoyment and thrift signals deprivation, yet the link is far from automatic. A person who buys little may be practising a clear-eyed form of ethical consumption, refusing to fund waste, while a person who splashes out on every new gadget may be anxious or lonely. Equally, we should be wary of turning Brandt into a saint. Had he shared a little more of his wealth while alive, he could have eased the burden of neighbours who were living hand to mouth, and some of them feel, understandably, that his generosity came too late.",
+    "The library, for its part, has announced that the bequest will fund a new children's wing, to be named after him. Whether he would have approved of the plaque is another matter. He strikes me as the kind of man who would have considered it an unnecessary expense, and who might well have asked us to spend the money on books instead."
+   ],
+   "glossary": [
+    {
+     "en": "caretaker",
+     "def": "a person employed to look after a building."
+    },
+    {
+     "en": "shrewdly",
+     "def": "in a clever, sensible way that serves one's own interests."
+    },
+    {
+     "en": "wage packet",
+     "def": "the wages or pay received for work."
+    },
+    {
+     "en": "index fund",
+     "def": "an investment fund that tracks a stock market index and has low costs."
+    },
+    {
+     "en": "compound interest",
+     "def": "interest calculated on both the original sum and the interest already earned."
+    },
+    {
+     "en": "chip in",
+     "def": "to contribute money towards a shared cost."
+    },
+    {
+     "en": "thrift",
+     "def": "careful use of money; avoiding unnecessary spending."
+    },
+    {
+     "en": "bequest",
+     "def": "money or property left to someone in a will."
+    },
+    {
+     "en": "wary",
+     "def": "cautious and watchful, because of possible danger or problems."
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Brandt's neighbours knew that he was a wealthy man.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "They were surprised to find out that the person lived modestly."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Why does the writer dismiss the lottery theory?",
+     "options": [
+      "Winners are rarely so disciplined and the dates did not fit",
+      "He never bought tickets",
+      "The solicitor denied it"
+     ],
+     "answer": 0,
+     "explain": "'Lottery winners are rarely so disciplined, and the dates did not fit'."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "How did Brandt actually build his fortune?",
+     "options": [
+      "By investing regularly and leaving the money alone",
+      "By inheriting from a relative",
+      "By selling property"
+     ],
+     "answer": 0,
+     "explain": "They saved a third and invested it in a low-cost fund."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "What is the nephew's opinion?",
+     "options": [
+      "His uncle can't have been happy",
+      "His uncle must have been generous",
+      "His uncle might have been a spy"
+     ],
+     "answer": 0,
+     "explain": "'He can't have been happy'."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Most of the fortune is growth produced by compound ___.",
+     "answers": [
+      "interest"
+     ],
+     "explain": "Compound interest = interés compuesto."
+    },
+    {
+     "id": "R6",
+     "type": "choice",
+     "prompt": "What criticism of Brandt appears in paragraph 5?",
+     "options": [
+      "He could have helped struggling neighbours earlier",
+      "He spent too much on himself",
+      "He ignored the library"
+     ],
+     "answer": 0,
+     "explain": "'Had he shared a little more… he could have eased the burden'."
+    },
+    {
+     "id": "R7",
+     "type": "choice",
+     "prompt": "The writer is certain that Brandt would have liked the plaque.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Suggests they would probably have considered it an unnecessary expense."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Why did Rafa cancel?",
+   "intro": "Listen to three friends talking about a mutual friend. You can play it again.",
+   "lines": [
+    {
+     "who": "Dani",
+     "voice": "rounded",
+     "text": "Did you see the group chat? Rafa's cancelled our weekend trip again, and he's the one who suggested it."
+    },
+    {
+     "who": "Marta",
+     "voice": "airy",
+     "text": "He must have run into money trouble. He hasn't been himself since March."
+    },
+    {
+     "who": "Eli",
+     "voice": "glassy",
+     "text": "I don't think so. He can't have been short of cash. He bought a brand new motorbike last month."
+    },
+    {
+     "who": "Marta",
+     "voice": "airy",
+     "text": "Fair point. Then again, he might have taken out a loan for it. People do that all the time."
+    },
+    {
+     "who": "Dani",
+     "voice": "rounded",
+     "text": "True. Or he could have been overspending on his credit card without realising. Remember how he picked up the bill for everyone at that sushi place?"
+    },
+    {
+     "who": "Eli",
+     "voice": "glassy",
+     "text": "Yeah, he must have spent a fortune that night. Honestly, he should have let us go Dutch."
+    },
+    {
+     "who": "Marta",
+     "voice": "airy",
+     "text": "He needn't have insisted, you're right. But I think he hates being seen as stingy."
+    },
+    {
+     "who": "Dani",
+     "voice": "rounded",
+     "text": "Hmm. Do you think we should say something, or would that be prying?"
+    },
+    {
+     "who": "Eli",
+     "voice": "glassy",
+     "text": "I'd say it's a toss-up. If I were him, I'd rather someone asked than let me struggle in silence."
+    },
+    {
+     "who": "Marta",
+     "voice": "airy",
+     "text": "Agreed. Though we don't know for certain it's about money. He may just have been exhausted."
+    },
+    {
+     "who": "Dani",
+     "voice": "rounded",
+     "text": "Right. He was working late all week, so he must have been running on empty."
+    },
+    {
+     "who": "Eli",
+     "voice": "glassy",
+     "text": "Fine, let's invite him for coffee, my treat. No lecture about budgets, just a chat."
+    },
+    {
+     "who": "Marta",
+     "voice": "airy",
+     "text": "Perfect. And if it is money, at least he'll know he isn't alone."
+    },
+    {
+     "who": "Dani",
+     "voice": "rounded",
+     "text": "I'll text him now. Fingers crossed."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What do the friends know for certain about why Rafa cancelled?",
+     "options": [
+      "Nothing; they are only speculating",
+      "He told them he was ill",
+      "He has moved abroad"
+     ],
+     "answer": 0,
+     "explain": "It's all speculation."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Why does Eli think Rafa isn't short of cash?",
+     "options": [
+      "He bought a motorbike",
+      "He won a prize",
+      "He got a pay rise"
+     ],
+     "answer": 0,
+     "explain": "'He bought a brand new motorbike last month'."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Eli thinks Rafa was right to pay for everyone at the sushi place.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Eli says they should have let each person pay their own share."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "Eli says it's a toss-___ whether they should ask him.",
+     "answers": [
+      "up"
+     ],
+     "explain": "'It's a toss-up' = está parejo."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "What do they decide to do?",
+     "options": [
+      "Invite him for a coffee",
+      "Pay off his debts",
+      "Cancel the trip"
+     ],
+     "answer": 0,
+     "explain": "Eli lo invita a un café."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "He must have run into money trouble.",
+     "answers": [
+      "He must have run into money trouble."
+     ],
+     "explain": "must have + participio."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "He can't have been short of cash.",
+     "answers": [
+      "He can't have been short of cash.",
+      "He cannot have been short of cash."
+     ],
+     "explain": "can't have been: negative deduction."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "He should have let us go Dutch.",
+     "answers": [
+      "He should have let us go Dutch.",
+      "He should've let us go Dutch."
+     ],
+     "explain": "should have = reproche."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "He needn't have insisted.",
+     "answers": [
+      "He needn't have insisted.",
+      "He need not have insisted."
+     ],
+     "explain": "needn't have = innecesario."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Speculate: a friend who was always short of money suddenly buys a new car. What do you think happened?",
+     "questions": [
+      "How do you think he paid for it?",
+      "Could there be an innocent explanation?",
+      "What would make you suspicious?",
+      "What would you say to him?"
+     ],
+     "model": "He might have received an inheritance, or he could have taken out a loan. Honestly, he can't have saved that much from his salary. He may also have been working extra hours, because he looked exhausted lately. For all we know, someone helped him, so I wouldn't jump to conclusions.",
+     "checklist": [
+      "Use might/could/may have + past participle",
+      "Use can't have to rule something out",
+      "Include must have with evidence",
+      "Close with For all we know / jump to conclusions"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Debate: Is it ethical to buy cheap fast fashion?",
+     "questions": [
+      "Is it ever acceptable to buy fast fashion?",
+      "Who should be held accountable: shoppers or companies?",
+      "What is the role of greenwashing?",
+      "What would you change in your own habits?"
+     ],
+     "model": "On the one hand, many people can't afford ethical brands. On the other, it could be argued that cheap clothes exploit workers and the planet. Companies should be held accountable, yet shoppers needn't have bought so much in the first place. Personally, I try to buy less and buy better.",
+     "checklist": [
+      "On the one hand… on the other…",
+      "It could be argued that…",
+      "Vocabulary: exploit, accountable, greenwashing",
+      "Clear personal position"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Tell about a money mistake (yours or someone else's) and what you would have done differently.",
+     "questions": [
+      "Have you ever spent money you regretted?",
+      "What should you have done instead?",
+      "Could you have avoided it?",
+      "What did you learn?"
+     ],
+     "model": "Last year I splashed out on a gadget I barely used. I should have compared prices, and I shouldn't have bought it on impulse. I could have saved that money for a trip. It was a drop in the ocean for my budget, but the lesson stayed with me.",
+     "checklist": [
+      "should have / shouldn't have + past participle",
+      "could have for a missed opportunity",
+      "At least one money idiom",
+      "Close with a lesson learned"
+     ]
+    }
+   ],
+   "repeat": [
+    "He must have spent a fortune on that watch.",
+    "She can't have known about the debt.",
+    "They might have lost it on the train.",
+    "You should have read the small print.",
+    "You needn't have paid the whole bill.",
+    "For all we know, he gave it all away."
+   ]
+  }
+ }
+}

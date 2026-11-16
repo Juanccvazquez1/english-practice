@@ -1,0 +1,1866 @@
+{
+ "id": "u-b2-01",
+ "level": "B2",
+ "n": 1,
+ "title": "Close Ties",
+ "goals": [
+  "Talk about friendships and relationships with precise vocabulary (confidant, close-knit, drift apart).",
+  "Give extra, precise information with relative clauses (non-defining, whose, where, which, preposition + whom).",
+  "Shorten sentences with reduced clauses (the woman sitting next to me; a message sent by my ex).",
+  "Use separable and inseparable phrasal verbs when talking about relationships (let down, put up with, fall out with).",
+  "Talk about two people with both, neither, either and each other.",
+  "Soften criticism and opinions so you sound natural and kind (a bit, kind of, I guess, though)."
+ ],
+ "learn": [
+  {
+   "id": "v-friendship",
+   "kind": "vocab",
+   "title": "Friends, partners and acquaintances (relationship circle)",
+   "words": [
+    {
+     "id": "w-acquaintance",
+     "en": "acquaintance",
+     "es": "conocido/a (alguien a quien conoces poco)",
+     "example": "He isn't a friend, just an acquaintance from the gym."
+    },
+    {
+     "id": "w-close-knit",
+     "en": "close-knit",
+     "es": "muy unido/a (grupo, familia)",
+     "example": "We're a close-knit group, so we see each other every week."
+    },
+    {
+     "id": "w-lifelong-friend",
+     "en": "lifelong friend",
+     "es": "amigo/a de toda la vida",
+     "example": "Rosa and I have been lifelong friends since primary school.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-confidant",
+     "en": "confidant",
+     "es": "confidente",
+     "example": "My sister is my closest confidant; I tell her everything."
+    },
+    {
+     "id": "w-colleague",
+     "en": "colleague",
+     "es": "colega, compañero/a de trabajo",
+     "example": "A colleague recommended this restaurant to me.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-flatmate",
+     "en": "flatmate",
+     "es": "compañero/a de piso o departamento (en EE. UU.: roommate)",
+     "example": "My flatmate and I split the rent and the bills."
+    },
+    {
+     "id": "w-mutual-friend",
+     "en": "mutual friend",
+     "es": "amigo/a en común",
+     "example": "We met through a mutual friend at a wedding.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-soulmate",
+     "en": "soulmate",
+     "es": "alma gemela",
+     "example": "Some people say they found their soulmate at university."
+    },
+    {
+     "id": "w-rival",
+     "en": "rival",
+     "es": "rival",
+     "example": "We were rivals at school, but now we get on well.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-long-distance-relationship",
+     "en": "long-distance relationship",
+     "es": "relación a distancia",
+     "example": "A long-distance relationship needs patience and trust.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-circle-of-friends",
+     "en": "circle of friends",
+     "es": "círculo de amigos",
+     "example": "Her circle of friends is small but very loyal.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-partner",
+     "en": "partner",
+     "es": "pareja (sentimental o de negocios)",
+     "example": "My partner and I have been together for six years.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-relatives",
+   "kind": "grammar",
+   "title": "Relative clauses: non-defining, whose and where",
+   "html": "<p>You already know the relative clauses that <strong>identify</strong> a person (<em>the friend who lives next door</em>). At B2 we add those that give <strong>extra information</strong> and those that use <em>whose</em>, <em>where</em> and <em>which</em> referring to a whole idea.</p><table><thead><tr><th>Type</th><th>Example</th><th>Key points</th></tr></thead><tbody><tr><td>Defining (necessary)</td><td>The friend <strong>(who / that)</strong> I trust most is Ana.</td><td>No commas; that can be used; the object pronoun can be left out.</td></tr><tr><td>Non-defining (extra)</td><td>My oldest friend, <strong>who</strong> lives in Quito, is visiting.</td><td>Between commas; NEVER that; the pronoun is not left out.</td></tr><tr><td>whose + noun</td><td>I have a colleague <strong>whose</strong> brother is a famous chef.</td><td>Possession (belonging to someone); no article after it.</td></tr><tr><td>where / when</td><td>That's the café <strong>where</strong> we first met.</td><td>Place and time.</td></tr><tr><td>which = the whole previous idea</td><td>He never replies, <strong>which</strong> really annoys me.</td><td>Commas; which refers to the whole sentence.</td></tr><tr><td>Preposition</td><td>The friend <strong>I grew up with</strong> / The friend <strong>with whom</strong> I grew up.</td><td>Informal: preposition at the end. Formal: preposition + whom / which (never that).</td></tr></tbody></table><p>Remember: in English <strong>the pronoun is not repeated</strong> inside the relative clause: <em>The man I met</em>, not <em>The man I met him</em>.</p>",
+   "watch": [
+    {
+     "wrong": "My sister, that lives in Monterrey, is a nurse.",
+     "right": "My sister, who lives in Monterrey, is a nurse.",
+     "why": "In non-defining clauses (with commas), that is not used."
+    },
+    {
+     "wrong": "The man who I talked to him is Pablo.",
+     "right": "The man who I talked to is Pablo. / The man I talked to is Pablo.",
+     "why": "Don't repeat the pronoun: who already replaces him."
+    },
+    {
+     "wrong": "I have a friend which parents are doctors.",
+     "right": "I have a friend whose parents are doctors.",
+     "why": "Possession = whose."
+    },
+    {
+     "wrong": "The friend with who I travel is funny.",
+     "right": "The friend with whom I travel is funny.",
+     "why": "After a preposition, whom (not who)."
+    }
+   ]
+  },
+  {
+   "id": "g-reduced",
+   "kind": "grammar",
+   "title": "Reduced clauses with -ing and -ed",
+   "html": "<p>In written and natural spoken English you can <strong>shorten</strong> a relative clause when the pronoun is the <strong>subject</strong>: drop <em>who / which / that</em> and the verb <em>be</em>.</p><table><thead><tr><th>Full form</th><th>Reduced</th><th>Rule</th></tr></thead><tbody><tr><td>The woman who is sitting next to me is my aunt.</td><td>The woman <strong>sitting</strong> next to me is my aunt.</td><td>Active voice → verb with <strong>-ing</strong>.</td></tr><tr><td>People who live nearby can walk to school.</td><td>People <strong>living</strong> nearby can walk to school.</td><td>Simple present → -ing.</td></tr><tr><td>A message that was sent by my ex made me sad.</td><td>A message <strong>sent</strong> by my ex made me sad.</td><td>Passive voice → past participle (<strong>-ed / 3rd form</strong>).</td></tr><tr><td>The guests who were invited came early.</td><td>The guests <strong>invited</strong> came early.</td><td>Drop who + was/were.</td></tr></tbody></table><ul><li>You only reduce if the pronoun is the <strong>subject</strong>. In <em>The friend (that) I met</em> the pronoun is an object: there is no reduced form.</li><li>For a single completed action in the past, don't use -ing: <em>The man who called yesterday</em> is not <em>the man calling yesterday</em>.</li></ul>",
+   "watch": [
+    {
+     "wrong": "The woman who sitting there is my cousin.",
+     "right": "The woman sitting there is my cousin.",
+     "why": "Either the full relative clause (who is sitting) or the reduced one (sitting), but don't mix them."
+    },
+    {
+     "wrong": "The book writing by my friend is a bestseller.",
+     "right": "The book written by my friend is a bestseller.",
+     "why": "Passive meaning → past participle (written)."
+    },
+    {
+     "wrong": "The people invite to the party were late.",
+     "right": "The people invited to the party were late.",
+     "why": "Reduced passive: participle with -ed."
+    },
+    {
+     "wrong": "The man calling you yesterday is my boss.",
+     "right": "The man who called you yesterday is my boss.",
+     "why": "A single completed past action is not reduced with -ing."
+    }
+   ]
+  },
+  {
+   "id": "v-character",
+   "kind": "vocab",
+   "title": "Describing character (personality and attitude)",
+   "words": [
+    {
+     "id": "w-loyal",
+     "en": "loyal",
+     "es": "leal",
+     "example": "Max is loyal: he never talks about his friends behind their backs.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-supportive",
+     "en": "supportive",
+     "es": "que te apoya",
+     "example": "My parents were very supportive when I changed careers.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-trustworthy",
+     "en": "trustworthy",
+     "es": "digno/a de confianza",
+     "example": "She's trustworthy, so I told her my secret."
+    },
+    {
+     "id": "w-easygoing",
+     "en": "easygoing",
+     "es": "tranquilo/a, de trato fácil",
+     "example": "My flatmate is easygoing and never complains."
+    },
+    {
+     "id": "w-possessive",
+     "en": "possessive",
+     "es": "posesivo/a",
+     "example": "He gets angry when she talks to other people; he's very possessive."
+    },
+    {
+     "id": "w-jealous",
+     "en": "jealous",
+     "es": "celoso/a, envidioso/a",
+     "example": "She was jealous of her sister's success."
+    },
+    {
+     "id": "w-selfish",
+     "en": "selfish",
+     "es": "egoísta",
+     "example": "It's selfish to think only about yourself."
+    },
+    {
+     "id": "w-thoughtful",
+     "en": "thoughtful",
+     "es": "considerado/a, atento/a",
+     "example": "That was a thoughtful gift; you remembered my favorite book.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-sociable",
+     "en": "sociable",
+     "es": "sociable",
+     "example": "Lucía is sociable and makes friends everywhere."
+    },
+    {
+     "id": "w-reserved",
+     "en": "reserved",
+     "es": "reservado/a, discreto/a",
+     "example": "He's reserved at first, but he opens up with time.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-nosy",
+     "en": "nosy",
+     "es": "entrometido/a",
+     "example": "My neighbor is nosy: she always asks where I'm going."
+    },
+    {
+     "id": "w-moody",
+     "en": "moody",
+     "es": "de humor cambiante",
+     "example": "He's moody, so I never know how he'll react."
+    }
+   ]
+  },
+  {
+   "id": "g-phrasal",
+   "kind": "grammar",
+   "title": "Phrasal verbs: separable, inseparable and three-part",
+   "html": "<p>A <em>phrasal verb</em> is a verb + particle (<em>up, out, down, with…</em>). The verb is conjugated; the particle does not change. Three groups:</p><table><thead><tr><th>Group</th><th>Examples</th><th>Rule</th></tr></thead><tbody><tr><td>Without an object (intransitive)</td><td>grow up, break up, work out, drift apart, settle down</td><td>They take no object: <em>They broke up last year.</em></td></tr><tr><td>Separable (with an object)</td><td>let (someone) down, call (someone) up, bring (someone) up</td><td>The noun can go in the middle or after: <em>let Ana down / let down Ana</em>. With a <strong>pronoun</strong> it always goes in the middle: <em>let her down</em>.</td></tr><tr><td>Inseparable and three-part</td><td>look after, run into, get along with, look up to, put up with, fall out with, keep up with</td><td>Never separated: <em>I look up to her.</em> <em>I can't put up with it.</em></td></tr></tbody></table><p>Many have more than one meaning: <em>work out</em> = turn out well / exercise / calculate. Learn each phrasal verb inside a complete sentence.</p>",
+   "watch": [
+    {
+     "wrong": "She let down me.",
+     "right": "She let me down.",
+     "why": "With a pronoun, the pronoun goes between the verb and the particle."
+    },
+    {
+     "wrong": "They broke up me last year.",
+     "right": "They broke up with me last year.",
+     "why": "With an object you need with: break up with someone."
+    },
+    {
+     "wrong": "I can't put up it anymore.",
+     "right": "I can't put up with it anymore.",
+     "why": "Put up with has three parts: it is not separated."
+    },
+    {
+     "wrong": "I get along him very well.",
+     "right": "I get along with him very well.",
+     "why": "Get along with + person; forgetting with is a common mistake."
+    }
+   ]
+  },
+  {
+   "id": "v-phrasal-rel",
+   "kind": "vocab",
+   "title": "Phrasal verbs for relationships (relationships and contact)",
+   "words": [
+    {
+     "id": "w-fall-out-with",
+     "en": "fall out with",
+     "es": "pelearse / distanciarse de alguien",
+     "example": "I fell out with my cousin over money.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-make-up-with",
+     "en": "make up with",
+     "es": "hacer las paces con alguien",
+     "example": "We argued, but we made up the next day.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-drift-apart",
+     "en": "drift apart",
+     "es": "distanciarse poco a poco",
+     "example": "After college, we just drifted apart.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-lose-touch-with",
+     "en": "lose touch with",
+     "es": "perder el contacto con",
+     "example": "I lost touch with her when she moved abroad.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-get-back-in-touch-with",
+     "en": "get back in touch with",
+     "es": "volver a ponerse en contacto con",
+     "example": "I got back in touch with an old classmate on social media.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-keep-in-touch",
+     "en": "keep in touch",
+     "es": "mantenerse en contacto",
+     "example": "Let's keep in touch after the course ends.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-get-along-with",
+     "en": "get along with",
+     "es": "llevarse bien con",
+     "example": "I get along with all my colleagues.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-look-up-to",
+     "en": "look up to",
+     "es": "admirar, tener como modelo",
+     "example": "I've always looked up to my older brother.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-let-down",
+     "en": "let down",
+     "es": "decepcionar, fallar a alguien",
+     "example": "Don't worry; I won't let you down.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-count-on",
+     "en": "count on",
+     "es": "contar con (alguien), confiar en",
+     "example": "You can always count on me.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-break-up-with",
+     "en": "break up with",
+     "es": "terminar con (una pareja)",
+     "example": "She broke up with her boyfriend last month.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-settle-down",
+     "en": "settle down",
+     "es": "sentar cabeza, establecerse",
+     "example": "They settled down and bought a house.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-hang-out-with",
+     "en": "hang out with",
+     "es": "pasar el rato con",
+     "example": "I usually hang out with my friends on Fridays.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-put-up-with",
+     "en": "put up with",
+     "es": "tolerar, soportar",
+     "example": "I can't put up with rude people.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-bump-into",
+     "en": "bump into",
+     "es": "encontrarse por casualidad con",
+     "example": "I bumped into an old friend at the supermarket.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "g-both-neither",
+   "kind": "grammar",
+   "title": "both, neither, either and each other",
+   "html": "<p>They are used to talk about <strong>two</strong> people or things at the same time.</p><table><thead><tr><th>Structure</th><th>Example</th><th>Notes</th></tr></thead><tbody><tr><td>be + both</td><td>We're <strong>both</strong> fans of the same band.</td><td>With be, both goes after the verb.</td></tr><tr><td>both + other verb</td><td>We <strong>both</strong> work in design.</td><td>With other verbs, both goes before.</td></tr><tr><td>both of us / them</td><td><strong>Both of us</strong> like hiking.</td><td>As a subject; verb in the plural.</td></tr><tr><td>neither of us / them</td><td><strong>Neither of us</strong> likes getting up early.</td><td>Already negative: the verb is affirmative. Singular verb (in informal English a plural is also heard).</td></tr><tr><td>either of</td><td>I don't think <strong>either of</strong> them is right.</td><td>«Either of the two»; used in negative sentences or questions.</td></tr><tr><td>both … and / neither … nor</td><td>She's <strong>both</strong> kind <strong>and</strong> funny. He's <strong>neither</strong> rude <strong>nor</strong> arrogant.</td><td>Parallel structures.</td></tr><tr><td>each other / one another</td><td>They've known <strong>each other</strong> for years.</td><td>Reciprocal action (with each other). It is not the same as themselves.</td></tr></tbody></table>",
+   "watch": [
+    {
+     "wrong": "Neither of us doesn't like horror films.",
+     "right": "Neither of us likes horror films.",
+     "why": "Neither is already negative: don't add another negation."
+    },
+    {
+     "wrong": "Both of we are engineers.",
+     "right": "Both of us are engineers.",
+     "why": "After of, use the object pronoun: us, them."
+    },
+    {
+     "wrong": "They love themselves (= se quieren el uno al otro).",
+     "right": "They love each other.",
+     "why": "Reciprocity = each other; themselves is reflexive."
+    },
+    {
+     "wrong": "We like both to travel.",
+     "right": "We both like to travel.",
+     "why": "Both goes before the main verb."
+    }
+   ]
+  },
+  {
+   "id": "e-soften",
+   "kind": "expressions",
+   "title": "Softening comments (softeners)",
+   "html": "<p>In an English conversation, direct criticism sounds harsh. To sound natural and polite, <strong>soften</strong> with these words:</p><ul><li><strong>a bit / a little (bit) / kind of / sort of</strong> — She's <em>a bit</em> odd. It's <em>kind of</em> weird.</li><li><strong>I guess / I think / I suppose</strong> — <em>I guess</em> that's OK.</li><li><strong>probably / maybe</strong> — He's <em>probably</em> just tired.</li><li><strong>just</strong> — She's <em>just</em> a bit shy.</li><li><strong>in a way</strong> — It's a relief <em>in a way</em>.</li><li><strong>though</strong> (at the end) — He's nice. He talks a lot, <em>though</em>.</li><li><strong>I wouldn't say… / not exactly the most…</strong> — <em>I wouldn't say</em> he's lazy, but… / She's <em>not exactly the most</em> patient person.</li><li><strong>deep down</strong> — He's a bit rough, but <em>deep down</em> he's kind.</li></ul><p>A falling intonation and a friendly tone also soften what you say. Don't pile them all into one sentence.</p>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Relative clauses: who, whose, where, which, whom",
+   "instructions": "Complete the sentence or choose the correct option.",
+   "topic": "g-relatives",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "My brother, ___ lives in Guadalajara, is a chef.",
+     "answers": [
+      "who"
+     ],
+     "explain": "Non-defining (commas) with a person as subject: who, not that."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "That's the girl ___ mother is a famous singer.",
+     "answers": [
+      "whose"
+     ],
+     "explain": "Possession: whose + noun."
+    },
+    {
+     "id": "A3",
+     "type": "choice",
+     "prompt": "Our old house, ___ we lived for ten years, is now a school.",
+     "options": [
+      "where",
+      "that",
+      "in where"
+     ],
+     "answer": 0,
+     "explain": "Place in a non-defining clause: where (that is not used with commas)."
+    },
+    {
+     "id": "A4",
+     "type": "fix",
+     "prompt": "The colleague who I work with him is very supportive.",
+     "answers": [
+      "The colleague I work with is very supportive.",
+      "The colleague who I work with is very supportive.",
+      "The colleague that I work with is very supportive.",
+      "The colleague with whom I work is very supportive."
+     ],
+     "explain": "The pronoun is not repeated (him)."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "She is the friend with ___ I traveled to Peru.",
+     "answers": [
+      "whom"
+     ],
+     "explain": "Preposition + whom in formal style."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "He never replies to my messages, that really annoys me.",
+     "answers": [
+      "He never replies to my messages, which really annoys me."
+     ],
+     "explain": "To comment on the whole previous idea: , which."
+    },
+    {
+     "id": "A7",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "My cousin, that lives in Canada, called me.",
+      "My cousin, who lives in Canada, called me.",
+      "My cousin who, lives in Canada, called me."
+     ],
+     "answer": 1,
+     "explain": "With commas: who, never that."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Reduced clauses",
+   "instructions": "Complete or correct using the reduced form.",
+   "topic": "g-reduced",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "Do you know the man ___ (sit) next to Paula?",
+     "answers": [
+      "sitting"
+     ],
+     "explain": "Active reduced clause: verb with -ing."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "The message ___ (send) by my ex was very short.",
+     "answers": [
+      "sent"
+     ],
+     "explain": "Reduced passive: past participle."
+    },
+    {
+     "id": "B3",
+     "type": "fix",
+     "prompt": "The people who invited to the wedding came from abroad.",
+     "answers": [
+      "The people invited to the wedding came from abroad.",
+      "The people who were invited to the wedding came from abroad."
+     ],
+     "explain": "Either the full form (who were invited) or the reduced one (invited)."
+    },
+    {
+     "id": "B4",
+     "type": "choice",
+     "prompt": "Reduce: «The students who are waiting outside are my friends.»",
+     "options": [
+      "The students waiting outside are my friends.",
+      "The students waited outside are my friends.",
+      "The students who waiting outside are my friends."
+     ],
+     "answer": 0,
+     "explain": "Remove who are and keep -ing."
+    },
+    {
+     "id": "B5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "woman",
+      "The",
+      "window",
+      "aunt",
+      "by",
+      "is",
+      "the",
+      "standing",
+      "my"
+     ],
+     "answers": [
+      "The woman standing by the window is my aunt."
+     ],
+     "explain": "Relativa reducida: standing by the window."
+    },
+    {
+     "id": "B6",
+     "type": "translate",
+     "prompt": "Los vecinos que viven al lado son muy amables.",
+     "answers": [
+      "The neighbors living next door are very friendly.",
+      "The neighbours living next door are very friendly.",
+      "The neighbors living next door are very nice.",
+      "The neighbours living next door are very nice.",
+      "The neighbors living next door are very kind.",
+      "The neighbours living next door are very kind.",
+      "The neighbors who live next door are very friendly.",
+      "The neighbours who live next door are very friendly.",
+      "The neighbors who live next door are very nice.",
+      "The neighbours who live next door are very nice.",
+      "The neighbors who live next door are very kind.",
+      "The neighbours who live next door are very kind."
+     ],
+     "explain": "Reduced with -ing or full relative clause."
+    },
+    {
+     "id": "B7",
+     "type": "fix",
+     "prompt": "The book writing by my best friend is a bestseller.",
+     "answers": [
+      "The book written by my best friend is a bestseller."
+     ],
+     "explain": "Passive meaning: written."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Phrasal verbs",
+   "instructions": "Choose or complete the phrasal verb.",
+   "topic": "g-phrasal",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "I trusted him, but he ___.",
+     "options": [
+      "let me down",
+      "let down me",
+      "let to me down"
+     ],
+     "answer": 0,
+     "explain": "With a pronoun, it goes in the middle: let me down."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "We don't get along ___ our new neighbors.",
+     "answers": [
+      "with"
+     ],
+     "explain": "Get along with someone."
+    },
+    {
+     "id": "C3",
+     "type": "fix",
+     "prompt": "I can't put up it any longer.",
+     "answers": [
+      "I can't put up with it any longer."
+     ],
+     "explain": "Put up with is not separated."
+    },
+    {
+     "id": "C4",
+     "type": "gap",
+     "prompt": "After ten years together, they decided to break ___.",
+     "answers": [
+      "up"
+     ],
+     "explain": "Break up = end a relationship."
+    },
+    {
+     "id": "C5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "sister",
+      "look",
+      "really",
+      "my",
+      "older",
+      "I",
+      "to",
+      "up"
+     ],
+     "answers": [
+      "I really look up to my older sister."
+     ],
+     "explain": "Look up to is inseparable."
+    },
+    {
+     "id": "C6",
+     "type": "translate",
+     "prompt": "Perdimos el contacto cuando ella se mudó a otra ciudad.",
+     "answers": [
+      "We lost touch when she moved away.",
+      "We lost touch when she moved to another city.",
+      "We lost touch when she moved to a different city."
+     ],
+     "explain": "Lose touch (with someone)."
+    },
+    {
+     "id": "C7",
+     "type": "choice",
+     "prompt": "Which sentence is NOT correct?",
+     "options": [
+      "She called him up.",
+      "She called up him.",
+      "She called up the doctor."
+     ],
+     "answer": 1,
+     "explain": "With a pronoun, the phrasal verb is separated: called him up."
+    },
+    {
+     "id": "C8",
+     "type": "gap",
+     "prompt": "My parents grew ___ in a small town.",
+     "answers": [
+      "up"
+     ],
+     "explain": "Grow up = to become an adult."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "both, neither, each other",
+   "instructions": "Complete, put in order or correct.",
+   "topic": "g-both-neither",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "Neither of us ___ (like) spicy food.",
+     "answers": [
+      "likes",
+      "like"
+     ],
+     "explain": "Neither of us + affirmative verb (singular; the plural is also heard)."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "My sister and I ___ love hiking.",
+     "options": [
+      "both",
+      "both of",
+      "neither"
+     ],
+     "answer": 0,
+     "explain": "Both goes before the main verb."
+    },
+    {
+     "id": "D3",
+     "type": "fix",
+     "prompt": "Neither of us didn't know the answer.",
+     "answers": [
+      "Neither of us knew the answer."
+     ],
+     "explain": "Neither is already negative."
+    },
+    {
+     "id": "D4",
+     "type": "gap",
+     "prompt": "They've known ___ for twenty years.",
+     "answers": [
+      "each other",
+      "one another"
+     ],
+     "explain": "Reciprocal action: each other."
+    },
+    {
+     "id": "D5",
+     "type": "fix",
+     "prompt": "Both of we are engineers.",
+     "answers": [
+      "Both of us are engineers."
+     ],
+     "explain": "Both of + object pronoun."
+    },
+    {
+     "id": "D6",
+     "type": "translate",
+     "prompt": "A ninguno de los dos nos gusta madrugar.",
+     "answers": [
+      "Neither of us likes getting up early.",
+      "Neither of us likes to get up early.",
+      "Neither of us likes waking up early.",
+      "Neither of us loves getting up early.",
+      "Neither of us loves to get up early.",
+      "Neither of us loves waking up early."
+     ],
+     "explain": "Neither of us + affirmative verb."
+    },
+    {
+     "id": "D7",
+     "type": "choice",
+     "prompt": "María and Ana are sisters. They look at ___ and laugh.",
+     "options": [
+      "themselves",
+      "each other",
+      "both"
+     ],
+     "answer": 1,
+     "explain": "Reciprocity: each other."
+    },
+    {
+     "id": "D8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "band",
+      "both",
+      "of",
+      "the",
+      "We're",
+      "fans",
+      "same"
+     ],
+     "answers": [
+      "We're both fans of the same band.",
+      "We are both fans of the same band."
+     ],
+     "explain": "Be + both."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary for relationships and character",
+   "instructions": "Choose or complete the word that fits.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "We had a big argument, but we made ___ the next day.",
+     "answers": [
+      "up"
+     ],
+     "explain": "Make up = to make peace."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "A person who keeps your secrets and listens without judging is a ___.",
+     "options": [
+      "confidant",
+      "acquaintance",
+      "flatmate"
+     ],
+     "answer": 0,
+     "explain": "Confidant = someone you trust with your secrets."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "I only know him slightly; he's an ___, not a friend.",
+     "answers": [
+      "acquaintance"
+     ],
+     "explain": "Acquaintance = someone you know slightly."
+    },
+    {
+     "id": "E4",
+     "type": "choice",
+     "prompt": "My boss is very ___: she always listens to my problems and helps me.",
+     "options": [
+      "supportive",
+      "possessive",
+      "reserved"
+     ],
+     "answer": 0,
+     "explain": "Supportive = giving help and encouragement."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "Pablo is so ___ that he checks her phone and hates it when she goes out without him.",
+     "answers": [
+      "possessive"
+     ],
+     "explain": "Possessive = wanting to control someone."
+    },
+    {
+     "id": "E6",
+     "type": "fix",
+     "prompt": "We have lost the touch since she moved.",
+     "answers": [
+      "We have lost touch since she moved.",
+      "We've lost touch since she moved."
+     ],
+     "explain": "Lose touch takes no article."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "Let's try to keep in ___ after graduation.",
+     "answers": [
+      "touch"
+     ],
+     "explain": "Keep in touch."
+    },
+    {
+     "id": "E8",
+     "type": "choice",
+     "prompt": "She's very ___: she wouldn't tell anyone your secret.",
+     "options": [
+      "trustworthy",
+      "nosy",
+      "moody"
+     ],
+     "answer": 0,
+     "explain": "Trustworthy = worthy of trust."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Softening comments",
+   "instructions": "Choose or complete to sound friendlier.",
+   "topic": "e-soften",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "Which is the softest way to criticize?",
+     "options": [
+      "He's boring.",
+      "He's a bit boring, I guess.",
+      "He is totally boring."
+     ],
+     "answer": 1,
+     "explain": "A bit + I guess soften."
+    },
+    {
+     "id": "F2",
+     "type": "gap",
+     "prompt": "She's ___ of shy, but once you know her, she's great.",
+     "answers": [
+      "kind",
+      "sort"
+     ],
+     "explain": "Kind of / sort of soften."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "I don't love her cooking. She's a lovely person, ___.",
+     "answers": [
+      "though"
+     ],
+     "explain": "Though at the end adds a contrast."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "I ___ say he's lazy, but he doesn't work very hard.",
+     "answers": [
+      "wouldn't",
+      "would not"
+     ],
+     "explain": "I wouldn't say… softens a criticism."
+    },
+    {
+     "id": "F5",
+     "type": "choice",
+     "prompt": "Which word introduces a more tentative opinion?",
+     "options": [
+      "I guess",
+      "Obviously",
+      "Definitely"
+     ],
+     "answer": 0,
+     "explain": "I guess = tentative opinion."
+    },
+    {
+     "id": "F6",
+     "type": "translate",
+     "prompt": "Mi vecino es un poco raro, pero en el fondo es buena persona.",
+     "answers": [
+      "My neighbor is a bit odd, but deep down he's a good person.",
+      "My neighbour is a bit odd, but deep down he's a good person.",
+      "My neighbor is a bit odd, but deep down he's a nice person.",
+      "My neighbour is a bit odd, but deep down he's a nice person.",
+      "My neighbor is a bit odd, but deep down he's a kind person.",
+      "My neighbour is a bit odd, but deep down he's a kind person.",
+      "My neighbor is a bit odd, but deep down he is a good person.",
+      "My neighbour is a bit odd, but deep down he is a good person.",
+      "My neighbor is a bit odd, but deep down he is a nice person.",
+      "My neighbour is a bit odd, but deep down he is a nice person.",
+      "My neighbor is a bit odd, but deep down he is a kind person.",
+      "My neighbour is a bit odd, but deep down he is a kind person.",
+      "My neighbor is a bit strange, but deep down he's a good person.",
+      "My neighbour is a bit strange, but deep down he's a good person.",
+      "My neighbor is a bit strange, but deep down he's a nice person.",
+      "My neighbour is a bit strange, but deep down he's a nice person.",
+      "My neighbor is a bit strange, but deep down he's a kind person.",
+      "My neighbour is a bit strange, but deep down he's a kind person.",
+      "My neighbor is a bit strange, but deep down he is a good person.",
+      "My neighbour is a bit strange, but deep down he is a good person.",
+      "My neighbor is a bit strange, but deep down he is a nice person.",
+      "My neighbour is a bit strange, but deep down he is a nice person.",
+      "My neighbor is a bit strange, but deep down he is a kind person.",
+      "My neighbour is a bit strange, but deep down he is a kind person.",
+      "My neighbor is a bit weird, but deep down he's a good person.",
+      "My neighbour is a bit weird, but deep down he's a good person.",
+      "My neighbor is a bit weird, but deep down he's a nice person.",
+      "My neighbour is a bit weird, but deep down he's a nice person.",
+      "My neighbor is a bit weird, but deep down he's a kind person.",
+      "My neighbour is a bit weird, but deep down he's a kind person.",
+      "My neighbor is a bit weird, but deep down he is a good person.",
+      "My neighbour is a bit weird, but deep down he is a good person.",
+      "My neighbor is a bit weird, but deep down he is a nice person.",
+      "My neighbour is a bit weird, but deep down he is a nice person.",
+      "My neighbor is a bit weird, but deep down he is a kind person.",
+      "My neighbour is a bit weird, but deep down he is a kind person.",
+      "My neighbor is a little odd, but deep down he's a good person.",
+      "My neighbour is a little odd, but deep down he's a good person.",
+      "My neighbor is a little odd, but deep down he's a nice person.",
+      "My neighbour is a little odd, but deep down he's a nice person.",
+      "My neighbor is a little odd, but deep down he's a kind person.",
+      "My neighbour is a little odd, but deep down he's a kind person.",
+      "My neighbor is a little odd, but deep down he is a good person.",
+      "My neighbour is a little odd, but deep down he is a good person.",
+      "My neighbor is a little odd, but deep down he is a nice person.",
+      "My neighbour is a little odd, but deep down he is a nice person.",
+      "My neighbor is a little odd, but deep down he is a kind person.",
+      "My neighbour is a little odd, but deep down he is a kind person.",
+      "My neighbor is a little strange, but deep down he's a good person.",
+      "My neighbour is a little strange, but deep down he's a good person.",
+      "My neighbor is a little strange, but deep down he's a nice person.",
+      "My neighbour is a little strange, but deep down he's a nice person.",
+      "My neighbor is a little strange, but deep down he's a kind person.",
+      "My neighbour is a little strange, but deep down he's a kind person.",
+      "My neighbor is a little strange, but deep down he is a good person.",
+      "My neighbour is a little strange, but deep down he is a good person.",
+      "My neighbor is a little strange, but deep down he is a nice person.",
+      "My neighbour is a little strange, but deep down he is a nice person.",
+      "My neighbor is a little strange, but deep down he is a kind person.",
+      "My neighbour is a little strange, but deep down he is a kind person.",
+      "My neighbor is a little weird, but deep down he's a good person.",
+      "My neighbour is a little weird, but deep down he's a good person.",
+      "My neighbor is a little weird, but deep down he's a nice person.",
+      "My neighbour is a little weird, but deep down he's a nice person.",
+      "My neighbor is a little weird, but deep down he's a kind person.",
+      "My neighbour is a little weird, but deep down he's a kind person.",
+      "My neighbor is a little weird, but deep down he is a good person.",
+      "My neighbour is a little weird, but deep down he is a good person.",
+      "My neighbor is a little weird, but deep down he is a nice person.",
+      "My neighbour is a little weird, but deep down he is a nice person.",
+      "My neighbor is a little weird, but deep down he is a kind person.",
+      "My neighbour is a little weird, but deep down he is a kind person.",
+      "My neighbor is a little bit odd, but deep down he's a good person.",
+      "My neighbour is a little bit odd, but deep down he's a good person.",
+      "My neighbor is a little bit odd, but deep down he's a nice person.",
+      "My neighbour is a little bit odd, but deep down he's a nice person.",
+      "My neighbor is a little bit odd, but deep down he's a kind person.",
+      "My neighbour is a little bit odd, but deep down he's a kind person.",
+      "My neighbor is a little bit odd, but deep down he is a good person.",
+      "My neighbour is a little bit odd, but deep down he is a good person.",
+      "My neighbor is a little bit odd, but deep down he is a nice person.",
+      "My neighbour is a little bit odd, but deep down he is a nice person.",
+      "My neighbor is a little bit odd, but deep down he is a kind person.",
+      "My neighbour is a little bit odd, but deep down he is a kind person.",
+      "My neighbor is a little bit strange, but deep down he's a good person.",
+      "My neighbour is a little bit strange, but deep down he's a good person.",
+      "My neighbor is a little bit strange, but deep down he's a nice person.",
+      "My neighbour is a little bit strange, but deep down he's a nice person.",
+      "My neighbor is a little bit strange, but deep down he's a kind person.",
+      "My neighbour is a little bit strange, but deep down he's a kind person.",
+      "My neighbor is a little bit strange, but deep down he is a good person.",
+      "My neighbour is a little bit strange, but deep down he is a good person.",
+      "My neighbor is a little bit strange, but deep down he is a nice person.",
+      "My neighbour is a little bit strange, but deep down he is a nice person.",
+      "My neighbor is a little bit strange, but deep down he is a kind person.",
+      "My neighbour is a little bit strange, but deep down he is a kind person.",
+      "My neighbor is a little bit weird, but deep down he's a good person.",
+      "My neighbour is a little bit weird, but deep down he's a good person.",
+      "My neighbor is a little bit weird, but deep down he's a nice person.",
+      "My neighbour is a little bit weird, but deep down he's a nice person.",
+      "My neighbor is a little bit weird, but deep down he's a kind person.",
+      "My neighbour is a little bit weird, but deep down he's a kind person.",
+      "My neighbor is a little bit weird, but deep down he is a good person.",
+      "My neighbour is a little bit weird, but deep down he is a good person.",
+      "My neighbor is a little bit weird, but deep down he is a nice person.",
+      "My neighbour is a little bit weird, but deep down he is a nice person.",
+      "My neighbor is a little bit weird, but deep down he is a kind person.",
+      "My neighbour is a little bit weird, but deep down he is a kind person.",
+      "My neighbor is kind of odd, but deep down he's a good person.",
+      "My neighbour is kind of odd, but deep down he's a good person.",
+      "My neighbor is kind of odd, but deep down he's a nice person.",
+      "My neighbour is kind of odd, but deep down he's a nice person.",
+      "My neighbor is kind of odd, but deep down he's a kind person.",
+      "My neighbour is kind of odd, but deep down he's a kind person.",
+      "My neighbor is kind of odd, but deep down he is a good person.",
+      "My neighbour is kind of odd, but deep down he is a good person.",
+      "My neighbor is kind of odd, but deep down he is a nice person.",
+      "My neighbour is kind of odd, but deep down he is a nice person.",
+      "My neighbor is kind of odd, but deep down he is a kind person.",
+      "My neighbour is kind of odd, but deep down he is a kind person.",
+      "My neighbor is kind of strange, but deep down he's a good person.",
+      "My neighbour is kind of strange, but deep down he's a good person.",
+      "My neighbor is kind of strange, but deep down he's a nice person.",
+      "My neighbour is kind of strange, but deep down he's a nice person.",
+      "My neighbor is kind of strange, but deep down he's a kind person.",
+      "My neighbour is kind of strange, but deep down he's a kind person.",
+      "My neighbor is kind of strange, but deep down he is a good person.",
+      "My neighbour is kind of strange, but deep down he is a good person.",
+      "My neighbor is kind of strange, but deep down he is a nice person.",
+      "My neighbour is kind of strange, but deep down he is a nice person.",
+      "My neighbor is kind of strange, but deep down he is a kind person.",
+      "My neighbour is kind of strange, but deep down he is a kind person.",
+      "My neighbor is kind of weird, but deep down he's a good person.",
+      "My neighbour is kind of weird, but deep down he's a good person.",
+      "My neighbor is kind of weird, but deep down he's a nice person.",
+      "My neighbour is kind of weird, but deep down he's a nice person.",
+      "My neighbor is kind of weird, but deep down he's a kind person.",
+      "My neighbour is kind of weird, but deep down he's a kind person.",
+      "My neighbor is kind of weird, but deep down he is a good person.",
+      "My neighbour is kind of weird, but deep down he is a good person.",
+      "My neighbor is kind of weird, but deep down he is a nice person.",
+      "My neighbour is kind of weird, but deep down he is a nice person.",
+      "My neighbor is kind of weird, but deep down he is a kind person.",
+      "My neighbour is kind of weird, but deep down he is a kind person.",
+      "My neighbor is sort of odd, but deep down he's a good person.",
+      "My neighbour is sort of odd, but deep down he's a good person.",
+      "My neighbor is sort of odd, but deep down he's a nice person.",
+      "My neighbour is sort of odd, but deep down he's a nice person.",
+      "My neighbor is sort of odd, but deep down he's a kind person.",
+      "My neighbour is sort of odd, but deep down he's a kind person.",
+      "My neighbor is sort of odd, but deep down he is a good person.",
+      "My neighbour is sort of odd, but deep down he is a good person.",
+      "My neighbor is sort of odd, but deep down he is a nice person.",
+      "My neighbour is sort of odd, but deep down he is a nice person.",
+      "My neighbor is sort of odd, but deep down he is a kind person.",
+      "My neighbour is sort of odd, but deep down he is a kind person.",
+      "My neighbor is sort of strange, but deep down he's a good person.",
+      "My neighbour is sort of strange, but deep down he's a good person.",
+      "My neighbor is sort of strange, but deep down he's a nice person.",
+      "My neighbour is sort of strange, but deep down he's a nice person.",
+      "My neighbor is sort of strange, but deep down he's a kind person.",
+      "My neighbour is sort of strange, but deep down he's a kind person.",
+      "My neighbor is sort of strange, but deep down he is a good person.",
+      "My neighbour is sort of strange, but deep down he is a good person.",
+      "My neighbor is sort of strange, but deep down he is a nice person.",
+      "My neighbour is sort of strange, but deep down he is a nice person.",
+      "My neighbor is sort of strange, but deep down he is a kind person.",
+      "My neighbour is sort of strange, but deep down he is a kind person.",
+      "My neighbor is sort of weird, but deep down he's a good person.",
+      "My neighbour is sort of weird, but deep down he's a good person.",
+      "My neighbor is sort of weird, but deep down he's a nice person.",
+      "My neighbour is sort of weird, but deep down he's a nice person.",
+      "My neighbor is sort of weird, but deep down he's a kind person.",
+      "My neighbour is sort of weird, but deep down he's a kind person.",
+      "My neighbor is sort of weird, but deep down he is a good person.",
+      "My neighbour is sort of weird, but deep down he is a good person.",
+      "My neighbor is sort of weird, but deep down he is a nice person.",
+      "My neighbour is sort of weird, but deep down he is a nice person.",
+      "My neighbor is sort of weird, but deep down he is a kind person.",
+      "My neighbour is sort of weird, but deep down he is a kind person."
+     ],
+     "explain": "Softener + but deep down."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "lives",
+      "oldest",
+      "visiting",
+      "who",
+      "My",
+      "in",
+      "is",
+      "me",
+      "friend",
+      "Quito"
+     ],
+     "answers": [
+      "My oldest friend, who lives in Quito, is visiting me."
+     ],
+     "explain": "Non-defining relative clause between commas."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "I",
+      "She's",
+      "trust",
+      "advice",
+      "whose",
+      "person",
+      "most",
+      "the"
+     ],
+     "answers": [
+      "She's the person whose advice I trust most."
+     ],
+     "explain": "Whose + noun."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "wants",
+      "move",
+      "away",
+      "to",
+      "us",
+      "Neither",
+      "of"
+     ],
+     "answers": [
+      "Neither of us wants to move away."
+     ],
+     "explain": "Neither of us + verbo afirmativo."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "fell",
+      "They",
+      "out",
+      "apart",
+      "over",
+      "and",
+      "drifted",
+      "money"
+     ],
+     "answers": [
+      "They fell out over money and drifted apart."
+     ],
+     "explain": "Fall out and drift apart."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Lucy",
+      "next",
+      "is",
+      "her",
+      "ex-boyfriend",
+      "The",
+      "man",
+      "to",
+      "standing"
+     ],
+     "answers": [
+      "The man standing next to Lucy is her ex-boyfriend."
+     ],
+     "explain": "Reduced relative clause with -ing."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "though",
+      "bit",
+      "a",
+      "he's",
+      "shy",
+      "guess",
+      "I"
+     ],
+     "answers": [
+      "I guess he's a bit shy, though."
+     ],
+     "explain": "Softener + though."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "La amiga con quien viajé a Perú es doctora.",
+     "answers": [
+      "The friend with whom I traveled to Peru is a doctor.",
+      "The friend with whom I travelled to Peru is a doctor.",
+      "The friend with whom I traveled to Peru is a physician.",
+      "The friend with whom I travelled to Peru is a physician.",
+      "The friend I traveled to Peru with is a doctor.",
+      "The friend I travelled to Peru with is a doctor.",
+      "The friend I traveled to Peru with is a physician.",
+      "The friend I travelled to Peru with is a physician.",
+      "The friend who I traveled to Peru with is a doctor.",
+      "The friend who I travelled to Peru with is a doctor.",
+      "The friend who I traveled to Peru with is a physician.",
+      "The friend who I travelled to Peru with is a physician.",
+      "The friend that I traveled to Peru with is a doctor.",
+      "The friend that I travelled to Peru with is a doctor.",
+      "The friend that I traveled to Peru with is a physician.",
+      "The friend that I travelled to Peru with is a physician."
+     ],
+     "explain": "Preposition + whom (formal) or at the end."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "Mi hermano, que vive en Madrid, es muy leal.",
+     "answers": [
+      "My brother, who lives in Madrid, is very loyal.",
+      "My brother, who lives in Madrid, is really loyal."
+     ],
+     "explain": "Non-defining: who between commas."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Rompieron hace un mes, pero todavía se llevan bien.",
+     "answers": [
+      "They broke up a month ago, but they still get along.",
+      "They broke up a month ago, but they still get along well.",
+      "They broke up one month ago, but they still get along.",
+      "They broke up one month ago, but they still get along well."
+     ],
+     "explain": "Break up y get along."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "A ninguno de los dos nos gusta cocinar.",
+     "answers": [
+      "Neither of us likes cooking.",
+      "Neither of us likes to cook.",
+      "Neither of us enjoys cooking.",
+      "Neither of us enjoys to cook."
+     ],
+     "explain": "Neither of us + affirmative."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Los dos somos fans del mismo equipo.",
+     "answers": [
+      "We're both fans of the same team.",
+      "We are both fans of the same team.",
+      "Both of us are fans of the same team."
+     ],
+     "explain": "Be + both / both of us."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Admiro mucho a mi abuela.",
+     "answers": [
+      "I really look up to my grandmother.",
+      "I really look up to my grandmother a lot.",
+      "I really look up to my grandma.",
+      "I really look up to my grandma a lot.",
+      "I look up to my grandmother.",
+      "I look up to my grandmother a lot.",
+      "I look up to my grandma.",
+      "I look up to my grandma a lot."
+     ],
+     "explain": "Look up to is inseparable."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Unit review mix",
+   "instructions": "Exercises on different topics from the unit (includes B1 review).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "My cousin, ___ I grew up with, now lives in Chile.",
+     "options": [
+      "that",
+      "which",
+      "whom"
+     ],
+     "answer": 2,
+     "explain": "With commas and a preposition: whom."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "The woman ___ (stand) at the door is my landlady.",
+     "answers": [
+      "standing"
+     ],
+     "explain": "Reduced relative clause with -ing."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "Neither of us don't like loud music.",
+     "answers": [
+      "Neither of us likes loud music."
+     ],
+     "explain": "Neither is already negative."
+    },
+    {
+     "id": "M4",
+     "type": "gap",
+     "prompt": "He let me ___ when he forgot my birthday.",
+     "answers": [
+      "down"
+     ],
+     "explain": "Let someone down."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "He's ___ of arrogant, but I like him.",
+     "options": [
+      "kind",
+      "type",
+      "way"
+     ],
+     "answer": 0,
+     "explain": "Kind of softens."
+    },
+    {
+     "id": "M6",
+     "type": "translate",
+     "prompt": "Conozco a una chica cuyo padre es director de cine.",
+     "answers": [
+      "I know a girl whose father is a film director.",
+      "I know a girl whose father is a movie director.",
+      "I know a girl whose dad is a film director.",
+      "I know a girl whose dad is a movie director.",
+      "I know a woman whose father is a film director.",
+      "I know a woman whose father is a movie director.",
+      "I know a woman whose dad is a film director.",
+      "I know a woman whose dad is a movie director."
+     ],
+     "explain": "Whose + noun."
+    },
+    {
+     "id": "M7",
+     "type": "fix",
+     "prompt": "I can't put up your attitude.",
+     "answers": [
+      "I can't put up with your attitude."
+     ],
+     "explain": "Put up with."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "She told me a secret, ___ surprised me.",
+     "answers": [
+      "which"
+     ],
+     "explain": "Which = the whole previous idea."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "How long ___ you known Marco? (B1 review)",
+     "answers": [
+      "have"
+     ],
+     "explain": "Present perfect: How long have you known…?"
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "If I ___ more time, I'd call my friends more often. (B1 review)",
+     "answers": [
+      "had"
+     ],
+     "explain": "Second conditional: if + simple past."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a text of 180 to 250 words about an important friendship in your life: how you met, what the person is like, how the relationship has changed and why it is special. Opening example: My oldest friend, who I met at secondary school, is …",
+   "targets": [
+    "non-defining relative clauses",
+    "whose / where / which",
+    "reduced clauses",
+    "relationship phrasal verbs",
+    "both / neither",
+    "softeners"
+   ],
+   "checklist": [
+    "At least 2 non-defining relative clauses with commas (who / which) and without that",
+    "A relative clause with whose or where",
+    "A reduced clause (the woman sitting…, a message sent by…)",
+    "3 phrasal verbs (for example get along with, drift apart, keep in touch)",
+    "Both of us / We both… and Neither of us + affirmative verb",
+    "2 softeners (a bit, kind of, I guess, though)",
+    "Without repeating the pronoun inside the relative clause",
+    "Between 180 and 250 words, in paragraphs"
+   ],
+   "model": "My oldest friend, who I met at secondary school, is called Daniela. We were sitting next to each other on the first day of class, both of us nervous and a bit lost, and we got along with each other straight away. She is the kind of person whose laugh fills the room, and she has always been the one who organizes everything, which drives me crazy sometimes, though I admire it.\n\nOver the years our friendship has changed. When we went to different universities, we nearly drifted apart, because she moved to Guadalajara, where I had never lived, and I stayed in Mexico City. Neither of us wanted to lose the friendship, so we decided to keep in touch by sending voice messages, which became a kind of ritual. A message sent on Sunday night always started my week well.\n\nNow we both have jobs and busy lives, and we see each other only a few times a year. Still, I guess nothing has really changed. Neither of us feels the need to explain anything, and the woman standing at the airport with a huge smile is the same girl I met at fourteen. That is why she is so special to me: she knows me better than anyone, and she still makes me laugh."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write an email of 180 to 250 words to a friend you lost touch with: greet them, tell them why you drifted apart (without blaming), update them on your life and suggest meeting up. Opening example: Hi Sofía, I know it's been a long time since we last talked, but …",
+   "targets": [
+    "get back in touch / lose touch",
+    "relative clauses",
+    "both / neither / each other",
+    "softening a delicate topic",
+    "friendly tone"
+   ],
+   "checklist": [
+    "Use lose touch, get back in touch or keep in touch",
+    "2 relative clauses (one non-defining, with commas)",
+    "A reduced clause",
+    "Both of us / each other / neither of us",
+    "Soften difficult things (I guess, a bit, in a way, though)",
+    "A concrete suggestion to meet (Would you like to…? We could…)",
+    "Friendly tone and an appropriate closing (Take care, Best wishes)",
+    "Between 180 and 250 words"
+   ],
+   "model": "Hi Sofía,\n\nI know it's been a long time since we last talked, but I have been thinking about you a lot lately, and I decided it was time to get back in touch.\n\nI guess we both let life get in the way. When you moved to Monterrey, where you started your new job, I was finishing my degree, and neither of us had much free time. We lost touch little by little, and in a way it was nobody's fault. I'm a bit sorry that I didn't call you more often, though I know you understand.\n\nLet me tell you what's new. I'm working at a small design company, which is quite close to my flat, and I have adopted a dog called Canela, a puppy rescued from the street last spring. My brother, who you always liked, is getting married next year. We have a lot to catch up on, and I would love to hear about your life, too.\n\nWould you like to meet up one weekend? We could have coffee in Coyoacán, the neighborhood where we used to hang out. If you're in town in December, we could even have dinner. Both of us love tacos, so it's an easy decision!\n\nI hope we can see each other soon and keep in touch from now on. Take care, and call me whenever you can.\n\nBest wishes,\nLaura"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "The Friends We Keep",
+   "intro": "Read the article about how to make friends in a new city and answer.",
+   "paragraphs": [
+    "When Marisol Vega moved from Puebla to Barcelona at the age of twenty-six, she knew exactly one person in the whole city: her cousin Iván, who had lived there for years. \"I thought I would never make friends,\" she says, laughing. \"I had left behind a group of people I'd grown up with, and I couldn't imagine replacing them.\"",
+    "Her first months were lonely. Marisol worked long hours at a design studio, a place where nobody seemed to have time for small talk. She often called her old friends, but the time difference and their busy schedules meant that conversations became shorter and less frequent. \"We didn't fall out or anything,\" she explains. \"We just started to drift apart, which was painful because I had always taken those friendships for granted.\"",
+    "Everything changed when she signed up for a pottery class recommended by a colleague. The people attending the class were mostly strangers, yet within weeks she was hanging out with two of them, Jun and Danielle, whose sense of humor matched hers. Both of them had moved to Barcelona alone, and neither of them spoke much Spanish at first, so all three were building a new life from scratch. \"We were all looking for the same thing,\" Marisol says. \"We just needed someone to say yes to a coffee.\"",
+    "Today, Marisol's circle includes people from six countries. She admits that not every relationship has worked out, although most of them have become an important part of her daily life. A flatmate she shared an apartment with for a year turned out to be rather possessive about the kitchen, and after a heated argument they stopped speaking. \"It was kind of a relief, in a way,\" she says, \"though I still feel a bit guilty.\"",
+    "Researchers studying adult friendship say Marisol's experience is common. People who move to a new city usually need roughly fifty hours of shared time before they consider someone a casual friend, and about two hundred hours before that person becomes a close one. Friendship, in other words, is not a matter of luck; it is a matter of time.",
+    "Marisol's advice for anyone starting over? \"Don't wait for friendships to happen. Join something, say yes to invitations, and be patient with yourself. And if you lose touch with an old friend, send a message. I got back in touch with my best friend from school last year, and it was as if no time had passed.\""
+   ],
+   "glossary": [
+    {
+     "en": "take for granted",
+     "def": "to assume something is true without checking"
+    },
+    {
+     "en": "drift apart",
+     "def": "to slowly become less close to someone"
+    },
+    {
+     "en": "from scratch",
+     "def": "starting from nothing"
+    },
+    {
+     "en": "heated",
+     "def": "angry or emotional about something"
+    },
+    {
+     "en": "flatmate",
+     "def": "a person you share a home with, who is not a family member"
+    },
+    {
+     "en": "guilty",
+     "def": "responsible for doing something wrong"
+    },
+    {
+     "en": "sense of humor",
+     "def": "the ability to find things funny"
+    },
+    {
+     "en": "pottery",
+     "def": "the art of making objects from clay"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Marisol knew nobody at all when she arrived in Barcelona.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Knew their cousin Iván."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Marisol and her old friends had a serious argument.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "«We didn't fall out»: se distanciaron sin pelear."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "How did Marisol meet Jun and Danielle?",
+     "options": [
+      "Through her cousin Iván",
+      "At a pottery class",
+      "At the design studio"
+     ],
+     "answer": 1,
+     "explain": "She signed up for a pottery class."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Neither Jun nor Danielle was born in Spain.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Both of them had moved to Barcelona alone."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "What happened with her former flatmate?",
+     "options": [
+      "They became close friends",
+      "They stopped speaking after an argument",
+      "They moved to another city together"
+     ],
+     "answer": 1,
+     "explain": "After a heated argument they stopped speaking."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "She had always taken those friendships for ___.",
+     "answers": [
+      "granted"
+     ],
+     "explain": "Take something for granted."
+    },
+    {
+     "id": "R7",
+     "type": "gap",
+     "prompt": "Marisol says: don't wait for friendships to ___.",
+     "answers": [
+      "happen"
+     ],
+     "explain": "«Don't wait for friendships to happen»."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Long time no see",
+   "intro": "Listen to the reunion of two old friends. You can repeat it.",
+   "lines": [
+    {
+     "who": "Carla",
+     "voice": "airy",
+     "text": "Beto? Is that you? I can't believe it!"
+    },
+    {
+     "who": "Beto",
+     "voice": "rounded",
+     "text": "Carla! Wow, it's been what, ten years? We completely lost touch after I moved away."
+    },
+    {
+     "who": "Carla",
+     "voice": "airy",
+     "text": "At least ten. I looked for you online last month, but I couldn't find you."
+    },
+    {
+     "who": "Beto",
+     "voice": "rounded",
+     "text": "I deleted my account ages ago. Anyway, how's everyone? How's Marcos, the guy who used to sit next to us in math?"
+    },
+    {
+     "who": "Carla",
+     "voice": "airy",
+     "text": "Marcos? He's married now, and both of his kids go to my daughter's school. Neither of them likes math, funnily enough."
+    },
+    {
+     "who": "Beto",
+     "voice": "rounded",
+     "text": "Ha! Some things never change. And what about Ximena, your old roommate?"
+    },
+    {
+     "who": "Carla",
+     "voice": "airy",
+     "text": "We fell out a couple of years after college, but we made up last spring. We get along better than ever now, which is kind of surprising."
+    },
+    {
+     "who": "Beto",
+     "voice": "rounded",
+     "text": "That's great. I always looked up to her. Listen, let's not lose touch again. Can I get your number?"
+    },
+    {
+     "who": "Carla",
+     "voice": "airy",
+     "text": "Of course. And come for dinner on Saturday. A few friends from college are coming, so it'll be a proper reunion."
+    },
+    {
+     "who": "Beto",
+     "voice": "rounded",
+     "text": "I'd love to, though I might be a little late. I'm flying back from Monterrey that afternoon."
+    },
+    {
+     "who": "Carla",
+     "voice": "airy",
+     "text": "No problem. Come whenever you can. Oh, and bring your guitar, which everybody still remembers!"
+    },
+    {
+     "who": "Beto",
+     "voice": "rounded",
+     "text": "Ha, I haven't played in years, but I guess I could try."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "How long have Carla and Beto been out of touch?",
+     "options": [
+      "About two years",
+      "About ten years",
+      "About twenty years"
+     ],
+     "answer": 1,
+     "explain": "«It's been what, ten years?»"
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Why couldn't Carla find Beto online?",
+     "options": [
+      "He deleted his account",
+      "He changed his name",
+      "He lives abroad"
+     ],
+     "answer": 0,
+     "explain": "«I deleted my account ages ago»."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "Marcos's children both love math.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Neither of them likes math."
+    },
+    {
+     "id": "L4",
+     "type": "gap",
+     "prompt": "Carla and Ximena made up last ___.",
+     "answers": [
+      "spring"
+     ],
+     "explain": "«We made up last spring»."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "When is the dinner?",
+     "options": [
+      "On Saturday",
+      "On Sunday",
+      "On Friday"
+     ],
+     "answer": 0,
+     "explain": "«Come for dinner on Saturday»."
+    },
+    {
+     "id": "L6",
+     "type": "gap",
+     "prompt": "Beto might be late because he's flying back from ___ that afternoon.",
+     "answers": [
+      "Monterrey"
+     ],
+     "explain": "«I'm flying back from Monterrey»."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "We completely lost touch after I moved away.",
+     "answers": [
+      "We completely lost touch after I moved away."
+     ],
+     "explain": "Lose touch + move away."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Neither of them likes math, funnily enough.",
+     "answers": [
+      "Neither of them likes math, funnily enough."
+     ],
+     "explain": "Neither of them + verbo afirmativo en singular."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "We fell out, but we made up last spring.",
+     "answers": [
+      "We fell out, but we made up last spring."
+     ],
+     "explain": "Fall out / make up."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "I always looked up to her.",
+     "answers": [
+      "I always looked up to her."
+     ],
+     "explain": "Look up to es inseparable."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about a friend you have had since childhood.",
+     "questions": [
+      "Who is your oldest friend?",
+      "Where did you meet?",
+      "What is he or she like?",
+      "What do you both enjoy doing?"
+     ],
+     "model": "My oldest friend is Ricardo, who I met at primary school. We grew up in the same neighborhood, which is why we're so close. He's loyal and easygoing, though he's a bit messy, I guess. We both love soccer, and neither of us can cook!",
+     "checklist": [
+      "Non-defining relative clause (who, which) with a pause",
+      "Character adjectives",
+      "Both / neither of us",
+      "A softener (a bit, I guess, though)"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Tell how a friendship or relationship changed over time.",
+     "questions": [
+      "Have you ever lost touch with a friend?",
+      "What happened?",
+      "Did you get back in touch?",
+      "How do you keep in touch with friends who live far away?"
+     ],
+     "model": "I lost touch with a friend from college, who moved to Canada. We didn't fall out; we just drifted apart. Last year I got back in touch with her on social media, and now we talk every month. Keeping in touch with people living abroad takes effort, but it's worth it.",
+     "checklist": [
+      "Relationship phrasal verbs (lose touch, drift apart, get back in touch)",
+      "Correct past tenses",
+      "A relative or reduced clause (people living abroad)",
+      "Linking words (but, so, now)"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Describe a neighbor or coworker without sounding rude, using softeners.",
+     "questions": [
+      "What's your neighbor or colleague like?",
+      "Do you get along with him or her?",
+      "What do you like and dislike about this person?"
+     ],
+     "model": "My colleague Andrea, who sits next to me, is a bit reserved, but she's kind of funny once you know her. I get along with her pretty well, though she's probably a little too perfectionist, in a way. People working with her say she's very reliable.",
+     "checklist": [
+      "At least 2 softeners (a bit, kind of, probably, in a way, though)",
+      "Get along with + person",
+      "A non-defining relative clause",
+      "Friendly intonation"
+     ]
+    }
+   ],
+   "repeat": [
+    "My oldest friend, who lives in Quito, is visiting.",
+    "Neither of us likes getting up early.",
+    "We fell out, but we made up last spring.",
+    "She's a bit odd, I guess, but she's very kind.",
+    "The woman sitting next to me is my cousin.",
+    "I can't put up with his attitude."
+   ]
+  }
+ }
+}

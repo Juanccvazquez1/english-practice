@@ -1,0 +1,1740 @@
+{
+ "id": "u-b2-09",
+ "level": "B2",
+ "n": 9,
+ "title": "Do as the locals do",
+ "goals": [
+  "Describe how traditional things are made, sold and celebrated, using the passive voice (is made of, are held, was built).",
+  "Talk about manners and customs: what is polite, rude or acceptable in different countries.",
+  "Use verb + -ing as a subject and after prepositions (Eating in public is rude; by learning the customs).",
+  "Give behavior advice with It's + adjective + (not) to + verb, understanding how the meaning changes depending on where not goes.",
+  "Give your opinion frankly and firmly (To be honest, …; I'd absolutely miss…) and avoid an abrupt of course.",
+  "Write about traditions and give advice to a foreign visitor."
+ ],
+ "learn": [
+  {
+   "id": "v-traditions",
+   "kind": "vocab",
+   "title": "Traditions and how things are made",
+   "words": [
+    {
+     "id": "w-traditional",
+     "en": "traditional",
+     "es": "tradicional",
+     "example": "Mole is a traditional dish for weddings in Puebla.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-festival",
+     "en": "festival",
+     "es": "festival, fiesta popular",
+     "example": "The festival is held every October.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-folk-music",
+     "en": "folk music",
+     "es": "música folclórica",
+     "example": "Folk music is played in the main square on Sundays.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-handicrafts",
+     "en": "handicrafts",
+     "es": "artesanías",
+     "example": "Handicrafts are sold at the market near the church."
+    },
+    {
+     "id": "w-anthem",
+     "en": "national anthem",
+     "es": "himno nacional",
+     "example": "The national anthem is sung before every match.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-costume",
+     "en": "national costume",
+     "es": "traje típico",
+     "example": "The national costume is worn on Independence Day.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-typical-dish",
+     "en": "typical dish",
+     "es": "platillo típico",
+     "example": "A typical dish of the region is cochinita pibil.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-be-held",
+     "en": "be held",
+     "es": "celebrarse, llevarse a cabo (un evento)",
+     "example": "The fair is held in the old town every spring."
+    },
+    {
+     "id": "w-be-exported",
+     "en": "be exported",
+     "es": "exportarse",
+     "example": "Vanilla is exported to many countries.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-made-of",
+     "en": "be made of / out of + material",
+     "es": "estar hecho de (material visible)",
+     "example": "These bowls are made of clay.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-made-with",
+     "en": "be made with + ingredientes",
+     "es": "prepararse con",
+     "example": "Tamales are made with corn dough and filling.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-made-into",
+     "en": "be made into",
+     "es": "convertirse en, transformarse en",
+     "example": "Silver is made into jewelry in Taxco.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-carved-out-of",
+     "en": "be carved out of",
+     "es": "estar tallado en",
+     "example": "The sculptures are carved out of ice.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-painted-by-hand",
+     "en": "be painted by hand",
+     "es": "pintarse a mano",
+     "example": "Each mask is painted by hand.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-sold-worldwide",
+     "en": "be sold all over the world",
+     "es": "venderse en todo el mundo",
+     "example": "Mexican tequila is sold all over the world.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-locally",
+     "en": "locally",
+     "es": "localmente, en la zona",
+     "example": "The bread is baked locally every morning."
+    }
+   ]
+  },
+  {
+   "id": "g-passive",
+   "kind": "grammar",
+   "title": "Passive voice in the simple present",
+   "html": "<p>We use the passive when we <strong>don't know</strong> who does the action, or when <strong>it doesn't matter</strong>. In Spanish we often use a 'se' construction for this. In English it is simply <em>They are made by hand.</em> In English we almost always need the subject and <strong>be + past participle</strong>.</p><p>Active: <em>They carve the sculptures out of ice.</em> → Passive: <em>The sculptures are carved out of ice.</em> If the agent does matter, add <strong>by</strong>: <em>The sculptures are carved by teams from all over the world.</em></p><table><thead><tr><th>Type</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Affirmative</td><td>subject + is / are + participle</td><td>Kim-bap is made with rice and vegetables.</td></tr><tr><td>Negative</td><td>subject + is / are + not + participle</td><td>It's not eaten hot.</td></tr><tr><td>Question with a question word</td><td>Wh- + is / are + subject + participle</td><td>How is kim-bap made?</td></tr><tr><td>Yes/no question</td><td>Is / Are + subject + participle</td><td>Is it eaten hot or cold?</td></tr></tbody></table><ul><li>Singular subject → <em>is</em>; plural → <em>are</em>: <em>The festival is held…, Crafts are sold…</em></li><li>Only verbs with a direct object have a passive form; <em>happen</em>, <em>arrive</em> or <em>take place</em> do not form it.</li></ul>",
+   "watch": [
+    {
+     "wrong": "Tortillas are make by hand.",
+     "right": "Tortillas are made by hand.",
+     "why": "Be + past participle, not the base form."
+    },
+    {
+     "wrong": "The festival holds in November.",
+     "right": "The festival is held in November.",
+     "why": "The festival doesn't 'celebrate': it is celebrated. It needs is + held."
+    },
+    {
+     "wrong": "Is made this cheese in Oaxaca?",
+     "right": "Is this cheese made in Oaxaca?",
+     "why": "In the question, is goes before the subject and the participle goes after it."
+    },
+    {
+     "wrong": "Tequila is producing in Jalisco.",
+     "right": "Tequila is produced in Jalisco.",
+     "why": "-ing is the present continuous; the passive uses the past participle."
+    }
+   ]
+  },
+  {
+   "id": "g-passive-more",
+   "kind": "grammar",
+   "title": "Passive in the past and with modals",
+   "html": "<p>The same idea extends to other tenses: we change <em>be</em> and keep the past participle. This is the bridge to a more formal, written English (guides, news, instructions).</p><table><thead><tr><th>Form</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Simple past</td><td>was / were + past participle</td><td>The cathedral was built in 1750. The masks were painted by local artists.</td></tr><tr><td>Future</td><td>will be + past participle</td><td>The results will be announced on Friday.</td></tr><tr><td>With modals</td><td>can / must / should + be + past participle</td><td>Shoes must be taken off at the door. This soup can be served cold.</td></tr></tbody></table><ul><li>With modals, <em>be</em> takes the base form: <em>must be taken</em>, NOT <em>must taken</em>.</li><li><em>by + agent</em> only if it matters: <em>The mural was painted by Diego Rivera.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "The church was build in 1700.",
+     "right": "The church was built in 1700.",
+     "why": "Past participle of build = built."
+    },
+    {
+     "wrong": "Shoes must taken off here.",
+     "right": "Shoes must be taken off here.",
+     "why": "With modals: modal + be + past participle."
+    },
+    {
+     "wrong": "The festival was happened in May.",
+     "right": "The festival took place in May. / The festival was held in May.",
+     "why": "Happen has no passive; use took place or was held."
+    },
+    {
+     "wrong": "The mural was painted from Rivera.",
+     "right": "The mural was painted by Rivera.",
+     "why": "The agent is introduced with by."
+    }
+   ]
+  },
+  {
+   "id": "v-manners",
+   "kind": "vocab",
+   "title": "Manners and behavior",
+   "words": [
+    {
+     "id": "w-manners",
+     "en": "manners",
+     "es": "modales, educación",
+     "example": "Good manners open doors in any country.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-bargain",
+     "en": "bargain with street vendors",
+     "es": "regatear con vendedores ambulantes",
+     "example": "You can bargain with street vendors at the market.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-cut-in-line",
+     "en": "cut in line",
+     "es": "colarse en la fila",
+     "example": "Cutting in line is rude almost everywhere.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-argument",
+     "en": "have an argument",
+     "es": "discutir, tener una pelea verbal",
+     "example": "They had an argument about the bill.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-hold-hands",
+     "en": "hold hands in public",
+     "es": "tomarse de la mano en público",
+     "example": "In some countries, holding hands in public is not customary.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-voice-down",
+     "en": "keep your voice down",
+     "es": "bajar la voz",
+     "example": "Please keep your voice down on the train.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-point-at",
+     "en": "point at people",
+     "es": "señalar a la gente con el dedo",
+     "example": "It's rude to point at people.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-affection",
+     "en": "show affection in public",
+     "es": "mostrar afecto en público",
+     "example": "Some cultures don't show affection in public.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-too-close",
+     "en": "stand too close to people",
+     "es": "pararse demasiado cerca de la gente",
+     "example": "Standing too close to people makes them uncomfortable.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-stare",
+     "en": "stare at a person",
+     "es": "mirar fijamente a alguien",
+     "example": "Don't stare at a person on the metro.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-shoes-off",
+     "en": "take your shoes off",
+     "es": "quitarse los zapatos",
+     "example": "Take your shoes off before you enter the temple.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-tip-driver",
+     "en": "tip a cab driver",
+     "es": "darle propina a un taxista",
+     "example": "In my city, people usually tip a cab driver.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-barefoot",
+     "en": "walk around barefoot",
+     "es": "andar descalzo",
+     "example": "Walking around barefoot is fine at the beach.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-bow",
+     "en": "bow",
+     "es": "hacer una reverencia",
+     "example": "In Japan, people bow when they say hello.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-shake-hands",
+     "en": "shake hands",
+     "es": "darse la mano",
+     "example": "Shaking hands is the normal greeting in business.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-polite-rude",
+     "en": "polite / rude / impolite",
+     "es": "educado / grosero / descortés",
+     "example": "It's impolite to interrupt people.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-appropriate",
+     "en": "appropriate / inappropriate",
+     "es": "apropiado / inapropiado",
+     "example": "Jeans are inappropriate for a formal wedding.",
+     "cefr": "C1"
+    },
+    {
+     "id": "w-acceptable",
+     "en": "acceptable / customary",
+     "es": "aceptable / acostumbrado, habitual",
+     "example": "It's customary to bring a small gift.",
+     "cefr": "B2"
+    }
+   ]
+  },
+  {
+   "id": "g-gerund",
+   "kind": "grammar",
+   "title": "Verb + -ing as a subject and after prepositions",
+   "html": "<p>In Spanish we often use the infinitive as the subject, for example 'comer en público es de mala educación'. In English, the subject is a verb with <strong>-ing</strong> (gerund), and the main verb goes in the <strong>singular</strong>.</p><table><thead><tr><th>Use</th><th>Structure</th><th>Example</th></tr></thead><tbody><tr><td>Subject</td><td>verb-ing + is</td><td>Eating in public is bad manners.</td></tr><tr><td>Negative subject</td><td>not + verb-ing + is</td><td>Not shaking hands is impolite.</td></tr><tr><td>After a preposition</td><td>by / for / without / instead of + verb-ing</td><td>You can offend people by eating in public.</td></tr><tr><td>Preposition + negative</td><td>by / for + not + verb-ing</td><td>People might stare at you for not shaking hands.</td></tr></tbody></table><ul><li><strong>by</strong> + -ing = the means or manner: <em>You make friends by learning the customs.</em></li><li><strong>for</strong> + -ing = the reason: <em>He was criticized for arriving late.</em></li><li>After ANY preposition you use -ing, never the infinitive: <em>without leaving a tip, instead of waiting.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "Eat in public are rude.",
+     "right": "Eating in public is rude.",
+     "why": "Subject: verb with -ing, and the main verb in the singular."
+    },
+    {
+     "wrong": "You can offend people for eat with your hands.",
+     "right": "You can offend people by eating with your hands.",
+     "why": "Means or manner: by + -ing."
+    },
+    {
+     "wrong": "Not shake hands is impolite.",
+     "right": "Not shaking hands is impolite.",
+     "why": "Not + verb with -ing as the subject."
+    },
+    {
+     "wrong": "They stared at me for no shaking hands.",
+     "right": "They stared at me for not shaking hands.",
+     "why": "Negating a gerund: not + -ing, not no."
+    }
+   ]
+  },
+  {
+   "id": "g-its-to",
+   "kind": "grammar",
+   "title": "It's + adjective + to + verb, and the position of not",
+   "html": "<p>To talk about behavior, we use <strong>It's + adjective / noun + to + verb</strong>: <em>It's bad manners to eat in public.</em> The subject <em>It</em> is required (in Spanish the subject is often left out). To negate the action: <strong>not + to + verb</strong>: <em>It's impolite not to shake hands.</em></p><p><strong>Not goes right before what it negates.</strong> Changing its position changes the meaning:</p><table><thead><tr><th>Sentence</th><th>Meaning</th></tr></thead><tbody><tr><td>It's acceptable <strong>not to</strong> tip cab drivers.</td><td>It's optional: you don't have to leave a tip.</td></tr><tr><td>It's <strong>not</strong> acceptable to tip cab drivers.</td><td>You shouldn't do it: it's frowned upon.</td></tr><tr><td>Be careful <strong>not to</strong> point at people.</td><td>Avoid pointing at people.</td></tr><tr><td>You can offend people by <strong>not</strong> bowing.</td><td>You offend people if you don't bow.</td></tr></tbody></table><p>Useful adjectives: <em>rude, impolite, polite, acceptable, inappropriate, customary, normal, bad manners.</em></p>",
+   "watch": [
+    {
+     "wrong": "It's impolite eat with your mouth full.",
+     "right": "It's impolite to eat with your mouth full.",
+     "why": "After It's + adjective comes to + verb."
+    },
+    {
+     "wrong": "Is rude to point at people.",
+     "right": "It's rude to point at people.",
+     "why": "The subject It is required in English."
+    },
+    {
+     "wrong": "It's polite no to interrupt.",
+     "right": "It's polite not to interrupt.",
+     "why": "The negation is not, not no."
+    },
+    {
+     "wrong": "It's bad manners for eat with your hands.",
+     "right": "It's bad manners to eat with your hands.",
+     "why": "After an adjective or noun that expresses an opinion, use to + verb, not for + -ing."
+    }
+   ]
+  },
+  {
+   "id": "v-abroad",
+   "kind": "vocab",
+   "title": "Restaurants and living abroad",
+   "words": [
+    {
+     "id": "w-leftovers",
+     "en": "ask for a box for leftovers",
+     "es": "pedir que te empaquen lo que sobró",
+     "example": "In some countries, you can ask for a box for leftovers.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-leave-tip",
+     "en": "give / leave a tip",
+     "es": "dar / dejar propina",
+     "example": "It's customary to leave a tip of ten percent.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-friend-along",
+     "en": "take a friend with you",
+     "es": "llevar a un amigo contigo",
+     "example": "Don't take a friend with you without asking the host.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-phone-dinner",
+     "en": "take a phone call during dinner",
+     "es": "contestar una llamada durante la cena",
+     "example": "Taking a phone call during dinner is inappropriate.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-mouth-full",
+     "en": "talk with your mouth full",
+     "es": "hablar con la boca llena",
+     "example": "Talking with your mouth full is bad manners.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-show-up",
+     "en": "show up (late / at all)",
+     "es": "presentarse, aparecer",
+     "example": "He didn't show up at all.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-homesick",
+     "en": "feel homesick",
+     "es": "extrañar tu casa / país",
+     "example": "I felt homesick during my first winter abroad.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-go-back",
+     "en": "go back home",
+     "es": "regresar a casa",
+     "example": "I want to go back home for the holidays.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-remind",
+     "en": "remind you of home",
+     "es": "recordarte tu casa",
+     "example": "This soup reminds me of home.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-abroad",
+     "en": "abroad",
+     "es": "en el extranjero",
+     "example": "She studied abroad for two years.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-offend",
+     "en": "offend",
+     "es": "ofender",
+     "example": "You can offend people without meaning to.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-proverb",
+     "en": "proverb",
+     "es": "proverbio, refrán",
+     "example": "One of my favorite proverbs is about patience."
+    },
+    {
+     "id": "w-custom",
+     "en": "custom",
+     "es": "costumbre",
+     "example": "Every country has its own customs.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-host",
+     "en": "host",
+     "es": "anfitrión/a",
+     "example": "Wait for the host to start eating.",
+     "cefr": "B1"
+    }
+   ]
+  },
+  {
+   "id": "s-direct",
+   "kind": "strategy",
+   "title": "Strategy: sounding more direct",
+   "html": "<p>To give your opinion firmly, or to be more frank, add an adverb or phrase at the beginning of the sentence:</p><ul><li><strong>absolutely, certainly, definitely, really, actually, honestly</strong> — go before the main verb: <em>I'd absolutely miss the food.</em></li><li><strong>in fact, to be honest, to tell you the truth</strong> — open the sentence: <em>To be honest, I don't miss too much.</em></li></ul><p><strong>Be careful with “of course”:</strong> it means “it's what you'd expect” and is used to show agreement (<em>A: I really miss my family. B: Of course.</em>). But as a reply to a question it can sound abrupt or rude: <em>A: Do you miss your family? B: Oh, yes, I really do.</em> (NOT <em>Of course.</em>)</p>"
+  },
+  {
+   "id": "e-useful",
+   "kind": "expressions",
+   "title": "Useful expressions",
+   "html": "<ul><li><strong>One of my favorite proverbs is …</strong> — introduce a proverb.</li><li><strong>It's often said when …</strong> — explain when it is used.</li><li><strong>It means that …</strong> — give its meaning.</li><li><strong>A similar proverb in English is …</strong> — compare it with another language.</li><li><strong>I like it because …</strong> — give your reason.</li><li><strong>It's customary to … / It's bad manners to …</strong> — talk about customs.</li><li><strong>To be honest, … / To tell you the truth, … / In fact, …</strong> — give your opinion frankly.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Passive in the present",
+   "instructions": "Complete with the correct passive form (is / are + past participle).",
+   "topic": "g-passive",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "Tequila ___ (make) from blue agave.",
+     "answers": [
+      "is made"
+     ],
+     "explain": "Singular: is + past participle."
+    },
+    {
+     "id": "A2",
+     "type": "gap",
+     "prompt": "Handmade crafts ___ (sell) at the market every Sunday.",
+     "answers": [
+      "are sold"
+     ],
+     "explain": "Plural: are + past participle of sell = sold."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "Rice ___ (not / grow) in this region.",
+     "answers": [
+      "is not grown",
+      "isn't grown"
+     ],
+     "explain": "Negative: is not + past participle."
+    },
+    {
+     "id": "A4",
+     "type": "gap",
+     "prompt": "How is this bread ___ (make)?",
+     "answers": [
+      "made"
+     ],
+     "explain": "Passive question: Wh- + is + subject + past participle."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "___ these masks painted by hand?",
+     "answers": [
+      "Are"
+     ],
+     "explain": "Plural subject: Are + subject + past participle."
+    },
+    {
+     "id": "A6",
+     "type": "gap",
+     "prompt": "Many Oaxacan rugs ___ (export) to the United States.",
+     "answers": [
+      "are exported"
+     ],
+     "explain": "Plural: are + past participle."
+    },
+    {
+     "id": "A7",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "is",
+      "carved",
+      "out",
+      "of",
+      "ice",
+      "The",
+      "statue"
+     ],
+     "answers": [
+      "The statue is carved out of ice."
+     ],
+     "explain": "Subject + is + past participle + out of + material."
+    },
+    {
+     "id": "A8",
+     "type": "gap",
+     "prompt": "The national anthem ___ (sing) before every match.",
+     "answers": [
+      "is sung"
+     ],
+     "explain": "Irregular past participle: sing - sang - sung."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Passive in the past and with modals",
+   "instructions": "Complete or correct using the passive.",
+   "topic": "g-passive-more",
+   "items": [
+    {
+     "id": "B1",
+     "type": "gap",
+     "prompt": "The cathedral ___ (build) in 1750.",
+     "answers": [
+      "was built"
+     ],
+     "explain": "Past: was + past participle (built)."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "These masks ___ (paint) by local artists last year.",
+     "answers": [
+      "were painted"
+     ],
+     "explain": "Plural in the past: were + past participle."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "Shoes ___ at the door.",
+     "options": [
+      "must take off",
+      "must be taken off",
+      "must be took off"
+     ],
+     "answer": 1,
+     "explain": "Modal + be + past participle: must be taken off."
+    },
+    {
+     "id": "B4",
+     "type": "fix",
+     "prompt": "The festival was happened in May.",
+     "answers": [
+      "The festival happened in May.",
+      "The festival took place in May.",
+      "The festival was held in May."
+     ],
+     "explain": "Happen has no passive; use happened, took place or was held."
+    },
+    {
+     "id": "B5",
+     "type": "fix",
+     "prompt": "The mural was painted from Diego Rivera.",
+     "answers": [
+      "The mural was painted by Diego Rivera."
+     ],
+     "explain": "The agent is introduced with by."
+    },
+    {
+     "id": "B6",
+     "type": "gap",
+     "prompt": "This soup can ___ (serve) hot or cold.",
+     "answers": [
+      "be served"
+     ],
+     "explain": "Modal + be + past participle."
+    },
+    {
+     "id": "B7",
+     "type": "translate",
+     "prompt": "El pan fue horneado a mano.",
+     "answers": [
+      "The bread was baked by hand.",
+      "The bread was handmade."
+     ],
+     "explain": "Past passive: was + past participle."
+    },
+    {
+     "id": "B8",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "wedding",
+      "held",
+      "The",
+      "river",
+      "was",
+      "by",
+      "the"
+     ],
+     "answers": [
+      "The wedding was held by the river."
+     ],
+     "explain": "Subject + was + past participle + place phrase."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Verb + -ing",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-gerund",
+   "items": [
+    {
+     "id": "C1",
+     "type": "gap",
+     "prompt": "___ (eat) with your mouth full is rude.",
+     "answers": [
+      "Eating"
+     ],
+     "explain": "Subject: verb with -ing."
+    },
+    {
+     "id": "C2",
+     "type": "gap",
+     "prompt": "You can offend people by ___ (point) at them.",
+     "answers": [
+      "pointing"
+     ],
+     "explain": "After by comes -ing."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "People may stare at you for ___ (not / say) hello.",
+     "answers": [
+      "not saying"
+     ],
+     "explain": "Preposition + not + -ing."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "___ in line is bad manners.",
+     "options": [
+      "Cut",
+      "To cutting",
+      "Cutting"
+     ],
+     "answer": 2,
+     "explain": "As a subject: verb with -ing."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "Arrive late are impolite.",
+     "answers": [
+      "Arriving late is impolite.",
+      "Being late is impolite."
+     ],
+     "explain": "Subject in -ing + verb in the singular."
+    },
+    {
+     "id": "C6",
+     "type": "fix",
+     "prompt": "You can make friends for learn the customs.",
+     "answers": [
+      "You can make friends by learning the customs."
+     ],
+     "explain": "Means: by + -ing."
+    },
+    {
+     "id": "C7",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Not",
+      "impolite",
+      "is",
+      "shaking",
+      "hands"
+     ],
+     "answers": [
+      "Not shaking hands is impolite."
+     ],
+     "explain": "Not + -ing as subject."
+    },
+    {
+     "id": "C8",
+     "type": "gap",
+     "prompt": "He left the restaurant without ___ (leave) a tip.",
+     "answers": [
+      "leaving"
+     ],
+     "explain": "After without comes -ing."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "It's + adjective + to + verb",
+   "instructions": "Complete, choose or correct.",
+   "topic": "g-its-to",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "It's rude ___ talk on the phone during dinner.",
+     "answers": [
+      "to"
+     ],
+     "explain": "It's + adjective + to + verb."
+    },
+    {
+     "id": "D2",
+     "type": "gap",
+     "prompt": "It's impolite ___ to say thank you.",
+     "answers": [
+      "not"
+     ],
+     "explain": "Not goes before to."
+    },
+    {
+     "id": "D3",
+     "type": "choice",
+     "prompt": "It's acceptable not to tip a cab driver. This means:",
+     "options": [
+      "No tienes que dar propina.",
+      "No debes dar propina.",
+      "Debes dar propina."
+     ],
+     "answer": 0,
+     "explain": "Acceptable + not to = it's optional."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "It's not acceptable to cut in line. This means:",
+     "options": [
+      "Es opcional.",
+      "No deberías hacerlo.",
+      "Es lo habitual."
+     ],
+     "answer": 1,
+     "explain": "Not acceptable = it's frowned upon."
+    },
+    {
+     "id": "D5",
+     "type": "fix",
+     "prompt": "It's bad manners eat with your hands.",
+     "answers": [
+      "It's bad manners to eat with your hands.",
+      "It is bad manners to eat with your hands."
+     ],
+     "explain": "The to is missing before the verb."
+    },
+    {
+     "id": "D6",
+     "type": "fix",
+     "prompt": "Is rude to point at people.",
+     "answers": [
+      "It's rude to point at people.",
+      "It is rude to point at people."
+     ],
+     "explain": "The subject It is required."
+    },
+    {
+     "id": "D7",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "It's",
+      "not",
+      "to",
+      "rude",
+      "say",
+      "thank",
+      "you"
+     ],
+     "answers": [
+      "It's rude not to say thank you."
+     ],
+     "explain": "It's + adjective + not to + verb."
+    },
+    {
+     "id": "D8",
+     "type": "translate",
+     "prompt": "Es de mala educación no saludar.",
+     "answers": [
+      "It's bad manners not to say hello.",
+      "It is bad manners not to say hello.",
+      "It's rude not to say hello.",
+      "It is rude not to say hello.",
+      "It's bad manners not to greet people.",
+      "It is bad manners not to greet people.",
+      "It's rude not to greet people.",
+      "It is rude not to greet people."
+     ],
+     "explain": "It's + bad manners / rude + not to + verb."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Manners and customs",
+   "instructions": "Choose or complete with the vocabulary of the unit.",
+   "topic": "v-manners",
+   "items": [
+    {
+     "id": "E1",
+     "type": "gap",
+     "prompt": "In Japan, it's customary to take your shoes ___ before entering a home.",
+     "answers": [
+      "off"
+     ],
+     "explain": "Take off = to remove."
+    },
+    {
+     "id": "E2",
+     "type": "gap",
+     "prompt": "Please keep your voice ___ in the library.",
+     "answers": [
+      "down"
+     ],
+     "explain": "Keep your voice down = speak more quietly."
+    },
+    {
+     "id": "E3",
+     "type": "choice",
+     "prompt": "It's ___ to talk with your mouth full; everybody thinks it's bad manners.",
+     "options": [
+      "polite",
+      "inappropriate",
+      "customary"
+     ],
+     "answer": 1,
+     "explain": "Inappropriate = not socially acceptable."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "At the market, you can ___ with street vendors to get a better price.",
+     "answers": [
+      "bargain"
+     ],
+     "explain": "Bargain with = to haggle with."
+    },
+    {
+     "id": "E5",
+     "type": "gap",
+     "prompt": "If you can't finish your meal, ask for a box for ___.",
+     "answers": [
+      "leftovers"
+     ],
+     "explain": "Leftovers = food that is left over."
+    },
+    {
+     "id": "E6",
+     "type": "choice",
+     "prompt": "Which word means the same as impolite?",
+     "options": [
+      "rude",
+      "customary",
+      "acceptable"
+     ],
+     "answer": 0,
+     "explain": "Impolite = rude."
+    },
+    {
+     "id": "E7",
+     "type": "gap",
+     "prompt": "In many countries, people ___ hands when they meet.",
+     "answers": [
+      "shake"
+     ],
+     "explain": "Shake hands = to greet each other with a handshake."
+    },
+    {
+     "id": "E8",
+     "type": "gap",
+     "prompt": "In Mexico, it's customary to ___ a tip of about ten to fifteen percent.",
+     "answers": [
+      "leave",
+      "give"
+     ],
+     "explain": "Give / leave a tip."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Sounding more direct",
+   "instructions": "Choose or complete to give your opinion firmly.",
+   "topic": "s-direct",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "Which option sounds more direct?",
+     "options": [
+      "I think it's rude.",
+      "Honestly, I think it's rude."
+     ],
+     "answer": 1,
+     "explain": "Honestly reinforces the opinion."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "A: Do you miss your family?  B: ___",
+     "options": [
+      "Of course.",
+      "Oh, yes, I really do.",
+      "Maybe."
+     ],
+     "answer": 1,
+     "explain": "Of course can sound abrupt as a reply to a question."
+    },
+    {
+     "id": "F3",
+     "type": "gap",
+     "prompt": "To tell you the ___, I didn't like the food.",
+     "answers": [
+      "truth"
+     ],
+     "explain": "To tell you the truth = to be honest."
+    },
+    {
+     "id": "F4",
+     "type": "gap",
+     "prompt": "I would ___ miss the food if I moved abroad.",
+     "answers": [
+      "absolutely",
+      "definitely",
+      "certainly"
+     ],
+     "explain": "Adverb of emphasis before the verb."
+    },
+    {
+     "id": "F5",
+     "type": "fix",
+     "prompt": "To be honestly, I feel homesick.",
+     "answers": [
+      "To be honest, I feel homesick."
+     ],
+     "explain": "The fixed expression is To be honest."
+    },
+    {
+     "id": "F6",
+     "type": "gap",
+     "prompt": "In ___, I'd never move abroad: I love my city.",
+     "answers": [
+      "fact"
+     ],
+     "explain": "In fact introduces a fact or a firm opinion."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the sentences in order",
+   "instructions": "Put the words in order to form a correct sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Handmade",
+      "bags",
+      "are",
+      "sold",
+      "at",
+      "the",
+      "market"
+     ],
+     "answers": [
+      "Handmade bags are sold at the market."
+     ],
+     "explain": "Subject + are + past participle."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Is",
+      "made",
+      "this",
+      "cheese",
+      "in",
+      "Oaxaca"
+     ],
+     "answers": [
+      "Is this cheese made in Oaxaca?"
+     ],
+     "explain": "Is + subject + past participle."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "is",
+      "held",
+      "The",
+      "festival",
+      "every",
+      "October"
+     ],
+     "answers": [
+      "The festival is held every October."
+     ],
+     "explain": "Subject + is + past participle + frequency."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "Not",
+      "tipping",
+      "can",
+      "offend",
+      "people"
+     ],
+     "answers": [
+      "Not tipping can offend people."
+     ],
+     "explain": "Not + -ing as subject."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "It's",
+      "to",
+      "rude",
+      "at",
+      "stare",
+      "people"
+     ],
+     "answers": [
+      "It's rude to stare at people."
+     ],
+     "explain": "It's + adjective + to + verb."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order to form a sentence or question.",
+     "words": [
+      "can",
+      "You",
+      "by",
+      "friends",
+      "make",
+      "learning",
+      "the",
+      "customs"
+     ],
+     "answers": [
+      "You can make friends by learning the customs."
+     ],
+     "explain": "By + -ing = manner."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Translate the sentences into English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Estos platos se hacen a mano.",
+     "answers": [
+      "These dishes are made by hand.",
+      "These plates are made by hand.",
+      "These dishes are handmade.",
+      "These plates are handmade."
+     ],
+     "explain": "Plural passive: are + past participle."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "La cerámica se exporta a todo el mundo.",
+     "answers": [
+      "The pottery is exported all over the world.",
+      "Pottery is exported all over the world.",
+      "The pottery is exported worldwide."
+     ],
+     "explain": "Singular passive: is exported."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Este puente fue construido en 1900.",
+     "answers": [
+      "This bridge was built in 1900."
+     ],
+     "explain": "Past passive: was built."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Hablar con la boca llena es de mala educación.",
+     "answers": [
+      "Talking with your mouth full is bad manners.",
+      "Talking with your mouth full is rude.",
+      "Talking with your mouth full is impolite.",
+      "It's bad manners to talk with your mouth full.",
+      "It is bad manners to talk with your mouth full.",
+      "It's rude to talk with your mouth full.",
+      "It is rude to talk with your mouth full."
+     ],
+     "explain": "Gerund as subject, or It's + adjective + to."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Puedes ofender a la gente por no dar propina.",
+     "answers": [
+      "You can offend people by not leaving a tip.",
+      "You can offend people by not tipping.",
+      "You can offend people for not leaving a tip.",
+      "You can offend people for not tipping.",
+      "You can offend people by not giving a tip.",
+      "You can offend people for not giving a tip."
+     ],
+     "explain": "By / for + not + -ing."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "Para ser honesto, extraño la comida de mi país.",
+     "answers": [
+      "To be honest, I miss the food from my country.",
+      "To be honest, I miss my country's food.",
+      "To be honest, I miss the food from home.",
+      "To be honest, I miss the food of my country.",
+      "Honestly, I miss the food from my country.",
+      "Honestly, I miss my country's food."
+     ],
+     "explain": "To be honest opens the sentence with frankness."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed practice",
+   "instructions": "Exercises covering all the topics in the unit (includes 2 review items from earlier units).",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "Cheese ___ in this village.",
+     "options": [
+      "is making",
+      "is made",
+      "makes"
+     ],
+     "answer": 1,
+     "explain": "Cheese is the product, not the one doing the action: passive."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Cutting in line ___ rude.",
+     "answers": [
+      "is"
+     ],
+     "explain": "Subject with -ing: singular verb."
+    },
+    {
+     "id": "M3",
+     "type": "fix",
+     "prompt": "These masks were make by hand.",
+     "answers": [
+      "These masks were made by hand."
+     ],
+     "explain": "Was / were + past participle."
+    },
+    {
+     "id": "M4",
+     "type": "choice",
+     "prompt": "Which sentence is correct?",
+     "options": [
+      "It's impolite to arrive late.",
+      "It's impolite arrive late.",
+      "It impolite to arrive late."
+     ],
+     "answer": 0,
+     "explain": "It's + adjective + to + verb."
+    },
+    {
+     "id": "M5",
+     "type": "translate",
+     "prompt": "Esta ropa se hace localmente.",
+     "answers": [
+      "These clothes are made locally.",
+      "This clothing is made locally."
+     ],
+     "explain": "Passive with is / are + made."
+    },
+    {
+     "id": "M6",
+     "type": "gap",
+     "prompt": "The national anthem ___ (play) at the start of the game.",
+     "answers": [
+      "is played"
+     ],
+     "explain": "Passive in the present."
+    },
+    {
+     "id": "M7",
+     "type": "fix",
+     "prompt": "Not shake hands is impolite here.",
+     "answers": [
+      "Not shaking hands is impolite here."
+     ],
+     "explain": "Not + -ing as subject."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "A: Do you like the food abroad?  B: Oh, yes, I really ___.",
+     "answers": [
+      "do"
+     ],
+     "explain": "Natural, polite reply; it replaces the verb like."
+    },
+    {
+     "id": "M9",
+     "type": "gap",
+     "prompt": "(review: obligation) You ___ wear a suit; it's optional.",
+     "answers": [
+      "don't have to",
+      "do not have to"
+     ],
+     "explain": "Don't have to = it's not required."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "(review: comparatives) This market is ___ (cheap) than the mall.",
+     "answers": [
+      "cheaper"
+     ],
+     "explain": "Short comparative: cheap + -er."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write a 180 to 250-word text about the traditions and customs of your city or country for a foreign visitor. Include: (1) at least three things that are made, sold or celebrated, using the passive voice (is made of, are sold, is held…); (2) two sentences with verb + -ing as a subject; (3) two sentences with It's + adjective + (not) to + verb; (4) one expression to sound more direct (To be honest, …). Example opening: Mexico is famous for its traditions. For example, …",
+   "targets": [
+    "passive in present and past",
+    "-ing as subject and after prepositions",
+    "It's + adj + to + verb",
+    "position of not",
+    "sounding direct"
+   ],
+   "checklist": [
+    "Between 180 and 250 words",
+    "At least 3 passive sentences (is / are / was / were + past participle)",
+    "Correct past participles (made, sold, held, built)",
+    "Two subjects with -ing and the main verb in the singular",
+    "Two sentences with It's + adjective + to + verb (one with not to)",
+    "by + -ing to say how",
+    "At least one expression such as To be honest or In fact"
+   ],
+   "model": "Mexico is famous for its traditions. For example, tequila is made from the blue agave plant in the state of Jalisco, and mole is served at weddings and festivals. Colorful crafts are sold in markets across the country, and every November the Day of the Dead is celebrated with flowers, candles and food. In my city, a big festival was held last year, and a new square was built for the occasion.\n\nIf you visit, remember that eating late is normal here. Having lunch around three o'clock is common, and sharing food with other people is a sign of friendship. Trying new dishes is a good way to be polite. It's important to say hello when you enter a shop, and it's not polite to refuse food at someone's home. It's nice to bring a small gift, but it's not necessary to spend a lot. It's better not to arrive too early at a party.\n\nYou can learn a lot about the culture by walking around the old center, or by talking with the vendors. By asking questions, you will make friends quickly. To be honest, we are not always on time, so it's good to be patient. In fact, being late is almost normal for parties. Don't take it personally!\n\nI hope you enjoy your visit, and that you leave with beautiful memories."
+  },
+  {
+   "id": "W2",
+   "prompt": "A foreign friend is visiting Mexico for the first time and wants to know how to behave. Write an email of 180 to 250 words with manners advice: greetings, tipping, meals and visiting homes. Use vocabulary from the unit (shake hands, leave a tip, take your shoes off, keep your voice down) and explain what is acceptable, what is bad manners and why. Example opening: Hi Jake, I'm happy you're coming to Mexico! Here is some advice …",
+   "targets": [
+    "manners vocabulary",
+    "It's acceptable not to / It's not acceptable to",
+    "-ing as subject",
+    "by / for + -ing",
+    "of course, used carefully"
+   ],
+   "checklist": [
+    "Between 180 and 250 words",
+    "Greeting and sign-off of the email",
+    "At least 4 manners verbs or phrases from the unit",
+    "At least one sentence with -ing as the subject",
+    "A correct contrast between acceptable not to and not acceptable to",
+    "One sentence with by or for + (not) + -ing",
+    "One passive sentence (e.g., tips are expected / shoes are taken off)"
+   ],
+   "model": "Hi Jake,\n\nI'm happy you're coming to Mexico! Here is some advice so you can feel comfortable.\n\nWhen you meet someone, shake hands and look the person in the eye. Close friends usually greet each other with a kiss on the cheek, so don't be surprised. Saying hello to everyone in a room is expected, and ignoring people is bad manners.\n\nIn restaurants, it's customary to leave a tip of around ten percent, and tips are often expected even in small places. Of course, it's acceptable not to tip if the service was terrible, but it's not acceptable to complain loudly. Keep your voice down in public places, because speaking loudly is considered rude.\n\nIf someone invites you to their home, bring a small present, like flowers or sweets. Take your shoes off only if the host asks you to. Shoes are not always taken off, so watch what others do. Meals are long, and it's polite to wait until the host says \"provecho\" before you start eating. By saying thank you for the food, you will make a great impression. Nobody will be offended if you do not finish everything, but it's better to try a bit of each dish.\n\nI think you will love it here. Write to me if you have any questions!\n\nBest,\nLuis"
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "Two sets of customs",
+   "intro": "Read the text by a Mexican student who lived in Korea for a year, then answer the questions.",
+   "paragraphs": [
+    "When I moved to Busan for a graduate program, I thought I was well prepared. I had read three guidebooks, learned a hundred words of Korean, and even packed a jar of mole paste. What I had not studied was manners, and that was a mistake. Nobody warned me that some of the smallest habits would turn out to be the most important ones. I was sure that a friendly attitude and a few polite phrases would be enough, but I soon discovered that good intentions are not the same as good manners.",
+    "On my first day, my host mother greeted me at the door. I held out my hand, but she bowed slightly, and I felt embarrassed. Shaking hands is normal in Mexico, yet in many Korean homes a small bow is more customary. Then came the shoes. Shoes are always taken off at the entrance, and slippers are provided for guests. Walking around the house in my boots would have been a disaster, and my host mother kindly pretended not to notice my confusion.",
+    "Restaurants taught me even more. In Mexico, leaving a tip of ten or fifteen percent is expected; in Korea it usually is not, and it can even confuse the waiter. Meals are often shared, and the oldest person is served first. It's impolite to start eating before the eldest person at the table picks up a spoon. I also learned that pouring a drink for yourself is not done: you fill other people's glasses, and they fill yours. Not following this custom will not make you a criminal, but people may smile at you for ignoring it.",
+    "Of course, my country has customs that surprise visitors, too. My Korean friends were shocked that tortillas are eaten with the hands, that a long family lunch is held on Sundays, and that it is normal to greet friends with a kiss on the cheek. One friend told me, \"To be honest, I was nervous the first time. I didn't know where to put my face!\" Honestly, I laughed so hard that I forgot my own embarrassment.",
+    "After a year abroad, I have changed my mind about manners. They are not silly rules; they are a language without words. Learning a few of them shows respect, and showing respect is the fastest way to make friends. I still feel homesick sometimes, especially when I smell fresh bread, but now I carry two sets of customs with me. If you move abroad, my advice is simple: watch, ask, and don't be afraid to make a mistake."
+   ],
+   "glossary": [
+    {
+     "en": "graduate program",
+     "def": "a university program for students who already have a bachelor's degree"
+    },
+    {
+     "en": "bow",
+     "def": "to bend your head or upper body forward as a sign of respect or greeting"
+    },
+    {
+     "en": "slippers",
+     "def": "soft, comfortable shoes you wear indoors"
+    },
+    {
+     "en": "customary",
+     "def": "usual or traditional for a particular group or situation"
+    },
+    {
+     "en": "eldest",
+     "def": "the oldest of a group of brothers, sisters or children"
+    },
+    {
+     "en": "shocked",
+     "def": "very surprised, sometimes upset by something unexpected"
+    },
+    {
+     "en": "homesick",
+     "def": "sad because you miss your home and family"
+    },
+    {
+     "en": "embarrassment",
+     "def": "the uncomfortable feeling you have when you do something that makes you look foolish in front of others"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "The writer felt well prepared because he had studied manners.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Says they had read guides and learned words, but had not studied etiquette."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "How did the host mother greet the writer?",
+     "options": [
+      "She shook his hand.",
+      "She bowed slightly.",
+      "She kissed his cheek."
+     ],
+     "answer": 1,
+     "explain": "She bowed slightly."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Leaving a tip is usually expected in Korea.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "The text says that in Korea it is usually not expected, and it can confuse the waiter."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Who is served first at a shared meal?",
+     "options": [
+      "The youngest person",
+      "The oldest person",
+      "The cook"
+     ],
+     "answer": 1,
+     "explain": "The oldest person is served first."
+    },
+    {
+     "id": "R5",
+     "type": "gap",
+     "prompt": "Shoes are always taken ___ at the entrance.",
+     "answers": [
+      "off"
+     ],
+     "explain": "Take off = quitarse; pasiva: are taken off."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "In Mexico it is normal to greet friends with a kiss on the ___.",
+     "answers": [
+      "cheek"
+     ],
+     "explain": "A kiss on the cheek."
+    },
+    {
+     "id": "R7",
+     "type": "translate",
+     "prompt": "Mostrar respeto es la forma más rápida de hacer amigos.",
+     "answers": [
+      "Showing respect is the fastest way to make friends.",
+      "Showing respect is the quickest way to make friends.",
+      "Showing respect is the fastest way to make new friends.",
+      "Showing respect is the quickest way to make new friends."
+     ],
+     "explain": "-ing as subject + is."
+    },
+    {
+     "id": "R8",
+     "type": "choice",
+     "prompt": "What is the writer's final advice?",
+     "options": [
+      "Stay home and read guidebooks.",
+      "Watch, ask, and don't fear mistakes.",
+      "Learn Korean before you travel."
+     ],
+     "answer": 1,
+     "explain": "Su consejo es observar, preguntar y no tener miedo a equivocarse."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Dinner at the manager's house",
+   "intro": "Listen to the conversation between two colleagues. You can repeat it.",
+   "lines": [
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "Kenji, I'm having dinner at my manager's house on Friday. Is there anything I should know?"
+    },
+    {
+     "who": "Kenji",
+     "voice": "glassy",
+     "text": "Congratulations! First, shoes are always taken off at the door, so wear nice socks."
+    },
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "Good tip. Should I bring a gift?"
+    },
+    {
+     "who": "Kenji",
+     "voice": "glassy",
+     "text": "Yes. It's customary to bring something small, like fruit or sweets. And the gift is usually given with both hands."
+    },
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "Both hands? Interesting. What about the meal?"
+    },
+    {
+     "who": "Kenji",
+     "voice": "glassy",
+     "text": "Don't start eating before the host does. Starting early is impolite."
+    },
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "Got it. And what about tipping the taxi driver afterwards?"
+    },
+    {
+     "who": "Kenji",
+     "voice": "glassy",
+     "text": "Honestly, tipping isn't expected in Japan. It's acceptable not to tip, and some drivers even feel uncomfortable about it."
+    },
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "That's the opposite of Mexico! Anything else?"
+    },
+    {
+     "who": "Kenji",
+     "voice": "glassy",
+     "text": "Yes, one more thing. Sticking chopsticks upright in your rice is a serious mistake. It's connected with funerals."
+    },
+    {
+     "who": "Sofia",
+     "voice": "airy",
+     "text": "Wow, I definitely didn't know that. Thanks for the help."
+    },
+    {
+     "who": "Kenji",
+     "voice": "glassy",
+     "text": "You're welcome. To tell you the truth, nobody expects you to be perfect. Showing respect is what matters."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "When is the dinner?",
+     "options": [
+      "On Friday",
+      "On Saturday",
+      "On Sunday"
+     ],
+     "answer": 0,
+     "explain": "I'm having dinner at my manager's house on Friday."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "What is taken off at the door?",
+     "options": [
+      "Jackets",
+      "Shoes",
+      "Hats"
+     ],
+     "answer": 1,
+     "explain": "Shoes are always taken off at the door."
+    },
+    {
+     "id": "L3",
+     "type": "choice",
+     "prompt": "What is customary to bring?",
+     "options": [
+      "Flowers",
+      "Something small, like fruit or sweets",
+      "An expensive bottle of wine"
+     ],
+     "answer": 1,
+     "explain": "It's customary to bring something small."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "Tipping a taxi driver is expected in Japan.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "Says it is not expected, and that it is acceptable not to leave a tip."
+    },
+    {
+     "id": "L5",
+     "type": "gap",
+     "prompt": "Sticking chopsticks upright in rice is connected with ___.",
+     "answers": [
+      "funerals",
+      "funeral"
+     ],
+     "explain": "It's connected with funerals."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "Shoes are always taken off at the door.",
+     "answers": [
+      "Shoes are always taken off at the door."
+     ],
+     "explain": "Pasiva en presente: are taken off."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "It's acceptable not to tip in Japan.",
+     "answers": [
+      "It's acceptable not to tip in Japan.",
+      "It is acceptable not to tip in Japan."
+     ],
+     "explain": "It's acceptable not to = es opcional."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "Starting early is impolite.",
+     "answers": [
+      "Starting early is impolite."
+     ],
+     "explain": "-ing as subject + is."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Showing respect is what matters.",
+     "answers": [
+      "Showing respect is what matters."
+     ],
+     "explain": "-ing as subject + is."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about a Mexican tradition: a dish, a craft or a festival. Explain how it is made or when it is celebrated, using the passive.",
+     "questions": [
+      "What is a traditional dish from your region?",
+      "How is it made?",
+      "When is the biggest festival held in your city?",
+      "Are handicrafts sold in your town? What are they made of?"
+     ],
+     "model": "A traditional dish from my region is mole. It is made with chocolate, chilies and spices, and it is served with chicken and rice. It's cooked for weddings and big family parties. In my town, a festival is held every October, and handmade crafts are sold in the main square. They are made of clay and wood.",
+     "checklist": [
+      "is / are + past participle",
+      "made of / made with / made out of",
+      "held for events",
+      "A clear subject in each sentence"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about good and bad manners in Mexico. Use -ing as a subject and It's + adjective + to.",
+     "questions": [
+      "What is bad manners in your country?",
+      "Is it acceptable not to leave a tip?",
+      "What can you do to be polite when you meet someone?",
+      "What is a custom that surprises visitors?"
+     ],
+     "model": "In Mexico, cutting in line is rude. Leaving a tip is customary, and it's not acceptable to forget it. It's polite to say hello when you enter a shop. Talking loudly on the metro is bad manners, so keep your voice down. Visitors are often surprised that we greet friends with a kiss on the cheek.",
+     "checklist": [
+      "-ing as a subject with a singular verb",
+      "It's + adjective + to + verb",
+      "Correct use of not",
+      "Manners vocabulary"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Talk about living or traveling abroad and what you would miss from home. Sound direct with expressions from the unit.",
+     "questions": [
+      "Would you like to live abroad? Why or why not?",
+      "What would you miss from home?",
+      "Have you ever felt homesick?",
+      "What would you do to make friends in a new country?"
+     ],
+     "model": "To be honest, I'd love to live abroad for a year. I'd definitely miss my family and the food, of course. I'd feel homesick in the winter. To tell you the truth, I think I would make friends by joining a class and learning the local customs.",
+     "checklist": [
+      "To be honest / To tell you the truth",
+      "definitely / absolutely before the verb",
+      "by + -ing",
+      "feel homesick / miss"
+     ]
+    }
+   ],
+   "repeat": [
+    "Handicrafts are sold all over the world.",
+    "The festival is held every October.",
+    "Eating with your mouth full is bad manners.",
+    "It's rude not to say thank you.",
+    "To be honest, I'd absolutely miss the food.",
+    "You can make friends by learning the customs."
+   ]
+  }
+ }
+}

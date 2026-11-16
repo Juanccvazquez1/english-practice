@@ -1,0 +1,1516 @@
+{
+ "id": "u-a2-06",
+ "level": "A2",
+ "n": 6,
+ "title": "What are you into?",
+ "goals": [
+  "Talk about your interests and skills with can, like, love, hate, prefer, enjoy, and would like.",
+  "Use the right verb form: to + verb, verb + -ing, or the base form.",
+  "Talk about music and likes using object pronouns (me, him, her, it, us, them).",
+  "Use everybody, everyone, nobody, and no one with a singular verb.",
+  "Say no politely (Not really, Well, no...) and use really to strengthen or soften.",
+  "Connect ideas in writing with and, also, especially, or, but, and because."
+ ],
+ "learn": [
+  {
+   "id": "g-verb-forms",
+   "kind": "grammar",
+   "title": "Likes and skills: can, like, enjoy, would like, good at",
+   "html": "<p>After certain verbs, the next verb changes form. Memorize each group:</p><table><thead><tr><th>Structure</th><th>Examples</th></tr></thead><tbody><tr><td><strong>can / can't</strong> + base verb</td><td>I can play the piano. / I can't swim.</td></tr><tr><td><strong>love, like, hate, prefer</strong> + <strong>to + verb</strong> or <strong>verb + -ing</strong> (same meaning)</td><td>I love to swim. = I love swimming.<br>I prefer to watch TV. = I prefer watching TV.</td></tr><tr><td><strong>would like</strong> + <strong>to + verb</strong> (only this way)</td><td>Would you like to play jazz? / I'd like to play jazz.</td></tr><tr><td><strong>enjoy</strong> + <strong>verb + -ing</strong> (only this way)</td><td>I enjoy writing.</td></tr><tr><td><strong>preposition</strong> + <strong>verb + -ing</strong> (good at, interested in, excited about)</td><td>I'm good at drawing people. / I'm not interested in skiing.</td></tr></tbody></table><ul><li>Questions: <em>Can you draw? / Do you like to cook? / Would you like to join? / Are you good at cooking?</em></li><li><em>I'd like</em> = <em>I would like</em>. It is not the same as <em>I like</em>.</li><li>A verb in -ing can be an object: <em>I hate doing homework.</em></li></ul>",
+   "watch": [
+    {
+     "wrong": "I enjoy to swim.",
+     "right": "I enjoy swimming.",
+     "why": "Enjoy always goes with verb + -ing."
+    },
+    {
+     "wrong": "I'd like going to a concert.",
+     "right": "I'd like to go to a concert.",
+     "why": "Would like goes with to + verb."
+    },
+    {
+     "wrong": "I'm good at play the guitar.",
+     "right": "I'm good at playing the guitar.",
+     "why": "After a preposition, use verb + -ing."
+    },
+    {
+     "wrong": "She can plays the piano.",
+     "right": "She can play the piano.",
+     "why": "Can + base verb, with no -s."
+    }
+   ]
+  },
+  {
+   "id": "g-pronouns",
+   "kind": "grammar",
+   "title": "Object pronouns and everybody / nobody",
+   "html": "<p>When a person or thing receives the action, you use the <strong>object pronoun</strong>. It goes <strong>after the verb</strong> or <strong>after a preposition</strong>.</p><table><thead><tr><th>Subject</th><th>I</th><th>you</th><th>he</th><th>she</th><th>it</th><th>we</th><th>they</th></tr></thead><tbody><tr><td>Object</td><td><strong>me</strong></td><td><strong>you</strong></td><td><strong>him</strong></td><td><strong>her</strong></td><td><strong>it</strong></td><td><strong>us</strong></td><td><strong>them</strong></td></tr></tbody></table><ul><li><em>I don't like him.</em> / <em>Do you like them?</em> / <em>That's me on the CD.</em></li><li>With a preposition: <em>Come and listen to us.</em> / <em>I listen to it all the time.</em></li></ul><p><strong>everybody / everyone</strong> = all people. <strong>nobody / no one</strong> = no person. With these subjects, the verb goes in the <strong>third person singular</strong>:</p><ul><li><em>Everybody likes pop.</em> / <em>Everyone in my class loves her.</em></li><li><em>Nobody is a jazz fan.</em> / <em>No one listens to country.</em></li></ul><p>Nobody and no one are already negative: don't add don't / doesn't.</p>",
+   "watch": [
+    {
+     "wrong": "I like she.",
+     "right": "I like her.",
+     "why": "After the verb, use the object pronoun: her."
+    },
+    {
+     "wrong": "Come and listen to we.",
+     "right": "Come and listen to us.",
+     "why": "After a preposition, use an object pronoun."
+    },
+    {
+     "wrong": "Everybody like pop music.",
+     "right": "Everybody likes pop music.",
+     "why": "Everybody + third person singular verb."
+    },
+    {
+     "wrong": "Nobody doesn't like it.",
+     "right": "Nobody likes it.",
+     "why": "Nobody is already negative: no double negative."
+    }
+   ]
+  },
+  {
+   "id": "g-linking",
+   "kind": "grammar",
+   "title": "Connecting ideas: and, also, especially, or, but, because",
+   "html": "<p>These words connect ideas and make your text sound natural.</p><table><thead><tr><th>Word</th><th>Use</th><th>Example</th></tr></thead><tbody><tr><td><strong>and</strong></td><td>adding</td><td>I enjoy knitting <strong>and</strong> I make cool hats.</td></tr><tr><td><strong>also</strong></td><td>adding (before the verb; after be)</td><td>I <strong>also</strong> like making jewelry. / I'm <strong>also</strong> good at cooking.</td></tr><tr><td><strong>especially</strong></td><td>highlighting</td><td>I like sports, <strong>especially</strong> football.</td></tr><tr><td><strong>or</strong></td><td>options; negatives</td><td>Do you prefer pop <strong>or</strong> rock? / I'm not interested in running <strong>or</strong> jogging.</td></tr><tr><td><strong>but</strong></td><td>contrast</td><td>I'm not good at sports, <strong>but</strong> I want to do something outdoors.</td></tr><tr><td><strong>because</strong></td><td>giving a reason</td><td>My friends love my hats <strong>because</strong> they are unique.</td></tr></tbody></table><ul><li>In negative sentences, use <em>or</em>, not <em>and</em>: <em>I don't like pop or rock.</em></li><li>After <em>because</em>, use a complete sentence (subject + verb).</li></ul>",
+   "watch": [
+    {
+     "wrong": "I don't like pop and rock.",
+     "right": "I don't like pop or rock.",
+     "why": "In negatives, use or to connect options."
+    },
+    {
+     "wrong": "I like jazz because is relaxing.",
+     "right": "I like jazz because it's relaxing.",
+     "why": "After because, use subject + verb."
+    },
+    {
+     "wrong": "I also am good at drawing.",
+     "right": "I'm also good at drawing.",
+     "why": "Also goes after be."
+    },
+    {
+     "wrong": "I like all sports, specially football.",
+     "right": "I like all sports, especially football.",
+     "why": "It is spelled especially."
+    }
+   ]
+  },
+  {
+   "id": "v-hobbies",
+   "kind": "vocab",
+   "title": "Hobbies and skills",
+   "words": [
+    {
+     "id": "w-cooking",
+     "en": "cooking / cook",
+     "es": "cocinar (la cocina)",
+     "example": "I enjoy cooking for my friends.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-draw",
+     "en": "draw",
+     "es": "dibujar",
+     "example": "She can draw people very well.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-jog",
+     "en": "jog",
+     "es": "trotar",
+     "example": "I jog in the park every morning."
+    },
+    {
+     "id": "w-work-out",
+     "en": "work out",
+     "es": "hacer ejercicio",
+     "example": "He works out at the gym three times a week.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-join-class",
+     "en": "join (a class)",
+     "es": "inscribirse, unirse (a una clase)",
+     "example": "I'd like to join a photography class.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-play-piano",
+     "en": "play the piano",
+     "es": "tocar el piano",
+     "example": "My sister plays the piano.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-jazz-band",
+     "en": "play in a jazz band",
+     "es": "tocar en una banda de jazz",
+     "example": "My uncle plays in a jazz band.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-ride-horse",
+     "en": "ride a horse",
+     "es": "montar a caballo",
+     "example": "She loves to ride a horse on weekends.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-whistle",
+     "en": "whistle",
+     "es": "silbar",
+     "example": "I can't sing, but I can whistle."
+    },
+    {
+     "id": "w-collect",
+     "en": "collect",
+     "es": "coleccionar",
+     "example": "He collects old coins.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-paint",
+     "en": "paint",
+     "es": "pintar",
+     "example": "They paint pictures of the mountains.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-photography",
+     "en": "photography",
+     "es": "fotografía",
+     "example": "Photography is my favorite hobby.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-martial-arts",
+     "en": "martial arts",
+     "es": "artes marciales",
+     "example": "My cousin does martial arts.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-board-game",
+     "en": "board game",
+     "es": "juego de mesa",
+     "example": "We play board games on Sundays.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-crossword",
+     "en": "crossword puzzle",
+     "es": "crucigrama",
+     "example": "I do a crossword puzzle on the bus.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-hiking",
+     "en": "hiking",
+     "es": "senderismo, caminata",
+     "example": "Hiking is fun when the weather is nice.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-knitting",
+     "en": "knitting",
+     "es": "tejer (con agujas)",
+     "example": "Knitting is a great hobby for the winter."
+    },
+    {
+     "id": "w-make-jewelry",
+     "en": "make jewelry",
+     "es": "hacer joyería, bisutería",
+     "example": "I make jewelry and sell it online.",
+     "cefr": "A2"
+    }
+   ]
+  },
+  {
+   "id": "v-music-forums",
+   "kind": "vocab",
+   "title": "Music, forums, and personality",
+   "words": [
+    {
+     "id": "w-classical",
+     "en": "classical music",
+     "es": "música clásica",
+     "example": "Mozart wrote classical music.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-country",
+     "en": "country music",
+     "es": "música country",
+     "example": "Country music has guitars and cowboy songs.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-folk",
+     "en": "folk music",
+     "es": "música folk, tradicional",
+     "example": "My grandfather likes folk music.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-hip-hop",
+     "en": "hip-hop",
+     "es": "hip-hop",
+     "example": "My cousin listens to hip-hop all day."
+    },
+    {
+     "id": "w-jazz",
+     "en": "jazz",
+     "es": "jazz",
+     "example": "Jazz is relaxing in the evening.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-latin",
+     "en": "Latin music",
+     "es": "música latina",
+     "example": "Latin music makes me want to dance.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-pop",
+     "en": "pop",
+     "es": "música pop",
+     "example": "Everybody in my family likes pop.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-rap",
+     "en": "rap",
+     "es": "rap",
+     "example": "He writes rap songs."
+    },
+    {
+     "id": "w-rock",
+     "en": "rock",
+     "es": "rock",
+     "example": "I love rock concerts.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-lead-singer",
+     "en": "lead singer",
+     "es": "vocalista principal",
+     "example": "The lead singer of the band is my cousin.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-concert",
+     "en": "concert",
+     "es": "concierto",
+     "example": "We have a concert on Saturday.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-talent-show",
+     "en": "talent show",
+     "es": "concurso de talentos",
+     "example": "She sings at the school talent show.",
+     "cefr": "B1"
+    },
+    {
+     "id": "w-online-forum",
+     "en": "online forum",
+     "es": "foro en línea",
+     "example": "I read an online forum about hiking.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-post-comment",
+     "en": "post a comment",
+     "es": "publicar un comentario",
+     "example": "Please post a comment below.",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-blog",
+     "en": "have a blog",
+     "es": "tener un blog",
+     "example": "He has a blog about cooking.",
+     "cefr": "A1"
+    },
+    {
+     "id": "w-recommend",
+     "en": "recommend",
+     "es": "recomendar",
+     "example": "Can you recommend a good hobby?",
+     "cefr": "A2"
+    },
+    {
+     "id": "w-artistic",
+     "en": "artistic",
+     "es": "artístico/a",
+     "example": "She is artistic; she paints and draws.",
+     "cefr": "B2"
+    },
+    {
+     "id": "w-good-with",
+     "en": "good with (my hands)",
+     "es": "hábil con (las manos)",
+     "example": "I'm good with my hands, so I enjoy carpentry.",
+     "cefr": "A1"
+    }
+   ]
+  },
+  {
+   "id": "e-no-politely",
+   "kind": "expressions",
+   "title": "Saying no politely and using really",
+   "html": "<p>In English, a flat “No” sounds rude. To say <strong>no</strong> politely, add something more: an explanation or an alternative.</p><table><thead><tr><th>Question</th><th>Polite answer</th></tr></thead><tbody><tr><td>Do you do a lot of cooking?</td><td><strong>Not really.</strong></td></tr><tr><td>Do you collect anything?</td><td><strong>Um, no.</strong> I'm not really into collecting things.</td></tr><tr><td>Do you play golf?</td><td><strong>No, I don't, but</strong> I play tennis a lot.</td></tr><tr><td>Do you have a lot of hobbies?</td><td><strong>Well, no.</strong> I don't really have much time.</td></tr></tbody></table><p><strong>Really</strong> changes how strong the sentence is:</p><ul><li>It makes the idea <strong>stronger</strong> before a positive verb or adjective: <em>I really love riding my horse. / I'm really good at photography.</em></li><li>It makes it <strong>softer</strong> in negatives: <em>I don't really have much time. / I'm not really interested in sports.</em></li><li><strong>Not really</strong> works as a polite answer to a yes/no question.</li></ul>"
+  }
+ ],
+ "practice": [
+  {
+   "id": "A",
+   "title": "Verb forms: can, like, enjoy, would like, good at",
+   "instructions": "Choose or complete with the correct form.",
+   "topic": "g-verb-forms",
+   "items": [
+    {
+     "id": "A1",
+     "type": "gap",
+     "prompt": "She enjoys ___ pictures. (take)",
+     "answers": [
+      "taking"
+     ],
+     "explain": "Enjoy + verb + -ing."
+    },
+    {
+     "id": "A2",
+     "type": "choice",
+     "prompt": "I'd like ___ a new language.",
+     "options": [
+      "learn",
+      "to learn",
+      "learning"
+     ],
+     "answer": 1,
+     "explain": "Would like + to + verb."
+    },
+    {
+     "id": "A3",
+     "type": "gap",
+     "prompt": "My brother can't ___ very well. (swim)",
+     "answers": [
+      "swim"
+     ],
+     "explain": "Can't + base verb."
+    },
+    {
+     "id": "A4",
+     "type": "choice",
+     "prompt": "Are you good at ___ crossword puzzles?",
+     "options": [
+      "do",
+      "to do",
+      "doing"
+     ],
+     "answer": 2,
+     "explain": "Good at + verb + -ing."
+    },
+    {
+     "id": "A5",
+     "type": "gap",
+     "prompt": "I hate ___ up early on weekends. (get)",
+     "answers": [
+      "getting",
+      "to get"
+     ],
+     "explain": "Hate can take to + verb or verb + -ing."
+    },
+    {
+     "id": "A6",
+     "type": "fix",
+     "prompt": "I enjoy to cook for my friends.",
+     "answers": [
+      "I enjoy cooking for my friends."
+     ],
+     "explain": "Enjoy is only used with -ing."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Object pronouns and everybody / nobody",
+   "instructions": "Choose or complete the correct form.",
+   "topic": "g-pronouns",
+   "items": [
+    {
+     "id": "B1",
+     "type": "choice",
+     "prompt": "I love Adele. Do you like ___?",
+     "options": [
+      "she",
+      "her",
+      "hers"
+     ],
+     "answer": 1,
+     "explain": "After the verb: her."
+    },
+    {
+     "id": "B2",
+     "type": "gap",
+     "prompt": "Come and listen to ___ play on Saturday! (we)",
+     "answers": [
+      "us"
+     ],
+     "explain": "After a preposition: us."
+    },
+    {
+     "id": "B3",
+     "type": "choice",
+     "prompt": "Everybody in my family ___ jazz.",
+     "options": [
+      "like",
+      "likes",
+      "are liking"
+     ],
+     "answer": 1,
+     "explain": "Everybody + third person singular."
+    },
+    {
+     "id": "B4",
+     "type": "gap",
+     "prompt": "Nobody in my class ___ country music. (like)",
+     "answers": [
+      "likes"
+     ],
+     "explain": "Nobody + verb with -s."
+    },
+    {
+     "id": "B5",
+     "type": "fix",
+     "prompt": "No one don't like this song.",
+     "answers": [
+      "No one likes this song.",
+      "Nobody likes this song."
+     ],
+     "explain": "No one is already negative and takes a verb with -s."
+    },
+    {
+     "id": "B6",
+     "type": "gap",
+     "prompt": "My friends are in a band. I see ___ every weekend. (they)",
+     "answers": [
+      "them"
+     ],
+     "explain": "Object of they: them."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Connecting ideas: and, also, especially, or, but, because",
+   "instructions": "Choose the word or correct the sentence.",
+   "topic": "g-linking",
+   "items": [
+    {
+     "id": "C1",
+     "type": "choice",
+     "prompt": "I like pop, ___ I prefer rock.",
+     "options": [
+      "because",
+      "but",
+      "or"
+     ],
+     "answer": 1,
+     "explain": "Contrast → but."
+    },
+    {
+     "id": "C2",
+     "type": "choice",
+     "prompt": "I'm not interested in running ___ jogging.",
+     "options": [
+      "and",
+      "or",
+      "also"
+     ],
+     "answer": 1,
+     "explain": "In negatives, use or."
+    },
+    {
+     "id": "C3",
+     "type": "gap",
+     "prompt": "I want to join a cooking class ___ I love food.",
+     "answers": [
+      "because"
+     ],
+     "explain": "Reason → because."
+    },
+    {
+     "id": "C4",
+     "type": "choice",
+     "prompt": "She likes sports, ___ football.",
+     "options": [
+      "especially",
+      "because",
+      "or"
+     ],
+     "answer": 0,
+     "explain": "Especially highlights an example."
+    },
+    {
+     "id": "C5",
+     "type": "fix",
+     "prompt": "I don't like pop and rock.",
+     "answers": [
+      "I don't like pop or rock."
+     ],
+     "explain": "In negatives, or."
+    },
+    {
+     "id": "C6",
+     "type": "order",
+     "prompt": "Put the words in order.",
+     "words": [
+      "I",
+      "also",
+      "like",
+      "making",
+      "jewelry"
+     ],
+     "answers": [
+      "I also like making jewelry."
+     ],
+     "explain": "Also goes before the main verb."
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "title": "Vocabulary: hobbies",
+   "instructions": "Complete with the right word.",
+   "topic": "v-hobbies",
+   "items": [
+    {
+     "id": "D1",
+     "type": "gap",
+     "prompt": "My uncle is a musician. He plays ___ a jazz band.",
+     "answers": [
+      "in"
+     ],
+     "explain": "Play in a band."
+    },
+    {
+     "id": "D2",
+     "type": "choice",
+     "prompt": "Which hobby uses needles to make sweaters?",
+     "options": [
+      "knitting",
+      "jogging",
+      "whistling"
+     ],
+     "answer": 0,
+     "explain": "Knitting = making things with wool and needles."
+    },
+    {
+     "id": "D3",
+     "type": "gap",
+     "prompt": "I ___ old coins. It's my hobby.",
+     "answers": [
+      "collect"
+     ],
+     "explain": "Collect = to gather things you like, such as coins."
+    },
+    {
+     "id": "D4",
+     "type": "choice",
+     "prompt": "I want to ___ a photography class.",
+     "options": [
+      "join",
+      "draw",
+      "jog"
+     ],
+     "answer": 0,
+     "explain": "Join a class = to enroll in a class."
+    },
+    {
+     "id": "D5",
+     "type": "translate",
+     "prompt": "Me gusta hacer ejercicio en el gimnasio.",
+     "answers": [
+      "I like to work out at the gym.",
+      "I like working out at the gym.",
+      "I like to work out in the gym.",
+      "I like working out in the gym.",
+      "I like to exercise at the gym.",
+      "I like exercising at the gym."
+     ],
+     "explain": "Work out = to exercise."
+    },
+    {
+     "id": "D6",
+     "type": "choice",
+     "prompt": "Which hobby is done outdoors?",
+     "options": [
+      "hiking",
+      "crossword puzzles",
+      "board games"
+     ],
+     "answer": 0,
+     "explain": "Hiking = walks in nature."
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "title": "Vocabulary: music, forums, and personality",
+   "instructions": "Complete with the right word.",
+   "topic": "v-music-forums",
+   "items": [
+    {
+     "id": "E1",
+     "type": "choice",
+     "prompt": "___ music has guitars and cowboy songs.",
+     "options": [
+      "Country",
+      "Classical",
+      "Latin"
+     ],
+     "answer": 0,
+     "explain": "Country music."
+    },
+    {
+     "id": "E2",
+     "type": "choice",
+     "prompt": "Mozart and Beethoven wrote ___ music.",
+     "options": [
+      "classical",
+      "rap",
+      "folk"
+     ],
+     "answer": 0,
+     "explain": "Classical = the style of Mozart and Beethoven."
+    },
+    {
+     "id": "E3",
+     "type": "gap",
+     "prompt": "The ___ singer of the band is my cousin.",
+     "answers": [
+      "lead"
+     ],
+     "explain": "Lead singer = the main singer."
+    },
+    {
+     "id": "E4",
+     "type": "gap",
+     "prompt": "I have a ___. I write posts about hiking.",
+     "answers": [
+      "blog"
+     ],
+     "explain": "Have a blog = to write posts on your own website."
+    },
+    {
+     "id": "E5",
+     "type": "choice",
+     "prompt": "She paints and draws very well. She's very ___.",
+     "options": [
+      "artistic",
+      "local",
+      "freezing"
+     ],
+     "answer": 0,
+     "explain": "Artistic = good at art."
+    },
+    {
+     "id": "E6",
+     "type": "translate",
+     "prompt": "Mi hermano toca en una banda local.",
+     "answers": [
+      "My brother plays in a local band.",
+      "My brother is in a local band."
+     ],
+     "explain": "Play in a band."
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "title": "Saying no politely and really",
+   "instructions": "Choose the best answer.",
+   "topic": "e-no-politely",
+   "items": [
+    {
+     "id": "F1",
+     "type": "choice",
+     "prompt": "— Do you like jogging? — ___",
+     "options": [
+      "Not really, but I like swimming.",
+      "No!",
+      "Yes, not really."
+     ],
+     "answer": 0,
+     "explain": "Not really + an alternative sounds polite."
+    },
+    {
+     "id": "F2",
+     "type": "choice",
+     "prompt": "Does really make it stronger or softer? \"I don't really have time.\"",
+     "options": [
+      "Más suave",
+      "Más fuerte"
+     ],
+     "answer": 0,
+     "explain": "After don't, really softens the sentence."
+    },
+    {
+     "id": "F3",
+     "type": "choice",
+     "prompt": "Does really make it stronger or softer? \"I really love riding my horse.\"",
+     "options": [
+      "Más suave",
+      "Más fuerte"
+     ],
+     "answer": 1,
+     "explain": "Before a positive verb, really strengthens the sentence."
+    },
+    {
+     "id": "F4",
+     "type": "order",
+     "prompt": "Put the words in order.",
+     "words": [
+      "Not",
+      "really",
+      "I'm",
+      "not",
+      "into",
+      "sports"
+     ],
+     "answers": [
+      "Not really. I'm not into sports."
+     ],
+     "explain": "Not really + explanation."
+    },
+    {
+     "id": "F5",
+     "type": "gap",
+     "prompt": "I don't ___ have much time for hobbies.",
+     "answers": [
+      "really"
+     ],
+     "explain": "Really softens the negative."
+    },
+    {
+     "id": "F6",
+     "type": "choice",
+     "prompt": "— Can you draw? — ___",
+     "options": [
+      "Not really. I'm not very artistic.",
+      "Not really. I'm very artistic.",
+      "No, I'm not draw."
+     ],
+     "answer": 0,
+     "explain": "The polite answer gives a clear reason."
+    }
+   ]
+  },
+  {
+   "id": "O",
+   "title": "Put the words in order",
+   "instructions": "Form the sentence or question.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "O1",
+     "type": "order",
+     "prompt": "Put the words in order.",
+     "words": [
+      "Can",
+      "you",
+      "play",
+      "a",
+      "musical",
+      "instrument"
+     ],
+     "answers": [
+      "Can you play a musical instrument?"
+     ],
+     "explain": "Can + subject + base verb."
+    },
+    {
+     "id": "O2",
+     "type": "order",
+     "prompt": "Put the words in order.",
+     "words": [
+      "Would",
+      "you",
+      "like",
+      "to",
+      "play",
+      "pool",
+      "after",
+      "school"
+     ],
+     "answers": [
+      "Would you like to play pool after school?"
+     ],
+     "explain": "Would you like + to + verb."
+    },
+    {
+     "id": "O3",
+     "type": "order",
+     "prompt": "Put the words in order.",
+     "words": [
+      "Are",
+      "you",
+      "interested",
+      "in",
+      "playing",
+      "chess"
+     ],
+     "answers": [
+      "Are you interested in playing chess?"
+     ],
+     "explain": "Interested in + verb + -ing."
+    },
+    {
+     "id": "O4",
+     "type": "order",
+     "prompt": "Put the words in order.",
+     "words": [
+      "Everybody",
+      "in",
+      "my",
+      "family",
+      "likes",
+      "pop",
+      "music"
+     ],
+     "answers": [
+      "Everybody in my family likes pop music."
+     ],
+     "explain": "Everybody + verb with -s."
+    },
+    {
+     "id": "O5",
+     "type": "order",
+     "prompt": "Put the words in order.",
+     "words": [
+      "I",
+      "don't",
+      "really",
+      "have",
+      "much",
+      "time",
+      "for",
+      "hobbies"
+     ],
+     "answers": [
+      "I don't really have much time for hobbies."
+     ],
+     "explain": "Really softens the negative."
+    },
+    {
+     "id": "O6",
+     "type": "order",
+     "prompt": "Put the words in order.",
+     "words": [
+      "My",
+      "sister",
+      "can't",
+      "sing",
+      "but",
+      "she",
+      "can",
+      "dance"
+     ],
+     "answers": [
+      "My sister can't sing, but she can dance.",
+      "My sister can't sing but she can dance."
+     ],
+     "explain": "But joins two ideas that contrast."
+    }
+   ]
+  },
+  {
+   "id": "T",
+   "title": "Translate into English",
+   "instructions": "Write the sentence in English.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "T1",
+     "type": "translate",
+     "prompt": "Me encanta nadar.",
+     "answers": [
+      "I love swimming.",
+      "I love to swim."
+     ],
+     "explain": "Love + -ing or to + verb."
+    },
+    {
+     "id": "T2",
+     "type": "translate",
+     "prompt": "¿Eres bueno para dibujar?",
+     "answers": [
+      "Are you good at drawing?"
+     ],
+     "explain": "Good at + -ing."
+    },
+    {
+     "id": "T3",
+     "type": "translate",
+     "prompt": "Nadie en mi familia escucha música country.",
+     "answers": [
+      "Nobody in my family listens to country music.",
+      "No one in my family listens to country music."
+     ],
+     "explain": "Nobody + verb with -s."
+    },
+    {
+     "id": "T4",
+     "type": "translate",
+     "prompt": "Me gustaría aprender a tocar la guitarra.",
+     "answers": [
+      "I'd like to learn to play the guitar.",
+      "I would like to learn to play the guitar.",
+      "I'd like to learn how to play the guitar.",
+      "I would like to learn how to play the guitar."
+     ],
+     "explain": "Would like + to + verb."
+    },
+    {
+     "id": "T5",
+     "type": "translate",
+     "prompt": "Todos quieren verlos.",
+     "answers": [
+      "Everybody wants to see them.",
+      "Everyone wants to see them."
+     ],
+     "explain": "Everybody + verb with -s; object: them."
+    },
+    {
+     "id": "T6",
+     "type": "translate",
+     "prompt": "No me interesan mucho los deportes.",
+     "answers": [
+      "I'm not really interested in sports.",
+      "I am not really interested in sports.",
+      "I'm not very interested in sports.",
+      "I am not very interested in sports."
+     ],
+     "explain": "Really softens the negative."
+    }
+   ]
+  },
+  {
+   "id": "M",
+   "title": "Mixed review",
+   "instructions": "Choose or complete.",
+   "topic": "mixed",
+   "items": [
+    {
+     "id": "M1",
+     "type": "choice",
+     "prompt": "She's good at ___ people.",
+     "options": [
+      "draw",
+      "drawing",
+      "to draw"
+     ],
+     "answer": 1,
+     "explain": "Good at + -ing."
+    },
+    {
+     "id": "M2",
+     "type": "gap",
+     "prompt": "Bill is in my class. Do you know ___? (he)",
+     "answers": [
+      "him"
+     ],
+     "explain": "Object of he: him."
+    },
+    {
+     "id": "M3",
+     "type": "choice",
+     "prompt": "Nobody ___ jazz in my house.",
+     "options": [
+      "like",
+      "likes",
+      "don't like"
+     ],
+     "answer": 1,
+     "explain": "Nobody + verb with -s."
+    },
+    {
+     "id": "M4",
+     "type": "fix",
+     "prompt": "I'd like going to a concert.",
+     "answers": [
+      "I'd like to go to a concert.",
+      "I would like to go to a concert."
+     ],
+     "explain": "Would like + to + verb."
+    },
+    {
+     "id": "M5",
+     "type": "choice",
+     "prompt": "I like cooking, ___ I'm not very good at it.",
+     "options": [
+      "because",
+      "but",
+      "especially"
+     ],
+     "answer": 1,
+     "explain": "Contrast → but."
+    },
+    {
+     "id": "M6",
+     "type": "choice",
+     "prompt": "— Do you play golf? — ___",
+     "options": [
+      "Not really, but I play tennis a lot.",
+      "No.",
+      "Yes, not really."
+     ],
+     "answer": 0,
+     "explain": "Polite answer with an alternative."
+    },
+    {
+     "id": "M7",
+     "type": "gap",
+     "prompt": "I love ___ (hike) in the mountains.",
+     "answers": [
+      "hiking",
+      "to hike"
+     ],
+     "explain": "Love + -ing or to + verb."
+    },
+    {
+     "id": "M8",
+     "type": "gap",
+     "prompt": "She's interested in ___ (learn) a new language.",
+     "answers": [
+      "learning"
+     ],
+     "explain": "Interested in + -ing."
+    },
+    {
+     "id": "M9",
+     "type": "choice",
+     "prompt": "— I'm not a morning person. — ___",
+     "options": [
+      "I'm not either.",
+      "I am too.",
+      "Me too."
+     ],
+     "answer": 0,
+     "explain": "Negative → I'm not either / Me neither."
+    },
+    {
+     "id": "M10",
+     "type": "gap",
+     "prompt": "Last night I ___ (watch) a documentary about music.",
+     "answers": [
+      "watched"
+     ],
+     "explain": "Regular past simple: watched."
+    }
+   ]
+  }
+ ],
+ "write": [
+  {
+   "id": "W1",
+   "prompt": "Write 60 to 100 words about your hobbies: two things you like (love / like / enjoy + -ing), one thing you are good at and one you are not good at, something you would like to learn (would like to), and a reason with because. Opening example: I really enjoy cooking, but...",
+   "targets": [
+    "love / enjoy + -ing",
+    "would like to",
+    "good at + -ing",
+    "because / but / also"
+   ],
+   "checklist": [
+    "enjoy + verb + -ing",
+    "I'd like to + base verb",
+    "I'm (not) good at + verb + -ing",
+    "At least one but and one because, each with a complete sentence",
+    "Really used correctly to strengthen or soften"
+   ],
+   "model": "I really enjoy cooking, but I'm not good at baking. I love listening to music, and I also enjoy walking in the park on Sundays. I'm good at drawing, because I practice every week. I'm not good at singing, so I only sing in the shower! I'd like to learn the guitar because I want to play songs for my friends. I'd like to take classes next year. I really like learning new things, but I don't have much free time."
+  },
+  {
+   "id": "W2",
+   "prompt": "Write a message of 60 to 100 words for an online forum about your music taste: what music you like and what you don't like, what your family thinks (everybody / nobody), which singer or band you listen to, and whether you have been to a concert. Use object pronouns (him, her, them, it).",
+   "targets": [
+    "object pronouns",
+    "everybody / nobody",
+    "and / also / especially / or",
+    "not really"
+   ],
+   "checklist": [
+    "At least two correct object pronouns",
+    "Everybody / nobody + verb with -s",
+    "One negative with or and one especially",
+    "One not really or don't really",
+    "Correct capital letters and punctuation"
+   ],
+   "model": "Hi everyone! I really like pop and rock, but I don't really like jazz. My family has different tastes. Everybody in my house loves music, but nobody likes the same songs. My father listens to old rock, especially The Beatles. I like them too, and I listen to them with him on Sundays. My mother doesn't like loud music or fast songs. My favorite singer is Shakira. I love her voice, and I listen to it every day. Have you been to a concert? I have been to one, and it was great."
+  }
+ ],
+ "skills": {
+  "reading": {
+   "title": "What are you into? The Hobby Corner",
+   "intro": "Read the forum messages and answer.",
+   "paragraphs": [
+    "Welcome to the Hobby Corner, an online forum for people with interesting free time. This week's question is: \"What are you into?\" Here are three messages from our members.",
+    "Rita: Hi, everyone! I'm from Monterrey and I love knitting. I make some really cool hats, and my friends love wearing them because they're unique. I also like making jewelry, especially bracelets. I'm not good at sports, but I want to do something outdoors. Can you recommend a hobby?",
+    "Jon: I play the saxophone in a small jazz band with my cousins, and my sister is the lead singer. Everybody in my family likes music, but nobody in my class listens to jazz! We'd like to play at the local talent show next month. Come and listen to us if you can.",
+    "Lucy: Honestly, I'm not really into hobbies. I don't really have much time because I work full-time. I like cooking, but I don't cook every day. Sometimes I play board games with my roommates on Sundays, and I enjoy doing crossword puzzles on the bus. Do you have any easy hobbies for busy people?",
+    "Moderator: Thanks for your messages! Rita, try hiking or cycling with a local club. Jon, good luck at the talent show. Lucy, why don't you join a small book club? You only need one hour a week, and everybody there is very friendly."
+   ],
+   "glossary": [
+    {
+     "en": "forum",
+     "def": "a website where people talk about a topic"
+    },
+    {
+     "en": "unique",
+     "def": "the only one of its kind; very special"
+    },
+    {
+     "en": "bracelet",
+     "def": "a piece of jewelry worn around the wrist"
+    },
+    {
+     "en": "outdoors",
+     "def": "outside, in nature"
+    },
+    {
+     "en": "local",
+     "def": "from the area where you live"
+    },
+    {
+     "en": "talent show",
+     "def": "an event where people show their skills"
+    },
+    {
+     "en": "busy",
+     "def": "having a lot to do; not free"
+    },
+    {
+     "en": "honestly",
+     "def": "truthfully; to be honest"
+    }
+   ],
+   "items": [
+    {
+     "id": "R1",
+     "type": "choice",
+     "prompt": "Rita is good at sports.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 1,
+     "explain": "She says: I'm not good at sports."
+    },
+    {
+     "id": "R2",
+     "type": "choice",
+     "prompt": "Why do Rita's friends love her hats?",
+     "options": [
+      "They are cheap",
+      "They are unique",
+      "They are warm"
+     ],
+     "answer": 1,
+     "explain": "Because they're unique."
+    },
+    {
+     "id": "R3",
+     "type": "choice",
+     "prompt": "Jon's sister is the lead singer of the band.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": 0,
+     "explain": "Jon says: my sister is the lead singer."
+    },
+    {
+     "id": "R4",
+     "type": "choice",
+     "prompt": "Who listens to jazz in Jon's class?",
+     "options": [
+      "Everybody",
+      "Nobody",
+      "Jon's sister"
+     ],
+     "answer": 1,
+     "explain": "Nobody in my class listens to jazz."
+    },
+    {
+     "id": "R5",
+     "type": "choice",
+     "prompt": "Why doesn't Lucy have much time?",
+     "options": [
+      "She works full-time",
+      "She studies at night",
+      "She has three hobbies"
+     ],
+     "answer": 0,
+     "explain": "Because I work full-time."
+    },
+    {
+     "id": "R6",
+     "type": "gap",
+     "prompt": "Lucy does crossword puzzles on the ___.",
+     "answers": [
+      "bus"
+     ],
+     "explain": "I enjoy doing crossword puzzles on the bus."
+    },
+    {
+     "id": "R7",
+     "type": "translate",
+     "prompt": "Nos gustaría tocar en el concurso de talentos.",
+     "answers": [
+      "We'd like to play at the talent show.",
+      "We would like to play at the talent show.",
+      "We'd like to play in the talent show.",
+      "We would like to play in the talent show.",
+      "We'd like to play at the local talent show.",
+      "We would like to play at the local talent show."
+     ],
+     "explain": "Would like + to + verb."
+    }
+   ]
+  },
+  "listening": {
+   "title": "Hobbies and a concert",
+   "intro": "Listen to the conversation. You can repeat it.",
+   "lines": [
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Hi, Eva! Do you have any hobbies?"
+    },
+    {
+     "who": "Eva",
+     "voice": "airy",
+     "text": "Not really. I mean, I like taking photos, but I'm not really into it."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Really? I love photography. Can you edit photos?"
+    },
+    {
+     "who": "Eva",
+     "voice": "airy",
+     "text": "No, I can't. I'm not very good with computers."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "I can help you. Would you like to join my photography club?"
+    },
+    {
+     "who": "Eva",
+     "voice": "airy",
+     "text": "Sure! What else do you do in your free time?"
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "I play in a rock band with my brothers. I'm the lead singer."
+    },
+    {
+     "who": "Eva",
+     "voice": "airy",
+     "text": "Wow! I'd really like to hear you sometime. I love rock music."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "We have a concert on Saturday. Come and listen to us!"
+    },
+    {
+     "who": "Eva",
+     "voice": "airy",
+     "text": "Sounds great. Does everybody in your family like music?"
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Yes, everybody does, except my mother. She prefers classical music."
+    },
+    {
+     "who": "Eva",
+     "voice": "airy",
+     "text": "That's funny. Nobody in my family likes classical music."
+    },
+    {
+     "who": "Dan",
+     "voice": "buttery",
+     "text": "Then come with your friends. We play a little jazz, too."
+    }
+   ],
+   "items": [
+    {
+     "id": "L1",
+     "type": "choice",
+     "prompt": "What does Eva like doing?",
+     "options": [
+      "Taking photos",
+      "Playing in a band",
+      "Editing videos"
+     ],
+     "answer": 0,
+     "explain": "Eva likes taking photos."
+    },
+    {
+     "id": "L2",
+     "type": "choice",
+     "prompt": "Can Eva edit photos?",
+     "options": [
+      "Yes, she can",
+      "No, she can't",
+      "She isn't sure"
+     ],
+     "answer": 1,
+     "explain": "She says: No, I can't."
+    },
+    {
+     "id": "L3",
+     "type": "gap",
+     "prompt": "Dan is the lead ___ of a rock band.",
+     "answers": [
+      "singer"
+     ],
+     "explain": "I'm the lead singer."
+    },
+    {
+     "id": "L4",
+     "type": "choice",
+     "prompt": "When is the concert?",
+     "options": [
+      "On Friday",
+      "On Saturday",
+      "On Sunday"
+     ],
+     "answer": 1,
+     "explain": "We have a concert on Saturday."
+    },
+    {
+     "id": "L5",
+     "type": "choice",
+     "prompt": "Who prefers classical music in Dan's family?",
+     "options": [
+      "His brothers",
+      "His mother",
+      "Everybody"
+     ],
+     "answer": 1,
+     "explain": "Everybody likes music, except his mother, who prefers classical."
+    }
+   ],
+   "dictation": [
+    {
+     "id": "LD1",
+     "type": "dictation",
+     "text": "I'd really like to hear you sometime.",
+     "answers": [
+      "I'd really like to hear you sometime."
+     ],
+     "explain": "I'd like + to + verb; hear you = object pronoun."
+    },
+    {
+     "id": "LD2",
+     "type": "dictation",
+     "text": "Nobody in my family likes classical music.",
+     "answers": [
+      "Nobody in my family likes classical music."
+     ],
+     "explain": "Nobody + verb with -s."
+    },
+    {
+     "id": "LD3",
+     "type": "dictation",
+     "text": "I'm not very good with computers.",
+     "answers": [
+      "I'm not very good with computers."
+     ],
+     "explain": "Good with = skilled at."
+    },
+    {
+     "id": "LD4",
+     "type": "dictation",
+     "text": "Come and listen to us!",
+     "answers": [
+      "Come and listen to us!"
+     ],
+     "explain": "After a preposition: us."
+    }
+   ]
+  },
+  "speaking": {
+   "tasks": [
+    {
+     "id": "S1",
+     "prompt": "Talk about your hobbies: what you do, what you are good at, and what you would like to learn.",
+     "questions": [
+      "What are you into?",
+      "Are you good at it?",
+      "What do you enjoy doing in your free time?",
+      "What would you like to learn?"
+     ],
+     "model": "I'm really into cooking. I'm good at making Mexican food, but I'm not good at baking. I enjoy cooking for my friends, and I also like watching movies. I'd like to learn to play the guitar.",
+     "checklist": [
+      "enjoy / like + verb + -ing",
+      "I'm (not) good at + -ing",
+      "I'd like to + base verb",
+      "Really and also used correctly"
+     ]
+    },
+    {
+     "id": "S2",
+     "prompt": "Talk about music: what you like, what your family thinks, and who you are a fan of.",
+     "questions": [
+      "What kind of music do you like?",
+      "Does everybody in your family like it?",
+      "Who is your favorite singer or band?",
+      "Do you listen to him, her, or them a lot?"
+     ],
+     "model": "I like pop and Latin music. Everybody in my family likes pop, but nobody likes rap. My favorite singer is Shakira. I listen to her all the time. I love her songs.",
+     "checklist": [
+      "Everybody / nobody + verb with -s",
+      "Object pronouns (her, him, them, it)",
+      "Kinds of music",
+      "Complete sentences with a subject"
+     ]
+    },
+    {
+     "id": "S3",
+     "prompt": "Practice saying no politely using not really and really.",
+     "questions": [
+      "Do you play any sports?",
+      "Can you cook?",
+      "Do you like going to the gym?",
+      "Are you good at drawing?"
+     ],
+     "model": "Not really, but I like swimming. Not really. I can cook rice and eggs, but I'm not really good at it. Well, no. I don't really like working out. Not really. I'm not very artistic.",
+     "checklist": [
+      "Not really / Well, no to soften the answer",
+      "An alternative or a reason after the no",
+      "Really en negativas: I don't really...",
+      "Short, natural sentences"
+     ]
+    }
+   ],
+   "repeat": [
+    "Can you play a musical instrument?",
+    "I really love riding my horse.",
+    "I'd like to play at the talent show.",
+    "Everybody in my family likes pop.",
+    "Not really. I'm not into sports.",
+    "Come and listen to us!"
+   ]
+  }
+ }
+}
