@@ -878,6 +878,14 @@ function mergeIncoming(inc){
     touch(k); }
   return n;
 }
+function difficultyCard(){
+  const opts=[["normal","Normal","Choose from options and tap word tiles."],["smart","Smart","First time as normal. When you already got it right, you write the answer yourself."],["hard","Hard","Always write the answer yourself: no options, no word tiles, flashcards typed."]];
+  const box=h("div",{class:"list"});
+  const draw=()=>box.replaceChildren(...opts.map(([id,t,d])=>h("button",{class:"row",type:"button","aria-pressed":String(diff()===id),onclick:()=>{ setDiff(id); draw(); }},
+    h("span",{class:"badge-n",style:"font-size:13px"}, diff()===id? "✓":""), h("div",{class:"grow"}, h("div",{class:"t"},t+(id==="smart"?" (recommended)":"")), h("div",{class:"d"},d)))));
+  draw();
+  return h("section",{}, h("h2",{class:"section-h"},"Difficulty"), box, h("p",{class:"tiny muted",style:"padding:6px 16px 0"},"Writing the answer from memory is harder than choosing it, and it helps you remember for longer."));
+}
 function transferCard(){
   const msg=h("p",{class:"tiny muted"}), out=h("textarea",{class:"field",rows:"3",readonly:"",style:"display:none","aria-label":"Your progress code"});
   const inp=h("textarea",{class:"field",rows:"3",autocomplete:"off",autocorrect:"off",spellcheck:"false",placeholder:"Paste a progress code here…","aria-label":"Paste a progress code"});
@@ -889,11 +897,12 @@ function transferCard(){
 }
 function renderProgress(){
   const A=analysis(), v=frame("Progress",{sub:"Based on what you practice in the app"});
-  if (!A.answered){ v.append(h("section",{class:"card"}, h("p",{},"No data yet. Practice a few units and you'll see here what you've mastered and what needs work.")), transferCard()); return; }
+  if (!A.answered){ v.append(h("section",{class:"card"}, h("p",{},"No data yet. Practice a few units and you'll see here what you've mastered and what needs work.")), difficultyCard(), transferCard()); return; }
   const acc=A.answered? A.correct/A.answered:0;
   v.append(h("section",{class:"card"}, h("div",{class:"today"}, h("div",{class:"ring"}, ring(acc), h("div",{class:"lbl"}, h("div",{},`${Math.round(acc*100)}%`, h("small",{},"correct")))),
     h("div",{class:"stats"}, h("div",{class:"stat"}, h("b",{},A.answered)," answers"), h("div",{class:"stat"}, h("b",{},A.mastered)," exercises mastered"),
       h("div",{class:"stat"}, svg(IC.flame,"svg"), h("b",{},streak())," day streak")))));
+  v.append(difficultyCard());
   v.append(h("section",{}, h("h2",{class:"section-h"},"By skill"), h("div",{class:"list plain"},
     ...Object.entries(A.skills).map(([k,s])=>{ const p=s.n? s.k/s.n:0; return h("div",{class:"row"}, h("div",{class:"grow"}, h("div",{class:"t"},k), h("div",{class:"d"},`${s.items} exercises · ${Math.round(p*100)}% correct`)),
       h("div",{class:"mini-ring"}, ring(p,30,4,p>=.8?"var(--ok)":p>=.6?"var(--accent)":"var(--bad)"))); }))));
@@ -1170,10 +1179,32 @@ function sessionShell(){
   requestAnimationFrame(()=>requestAnimationFrame(()=>{ bar.style.width=s._pct+"%"; }));
   return {body, foot, footer};
 }
+/* ===== Dificultad (sin tokens): pasar de reconocer a recordar =====
+   normal = como siempre · smart = la 1.ª vez normal; si ya lo acertaste, lo escribes tú · hard = siempre escribes */
+const DIFF_KEY="ingles-desde-cero-diff";
+function diff(){ try{ return localStorage.getItem(DIFF_KEY)||"smart"; }catch{ return "smart"; } }
+function setDiff(d){ try{ localStorage.setItem(DIFF_KEY,d); }catch{} }
+const FIXED_OPTS=/^(true|false|both|neither|all of|none of|a and b|yes|no)\b/i;
+function wantsHard(e){ const d=diff(); if(d==="hard") return true; if(d!=="smart") return false; const r=rec(e.level,e.key); return !!(r&&r.r===1); }
+function harden(it){
+  if (it.type==="choice"){
+    const ok=String(it.options[it.answer]||"").trim();
+    if (!it.audio && /_{2,}/.test(it.prompt) && !it.options.some(o=>FIXED_OPTS.test(String(o).trim()))
+        && /^[A-Za-z][A-Za-z' -]*$/.test(ok) && ok.split(/\s+/).length<=4 && !/^(nothing|no article|none)$/i.test(ok))
+      return {...it, type:"gap", answers:[ok], prompt:`${it.prompt} (starts with “${ok[0]}”)`, hard:true};
+    return it;
+  }
+  if (it.type==="order" || it.type==="flash") return {...it, typed:true, hard:true};
+  return it;
+}
+function flashAnswers(en){ const base=String(en).replace(/\([^()]*\)/g," ").trim(); return [...new Set([base, ...base.split(/\s*[\/,;]\s*/)].map(x=>x.trim()).filter(Boolean))]; }
 function drawItem(){
   const s=S.session; if(!s) return;
   if (s.i>=s.entries.length) return drawSummary();
-  const e=s.entries[s.i], it=e.item, {body,foot,footer}=sessionShell();
+  const e=s.entries[s.i], {body,foot,footer}=sessionShell();
+  if (!s.hard) s.hard={};
+  if (!(s.i in s.hard)) s.hard[s.i]=wantsHard(e);   // se decide una vez por ejercicio (antes de calificarlo)
+  const it = s.hard[s.i]? harden(e.item) : e.item;
   body.append(h("div",{class:"where"},e.where));
   if (e.ctx&&e.ctx.reading){ const R=e.ctx.reading;
     body.append(h("details",{class:"ctx",open:s.i===0||null}, h("summary",{},"Show the text"), h("div",{class:"reading"}, ...R.paragraphs.map(p=>h("p",{},p))))); }
@@ -1184,6 +1215,24 @@ function drawItem(){
   const task=h("div",{class:"task"});
   let getAnswer=()=> "", focusEl=null, onReady=()=>{};
 
+  if (it.type==="flash" && it.typed){
+    const ans=flashAnswers(it.en), first=(ans[0]||"?")[0];
+    body.append(h("div",{class:"q-instr"},"Write it in English"), task);
+    const inp=h("input",{class:"field",id:"ans",autocomplete:"off",autocapitalize:"off",autocorrect:"off",spellcheck:"false","aria-label":"Answer",enterkeyhint:"done",placeholder:`Starts with “${first}”…`});
+    task.append(h("div",{class:"flash"}, h("div",{class:"es"},it.es)), inp);
+    const btn=h("button",{class:"btn primary",disabled:true,onclick:()=>done()},"Check");
+    inp.addEventListener("input",()=>btn.disabled=inp.value.trim()==="");
+    inp.addEventListener("keydown",ev=>{ if(ev.key==="Enter"&&inp.value.trim()){ ev.preventDefault(); done(); } });
+    foot.append(btn);
+    function done(){ const g=grade({type:"gap",answers:ans},inp.value); inp.readOnly=true;
+      record(e.level,e.key,g.ok,true,inp.value); s.results[s.i]=g.ok; tone(g.ok?"ok":"bad"); speak(it.en);
+      task.append(h("div",{class:"flash"}, h("div",{class:"en"},it.en), it.ipa? h("div",{class:"muted"},it.ipa):null, spk(it.en), it.example? h("p",{class:"muted small"},it.example):null));
+      footer.classList.add("sheet", g.ok?"ok":"bad");
+      foot.replaceChildren(h("div",{class:"ttl fb-pop"}, svg(g.ok?IC.check:IC.cross), g.ok?"Correct!": g.close?"Almost: check the spelling":"Not quite"),
+        h("button",{class:"btn "+(g.ok?"okb":"badb"),onclick:()=>{s.i++;drawItem();}}, s.i+1<s.entries.length?"Continue":"See results"),
+        !g.ok? h("button",{class:"btn",style:"min-height:40px;font-size:15px",onclick:()=>{ const r=rec(e.level,e.key); if(r){ r.f=Math.max(0,(r.f||1)-1); } record(e.level,e.key,true,false); s.results[s.i]=true; s.i++; drawItem(); }},"My answer is also correct"):null); }
+    return;
+  }
   if (it.type==="flash"){
     body.append(h("div",{class:"q-instr"},"How do you say it in English?"), task);
     task.append(h("div",{class:"flash"}, h("div",{class:"es"},it.es)));
@@ -1199,7 +1248,7 @@ function drawItem(){
     return;
   }
 
-  const instr = it.type==="fix"? "Fix the sentence" : it.type==="translate"? "Write it in English" : it.type==="order"? "Put the words in order" : it.type==="dictation"? "Listen and write what you hear" : (e.instructions||(e.ctx?"Answer":"Complete"));
+  const instr = it.hard && it.type==="gap"? "Complete it yourself (no options)" : it.type==="fix"? "Fix the sentence" : it.type==="translate"? "Write it in English" : it.type==="order"? (it.typed? "Write the sentence with these words" : "Put the words in order") : it.type==="dictation"? "Listen and write what you hear" : (e.instructions||(e.ctx?"Answer":"Complete"));
   body.append(h("div",{class:"q-instr"},instr), task);
   const checkBtns = h("div",{class:"btns"},
     h("button",{class:"btn",disabled:true,onclick:()=>check(false)},"Not sure"),
@@ -1221,6 +1270,12 @@ function drawItem(){
     const order = fixedOrder? it.options.map((_,k)=>k) : shuffle(it.options.map((_,k)=>k));
     const opts=h("div",{class:"opts"}, ...order.map(k=>[it.options[k],k]).map(([o,k])=>h("button",{class:"opt",type:"button","aria-pressed":"false",onclick:(ev)=>{ sel=k; opts.querySelectorAll(".opt").forEach(b=>b.setAttribute("aria-pressed","false")); ev.currentTarget.setAttribute("aria-pressed","true"); setReady(true); }},o)));
     body.append(opts); getAnswer=()=>sel;
+  } else if (it.type==="order" && it.typed){
+    if (it.prompt && !/^(ordena|put the words|order)/i.test(it.prompt)) task.append(h("p",{class:"small muted"},it.prompt));
+    task.append(h("p",{class:"prompt",style:"font-weight:600"}, shuffle(it.words).join("  ·  ")));
+    const inp=h("textarea",{class:"field",id:"ans",rows:"2",autocomplete:"off",autocorrect:"off",spellcheck:"false","aria-label":"Your sentence",placeholder:"Write the whole sentence…",enterkeyhint:"done"});
+    task.append(inp); getAnswer=()=>inp.value; focusEl=inp;
+    inp.addEventListener("input",()=>setReady(inp.value.trim()!==""));
   } else if (it.type==="order"){
     const line=h("div",{class:"chips answer-line","aria-label":"Your sentence"}), pool=h("div",{class:"chips"});
     const bag=shuffle(it.words), picked=[];
@@ -1260,7 +1315,7 @@ function drawItem(){
     const others = g.ok && it.answers && it.answers.length>1 ? it.answers.filter(a=>norm(a)!==norm(ans)).slice(0,2) : [];
     const cont=h("button",{class:"btn "+(g.ok?"okb":"badb"),onclick:()=>{s.i++;drawItem();}}, s.i+1<s.entries.length?"Continue":"See results");
     // En traducción, corrección y dictado puede haber respuestas válidas que no están en la lista.
-    const override = (!g.ok && ["translate","fix","dictation"].includes(it.type))
+    const override = (!g.ok && (it.hard || ["translate","fix","dictation"].includes(it.type)))
       ? h("button",{class:"btn",style:"min-height:40px;font-size:15px",onclick:()=>{ const r=rec(e.level,e.key); if(r){ r.f=Math.max(0,(r.f||1)-1); } record(e.level,e.key,true,false); s.results[s.i]=true; s.i++; drawItem(); }},"My answer is also correct") : null;
     footer.classList.add("sheet", g.ok?"ok":"bad");
     foot.replaceChildren(
