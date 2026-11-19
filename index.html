@@ -506,12 +506,13 @@ function render(){
   stopSpeaking();
   const r=(location.hash||"#inicio").slice(1);
   const sm0=r.match(/^(.+)-(leer|escuchar|escribir|hablar)$/), sm = sm0 && S.units[sm0[1]] ? sm0 : null;
-  const navKey = (S.units[r]||sm||homeRoute(r))? "inicio" : /^(lectura-|lib-|pron|ext-|exs-)/.test(r)? "recursos" : r;
+  const navKey = (S.units[r]||sm||homeRoute(r))? "inicio" : /^(lectura-|lecturas-|lib-|pron|ext-|exs-)/.test(r)? "recursos" : r;
   document.querySelectorAll(".tabbar a").forEach(a=>a.toggleAttribute("aria-current",false));
   const cur=document.querySelector(`.tabbar a[data-r="${navKey}"]`); if(cur) cur.setAttribute("aria-current","page");
   const n=dueEntries().length, dot=$("#dueDot"); dot.hidden=!n; dot.textContent=n>99?"99+":n;
   if (S.units[r]) return renderUnit(S.units[r]);
   if (sm && S.units[sm[1]]) return renderSkill(S.units[sm[1]], sm[2]);
+  const lv=r.match(/^lecturas-([abc][12])$/); if (lv) return renderLecturasLevel(lv[1].toUpperCase());
   const lm=r.match(/^lectura-(.+)$/); if (lm){ const p=lecturaParts().find(x=>x.id===lm[1]); if(p) return renderLectura(p); }
   if (r==="repaso") return renderReview();
   if (r==="progreso") return renderProgress();
@@ -970,8 +971,15 @@ function renderReview(){
 }
 
 /* ================= Recursos ================= */
+function renderLecturasLevel(L){
+  const cols=(S.lecturas?.collections||[]).filter(c=>c.level===L);
+  const v=frame(`${L} readings`,{back:"recursos",backLabel:"Library",sub:"Stories, articles and everyday texts"});
+  for (const c of cols) v.append(h("section",{}, h("h2",{class:"section-h"},c.title), h("div",{class:"list"},
+    ...c.parts.map(p=>{ const e=lecturaEntries({...p,_col:c}), d=doneOf(e); return h("button",{class:"row",type:"button",onclick:()=>go(`lectura-${p.id}`)},
+      h("span",{class:"badge-n"},svg(IC.read)), h("div",{class:"grow"},h("div",{class:"t"},p.title),h("div",{class:"d"},`${d}/${e.length} questions`)), svg(IC.chev,"chev")); }))));
+}
 function renderLectura(p){
-  const v=frame(p.title,{back:"recursos",backLabel:"Library",sub:`${p._col.title} · ${p._col.author} · ${p._col.level}`});
+  const v=frame(p.title,{back:`lecturas-${String(p._col.level).toLowerCase()}`,backLabel:`${p._col.level} readings`,sub:`${p._col.title} · ${p._col.author} · ${p._col.level}`});
   const all=p.paragraphs.join(" ")+(p.moral? " "+p.moral:"");
   v.append(h("section",{class:"card"}, p.intro? h("p",{class:"small muted"},p.intro):null,
     h("div",{class:"reading"}, ...p.paragraphs.map(x=>h("p",{},x)), p.moral? h("p",{style:"font-style:italic"},p.moral):null),
@@ -989,6 +997,11 @@ function vocabEntries(lvl, d){ return (d?.words||[]).map(w=>({level:"lib-"+lvl,k
 function oracionEntries(lvl, d, kind){ return (d?.pairs||[]).map(p=>{ const ans=[p.en,...(p.alts||[])];
   return kind==="d"? {level:"lib-"+lvl,key:`ora:${p.id}:d`,where:`Dictation ${LVNAME[lvl]}`,item:{id:p.id,type:"dictation",text:p.en,answers:ans,explain:p.es}}
     : {level:"lib-"+lvl,key:`ora:${p.id}:t`,where:`Sentences ${LVNAME[lvl]}`,item:{id:p.id,type:"translate",prompt:p.es,answers:ans,explain:""}}; }); }
+function vocabMeaning(lvl, d){ const ws=(d?.words||[]).filter(w=>w.es);
+  return ws.map((w,i)=>{ const pool=ws.filter(x=>x!==w && x.es!==w.es && (!w.pos||x.pos===w.pos)); const src=pool.length>=3? pool : ws.filter(x=>x!==w && x.es!==w.es);
+    const dis=[], n=src.length; for(let t=0, k=(i*7919)%Math.max(1,n); t<n && dis.length<3; t++, k=(k+97)%n){ const x=src[k].es; if(!dis.includes(x)&&x!==w.es) dis.push(x); }
+    return {level:"lib-"+lvl,key:`voc:${w.id}:m`,where:`Vocabulary ${LVNAME[lvl]} · meaning`,
+      item:{type:"choice",prompt:`What does “${w.en}” mean?`,options:[w.es,...dis],answer:0,explain:w.ex_en? `${w.en}: ${w.ex_en}`:`${w.en} = ${w.es}`}}; }); }
 const dueOf=ents=>ents.filter(e=>{const r=rec(e.level,e.key); return r&&r.d<=Date.now();});
 const newOf=ents=>ents.filter(e=>!rec(e.level,e.key));
 async function renderLib(kind, lvl){
@@ -997,9 +1010,10 @@ async function renderLib(kind, lvl){
   if(!d){ sub.textContent="Not available yet."; return; }
   const back=()=>go(`lib-${kind}-${lvl}`);
   if (kind==="vocab"){
-    const ents=vocabEntries(lvl,d), due=dueOf(ents), nw=newOf(ents);
-    sub.textContent=`${ents.length} words · ${ents.length-nw.length} seen · ${due.length} to review`;
+    const ents=vocabEntries(lvl,d), M=vocabMeaning(lvl,d), due=dueOf([...ents,...M]), nw=newOf(ents), nm=newOf(M);
+    sub.textContent=`${ents.length} words · ${ents.length+M.length} exercises · ${doneOf([...ents,...M])} correct · ${due.length} to review`;
     v.append(h("div",{class:"list"},
+      M.length? h("button",{class:"row",type:"button",onclick:()=>startSession(`Meaning quiz ${LVNAME[lvl]}`, (nm.length? nm : shuffle(M)).slice(0,15), back)}, h("span",{class:"badge-n"},"?"), h("div",{class:"grow"},h("div",{class:"t"},"Meaning quiz: 15 words"),h("div",{class:"d"},`What does it mean? · ${M.length-nm.length}/${M.length} done`)), svg(IC.chev,"chev")):null,
       nw.length? h("button",{class:"row",type:"button",onclick:()=>startSession(`New words ${LVNAME[lvl]}`, nw.slice(0,15), back)}, h("span",{class:"badge-n"},"+"), h("div",{class:"grow"},h("div",{class:"t"},"Learn 15 new words"),h("div",{class:"d"},"In order of usefulness")), svg(IC.chev,"chev")):null,
       due.length? h("button",{class:"row",type:"button",onclick:()=>startSession(`Vocabulary review ${LVNAME[lvl]}`, shuffle(due).slice(0,20), back)}, h("span",{class:"badge-n"},"↻"), h("div",{class:"grow"},h("div",{class:"t"},`Review ${Math.min(20,due.length)} words`),h("div",{class:"d"},`${due.length} due`)), svg(IC.chev,"chev")):null));
     const q=h("input",{class:"field",placeholder:"Search words…","aria-label":"Search words"}); const list=h("div",{class:"list plain"});
@@ -1025,14 +1039,23 @@ async function renderPron(){
     h("span",{class:"badge-n",style:"font-size:13px"},c.sounds?.[0]||"/"), h("div",{class:"grow"},h("div",{class:"t"},c.title),h("div",{class:"d"},`${(c.sounds||[]).join(" vs ")} · ${doneOf(ents)}/${ents.length}`)), svg(IC.chev,"chev")); })),
     h("p",{class:"tiny muted",style:"text-align:center"},d.attribution||""));
 }
-function pronEntries(c){ return (c.pairs||[]).map((p,i)=>{ const k=Math.random()<.5?0:1; return {level:"lib-pron",key:`pron:${c.id}:${p.a}-${p.b}`,where:c.title,
-  item:{id:`${c.id}-${i}`,type:"choice",prompt:"Which word did you hear?",options:[p.a,p.b],answer:k,audio:k?p.b:p.a,explain:`${p.a} ${p.ipa_a||""} · ${p.b} ${p.ipa_b||""}`}}; }); }
+function pronEntries(c, kind){ const S2=c.sounds||[];
+  return (c.pairs||[]).flatMap((p,i)=>{ const k=Math.random()<.5?0:1, w=k?p.b:p.a, ex=`${p.a} ${p.ipa_a||""} · ${p.b} ${p.ipa_b||""}`, out=[];
+    if(!kind||kind==="hear") out.push({level:"lib-pron",key:`pron:${c.id}:${p.a}-${p.b}`,where:c.title,
+      item:{id:`${c.id}-${i}`,type:"choice",prompt:"Which word did you hear?",options:[p.a,p.b],answer:k,audio:w,explain:ex}});
+    if(!kind||kind==="write") out.push({level:"lib-pron",key:`pron:${c.id}:${p.a}-${p.b}:w`,where:c.title,
+      item:{id:`${c.id}-${i}-w`,type:"dictation",text:w,answers:[w],explain:ex}});
+    if((!kind||kind==="sound") && S2.length===2) out.push({level:"lib-pron",key:`pron:${c.id}:${p.a}-${p.b}:s`,where:c.title,
+      item:{id:`${c.id}-${i}-s`,type:"choice",prompt:`Which word has the sound ${S2[k]}?`,options:[p.a,p.b],answer:k,explain:ex}});
+    return out; }); }
 async function renderPronContrast(id){
   const d=await lib("pronunciacion.json"); const c=d?.contrasts.find(x=>x.id===id);
   const v=frame(c?c.title:"Pronunciation",{back:"pronunciacion",backLabel:"Sounds",sub:c?(c.sounds||[]).join(" vs "):""});
   if(!c) return;
   v.append(h("section",{class:"card"}, h("p",{},c.tip)),
-    h("button",{class:"btn primary",onclick:()=>startSession(`Which did you hear? · ${c.title}`, shuffle(pronEntries(c)).slice(0,12), ()=>go(`pron-${id}`))},"Game: which did you hear?"),
+    h("div",{class:"list"}, ...[["hear","Which word did you hear?","Listen and choose"],["write","Listen and write","Type the word you hear"],["sound","Which word has the sound?","Match the spelling to the sound"]].map(([k,t,dsc])=>{ const ents=pronEntries(c,k);
+      return h("button",{class:"row",type:"button",onclick:()=>startSession(`${t} · ${c.title}`, [...shuffle(newOf(ents)),...shuffle(ents.filter(e=>rec(e.level,e.key)))].slice(0,12), ()=>go(`pron-${id}`))},
+        h("span",{class:"badge-n"},k==="hear"?svg(IC.ear):k==="write"?"✎":"/"), h("div",{class:"grow"},h("div",{class:"t"},t),h("div",{class:"d"},`${dsc} · ${doneOf(ents)}/${ents.length}`)), svg(IC.chev,"chev")); })),
     h("section",{}, h("h2",{class:"section-h"},"Listen and compare"), h("div",{class:"list plain"}, ...c.pairs.map(p=>h("div",{class:"row"},
       spk(p.a), h("div",{class:"grow"}, h("strong",{},p.a), h("div",{class:"tiny muted"},p.ipa_a||"")), h("div",{class:"grow",style:"text-align:right"}, h("strong",{},p.b), h("div",{class:"tiny muted"},p.ipa_b||"")), spk(p.b))))));
 }
@@ -1128,11 +1151,11 @@ function renderResources(){
   v.append(h("section",{}, h("h2",{class:"section-h"},"For all levels"), h("div",{class:"list"},
     h("button",{class:"row",type:"button",onclick:()=>go("pronunciacion")}, h("span",{class:"badge-n"},svg(IC.ear)), h("div",{class:"grow"},h("div",{class:"t"},"Pronunciation"),h("div",{class:"d"},"Tricky sound pairs: ship / sheep, very / berry…")), svg(IC.chev,"chev")),
     h("button",{class:"row",type:"button",onclick:()=>go("temario")}, h("span",{class:"badge-n"},svg(IC.read)), h("div",{class:"grow"},h("div",{class:"t"},"Grammar syllabus"),h("div",{class:"d"},"What you learn at each level")), svg(IC.chev,"chev")))));
-  for (const c of S.lecturas?.collections||[]){
-    v.append(h("section",{}, h("h2",{class:"section-h"},`Readings · ${c.title} (${c.level})`), h("div",{class:"list"},
-      ...c.parts.map(p=>{ const e=lecturaEntries({...p,_col:c}), d=doneOf(e); return h("button",{class:"row",type:"button",onclick:()=>go(`lectura-${p.id}`)},
-        h("span",{class:"badge-n"},svg(IC.read)), h("div",{class:"grow"},h("div",{class:"t"},p.title),h("div",{class:"d"},`${d}/${e.length} questions`)), svg(IC.chev,"chev")); }))));
-  }
+  const cols=S.lecturas?.collections||[];
+  if (cols.length){ const lvls=[...new Set(cols.map(c=>c.level))].sort();
+    v.append(h("section",{}, h("h2",{class:"section-h"},"Readings"), h("div",{class:"list"}, ...lvls.map(L=>{ const cs=cols.filter(c=>c.level===L), e=cs.flatMap(c=>c.parts.flatMap(p=>lecturaEntries({...p,_col:c})));
+      return h("button",{class:"row",type:"button",onclick:()=>go(`lecturas-${L.toLowerCase()}`)}, h("span",{class:"badge-n",style:"font-size:13px"},L),
+        h("div",{class:"grow"},h("div",{class:"t"},`${L} readings`),h("div",{class:"d"},`${cs.reduce((n,c)=>n+c.parts.length,0)} texts · ${doneOf(e)}/${e.length} questions`)), svg(IC.chev,"chev")); })))); }
   const R=S.recursos; if(!R) return;
   v.append(h("h2",{class:"large",style:"font-size:24px;margin-top:8px"},"Outside the app"));
   v.append(h("p",{class:"small muted",style:"padding:0 4px"},R.note));
