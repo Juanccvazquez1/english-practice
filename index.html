@@ -655,7 +655,7 @@ function wordDiff(target, said){
   return tw.map(w=>({w, ok:sw.has(w)}));
 }
 function renderSpeaking(u,v){
-  const SP=u.skills?.speaking; if(!SP){ v.append(h("p",{class:"muted"},"This unit has no speaking practice yet.")); return; }
+  const SP=u.skills?.speaking; if(!SP){ v.append(h("p",{class:"muted"},"This unit has no speaking practice yet."), talkCard(unitTalk(u))); return; }
   v.append(h("p",{class:"small muted",style:"padding:0 4px"}, MIC_HINT+" Then check your answer and compare it with the model."));
   for (const t of SP.tasks||[]){
     const c=writingCard(u,t,{spoken:true});
@@ -677,6 +677,7 @@ function renderSpeaking(u,v){
     });
     v.append(h("section",{}, h("h2",{class:"section-h"},"Listen and repeat"), list));
   }
+  v.append(talkCard(unitTalk(u)));
 }
 const KIND={grammar:"Grammar",vocab:"Vocabulary",expressions:"Expressions",strategy:"Strategy"};
 function unitLearn(u,v){
@@ -896,6 +897,60 @@ function transferCard(){
     h("p",{class:"small"}, OFFLINE_BUILD? "This is the offline app: your progress is saved on this device. To join it with the app inside Claude, copy your code here and paste it there (or the other way around)." : "Use this to join your progress with the offline app: copy your code here and paste it there (or the other way around). Both apps keep everything; nothing is deleted."),
     copy, out, inp, add, msg));
 }
+/* ===== Talk with Claude: conversación real en el chat de Claude (la app no gasta tokens; arma un prompt corto) ===== */
+const TALK_KEY="ingles-desde-cero-talk", TALK_LEN={short:6,normal:10,long:16};
+function talkPref(){ try{ return {len:"short",fb:"end",...JSON.parse(localStorage.getItem(TALK_KEY)||"{}")}; }catch{ return {len:"short",fb:"end"}; } }
+function setTalkPref(p){ try{ localStorage.setItem(TALK_KEY,JSON.stringify(p)); }catch{} }
+function rightAnswer(it){ const ok= it.type==="choice"? it.options[it.answer] : (it.answers||[it.en||it.text])[0]; return ok? String(ok).replace(/\s*\([^()]*\)\s*$/,"") : ""; }
+function mistakesOf(ents,max=4){
+  const out=[];
+  for (const e of ents){ const r=rec(e.level,e.key); if(!r||!r.w||!(r.r===0||r.f)) continue;
+    const ok=rightAnswer(e.item); if(!ok || norm(ok)===norm(r.w)) continue;
+    const pr=String(e.item.prompt||"").replace(/\s*\([^()]*\)\s*$/,"").trim(), fill=x=>pr.replace("___",x);
+    out.push(pr.includes("___")? `"${fill(r.w)}" → "${fill(ok)}"` : `"${r.w}" → "${ok}"`); if(out.length>=max) break; }
+  return out;
+}
+function talkPrompt(c,p){
+  const n=TALK_LEN[p.len]||6, L=c.level;
+  return [
+    "Let's practice speaking English in a voice chat. Be my friendly conversation partner.",
+    L? `My level: ${L} (I speak Spanish). Use simple ${L} English.` : "I speak Spanish. Use clear, simple English.",
+    `Topic: ${c.topic}.` + (c.focus? ` Make me use: ${c.focus}.` : ""),
+    c.words&&c.words.length? `Bring in some of these words: ${c.words.slice(0,8).join(", ")}.` : null,
+    c.mistakes&&c.mistakes.length? `My recent mistakes, watch for them: ${c.mistakes.join("; ")}.` : null,
+    "Rules: English only. Reply in 1-2 short sentences and end with ONE question. No lists, no long explanations.",
+    p.fb==="turn"? "If I make a mistake, first say the correct sentence in a few words, then continue." : "Don't correct me during the chat; just remember my mistakes.",
+    `After my answer number ${n} (or if I say "stop"), end with my 3 most important mistakes corrected and 1 tip. Keep it short.`,
+    "Start now: a short greeting and your first question."
+  ].filter(Boolean).join("\n");
+}
+function talkCard(c){
+  const p=talkPref(), msg=h("p",{class:"tiny muted"});
+  const out=h("textarea",{class:"field",rows:"7",readonly:"",style:"display:none","aria-label":"Conversation prompt"});
+  const seg=(key,opts)=>{ const box=h("div",{class:"seg",role:"radiogroup",style:`grid-template-columns:repeat(${opts.length},1fr)`});
+    const draw=()=>box.replaceChildren(...opts.map(([id,t])=>h("button",{type:"button",role:"radio","aria-checked":String(p[key]===id),"aria-selected":String(p[key]===id),onclick:()=>{ p[key]=id; setTalkPref(p); draw(); out.style.display="none"; msg.textContent=""; }},t)));
+    draw(); return box; };
+  const copy=h("button",{class:"btn primary",type:"button",onclick:async()=>{ const t=talkPrompt(c,p); out.value=t;
+    try{ await navigator.clipboard.writeText(t); out.style.display="none"; msg.textContent="Copied! Open a NEW chat in Claude, paste it, send it, and talk with the voice button."; }
+    catch{ out.style.display=""; out.select(); msg.textContent="Select all the text in the box and copy it. Then open a new chat in Claude and paste it."; } }},"Copy conversation prompt");
+  return h("section",{}, h("h2",{class:"section-h"},"Talk with Claude"), h("div",{class:"card"},
+    h("p",{class:"small"},"A real conversation about this topic in the Claude app, with your voice. This app uses no tokens, but the chat in Claude uses your Claude plan."),
+    h("div",{class:"tiny muted"},"How long? (number of your answers)"), seg("len",[["short",`Short · ${TALK_LEN.short}`],["normal",`Normal · ${TALK_LEN.normal}`],["long",`Long · ${TALK_LEN.long}`]]),
+    h("div",{class:"tiny muted"},"Corrections"), seg("fb",[["end","At the end (uses less)"],["turn","After each answer"]]),
+    copy, out, msg,
+    h("details",{class:"learn"}, h("summary",{}, h("span",{class:"grow"},"Use less of your Claude plan"), svg(IC.chev,"chev")),
+      h("div",{class:"learn-body"}, h("ul",{style:"margin:0;padding-left:1.2rem"},
+        ...["Always start a NEW chat. A long chat uses more with every message.",
+            "Short sessions and corrections at the end use the least.",
+            "If you can choose the model, a lighter one is enough for conversation.",
+            "Don't ask for files, pages or web searches in that chat.",
+            "Daily practice: use the Speak exercises here. They use nothing."].map(s=>h("li",{class:"small"},s)))))));
+}
+function unitTalk(u){
+  const g=(u.learn||[]).filter(l=>l.kind==="grammar").map(l=>l.title).slice(0,3);
+  const w=shuffle((u.learn||[]).flatMap(l=>(l.words||[]).map(x=>x.en))).slice(0,8);
+  return {level:u.level, topic:u.title, focus:g.join("; "), words:w, mistakes:mistakesOf(allEntries().filter(e=>String(e.key).startsWith(u.id+":")))};
+}
 function renderProgress(){
   const A=analysis(), v=frame("Progress",{sub:"Based on what you practice in the app"});
   if (!A.answered){ v.append(h("section",{class:"card"}, h("p",{},"No data yet. Practice a few units and you'll see here what you've mastered and what needs work.")), difficultyCard(), transferCard()); return; }
@@ -911,6 +966,8 @@ function renderProgress(){
     A.weak.length? h("div",{class:"list"}, ...A.weak.slice(0,6).map(t=>h("button",{class:"row",type:"button",onclick:()=>startSession(`Practice · ${t.title}`, weakSession(t), ()=>go("progreso"))},
       h("div",{class:"grow"}, h("div",{class:"t"},t.title), h("div",{class:"d"},`${t.wrongNow} unresolved · ${t.f} mistakes in total`)), h("span",{class:"pill acc"},"Practice"))))
     : h("div",{class:"card"}, h("p",{class:"small"},"No weak topics for now. Keep it up!"))));
+  if (A.weak.length){ const W=A.weak.slice(0,3);
+    v.append(talkCard({level:null, topic:"everyday life (you choose the situation)", focus:W.map(t=>t.title.split(" · ").pop()).join("; "), mistakes:mistakesOf(W.flatMap(t=>t.entries))})); }
   // Análisis personal local (sin tokens)
   v.append(h("section",{}, h("h2",{class:"section-h"},"Personal analysis"), h("div",{class:"card"},
     h("p",{class:"small muted"},"Made from your answers and your texts in this app. It updates every time you practice."), analysisView(localAnalysis(A)))));
@@ -1133,6 +1190,8 @@ function renderPackSet(pk,st){
   if (st.learn&&st.learn.length) v.append(h("section",{}, h("h2",{class:"section-h"}, pk.id==="falsefriends"?"Don't be fooled":"Learn"),
     h("div",{class:"card"}, ...st.learn.map(w=>h("div",{class:"word"}, spk(w.en,st.lang), h("div",{class:"grow"}, h("strong",{},w.en), w.es? h("span",{class:"muted"}," · "+w.es):null,
       w.def? h("div",{class:"tiny muted"},w.def):null, w.example? h("div",{class:"tiny"},w.example):null))))));
+  if (!st.lines && pk.id!=="accents") v.append(talkCard({level:st.level, topic: pk.home? "everyday life (you choose the situation)" : st.title,
+    focus: pk.home? st.title : "", words:(st.learn||[]).map(w=>w.en), mistakes:mistakesOf(ex)}));
   if (st.lines) v.append(h("details",{class:"learn"}, h("summary",{}, h("span",{class:"grow"},"Show the script"), svg(IC.chev,"chev")),
     h("div",{class:"learn-body"}, h("p",{class:"tiny muted"},"Read it after answering to find what you missed."),
       ...st.lines.map(l=>h("div",{class:"line"}, h("b",{},l.who+":"), h("span",{},l.text))))));
